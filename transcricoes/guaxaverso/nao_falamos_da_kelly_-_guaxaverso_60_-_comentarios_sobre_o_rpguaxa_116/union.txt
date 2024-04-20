@@ -1,0 +1,2563 @@
+0 9460 (00) Se eu pegar essa ilha e esse helicóptero, e aí tudo faz sentido, porque aqui tem um zumbi e ali não tinha, e agora?
+10120 15000 (00) É isso! É isso! Eu sabia! Eu sabia! O Guaxaverso existe!
+15120 15960 (05) Como assim?
+16180 18000 (05) Você entendeu a referência do último episódio?
+18240 18980 (00, 05, 01) Olha só, faz tudo!
+18980 20020 (01, 05, 00) Não, o Guaxaverso sabe o que faz!
+20020 20960 (01, 05) Espera, o que é o Guaxaverso?
+21000 22980 (01, 05) Era só uma questão de tempo.
+23080 24520 (01) O Guaxaverso sempre existiu!
+24520 27180 (01, 05, 02) Eu quero entender o Guaxaverso!
+27220 28560 (01, 05) Alguém me explica o que é o Guaxaverso?
+28560 32020 (00, 05, 02) É, pessoal, não existe o Guaxaverso.
+32100 33720 (00) Eu acredito no Guaxaverso!
+33760 36560 (02) Mas, supondo que ele exista...
+37880 41560 (00) Guaxaverso, onde o que não existe é debatido.
+50880 52880 (04) Isso não vai dar certo.
+53200 54600 (01) É claro que vai!
+55220 56840 (01) Já viu coelho buscar vareta?
+56840 58220 (01) Um tigre?
+58560 64560 (01) Bom, talvez o tigre busque, mas deve ser complicado de ensinar.
+64560 67560 (01, 06) Será que muita gente morreu tentando?
+67560 68560 (01, 06) Tia!
+68560 69560 (01) Tá, desculpa.
+69560 74560 (01) Veja bem, o animal que aprende truques mais rápido é o cachorro.
+74560 76560 (01) E essa é a sua vantagem.
+76560 78560 (01) Pensa nisso como um treinamento.
+78560 82560 (01) Você tem vinte e quatro horas para dominar a técnica que está nesse livro.
+82560 85560 (01, 05) Mas, esse livro é um dicionário.
+85560 86560 (01) Não é só isso.
+86560 87920 (01) Do lado das palavras, tem a pronúncia do livro.
+87920 88920 (01) Tem a pronúncia delas.
+88920 91920 (01) E, no final, tem dicas de gramática.
+91920 95920 (01) Você decora tudo durante o voo e não vai ter problemas durante essa missão.
+95920 96920 (01, 04) Tá bom.
+96920 98920 (04) Não vale a pena discutir.
+98920 101920 (01, 04) Chegando lá, eu vou nesse endereço e nessa escola.
+101920 102920 (01) Isso.
+102920 105920 (01) Vai até a escola e acaba com os ratos.
+105920 109920 (unknown) Vai, tia.
+109920 112920 (unknown) Pessoa Beer.
+112920 114920 (unknown) Show.
+114920 120920 (02) Gente, eu tenho terem lokas ao ar.
+120920 124920 (02) A nossa base do trabalho tá coisas diferentes.
+124920 126920 (02) Por isso que não tenho tempo pra pensar.
+126920 127920 (02) Desculpa.
+127920 130920 (02) Podem cortar.
+130920 132920 (02) E aí?
+132920 139880 (02) Quas116, Os Cavaleiros do Bicho, A Nova Geração, 2 pontos, O Coelho e a Tiazinha.
+140360 143140 (02) Eu estou aqui hoje com o Dr. Patrick.
+143520 147240 (07, 02) Não, Dr. não. Patrick. Só Patrick.
+147240 150760 (07, 02) Com a nossa querida Nibitique, que jogou o último episódio.
+150860 152500 (02) É a primeira vez que ele está aqui no Guaxaverso, né?
+152860 154780 (02) Antes de mais nada, como é que as pessoas te acham na internet?
+155160 157100 (07, 02) Então, vocês me acham no rpguaxa.
+157140 157420 (07) Isso.
+158060 159180 (07) No Sycash.
+159380 159720 (07) Isso.
+159720 166460 (07, 02) E as quintas-feiras, vocês me acham na twitch.tv barra playonheart, jogando RPG.
+166680 169620 (02) É, aqui a gente só lê comentário lá e ele realmente joga RPG.
+170320 171900 (02) Como é que tu conheceu o rpguaxa?
+172120 175180 (07, 02) Tu está desde o primeiro, tu veio no meio, como é que tu veio até aqui?
+175200 179720 (07, 02) Não, eu vim no meio, quem me apresentou o rpguaxa foi um grande amigo chamado Guilherme Sansone.
+180620 180860 (03) Tá.
+181120 184100 (07) Que é padrinho também. É um padrinho quietinho, mas é padrinho.
+184640 188100 (07) Ele me apresentou o rpguaxa e o RPG Next.
+188100 189400 (07) E aí eu comecei.
+189400 191100 (07) Do primeiro e tô aqui, né?
+191480 194860 (07, 02) Tu começou primeiro do RPG Next ou do rpguaxa?
+195040 195440 (02) Dos dois.
+195860 197420 (02) Ao mesmo tempo, tu deu play nos dois.
+197840 198900 (02) Sim, eu fico alternando.
+199300 200360 (02) Mas um foi primeiro.
+200840 203080 (02) Eu sou padrinho do RPG Next, inclusive.
+203660 207840 (02) Antes de mais nada, a menos que algo dê errado, já deixo confirmado aqui.
+208360 211240 (02) Dia 27 de abril, eu faço aniversário dia 26.
+211680 214360 (02) Então dia 27 é o primeiro episódio do nosso mês de aniversário.
+214880 217040 (02) Cavaleiros do Bicho, episódio 2.
+217040 218380 (02) Da nova geração.
+218760 219380 (02) Gostei muito.
+219400 222220 (02) Ele vai abrir o mês de aniversário do RPG Guaxa.
+222340 227160 (02) E se tudo deu certo, esse Guaxa Verso tem uma cena pós-créditos.
+227460 229540 (02) Não aqui na Twitch, porque a gente tá aqui ao vivo, né?
+230220 231740 (02) Mas no episódio editado.
+232080 236140 (02) Tem a cena pós-créditos que se passa depois do episódio 2.
+236540 239620 (02) Então, o episódio 2 só em 27 de abril do ano que vem.
+240160 241520 (02) E já confirmo que algum...
+241520 243000 (02) Não, não tô dizendo que é o episódio 3.
+243100 247120 (02) Vai ter que ouvir o nosso Guaxa Verso pra saber o que é.
+247120 249140 (02) Mas algo com os cavaleiros.
+249140 252500 (02) Ainda teremos depois do episódio do dia 27.
+252820 254020 (02) Já tá avisado.
+256060 258980 (02) Eu gostei de saber, porque eu adorei jogar esse episódio.
+259520 259880 (02) Justo.
+260620 262600 (02) Continuação do episódio da Kelly ou do Cavaleiros do Bicho?
+262920 263160 (02) Sim.
+263620 263800 (02) Não.
+265580 267880 (02) Pessoal, como eu falei, a gente tá gravando ao vivo.
+267960 269060 (02) Não vai ter cena pós-crédito aqui.
+269140 271280 (02) O pessoal tá gravando ainda, botando uma pastinha pra mim.
+271760 274300 (02) A gente tá gravando na twitch.tv.rpguxa.
+274640 277000 (02) Segue pra ser notificado quando tiver a leitura de comentários.
+277000 279000 (02) Na semana seguinte...
+279140 279880 (02) Deu certo também.
+280360 282740 (02) Na semana seguinte, normalmente segunda ou terça,
+283140 284860 (02) a gente faz a leitura de comentários.
+285080 287380 (02) Então, numa quinta tem episódio normal.
+287860 289840 (02) Na semana que vem, na segunda ou na terça,
+290300 291660 (02) normalmente às oito e meia,
+292000 294180 (02) a gente tem a leitura de comentários.
+294580 298060 (02) Então, deixa o comentário lá no post, no deviant.com.br, né?
+298420 300260 (02) Procura o episódio da vez.
+300700 303520 (02) Deixa o comentário lá, que ele vai ser lido aqui.
+304540 307340 (02) Além disso, além de seguir a gente na twitch,
+307340 308840 (02) outra coisa que seria bacana,
+308840 309840 (02) você pensar em fazer,
+309840 310840 (02) ser nosso padrinho.
+310840 312840 (02) A partir de um real, você tá ajudando.
+312840 314840 (02) Hoje eu recebi dois de um real.
+314840 316840 (02) Agradeço muito as duas pessoas.
+316840 318840 (02) São duas pessoas, né?
+318840 320840 (02) Já são dois reais.
+320840 322840 (02) Mas, assim, a partir de dez reais,
+322840 325840 (02) você vai receber um link por e-mail.
+325840 327840 (02) Às vezes demora uma semana pra te receber, gente.
+327840 328840 (02) Pelo amor de Deus, me deixa.
+328840 330840 (02) Eu não tenho ninguém pra fazer isso.
+330840 331840 (02) Eu faço do e-mail, sou eu que faço.
+331840 333840 (02) Vai receber o link, vai lá pro grupo do Telegram.
+333840 335840 (02) Tem um grupo gigante, né?
+335840 337840 (02) Que é o nosso grupo principal.
+337840 339840 (02) E tem grupos menores pra discutir outros temas.
+339840 342840 (02) Pra não ter que discutir o One Piece da semana.
+342840 346840 (02) Lá no grupo principal, a gente tem o grupo do Gostinho Otaku.
+346840 348840 (02) Tem o grupo do pessoal do Gamer.
+348840 351840 (02) Tem o pessoal que é dos Spoilers.
+351840 353840 (02) Que grupos tu participa, Patrick?
+353840 354840 (02) Vamos lá.
+354840 355840 (03, 07, 02) Taberna, né?
+355840 356840 (03, 07) Grupo de Spoilers.
+356840 357840 (07) Grupo do Otaku.
+357840 359840 (07) Grupo do Gamer.
+359840 361840 (07) O de marcar mesa, eu tô ali...
+361840 363840 (07) Eu falo muito pouco do pessoal.
+363840 365840 (07) É insano marcando mesa.
+365840 366840 (06, 07) Sim.
+366840 367840 (07) Mas hoje em dia tem.
+367840 369840 (07) Em horários bizarros, inclusive.
+369840 371840 (07) Um abraço, Ju.
+371840 373840 (07) O de fofoca.
+373840 375840 (07) O de coisas de casa.
+375840 378840 (07) Panelas de perrengues, goteiras e gambiarras.
+378840 379840 (07, 02) São poucos, né?
+379840 380840 (07, 02) É, não.
+380840 381840 (02) Tem milhares, gente.
+381840 382840 (02) Tem de idioma.
+382840 383840 (02) Tem um monte de coisa ali que...
+383840 385840 (02) Que você pode participar só de ser padrinho.
+385840 386840 (02) Da época, eu acho.
+386840 388840 (02) Olha, tem mesa pro...
+388840 392840 (07, 02) Tem um grupo de mesa pra os guachimirins.
+392840 394840 (07) Criado pelo nosso amigo Anderson Katamari.
+394840 395840 (07, 02) Sim, verdade.
+395840 396840 (07, 02) Kamatari.
+396840 399840 (07) O Guacha falou errado uma vez e me quebrou.
+399840 400840 (07) Kamatari.
+400840 401840 (07) Haha!
+401840 402840 (07) Tu tá terceirizando teu erro.
+402840 403840 (07) Não faz isso, não.
+403840 404840 (07) Esse é o problema.
+404840 405840 (07) É...
+405840 406840 (07) Tá organizando lá.
+406840 408840 (07) Tá tendo mesa direto com as crianças.
+408840 412840 (07) Então, assim, se vocês têm crianças que têm interesse ou vocês querem mostrar RPG
+412840 418840 (07) pra eles, tragam eles pro grupo do Anderson pra gente fazer essa comunidade de RPG cada
+418840 420840 (07) vez maior e cada vez melhor.
+420840 421840 (07, 02) Se você quiser jogar...
+421840 423840 (02) Nunca jogou e quer jogar, você vai encontrar mesa.
+423840 424840 (02) Se você já jogou e quer jogar mais, vai encontrar mesa.
+424840 431840 (02) Você é menina, teve uma experiência ruim no passado, vai lá e pede um grupo só de
+431840 432840 (02) menina.
+432840 433840 (02) A mestra menina...
+433840 434840 (02) A Ju vai mestrar pra ti.
+434840 435840 (02) Uma...
+435840 436840 (02) Ou tem outra...
+436840 437840 (02) A Lu também.
+437840 438840 (02) Mas cuidado com a Lu.
+438840 439840 (02) É...
+439840 440840 (02) Uma das meninas vai mestrar pra ti.
+440840 441840 (02) Vai ter só menina jogando contigo.
+441840 442840 (02) Pra te sentir confortável.
+442840 443840 (02) O que tu quiser.
+443840 444840 (02) Sabe?
+444840 447840 (02) A ideia lá sempre é ser um espaço seguro pra todo mundo.
+447840 448840 (02) Então seja nosso padrinho.
+448840 452840 (02) Você recebe o episódio antes, você faz voz de NPC.
+452840 453840 (02) Eu só conheço o padre aqui.
+453840 454840 (02) Por conta do grupo de padrinhos, né?
+454840 455840 (02) Senão como é que eu ia conhecer alguém do Rio...
+455840 456840 (02) Quer dizer, a minha esposa é do Rio de Janeiro.
+456840 457840 (02) Talvez um dia eu iria estar no Rio de Janeiro, a gente ia se encontrar, ia se olhar e...
+457840 458840 (02) Porra, não ia falar nada, gente.
+458840 459840 (02) Ah, é ruim.
+459840 460840 (02) Eu sou uma pessoa estranha.
+460840 461840 (02) Eu falo com pessoas na rua.
+461840 462840 (02) Eu sou...
+462840 463840 (02) Eu sou a alegria dos velhinhos no mercado, cara.
+463840 464840 (07, 02) Não, eu não falo nem com pessoas conhecidas, quanto mais estranho.
+464840 465840 (07) Não, eu sou a alegria dos velhinhos.
+465840 466840 (07) Querem falar com alguém, eles olham pro lado, olham pro outro, olham pra mim e já falam
+466840 467840 (07) aquele ali.
+467840 468840 (07) Aí já era.
+468840 469840 (07) Eu começo a conversar com eles.
+469840 470840 (07) Mas se tu quiser amizades, quiser...
+470840 490840 (07, 02) Conhecer pessoas, qual é a relação do nosso querido Eric e da Mc Juliette?
+490840 495880 (02) Você só vai descobrir se entrar no grupo de padrinhos.
+495880 497640 (02) Outra forma de ajudar a gente...
+497640 498640 (02) Redes sociais.
+498640 499640 (02) Tega a gente no Twitter.
+499640 500640 (02) Arrouba marcelagostin.
+500640 500680 (02) Arrouba marcelagostin.or.br.
+500840 502600 (02) Segue a gente no Instagram
+502600 506820 (02) É isso?
+507240 507800 (02) É isso
+507800 510840 (02) Vamos ler então os comentários do povo
+510840 512600 (02) Vamos que vamos
+512600 516120 (07, 02) Você quer que eu comece?
+516200 518820 (07) Já vi que tem dois ímpares que estão com o ver mais
+518820 521140 (07, 02) Você quer que eu comece?
+521140 521800 (07) Então eu começo
+521800 523760 (07, 02) Eu vou ser bonzinho com você
+523760 525880 (07) Devo me arrepender em algum momento?
+526040 527460 (03, 07, 02) Eu já não sei dizer
+527460 529840 (07) Começando por ele
+529840 532200 (07) Jorge Marcos Santos Silva
+532200 535160 (07) Deus meu, que episódio
+535160 536800 (07) Que continuação
+536800 538080 (07) Que não é uma continuação
+538080 540820 (07) Porque o Guaxa insiste em dizer que o Guaxaverso não existe
+540820 543260 (07) Além dos jogadores que foram incríveis
+543260 544940 (07) E da narrativa que foi magnífica
+544940 547060 (07) Meus mais profundos parabéns ao editor
+547060 548680 (07) Que, meu Deus
+548680 550600 (07) Como mandou bem nesse episódio incrível
+550600 552500 (07) Vou parar de rasgar cedo aqui
+552500 554520 (07) Mas é que foi incrível mesmo
+554520 555880 (07) Spoilers
+555880 558920 (07) Bem, as principais perguntas o próprio Sr. Guaxinim
+558920 559680 (07) Já fez no escudo do médico
+559840 560960 (07) Mas e aí?
+561400 563720 (07) Nenhuma possibilidade de resposta para nenhuma delas?
+564200 564780 (07) E aí, Guaxa?
+565600 567860 (07, 02) Não sei, tenta
+567860 569720 (02) Como o Pedro se tornou presidente?
+570720 572420 (02) Eu espero com uma eleição direta
+572420 575100 (02) Por que eles se separaram?
+576040 577920 (02) Assim, no episódio dá pra entender
+577920 579920 (02) E eu não vou me aprofundar muito nisso
+579920 580960 (02) É que
+580960 584200 (02) O Pedro, ele acha que as armaduras
+584200 585180 (02) Têm que ficar separadas
+585180 586500 (02) Que é muito poder pra estar junto
+586500 589800 (02) E aparentemente a Anísia
+589800 591200 (02) Não concorda
+591200 593420 (02) A gente vai explorar isso mais em episódios futuros
+593420 594640 (07, 02) O que houve nesse universo
+594640 596620 (07) Que abalou tudo tão fortemente
+596620 599080 (07, 02) Por favor, Guaxa, nos ilumine
+599080 602020 (07, 02) O quanto falasse sem entregar
+602020 603800 (02) A próxima vez toda está escrita toda já
+603800 606160 (02) Então assim, o que aconteceu
+606160 608040 (02) Aconteceu todos os eventos dos primeiros
+608040 609900 (02) Trilogia em quatro partes
+609900 612140 (02) Porque o último episódio é um episódio só em duas partes
+612140 614320 (02) E ao final, o bem venceu
+614320 616520 (02) O mal foi derrotado, as armaduras estavam juntas
+616520 617900 (02) Só que era muito poder
+617900 619160 (02) Sem um inimigo em comum
+619160 620500 (02) Pra ser derrotado
+620500 622980 (02) Se criou um problema
+622980 625320 (02) Ficou com medo de estar atraindo
+625320 626940 (02) Forças ainda maiores
+626940 629180 (02) Pra aquela região
+629180 631080 (02) Então se dividiu
+631080 633600 (02) As armaduras em morros
+633600 634300 (02) Entre aspas
+634300 637500 (02) Porque nem todas estão em morros, nem todas estão em Laguna de Abril
+637500 639600 (02) Algumas estão em outros
+639600 642240 (02) Lugares dessa União dos Estados Brasileiros
+642240 643360 (02) Incluindo a do Burro
+643360 643820 (02) Que estava
+643820 646880 (03, 02) Em Gorjel
+646880 648660 (03, 02) Em Gorjel
+648660 649680 (02) Burro em Brasília
+649680 651420 (02) Tinha um
+651420 654340 (02) O Burro estava em Gorjel, por exemplo
+654340 656360 (02) E existem outras armaduras
+656360 658680 (02) Mas a gente vai ver isso
+658680 660240 (02) Em outros episódios
+660240 661660 (02) Vai explorar outras coisas
+661660 662880 (02) Tem São Paolo
+662880 664900 (02) Episódio 2 do Cavaleiros Originais
+664900 668080 (02) Será que teremos uma viagem pra São Paolo?
+668160 669740 (02) Vamos ter que esperar a continuação
+669740 672300 (07, 02) Mas se preferir responder com uma nova trilogia
+672300 673940 (07) Olha, eu não me importo
+673940 675060 (07) Nem eu, fica à vontade
+675060 676040 (07) Perfeito
+676040 678120 (07) E as demais pessoas que possuem armaduras
+678120 678880 (07) Nas outras cidades
+678880 680200 (07) E uma pergunta à parte
+680200 683560 (07) Neste universo, qualquer um com o direcionamento e treino certo
+683560 685340 (07) Pode manifestar tamanho e poder
+685340 687960 (07) Ou apenas os com a centelha do protagonismo?
+688440 689080 (07, 02) Boa pergunta
+689080 689520 (02) Assim
+689520 692220 (02) Eu nunca pensei sobre isso
+692220 694600 (02) Mas eu imagino que
+694600 696980 (02) Qualquer um que treine com o mestre
+696980 699080 (02) Que tenha esse protagonismo
+699840 701740 (02) Ela passa a ter também
+701740 702920 (02) Então talvez
+702920 705160 (02) Ele possa ser passado
+705160 707820 (02) Não só por ligação sanguínea
+707820 709320 (02) Como de um para os outros
+709320 710380 (02) E algumas pessoas
+710380 712400 (02) Simplesmente nascem com o dom
+712400 713560 (02) Que obra de arte
+713560 714820 (07, 02) Ainda estou besta, viu?
+715320 716880 (07) Foi uma continuação sensacional
+716880 718060 (07) E espero de coração
+718060 719660 (07) Que seja pelo menos
+719660 721040 (07) Mais uma trilogia
+721040 723180 (07) Com talvez dois episódios em duas partes
+723180 725080 (07) Formando uma trilogia de cinco episódios
+725080 725880 (07) Nada mal
+725880 727160 (07) E, ao meu ver
+727160 729140 (07) Com histórias incríveis como essas
+729140 731980 (07) Só incentiva novos ouvintes a ouvir mais histórias
+731980 732760 (07) E serem padrinhos
+732760 733960 (07) Sejam padrinhos, amigos
+733960 735080 (07) Vale muitíssimo a pena
+735080 736820 (07) Acredito que por hoje é isso
+736820 737800 (07) Forte abraço a todos vocês
+737820 739520 (07) Força e luz para todos nós
+739520 740200 (07) E até mais
+740200 742800 (07, 02) Forte abraço e força e luz, meu querido
+742800 743740 (07, 02) Obrigado, querido
+743740 745180 (02) Muito obrigado pelo comentário
+745180 746840 (02) E assim, meu problema é realmente
+746840 748400 (02) A ideia lá atrás
+748400 749700 (02) O Patrick, quando começou
+749700 750940 (02) Ele citou RPG Next
+750940 752240 (02) Que é uma das minhas inspirações
+752240 754980 (02) Só que quando eu ouvi o RPG Next
+754980 756300 (02) Comecei a pensar como seria
+756300 757940 (02) O meu podcast de RPG
+757940 759060 (02) Eu pensei
+759060 760920 (02) Porra, uma coisa é o 47
+760920 763180 (02) Ficar 90 episódios
+763180 764120 (02) Com a mesma equipe
+764120 765280 (02) Contando a mesma história
+765280 767320 (02) Outra sou eu, assim
+767320 768900 (02) E eu fiquei pensando
+768900 771380 (02) E se o episódio 6 for uma bosta
+771380 772580 (02) E as pessoas não voltarem
+772580 775160 (02) E se, sei lá, eu brigar com uma das pessoas
+775160 776320 (02) Uma das pessoas brigar comigo
+776320 778700 (02) Ou não der mais pra fechar a agenda
+778700 780180 (02) É ansiedade, gente
+780180 780880 (02) Começou a atacar
+780880 783400 (02) E se eu quiser contar uma outra história
+783400 785540 (02) Será que o grupo original vai ficar chateado
+785540 788300 (02) Assim, eu comecei a ter um monte de inspiração
+788300 789280 (02) E principalmente assim
+789280 790440 (02) Pô, chegou um ouvinte novo
+790440 792720 (02) O último episódio que saiu é o 69
+792720 794840 (02) Ele vai voltar lá pro primeiro
+794840 796840 (02) E o primeiro nem sempre é o melhor, né
+797320 798540 (02) Sei lá, eu tava com um monte dessa loucura
+798540 800060 (02) Então a ideia do RPG
+800060 800980 (02) Eu acho que quando ele surgiu
+800980 804660 (02) Era realmente ter episódios
+804660 806420 (02) Que fossem fechados entre si
+806420 809700 (02) Embora logo, assim, lá pro episódio 2, 3
+809700 811420 (02) Eu tinha uma ideia
+811420 814120 (02) Que no começo eu chamava de biblioteca
+814120 816960 (02) E que depois foi rebatizado de guachaverso
+816960 819280 (02) Mas eu já tinha uma ideia, assim
+819280 823500 (02) De ter algum fio condutor, né
+823500 825460 (02) Que no fim eu desisti
+825460 826180 (02) E não existe o guachaverso
+826180 826680 (03, 02) Como não?
+826680 828280 (02) A gente não tá gravando ele?
+828700 830180 (02) Ah, é verdade, é o episódio
+830180 832180 (02) O fato é que
+832180 834680 (02) Eu fico muito preocupado em fazer continuações
+835300 836380 (02) Diretas
+836380 839100 (02) Uma coisa é tu repetir personagens e contar uma outra história
+839100 839960 (02) A outra
+839960 842260 (02) O próximo episódio começa
+842260 843780 (02) Onde terminou esse, gente
+843780 846520 (02) Ele vai ter um ciclo de início, meio e fim
+846520 848700 (02) Mas ele vai ser muito melhor aproveitado
+848700 850520 (02) Pra quem souber como foi que cada um deles
+850520 851420 (02) Parou com a armadura
+851420 854180 (02) Sei lá, tem pontas e outras
+854180 856000 (02) Que a gente acha que vai explorar aqui hoje ainda
+856000 856580 (02) A conversar
+856680 859000 (02) E que eu quero trazer de volta, né
+859000 860660 (02) Então, é isso
+860660 861940 (02) Eu já falei demais
+861940 863140 (02) Então eu vou ler o próximo comentário
+863140 864940 (02) Que é do Felipe Augusto de Oliveira
+864940 865500 (02) Ele coloca
+865500 873620 (02) Agora sim, que daí são vocês que estão aí no chat
+873620 874780 (02) O pessoal que tá ouvindo editado
+874780 876480 (02) Que talvez seja a mesma pessoa, inclusive
+876480 879860 (02) Eu gosto mais do que se você tá no chat e ouve editado
+879860 881560 (02) Eu gosto mais de você do que de todos os outros
+881560 883520 (02) Episódio incrível
+883520 884740 (02) Biscoitos pro guacha
+884740 886140 (02) Jogadores e editor
+886140 887780 (02) A cena do café da manhã
+887780 889900 (02) Foi uma das coisas mais engraçadas que já ouvi
+889900 891360 (02) Quase bati o carro
+891360 893260 (02) Desculpa
+893260 895900 (02) Depois da primeira luta com os irmãos
+895900 897620 (02) Marcelo e a
+897620 899020 (02) Bisavó, arriscado
+899020 902020 (02) Tiazinha, sobe nas costas
+902020 903500 (02) Do Flávio e começa a sangrar
+903500 905980 (02) Já criei toda uma fanfic na minha cabeça
+905980 908100 (02) De ela estava morrendo devido a alguma
+908100 909100 (02) Doença ou maldição
+909100 911220 (02) E que não poderia lutar mais
+911220 913860 (02) E aquela demonstração de força foi só pra assustar
+913860 915940 (02) Os irmãos Marcelo, mas aí a ficha cai
+916140 918580 (02) E no final a tia é só uma velha tarrada
+918580 921800 (02) Talvez seja a sonhada demais
+921800 922860 (02) Mas queria um crossover
+922860 924580 (02) Entre Cavaleiros do Bicho
+924580 926120 (02) Los Luteadores
+926120 929000 (02) E as Guerreiras Mágicas do Guaxinim
+929000 930120 (02) Eu super top
+930120 931460 (02) Querido, continue aí
+931460 933680 (03, 02) Muito obrigado pelo seu comentário
+933680 935180 (07, 02) E pode seguir
+935180 938940 (03, 07, 02) É isso, e o próximo comentário é do Jean Macedo
+938940 940240 (02) Eu só queria
+940240 942820 (02) Pontuar o absurdo que é
+942820 945440 (02) O jogador que só comenta no episódio que jogou
+945440 945700 (07, 02) E eu só queria pontuar o absurdo que é o jogador que só comenta no episódio que jogou
+945700 945780 (07) E eu só queria pontuar o absurdo que é o jogador que só comenta no episódio que jogou
+945780 946020 (07) E eu só queria pontuar o absurdo que é o jogador que só comenta no episódio que jogou
+946140 948280 (07) a querer comentar que o comentário
+948280 950220 (07) do Jean é gigantesco
+950220 951140 (07) como ver mais, hein?
+951700 954160 (07, 02) Assim, eu falei que o próximo Cavaleiros
+954160 956220 (02) começa logo depois desse. Desculpa,
+956300 958540 (02) descorrigi. O Cavaleiro do Cachorro
+958540 960200 (02) morre em off e daí
+960200 961360 (02) começa o próximo episódio.
+962360 964160 (02) O Cavaleiro do Cachorro vai
+964160 965380 (07, 02) falar um request nele, né?
+965780 968220 (07, 02) De repente ninguém vai notar. Vai ter
+968220 969140 (02) o Fencas, né?
+969840 972400 (07, 02) Cresceu o Fencas. Cresceu, de repente,
+972480 973920 (07) o Cavaleiro, né? Ficou gigante.
+973920 1003900 (07) Vamos lá.
+1003920 1005360 (07) Lembra que o nosso novo trio de Cavaleiros
+1005360 1007380 (07) veio se encontrar novamente com esse brucutu
+1007380 1008520 (07, 02) sedento por vingança?
+1008640 1011220 (07, 02) Ele não morreu. Não há corpo.
+1011500 1013700 (02) Se não há corpo, não há morte.
+1014360 1014720 (07, 02) Mas...
+1014720 1018120 (07, 02) Não sei se ele vai aparecer de novo.
+1018620 1019460 (02) Vamos aguardar.
+1019560 1022080 (07) A amiga que a tiazinha foi visitar seria a Cris?
+1022220 1023300 (07) Eu fiquei pensando nisso também.
+1024340 1026140 (07) Descobriremos numa provável continuação.
+1026500 1027260 (07, 02) Eu chutaria que sim.
+1028120 1029920 (07) No início do episódio, é dito que
+1029920 1031820 (07) dois dos três elementos mais perigosos
+1031820 1033740 (07) do universo começarão uma nova guerra.
+1033920 1035040 (07) A juventude e o amor.
+1035460 1036520 (07) Qual seria o terceiro elemento?
+1037020 1039220 (07, 02) Com todo respeito, seria o corvo?
+1039960 1040860 (07, 02) Eu só tô lendo.
+1041420 1043860 (02) Eu não sei qual é o terceiro. Quer dizer, eu sei qual é o terceiro elemento,
+1043980 1044520 (02) mas vamos esperar.
+1045220 1046760 (07, 02) Mas é o corvo ou não? Não é o corvo.
+1046860 1048760 (07, 02) O corvo não é elemento, ele é um pássaro.
+1049840 1051780 (02) Ou um avião. Não, ele é só um pássaro.
+1052520 1053560 (07) Terceiramente, queria dizer
+1053560 1055920 (07) aos ouvintes que estou feliz pelo Guaxa ter mencionado
+1055920 1057200 (07) no grupo de esposa da taberna
+1057200 1060000 (07) que a ideia para o crossover entre Cavaleiros do Bicho
+1060000 1061700 (07) e Guerreiras Mágicas é real.
+1062160 1063900 (07) E da tabela, já vou citar o crossover,
+1063920 1065980 (07) que eu vi o povo fifi fuchicando por aí
+1065980 1067940 (07) como possibilidade. CDB
+1067940 1069760 (07) ou Guerreiras Mágicas em Acapulco,
+1069920 1072000 (07) crossover com os Los Luchadores,
+1072540 1073960 (07) a lendária aposta de barra
+1073960 1076360 (07) de Anísia e Boba, a disputa dos pupilos,
+1076800 1078120 (07, 02) a Shelly aprovou essa ideia.
+1078340 1079320 (02) Los Luchadores,
+1080040 1081920 (02) possível, mas improvável.
+1082220 1084120 (02) Boba, no mesmo universo
+1084120 1086200 (02) que a Anísia, é completamente
+1086200 1087980 (02) improvável e não
+1087980 1089860 (02) vai acontecer, pelo menos
+1089860 1090380 (02) por enquanto.
+1091500 1092580 (07, 02) Quero só ressaltar
+1092580 1093380 (07) que eu gostaria de dizer improvável,
+1093920 1095720 (07, 02) e assim, existe um crossover
+1095720 1097560 (02) que vocês querem,
+1097980 1099360 (02) vocês só não sabem ainda.
+1100000 1103500 (02) Um grupo que vocês vão
+1103500 1104360 (02) querer um crossover,
+1104880 1106360 (02) mas vocês não sabem ainda.
+1106600 1107360 (02) Interessante, hein?
+1107820 1108820 (02) Vamos lá, finalizando.
+1109080 1111840 (07) Como disse antes, sou completamente grato a você,
+1112000 1113960 (07) Guaxa, por participar dessa história
+1113960 1115660 (07) que tem um significado muito especial para mim.
+1116120 1118120 (07) Desculpe repetir a ladainha e os agradecimentos.
+1118480 1119620 (07) É que é especial mesmo.
+1120120 1121920 (07) Não apenas pela nostalgia da infância.
+1121920 1123900 (07) O RP Guaxa e o primeiro Cavaleiro
+1123900 1125680 (07) do Bicho salvaram a minha cabeça de uma época
+1125680 1127900 (07) complicada, incerta e de
+1127900 1129540 (07) pensamentos sombrios. Então,
+1129800 1131340 (07) a vontade de agradecer o tempo todo.
+1131620 1133940 (07) Fico me segurando para não parecer um bocó.
+1134360 1135880 (07) Mas é incrível como algo simples
+1135880 1137900 (07) e bem feito assim muda completamente
+1137900 1139340 (07) o humor da gente num dia ruim.
+1139780 1141740 (07) É uma honra trazer o Eric para se tornar um
+1141740 1143080 (07) cavaleiro em Laguna de Abril.
+1143500 1146000 (07) Espero que a Priscila, da Ágata, a Cristina,
+1146220 1147880 (07) da Sinara, seu Jorge,
+1148160 1149200 (07) do Jefferson,
+1149200 1150960 (07) a Anísia, da Shelly,
+1151200 1153020 (07) Cris, da Thaís e Pedro,
+1153900 1155720 (07) tenham se orgulhado do legado
+1155720 1156760 (07) passado aos pirralhos.
+1157020 1159880 (07) É, o Pedro, tô um pouco na dúvida se ele gostou muito
+1159880 1161840 (07) disso, né? Sem contar no prazer
+1161840 1163820 (07) que é jogar com essas duas pessoas maravilhosas.
+1163880 1166000 (07) O Tique, eu, que eu viajei
+1166000 1167840 (07) pra São Paulo com ele, a Lívia,
+1168040 1170260 (07) senhora Tica, e a Rebel Bia,
+1170380 1172060 (07, 03) a maravilhosa voz da Juliette
+1172060 1173320 (07, 03) e minha excelentíssima.
+1174380 1174880 (07) Pois é.
+1175560 1177900 (07) E tive a oportunidade de conhecer melhor esse cara
+1177900 1179760 (07) profissional, animado e hiperativo
+1179760 1181860 (07) que ele é. Eu não sou... Ah, não, eu sou hiperativo.
+1181860 1183880 (07) E a Ju, que é uma amiga querida,
+1183960 1186220 (07) é a primeira pessoa que me abraçou quando cheguei
+1186220 1188060 (07) e que falo abertamente pra todo mundo.
+1188420 1189840 (07) É a minha pessoa preferida
+1189840 1191860 (07) da taberna. Talvez por isso esse grupo
+1191860 1193940 (07) tenha dado uma liga tão boa. Foram três
+1193940 1195880 (07) jogadores que costumam conversar, se zoar
+1195880 1197740 (07) e jogar no dia a dia. E é por causa
+1197740 1199880 (07) desse tipo de amizade que surgiu na minha
+1199880 1202040 (07) vida, que serei eternamente em dívida
+1202040 1203100 (07) com esse povo da taberna.
+1203280 1205040 (02) Assim, só comentando rapidinho,
+1205560 1208020 (02) eu não sei quem é essa Ju que ele comentou,
+1208180 1209720 (02) mas tudo bem, deve ser alguém da taberna.
+1209720 1210740 (02) Deve ser uma madrinha nova.
+1211260 1213720 (07, 03, 02) Ah, acho que chegou recente. Entrou uma Juliana hoje.
+1213900 1214900 (03, 02) Inclusive. Sim.
+1215540 1217140 (02) Mas essa Ju,
+1217760 1219620 (02) pra esse episódio, ela...
+1219620 1221740 (02) Eu tava com... Assim, é um episódio
+1221740 1223560 (02) realmente muito especial pra mim.
+1223880 1225560 (02) E eu tava com mil ideias
+1225560 1227860 (02) e eu tava discutindo qual... A Ju me
+1227860 1229580 (02) ajudou no cast desse episódio.
+1229960 1231260 (02) Ela sugeriu um monte de gente.
+1231660 1234020 (02) Então talvez ela tenha sugerido você aí que tá ouvindo
+1234020 1235380 (02) e ficou chateado e não tá no episódio.
+1235820 1237980 (02) Então a culpa é dela. A culpa é minha que escolhi.
+1238680 1239980 (02) Obviamente por vários
+1239980 1241920 (02) critérios, mas uma das coisas que
+1241920 1243540 (02) pesou pra mim foi o fato
+1243900 1245940 (02) do Tic e o Jean já terem
+1245940 1247840 (02) algum tipo de... De serem amigos,
+1247920 1250040 (02) de ter alguma relação, antes do episódio
+1250040 1251880 (02) ser gravado. Isso é uma coisa que assim,
+1251980 1253920 (02) porra, são amigos, né? Então isso
+1253920 1255460 (02) já ajuda de qualquer forma.
+1256040 1258000 (02) E já que ele deu spoiler ali,
+1258500 1260200 (02) a Bia e o
+1260200 1261720 (02) Jean se conheceram na taberna.
+1262380 1263360 (02) Fica aí a informação.
+1263920 1265360 (07, 02) Mais um casal formado na taberna.
+1265360 1267820 (07, 02) O Jean... Não, eu convidei a Bia, não foi o Jean.
+1267820 1269160 (02) Eu convidei a Bia
+1269160 1271240 (02) pra jogar, tá?
+1271700 1273360 (02) Com Debbie e Fencas.
+1273900 1275980 (02) E até a visita do Jean.
+1276120 1277520 (02) Nossa, eu desmarcava.
+1277540 1278680 (02) Eu também, facilmente.
+1278840 1281100 (07, 02) Se fosse comigo...
+1303900 1307940 (07) Um beijo a todos, principalmente a você, Guaxa,
+1308140 1310200 (07) e aos meus querides irmão e irmã.
+1310620 1311400 (07) Um beijo, meu amigo.
+1312220 1314100 (07) Repetindo meu primeiro comentário que fiz
+1314100 1316080 (07) pra um RPG Guaxa. Que a música prevaleça
+1316080 1317820 (07) sempre e que seus cosmos
+1317820 1320300 (07) queimem ao infinito e eternamente. Vocês são demais.
+1320700 1322280 (07) Tem um... Aliás, tem um emojizinho
+1322280 1324180 (07) de estrelinha, tem um emojizinho
+1324180 1326440 (07) de coração e tem um emojizinho
+1326440 1328400 (07) de tigre, cachorro e coelho.
+1328840 1330600 (07) E logo embaixo tem o Basso
+1330600 1332120 (07) comentando. Rodrigo Basso comentando.
+1332120 1334220 (07) Acho um absurdo o jogador que só comenta
+1334220 1335340 (07, 02) os episódios que participou.
+1335560 1338360 (02) Justo, justo. Eu também acho. Não tinha dito, mas acho.
+1338660 1340420 (02) O Basso é um que eu tenho que chamar urgente.
+1341340 1342160 (07) E eu queria
+1342160 1343680 (07) perguntar como é que tá a churrasqueira
+1343680 1345500 (07) e o sofá lá do Sr. Basso.
+1345840 1347540 (07) Ele botou pra dentro na hora do tiroteio?
+1347780 1349720 (02) É, pô. Ele foi homenageado.
+1349780 1351940 (02) Ele é um NPC sem fala, mas
+1351940 1354340 (02) ele é um NPC que faz parte desse episódio.
+1354760 1355940 (02) Não sei se ele notou.
+1356220 1357120 (02) Vamos descobrir.
+1357540 1360000 (02) O próximo comentário é da A Beatriz Ribeiro.
+1360000 1362100 (02) Essa é outra pessoa que eu tô devendo pra mestrar.
+1362120 1363660 (02) Alguma coisa com cavalo.
+1363800 1366060 (02) Eu não lembro o que que era, mas eu tenho anotado
+1366060 1367860 (02) em algum lugar que tem que ter um cavalo.
+1368220 1368820 (02) Ela escreve.
+1370320 1372120 (02) Boa noite, guaxamunidade.
+1372400 1373860 (02) Talvez joelha.
+1374500 1375420 (02) Joelha é muito...
+1375420 1378140 (07, 02) O fraqueiro europeu de joelha
+1378140 1379860 (02) é a Ju com coelha.
+1380340 1382100 (02) Isso. Passando só pra dizer
+1382100 1384100 (02) que vou cobrar a bicicleta. Ah, verdade.
+1384360 1386120 (02) Ana Beatriz é outra que foi homenageada
+1386120 1388240 (02) no caso pela Ju, que nomeou o NPC
+1388240 1390400 (02) como outro NPC sem voz
+1390400 1391660 (02) que perdeu a bicicleta.
+1392120 1394160 (02) Nado, Ana Beatriz de
+1394160 1396080 (07, 02) Caconde. Eita, a
+1396080 1398500 (07) Ana tem outra homenagem em outro episódio
+1398500 1399700 (07) e não é como Ana.
+1400140 1402400 (07) E aí eu vou deixar esse aí pros mais
+1402400 1404420 (07) teóricos, mas irem caçar
+1404420 1406040 (07) essa homenagem aí que a
+1406040 1408180 (07) Ju fez em outro episódio pra ela.
+1408520 1410240 (02) A Ana diz que não lembra da história do cavalo, então
+1410240 1411140 (02) eu vou riscar isso aqui.
+1412880 1414440 (02) Finalmente resolvi a minha lista
+1414440 1416180 (07, 02) de coisas a fazer.
+1417180 1417740 (02) Vamos lá.
+1418620 1419620 (07) Mais um ver mais.
+1420800 1421960 (02) Tem um ver mais?
+1422120 1422500 (07, 02) De nada.
+1422500 1424040 (03, 07, 02) De nada, Guaxa.
+1424900 1426380 (07, 03) Mas o próximo tem um ver mais também.
+1426480 1426760 (07) Pronto.
+1427500 1430360 (07) Olá, meu
+1430360 1432080 (07) Guaxa fanzeiros.
+1432380 1434260 (07) Eu sou o cozinheiro-chefe da taberna.
+1434720 1436520 (07) Deixar logo esse especial pra quem tá chegando
+1436520 1438360 (07) e, claro, para o Guaxa e convidado.
+1438660 1440660 (07) Primeiro rango especial, cachorrada
+1440660 1442620 (07) no morro. E um sabor sem igual.
+1442840 1444660 (07) Que nem a cachorrada que aprontam
+1444660 1446560 (07) no morro dos outros. Mas, aqui vai
+1446560 1448480 (07) a melhor parte. Me fez pensar em uma
+1448480 1450160 (07) teoria. Vale a minha Deusa.
+1450160 1452100 (07) Sabemos que tem algo grande rolando,
+1452120 1453540 (07) no tempo todo.
+1453980 1457120 (07) Com o último episódio, dando essa
+1457120 1458580 (07) confirmação sobre as
+1458580 1460580 (07) guerras de poder, pra não deixar o poder
+1460580 1461900 (07) em um só lugar.
+1462360 1464260 (07) Tinha iniciado uma teoria e tinha falado
+1464260 1465980 (07) com outro teórico sobre isso.
+1466380 1468240 (07) Billie Jean acontece no mundo da Nick,
+1468520 1470120 (07) Margaret. Só que, nesse episódio,
+1471240 1472120 (07) é sobre arrebatamento.
+1473020 1474420 (07) Será que a Nick não estava tentando
+1474420 1476180 (00, 07, 03) salvar os bons? Mas, também,
+1476360 1478580 (00, 07, 03) no episódio do meteoro, ela é usada.
+1479040 1480120 (07) Mas, se no do arrebatamento
+1480120 1482100 (07) ela escolheu fazer aquilo,
+1482120 1483960 (07) só que ela pode ter sido
+1483960 1486160 (07) influenciada, talvez, pelo próprio
+1486160 1488360 (07) Pietro Dante. E, como a boba,
+1488480 1490100 (07) assim, ele tomando conta de vez
+1490100 1491880 (07) e conseguindo mais pessoas para a causa.
+1491980 1494180 (07) Eu me perdi total. Algum comentário até aí,
+1494220 1495660 (07, 02) Guaxo? Não, pode continuar.
+1495860 1498120 (07) Tipo, vemos que no pacto Raul, os caras
+1498120 1500000 (07) fizeram um acordo com o demônio. Assim,
+1500620 1502280 (07) como não sabemos o acordo que o Pietro
+1502280 1504120 (07) fez em sua totalidade com o demônio
+1504120 1506380 (07) e tudo isso culminou no arrebatamento.
+1507200 1508520 (07) A Nick levando os bons,
+1508680 1509860 (07) levando eles pra outra realidade?
+1509860 1512020 (07) E o demônio talvez tenha
+1512020 1513560 (07) fortalecido os maus que ficaram
+1513560 1515540 (07) pra fazer eles pagarem os pecados.
+1515700 1517640 (07) Assim, levando posteriormente para o episódio
+1517640 1518680 (07) do pacto Belchior.
+1542020 1544020 (02) E, mesmo que tivesse por interrogação,
+1544120 1544800 (02) eu só ia enrolar.
+1545040 1547480 (02) Eu não sei quem eu sou.
+1547860 1549900 (02) Vamos lá. Alan Felipe, ele coloca
+1549900 1551720 (02) Boa noite, mestre Guaxo.
+1551940 1553700 (02) Sou eu, Guaxon Vidade,
+1554060 1555060 (02) que é o doutor Padre.
+1555800 1557820 (02) Ele me chamou de mestre ali.
+1558020 1559180 (02) Se eu sou mestre, então é doutor.
+1559200 1561400 (02) Mas você é um mestre das aventuras, velho.
+1561740 1563600 (02) Não, eu tenho pós-graduação em gestão escolar.
+1563980 1565460 (02) Guaxon Vidade já foi. Guaxate,
+1565520 1567000 (02) o pessoal que tá na Twitch ao vivo,
+1567000 1568280 (02) twitch.tv.com.br
+1568280 1570900 (02) Guaxo ouvinte, você que está ouvindo editado
+1570900 1571700 (02) no
+1571700 1572520 (02) nosso feed.
+1573020 1574940 (02) Guaxon Munidade, que são todo mundo.
+1575360 1576280 (02) E demais guaxinins.
+1576580 1578980 (02) Ratos lavadeiros e mãos peladas.
+1579240 1580980 (00, 02) Tudo bem com vocês? Tudo bem com a gente.
+1581080 1581740 (02) Com todos nós.
+1582420 1584300 (02) Que saudade de Laguna de Abril.
+1584700 1585980 (02) Esse retorno foi muito gostoso.
+1586240 1589080 (02) Flávio, Eric e Dora, aventureira, riscada aventureira,
+1589420 1591240 (02) são uma nova geração muito digna
+1591240 1592540 (02) dos cavaleiros do bicho.
+1593040 1595460 (02) Adorei essa versão idosa da Anísia.
+1595460 1597760 (02) Uma mistura de Mestre Kami, do Dragon Ball,
+1598200 1600400 (02) com a Copélia do Tomalá Dakar.
+1600780 1601380 (02) Toda vez que alguém
+1601380 1602720 (02) falava tiazinha,
+1603160 1605380 (02) na minha cabeça só tocava a segunda melhor
+1605380 1607040 (02) música do Vini. A primeira é
+1607040 1608140 (02) Eloísa Mexe a Cadeira.
+1609420 1609860 (02) Ok.
+1611000 1613040 (02) O pior é que assim, eu já tinha definido
+1613040 1615440 (02) que ela ia se chamar Zinha. Donazinha.
+1616040 1617400 (02) Na hora que eu escrevi a aventura
+1617400 1619740 (02) era Donazinha. Na hora de revisar,
+1620240 1621440 (02) em vez de Dona, uma vez
+1621440 1622720 (02) eu escrevi Tiazinha.
+1623220 1625000 (02) E daí, porra, veio a música,
+1625000 1627120 (02) veio o Vini, veio o Luciano
+1627120 1629020 (02) Huck com 20 anos na cara.
+1629480 1631240 (02) Eu disse, porra, é isso. Essa é a piada.
+1631380 1633260 (02) Que eu e todos que tomaram
+1633260 1635340 (03, 02) a quarta dose vão atender
+1635340 1637200 (02) no máximo. Eu entendi
+1637200 1639060 (02) e meu joelho doeu na hora que eu entendi.
+1639500 1641000 (02) É, não, porra, terrível.
+1641300 1643320 (02) Preciso parabenizar pela forma
+1643320 1645280 (02) como as referências a Romeo e Julieta
+1645280 1647140 (02) foram feitas. Eu tenho um problema muito grande
+1647140 1649180 (02) com o fato das pessoas acharem que essa é
+1649180 1650740 (02) uma história de amor. Não é.
+1651140 1653260 (02) A peça de Shakespeare é essencialmente
+1653260 1655180 (02) sobre dois adolescentes inconsequentes
+1655180 1657420 (02) achando que uma ficada de festa
+1657420 1658860 (02) era amor verdadeiro.
+1658860 1661200 (02) Eles se conhecem, se apaixonam, fogem de casa,
+1661380 1663100 (02) casam e morrem em um período
+1663100 1665160 (02) de cinco dias. Isso é verdade.
+1665500 1667080 (02) Quando a Ivete Sangalo
+1667080 1669220 (02) grita, o amor de Julieta
+1669220 1670760 (02) e Romeo. Não é uma coisa boa, gente.
+1671460 1672960 (02) Quer dizer, a Ivete Sangalo
+1672960 1675580 (02) é maravilhosa, o Axé é maravilhoso.
+1675960 1677340 (02) O amor de Julieta e Romeo
+1677340 1679280 (02) não é. É uma tragédia linda,
+1679440 1681120 (02) mas não é amor. Já a história de
+1681120 1683220 (02) Romildo e Julieta, essa sim
+1683220 1684720 (02) é uma história de amor. É uma história
+1684720 1686920 (02) linda. Muito obrigado. Eu, assim,
+1687480 1689160 (02) eu nunca li
+1689160 1691080 (02) a obra original do Shakespeare, não vou
+1691380 1693180 (02) pagar aqui de novo, porque eu li,
+1693560 1695180 (02) mas, obviamente, o Shakespeare
+1695180 1697440 (02) ele é muito copiado. Eu vi as novelas
+1697440 1699400 (02) na Globo, gente. Sempre tem um ator
+1699400 1701740 (02) que é rico, um é pobre, um é
+1701740 1703480 (02) sei lá, de um lugar
+1703480 1705080 (02) X, do outro é... Um é...
+1705080 1707400 (02) Tem um filme, um é corintiano e a menina
+1707400 1709300 (02) é palmeirense. Tudo isso é
+1709300 1711220 (02) referência, né, que a gente vai pegando.
+1711640 1713340 (02) Tem aquele filme do DiCaprio também
+1713340 1714940 (02) que não é grande coisa, mas
+1714940 1717320 (02) assim, a gente tá coberto
+1717320 1719460 (02) por essa história e eu li
+1719460 1720920 (02) resumos, não li por original.
+1721380 1723080 (02) Pensei bastante. A história é mais do que
+1723080 1725520 (02) Romildo e Julieta. O trágico ali
+1725520 1727360 (02) envolve o próprio Romildo, que não
+1727360 1729220 (02) queria aquela posição que ele tava.
+1729660 1731380 (02) O Romildo queria viver uma história
+1731380 1733340 (02) de amor. Vai um pouco nessa ideia do
+1733340 1734540 (02) inconsequente, né?
+1735200 1737300 (02) Ele queria viver uma história de amor,
+1737380 1739420 (02) ele queria ter uma vida que não fosse
+1739420 1741540 (02) aquele fardo que o pai dele
+1741540 1742620 (02) deu quando
+1742620 1745560 (02) morreu, né? Não foi porque quis
+1745560 1747400 (02) e o Romildo teve que assumir
+1747400 1749260 (02) aquele lugar. A gente vai voltar
+1749260 1751360 (02) nessa história. A história do Romildo não
+1751380 1753280 (02) tá. Embora o Romildo esteja encerrado,
+1753400 1755520 (02) a história dele não está encerrada
+1755520 1757140 (02) e, obviamente, também
+1757140 1759320 (02) a questão da Juliette
+1759320 1761440 (02) não foi o nome só. Ah, é uma
+1761440 1763280 (02) brincadeira com a Juliette do
+1763280 1765280 (02) BBB, né, que eu sinto. Ela
+1765280 1767180 (02) homenageia uma antiga
+1767180 1768860 (02) participante de reality, né?
+1769280 1771320 (02) Era pra ter Romildo e Juliette
+1771320 1773180 (02) pra serem os nomes, as referências.
+1773500 1775220 (02) A gente ainda vai ouvir falar sobre esses dois,
+1775460 1776960 (07, 02) sobre o legado que eles deixam.
+1777000 1779840 (07, 02) A história de versões de Romildo e Julieta
+1779840 1781160 (07) eu li no colégio,
+1781380 1783420 (07) há muitos e muitos anos atrás,
+1783600 1784820 (07) 20 anos atrás, eu acho.
+1785300 1788460 (07) É romeu.julieta.com.br
+1788460 1789380 (07) É isso aí.
+1789800 1791560 (07) Esse era o livro que o colégio mandou a gente ler.
+1792720 1793760 (07, 02) Depois teve, acho que o
+1793760 1795440 (07, 02) Romildo e Julieta, tem um...
+1795440 1797340 (07) Provavelmente alguma versão mais simplificada, né,
+1797340 1799620 (07) pra crianças. Mas eu li também, mas não lembro de nada.
+1799880 1801320 (02) É um, assim, é um
+1801320 1803060 (02) casal que eu gostei de colocar.
+1803560 1805280 (02) É complicado tu botar amor no
+1805280 1807280 (02) RPG, assim. Fica estranho, né?
+1807340 1809280 (02) Tipo, dois NPCs, talvez, às vezes
+1809280 1811340 (02) um personagem, mas ainda teria
+1811340 1813280 (02) alguma história, algumas histórias, até
+1813280 1815520 (02) o final do ano, com os jogadores
+1815520 1817320 (02) que interpretarem ali um
+1817320 1819500 (02) amor. E tem dois NPCs
+1819500 1821440 (02) também que tem um caso de amor que eu gosto bastante.
+1821640 1823300 (02) Preparem-se, preparem-se, porque o amor
+1823300 1823820 (02) está no ar.
+1825280 1826380 (02) Sobre a Julieta,
+1826440 1829100 (02) vou copiar o que falei no Telegram.
+1829540 1831080 (02) E isso é a parte importante aqui.
+1831440 1833460 (02) Gostei muito da história dela, foi simples
+1833460 1835620 (02) e respeitoso, sem transformar
+1835620 1837480 (02) em um espetáculo. Só é meio triste
+1837480 1839220 (02) pensar que daqui a 100 anos, ser
+1839220 1841320 (02) trans, ainda é o
+1841320 1843380 (02) tabu nos Estados Unidos do Brasil.
+1843760 1845380 (02) Vamos lutar para dar uma chance
+1845380 1847500 (02) melhor para as futuras Julietes.
+1847900 1849360 (02) Sim, a intenção,
+1849720 1851440 (02) pelo menos, olha, vamos lá, pelo meu lado.
+1851640 1853400 (02) A intenção não é, eu não quis
+1853400 1855480 (02) jogar o holofote em cima disso.
+1855820 1857220 (02) Olha o que eu estou fazendo e tal.
+1857620 1859240 (02) Ela fazia parte da história.
+1859820 1861480 (02) Eu já citei em outros episódios,
+1861540 1863040 (02) a ideia é sempre criar
+1863040 1865140 (02) todo tipo de história possível
+1865140 1867360 (02) e não, como as meninas do Caquita
+1867360 1869120 (02) reclamam, chamam elas, ah,
+1869120 1871300 (02) a gente é chamado para outros podcasts,
+1871320 1873520 (02) para falar sobre mulher no RPG.
+1874040 1875260 (02) Como, por ser mulher,
+1875380 1877200 (02) elas só podem ficar num único
+1877200 1879340 (02) tema, né? A ideia é sempre
+1879340 1881260 (02) trazer temas diferentes
+1881260 1883540 (02) para os mais diversos
+1883540 1885260 (02) tipos de personagem e
+1885260 1887300 (02) eu estava preocupado
+1887300 1888760 (02) se eu tinha sido
+1888760 1891700 (02) respeitoso o suficiente,
+1892100 1893160 (02) se tivesse ficado legal
+1893160 1895500 (02) em um comentário como o teu, como da própria
+1895500 1897320 (02) Agatha, eu só posso agradecer.
+1898420 1899400 (06, 02) Para finalizar,
+1899600 1901100 (02) termino com o meu recado de sempre,
+1901320 1903260 (02) o Vim Chinin, que ainda
+1903260 1905240 (02) não é padrinha ou
+1905240 1907020 (02) madrinho, considera entrar na
+1907020 1909300 (02) nossa taberna. Lá é
+1909300 1911140 (02) quentinho e acolhedor e sempre cabe
+1911140 1913280 (02) mais gente. Hoje dou destaque especial
+1913280 1914860 (02) para o grupo Taberna Records,
+1915240 1917440 (02) onde a gente fala sobre música,
+1917720 1919680 (02) canta e faz paródia.
+1919720 1921160 (02) Um grande abraço a todos.
+1921240 1922560 (02) Está aí outro grupo que a gente não citou.
+1922820 1924480 (07, 02) Tem muito grupo, a gente não citou o grupo
+1924480 1926640 (07) só das meninas,
+1927120 1929020 (07) tem um grupo pessoal da
+1929020 1930360 (07) Lenta Arco-Íris, do Vale,
+1931320 1933500 (07) da comunidade LGBTQIA+.
+1933500 1935240 (07) Tem a taberna, é todo mundo
+1935240 1937580 (07) tratado da melhor forma possível,
+1937700 1939400 (07) com muito carinho. Muita gente vai lá
+1939400 1941260 (07) para desabafar. Às vezes o pessoal vai
+1941260 1943180 (07) até estar irritado porque aconteceu
+1943180 1945320 (03, 07, 02) isso, isso e isso. A gente vai lá conversar,
+1945400 1947360 (07) trocar ideia, falar besteira. O pessoal
+1947360 1949280 (07) lá é maravilhoso. Juntem-se à
+1949280 1950680 (07, 02) taberna. Exato.
+1951060 1952880 (02) Esse dia eu estava preocupado com o mercado
+1952880 1955200 (02) que estava terminando relações comigo e eu postei lá.
+1955320 1955920 (07, 02) É verdade.
+1957140 1959500 (02) Não vamos entrar nisso, mas foi assustador.
+1959620 1960460 (07, 02) É da gatilho, né?
+1961320 1962860 (07, 02) Vamos lá. Agora
+1962860 1965340 (07) nosso amigo Anderson Kamatari.
+1965700 1966600 (07) Dessa vez falei certo.
+1966980 1967700 (07) Vilas Boas.
+1967700 1969800 (07) Já tem algumas semanas que eu pensei nisso,
+1969960 1971200 (07) mas na hora esqueci de dizer.
+1971680 1973620 (07) Depois esqueci o que era, mas com esse
+1973620 1975860 (07) episódio eu me lembrei. Sua habilidade
+1975860 1977560 (07) e criatividade para contar histórias
+1977560 1979600 (07) na forma de RPG é
+1979600 1981680 (07) incrível. Parece que você tem um mundo,
+1981780 1983760 (07) o Guaxaverso, na sua cabeça
+1983760 1986000 (07) e nesse mundo tem muitos eventos acontecendo
+1986000 1987960 (07) e protagonizados por alguns personagens
+1987960 1989700 (07) chave. E você conta pra
+1989700 1991200 (07) gente esses acontecimentos e a vida
+1991200 1993480 (07) desses protagonistas sob a ótica daqueles que são
+1993480 1995380 (07) coadjuvantes. Em outras palavras,
+1995840 1997500 (07) agora percebo que você, como
+1997500 1999040 (07) um Bernard Cornwell
+1999040 2001720 (07) aprimorado. Suas
+2001720 2003240 (00, 07) histórias são como as de Cornwell.
+2003860 2005420 (07) Em que ele conta, por exemplo, a história do
+2005420 2007440 (07) Rei Arthur, protagonista, mas sobre
+2007440 2009420 (07) a ótica de coadjuvantes da história
+2009420 2011340 (07) do Rei Arthur, que testemunharam
+2011340 2013300 (07) ou participaram de algum evento específico
+2013300 2015400 (07) da vida de Arthur. Mas você é melhor
+2015400 2017520 (07) que Cornwell, porque você faz isso na forma de RPG.
+2018080 2019460 (07) Você tem a história do seu mundo
+2019460 2021300 (07) na sua cabeça, essa história desse mundo
+2021300 2023140 (07) que chamamos de Guaxaverso tem eventos
+2023140 2024700 (07) e personagens importantes
+2024700 2027200 (07) e você nos mostra
+2027200 2029420 (07) tais eventos, personagens importantes
+2029420 2031260 (07) na ótica dos personagens e dos jogadores
+2031260 2033280 (07) que em algum momento cruzaram com esses
+2033280 2035360 (07) protagonistas ou testemunharam alguma parte
+2035360 2037320 (07) desses eventos. É surreal, é
+2037320 2039160 (07) fantástico, é incrível, é único,
+2039420 2041200 (07) é épico. Muito obrigado por essa
+2041200 2043180 (07) enxurrada de emoções que você nos proporciona.
+2043600 2045140 (07, 02) Assim, primeiro, obrigado.
+2045560 2047220 (02) Segundo, é um exagero, mas
+2047220 2049160 (02) obrigado. Terceiro, assim,
+2049160 2051060 (02) eu já deixei de levar uma
+2051060 2053000 (02) ideia pra frente, porque eu
+2053000 2055400 (02) assim, por mais que a ideia funcionasse como uma aventura
+2055400 2056900 (02) one-shot, eu pensei
+2056900 2059120 (02) isso não existe, não dá pra brincar
+2059120 2060800 (02) com isso aqui. E eu descartei.
+2061140 2063180 (02) Então, isso às vezes é mais um problema
+2063180 2065060 (07, 02) do que uma coisa boa, talvez. Mas uma
+2065060 2067340 (07) coisa que eu te falo, eu já te falei várias vezes
+2067340 2068920 (07) e repito, você é
+2068920 2070880 (07) genial, Guax. Para, para, para,
+2070880 2073180 (07, 02) tu não tá aqui, quer comentar assim? Tá lá embaixo,
+2073320 2075100 (02) se preocupa não. Na hora de comentar, a gente lê os comentários.
+2075380 2077180 (02) Me deixa, me deixa.
+2077180 2078960 (02) Próximo comentário é do Atila
+2078960 2079960 (02) Rudiel. Ele coloca,
+2080400 2082500 (02) Olá para todos guaxinins.
+2082980 2084980 (02) Só pra dizer que foi um episódio muito
+2084980 2086680 (02) bom e adoraria uma continuação
+2086680 2089240 (02) com esse trio, com uma batalha épica
+2089240 2090940 (02) entre coelho e burrinho.
+2091400 2092960 (02) Já colocou o cachorro
+2092960 2094840 (02) e o tigre como coadjuvante, olha que bonito.
+2094860 2097220 (07, 02) É isso, já foi, eu escantei, não tem problema.
+2097740 2099140 (07) Atila Rudiel, não vou gravar
+2099140 2101080 (07, 02) o nome não, só vou colocar aqui numa planista que eu tenho
+2101080 2102580 (07) chamada Planilha dos Vacilos.
+2102980 2105040 (02) Atila, você está no meu coração, você não fez nenhum
+2105040 2107020 (02) vacilo. Seu comentário tem duas linhas
+2107020 2108920 (02) e eu sou muito feliz por isso. No meu coração não, você tá
+2108960 2109960 (02) na planilha de vacilo.
+2110700 2112420 (07, 02) Escolhe aí que coração você quer morar.
+2112620 2113860 (07) Eu acho justo estar no do guaxa.
+2114480 2116000 (07) Comentário de Piaça.
+2116380 2117680 (07) Boa noite, mestre guaxa.
+2118120 2120960 (07) Boa noite, mestre guaxa. Boa noite, eu recebi uma água.
+2121080 2121440 (07) Entendi.
+2122580 2124600 (07) Guaxa, novidade. Boa noite.
+2125240 2127000 (07) Guaxate e toda guaxa humanidade.
+2127680 2129240 (07) Quero dar os mais sinceros e gigantes
+2129240 2130780 (07) parabéns para você, mestre,
+2130880 2132820 (07) e aos outros 50% por esse episódio
+2132820 2134800 (07) magnífico. Curto demais
+2134800 2136820 (07) os episódios inspirados em anime. Ri demais
+2136820 2138540 (07) com esse episódio. Peraí que tem um
+2138540 2140920 (07) spoiler. Até chegar no final ali
+2140920 2142980 (07) que ficou tenso. Podia ver todas as
+2142980 2144720 (07) partes como cenas de anime perfeitamente.
+2144960 2146760 (07) Mais uma vez, parabéns por esse projeto
+2146760 2148500 (07, 02) maravilhoso. Eu também. E uma dúvida.
+2148880 2151000 (07) Um dia poderemos nos deleitar com um crossover
+2151000 2152820 (07) estilo Jump Force do Guaxa Verso?
+2153240 2154780 (07) Mais uma vez, parabéns e obrigado
+2154780 2156600 (07) por esse projeto super
+2156600 2158900 (07) incrível que muito
+2158900 2161000 (07) me ajuda a escapar das mazelas da vida adulta.
+2161300 2162920 (02) É, sim. Próximo comentário é
+2162920 2164820 (02) do Carlos Henrique Barbosa.
+2164820 2167160 (02) Ele coloca. Olá, guaxa
+2167160 2168520 (02) e todos os ouvintes.
+2168540 2170900 (02) Episódio incrível. Fiquei surpreso
+2170900 2172880 (02) e muito animado quando vi o título.
+2173040 2174140 (02) A história é muito boa.
+2174420 2175960 (02) Participantes bem carismáticos.
+2176320 2178800 (02) Recentemente vi a nova temporada de Dota 2
+2178800 2180340 (02) e um pouco de Tekken
+2180340 2182720 (02) Bloodline. Não chega aos
+2182720 2185020 (02) pés do Cavaleiros do Bicho.
+2185460 2186240 (02) O pessoal hoje tá
+2186240 2188160 (02) tá chutando ó.
+2188400 2190780 (02) Fiquei surpreso com o final e curioso
+2190780 2192780 (02) com a última ponta. Uma única
+2192780 2194800 (02) dúvida. Quando a armadura de Tigre
+2194800 2196860 (02) se despedaça, seria a armadura
+2196860 2198420 (02) abandonando o portador usuário?
+2198540 2200480 (02) Ou a resistência dela está
+2200480 2202040 (02) atrelada ao poder de quem usa?
+2202240 2204600 (02) Um pouco dos dois. A armadura escolhe o seu
+2204600 2206720 (06, 02) usuário. Normalmente pelo
+2206720 2207980 (02) poder que ele tem.
+2208440 2211040 (02) Mas também elas julgam
+2211040 2212880 (02) as atitudes daquele
+2212880 2214640 (02) usuário, se são dignas ou não.
+2215140 2216680 (02) E decidem se vão continuar nele
+2216680 2218000 (02) ou não. Basicamente,
+2218480 2219740 (02) é um roteiro humano. A gente vai.
+2220660 2222580 (02) Obrigado pelo comentário anterior
+2222580 2224680 (02) do Piadas, que eu só respondi rápido pra fazer a piada
+2224680 2226680 (02) de responder realmente
+2226680 2228520 (02) o que ele queria e não gerar novas perguntas.
+2228540 2230520 (02) E obrigado também pelo comentário
+2230520 2230980 (02) do Henrique.
+2258540 2260540 (07) Ele também escolheu a despedida da fofa da armadura de cachorro
+2260540 2262400 (07) e ri com os momentos comédia.
+2262820 2264680 (07) Seis spoilers hoje. Se bem
+2264680 2266600 (07) que o corvo não compareceu. Será
+2266600 2268560 (07) que está nos batidores esperando a grande força
+2268560 2270560 (07) se reunir para usurpar para si?
+2271020 2272700 (07) Brincadeira. Até mais
+2272700 2274400 (07) guaxanheiros, guaxa
+2274400 2276900 (07) companheiros. Valeu, ilustríssimo guaxa.
+2277180 2278620 (07, 03) E juvidade do dia.
+2278960 2279660 (07) Opa, obrigado.
+2280520 2282620 (07) Aguardando os episódios dos
+2282620 2284360 (07) Cavaleiros do Bicho. Sinceramente,
+2284480 2286640 (07) tentei não esperar nada desse remake com medo
+2286640 2288340 (07) de ser decepcionante. Mas pelo
+2288340 2290540 (07) contrário, foi surpreendentemente bom.
+2290780 2292640 (07) E não desistam. Eu não desisti.
+2293040 2294140 (07, 02) E ouvi pelo deviante.
+2294480 2296640 (02) Ok, obrigado pelos comentários. Não desista
+2296640 2298420 (02) realmente. Continue com a gente sempre.
+2299220 2300500 (02) Normalmente tu só faz o comentário
+2300500 2302520 (02) curtinho. Hoje tu escreveu bastante.
+2302680 2304560 (02) Estou feliz. Mais feliz porque nem
+2304560 2306380 (02) foi eu que li também. São 25
+2306380 2307660 (02) bichos no jogo do bicho.
+2308300 2309760 (02) Tem gente que às vezes me pergunta
+2309760 2312740 (02) vai ter armadura de guaxinim e armadura do corvo?
+2312860 2314560 (02) Gente, já tem 25
+2314560 2316620 (02) bichos. Eu não vou criar mais bichos.
+2316700 2318320 (02) Já é difícil criar personagens.
+2318340 2320080 (02) Para todo mundo de novo
+2320080 2321680 (02) que agora tem que pensar
+2321680 2323480 (02) com quem estão as armaduras.
+2323840 2326100 (02) Já tem 25 bichos e
+2326100 2328280 (02) não há guaxinim e não há
+2328280 2330360 (02) corvo. Então parem. Obrigado pelo seu
+2330360 2332220 (02) comentário. Falando em bicho
+2332220 2334400 (02) que também não faz parte das armaduras do jogo
+2334400 2336040 (02) do bicho. Ou faz? O lobo é
+2336040 2337380 (03, 02) do jogo do bicho? Não.
+2337380 2339940 (03, 02) Não, o lobo não tem.
+2340880 2342280 (02) Fernando Lobo, ele comenta
+2342280 2344340 (02) Olá, mestre guaxa, sou eu
+2344340 2346180 (02) e convidade, que é o Tito.
+2346180 2347980 (02) Opa! Episódio espetacular.
+2347980 2349680 (02) Não cansa de dizer o quanto eu gosto
+2349680 2351420 (02) dos episódios baseados em animes.
+2351780 2353200 (02) Vai ter mais um esse ano ainda, no mínimo.
+2353400 2356240 (02) Mas estou sentindo falta de episódios baseados em mitologias.
+2356840 2357900 (02) Exemplo. Ainda foi usada
+2357900 2359280 (02) a mitologia egípcia.
+2359620 2361960 (02) Eu gosto muito de mitologia egípcia, mas como eu falei
+2361960 2364080 (02) abordar a mitologia eu tenho que ir
+2364080 2365620 (02) com calma mais um dia.
+2365700 2366980 (02) Um dia a gente chega lá.
+2367380 2370180 (02) Uma dúvida. Romildo tinha o poder do protagonismo e estava com a armadura
+2370180 2371900 (02) do coelho. Como ele sequer
+2371900 2373420 (02) arranhou a armadura do cachorro?
+2373900 2375900 (02) É possível herdar o poder do protagonismo?
+2375900 2377780 (02) Vamos lá. O cachorro era mais forte?
+2377980 2379580 (02) Lembra que a tiazinha mesmo fala
+2379580 2381520 (02) que sem a armadura
+2381520 2383780 (02) o irmão que dirigia a moto era
+2383780 2386280 (02) mais forte do que o irmão com a armadura?
+2386800 2387820 (02) Então ficou definido
+2387820 2389600 (02) havia muito poder ali.
+2389720 2391840 (02) Como eu citei lá atrás, tem gente que nasce
+2391840 2393260 (02) com poder e
+2393260 2396120 (02) obviamente a luta da Juliette
+2396120 2397980 (02) fortaleceu ela
+2397980 2399120 (02) para aquele momento.
+2399540 2401720 (02) Então ela era mais forte e ponto.
+2401960 2403700 (02) É isso. É possível herdar o poder do
+2403700 2405840 (02) protagonismo? Sim, é possível herdar.
+2405840 2407860 (02) E é possível, mesmo que
+2407860 2409840 (02) não seja filhos sanguíneos,
+2409880 2411820 (02) como é o caso dos três, acaba
+2411820 2414100 (02) a tiazinha diz que eles têm um pouquinho
+2414100 2416080 (02) desse poder. Então talvez um dia
+2416080 2417380 (02) eles desenvolvam um poder tão
+2417380 2419700 (02) roubado quanto o do Romildo.
+2420580 2421900 (02) Observação. Sugestão de tema
+2421900 2423660 (02) de episódio. Superfutebol.
+2423760 2426160 (02) Se precisar de referências, assista
+2426160 2427460 (02) Inazuma Eleven.
+2427980 2429180 (02) Pode ver com a sua filha.
+2429680 2431240 (02) Atenciosamente, Fernando Lobo.
+2431600 2434080 (02) Tem episódio de esportes que sai
+2434080 2435780 (02) ainda esse ano. Está gravado já.
+2436060 2437580 (07) Inazuma Eleven eu nunca vi, mas...
+2437860 2439360 (07) como eu sou velho, eu vi
+2439360 2441060 (07) supercampeões na manchete.
+2441820 2442260 (02) Supercampeões.
+2443200 2445700 (02) Inazuma Eleven deve ser aquele do
+2445700 2448120 (02) Death Samba. Você já viu essa cena?
+2448520 2448760 (02) Não.
+2449160 2450680 (03, 02) Procurem Death Samba, gente.
+2451080 2452860 (03, 02) Eu tenho um pouco de medo de procurar.
+2453160 2455080 (02) O próximo comentário é teu?
+2455640 2457440 (07, 02) Meu que eu fiz? Não, não.
+2458640 2459700 (07) Mas ali é você.
+2459900 2461760 (07) No caso, sou um tigre amigo
+2461760 2463640 (07) de um guaxinim. Mas não, foi eu que fiz.
+2463680 2464980 (07) O meu comentário está aí embaixo, de verdade.
+2465420 2467520 (07) Olá, guaxa. É outro bicho que surgiu.
+2467520 2469260 (07) Exatamente. Olá, guaxa.
+2469340 2470700 (00, 07) Guaxa humanidade. Olá.
+2471960 2473360 (07) Guaxate, guaxa ouvintes
+2473360 2474900 (07) e guaxa humanidade. Tudo bem?
+2475020 2477560 (07) Tudo bem. Com você? Primeiramente, gostaria
+2477560 2479140 (07) de parabenizar o mestre, que é
+2479140 2481520 (07) 101% do episódio. Aos jogadores
+2481520 2483560 (07) que mandaram muito bem e são 50%
+2483560 2485180 (07) do episódio. E ao editor,
+2485360 2487540 (07) pela edição fenomenal. Biscoitos
+2487540 2489340 (07) em forma de tigre entregues. Esse eu vou
+2489340 2491020 (07) ficar todos pra mim, porque o tigre sou eu.
+2491420 2493580 (07) O guaxa fica com os de cor. Quando o Romildo
+2493580 2495760 (07) diz que ele não é o Pedro para a tiazinha,
+2495760 2497500 (07) eu inicialmente achei que ele tinha morrido,
+2497520 2499520 (07) mas no final, o Pedro aparece
+2499520 2501420 (07) no final, como presidente
+2501420 2502960 (07) e aparentemente bem autoritário.
+2503360 2505460 (07) Então, depois de todos esses anos, Pedro
+2505460 2507620 (07) se tornou do mal ou apenas está sob o controle
+2507620 2509560 (07) da entidade, como vimos antes? Quanto tempo
+2509560 2511680 (07) se passa depois do último Cavaleiros do Bicho?
+2511960 2513460 (07) PS, eu ouvi pelo Spotify.
+2513920 2514860 (02) Mais de 100 anos.
+2515540 2517300 (02) Eles são bem velhos, velhos mesmo.
+2517800 2519600 (02) A gente ainda vai saber mais
+2519600 2521520 (02) sobre o Pedro. Aparentemente,
+2521660 2523420 (02) ele está no lado oposto
+2523420 2525800 (02) ao que defende ali os
+2526920 2527320 (02) tetranetos,
+2527520 2528960 (02) da Anísia,
+2529420 2531360 (02) mas não necessariamente a intenção dele
+2531360 2533620 (02) é maligna. Provavelmente
+2533620 2535460 (02) ele quer... Os dois
+2535460 2537260 (02) querem algo bom, só
+2537260 2538880 (02) usam métodos diferentes.
+2539420 2540880 (02) Agora é seu, guaxa. Fica à vontade.
+2542160 2543560 (02) Eu gostava tanto do Balardino.
+2544340 2545420 (02) Próximo comentário é
+2545420 2547800 (02) do Gabriel Balardino. Olá, guaxa.
+2547900 2549420 (02) Guaxa, novidade. Guaxate
+2549420 2551640 (07, 02) e ouvinte Nins. Como vão?
+2551700 2552980 (07, 02) Vou bem. Vou bem também, graças a Deus.
+2553140 2555340 (02) Passamos por ondas de calor na Europa.
+2555340 2557080 (02) É verdade. Conversei com a
+2557080 2558640 (02) com a Deb, fim de semana agora.
+2559160 2560660 (02) As casas lá não tem janela.
+2560840 2563240 (02) Eles não sabiam o que era calor.
+2563700 2565140 (02) Sabe? Não abria janela.
+2565280 2567080 (02) Era o inferno da Terra. Ondas de frio
+2567080 2569080 (02) no Brasil, é assim, é triste e tal,
+2569180 2570960 (02) mas eu prefiro frio do que calor.
+2571020 2573280 (07, 02) Nem tá tão frio. Flavinho estaria sem camisa,
+2573340 2575280 (07, 02) por exemplo. Eu ainda não precisei
+2575280 2577180 (02) botar calça esse ano. Eu não tenho a calça
+2577180 2579240 (02) que me serve, imagina. Eu coloco calça todo dia.
+2579660 2581080 (02) Lembra quando aprendemos
+2581080 2583240 (02) na escola que se nada mudasse em 30
+2583240 2585440 (02) anos, teríamos um mundo em caos?
+2585720 2586820 (02) 15 anos já passaram.
+2586820 2589200 (02) É verdade. Compre o seu geografia e ensinei isso também.
+2589600 2590980 (02) Mas vamos lá. Vamos
+2590980 2592780 (02) falar do RPGuache.
+2593000 2594560 (02) Onde as realidades estão sob controle.
+2595000 2596960 (02) Ou mais, ou menos. Enfim,
+2597160 2598940 (02) que emoção. Eu não sei o que falar desse
+2598940 2601340 (02) episódio. Entra pro meu hall de favoritos.
+2601380 2602620 (02) É porque tu é um ataque perdido igual eu.
+2603200 2605060 (02) Especialmente porque ele torna ainda
+2605060 2607040 (02) mais potente os cavaleiros
+2607040 2609040 (02) do bicho antigo. Fica impressionado
+2609040 2611000 (02) como você conseguiu dar uma visão da
+2611000 2612900 (02) favela que supera muito os
+2612900 2614900 (02) clichês típicos das mídias brasileiras
+2614900 2616500 (02) e a demonstrar,
+2616820 2618640 (02) com uma riqueza que ela merece.
+2619020 2620940 (02) E cada elemento ali, desde os jogadores
+2620940 2622460 (02) até as trilhas musicais
+2622460 2625060 (02) e aquela revelação final. Gente,
+2625220 2626880 (02) que espetáculo. Posso dizer que
+2626880 2628920 (02) fiquei emocionado de poder ter dado voz
+2628920 2631200 (02) ao Romildo, que amei interpretar.
+2631560 2633140 (02) Ainda que nem soubesse
+2633140 2634840 (07, 02) o que significava aquelas falas.
+2634940 2636940 (07) O Palardino com a voz do Romildo
+2636940 2638740 (07, 02) realmente ficou, como voz do Romildo,
+2638820 2641040 (07, 02) ficou muito bom. Ficou incrível. Eu gostei bastante.
+2641500 2642900 (02) E ele só recebeu as falas...
+2642900 2644480 (02) Pessoal, como é que é gravado?
+2644820 2646800 (02) Depois de gravar o episódio,
+2646820 2649280 (02) eu anoto as falas
+2649280 2651580 (02) e mando pra quem vai gravar
+2651580 2653460 (02) sem a pessoa saber o resto das falas.
+2654160 2656080 (02) O Romildo só sabia as falas dele.
+2656160 2657160 (02) Ele não sabia o contexto.
+2657580 2659300 (02) Eu deixo uma coisa tipo, ah, com raiva,
+2659780 2660820 (02) triste, feliz,
+2661780 2662560 (02) tá mentindo.
+2662980 2665120 (02) Mas ele não sabe com quem ele tá contracionando,
+2665200 2666340 (02) que frase veio antes.
+2666700 2668820 (02) E, pô, foi incrível. Só posso agradecer.
+2669740 2670420 (02) Vamos aos spoilers.
+2670880 2673060 (02) Aqueles malditos moleques não iam ter a menor respeito
+2673060 2675260 (02) pelo pai? Como foram
+2675260 2676220 (02) dar esse porro nele?
+2676820 2679260 (02) Por querer viver um amor. É com vocês, Padre.
+2679380 2681100 (07, 02) Não, olha só. A gente não tava dando
+2681100 2683060 (07) esse porro nele por ele querer
+2683060 2684900 (07) viver um amor. A gente tava achando
+2684900 2686940 (07) suspeito esse amor
+2686940 2689020 (07) por toda circunstância, né?
+2689520 2691000 (07) Era um amor que a gente...
+2691000 2692860 (07) Juliette era uma pessoa
+2692860 2694800 (07) que não tinha rede social, ou seja,
+2694840 2696800 (07) não tinha passado, a gente não sabia absolutamente
+2696800 2699280 (07) nada dela. Ela queria...
+2699280 2700800 (07) Não queria fugir com ele, de repente
+2700800 2703020 (07) queria fugir no dia que fosse
+2703020 2704600 (07) atacar o morro.
+2705320 2706800 (07) Então, assim, tava suspeito.
+2706820 2708840 (07) Suspeito pra gente. A gente tinha pouca informação.
+2709420 2710780 (07) Então, o porro não foi por ele querer
+2710780 2712600 (07) viver um grande amor. Ao contrário, a gente daria
+2712600 2714340 (07) todo apoio pra ele, tanto que a gente deu,
+2714420 2716040 (07) que ele falou que tava apaixonado,
+2716540 2718760 (07) que a gente entendia, mas que a gente tava preocupado
+2718760 2721040 (07) com toda a situação, né, do morro,
+2721140 2723020 (07) das pessoas do morro e dele também,
+2723140 2724460 (07) pra ele não tá entrando numa furada.
+2724900 2725340 (02) E ele continua.
+2730900 2732560 (02) Ok. Eu vejo mais como
+2732560 2734720 (02) Alan, como uma crítica. Eu acho
+2734720 2736720 (02) que Romeo e Julieta é mais uma...
+2736820 2738940 (02) Uma crítica ao jovem que naquela época
+2738940 2740740 (02) era inconsequente e...
+2740740 2743020 (07, 02) Quer dizer, todo jovem é. Adolescência.
+2743220 2744720 (02) Existe alguma forma dos jogadores
+2744720 2746360 (02) evitarem a tragédia romântica?
+2746780 2748580 (02) Não. Eles não tinham força suficiente
+2748580 2750320 (02) pra parar nenhum dos dois.
+2750680 2752760 (02) Nenhuma das duas forças motrizes ali.
+2752800 2754440 (02) O final, ele era
+2754440 2756860 (02) praticamente, porque RPG eu nunca sabe,
+2756980 2758540 (02) né, mas ele era praticamente
+2758540 2760780 (02) e é inevitável. Tanto que
+2760780 2763040 (02) Romildo e Julieta
+2763040 2764840 (02) já nasceram com isso, né, gente? Pelo amor.
+2765260 2766780 (02) Onde está Nelson? Pelo que eu entendi,
+2766820 2768480 (02) depois de que tudo aconteceu, ele
+2768480 2770700 (02) desapareceu. Mas ele ainda existe por aí,
+2770840 2772600 (02) não é? Provavelmente sim. Ele é imortal
+2772600 2773380 (02) e não tem imbigo.
+2774380 2776080 (02) Então, ele deve estar por aí.
+2776520 2778540 (02) O Pedro é um idoso simpático que assumiu a presidência
+2778540 2780640 (02) depois de um mentiroso que fez pacto
+2780640 2782700 (02) com uma entidade do mal. Guaxa, o que
+2782700 2784440 (02) isso quer dizer? Risos.
+2784760 2786740 (02) Eu não quero dizer nada. Nós vimos
+2786740 2788700 (02) a coelha e o burrinho, mas isso leva
+2788700 2790160 (02) a pergunta. Cadê a gata?
+2791600 2792980 (02) Talvez ela tenha sido citada
+2792980 2794920 (02) no episódio. Tem gente com teoria já.
+2795440 2796620 (02) Mas vamos descobrir no próximo
+2796620 2797380 (02) episódio, talvez.
+2798040 2800540 (02) Fiquei muito emocionado com a abordagem de sobrevivência
+2800540 2802620 (02) trans. Julieta foi uma mulher incrível,
+2803120 2804440 (02) ainda que o medo
+2804440 2806840 (02) e falsas promessas a tenham iludido
+2806840 2808580 (02) e que, com a sua força e a
+2808580 2810580 (02) de Romildo, provavelmente poderiam
+2810580 2812480 (02) lutar contra o mundo. Mas sabemos
+2812480 2814440 (02) que isso é muito difícil de fazer
+2814440 2816460 (02) quando tudo que se quer
+2816460 2818520 (02) é aceitação. Sim.
+2818880 2820620 (02) Obviamente, o peso é muito maior
+2820620 2822620 (02) da Julieta, mas
+2822620 2824760 (02) a ideia é que o Romildo também tinha um problema
+2824760 2826560 (02) da aceitação, mas no caso
+2826560 2828440 (02) era dele. Ele não queria
+2828440 2830520 (02) também ser quem as pessoas
+2830520 2832560 (02) queriam que ele fosse. Ele tinha que proteger
+2832560 2834400 (02) o morro, e se ele não fizesse
+2834400 2836600 (02) muitos iam sofrer com isso, e
+2836600 2838460 (02) ele não queria esse fardo pra ele,
+2838600 2840680 (07, 02) sabe? Ele não queria desde o início,
+2840820 2842380 (07) né? Tanto que, quando o pai dele morreu,
+2842460 2844260 (07) a primeira coisa que ele fez foi fugir.
+2844900 2846480 (07) Né? E aí ele encontrou o
+2846480 2848400 (02, 07, 03) padre Lancelotti, que foi quem deu
+2848400 2850600 (07, 02) uma direção ali na vida dele. Não é isso?
+2850840 2852600 (02) É isso. E exploraremos mais
+2852600 2854580 (02) um dia. Sem mais, amei a história
+2854580 2856540 (02) desses jogadores e quero muito ver outras histórias.
+2856560 2858460 (02) Com eles. Um grande beijo
+2858460 2860880 (02) para todos. Obrigado, querido. Muito obrigado por fazer comentário.
+2860960 2862440 (07, 02) Próximo comentário, Matheus
+2862440 2864500 (07) F. Olá, Guaxa e
+2864500 2866380 (07) pessoa convidada. Como estão? Eu tô bem.
+2866460 2868200 (07) Eu tô bem. E você, Guaxa? Eu tô bem.
+2868380 2870640 (07) Espero que melhor que ontem e não tão bem quanto amanhã.
+2871260 2872680 (07) Guaxa, segui seu conselho
+2872680 2874460 (07) e ouvi os quatro episódios anteriores
+2874460 2876580 (07) desta nova geração. Matheus F. é aquele
+2876580 2878420 (07) que tá fazendo de trás pra frente, não é isso?
+2878600 2880800 (03, 07) É. Nesta nova geração. E talvez por esse motivo
+2880800 2882260 (07) me frustrei um pouco. Ha, ha, ha.
+2882700 2884660 (07) Não frustração no sentido de este episódio
+2884660 2886340 (07) ser ruim, porque certamente não foi.
+2886780 2888580 (07) Mas frustração no sentido de quebra de
+2888580 2890600 (07) expectativa, já que eu esperava algo com
+2890600 2892600 (07) um pouco mais de comédia e não
+2892600 2894520 (07) um final trágico com morte de personagens
+2894520 2896500 (07) que não são vilões. Espero que você
+2896500 2898560 (07) e os jogadores não levem isso a mal. Como eu
+2898560 2900440 (07) disse, o episódio de maneira alguma foi ruim.
+2900880 2902620 (07) Todos mandaram muito bem. Acho
+2902620 2904520 (07) que o problema sou totalmente eu.
+2904980 2906500 (07) Já que quem criou uma expectativa de
+2906500 2908420 (07) que o episódio seria mais ou menos assim
+2908420 2910080 (07) ou assado, fui eu. Ha, ha, ha.
+2910380 2912580 (07) Então, parabéns a todos. Foi um episódio muito bom
+2912580 2914180 (07, 02) e apenas diferente do que eu esperava.
+2914280 2916520 (02) Eu sempre brinco com quem vai jogar
+2916520 2918500 (02) que o RPG eu acho é sobre
+2918500 2920580 (02) quebra de expectativa. Então, muitas vezes
+2920580 2922500 (02) eu dou pros jogadores, olha, aventura
+2922500 2924340 (02) é sobre isso. E coisas
+2924340 2926160 (07, 02) acontecem. Gente, um monstro.
+2926300 2928120 (02) O episódio que tem esporte, por exemplo,
+2928540 2930640 (02) o jogador fala, um dos jogadores
+2930640 2932400 (02) falou, ah, a gente pode entrar em campo
+2932400 2934100 (02) assim, assim, assim, assim, assado?
+2934760 2936400 (02) E daí eu falei, se tiver
+2936400 2938340 (02) jogo, sim. Ha, ha, ha.
+2938340 2940460 (02) Por quê? Não é porque inicialmente eu pedi
+2940460 2941940 (02) pra todos montarem atleta
+2941940 2943920 (02) que vai ter um jogo, né?
+2944140 2946500 (07) Gente, o próprio episódio, o monstro que eu joguei,
+2946520 2948220 (07) ele é bem isso.
+2948380 2950600 (07) Tipo, você fala pra gente,
+2950680 2952500 (07) não, vocês são caçadores de monstros
+2952500 2954640 (07) medievais. Eu falei, beleza, caçadores
+2954640 2955540 (07) de monstros medievais.
+2956400 2958620 (07) Bem, o final é completamente
+2958620 2960340 (07) tudo que a gente não faz
+2960340 2962380 (07, 02) é caçar monstro, né, de certa forma.
+2962540 2964760 (02) E assim, essa, a minha ideia
+2964760 2966660 (02) pros episódios, pelo menos
+2966660 2968460 (02) pra esse, pro próximo episódio do
+2968460 2970280 (02) Cabral e do Bicho, é ele
+2970280 2972480 (02) dar um passo além dos que foram os
+2972480 2974180 (02) originais. Ele ter essa
+2974180 2976300 (02) ver de comédia, eu acho, muito maior
+2976520 2978120 (02) que nos episódios originais, né?
+2978320 2980620 (02) Mas eles terem, assim, alguns temas um pouco
+2980620 2982460 (02) mais sérios a serem tratados.
+2982780 2984600 (02) Então já espere isso no próximo. Fica aí o aviso.
+2984620 2986460 (07, 02) Vamos lá. No mais, quanto à preocupação
+2986460 2988220 (07) ao final do episódio de que havia
+2988220 2990660 (07) mais de uma armadura concentrada
+2990660 2992640 (07) em um mesmo morro, me lembrou um pouco o Naruto.
+2993100 2994600 (07) Quando o primeiro Hokage, ao fim da
+2994600 2996540 (07) Primeira Guerra Ninja, distribui as
+2996540 2998620 (07) feras de cauda entre as novas vidas
+2998620 3000340 (07) ninja, de modo a balancear seu poder
+3000340 3002800 (07) e minimizar a probabilidade de novos conflitos.
+3003180 3004100 (07, 02) Houve inspiração nisso?
+3004280 3006340 (02) Não diretamente, assim, eu não parei puta.
+3006520 3008140 (02) Naruto, é isso. Mas eu
+3008140 3010140 (02) li Naruto, quer dizer,
+3010500 3012500 (02) nos últimos volumes eu só li
+3012500 3014280 (02) as figurinhas e torcia pra acabar logo.
+3014640 3016200 (02) Mas eu acompanhei
+3016200 3018420 (02) todo o mangá do Naruto, né?
+3018660 3020380 (02) Isso, obviamente, faz parte da minha
+3020380 3021940 (02) bagagem, faz parte do que eu penso.
+3022320 3024260 (02) Mas tem outros animes que mexem um pouco
+3024260 3026380 (02) isso também, mas a ideia é
+3026380 3028140 (02) essa. Tu tem muito poder.
+3028640 3029960 (02) Quem vai controlar esse poder?
+3030500 3032280 (02) A melhor ideia é tu dividir esse
+3032280 3034120 (02) poder e todos se controlarem.
+3034600 3036280 (02) Eu sempre, eu gosto muito
+3036280 3038260 (02) de uma ideia do Yu Yu Hakusho,
+3038680 3039740 (02) que é o inferno dele,
+3040160 3042120 (02) que tu tem três demônios muito
+3042120 3044220 (02) poderosos e que não estouram
+3044220 3046180 (02) uma guerra lá, porque são três
+3046180 3048100 (02) e não dois. Porque se fosse dois,
+3048240 3050080 (02) eles iam lutar um contra o outro. Como
+3050080 3052080 (02) são três, um não luta
+3052080 3053600 (02) contra o outro porque sabe
+3053600 3056060 (02) que quando ele estiver muito fraco, o
+3056060 3058240 (02) terceiro vai se aproveitar e vencer
+3058240 3060160 (02) a guerra. Então, esse
+3060160 3062260 (02) equilíbrio de poder, que tá lá na descrição
+3062260 3064080 (02) do início do universo do RPG,
+3064080 3066060 (02) eu acho, esse tipo
+3066060 3068100 (02) de abordagem, eu sempre vou
+3068100 3068520 (02) estar fazendo.
+3068620 3071740 (07, 02) Me perdoem os fãs de Naruto, se eu tiver viajado e não tiver
+3071740 3074020 (07) acontecido exatamente assim. Só acompanhei
+3074020 3076240 (07) até mais ou menos o episódio 200 do Shippuden.
+3076680 3078100 (07) Então fazem literalmente mais
+3078100 3079680 (07) de dez anos que não revisito a história.
+3080080 3081180 (07) Abraços e até a próxima.
+3081400 3084160 (02) O fã de Naruto aceitou que uma técnica
+3084160 3086160 (02) super especial que só
+3086160 3087780 (02) o quarto tinha dominado,
+3088020 3090120 (02) que é o Hatsenga, fosse usado como motor
+3090120 3092040 (02) de barco e pra bater massa
+3092040 3094400 (02) de macarrão. Se ele aceita
+3094400 3095840 (02) isso, ele aceita qualquer coisa.
+3096060 3096840 (02) Difícil de defender, né?
+3097140 3099680 (02) Queria deixar registrado. Obrigado pelo seu comentário.
+3099780 3101800 (02) Próximo comentário. Mas assim, sim, aberturas
+3101800 3103320 (02) maravilhosas, Naruto.
+3103800 3105440 (02) Eu, em minha adolescência,
+3105940 3108100 (02) eu cantava Haruki Kanata
+3108100 3109340 (02) inteira, inteira.
+3109620 3111880 (02) Eu vendo de anime, assim, eu tenho nostalgia
+3111880 3113800 (02) assim, de bandas
+3113800 3115820 (02) tocando e a gente gritando. Mas o próximo
+3115820 3117820 (02) comentário é do Vermenos. Obrigado, querido.
+3118180 3119780 (02) Esse comentário tem dois objetivos. Um,
+3119880 3121760 (02) agradecer todos os envolvidos. Valeu.
+3122180 3124180 (02) E dois, quem ler, agradece que ele é curto.
+3124180 3126020 (02) Obrigado porque ele é curto, querido. Então vamos,
+3126060 3128220 (07, 02) ah, agora o comentário é da Iwakika
+3128220 3129720 (07) ou Iwakika.
+3130000 3130720 (07) Nunca sei também.
+3154180 3154880 (07) Depende do guacho.
+3156060 3158340 (02) Prometi mais um episódio dia 27 de abril
+3158340 3160340 (02) se tudo deu certo. Um episódio
+3160340 3162320 (02) eu garanto pra vocês. E uma cena
+3162320 3164260 (02) pós-crédito que talvez dê uma ideia
+3164260 3166240 (02) do que pode vir a acontecer depois
+3166240 3168500 (02) de tudo isso. Pra quem ouvir esse guachaverso
+3168500 3170580 (02) até o final. O próximo comentário
+3170580 3171960 (02) é do Cidade de Guaxinim.
+3172340 3174640 (02) Que é a referência ao Resident Evil, né?
+3175080 3175340 (02) Olá,
+3175680 3177360 (02) enguachadinhas.
+3178280 3180540 (07, 02) Eu acho que era tipo um engraçadinhas
+3180540 3182420 (02) com guacha
+3182420 3183800 (02) e virou um enguachadinhas.
+3184040 3186040 (02) Ok, obrigado. Agradeço pelo empenho de todos.
+3186040 3187760 (02) Que nos serviram mais um episódio deste
+3187760 3189920 (02) épico. Confesso que não conheço nada
+3189920 3191460 (02) de Cavaleiros do Zodíaco. Eu conheço muito pouco.
+3191800 3193120 (02) Ao contrário do que parece, gente.
+3193520 3196280 (02) Eu li Revista Herói e eu vi muito pouco do desenho.
+3196640 3197420 (02) Todo cânone
+3197420 3200160 (02) que se forma a minha mente
+3200160 3201220 (02) vem de Cavaleiros do Bicho.
+3201680 3203240 (02) Prefiro que seja assim mesmo.
+3203820 3206220 (02) Essa sopa de referências deu um caldo muito saboroso
+3206220 3207920 (02) e aquela vontade de quero mais.
+3208420 3209900 (02) As decisões dos jogadores temperam
+3209900 3212200 (02) o enredo, mas o volume da aventura
+3212200 3214140 (02) pareceu vir dos cenários
+3214360 3215500 (02) determinados pelo mestre.
+3215500 3217160 (02) Fluindo conforme esses.
+3217580 3219680 (02) Apesar de notas de fundo mais sérias,
+3220080 3222200 (02) esse episódio foi leve e divertido.
+3222540 3223520 (02) Aguardaremos os próximos?
+3223600 3225020 (02) Pode aguardar o próximo, pelo menos.
+3225340 3227700 (02) A cada referência compreendida, marcava-se
+3227700 3229640 (02) uma arruga no meu rosto. Obrigado
+3229640 3231440 (02) por lembrar que tem que tomar
+3231440 3233540 (02) a dose reforço da vacina.
+3234000 3235420 (02) Todos temos. É bom lembrar a todos.
+3235900 3237440 (02) Você que é da cidade de Guaxinim,
+3237560 3239780 (02) da Racon City, tome as outras vacinas
+3239780 3241020 (02) também, porque vai...
+3241020 3242200 (07, 02) O negócio não vai dar certo.
+3242200 3244160 (07, 02) É isso aí, gente. E é difícil, né?
+3244160 3245660 (07) A gente tá velho mesmo, não tem jeito.
+3246000 3248000 (07) Vamos lá. Rodrigo Basso.
+3248440 3249880 (07) Boa noite, mestre Guaxa.
+3250040 3252180 (07) Boa noite. Guaxão Vidade. Boa noite.
+3252760 3254260 (07) Guaxate, Guaxa Ouvinte,
+3254480 3256260 (07) Guaxa Humoridade e demais guaxinim.
+3256700 3258660 (07) Tudo bem com vocês?
+3259000 3259280 (07, 03) Tudo.
+3259540 3261540 (07) Fiz uma copa e cola do Alain Felipe.
+3263040 3264040 (07) Cheguei aqui porque estou
+3264040 3265620 (07) no ombro de gigante. Você foi muito bem.
+3265800 3268020 (07) Esperava demais essa continuação. Conheci o
+3268020 3270120 (07) RP Guaxa pelo episódio Eu Beijei
+3270120 3272160 (07) Uma Garota, que é incrível.
+3272160 3274160 (07) Em seguida, ouvi a...
+3274440 3276400 (07, 03) com a trilogia Cavaleiros do Bicho.
+3276520 3278420 (07) Mas como o Guaxa mesmo diz, é uma trilogia
+3278420 3279940 (07) com o último episódio dividido em dois.
+3280200 3282040 (07) Tudo recomendação da Fernanda Cortes.
+3282260 3284100 (07) Esses foram os episódios que me fizeram ir atrás
+3284100 3286240 (07) de ouvir o podcast com assiduidade.
+3286560 3288020 (07) Confesso que fui automaticamente
+3288020 3289820 (07) transportado para 1994
+3289820 3292180 (07) quando ouvi a paródia da abertura de CDZ.
+3292620 3293840 (07) Cara, essa abertura...
+3293840 3296460 (07) Foi a abertura que eu lembro mais.
+3296640 3297380 (07) Foi essa abertura.
+3297880 3300280 (07) Acho que o Jean também. Então a gente
+3300280 3302560 (07) quis, quando a gente pensou em fazer uma paródia,
+3302560 3303760 (07) a gente falou, cara, já foi feita
+3303760 3305200 (07) do Saint Seiya.
+3305700 3308060 (07) Cara, pra mim Saint Seiya é a...
+3308060 3309360 (07) tipo, a outra abertura.
+3309820 3312060 (07) A abertura original, pra mim, é aquela
+3312060 3313980 (07) que a gente cantou. Eu não lembro de quem é.
+3314380 3315980 (07) Que é, sei lá, maravilhosa.
+3316280 3318080 (07) Adorei as outras 87 referências
+3318080 3319880 (07) do episódio. Em especial, ao mestre
+3319880 3322160 (07) Mochila de Criança Yoda e Romeo e Julieta.
+3322900 3324260 (07) Só o Guaxa mesmo pode misturar
+3324260 3326180 (07) o melhor de cultura pop
+3326180 3327340 (07) com o clássico da literatura.
+3327540 3329600 (07, 03) Você é muito bom mesmo, Sr. Guaxa.
+3329600 3332060 (07) Não quero fazer teorias nem nada sobre o que aconteceu
+3332060 3333720 (07) para certas pessoas mudarem.
+3333760 3336080 (07) De lado. E que outros personagens
+3336080 3337600 (07) vão retornar a aparecer.
+3338080 3340220 (07) Só tenho uma pergunta. Logo no início do episódio
+3340220 3341860 (07) tem um cara que sai
+3341860 3343640 (07) correndo com uma churrasqueira. E o nome dele
+3343640 3345420 (07) me soou familiar. Eu entendi, certo?
+3346760 3348000 (07) Parabéns a todos pelo episódio
+3348000 3348660 (07, 02) e boa noite.
+3348800 3351320 (02) Eu, inclusive, comentei no grupo principal
+3351320 3353780 (02) o que você acha sobre NPC
+3353780 3355640 (02) mudo. Você não me respondeu porque não tinha resolvido
+3355640 3357440 (02) o episódio ainda e depois deve ter esquecido.
+3357920 3359780 (02) Mas era isso. Aquele NPC era
+3359780 3361500 (02) você. Embora sem voz.
+3361500 3363040 (02) Se o Jill tiver fala,
+3363040 3364480 (02) eu te chamo.
+3364640 3367040 (02) Obrigado pelo teu comentário. O próximo comentário é da Fabiola Bela.
+3367120 3367720 (02) Ela coloca.
+3368120 3370840 (02) Boa noite, Guaxual, que é o
+3370840 3373040 (02) pessoal mais guaxa. Guaxa,
+3373100 3375100 (02) que sou eu. Tiki, que é
+3375100 3376480 (07, 02) o Tiki. Sou eu. Boa noite.
+3376660 3378480 (02) Guaxate e ouvinte Nins.
+3378860 3381240 (02) Passando aqui para não ficar conhecido
+3381240 3383440 (02) por só comentar nos episódios que participo.
+3383880 3384860 (02) KKKKKKK
+3384860 3387260 (02) Brincadeira. Vim dar os parabéns
+3387260 3389420 (02) a todos. Vocês são incríveis.
+3389540 3390440 (02) É verdade, eles são incríveis.
+3390440 3392360 (02) E queria comentar também que...
+3392360 3394220 (02) Eles não. Ela incluiu você aí, tá?
+3394420 3396380 (02) Ah, é verdade. Eu queria comentar também que
+3396380 3398460 (02) imaginei a tiazinha aparecendo a Genkai
+3398460 3400540 (02) de Yu Hakusho. De novo, Yu Hakusho
+3400540 3402660 (02) é uma referência pra mim. E sim,
+3402820 3404180 (02) tem muita Genkai ali também.
+3404780 3406500 (02) Só que ela não era tarada. Ela era viciada
+3406500 3408620 (07, 02) em jogos e cigarros. E você vê
+3408620 3410440 (07, 02) que os otakus
+3410440 3412260 (02) todos saíram do bueiro com esse episódio, né?
+3412280 3414760 (02) Saem. O pessoal sai. Dá uma sacudida e ele sai.
+3415240 3416560 (02) E fiquei pensando se a gata do
+3416560 3418360 (02) Romildo, citada pela
+3418360 3420220 (02) atriz avó, não seria
+3420220 3422260 (02) a armadura da gata. Não,
+3422260 3423680 (02) é só uma piada com a Atena mesmo.
+3424040 3426540 (02) Eu criei na hora, inclusive. Ela não tava nem no texto original.
+3426640 3428320 (02) Inclusive, quando você falou, a minha vontade
+3428320 3430120 (02) de gritar Atena
+3430120 3432280 (02) foi muito grande. Fica aí o questionamento.
+3432760 3434200 (02) Até a próxima. Vida longa
+3434200 3435980 (02) ao FP Guacho. Obrigado, querida.
+3436260 3438240 (02) Você faz parte muito, muito essencial
+3438240 3440240 (02) dele. Ela é uma
+3440240 3442040 (02) das cabeças lá do Instagram
+3442040 3444120 (02) e uma das pessoas que me atura.
+3444420 3446400 (02) E só tem Guaxaverso porque a Fabi
+3446400 3448640 (02) sempre me pergunta, quando é que vai ser o Guaxaverso?
+3448940 3450240 (02) Com quem vai ser? Aí eu vou lá
+3450240 3451700 (02) e pergunto pras pessoas e organizam.
+3452260 3453840 (02) Muito obrigado, querida, mesmo.
+3454180 3456640 (02) Ela bota, PS, não esquece o crossover Guaxa.
+3457220 3458300 (02) Não vou prometer nada.
+3458400 3459940 (07, 02) Deixa eu te fazer uma proposta, Guax.
+3460500 3462020 (03, 07) Você quer ler o do Gustavo
+3462020 3464060 (07) e aí eu leio o meu
+3464060 3466180 (07) e o da Ju, que tem um ler mais.
+3466300 3467680 (07) Fechou. Olha como eu sou bonzinho.
+3467880 3470300 (02) Gustavo Martinez, ele coloca. Boa noite.
+3471080 3472520 (02) Guaxalera, que é a galera
+3472520 3474420 (02) do Guaxa, quero dar os
+3474420 3476600 (02) parabéns a todas as pessoas desse episódio
+3476600 3478500 (02) que foi muito divertido. 50% pra cada.
+3478500 3480840 (02) É verdade. Aqui, inclusive, a gente tá 100%.
+3480840 3482140 (02) 50% do Tico, 50%.
+3482260 3484500 (02) Ao começar a ouvir o episódio,
+3484620 3486300 (02) percebi o chiado no sotaque da
+3486300 3488480 (02) Juleiva e pensei, ué,
+3488920 3489900 (02) ela não fala assim?
+3490380 3492080 (02) Me pegou de surpresa e adorei.
+3492160 3494580 (02) KKKKKJ. Na primeira cena
+3494580 3496440 (02) do trem de corrida, quando a Dora
+3496440 3498640 (02) resolve pegar uma bicicleta, me lembrei
+3498640 3500200 (02) de uma história que meu pai contava.
+3500660 3502640 (02) No mal de educação física no ginasial,
+3503140 3504560 (02) eles tinham que correr uns 10
+3504560 3506560 (02) quilômetros pelo bairro onde estava
+3506560 3508560 (02) o colégio. Ele e um amigo
+3508560 3509960 (02) resolveram pegar um ônibus
+3509960 3511960 (02) para não
+3512260 3514260 (02) precisarem correr com tudo. Chegaram
+3514260 3515720 (02) de volta perto do colégio,
+3516120 3518260 (02) esperaram um pouco e foram correndo para a
+3518260 3520580 (02) chegada como se nada tivesse acontecido.
+3521160 3522280 (02) Resultado. Record
+3522280 3524280 (03, 02) mundial e um professor
+3524280 3525560 (02) extremamente confuso.
+3526020 3528040 (02) No final, confessaram que pegaram um ônibus
+3528040 3530240 (02) e levaram castigo. Achei
+3530240 3531940 (02) que a Dora ia enganar a tiazinha.
+3532340 3533540 (02) KKKKKJ.
+3534180 3536420 (02) Por fim, parabéns novamente e precisamos
+3536420 3537860 (02) de mais Jean
+3537860 3540080 (02) no RPG Guaxa. Olha só, um fã do Jean
+3540080 3542080 (02) que nos dá. Deve ser parente.
+3542260 3544320 (02) Não, Jean é Macedo. É o Macedog.
+3544500 3546180 (07, 02) Porra, Macedog. Não, é porque
+3546180 3548000 (07) isso é porque o...
+3548000 3549900 (07) Aqui na Twitch, ele é
+3549900 3552400 (07) Macedo J.G.
+3552940 3554020 (07) Só que eu, né,
+3554100 3555920 (07) DDA do caralho, eu lia
+3555920 3558060 (07) Macedog. Eu falei pra ele isso.
+3558140 3560040 (07) Ele riu, ele aproveitou que ele é o cavaleiro
+3560040 3561760 (07) do cachorro e
+3561760 3564080 (07, 02) colocou como Jean Macedog
+3564080 3566100 (02) o nome. Isso é legal assim, eu não lembro,
+3566180 3568200 (02) eu não sei dizer. O Morro do Coelho, obviamente
+3568200 3569380 (02) era por causa da Zinha.
+3569920 3572080 (02) Eu queria um animal que fosse assustador,
+3572080 3573980 (02) mas não mais assustador nos 25.
+3574400 3576320 (02) E daí eu peguei o tigre. O cachorro,
+3576620 3578360 (02) eu sei lá, eu não sei que critério
+3578360 3580560 (02) eu usei pra chegar no cachorro,
+3581000 3582220 (02) mas as armaduras
+3582220 3584220 (02) estavam definidas antes da aventura começar.
+3584560 3586280 (02) Eu não sabia pra quem ia cada uma,
+3586440 3588240 (02) né, mas que seriam essas três
+3588240 3590080 (02) armaduras, eu sabia
+3590080 3591760 (02) e eu escolhi só pela
+3591760 3594180 (02) referência. Ninguém perguntou,
+3594260 3596320 (07, 02) mas eu quis responder. Ótimo, curiosidade
+3596320 3598520 (07) é ser bem-vindo. O próximo comentário
+3598520 3600120 (07) é do Patrick Buchmann.
+3600120 3602060 (07) No caso, eu. Vai fazer
+3602080 3603380 (07) algum comentário a respeito, Guaxa?
+3603580 3606280 (07, 02) Eu já fiz, já bingaram, mas ah, absurdo
+3606280 3608220 (07) a pessoa que só comenta nos episódios.
+3608380 3610160 (07) Não, é que normalmente você fala também, ah, adoro esse momento
+3610160 3612220 (07) que o convidado lê o próprio comentário.
+3612280 3613680 (07, 02) Ah, tem, eu tô...
+3613680 3615780 (07, 02) Pô, Guaxa, tem que anotar as suas falas
+3615780 3617720 (07, 02) para os bordões, Guaxa. É difícil,
+3617880 3619940 (07, 02) são péssimos humoristas. Salve, Guaxa.
+3620160 3622120 (07) Salve. Guaxate e Guaxa ouvintes.
+3622480 3624040 (07) Eu me excluí porque eu já sabia que eu ia estar aqui.
+3624360 3626080 (07) Fiquei pensando no que comentar e foram
+3626080 3628060 (07) tantas coisas, tantos sentimentos que só
+3628060 3629720 (07) consigo dizer obrigado.
+3630040 3632000 (07) Obrigado a Ju e ao Jean por serem meus
+3632000 3634000 (07) irmãos, com todo o carinho, cuidado
+3634000 3635560 (07) e implicância que irmãos têm.
+3635940 3637920 (07) Ao Zorzal por deixar esse episódio
+3637920 3639420 (07) mais maravilhoso com sua edição.
+3639900 3642000 (07) E principalmente ao Guaxa, por além de ter
+3642000 3644080 (07) criado esse mundo incrível, ter me chamado
+3644080 3646120 (07) para fazer parte dele. Mais uma vez,
+3646380 3648060 (07, 02) obrigado. Obrigado, querido. Eu que agradeço
+3648060 3649840 (07, 02) por você emprestar
+3649840 3652300 (02) um pouco da sua luz para este episódio
+3652300 3653540 (02) que ficou incrível, realmente.
+3654020 3656120 (07, 02) Você é metade desse episódio. Fico feliz demais,
+3656460 3657820 (07) de verdade, fico... Realmente
+3657820 3660180 (07) eu pensei muita coisa e obrigado
+3660180 3661980 (07, 02) é o que eu consigo falar
+3661980 3663480 (07, 02) assim, do fundo do coração.
+3663600 3665920 (02) A Flávia, que eu também tenho que chamar de estar na minha lista
+3665920 3667140 (02) de coisas a fazer ainda,
+3667680 3669840 (02) ela que me ensinou isso, na dúvida
+3669840 3672200 (02) desobrigado, ela é um ser humano
+3672200 3673880 (02) melhor que todos nós. E, como combinado,
+3673960 3675660 (07, 02) eu vou ler o próximo comentário, que é
+3675660 3677920 (07) da Juliana Leiva, a famosa
+3677920 3679860 (07, 02) Jumozinha. Eu acho que é a primeira
+3679860 3682080 (07, 02) vez que a gente tem os três jogadores comentando
+3682080 3683540 (07) o seu post. Ou é. Então,
+3683900 3685760 (07) mais um motivo para ter a gente de volta em aventura,
+3685820 3687640 (07) em falo mesmo. E eu acho que é a primeira vez.
+3687840 3689260 (07) Alô, alô, Guaxa humanidade!
+3690260 3691800 (07) Destacando que Guaxa e
+3691980 3694080 (07) Guaxa unvidade fazem parte da comunidade
+3694080 3695480 (07) também. Verdade. Número um,
+3695780 3697920 (07) bebam água. A minha acabou e eu tô querendo mais.
+3698060 3700120 (07) Eu tenho ainda. Número dois, foi bom demais
+3700120 3702020 (07) dar pulinhos ao pegar diversas
+3702020 3704120 (07) referências, sejam externas ou do próprio
+3704120 3706160 (07) Guaxa verso. Ouvir a voz da Shelly
+3706160 3708260 (07) e a do Felipe foi incrível. Ainda,
+3708600 3710100 (07) Romildo e Juliette, Ballardino
+3710100 3711960 (07) e Rebelbia entregaram muito e eu
+3711960 3713740 (07) amei e fiquei contente.
+3714140 3716340 (07) Três, não poderia deixar de agradecer
+3716340 3718060 (07) ao Guaxa, ao Jean e ao Tic
+3718060 3719560 (07) e, claro, ao Zorzal.
+3720080 3721720 (07) Essa máquina vampira...
+3721980 3724220 (07) Essa máquina vampira maravilhosa de edição.
+3724740 3726220 (07) Ah, o Zorzal, ele é
+3726220 3728080 (07) insano, assim. Eu conheci o Zorzal
+3728080 3729640 (07) pessoalmente aqui no Rio, quando ele veio.
+3730140 3732240 (07) Cara, e, assim, tem pessoas que
+3732240 3734680 (07) são 220 e o Zorzal é 440.
+3734900 3736160 (07) Ele é muito, muito
+3736160 3737920 (07) agitado pra lá e pra cá o tempo inteiro.
+3738020 3740080 (07) Ele contando de que ele edita em não sei
+3740080 3742360 (07) quanto tempo, assim. Ele é realmente uma máquina
+3742360 3743700 (07) vampira de edição.
+3744180 3745920 (07) Ainda aponto que a letra do Jean
+3745920 3748160 (07) para a paródia ficou excelente. Por outro
+3748160 3750060 (07) lado, a humildade do
+3750060 3751920 (07) Flávio barra Tic, com
+3751980 3754120 (07) contribuiu demais com a história. E com a
+3754120 3756200 (07) saúde da tiazinha, aí não se pode
+3756200 3756720 (07) afirmar.
+3757780 3760280 (07) Acho que houve um entrosamento bacana entre os jogadores
+3760280 3762120 (07) e isso foi divertido. Obrigado
+3762120 3764260 (07) por isso, seus maravilindes. Eu também
+3764260 3766240 (07) já agradeci no comentário
+3766240 3767780 (07) anterior, agradeço de novo,
+3768240 3770160 (07) porque foi realmente uma interação muito boa,
+3770280 3771540 (07) foi muito fluido, assim.
+3772040 3774040 (07) A gente tava ali e as coisas
+3774040 3775620 (07) foram indo, sabe? Não teve
+3775620 3778180 (07) aquela coisa de, peraí, deixa eu pensar o que eu vou
+3778180 3780320 (07) falar agora. Não, as coisas só foram, tipo,
+3780780 3781960 (07) eu tava ouvindo de novo,
+3781980 3784000 (07) eu tava, tipo, contando na mão, o negócio
+3784000 3785960 (07) da tiazinha, como eu tava fazendo,
+3786080 3788100 (07) tipo, o Jean, né? No caso, o Eric
+3788100 3790000 (07) foi dar um tapa na mão do Eric,
+3790180 3791980 (07) do Flávio, e eu achei que isso
+3791980 3793840 (07) ficou maravilhoso. Eu conseguia ver, tipo,
+3794360 3795440 (07) meus irmãos. Eu tenho
+3795440 3798020 (07) quatro irmãos. Então, essa relação de
+3798020 3799680 (07) irmãos muito próximos é bem
+3799680 3802260 (07) familiar pra mim. Então, é...
+3802260 3803960 (07) foi maravilhoso, assim. Maravilhoso.
+3804020 3805740 (07) Eu gostei muito, muito, muito da nossa
+3805740 3807640 (07) entrosação nesse episódio.
+3807920 3809860 (07) Quatro. Ainda, peço perdão
+3809860 3811680 (07) às pessoas de Laguna de
+3811980 3814040 (07) Rio pelo sotaque da Dora. Sua fala
+3814040 3815900 (07) misturou-se à de Santa Caquita do Sul
+3815900 3817320 (07) e ficou, assim, peculiar.
+3818580 3820020 (07) Agora, algumas perguntas.
+3820360 3821960 (07) Estou curiosa pra saber o que aconteceu
+3821960 3823620 (07) com o Pedro. Quais foram as
+3823620 3825880 (07) diferenças que, aparentemente,
+3825940 3827740 (07) o afastaram da Anísia barra tiazinha?
+3827780 3830040 (07) Vamos ter uma aventura no dia que talvez explique isso.
+3830180 3831960 (07) Seis. Por um acaso, havia
+3831960 3833760 (07) algo que os jogadores podiam fazer para que
+3833760 3835880 (07) Romildo e Juliette não se destruíssem? Não com
+3835880 3838080 (07, 02) o poder que eles tinham. Infelizmente, esse
+3838080 3839880 (02) era inevitável e vai ser
+3839880 3841520 (02) o estopim de muita coisa. No mais,
+3841980 3843580 (02) obrigada por tudo, gente maravilhosa.
+3843820 3845240 (02) Com carinho, Jumazinho.
+3845540 3847420 (02) Eu que agradeço, mais uma vez.
+3847720 3849560 (02) Assim, a Ju comenta como se fosse um evento
+3849560 3851220 (02) ela ter participado do episódio, né?
+3851540 3853720 (02) A gente sabe que pra ela é mais um, só ela participou
+3853720 3855800 (02) de um milhão. Mas, muito
+3855800 3857780 (02) obrigado pelo seu comentário. A Ju foi a
+3857780 3859000 (02) primeira pessoa que eu chamei pro episódio.
+3859340 3861820 (03, 02) E ela me ajudou a escolher o resto do
+3861820 3863680 (02) elenco, então, Jean e Tia
+3863680 3865860 (02) que podem agradecer ela tranquilamente. Obrigado, Ju!
+3866320 3867820 (02) Assim, eu amei o episódio,
+3868100 3869120 (02) tudo que aconteceu.
+3869120 3871120 (02) Vocês três foram maravilhosos.
+3871980 3873480 (02) Era uma aventura. Tinha que ser
+3873480 3875220 (02) vocês. Sabe, por mais que eu tava
+3875220 3877300 (02) até começar a aventura, eu tava
+3877300 3879120 (02) inseguro, porque é um
+3879120 3880920 (02) episódio importante, né?
+3881400 3883520 (02) E, à medida que as coisas foram acontecendo,
+3885420 3886040 (02) eu sabia
+3886040 3887580 (02) que eu tinha feito as escolhas
+3887580 3889500 (02) certas. Então, muito obrigado aos três.
+3890000 3891240 (02) O episódio, eu...
+3891240 3893000 (02) Não é brincadeira que
+3893000 3894860 (02) o jogador é 50% do episódio,
+3895340 3897540 (02) porque é. Se eu quisesse contar uma história
+3897540 3899300 (02) sozinho, eu fazia só um audiodrama,
+3899400 3901500 (02) escrevia um conto. A ideia aqui
+3901980 3903960 (02) é uma história conjunta. Por mais que
+3903960 3905680 (02) o final,
+3906160 3908260 (02) Romildo e Juliette, podia ser evitado,
+3908460 3910260 (02) não. É uma culpa minha.
+3910680 3912080 (02) Mas tudo que aconteceu durante
+3912080 3913720 (02) o episódio, as escolhas dos jogadores,
+3914120 3915840 (02) eles podiam ter perdido pro Tigre,
+3916340 3917980 (02) eles podiam ter sido derrotados,
+3919040 3920200 (02) eles podiam ter tomado
+3920200 3922220 (02) N atitudes. Eles tinham acesso
+3922220 3923780 (02) à arma de fogo, eles podiam ignorar
+3923780 3926020 (02) todo treinamento e dar uma
+3926020 3927600 (02) de Zé Pequeno.
+3927920 3930160 (02) Tudo tava na mão deles. O episódio só foi
+3930160 3931600 (02) como foi, por conta
+3931980 3933860 (02) deles. Tinha um detalhe imutável?
+3933980 3935740 (02) Tinha um detalhe imutável. Mas
+3935740 3937860 (02) todo o resto é obra
+3937860 3939780 (02) de... é um conjunto nosso.
+3940100 3941240 (02) E mesmo a forma como
+3941240 3943700 (02) eles sentiram o impacto do final,
+3944120 3945760 (02) a forma que foi feito depois,
+3946200 3947860 (02) aquelas... o pós-crédito
+3947860 3949900 (02) de cada um ali, foram escolhidos
+3949900 3951420 (02) dois jogadores. Então eu só posso
+3951420 3953260 (02) agradecer cada um deles.
+3953940 3955900 (07) E os dados, né? O que eu falo, os dados
+3955900 3957580 (07) dessa vez, eles ajudaram muito.
+3958320 3959580 (07) Na luta inicial,
+3959580 3961020 (07) contra os irmãos Marcelo,
+3961020 3963440 (07) foi excelente a gente ter ido mal
+3963440 3965280 (07) nos dados. Sim. Porque era realmente ali
+3965280 3967420 (07) uma cena pra gente perder. Aquela cena que o
+3967420 3969580 (07) herói cai, pra depois de treinar
+3969580 3971100 (07) e chegar onde ele tem que chegar.
+3971620 3972820 (07) Isso foi maravilhoso.
+3973160 3975280 (02) Então eu vou cravar uma nova regra aqui.
+3975940 3977400 (07, 02) Os dados são 50% do episódio.
+3977440 3979660 (07, 02) Acho justo. Os dados também são 50% do episódio.
+3979840 3981400 (07, 02) Fechou. Pra mais ou pra menos.
+3981540 3983420 (07, 02) É. O próximo comentário
+3983420 3985540 (02) é do Renan Cunha. Ele coloca
+3985540 3987800 (02) Boa noite Guaxa e Guaxonautas
+3987800 3989580 (02) de todas as realidades paralelas.
+3989580 3991260 (02) Esse é meu primeiro comentário.
+3991620 3993560 (02) Então não deixarei perguntas.
+3993900 3995460 (02) Mas deixarei meu agradecimento
+3995460 3997640 (02) ao Guaxa e aos envolvidos por essa aventura
+3997640 3999660 (02) maravilhosa. Vocês são realmente
+3999660 4001400 (02) incríveis. Você é incrível, Renan.
+4001460 4003700 (02) Obrigado pelo seu comentário. Eu gostei muito.
+4003700 4005520 (02) Muito, sim, de gravar.
+4005880 4007760 (02) Mas o que faz a diferença pra mim
+4007760 4009480 (02) é ouvir o feedback.
+4009900 4011200 (02) Enquanto o episódio não sai...
+4011200 4013260 (02) Eu lancei pros padrinhos o episódio na segunda.
+4013980 4015440 (02) Na segunda eu tava abrindo o portal
+4015440 4016780 (02) deviantes pra ver se tinha comentário.
+4017780 4019180 (02) Só que o episódio só saiu na quinta.
+4019580 4021680 (07, 02) O portal deviantes. Eu quase fiz
+4021680 4023640 (07, 02) isso também. Eu fiz duas vezes.
+4023800 4026020 (02) Eu fiz na própria... Na segunda ou na terça
+4026020 4027680 (02) e depois na quarta-feira
+4027680 4029520 (02) de novo. Eu fiz, tá?
+4029980 4031320 (02) Mas terminando aqui o episódio dele.
+4031680 4033740 (02) Guaxa, cada episódio você me surpreende
+4033740 4035880 (02) mais. Porque tu não esperava nada
+4035880 4037680 (02) e agora tá sendo uma coisa... Não, mentira. Obrigado.
+4037800 4039540 (02) Eu tô continuando. Então deixa um
+4039540 4041500 (02) biscoito especial pra te incentivar
+4041500 4043580 (02) a continuar assim. Esse especial é meu. Isso.
+4043580 4045740 (02) Que o Flávio já comeu os do Tigre lá em cima.
+4045780 4047580 (07, 02) Exatamente. O Patrinho. Aguarda um
+4047580 4049080 (02) crossover de Cavaleiros do Bicho.
+4049580 4051680 (02) Contra as Aves do Mal. Cuco
+4051680 4053520 (02) e Corvo. Não. Não vai ter.
+4053880 4055440 (02) Aves do Mal de Jogo do Bicho é
+4055440 4057580 (02) pavão, é galinha, tem
+4057580 4059740 (02) avestruz, que eu lembro que tem avestruz.
+4060220 4061720 (02) Ah, tem galo. Não tem galinha, mas
+4061720 4063680 (02) tem galo. É galo, avestruz,
+4064760 4065380 (02) pavão,
+4066040 4067860 (02) pavão, acho que de ave é só.
+4068040 4069420 (02) Eu não faço ideia. É.
+4069520 4071560 (02) Vamos descobrir. Um grande abraço
+4071560 4073720 (07, 02) a todos. Um grande abraço, querido. Um grande abraço.
+4073960 4074960 (07) Próximo comentário é do
+4074960 4077040 (07) Trilva, ou TR Silva.
+4077440 4079540 (07) É sempre bom ver que você tá gravando e
+4079580 4081560 (07) deu tempo de vir comentar. Muito bom
+4081560 4083660 (07) o EP. Gostei muito das referências.
+4084220 4085660 (07) Quero uma armadura de corvo que usa
+4085660 4087280 (07, 02) um timão barra leme como arma.
+4087440 4089480 (02) Repito, não tem corvo no Jogo do Bicho.
+4089860 4091820 (02) Próximo comentário é do Juscelino Machado
+4091820 4093420 (02) Cacetari.
+4094120 4095620 (02) Eu espero ter citado teu nome, porque senão
+4095620 4097680 (02) desculpa. Boa noite, Guaxa. Sou eu.
+4097860 4099640 (02) Guaxão Vidado. Opa.
+4099760 4101280 (02) Que é o tipo. Parou o Guaxate.
+4101820 4103480 (02) E eu estou me dando boa noite também
+4103480 4105740 (02) nesse caso? Não sei. Juscelino, você está no chat?
+4105960 4107560 (02) Foi há 35 minutos atrás que ele
+4107560 4108840 (02) comentou. Acredito que sim.
+4109580 4111540 (02) Enganado, né? Estamos aqui sofrendo.
+4111840 4113380 (02) Falei que não comia e ele meteu um...
+4113380 4114840 (02) Ah, ele falou que tem águia no corvo.
+4115080 4117500 (02) No jogo do bicho. Ah, é verdade.
+4117660 4119020 (02) Tinha águia. Tinha águia.
+4119440 4121000 (02) Que era o Pena, no original.
+4121560 4123200 (02) Ele tem... Ele faz...
+4123200 4125560 (02) Ele só conversa com o grupo. Ele nem...
+4125560 4127420 (02) Ele não tem luta, ele não tem nada. Talvez a gente
+4127420 4129320 (02) mude isso agora. Em algum momento a gente podia
+4129320 4131500 (02) fazer os 25
+4131500 4133260 (02) morros, né? Cada episódio
+4133260 4134740 (02) um dia ele chega lá.
+4136180 4137160 (02) Deixa eu continuar aqui.
+4137300 4138800 (02) Não descobri se ele está aí no chat ou não.
+4138800 4140940 (02) Ah, tem o Piru! Tem o Piru!
+4141260 4142980 (02) O dia... O dia...
+4142980 4145080 (02) O tigre vai enfrentar o Piru.
+4145420 4146260 (02) Vamos voltando aqui.
+4146460 4148660 (07, 02) Fala Piru. Eu só lembro do seu Piru, cara.
+4148720 4150440 (07) Não consigo. Pô, saudoso.
+4150700 4152640 (07) Saudoso. Saudoso Orlando Drummond.
+4152740 4154420 (07) Mas eu não consigo não lembrar do seu Piru.
+4154600 4156760 (07) Ia ser muito engraçado se o Cavaleiro do Piru
+4156760 4158940 (07, 02) falasse igual o Scooby-Doo. Vamos anotar.
+4159480 4160280 (02) Talvez, talvez.
+4160800 4162840 (02) Eu sempre falei assim. Ah, o dublador do Scooby-Doo
+4162840 4165120 (02) é o seu Piru. Eu não falava
+4165120 4166260 (02) Orlando Drummond. Não falava.
+4166260 4167600 (03, 02) Não, ele era incrível.
+4168800 4170780 (02) Bacana de tristeza de quem já foi. Continua.
+4172240 4173080 (02) É... E ele continua.
+4173220 4175140 (02) E aos guaxa-ouvintes, que é você que está ouvindo
+4175140 4177380 (02) editado, desejo bom dia,
+4177600 4179160 (02) tarde, noite. Eu estou me
+4179160 4181160 (02) cumprimentando novamente? Espero que sim.
+4181240 4182560 (02) Pelo menos editado você esteja ouvindo.
+4183060 4184980 (02) E próximo comentário do Guaxaverde, gente,
+4185060 4187300 (02) deixa lá se você escuta... No horário do dia
+4187300 4189080 (02) você escuta o podcast. Pode botar no seu comentário
+4189080 4191500 (02) lá no final que eu quero fazer essa enquete.
+4192140 4192800 (02) Enquanto é um episódio,
+4193020 4194780 (02) venho apenas dizer que foi perfeito.
+4194780 4196960 (02) Zero defeitos. Prendeu do início
+4196960 4198780 (02) ao fim. No início do Guaxaverde,
+4198800 4201120 (02) no começo de hoje, falaram de continuações
+4201120 4202460 (02) e sobre outros episódios.
+4202880 4204780 (02) E me perguntei, quando iria vir
+4204780 4207040 (02) as continuações dos guaxanimes,
+4207480 4209080 (02) luteadores e samurais?
+4209420 4210600 (02) Samurais é bem difícil.
+4210900 4212800 (02) Caraca, os samurais lá das espadas
+4212800 4214900 (02) lendárias, né? Cara, esse episódio foi bem legal
+4214900 4216740 (02) mesmo. É... Sim. As espadas
+4216740 4218380 (02) lendárias talvez apareçam por aí,
+4218900 4220960 (02) mas os samurais
+4220960 4222140 (02) mesmo, a história deles estava
+4222140 4224920 (02) quase que fechada. Eu precisava
+4224920 4227180 (02) de tempo livre pra reouvir os episódios.
+4227180 4228520 (02) Só que se eu tiver tempo livre, eu vou dormir.
+4228800 4230460 (02) Acho injusto. Então não me dê tempo livre.
+4230980 4233100 (02) É, luteadores, não sei. Gosto muito dos luteadores.
+4233200 4234940 (02) Vamos ver um dia. Peço perdão por
+4234940 4236960 (02) estarem comentando durante a leitura dos comentários.
+4237160 4238860 (02) Não, perdão. Mas ouço já
+4238860 4240780 (02) desde mesmo antes do
+4240780 4243060 (02) primeiro Cavaleiros. Infelizmente, é a terceira
+4243060 4244840 (02) vez que eu comento. E as três vezes
+4244840 4246760 (02) foram já durante as leituras.
+4247160 4248500 (02) Cara, cadê o guaxa...
+4248500 4250800 (02) o Goblin, o
+4250800 4252760 (02) AdvoGlobin? Eu tenho um
+4252760 4254560 (02) processo a iniciar aqui. P.S.
+4254600 4256940 (02) Eu ouço pelo Spotify sobre animes
+4256940 4258560 (02) de esporte mencionado mais cedo.
+4258800 4260300 (02) Tem um de vôlei que é maravilhoso.
+4260700 4262800 (02) Melhor do estilo Haikyuu. Eu tô
+4262800 4263960 (07, 02) pra ver. Haikyuu é
+4263960 4266900 (07, 02) excepcional. Só que tem...
+4266900 4268340 (02) eu tenho medo de começar
+4268340 4270860 (02) com coisa com muita falta de tempo.
+4271000 4272160 (02) Eu normalmente vejo anime
+4272160 4274140 (02) fazendo café e lavando louça.
+4274480 4276640 (02) Tipo, eu ponho água pra esquentar, lavo uma loucinha, vejo
+4276640 4278820 (02) metade do episódio, aí tomo café
+4278820 4280700 (02) vendo a outra metade. E assim eu tô
+4280700 4282780 (02) seguindo com alguns indios chegando no
+4282780 4284520 (07, 02) Haikyuu. Então...
+4284520 4286380 (07) Mas obrigado pelo comentário. Haikyuu é muito bom, assim.
+4286380 4288160 (07) Às vezes é um jogo
+4288160 4289940 (07) de uma temporada e você fica
+4289940 4291880 (07) tenso cada episódio,
+4292200 4294360 (07) cada jogada,
+4294460 4296060 (07) cada bola indo pra lá, indo pra cá. E você fala
+4296060 4298100 (07) agora ela vai pro chão. Aí não vai. O cara pega e
+4298100 4300400 (07) fala... Como é que ele pegou essa bola?
+4300840 4302260 (07) Tu parece que tu tá ali no campo
+4302260 4304440 (07, 02) torcendo com eles. É muito bom, Haikyuu.
+4304720 4306360 (02) Eu, assim, eu espero
+4306360 4307620 (02) que isso vá...
+4307620 4310160 (02) RPG Watch de esporte
+4310160 4312160 (02) eu espero que tenha pego
+4312160 4314600 (02) uma... Eu aprimorei
+4314600 4316320 (02) o sistema pra ele ficar
+4316320 4318140 (02) justo pra que não importa o atributo,
+4318160 4320040 (02) que você tem. Tanto que um dos jogadores
+4320040 4322220 (02) era atributo... Dois jogadores tinham
+4322220 4324120 (02) atributo baixo. Ah, não. Um mudou
+4324120 4325940 (02) na hora de jogar e começou a ventura de mudar.
+4326400 4327920 (02) Mas um era atributo dois, pelo menos.
+4328360 4330000 (02) E ele foi tão efetivo
+4330000 4332140 (02) quanto os outros. E daí
+4332140 4334240 (02) vamos descobrir se foram efetivos
+4334240 4335820 (02) ou não. Eu espero que passe
+4335820 4337960 (02) esse clima. Eu já tô na ansiedade
+4337960 4339820 (02) pelo episódio que não tá nem editado. Vamos lá.
+4340360 4342120 (07, 02) Ah, eu também. É só de você falar.
+4342760 4343840 (07) E esse eu não joguei. Fala mesmo.
+4345060 4345860 (07) Olá, Guaxa.
+4346460 4347920 (07) Convidado. Ah, sou eu.
+4348160 4350260 (07) E Guaxete. Olá, meu querido.
+4350360 4351820 (07) Ah, eu esqueci de falar. É do Davi Lucas.
+4352220 4354300 (07) Que episódio maravilhoso. Gostei demais
+4354300 4356080 (07) do começo ao fim. Todos os jogadores foram
+4356080 4358400 (07) incríveis e a sinergia deles foi maravilhosa.
+4358760 4360280 (07) O desenrolar do episódio fluiu muito
+4360280 4361980 (07) bem. Fez com que o tempo fosse
+4361980 4364520 (07) passando e em um piscar de olhos
+4364520 4366100 (07) terminasse deixando o gosto
+4366100 4367880 (07) de quero mais. Não sei se o anime
+4367880 4368580 (07) Idaten
+4368580 4372060 (07) teve uma leve inspiração para como a
+4372060 4374040 (07) tiazinha agia. Pois lembra muito
+4374040 4375980 (07) a personagem principal do anime, onde ela é super
+4376120 4377880 (07) poderosa e trata os discípulos na base da
+4377880 4379820 (07) porrada. Chegando até a quase
+4379820 4381940 (07) matá-los e, claro, com todo
+4381940 4383800 (07) o tom cômico e com humor.
+4384140 4386380 (07) O final dos dois acaba sendo bastante emocionante
+4386380 4388100 (07) e junto ao sentimento demonstrado
+4388100 4389960 (07) pelos seus filhos, eleva mais
+4389960 4391660 (07) ainda o episódio dando um valor
+4391660 4394020 (07) bem maior ao sentimento que o episódio já fez
+4394020 4395600 (07) com que o ouvinte criasse.
+4395880 4398160 (07) Um episódio divertido, emocionante, triste
+4398160 4400060 (07) e feliz. Tudo ao mesmo tempo.
+4400440 4402240 (07) Um baita episódio. Muito obrigado
+4402240 4404100 (07) Guaxa e a todos vocês
+4404100 4406100 (07) que fazem parte desse universo incrível que é o
+4406100 4407820 (07) RP Guaxa. Ah, e
+4407880 4409880 (07) saber quem era o seu presidente no final foi
+4409880 4411540 (07) a cereja do bolo. Cara, a gente
+4411540 4413920 (07) só soube o presidente, quem era o presidente
+4413920 4415340 (07) também na fala.
+4415820 4417920 (07) Quando o Guaxa falou, né, pra gente
+4417920 4419840 (07) a fala do Felipe, né, do
+4419840 4421700 (07) Pedro, que a gente tava
+4421700 4423740 (07) arrancando os cabelos. Eu sei, tipo, se o
+4423740 4425500 (07) presidente quem é do nada, a gente ouve
+4425500 4427280 (07) vamos madruguinho. A gente
+4427280 4429260 (06, 07) ai meu Deus, como assim?
+4431360 4431500 (07) É.
+4431840 4433300 (07) Cérebro no teto e a gente
+4433300 4435520 (07, 02) tentando entender o que que tava acontecendo
+4435520 4437880 (06, 03, 02) estilo urso do pica-pau. É, assim, não tinha
+4437880 4439820 (02) como disfarçar que era a própria Shelly fazendo
+4439820 4441880 (02) a tiazinha. Isso ajuda a sacar
+4441880 4443620 (02) quem era, mas
+4443620 4446260 (02) a ideia era criar essa dúvida,
+4446440 4447840 (02) né, que não
+4447840 4449920 (02) funcionou por causa da voz, mas ok.
+4450420 4451520 (07, 02) Mas pros jogadores funcionou.
+4452020 4453480 (07) Funcionou, funcionou
+4453480 4455500 (07) perfeitamente, Guaxa. Ficou excelente.
+4455620 4457960 (02) E assim, ainda sobre a tiazinha
+4457960 4459400 (02) teve algumas pessoas no
+4459400 4461860 (02) privado que falaram, ah, eu não gostei
+4461860 4463720 (02) desse ponto, que é o personagem
+4463720 4465400 (02) dela tarado e etc e tal.
+4465880 4467840 (02) Ele, óbvio, assim, eu entendo essas pessoas,
+4467880 4469200 (02) elas não estão erradas.
+4469720 4471420 (02) Eu já abandonei muito o anime por causa
+4471420 4473600 (02) dessa loucura.
+4473920 4475040 (02) Eu aturo
+4475040 4477280 (02) o Sanji
+4477280 4479760 (02) no One Piece, porque tem algo muito
+4479760 4481780 (02) maior ali. O próprio mestre
+4481780 4483040 (02) Kame é ridículo.
+4483760 4485800 (02) A minha ideia, por ser uma mulher
+4485800 4487380 (02) mestre que o nariz sangra,
+4487740 4489220 (02) é pra quebrar um pouco isso.
+4489820 4491020 (02) Eu cheguei numa pesquisada,
+4491540 4493780 (02) no grupo de Otaku
+4493780 4495620 (02) Guaxinim, a gente chegou a
+4495620 4497260 (02) debater sobre o nariz sangrando.
+4497880 4499660 (02) Eu fingi que era pra ser sobre o Sanji,
+4500000 4501800 (02) mas na verdade eu tava já pensando sobre
+4501800 4503740 (02) esse tema, e alguém
+4503740 4505700 (02) trouxe um texto que mostra que
+4505700 4507800 (02) já apareceu personagens femininos
+4507800 4509940 (02) com nariz sangrando, mas é sempre um negócio
+4509940 4511800 (02) mais comedido, é um negócio
+4511800 4513540 (02) diferente. A minha ideia era
+4513540 4515780 (02) assim, ah, tá errado, tá errado.
+4516180 4517380 (02) Mas todo mundo pode
+4517380 4519740 (02) errar também. Vamos criar um personagem mulher
+4519740 4521580 (02) fadão que faz isso.
+4521940 4523720 (02) Então foi minha intenção ali.
+4524340 4524400 (02) Tá?
+4525340 4527840 (02) A minha intenção era o humor, gente, pelo amor de Deus.
+4527880 4528620 (02) Assim, desculpa.
+4557880 4559420 (07) Cômico mesmo, acho que ficou muito bom.
+4559840 4561800 (02) Mas, de novo, assim, eu já sabia, assim,
+4561880 4563660 (02) eu imaginei, né, que isso
+4563660 4566080 (02) algumas pessoas iriam não gostar,
+4566520 4568060 (02) e é direito de todo mundo,
+4568480 4569580 (02) como eu também sabia
+4569580 4571840 (02) da questão do personagem
+4571840 4574060 (02) da Juliette, que eu sabia
+4574060 4575360 (02) não, no caso eu tinha medo
+4575360 4578020 (02) de que se tinha sido respeitoso
+4578020 4579680 (02) do jeito que eu queria, se o personagem
+4579680 4581180 (02) tinha o peso que deveria ter,
+4581720 4583740 (02) e pelo menos nesse ponto foi mais
+4583740 4585160 (02) tranquilo, então eu prefiro
+4585160 4587800 (02) que eu tenha errado no
+4587800 4589620 (02) personagem do mestre,
+4589620 4591020 (02) ou feito algo diferente
+4591020 4593420 (02) do que no personagem importante como
+4593420 4595920 (02) da Juliette. Então, obrigado a todo mundo.
+4596420 4597620 (02) E o último comentário
+4597620 4599500 (02) é do Maxwell Rocha Santos,
+4599560 4601520 (02) ele coloca, bom dia, é quase dia,
+4601580 4603560 (02) a gente tá aqui há dois anos lendo
+4603560 4605300 (02) o comentário, é Guaxa,
+4605380 4607740 (02) sou eu, Guajuvidade
+4607740 4609200 (02) Opa! Que é o Patrick.
+4609820 4611440 (03, 02) Guajuvidade DR. É,
+4611580 4613460 (02) é pra ser doutor. Ah,
+4613540 4615800 (02) porque ele já comentou sabendo que tu tava aqui, né?
+4616000 4617320 (02) Sim, tem meia hora que ele comentou,
+4617320 4617780 (02) 40 minutos.
+4617800 4619420 (02) Foi pra te sacanear, olha só.
+4619640 4621100 (03, 07, 02) Eu sei, tô acostumado já.
+4622580 4623680 (02) Guaxamunidade e demais
+4623680 4625600 (02) ouvintinhos, obrigado. Olá, gente, todo mundo,
+4625680 4627180 (02) eu não sei nem mais quem eu sou.
+4627620 4629580 (02) Por acaso, ouvi de novo hoje pelo Spotify,
+4629840 4631780 (02) ainda não tô ouvindo de novo pelo
+4631780 4633880 (02) Orelo, por preguiça e desorganização,
+4634460 4635660 (02) mas tá nos planos
+4635660 4637720 (02) maratonar por lá também. Só vim
+4637720 4640120 (02) deixar biscoito a todos que participaram
+4640120 4642040 (02) e construíram esse belíssimo festival
+4642040 4643520 (02) de... Pô!
+4644000 4644560 (02) Que que é isso?
+4644560 4647460 (02) Eu acho que é isso.
+4647580 4647760 (02) Tá.
+4647800 4649880 (02) Com direito a lágrimas dramáticas
+4649880 4652000 (02) e otaquice. Parabéns, parabéns,
+4652060 4653820 (02) parabéns. O anime, se ele
+4653820 4655160 (02) não te faz chorar, ele não é um bom anime.
+4655300 4657920 (07, 02) Queria deixar isso certo. O anime, se não te faz
+4657920 4659560 (07) chorar por conta de um barco,
+4659680 4661660 (07, 02) não é um bom anime. Eu quero dizer a vocês
+4661660 4663640 (02) que o RPG Guax tem lojas parceiras, o link tá no
+4663640 4665740 (02) post. Quero agradecer a todo mundo que
+4665740 4667640 (02) estava aqui no chat, a todo mundo que apoia,
+4667720 4669880 (02) a todo mundo que segue nas redes sociais e, principalmente,
+4670080 4671700 (02) aos novos padrinhos
+4671700 4673560 (02) e madrinhas. Ou como disse o
+4673560 4676080 (02) Ala, madrinhos e padrinhas.
+4676380 4677520 (02) Quero agradecer, então,
+4677520 4679240 (02) a Mariane Silvestre.
+4679360 4681040 (02) Ao Ricardo Novoa.
+4681160 4683840 (02) Ao Ivan Silveira. Felipe Batista de Souza.
+4684040 4685600 (02) Marcelo, meu chará, Marcelo Machado,
+4685920 4687640 (02) que já era padrinho, deu problema com...
+4687640 4689560 (02) Agora ele mandou um e-mail pra mim até depois.
+4690040 4691360 (02) Deu um problema com a assinatura dele,
+4691460 4693340 (02) só reassinou. Pessoal, confere se
+4693340 4695400 (02) a assinatura de vocês tá ok, caso você
+4695400 4697340 (02) seja assinante. Se você não é,
+4697460 4699240 (02) você não tem assinatura pra conferir.
+4699660 4701160 (02) Mas se você é assinante, confere lá
+4701160 4703280 (02) se tá tudo certo. Foi o caso
+4703280 4705500 (02) do Marcelo e daí acabei botando o nome dele aqui de novo.
+4705500 4706420 (02) Obrigado, chará.
+4707520 4709500 (02) Vinícius Ribeiro Rodrigues.
+4709540 4711260 (02) Hugo de Araújo, Araújo.
+4711360 4713380 (02) Juliana, mais uma Juliana, olha só.
+4713880 4715700 (02) Terceira Juliana, que eu saiba.
+4715820 4717040 (02) Pode ter outra Juliana que não fale muito.
+4717800 4718540 (02) Que é a Juliana
+4718540 4721440 (02) Aracari... Aracarui?
+4722420 4722980 (02) Aracaui?
+4723360 4725380 (07, 02) Aracaui deve ser. Eu tô vendo que os
+4725380 4726840 (07) nomes mais complicados ficaram pra você.
+4727040 4728880 (07) Juliana Aracaui Rodrigues.
+4729140 4730520 (07) Luan Gabriel de Paula.
+4730860 4732540 (07) Thaís Zucchera.
+4732840 4734620 (07) Kátia Ana B. Silva.
+4736120 4737000 (07) Lucas Zoloc.
+4737520 4738900 (02) Gabriel Mício de Moura.
+4738980 4740580 (02) E Pablo Santos.
+4741300 4742860 (02) Muito obrigado a todos vocês, gente.
+4743440 4744660 (02) E antes de mais nada, eu queria fazer
+4744660 4746680 (02) algumas perguntas pro Tico, já que a primeira vez que ele tá aqui.
+4747280 4748440 (02) Dos personagens que tu jogou.
+4748500 4750560 (07, 02) Foram três aventuras, né? Foram cinco.
+4750940 4751300 (02) Cinco?
+4752860 4754380 (02) Vocês todos me enganam, gente.
+4754460 4756020 (02) Pelo amor de Deus. Cinco.
+4756200 4758320 (02) Vou te perguntar de novo depois e não vou lembrar, tá?
+4758440 4760940 (07, 02) Eu nunca enganei ninguém. Inclusive, você me perguntou
+4760940 4762260 (07) outro dia e eu falei que foram cinco.
+4762360 4763840 (07) Se tu me disser que foram duas, eu acredito.
+4763840 4766060 (07) Ou com essas seis, peraí.
+4766580 4767500 (07) Não, foram cinco ou seis.
+4767520 4769660 (07) Peraí. Ó, teve. O primeiro foi
+4769660 4770820 (07) o da Kelly. Tá.
+4771300 4772260 (07) Nós não falamos da Kelly.
+4773060 4774900 (07, 03) Aí teve Tinta. Tá.
+4775040 4776500 (07) Teve o Monstro. Tá.
+4776840 4778980 (07) Teve o da Vela, o Pavio.
+4779300 4781100 (07) E o Cavaleiros. E o Cavaleiros.
+4781240 4783320 (07) Como eu falei, cinco. Desses cinco, qual
+4783320 4785220 (07) deles é o teu favorito? Teu personagem
+4785220 4786940 (07) favorito que o jogo tu fez? Era
+4786940 4789320 (07) o Monstro. Agora é o Cavaleiros.
+4789860 4790580 (07) Cavaleiros foi
+4790580 4793220 (07) maravilhoso demais jogar, assim.
+4793860 4795880 (07) É um episódio que tem todo o histórico,
+4795880 4797360 (07) né? No RPG Guaxa e
+4797360 4799560 (07) como eu falei, foi um episódio que pra mim foi
+4799560 4801940 (07) maravilhoso, assim. A minha interação
+4801940 4803700 (07) com a Ju e com o Jean
+4803700 4805940 (07) foi incrível. A gente ficou muito, muito bem.
+4806400 4807980 (07, 02) Muito, muito fluido. A história foi maravilhosa.
+4808000 4809540 (07, 02) Deu. Já puxou o saco. Já puxou o saco.
+4809620 4811780 (07, 02) Já puxou o saco. Então tá bom. NPC que tu...
+4811780 4813540 (02) Eu quero comer. Eu quero dormir.
+4814240 4815900 (02) NPC que tu fez
+4815900 4817500 (02) que tu mais gostou de ter feito. NPC
+4817500 4819760 (07, 02) que eu fiz, que eu mais gostei de ter feito
+4819760 4821620 (07, 02) foi o
+4821620 4823160 (07, 02) Doutor Patrick. No episódio 100.
+4823160 4824860 (07, 02) Porra, muito bom. Porque foi
+4824860 4827220 (07) um personagem com o meu nome,
+4827360 4829280 (07) no episódio 100. Então eu acho
+4829280 4831140 (07) que foi um NPC que eu gostei muito
+4831140 4833120 (07) de fazer. Personagem jogador
+4833120 4835580 (07) que não seja seu favorito. Personagem
+4835580 4837460 (07) jogador que não seja meu favorito?
+4838580 4839420 (07) Porra, Guaxa!
+4839480 4840560 (07) Que pergunta difícil!
+4842440 4843320 (07) Cara, o Paper.
+4843400 4844800 (07) O Paper é sensacional, assim.
+4845080 4846400 (07) O Paper é incrível.
+4846900 4849280 (07) Mas é muito difícil. Eu começo a pensar
+4849280 4850680 (07) também, o Bob Rock,
+4850940 4852980 (07) o Reggae do Surf, é maravilhoso.
+4853680 4855040 (07) Maravilhoso demais. Aquela cena que ele
+4855040 4857000 (07) deita olhando pro céu. Nossa!
+4857360 4858860 (07) São muitos, são muitos personagens.
+4858940 4861200 (07) Eu vou ficar com o Paper pra não começar
+4861200 4863360 (07, 02) a divagar muito. O próximo personagem
+4863360 4865180 (02) do Fenkers que surgiu no seu feed
+4865180 4867460 (07, 02) é outra figura absurda
+4867460 4869040 (07, 02) a ser lembrado. O Fenkers é muito bom.
+4869120 4870720 (07, 02) Quero mais Fenkers no RPG. Então, teremos.
+4870840 4872340 (02) Esse ano ainda teremos pelo menos mais uma.
+4872440 4875160 (02) Por sinal, ele marcou comigo, tipo, era 6 horas no sábado
+4875160 4876340 (02) e ele tá no Canadá.
+4877000 4878980 (02) E se eu não avisasse pelo WhatsApp, ele
+4878980 4880040 (02) ia aparecer 2 horas depois.
+4880580 4883360 (07) NPC favorito.
+4884680 4885680 (02) Excluindo os que tu fez.
+4886160 4887280 (07) Depois dos últimos
+4887280 4889460 (07) episódios, eu acho que é a Boba.
+4889800 4891100 (07) Porque ela ganhou uma profundidade
+4891100 4892880 (07) bem interessante ali.
+4893020 4895280 (07) Dela não se conhecer, dela não saber direito
+4895280 4896400 (07) o que acontece com ela.
+4897020 4898900 (07) Então tem alguma coisa assim que eu fico pensando
+4898900 4901520 (07) o que era a Boba antes de ser a Boba.
+4902040 4902960 (07) Então eu fico
+4902960 4904980 (07) a Boba. Acho que é meu NPC favorito.
+4905540 4907280 (02) Espero que ela não volte mais.
+4907420 4908880 (02) Porque o pessoal diz que vai comentar bastante.
+4909140 4911420 (07, 02) Tem atributo favorito?
+4911420 4912760 (07) Essa pergunta é muito difícil.
+4912960 4914620 (07) Porque eu gosto de variar o atributo
+4914620 4916600 (07) de acordo com a personalidade que eu faço.
+4917280 4918440 (07) De acordo com o personagem que eu faço.
+4918800 4921380 (07) Então eu gosto de, às vezes, pegar um personagem
+4921380 4922960 (07) e botar um atributo 2, porque ele é mais
+4922960 4925000 (07) quietinho, ou mais fraco,
+4925140 4927100 (07) e ele é muito mais inteligente. Eu gosto de variar
+4927100 4927820 (07) o atributo mesmo.
+4928100 4930020 (07, 02) Aventura agora, vocês são pôneis mágicos.
+4930120 4930600 (02) Quais são os atributos?
+4930800 4932800 (02) Pôneis mágicos? 3.
+4933060 4933720 (02) 3, fechou.
+4934340 4937280 (02) Assim, o pônei mágico, ele define o número do seu coração.
+4937480 4939080 (02) A Shelly diria 4, por exemplo.
+4939900 4941440 (02) Pra fechar, com quem tu nunca jogou
+4941440 4943620 (02) e queria jogar uma aventura no RPG Watch?
+4943680 4943980 (02) Então.
+4944140 4946220 (02) Só vale pessoas que já jogaram RPG Watch?
+4946320 4946680 (02) Lógico.
+4947280 4949960 (07) Eu pensei em pensar em uma pessoa que é mais, todo mundo,
+4950960 4952120 (07) vamos botar assim, mais famosa,
+4952340 4954360 (07) que é a Jujuba. Eu adoro a Jujuba.
+4954500 4956200 (07, 03) A Jujuba tem as aventuras
+4956200 4957960 (07) mega galhofas e ela
+4957960 4959900 (07) tá mega solta, eu acho excelente.
+4960360 4962320 (07) Tem uma pessoa que não aparece tem um tempo no RPG Watch,
+4962380 4964180 (07) não é o Fencas, e que eu sempre achei
+4964180 4966140 (07) os personagens dele muito legais, que é o
+4966140 4967820 (07, 02) Felipe Queiroz. Felipe Queiroz, é verdade.
+4968240 4970140 (07, 02) Tá na minha lista de pessoas a chamar novamente.
+4970540 4972280 (07) Ele fez, um personagem
+4972280 4974020 (07) que eu gosto muito dele é o Amarelo, que ele fez,
+4974020 4975980 (07, 02) se não me engano, eu acho muito bom.
+4976140 4976900 (02) Eu acho ele muito bom.
+4976900 4979680 (02) Eu gosto muito do Padre também, que ele faz com a...
+4979680 4981940 (07, 02) O Padre é do Seu Natalino, não é?
+4982140 4983860 (07, 02) Não. Nossa, e o Padre
+4983860 4985980 (07) não é ele que fez? Não, é do
+4985980 4987940 (07) Saci, né? É, Fazenda do Seu Natalino.
+4988160 4989720 (07) Seu Natalino não, perdão, do Volipe.
+4990580 4991400 (07, 02) Confundi as fazendas.
+4991960 4994000 (07) É, maravilhoso, maravilhoso o que ele faz
+4994000 4995520 (07, 02) também, é o Seu Deolindo.
+4995920 4997760 (02) Mas, muito obrigado, Patrick.
+4998300 4999860 (02) Muito obrigado aos novos padrinhos,
+5000020 5001380 (02) muito obrigado aos velhos padrinhos,
+5002660 5003460 (02) obrigado a...
+5003460 5005520 (02) quem apoia a gente,
+5005620 5006620 (02) quem não consegue apoiar,
+5006900 5009340 (02) a quem segue nas redes sociais. Fala de novo onde as pessoas
+5009340 5011360 (07, 02) te encontram, Patrick. Bem, as pessoas podem me encontrar
+5011360 5012640 (07) no RPGuacha,
+5012940 5014740 (07) no Sycash,
+5015160 5016800 (07) e às quintas-feiras,
+5017260 5019500 (07) jogando RPG na twitch.tv
+5019500 5021120 (07) barra playonheart.
+5021220 5023240 (07) Muito obrigado, querido. E eu que agradeço, Guaxa,
+5023320 5025880 (07) pelo convite, pelo episódio, pra gravar o Guaxaverso
+5025880 5027580 (07) e por todo esse mundo
+5027580 5029240 (07, 02) maravilhoso que você faz pra gente.
+5029380 5031100 (02) Um beijo no coração de todo mundo que tá ouvindo,
+5031100 5033180 (02) seja ao vivo ou não. Saiba que o RPGuacha
+5033180 5035160 (02) só existe porque existem pessoas como
+5035160 5036880 (02) vocês e que o Guaxaverso, ele só
+5036900 5038920 (02) exige... não. Na verdade,
+5039260 5040160 (02) o Guaxaverso nem existe.
+5043120 5045120 (06, 03) Silêncio em Laguna
+5045120 5047120 (06) Um grito ecoando no ar
+5047880 5049400 (06) Flávio, Eric,
+5049840 5051120 (06) Dora, Tiazinha
+5051920 5053220 (06) Ajuda aqui
+5053220 5055160 (06) seus herdeiros
+5055160 5057000 (06) Chega o romil do
+5057000 5058540 (06) guerreiro
+5058540 5060800 (06) Cavaleiros do
+5060800 5061780 (06) bicho
+5061780 5065340 (06) Laguna de Abril
+5065340 5068740 (06, 03) Confia o legado aos fedeiros
+5068740 5070580 (06, 03) Tire cachorro e
+5070580 5071960 (06) coelho
+5071960 5074320 (06, 03) Cavaleiros do
+5074320 5075280 (06) bicho
+5093280 5094420 (unknown) Cavaleiros do bicho
+5094420 5095220 (05) Os bichos são
+5095220 5096640 (05) guerreiros e nos dados
+5096640 5098200 (05) é que está seu poder
+5098200 5102560 (05) são sempre um trio de feras
+5102560 5105540 (05) combatendo sempre as forças do mal
+5105540 5109260 (05) sou todos criativos
+5109260 5111220 (05) no ponto que o guaxa traz pra você
+5112080 5116600 (05) e quando a sorte ajuda a música
+5116600 5119220 (05) flui até que nada mal
+5119220 5122720 (05, 06, 03) entre os bichos da lenda
+5122720 5124180 (05, 06) a luta vai começar
+5124180 5126140 (06) e aqui rola tributo
+5126140 5127640 (06) até um deles ganhar
+5127640 5129580 (06, 03) silêncio em laguna
+5129580 5132360 (00, 06, 03) um grito ecoando no ar
+5132360 5134740 (00, 06, 03) Priscila, Jorge, Cristina
+5134740 5136360 (06) tiazinha
+5136360 5139700 (00, 06, 03) ajuda aqui seus guerreiros
+5139700 5142720 (06) entra Juliette no meio
+5142720 5146200 (06) cavaleiros do bicho
+5146200 5149860 (06) do samba ao funk
+5149860 5152860 (06) veja a música aqui de seu Pedro
+5152860 5154160 (06, 03) e a música
+5154160 5157100 (06) é sempre em primeiro
+5157100 5162200 (06, 03) cavaleiros do bicho
+5162200 5163760 (06) tiazinha
+5163760 5167080 (06) ajuda aqui seus guerreiros
+5167080 5170640 (06) seja o rubinho do guerreiro
+5170640 5175480 (06, 03) cavaleiros do bicho
+5175480 5177200 (06, 03) Laguna de Abril
+5177200 5180760 (06) confia um legado aos fedeiros
+5180760 5184120 (06) tigre, cachorro e coelho
+5184160 5186760 (06) cavaleiro do bicho
+5186760 5202820 (06, 02) deixa eu só voltar
+5202820 5204920 (02) correndo morro abaixo com uma faca
+5204920 5208260 (07, 08, 03, 02) é muito treinamento
+5208260 5209600 (03, 07) é muito treinamento
+5209600 5212240 (04, 03, 07) eu sou daquela criança
+5212240 5214100 (07) que tá correndo na casa com a tesoura
+5214100 5216660 (04, 07) esse é o jeito certo de descer o morro
+5216660 5217820 (04) todo mundo sabe
+5217820 5219340 (04, 07) meu Deus do céu, cara
+5219340 5221220 (07) não corro com faca as crianças
+5221220 5225420 (07, 02) ele parece não se espantar com isso
+5225420 5227320 (02) e desvia logo de assunto
+5227320 5228800 (02) mas ele então fala
+5228800 5230960 (02) então o
+5230960 5232820 (02) Marcelo
+5232820 5234280 (02) que bom nome Marcelo
+5234280 5238580 (02) ele tem um gato chamado Atena
+5238580 5240340 (02) é uma outra piada, Ju, que tu não vai pegar
+5240340 5241680 (04, 03, 02) que triste
+5244100 5245580 (04, 03, 02) corta isso então
+5245580 5250020 (04, 02) o Eric tirou 6, 4, 2 e 1
+5250020 5251420 (04, 02) deixa eu só calcular o da Dora
+5251420 5253360 (02) então tem uma falha
+5253360 5254340 (02) 5 minutos
+5254340 5256080 (02) e 3 acertos
+5256080 5259400 (02) dá 2 minutos, dá 6, 11 minutos
+5259400 5260500 (07, 03, 02) o crítico não interessa
+5260500 5261360 (07, 02) um acerto é crítico
+5261360 5262820 (02) ah não, teve um crítico, desculpa
+5262820 5265000 (02) deixa eu contar direito, que eu sou burro
+5265000 5266900 (07, 02) foi 5 minutos
+5266900 5270440 (02) mais 2, 7, 8
+5270440 5272760 (02) menos 1 do crítico, 7 minutos
+5272760 5273100 (02) é isso?
+5273380 5274060 (02) não, 9 minutos
+5274060 5275400 (02) menos 1 do crítico, 8
+5275400 5276060 (08, 02) eu sou de humano
+5276060 5278580 (08, 02) eu só tô aceitando, eu tô pedindo que eu tô entendendo
+5278580 5280080 (08, 02) tá bom
+5280080 5283600 (08, 02) se não ficar chato pode deixar as contas
+5283600 5284620 (02) senão a gente corta
+5284620 5287500 (04, 03, 02) auditoria
+5287500 5290640 (03, 02) mas aí vai pros extras
+5290640 5292280 (02) o Flávio tirou quanto?
+5292380 5294980 (02) um dos motivos é que no palco
+5294980 5296740 (02) tá uma linda cantora chamada
+5296740 5298660 (02) MC Juliette
+5298660 5299480 (02) ela por sinal
+5299480 5303160 (02) a hora que o Patrick soltou lá atrás
+5303160 5304040 (02) a piada
+5304060 5305700 (02) eu ri por conta disso
+5305700 5307620 (02) voltando aqui editor, corta
+5307620 5309080 (02) poxa, achei que tivesse sido engraçado
+5309080 5315660 (03, 02) eu tô indo pra página 10
+5315660 5318480 (07, 02) caralho
+5318480 5322420 (07, 02) mas todo mundo pode continuar, tá de boa, né?
+5322680 5323400 (07, 02) de boa
+5323400 5325820 (07, 02) amanhã é um ambulatório suave
+5325820 5328100 (08, 07, 02) o editor tá dizendo, não, pelo amor de Deus
+5328100 5332160 (08, 04, 03) desculpa pai
+5332160 5333680 (08) bater em você
+5334060 5336020 (08) é, mas você batia na gente
+5336020 5338040 (08) também, é, pra ensinar
+5338040 5340100 (04, 08, 03, 02) nossa, isso ficou estranho
+5340100 5341820 (04, 03, 02) isso ficou muito estranho
+5341820 5343760 (02, 04, 03) isso ficou muito estranho
+5343760 5346260 (04, 02) não foi essa a intenção
+5346260 5348000 (04, 02) se tu quiser corrigir
+5348000 5349520 (04) o cara tá batendo o pezinho, né?
+5349620 5351380 (04) esperando a gente decidir o que fazer
+5351380 5353540 (04) a armadurinha
+5353540 5355240 (04) tec, tec, tec, tec no chão
+5355240 5356900 (04) pegou o Sonic, né?
+5357420 5359180 (04) batendo o pezinho, deixando o controle

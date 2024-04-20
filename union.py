@@ -1,3 +1,4 @@
+from itertools import chain
 from pathlib import Path
 
 
@@ -81,14 +82,16 @@ def create_union(folder: Path):
 
 
 if __name__ == "__main__":
-    root = Path("transcricoes/rpguaxa")
+    root1 = Path("transcricoes/guaxaverso")
+    root2 = Path("transcricoes/rpguaxa")
 
-    for folder in root.iterdir():
-        output = folder / "union.txt"
+    for folder in chain(root1.iterdir(), root2.iterdir()):
+        output: Path = folder / "union.txt"
         if output.exists():
             continue
 
         print(folder)
+
         result = create_union(folder)
         with open(output, "w") as f:
             for speakers, start, stop, text in result:

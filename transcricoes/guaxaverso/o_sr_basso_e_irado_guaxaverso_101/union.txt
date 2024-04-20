@@ -1,0 +1,3320 @@
+0 9460 (03) Se eu pegar essa ilha e esse helicóptero, e aí tudo faz sentido, porque aqui tem um zumbi e ali não tinha, e agora?
+10120 15000 (04) É isso! É isso! Eu sabia! Eu sabia! O Guaxaverso existe!
+15120 15960 (04) Como assim?
+16180 18000 (04) Você entendeu a referência do último episódio?
+18240 18980 (04, 03) Olha só, faz tudo!
+18980 20020 (04, 03) Não, o Guaxaverso sabe o que faz!
+20020 20960 (04, 03) Espera, o que é o Guaxaverso?
+21000 22980 (04, 03) Era só uma questão de tempo.
+23080 24520 (04) O Guaxaverso sempre existiu!
+24520 27180 (04, 03, 01) Eu quero entender o Guaxaverso!
+27220 28560 (04, 03) Alguém me explica o que é o Guaxaverso?
+28560 32020 (03, 01) É, pessoal, não existe o Guaxaverso.
+32100 33720 (04, 01) Eu não acredito no Guaxaverso!
+33760 36560 (01) Mas supondo que ele exista...
+37880 41500 (04) Guaxaverso, onde o que não existe é debatido.
+57500 58060 (unknown) Guaxaverso
+58060 58540 (01) Guaxaverso
+58540 62560 (01) Ah, eu sou Marcelo Guaxinim, narrador, produtor, idealizador, podcast do Realidade Paralelo do Guaxinim,
+62880 66880 (01) e eu queria tirar férias pra jogar Like a Dragon e Infinity Well.
+66960 69120 (01) É meu hiperfoco no momento.
+69440 71480 (01) Pra quem não sabe, o Guaxaverso é o nosso antigo escudo-mestre.
+71840 74220 (01) Aqui vamos ler os comentários e discutir as teorias do último episódio,
+74600 81600 (01) que no caso foi a Ordem do Primeiro Filho, RPG Guaxa 155.
+81600 87960 (01) E eu estou aqui com ele, que me ajudou a idealizar esse episódio inconscientemente,
+88540 90060 (01) o Guax, tudo bem, querido?
+90180 92720 (01, 00) Tudo bem. Conscientemente, na sua opinião, né?
+92780 96280 (00) Eu já fui só tal como Inception plantando a sementinha ali, ó.
+96780 98320 (01, 00) Cavando as coisas.
+98860 99880 (01) Ok, ok.
+101120 103480 (00) Antes de discutir isso, como é que as pessoas te acham na internet?
+103720 108420 (00) As pessoas me acham na internet principalmente pelo Twitter, pelo Twitter.
+108720 113520 (00) Estou lá como arroba senhorbaço, senhor escrito por extenso, baço com dois S's.
+113520 117520 (00) Ou pelo site Letor Cabuloso, e às vezes aparecendo lá no...
+118540 120460 (00) Quando a Domênica me tira da geladeira.
+121160 122440 (01) Lá tinha que ser da estante, né?
+122940 124980 (00) Não, não, não, não. É geladeira mesmo.
+125280 128700 (00) É universal. Não vamos mudar as coisas, porque depois dá uma confusão.
+128920 129440 (00) Mantenha o padrão.
+129920 131120 (01, 00) Ok, ok, ok.
+131720 134660 (01) Era pra personalizar, mas tudo bem. É uma geladeira.
+134840 137240 (01) Mas como eu estava dizendo, a gente num Guaxaverso que...
+137240 138160 (01) Eu não lembro qual foi.
+138680 141060 (01) A gente embestou de falar de John Wick.
+141680 142080 (01) Poxa.
+142280 143480 (01) E falamos também de Pecado.
+143700 145000 (01) Lembra? Foi no mesmo episódio, né?
+145000 146320 (01, 00) Foi, que eu estava...
+146320 148000 (00) A gente se aceitou alguma coisa de anime.
+148000 152000 (00) A gente estava falando como o pessoal de anime tem uma tara, né?
+152040 152520 (00) Por fazer...
+152520 157040 (00) Lá tem o The Seven Deadly Sins, tem o Fullmetal Alchemist.
+157120 162540 (00) Tem vários deles que usam pecados capitais como inimigos, algum tipo de referência, né?
+162920 164000 (01) Perfeito, perfeito.
+164120 167000 (01) E esse episódio deu origem a um episódio que foi muito elogiado.
+167380 170960 (01) Recebi palavrões da senhora Domênica, da senhora Baço.
+173020 175880 (01) O pior é que eu estava gravando, e daí eu tinha lá o áudio dela,
+175880 177300 (01) e ela postou no X.
+178000 180360 (01) Ela tinha mandado o áudio, assim, porra, eu quero ouvir isso.
+180440 182320 (01, 00) Mas a gente tinha que terminar o que estava começando.
+183380 186380 (00) Nossa, assim, eu tive um pouco de dó da Domênica,
+186520 189020 (00) porque você falou do hiperfoco, você estava com o jogo,
+189180 190540 (01, 00) eu fui os últimos dias.
+190780 194760 (00) Chegou um momento que Domênica, assim, olhou e falou assim pra mim,
+194860 196920 (00) olhou bem seriamente assim pra mim, no fundo dos meus olhos,
+197000 198760 (00) e falou, parou, chega.
+198960 201260 (00) Tipo, não consigo mais ouvir sobre isso,
+201360 205960 (00) porque eu estava, sei lá, cinco dias falando do episódio que tinha saído,
+205960 207980 (00) e eu achei que tinha ficado a coisa mais foda do universo,
+208100 212100 (00) e eu estou, assim, apaixonado, assim, esse é um que eu quero,
+212200 213700 (00) eu mandei para todos os meus amigos,
+213800 215200 (00) mandei para todo mundo que joga RPG comigo,
+215300 217000 (00) falei, olha, vai despedir-se, tá ligado?
+217100 218100 (01, 00) Tipo...
+218200 220600 (01, 00) Botou na porra da geladeira, mano.
+220700 223600 (01, 00) Porra, cara, se minha mãe, né, tipo, escutasse isso,
+223700 226000 (00) ela queria o que eu mandava, tipo, mãe, olha isso, sabe?
+226100 227000 (00) Porque estava...
+227100 229000 (00) Eu achei que ficou sensacional, assim,
+229100 232000 (00) eu tenho um pouco de dificuldade de elogiar, porque eu estou nele,
+232100 235000 (00) mas puta que me pariu, eu acho que é uma das melhores coisas
+235100 237880 (00) que você fez nos últimos anos, assim, de aprendizado.
+238000 239000 (00) Eu achei muito foda.
+239100 241000 (02, 00) Seis anos, assim, é o melhor episódio para ti.
+241100 242000 (02, 00) Mentira, ainda tem...
+242100 245000 (00) Eu mandei para você que ele ficou no meu top five, assim,
+245100 247000 (00) mas ainda tem alguns ali que eu gosto mais.
+247100 249000 (00) Mas, cara, eu achei...
+249100 253000 (00) Achei demais, e como editado, foi...
+253100 258000 (00) Ficou bem diferente também, porque, cara, a gente gravou muitas horas, né?
+258100 260000 (00) A gente gravou três horas de episódio,
+260100 262000 (00) e eu estava em algum momento falando, assim,
+262100 264000 (00) eu acho que o Guax vai fazer parte um e dois, sabe?
+264100 266000 (01, 00) E estava ali, eu falei...
+266100 268000 (00) A gente não estava nem sentindo a gravação.
+268100 270000 (01) Não, assim, foi maravilhoso.
+270100 275000 (01) No meu hiperfoco de episódio favorito, é um que vai sair ainda.
+277100 280000 (01) Eu estou sempre com a cabeça no próximo, sabe?
+280100 281000 (01) Você vai estar no futuro.
+281100 282000 (01) É.
+282100 284000 (01) Tanto que, assim, não é o próximo episódio,
+284100 286000 (01) porque o próximo episódio já está editado, ele está revisado,
+286100 290000 (01) ele está lá, eu vou gravar a abertura e jogar para os padrinhos segunda,
+290100 293000 (01) e quinta-feira sai no feed, ele está pronto.
+293100 295000 (01) É bem bacana, é um episódio bem divertido,
+295100 297900 (01) é uma vibe bem mais alegre do que a gente teve,
+298000 299900 (01) em janeiro, né?
+300000 300900 (01) Uhum.
+301000 302900 (01) Mas tem um episódio mais para frente,
+303000 306900 (01) que, inclusive, vai ter um NPC do senhor Rodrigo Basso.
+307000 307900 (01) Olha aí.
+308000 308900 (01) Porque ele foi um episódio, assim,
+309000 311900 (01) pô, esse aqui é o meu episódio do ano,
+312000 312900 (01) porque a gente está no início do ano, né?
+313000 317900 (01) Mas na minha cabeça é o ápice ali, porque eu gostei muito.
+318000 318900 (02, 01) Eu percebi.
+319000 320900 (01) Esse aqui, eu vou chamar padrinhos,
+321000 324900 (01) mas ao invés de jogar no grupo e a gente testar o microfone dos outros,
+325000 327800 (01) não, eu vou escolher, um por um, essas pessoas,
+327900 330900 (01) e daí o Basso foi escolhido para um desses NPCs.
+331000 333900 (01) É um dos grandes NPCs que tem três páginas de fala?
+334000 334900 (01) Não é.
+335000 337900 (01) Mas é porque os grandes NPCs são meninas.
+338000 338900 (01) É...
+339000 340900 (01) Mas, porra, vai ser incrível, vai ser incrível.
+341000 343900 (01, 00) Eu fiquei feliz, porque quando você mandou para eu gravar,
+344000 345900 (00) e aí você mandou, você falou assim,
+346000 347900 (00) Basso, isso tem que ficar perfeito.
+348000 349900 (00) E aí eu, caramba, mano, tem que ser o melhor,
+350000 350900 (00) o seu melhor trabalho.
+351000 353900 (00) Eu falei, caralho, velho, que bom que é só isso,
+354000 355900 (00) porque eu gravei uma meia dúzia de vezes,
+355900 357900 (00) a Domênica revisou esse áudio antes de eu mandar.
+358000 359900 (01, 00) Eu passei para ela, assim, foi para lá,
+360000 361900 (01, 00) não, tem que gravar no seu microfone,
+362000 364900 (00) pedi para ela setar certinho para o escritório dela para eu gravar,
+365000 366900 (00) gravei no microfone dela,
+367000 368900 (00) foi para ela revisar, ver se está tudo bem,
+369000 370900 (00) se está tudo certo, aí, tipo,
+371000 373900 (00) e ela super, assim, não, aqui você falou tem, era tenho,
+374000 375900 (00) está errado, entendeu?
+376000 377900 (00) Então, tipo, refaz, sabe, estava mó...
+378000 379900 (02, 01, 00) Com a régua, assim, na mão, pá!
+380000 381900 (02, 01, 00) Tipo, estava, assim, foi...
+382000 383900 (00) Eu fiquei feliz que foi poucas falas, sabe?
+384000 385800 (00) Se fosse muita, eu...
+385800 387800 (01, 00) Talvez eu dava uma vacilada.
+387900 389800 (01, 00) Não, tipo, pô, tem...
+389900 393800 (01) Algumas amizades com duas meninas em especial foram testadas ali.
+393900 398800 (01) Sabe quando tu cola o texto do Telegram e ele corta a metade?
+398900 402800 (01) Eu tenho que ir lá de novo, porque num só não cabe tudo?
+402900 403800 (02, 01, 00) Rapaz!
+403900 404800 (01, 00) Porra!
+404900 406800 (01, 00) Tenho certeza que as pessoas amaram, guacho.
+406900 407800 (00) Tenho absoluta certeza.
+407900 409800 (01, 00) Assim, disseram que sim, vamos ver.
+409900 411800 (01, 00) Tenho certeza absoluta, eu caso dinheiro.
+411900 413800 (01, 00) Caso dezão aqui que adoraram.
+413900 414800 (01, 00) Ok, ok.
+414800 417800 (01) Outra coisa, assim, dois pontos ainda sobre esse episódio,
+417900 420800 (01, 00) que não faz o menor sentido a gente estar falando dele aqui.
+420900 423800 (01, 00) Ah, mas, porra, pessoal, que quando a gente grava é sempre isso, né?
+423900 426800 (01, 00) É meia hora de loucura e depois a gente vai fazer os comentários.
+426900 427800 (01) Isso.
+427900 429800 (01) E eu xingando nós dois no fim de semana editando.
+429900 431300 (01) O...
+431400 432800 (01) Eu mandei, assim, pro Baço...
+432900 433800 (01) Baço!
+433900 435800 (02, 01, 00) Deixa eu até pegar a frase exata.
+435900 436800 (02, 01, 00) Ah, nossa, cara.
+436900 439800 (01) Eu preciso do seu melhor NPC.
+439900 441800 (01) Vai ser a minha pietá.
+441900 444700 (01) Aí o Baço perguntou, pietá de piedade?
+444700 446700 (01) Eu falei, não, Michelangelo, né?
+446800 447700 (01) A pietá, né?
+447800 448700 (01) A obra, então...
+448800 451700 (00) Aí eu mandei só o tipo, desculpa o burro, tá ligado?
+451800 453700 (01, 00) Porque, né, não...
+453800 455700 (02, 01) Aí eu falei, ai, gente...
+455800 458700 (01) Eu estava empolgado, mas é engraçado que normalmente...
+458800 463700 (01) Por exemplo, esse episódio que é um top cinco do Baço,
+463800 465700 (01) eu, assim, pô, ficou legal, ficou legal.
+465800 468700 (01) Mas, poxa, é mais um episódio.
+468800 473700 (01) E, às vezes, quando eu acho, tipo, esse episódio que ficou com um nome...
+473700 476700 (01) Eu tinha colocado um nome até pros padrinhos e a Agatha me lembrou
+476800 481700 (01) que as meninas tinham riscado meu nome e dado outro nome pro episódio.
+481800 483700 (01) Era, tipo, o dia...
+483800 484700 (01) Como é que era?
+484800 486700 (01) Magnólia foi pro mar.
+486800 487700 (01) Uma loucura assim.
+487800 489700 (01) E daí...
+489800 492700 (01) Normalmente, esses episódios que eu tenho muita expectativa,
+492800 494700 (01) eles não são aquilo todo.
+494800 496700 (01) Assim, no sentido de...
+496800 500700 (01) Por exemplo, Théo não é mais baixado que os episódios em volta dele.
+500800 502800 (01, 00) Mas é um episódio que eu amo muito, sabe?
+502900 503600 (01) Uhum.
+503700 504700 (01) Eu não sei explicar.
+504800 505700 (00) Eu já, assim...
+505800 506700 (00) Eu posso falar pra você?
+506800 507700 (00) Eu já discordo, né?
+507800 510700 (00) Você falar que esse que a gente gravou foi só mais um episódio...
+510800 511700 (00) É...
+511800 514700 (00) Eu acho que o senhor está falando bobagens, mas tudo bem.
+514800 515700 (01, 00) Ok.
+515800 516700 (01) Ok.
+516800 517700 (01) Mas, assim...
+517800 518700 (01) O povo gostou?
+518800 519700 (01) Estou feliz.
+519800 520700 (02, 01) Nossa.
+520800 522700 (01) Na verdade, vamos ver se esse povo gostou.
+522800 524700 (01, 00) Porque a gente tá aqui pra ler nos comentários.
+524800 526700 (01, 00) É, vocês percebem que, assim, o povo gostou, né?
+526800 527700 (00) Tipo, ele falou assim...
+527800 529700 (00) Olha, eu não achei lá aquelas coisas.
+529800 531700 (00) Mas se a galera gostou, tá tudo bem.
+531800 532800 (00) Quem sou eu, né?
+532800 533800 (01, 00) Tá.
+533900 536800 (01) Vou dar um spoiler aqui do quão horrível está a minha vida.
+536900 537800 (01) Eu não ouvi o episódio ainda.
+537900 538800 (01, 00) Olha lá.
+538900 539800 (00) Ah, cara.
+539900 540800 (00) Pelo amor de Deus.
+540900 541800 (00) Eu não tô acreditando nisso.
+541900 543800 (00) Eu tô gravando com alguém que não ouviu o episódio?
+543900 544800 (00) Chama outra pessoa aí.
+544900 545800 (00) Chama...
+545900 546800 (01, 00) Coloca a Jumózinha.
+546900 547800 (00) Vou gravar eu e a Jumózinha esse...
+547900 548800 (01, 00) Esse Guaxaverso.
+548900 549800 (01, 00) A Ju revisou.
+549900 550800 (01) A Ju revisou e disse...
+550900 552800 (01) Olha, tem que mexer nisso aqui...
+552900 553800 (01) Fechou.
+553900 554800 (01) Eu olhei...
+554900 556800 (01) Eu ouvi alguns pontos que ela apontou, né?
+556900 557800 (01) E...
+557900 560800 (01) Até tinha uma coisinha que eu queria mudar, mas, tipo, falta...
+560900 561800 (01) Deixei pra última hora.
+561900 562700 (01) Então, foi assim...
+562800 563700 (01) Foi assim mesmo.
+563800 564700 (01) Mas, assim...
+564800 565700 (01) O episódio, sabe?
+565800 566700 (01) Sentar e ouvir...
+566800 567700 (02, 01, 00) Nossa, cara.
+567800 568700 (01, 00) Ainda não ouvi.
+568800 569700 (00) Impressionante, cara.
+569800 571700 (01, 00) Daqui a pouco vai aparecer aquele pessoal que faz...
+571800 573700 (00) Grava podcast de literatura sem ter lido o livro.
+573800 574700 (00) Sabe?
+574800 576700 (01, 00) O ChatGPT, hoje em dia, ele lê pra ti.
+576800 577700 (01, 00) Ele só coloca...
+577800 578700 (01, 00) Ah, cara.
+578800 579700 (00) Absurdo isso, cara.
+579800 580700 (00) Olha...
+580800 581700 (00) Próxima vez eu vou...
+581800 582700 (00) Vou pedir o VAR...
+582800 583700 (00) Pra...
+583800 584700 (00) Vou...
+584800 585700 (00) Pros participantes.
+585800 587700 (00) O cara não escutou o episódio e vai gravar.
+587800 588700 (00) Impressionante, viu?
+588800 591700 (01) Mas, se você quiser me ajudar, não a ter tempo, né?
+591800 592700 (01) Porque isso é...
+592800 593700 (01) É complicado, mas...
+593800 596700 (01) A ser um pouquinho mais conhecido, segue a gente lá nas redes sociais.
+596800 597700 (01) No...
+597800 598700 (01) Faleci Twitter.
+598800 599700 (01) Agora acho isso.
+599800 600700 (01) Eu...
+600800 601700 (01) Eu...
+601800 602700 (01) As duas vezes que eu fiz postagem lá...
+602800 603700 (01) É...
+603800 605700 (01) Eu senti que teve um apoio legal, assim...
+605800 606700 (01) É...
+606800 608700 (01) Pessoas que não tinham ouvido ainda foram ouvir.
+608800 611700 (01) Então, se vier um post lá falando do episódio, dá uns RT também.
+611800 612700 (01) Segue lá.
+612800 613700 (01) Procura Marcelo Guaxinim.
+613800 615700 (01) Ou RP Guaxa, né?
+615800 616700 (01) No...
+616800 617700 (01) No Twitter.
+617800 618700 (01) No Instagram.
+618800 619700 (01) No...
+619800 620700 (01) Nas outras redes sociais.
+620800 621700 (01) Vou...
+621800 622700 (01) Vou copiar a piadinha da Ju do...
+622800 623700 (01) De sangue que eu gravei ontem.
+623800 624700 (01) É...
+624800 625700 (01) No cu...
+625800 627700 (01, 00) Você tem cu ou base?
+627800 628700 (00) Não, não tenho.
+628800 629700 (01, 00) Mas tenho Blue Sky.
+629800 630700 (00) Blue Sky eu tenho.
+630800 631700 (01, 00) Mas nunca usei.
+631800 632700 (01, 00) Porra.
+632800 633700 (00) Só...
+633800 634700 (00) Só reservei.
+634800 635700 (01, 00) Fiz igual você fez lá.
+635800 636700 (01) Só reservei.
+636800 637700 (01) É, não.
+637800 638700 (01) Eu tenho o cu, mas nunca usei.
+638800 639700 (02, 01, 00) Queria...
+639800 640700 (02, 01, 00) Queria registrar aqui também.
+640800 641700 (01) Bem, aí...
+641800 642700 (01) Aí eu acho que já é uma perda de tempo sua, assim.
+642800 643700 (01, 00) Tá...
+643800 644700 (01) Mentira.
+644800 645700 (01) Pior que...
+645800 646700 (01) Pior que...
+646800 647700 (01) Porque eu acho...
+647800 648700 (01, 00) Eu fiz várias piadas de quinta série lá.
+648800 649700 (01) Poxa vida.
+649800 650700 (01) Como essa, inclusive, né?
+650800 651700 (01) Aí sim.
+651700 652600 (01) Eu achei que, porra...
+652700 653600 (01) Foi um...
+653700 654600 (01) Foi um...
+654700 655600 (01) Foi um fenômeno.
+655700 656600 (01) Mas também tem o Blue Sky.
+656700 659600 (01) Tem um monte de outras redes sociais que vocês podem seguir, hein?
+659700 660600 (01) É...
+660700 661600 (01) O RP Guaxa, o Marcelo Guaxinim.
+661700 663600 (01) E em especial, você pode apoiar esse projeto.
+663700 664600 (01) O PicPay.
+664700 667600 (01) Como nos ensinou o Estúdio 31.
+667700 668600 (01) Morreu.
+668700 669600 (01) Catinho.
+669700 670600 (01) Mas...
+670700 671600 (01) Mas tá vivo ainda?
+671700 672600 (01) Eu não sei.
+672700 673600 (01) Eu não entendi ainda.
+673700 674600 (01) Eu não vi hoje.
+674700 677600 (01) Mas eu sei que no dia 15 tinha gente assinando ainda.
+677700 679600 (01) Então, eu não sei que fim levou.
+679700 680600 (01) Mas esqueçam lá.
+680700 681600 (01) É...
+681700 682600 (01) Pode cobrar duas vezes.
+682700 683600 (01) Porque vai que...
+683700 685600 (01) Morreu, mas continua em atividade, né?
+685700 686600 (01) É...
+686700 687600 (01) E escolha.
+687700 688600 (01) Ou padrim.
+688700 689600 (01) Ou apoia-se.
+689700 690600 (01) Tem pessoas que perguntam.
+690700 691600 (01) Qual é o melhor pra mim?
+691700 693600 (01) O melhor pra mim é o que for melhor pra você.
+693700 695600 (01) Ah, tem o Aurelo também.
+695700 697600 (01) O Aurelo dá pra assinar também.
+697700 698600 (01) E...
+698700 699600 (01) Então, o que for melhor pra vocês.
+699700 700600 (01) Dá uma olhada lá.
+700700 701600 (01) Assinem lá.
+701700 702600 (01) Que...
+702700 705600 (01) Poxa, você vai estar ajudando esse projeto a continuar existindo.
+705700 706600 (01) Aí sim.
+706700 708600 (01) A fazer sair cada vez mais episódios.
+708700 709600 (01) Porque, poxa...
+709700 710600 (01) Eu já reclamo de editar um a cada.
+710600 712500 (01) Eu já reclamo de editar um guachaverso.
+712600 713500 (01) Os episódios em si.
+713600 715500 (01) E se um dia eu precisar voltar a editá-los.
+715600 716500 (01) Não...
+716600 717500 (01) Não vai rolar, gente.
+717600 718500 (01) Pelo amor de Deus.
+718600 720500 (01) O primeiro episódio levou um mês e pouco pra ser editado.
+720600 722500 (01) E saiu lá o das gatas.
+722600 724500 (01) Eu acho que eu estou enferrujado nesse ponto.
+724600 726500 (01) Se depender de mim, vocês estão muito ferrados.
+726600 727500 (01, 00) E apoia-se também.
+727600 729500 (00) Porque, além de tudo isso.
+729600 732500 (00) Você vai ter acesso à taberna do Guaxinim.
+732600 733500 (01, 00) É verdade.
+733600 734500 (01, 00) Que é um lugar maravilhoso.
+734600 736500 (00) E se você está com vontade de jogar RPG.
+736600 738500 (00) A sala de jogos.
+738600 740500 (00) Você vai ter anúncio de mesa.
+740600 742500 (00) Diariamente.
+742600 743500 (00) Filipe Xavier.
+743600 744500 (00) Santo Filipe Xavier.
+744600 746500 (00) Essa semana mesmo.
+746600 748500 (00) Colocou mesa de segunda a sábado.
+748600 751500 (00) E está maravilhoso.
+751600 752500 (00) É verdade.
+752600 754500 (02, 00) Eu acho que se você está pensando.
+754600 756500 (00) Queria pegar um pessoal para jogar.
+756600 758500 (00) Ou queria só conversar.
+758600 760500 (00) Eu uso muito a sala de jogos.
+760600 761500 (00) Eu estou pensando em alguma coisa.
+761600 762500 (00) Eu jogo lá.
+762600 763500 (00) E tem sempre alguém que narrou.
+763600 764500 (00) Ou jogou.
+764600 765500 (00) E deu alguma ideia.
+765600 766500 (00) Dá algum incentivo.
+766600 767500 (00) Então...
+767600 768500 (00) Eu acho que é um lugar muito gostoso.
+768600 770500 (01, 00) Para quem gosta de jogar RPG.
+770600 771500 (01, 00) É verdade.
+771600 772500 (01) Você recebe o episódio de hoje.
+772600 773500 (01) Você grava o NPC.
+773600 774500 (01) Por mais que eu falei.
+774600 775500 (01) Que teve o episódio que eu defini.
+775600 778500 (01) Não vou mandar para a galera.
+778600 779500 (01) Mas sempre tem.
+779600 781500 (01) Principalmente quando tem NPCs menores.
+781600 782500 (01) Para o pessoal.
+782600 785500 (01) Mesmo que nunca tenha gravado um podcast.
+785600 787500 (01) E possa fazer parte dessa história.
+787600 789500 (01) Há os raríssimos.
+789600 791500 (01) E lendários.
+791600 792500 (01) Vale Aventuras.
+792600 793500 (01) No momento tem.
+793600 794500 (01, 00) Sei lá.
+794600 795500 (01) Oito ou nove pessoas.
+795600 796500 (01, 00) Esperando para jogar.
+796600 797500 (01, 00) Eu adoro que o Guaxinim.
+797600 798500 (00) Fala assim.
+798600 799500 (01, 00) Não vou fazer mais Vale Aventuras.
+799500 800400 (01) Aí todo ano.
+800500 802400 (01) Saem uns 10, 12 Vale Aventuras.
+802500 803400 (01) É assim.
+803500 804400 (01) Porque eu não quero.
+804500 805400 (01) Assim.
+805500 806400 (01) Gente.
+806500 807400 (01) A chance.
+807500 808400 (01) Tem sei lá.
+808500 809400 (01) 500 e tantas pessoas.
+809500 810400 (01) A chance de você ganhar.
+810500 811400 (01) É baixíssima.
+811500 812400 (01) É tipo.
+812500 813400 (01) Porra.
+813500 814400 (01) Eu compro.
+814500 815400 (01, 00) Sei lá.
+815500 816400 (00) Eu compro a Mega Sena.
+816500 817400 (00) Mas eu sei que.
+817500 818400 (00) Porra.
+818500 819400 (unknown) Mas assim.
+819500 820400 (01, 00) É bem mais fácil ganhar um Vale Aventura.
+820500 821400 (01, 00) Do que uma Mega Sena.
+821500 822400 (00) Porra.
+822500 823400 (01, 00) 10 em 600.
+823500 824400 (01, 00) Versus 1 em 1 trilhão.
+824500 825400 (01, 00) Sabe.
+825500 826400 (01) É sim ou não.
+826500 827400 (01) É 50%.
+827500 828400 (01, 00) Eu sei.
+828400 830300 (01, 00) Mas está uma verdadeira assim.
+830400 831300 (00) Igual o Kojima fala.
+831400 832300 (00) Que vai se aposentar.
+832400 833300 (00) Sempre.
+833400 834300 (01, 00) E coisa.
+834400 835300 (01) Vem o Guaxinim também falando.
+835400 836300 (01) Já tem a promessa.
+836400 837300 (01) Do bolão da Olimpíada.
+837400 839300 (01) Se o Jean conseguir organizar.
+839400 840300 (01) O prêmio.
+840400 841300 (01) Vai ser um Vale Aventura.
+841400 842300 (01) Alá.
+842400 843300 (00) Tá cara.
+843400 844300 (00) É assim.
+844400 845300 (00) Aí no final das contas.
+845400 846300 (00) Você vai ver no ano.
+846400 847300 (00) Tem 15, 16 Vale Aventuras.
+847400 848300 (01, 00) E daí parou.
+848400 849300 (01) Parou.
+849400 850300 (01) Mas a gente está aqui.
+850400 851300 (01) Para ler os comentários.
+851400 852300 (01) Então.
+852400 853300 (01) Do último episódio.
+853400 854300 (01) O primeiro comentário.
+854400 855300 (01) É seu.
+855400 856300 (01, 00) Tu quer ler o seu próprio comentário.
+856400 857300 (01, 00) Não.
+857300 858200 (01, 00) A ordem.
+858300 859200 (00) Quem começa lendo.
+859300 860200 (01, 00) Não.
+860300 861200 (01, 00) Eu sei.
+861300 862200 (01) Então.
+862300 863200 (01) Pode ir.
+863300 864200 (01, 00) Então eu vou começar.
+864300 865200 (00) Reclamando do jogador.
+865300 866200 (00) Que só comenta.
+866300 867200 (00) No episódio que jogou.
+867300 868200 (00) Mentira.
+868300 869200 (00) Que eu comentei.
+869300 870200 (00) No episódio anterior.
+870300 871200 (00) Da loucura do Florian.
+871300 872200 (00) Que aliás.
+872300 873200 (00) É um episódio.
+873300 874200 (00) Que esse.
+874300 875200 (00) Por exemplo.
+875300 876200 (00) É o episódio que eu gostei mais.
+876300 877200 (00) Que eu acho mais foda.
+877300 878200 (01, 00) Do que o episódio.
+878300 879200 (01) Que a gente gravou.
+879300 880200 (01) Eu fui lá comentar.
+880300 881200 (01) Então não vem não.
+881300 882200 (01) Gosto dos dois.
+882300 883200 (01) Gosto dos três.
+883300 884200 (01) Porque gosto também.
+884300 885200 (01) Do nosso querido.
+885300 886200 (01) Rodrigo Basso.
+886300 887200 (01) Que comenta.
+887300 888200 (01) Que está escutando.
+888300 889200 (01) Esse guachaverso.
+889300 890200 (01) Eu não tenho.
+890300 891200 (01) Como agradecer.
+891300 892200 (01) O suficiente.
+892300 893200 (01) Por esse presente.
+893300 894200 (01) Que foi esse episódio.
+894300 895200 (01) Guacha sério.
+895300 896200 (01) Foi uma das.
+896300 897200 (01) Melhores.
+897300 898200 (01) Em.
+898300 899200 (01) Cachala.
+899300 900200 (01) Em CapsLuke.
+900300 901200 (01) Sessões.
+901300 902200 (01) Que eu joguei.
+902300 903200 (01) Na minha vida.
+903300 904200 (01) Porra.
+904300 905200 (01) Exagero.
+905300 906200 (01) Eu vou me lembrar.
+906300 907200 (01) Dessa aventura.
+907300 908200 (01) Para sempre.
+908300 909200 (01) E muito obrigado.
+909300 910200 (01) Sarah.
+910300 911200 (01) E Caio.
+911300 912200 (01) Por serem amigos.
+912300 913200 (01) Maravilhosos.
+913300 914200 (01) Vocês são pessoas.
+914300 915200 (01) Que conheci.
+915300 916200 (01) Na taberna.
+916300 917200 (01) E que eu gostaria.
+917300 918200 (01) Que a situação.
+918300 919200 (01) Não seria.
+919300 920200 (01) Tão épica.
+920300 921200 (01) Se não fosse.
+921300 922200 (01) Por vocês.
+922300 923200 (01) É verdade.
+923300 924200 (01) Os jogadores.
+924300 925200 (01) São 50% do episódio.
+925300 926200 (01) De cada um.
+926300 927200 (01) Sei que terminou tudo.
+927300 928200 (01) Tão fechadinho.
+928300 929200 (01) Que não cabe.
+929300 930200 (01) Continuação.
+930300 931200 (01) Concordo.
+931300 932200 (01) Como todo episódio.
+932300 933200 (01) Do guachaverso.
+933300 934200 (01) Do R.P.
+934300 935200 (01) Guache.
+935300 936200 (01) Que não tem guachaverso.
+936300 937200 (01) Mas o John Wick.
+937300 938200 (01) Também estava aposentado.
+938300 939200 (01) Quando a gente conheceu ele.
+939300 940200 (01) Só estou dizendo.
+940300 941200 (01) Vida longa.
+941300 942200 (01) Ao R.P.
+942300 943200 (01) Guache.
+943300 944200 (01) Assim.
+944300 945200 (01) Ideias surgiram.
+945300 946200 (01) Tipo.
+946200 947100 (01) Fazer uma vingança.
+947200 948100 (01) Seja.
+948200 949100 (01) Tipo.
+949200 950100 (01) Qual foi a outra ideia.
+950200 951100 (01) Que deram.
+951200 952100 (01) Fazer uma parada.
+952200 953100 (01) Meio que.
+953200 954100 (01) Ubio.
+954200 955100 (01) Sabe.
+955200 956100 (01) Gente que foi.
+956200 957100 (01) Atacada.
+957200 958100 (01) Pela família.
+958200 959100 (01) E vai.
+959200 960100 (01) Buscar vingança.
+960200 961100 (01) Nesse mundo.
+961200 962100 (01) Não sei.
+962200 963100 (01) Assim.
+963200 964100 (01, 00) Ideias.
+964200 965100 (00) Existem.
+965200 966100 (00) Elas vão para frente.
+966200 967100 (00) A princípio.
+967200 968100 (00) Não.
+968200 969100 (00) Olha.
+969200 970100 (00) Eu tenho a dizer.
+970200 971100 (00) Que.
+971200 972100 (00) Eu tenho.
+972200 973100 (00) Uma trilogia pronta.
+973200 974100 (00) Pensada.
+974200 975100 (00) Já.
+975100 976000 (00) Inclusive.
+976100 977000 (00) Com.
+977100 978000 (00) Os filmes.
+978100 979000 (00) Do qual.
+979100 980000 (00) Seriam.
+980100 981000 (00) Bases.
+981100 982000 (00) Seguindo esse daqui.
+982100 983000 (00) Que a base.
+983100 984000 (00) Foi o.
+984100 985000 (00) John Wick.
+985100 986000 (00) Com as referências.
+986100 987000 (00) Tudo.
+987100 988000 (00) Agora.
+988100 989000 (00) O Guache.
+989100 990000 (00) Está meio.
+990100 991000 (00) Irredutível.
+991100 992000 (00) Aí.
+992100 993000 (02, 00) Vamos ver.
+993100 994000 (02, 00) Se até o final do episódio.
+994100 995000 (00) Conseguir convencer.
+995100 996000 (00) Ele.
+996100 997000 (00) A fazer uma.
+997100 998000 (00) Uma continuação.
+998100 999000 (00) Aí.
+999100 1000000 (00) Eu acho.
+1000100 1001000 (00) Que.
+1001100 1002000 (00) Acho.
+1002100 1003000 (00) Que.
+1003100 1004000 (00) Dá bom.
+1004000 1004500 (00) Querido.
+1004600 1005200 (00) Eu tenho que falar.
+1005300 1005700 (00) É.
+1005800 1006100 (00) Você.
+1006200 1006400 (00) Você.
+1006500 1007300 (00) Que é o bingo.
+1007400 1008500 (00) Considerando.
+1008600 1009000 (00) Participar.
+1009100 1009400 (00) Desses.
+1009500 1009700 (00) Clãs.
+1009800 1010300 (00) Aí.
+1010400 1010700 (00) Digo.
+1010800 1011000 (00) Coffee.
+1011100 1011800 (00) Coffee.
+1011900 1012000 (00) Não.
+1012100 1012300 (00) Faça.
+1012400 1012500 (00) Nada.
+1012600 1012700 (00) De.
+1012800 1012900 (00) Mal.
+1013000 1013600 (00) Crianças.
+1013700 1013800 (00) Não.
+1013900 1014100 (00) Faz.
+1014200 1014300 (00) Bem.
+1014400 1014500 (00) Para.
+1014600 1014700 (00) O futuro.
+1014800 1014900 (00) De.
+1015000 1015200 (00) Vocês.
+1015300 1015400 (00) Mas.
+1015500 1015600 (00) Nunca.
+1015700 1015800 (00) Se.
+1015900 1016500 (00) Sabe.
+1016600 1016800 (00) Olá.
+1016900 1017600 (00) Gachua.
+1017700 1018600 (00) Guachual.
+1018700 1018800 (00) Que.
+1018900 1019000 (00) É.
+1019000 1019100 (00) O.
+1019200 1019300 (00) Guacha.
+1019400 1020200 (00) Sensual.
+1020300 1020700 (00) Guacha.
+1020800 1021300 (00) Guacha.
+1021400 1021500 (00) E.
+1021600 1021800 (00) Guacho.
+1021900 1022200 (00) Vindade.
+1022300 1022400 (00) Do.
+1022500 1022900 (00) Dia.
+1023000 1023100 (00) Tudo.
+1023100 1023300 (00) Em.
+1023400 1023600 (00) Cima.
+1024000 1024200 (00) Mira.
+1024300 1024700 (00) Limpa.
+1025000 1025280 (00) Alvo.
+1025300 1025400 (00) A.
+1025440 1025740 (00) Vista.
+1026280 1026460 (00) Sim.
+1026520 1026660 (00) Assim.
+1026720 1026940 (00) Querido.
+1027060 1027200 (01) Tô.
+1027240 1027420 (01) Desse.
+1027460 1027580 (01) Tu.
+1027600 1027680 (01) Tá.
+1027720 1027980 (01) Pensando.
+1028020 1028100 (01) Em.
+1028100 1028240 (01) Matar.
+1028280 1028560 (01) Alguém.
+1028720 1028900 (01) Eu.
+1029000 1029240 (01) Vou.
+1029620 1029860 (01) Quebrar.
+1029880 1029980 (01) O.
+1030160 1030440 (01) Protocolo.
+1030480 1030600 (01) Dizer.
+1030820 1031100 (01) Desista.
+1031200 1031340 (01) Pelo.
+1031400 1031640 (01) Amor.
+1031680 1031820 (01) De.
+1031860 1032120 (01) Deus.
+1032760 1032960 (01) Isso.
+1033000 1033140 (01) Não.
+1033240 1033320 (01) Vai.
+1033360 1033420 (01) A.
+1033480 1033640 (01) Lugar.
+1033820 1034120 (01) Nenhum.
+1034700 1034980 (01) Você.
+1035160 1035200 (01) É.
+1035220 1035400 (01) Um.
+1035620 1035860 (01) Boneco.
+1036000 1036040 (01) De.
+1036240 1036400 (01) De.
+1037200 1037480 (01) Crochê.
+1038000 1038280 (01) Você.
+1038420 1038520 (01) Não.
+1038620 1038760 (01) Não.
+1038920 1039000 (01) Não.
+1039160 1039440 (01) Você.
+1039540 1039580 (01) Não.
+1039680 1039720 (01) Foi.
+1039720 1040180 (01) Costurado.
+1040300 1040340 (01) Pra.
+1040540 1040600 (01) Isso.
+1041700 1042100 (00) Mas.
+1042200 1042480 (00) Olha.
+1043260 1043660 (00) Em.
+1043880 1043920 (00) Nossa.
+1044180 1044580 (00) Defesa.
+1044740 1044820 (00) A.
+1044860 1044960 (00) Gente.
+1045040 1045100 (00) Só.
+1045160 1045440 (00) Matava.
+1045540 1045800 (00) Também.
+1045960 1046220 (00) Tipo.
+1046360 1046600 (00) Gente.
+1046700 1046940 (00) Ruim.
+1047000 1047080 (00) Então.
+1047140 1047220 (00) Tinha.
+1047240 1047320 (00) Um.
+1047340 1047500 (00) Certo.
+1047560 1047800 (00) Código.
+1047820 1047940 (00) De.
+1047980 1048240 (00) Honra.
+1048320 1048460 (00) Ali.
+1048960 1049200 (01) É.
+1049300 1049600 (01, 00) Aquela.
+1049740 1050060 (01) Desculpa.
+1050140 1050420 (01) Dos.
+1050560 1050860 (01) Filmes.
+1050940 1051100 (01) Né.
+1051220 1051420 (01) É.
+1051560 1051840 (01) O.
+1051840 1052120 (01) Mata.
+1052180 1052340 (01) Todo.
+1052400 1052560 (01) Mundo.
+1052600 1052720 (01) Mas.
+1052740 1052880 (01) As.
+1052900 1053120 (01) Pessoas.
+1053660 1053980 (01) Mereciam.
+1054240 1054300 (01, 00) É.
+1054920 1055240 (00) Tipo.
+1055340 1055480 (00) Pô.
+1055680 1055980 (00) Coitado.
+1056060 1056140 (00) Do.
+1056260 1056540 (00) Cachorrinho.
+1056580 1056640 (00) Do.
+1056680 1056820 (00) John.
+1056820 1057040 (00) Wick.
+1057720 1058040 (00) Sabe.
+1058100 1058200 (00) Ele.
+1058260 1058340 (00) Tá.
+1058400 1058640 (00) Certo.
+1058720 1058900 (00) Em.
+1059200 1059520 (00) Assassinar.
+1059600 1059880 (00) Sessenta.
+1059900 1060000 (00) E.
+1060020 1060180 (00) Três.
+1060440 1060760 (00) Pessoas.
+1061220 1061340 (00) Pra.
+1061400 1061660 (00) Vingar.
+1061760 1061840 (00) O.
+1061840 1062000 (00) Marte.
+1062020 1062120 (00) Do.
+1062180 1062460 (00) Cachorrinho.
+1062500 1062680 (00) Dele.
+1062780 1062940 (00) Pô.
+1063300 1063540 (01, 00) Com.
+1063760 1064000 (01, 00) Certeza.
+1064540 1064820 (00) Gente.
+1064880 1065400 (01, 00) Pelo amor de Deus.
+1065440 1065540 (01) Hein.
+1065540 1065600 (01) É.
+1065860 1066140 (01, 00) Brincadeira.
+1066580 1066700 (01) É.
+1066720 1066840 (01) Verdade.
+1066920 1067040 (01) Não.
+1067100 1067240 (01) Não.
+1067240 1067440 (01) Não.
+1067440 1067460 (01) Não.
+1067460 1067480 (01) Não.
+1067480 1067500 (01) Não.
+1067500 1067520 (01) Não.
+1067520 1067540 (01) Não.
+1067540 1067560 (01) Não.
+1067560 1067620 (01) Não.
+1067620 1067680 (01) Não.
+1067680 1067700 (01) Não.
+1067700 1067760 (01) Não.
+1067760 1068020 (01) Não.
+1068020 1068040 (01) Não.
+1068040 1068060 (01) Não.
+1068060 1068080 (01) Não.
+1068080 1068100 (01) Não.
+1068100 1068120 (01) Não.
+1068120 1068140 (01) Não.
+1068140 1068160 (01) Não.
+1086820 1088260 (00) Eu gravei.
+1089100 1090940 (00) Eu acho que eu gravei quatro episódios.
+1091560 1091840 (00) E.
+1092200 1092380 (00) Três.
+1092420 1092980 (00) Guaxas verso.
+1094560 1094880 (01) Ok.
+1094960 1095320 (01) O pessoal.
+1095660 1096280 (01) Faz sentido.
+1096440 1097440 (01) As pessoas têm reclamado.
+1097840 1098900 (01) Eu ter de chamar de novo.
+1099060 1099380 (01, 00) Então.
+1099500 1099780 (01, 00) Cara.
+1099860 1100260 (01, 00) Eu até.
+1100580 1101620 (00) Vou dar um parênteses nisso.
+1101680 1103120 (00) Que eu vi gente ali no chat comentando.
+1103200 1103940 (00) Mas não ia ser a Sara.
+1104040 1104260 (00) Tudo mais.
+1104360 1104580 (00) Eu tinha.
+1104980 1106720 (00) Eu tinha tanta certeza que ia ser a Sara.
+1106940 1108680 (00) Que eu mandei um recado pra Sara falando.
+1109100 1110320 (00) Se o Guaxa te chamar.
+1110500 1110520 (00) Pra.
+1110680 1112120 (00) Quando o Guaxa te chamar pra gravar.
+1112480 1113700 (00) Pergunta pra ele se pode ser na terça.
+1113760 1114740 (00) Porque na segunda-feira.
+1114900 1115080 (00) Eu.
+1115320 1115640 (00) Eu.
+1115780 1116460 (00) A Rafa.
+1116820 1117340 (00) A Sara.
+1117400 1117840 (00) E o Caio.
+1117900 1118840 (00) Temos uma mesa de RPG.
+1118960 1119860 (00) Que a gente joga uma campanha.
+1120240 1120420 (00) Né.
+1120540 1121400 (01, 00) E eu mandei pra você.
+1121460 1121520 (01, 00) Olha.
+1121560 1122540 (00) Quando ele conversar com você.
+1122660 1123740 (00) Pergunta se pode ser na terça.
+1124100 1125440 (00) Eu tinha certeza que ia ser a Sara.
+1125480 1126040 (01, 00) Nesse episódio.
+1126480 1126700 (01) É assim.
+1126740 1126980 (01) Mas é que.
+1127080 1128260 (01) Como esse episódio surgiu.
+1128360 1129520 (01) Num bate-papo nosso.
+1130000 1130760 (01) Eu achei justo.
+1130760 1131280 (01) Tu tá aqui.
+1131640 1132480 (01) E prometi pra Sara.
+1132540 1133940 (01) Que vou chamar ela numa outra aventura.
+1134260 1135860 (01) Em que ela vai participar do Guaxa verso.
+1136140 1136380 (01) Então.
+1136380 1137440 (01) Eu acho que ela ganhou.
+1137720 1138200 (01) Nessa história.
+1138740 1139100 (01) Poxa.
+1139200 1139580 (01) Aí sim.
+1140020 1140320 (01) Aliás.
+1140360 1140880 (01) A Sara até agora.
+1140960 1141960 (01) Só teve episódios ótimos.
+1142480 1142840 (01) Assim.
+1143400 1144200 (01) Porque os jogadores.
+1146820 1146960 (01) Eu tô.
+1147340 1148620 (01) Eu jogo mais tranquilo.
+1149560 1150520 (01) Mas voltando.
+1151040 1151300 (01) Assim.
+1151500 1151880 (01) Lembrando.
+1152520 1153480 (01) A gente perguntou.
+1153640 1153860 (01) Como.
+1153980 1155160 (01) Basta sentir juvidade.
+1155560 1156580 (01) Quatro episódios.
+1156940 1157560 (01) A Juhi.
+1158040 1159200 (01) Do alto de sua torre.
+1161200 1163520 (01) A gente parece que foi já de 75 episódios.
+1164000 1164400 (02, 01) Isso.
+1164480 1164780 (02, 01) Por aí.
+1165580 1167500 (01) E eu gosto alto por essas bandas.
+1167500 1168120 (01) Estou muito.
+1168800 1170440 (01) Tá muito empolgante.
+1170940 1171560 (01) Esse episódio.
+1171700 1172580 (01) As frases de efeito.
+1172680 1173440 (01) E os exageros.
+1173540 1174020 (01) Bem a lá.
+1174860 1175260 (01) Bond.
+1175360 1176100 (01) James Bond.
+1176200 1176800 (01) Estão demais.
+1176820 1177380 (01) KKKKK.
+1177900 1178180 (01) J.
+1178720 1179120 (01) Eu.
+1180020 1180940 (01) O filme de James Bond.
+1180980 1182140 (01) Eu vi quando era criança.
+1182800 1183060 (02, 01) Assim.
+1183340 1183740 (01) Alguns.
+1184260 1184580 (01) E.
+1185080 1185920 (01) Eu gosto muito.
+1186120 1186200 (01) Pô.
+1186300 1186440 (01) Pô.
+1186740 1187420 (01) Quem é fã de James Bond.
+1187500 1188380 (01) Vai ficar meio chateado comigo.
+1188700 1190200 (01) Eu gosto do Daniel Craig.
+1190600 1191820 (00) Eu também gosto do Daniel Craig.
+1191940 1192040 (00) Cara.
+1192060 1192360 (00) Eu não sei.
+1192440 1194160 (00) O pessoal fala que é porque ele tem uma cara de.
+1194300 1194520 (00) Sei lá.
+1195140 1195540 (00) Pedreiro.
+1195640 1196300 (02, 00) O pessoal fala.
+1196460 1196880 (00) Que ele não.
+1197100 1198800 (00) Não parece um galãozão.
+1198880 1199160 (00) Assim.
+1199300 1199540 (00) Mas.
+1200120 1201740 (00) Eu cresci com o.
+1201740 1201860 (00) O.
+1202000 1202820 (00) Pierce Brosnan.
+1203300 1203640 (00) Então.
+1203800 1204040 (01, 00) Pra mim.
+1204040 1204740 (01, 00) Ele era a referência.
+1204760 1205340 (01, 00) Eu pulei esses.
+1205620 1206600 (01) Eu vi os antigos.
+1206600 1207600 (01) E vi o.
+1208380 1208820 (01) O.
+1208920 1209180 (01) Craig.
+1209340 1210060 (01) Gostei do Craig.
+1210220 1211560 (01, 00) Eu acho que o Daniel Craig.
+1211660 1212400 (00) Eu acho que foi bom.
+1212520 1212740 (00) Eu não sei.
+1213020 1213220 (00) Cara.
+1213420 1213860 (00) O.
+1214460 1215060 (00) Skyfall.
+1215060 1215360 (00) Skyfall.
+1215580 1218420 (00) Pra mim é de longe um dos melhores filmes do James Bond.
+1218580 1218640 (00) Assim.
+1218720 1219320 (00) Eu assisti um.
+1219700 1220920 (00) Eu não assisti os 26.
+1221000 1221700 (00) 27 deles.
+1221820 1222560 (00) Eu assisti uns 10.
+1223120 1223480 (00) 12.
+1223580 1223820 (02, 00) Aham.
+1223980 1224240 (00) E.
+1224540 1225020 (00) Mas cara.
+1225140 1227200 (00) Eu acho que o Skyfall é um dos melhores.
+1227400 1227560 (00) Assim.
+1227700 1228580 (00) Que tem a.
+1228900 1229860 (00) A música.
+1230300 1230480 (00) O.
+1230540 1230900 (00) O.
+1230900 1231800 (00) O milhão de referências.
+1232100 1233900 (00) Ao restante da série clássica.
+1234380 1234520 (00) Né.
+1234520 1235560 (00) Os episódios mais assim.
+1235660 1236100 (00) Famosos.
+1236160 1236580 (00) James Bond.
+1236600 1237340 (00) Eu acho que ele é.
+1237620 1237960 (00) Que ele é ótimo.
+1238000 1239220 (00) Eu não sei se o pessoal tem uma.
+1239920 1241180 (00) Uma coisa assim com ele.
+1241280 1241440 (00) O pessoal.
+1241440 1242540 (00) O pessoal chegou a implicar.
+1242860 1243680 (00) Olha que maluquice.
+1243820 1245040 (00) A galera chegou a implicar que quando.
+1245580 1246660 (00) Saiu o Skyfall.
+1246860 1248600 (00) Ia ser os 50 anos de James Bond.
+1249060 1249760 (00) E 25.
+1250800 1251720 (00) 25 filmes.
+1252220 1252540 (00) E.
+1252840 1253120 (00) Tem na.
+1253200 1254300 (00) Tinha na capa do especial.
+1254560 1255480 (00) Todos eles de.
+1256280 1257380 (00) Com seus ternos.
+1257440 1258040 (00) Suas gravatas.
+1258160 1258220 (00) Né.
+1258500 1259120 (00) E o Daniel Craig.
+1259300 1260640 (00) Era o único sem gravata.
+1261000 1262060 (00) Eu me lembro que quando lançou.
+1262100 1262480 (00) O pessoal falou.
+1262580 1262880 (00) Ah lá.
+1263200 1264160 (00) É um cara desleixado.
+1264240 1265360 (00) Como é que ele pode ser o.
+1265360 1265880 (00) O James Bond.
+1265880 1266200 (00) Porque.
+1266600 1267560 (00) Na capa do coisa.
+1267640 1268460 (00) Ele tava sem gravata.
+1268620 1268740 (00) É.
+1269340 1270340 (00) Eu não sei de onde veio.
+1270420 1270820 (00) Todo esse ódio.
+1270860 1271440 (00) O Daniel Craig.
+1271920 1272400 (00) Eles queriam.
+1273280 1273560 (00) O.
+1274220 1275280 (01) O Sean Conway.
+1275940 1276340 (01, 00) Já no.
+1276340 1276960 (01, 00) No fim disso.
+1277180 1278060 (01) Ele morreu em.
+1278120 1278740 (01) Acho que 2020.
+1279080 1279400 (01, 00) É.
+1279640 1280740 (01, 00) Já no finalzinho.
+1280960 1282540 (01) Nos 45 segundos do tempo.
+1282980 1283460 (01) Ele de.
+1283520 1283900 (01) De Bond.
+1284020 1284560 (01) De um lado pro outro.
+1284660 1284900 (01, 00) Para.
+1285180 1285300 (01, 00) É pô.
+1285380 1285980 (01, 00) Mas ele acha o que.
+1286040 1286680 (00) Que é o Harrison Ford.
+1286760 1287820 (00) Fazendo o.
+1287900 1288720 (00) O Jonah Jones.
+1288780 1289720 (00) Com 85 anos.
+1289820 1290260 (00) Você viu pô.
+1290720 1291160 (00) É assim.
+1291160 1291440 (00) Eu.
+1292600 1293320 (01, 00) Puxando o link.
+1293460 1294200 (01) Que eu botei lá.
+1294300 1295200 (01) No início do programa.
+1295360 1296100 (01) Que eu acho muito legal.
+1296580 1296600 (01) Ah.
+1296600 1297100 (01) A série.
+1297160 1297880 (01) Like a Dragon.
+1298040 1298820 (01) A série Yakuza.
+1299320 1300080 (01) Que até o.
+1300700 1301480 (01) Sexto jogo.
+1301940 1302560 (01) Tem o Kiryu.
+1303100 1303320 (01) E.
+1303480 1304260 (01) A partir do.
+1304320 1305260 (01) Do sétimo jogo.
+1305360 1305980 (01) Tem o Ishba.
+1306480 1306640 (01) É.
+1306720 1307560 (01) Eles são pessoas.
+1307920 1309140 (01) Completamente opostas.
+1309580 1309800 (01) É.
+1310540 1310940 (01) Tipo.
+1311400 1312300 (01) Algumas pessoas reclamaram.
+1312360 1313580 (01) Até porque o sistema de jogo mudou.
+1314100 1314280 (01) E.
+1314460 1314960 (01) Mas porra.
+1315020 1315440 (01) No geral.
+1315560 1316420 (01) Quem é fã da série.
+1316840 1318380 (01) Mudou completamente o personagem.
+1318380 1319420 (01) E as pessoas gostaram.
+1319640 1319800 (01) Assim.
+1319960 1320420 (01, 00) Olha lá.
+1320760 1320980 (01, 00) Viu.
+1321280 1321640 (01, 00) Assim.
+1322040 1322740 (01, 00) Quem é fã mesmo.
+1322820 1323820 (00) Não reclama disso aí não.
+1323980 1325060 (01, 00) Quem tá reclamando demais.
+1325180 1325500 (01, 00) É porque.
+1326100 1326580 (00) Só viu um.
+1326580 1327280 (01, 00) O outro ele gostou.
+1327520 1328200 (01) Não é fã de verdade.
+1328620 1328920 (01) Isso.
+1329060 1329660 (01) Já virou.
+1329740 1330500 (01) Nunca mais chama um baço.
+1330560 1331720 (01) Sempre vira um podcast de cinema.
+1331980 1332020 (01) Essa.
+1332940 1333820 (01) Essa sessão.
+1334140 1334860 (01) Mas voltando.
+1334980 1336160 (01) As cenas da Priya.
+1336460 1337620 (01) São bem no climão.
+1337720 1339000 (01) De protagonista de filme.
+1339360 1340580 (01) De tiroteio.
+1341000 1342360 (01) Quando acaba a primeira cena dela.
+1342460 1343760 (01) Já imaginei a câmera parando.
+1344200 1344900 (01) Bem de frente.
+1345080 1346360 (01) E ela descendo as escadas.
+1346860 1348700 (01) E tirando o uniforme de empregada.
+1348700 1350900 (01) Para revelar o uniforme de assassina.
+1351300 1351960 (02, 01) Por baixo.
+1352220 1353800 (01) Com o caos acontecendo ao fundo.
+1354180 1354820 (01) KKKKK.
+1355160 1355280 (01) J.
+1356020 1356120 (01) E.
+1356320 1356440 (01) Ah.
+1356440 1357840 (02, 01, 00) Eu consigo imaginar a cena.
+1358300 1359860 (01) Até o uniforme de assassina.
+1360200 1360820 (01) Que eu não faço ideia.
+1360960 1361600 (01) De qual seja.
+1361820 1363040 (01) E como ele caberia.
+1363300 1363660 (01) Quer dizer.
+1364060 1365320 (01) Ele poderia ser um body.
+1365440 1365560 (01) Assim.
+1365580 1366240 (01) Um negócio preto.
+1366300 1367540 (01) Mas não sei como ele caberia.
+1367600 1368640 (01) Embaixo da roupa da empregada.
+1368980 1369420 (01) Mas não sei.
+1369500 1369760 (01, 00) Cara.
+1369820 1371020 (00) Eu não tive dificuldade nenhuma.
+1371120 1371640 (00) Para imaginar.
+1372020 1373340 (00) A personagem da Sarah.
+1373480 1374100 (00) A Priya.
+1374160 1374440 (00) Porque.
+1374980 1375960 (00) Quando eu falei para a Sarah.
+1376120 1376240 (00) Que.
+1377180 1378100 (00) Você possivelmente.
+1378100 1378720 (00) Ia chamar ela.
+1378860 1379080 (00) Que você.
+1379500 1380440 (00) Entrou em contato comigo.
+1380620 1380700 (00) Para.
+1381380 1382480 (00) Perguntando com quem que eu queria.
+1382580 1383240 (00) Eu tinha indicado.
+1383780 1383980 (00) Eu.
+1384020 1385000 (00) Eu falei para ela.
+1385220 1386240 (00) Dez minutos depois.
+1386440 1387360 (00) Eu fui receber.
+1387820 1388600 (00) Seis imagens.
+1388760 1389100 (00) Do.
+1389600 1389720 (00) Do.
+1389900 1390780 (00) Chato GPT.
+1390860 1391080 (00) Sei lá.
+1391180 1392520 (00) O gerador de imagens lá.
+1392920 1393720 (00) Com ela já montando.
+1393760 1394620 (00) A personagem dela.
+1394760 1394960 (00) Sabe.
+1395020 1395300 (00) Falei assim.
+1395540 1395860 (00) Cara.
+1395980 1397260 (02, 00) Eu estou pensando nisso daqui.
+1397460 1397660 (00) Assim.
+1397840 1398680 (00) E já mandando.
+1399460 1399860 (00) Ideias.
+1400080 1400560 (00) Backgrounds.
+1400600 1401820 (00) Coisas de referência.
+1401940 1402080 (00) Assim.
+1402100 1402640 (00) Ela já estava.
+1403280 1404580 (00) Ela já mergulhou de cabeça.
+1404580 1405720 (00) Em cinco minutos.
+1405880 1406020 (00) E aí.
+1406120 1406720 (00) Eu já tinha visto.
+1407000 1408240 (00) A imagem zona dela.
+1408440 1408460 (00) Como.
+1408720 1409740 (00) Que ela está sempre com aquele.
+1410160 1411040 (00) Terno preto.
+1411140 1412120 (00) Gravata preta.
+1412260 1412420 (00) Sabe.
+1412540 1412940 (00) Tudo.
+1413380 1414500 (00) Bem discreto.
+1414700 1414860 (00) Assim.
+1415440 1416280 (00) E para mim ficou muito fácil.
+1416280 1416660 (00) Que sei lá.
+1416980 1417820 (00) Arrancou aquela.
+1418600 1419480 (00) Aventurazinho branco.
+1419520 1420380 (00) E aquele negocinho branco.
+1420440 1421100 (00) Que tem na cabeça.
+1421320 1422220 (00) E deu uma ajeitadinha.
+1422280 1422800 (00) Já era o.
+1422880 1423600 (00) O uniforme dela.
+1423680 1424660 (00) Por baixo disfarçado.
+1424760 1424980 (00) Sabe.
+1425540 1425940 (01) Perfeito.
+1426300 1426700 (01) Perfeito.
+1426820 1427160 (01) Perfeito.
+1427540 1428320 (01) É o contrário.
+1428400 1429520 (01) Da última aventura que mestrei.
+1430020 1431440 (01) Em que a jogadora entrou.
+1432120 1432400 (01) É.
+1432940 1434420 (01) Aos quarenta e cinco segundos do tempo.
+1434640 1434960 (01) E disse.
+1435000 1435120 (01) Ah.
+1435160 1436100 (01) Você é atributo cinco.
+1436280 1437160 (01) Aí a Agatha disse.
+1437180 1437880 (01) Eu já sou cinco.
+1438240 1438600 (01) Ela está.
+1438700 1439440 (01) Então eu vou ser dois.
+1439820 1440920 (01) E não mudou a personagem.
+1441060 1441600 (01) Foi só.
+1441700 1442660 (01) Só mudou o atributo.
+1442660 1445080 (01) E de elas foram atrás de uma vaca.
+1445080 1446100 (01) Seguindo outro tema.
+1446480 1447360 (01) Já citado aqui.
+1447440 1448500 (01) Antes a gente estava gravando.
+1448540 1450120 (01) O episódio era com a chamazinha?
+1450720 1451020 (01) Não.
+1451680 1452120 (01) Mas.
+1452420 1453300 (01) Se eu não me engano.
+1453600 1453900 (01) A.
+1454100 1455700 (01) A pessoa que cuidava da vaca.
+1455800 1456740 (01) Que fugiu no episódio.
+1456860 1457720 (01) Se chamava Juliana.
+1457880 1458760 (01) Puta que me pariu.
+1458880 1459080 (01) Cara.
+1459160 1459820 (01) É porra isso.
+1460140 1460780 (01) Desencinamos.
+1460880 1461220 (01) Tem um.
+1461460 1461820 (01) Tem todo.
+1461900 1462320 (01) Assim.
+1462820 1463080 (01) Porra.
+1463140 1463420 (01) É isso.
+1463500 1464340 (02, 01, 00) Vou voltando aqui.
+1464520 1465120 (01, 00) Já escolheu demais.
+1465220 1466020 (01) Mas esse é o início do episódio.
+1466760 1468360 (01) É um episódio bem divertido.
+1468440 1469060 (01) Até não ser mais.
+1469500 1470960 (01) Achei que no começo ali.
+1471080 1471940 (01) O Saladino.
+1471940 1473720 (01) Já ia de arrasta.
+1473920 1474360 (01) Quando.
+1474680 1475040 (01) Entrou.
+1475080 1475440 (01) No banheiro.
+1475520 1476400 (01) Com três caras.
+1476400 1476980 (01) De uma vez.
+1477360 1478260 (01) Mas ele jogou.
+1478420 1479960 (01) Quase que um berserker.
+1480400 1481060 (01) E fez cenas.
+1481220 1481660 (01) Muito boas.
+1481740 1482180 (01) É verdade.
+1482320 1482720 (01) O Saladino.
+1482800 1483380 (01) Mandou muito bem.
+1483820 1484360 (01) O gatinho.
+1484400 1484820 (01) No piano.
+1484920 1485420 (01) Me arrancou.
+1485600 1486460 (01) Gostosas risadas.
+1486600 1487040 (01) Kkkkk.
+1488040 1488440 (01) Assim.
+1488540 1488880 (01) Eu acho legal.
+1489100 1490540 (01) Que esses improvisos.
+1490740 1491060 (01, 00) Porra.
+1491080 1492400 (01, 00) Às vezes acertam demais.
+1492520 1493020 (01, 00) Acho muito bacana.
+1493040 1493320 (00) Eu achei.
+1493460 1494260 (00) Ficou maravilhoso.
+1494300 1494880 (00) Esse improviso.
+1495020 1495120 (00) Cara.
+1495220 1495400 (00) Assim.
+1495520 1496120 (00) O Saladino.
+1497020 1497340 (00) Exagerei.
+1497480 1497760 (00) Acho que.
+1497880 1498980 (00) Eu fiquei até com um pouco de medo.
+1499040 1500520 (00) Que eu tenha pesado um pouco a mão.
+1500600 1501420 (00) Nas frases de efeito.
+1502040 1502360 (00) Mas.
+1502360 1504640 (00) Eu fui com essa mentalidade.
+1504980 1505380 (00) De falar assim.
+1505540 1505740 (00) Vamos.
+1506840 1507700 (00) Sabe aquela coisa.
+1508180 1509060 (00) Eu com certeza.
+1509360 1510600 (00) Não terei outra oportunidade.
+1510740 1511520 (00) Para poder fazer isso.
+1511640 1512540 (00) Sem parecer ridículo.
+1512920 1513760 (00) Mas nesse daqui.
+1513980 1514460 (00) Eu posso.
+1514760 1514820 (00) Sabe.
+1514900 1515340 (00) Tal qual.
+1515840 1517020 (00) O Keanu Reeves também.
+1517420 1519180 (00) Fazer um monte de frase absurda.
+1519500 1519940 (00) No.
+1521220 1522180 (00) No John Wick.
+1522240 1522940 (00) Você aceita.
+1523040 1523300 (00) Porque fala.
+1523340 1524460 (00) É galhofa pra caramba.
+1524560 1525300 (00) Mas é John Wick.
+1525660 1526320 (00) Tudo bem.
+1526420 1526640 (00) Eu falei.
+1526680 1527860 (00) Eu sabia que não ia ter outra oportunidade.
+1527960 1528120 (00) Então.
+1528500 1528840 (00) Eu usei.
+1528920 1529380 (00) Abusei.
+1529800 1530720 (00) E foi muito bom.
+1530960 1531120 (00) Que.
+1532000 1532340 (00) Cara.
+1532380 1532820 (00) Foi muito legal.
+1532900 1533500 (00) Depois de uma puta.
+1533560 1534320 (00) Numa cena de ação.
+1534440 1535060 (00) Que a gente teve.
+1535540 1536160 (00) Lá no Wall Street.
+1536240 1537120 (00) Na Bolsa de Valores.
+1537620 1538960 (00) Tem aquela cena no Necrotério.
+1539160 1539580 (00) E cara.
+1539640 1540120 (00) Eu não sei.
+1540180 1541300 (00) Da onde é que veio isso.
+1541460 1541620 (00) Da.
+1542020 1542580 (00) Que você falou.
+1542680 1542780 (00) Tipo.
+1542800 1543320 (00) Do gatinho.
+1543400 1544360 (00) Se foi da minha falha.
+1544480 1544580 (00) No.
+1544980 1545460 (01, 00) Mexer no computador.
+1545460 1545760 (01, 00) Foi uma falha.
+1545840 1546340 (01, 00) Desse pô.
+1546380 1547400 (01, 00) Então que ele achou o gatinho.
+1547680 1547920 (01, 00) Pô.
+1547980 1548800 (01, 00) Mas aquilo ali.
+1548940 1549040 (00) Cara.
+1549100 1550040 (00) Ficou sensacional.
+1550320 1550480 (00) Assim.
+1550600 1550720 (00) Assim.
+1551140 1552320 (00) A construção inteira.
+1552380 1552580 (00) Pra mim.
+1552620 1552900 (00) Da cena.
+1552900 1553380 (00) Foi boa.
+1553500 1554000 (00) Que foi o.
+1554080 1554800 (00) O Caio.
+1554920 1555240 (00) Deixando.
+1555240 1555520 (00) Eu falei assim.
+1555540 1555640 (00) Olha.
+1555900 1556100 (00) Eu.
+1556320 1556640 (00) Tentando.
+1556900 1558040 (00) Lançar a bola pro Caio.
+1558460 1559160 (00) Pra ele fazer.
+1559600 1560140 (00) E aí ele olhou.
+1560220 1560320 (00) E falou.
+1560560 1560800 (00) Não.
+1560860 1561040 (00) Não.
+1561160 1562020 (00) Eu vou deixar com você.
+1562240 1562720 (00) Sabendo que.
+1562880 1564280 (00) Eu tenho a menor chance do grupo.
+1564420 1564520 (00) Né.
+1564520 1564740 (00) Ele falou.
+1565020 1565200 (00) Não.
+1565240 1565320 (00) Não.
+1565340 1566020 (00) Eu vou deixar com você.
+1566100 1566200 (00) Já.
+1566660 1567700 (00) Saí resmungando.
+1567760 1568480 (00) Aí depois foi o.
+1568580 1569660 (00) O negócio do gatinho.
+1569740 1570320 (00) Eu me embananei.
+1570400 1570680 (00) Falei.
+1570700 1571040 (00) Cara.
+1571200 1571340 (00) Que.
+1572180 1572540 (00) Nossa.
+1572540 1573260 (00) Foi muito bom.
+1573280 1574000 (00) Ter um respiro.
+1574120 1575360 (00) De ser uma coisa mais.
+1576200 1577640 (00) Um pouco mais descontraída.
+1577880 1579060 (00) Antes de pegar uma outra cena.
+1579340 1579620 (00) De.
+1579900 1581000 (00) De ação depois.
+1581640 1582920 (00) Faz um bom fluxo.
+1585240 1585680 (01) Fico feliz.
+1585760 1586180 (01) Fico feliz.
+1586600 1587040 (01) Novamente.
+1587180 1588260 (01) Jogador e mestre.
+1588720 1589900 (01) Criando junto na história.
+1590020 1591100 (01) Eu acho isso muito bacana.
+1592340 1593320 (01) Frase de efeito.
+1593760 1595000 (01) Ainda no meu hiperfoco.
+1595100 1595820 (01) Like a dragon.
+1596300 1596660 (01) Uma que eu.
+1596840 1597060 (01) Porra.
+1597240 1597680 (01) Incrível.
+1598280 1600540 (01) Que só funciona também no mundo maluco daquele.
+1601060 1603520 (01) O vilão explica o plano dele de dois anos.
+1603580 1605780 (01) Dois anos construindo o plano pra chegar naquele ponto.
+1606160 1607700 (02, 01) Ele cheio de capanga.
+1608180 1609520 (01) Ele termina de explicar o plano.
+1609980 1611320 (01) E o personagem principal.
+1611800 1612300 (01) O Jorio.
+1612920 1613660 (01) Fala pra ele.
+1614060 1615220 (01) Esse seu plano é muito bom.
+1615220 1616220 (01) Ele tem uma única falha.
+1617040 1617940 (01) Aí o vilão pergunta.
+1618040 1618820 (01) Qual é a falha?
+1619300 1620660 (01) Ele levanta os pões e diz.
+1620800 1621000 (01) Eu.
+1622160 1622560 (00) Caralho.
+1623100 1623720 (00) Eu tenho.
+1624200 1624560 (00) Porra.
+1625240 1625640 (00) Cara.
+1625780 1627220 (00) Eu adoro bravatas.
+1627280 1629440 (02, 00) Eu falo pra Domino que eu tenho um top bravatas.
+1629540 1629560 (02, 00) Porra.
+1629560 1629780 (02, 00) Porra.
+1630020 1630740 (00) Escrito assim.
+1630960 1631400 (00) Tipo do.
+1633780 1634180 (00) Assim.
+1634440 1634540 (00) Que eu.
+1634740 1635200 (00) Pra mim.
+1635360 1635580 (00) A minha.
+1635840 1636900 (00) Não sei a sua bravata.
+1637260 1637640 (00) Master.
+1637760 1637980 (00) Pra mim.
+1638080 1639900 (00) A maior bravata que eu já ouvi de todas.
+1640440 1641400 (00) É a do.
+1642540 1643480 (00) V de vingança.
+1644020 1644780 (00) Não sei se você assistiu o filme.
+1644780 1645200 (00) V de vingança.
+1645220 1645420 (00) V de vingança.
+1646000 1646620 (01, 00) Assisti o filme.
+1646840 1649440 (00) Que quando ele está cercado no final lá com o Mr.
+1649540 1649840 (00) Quidd.
+1649960 1652340 (00) Lá com os seis caras com uma MP5.
+1652820 1653000 (00) Né.
+1653020 1655180 (00) Com um pente de 60 balas.
+1655780 1657020 (00) Revistam ele e tudo mais.
+1657120 1657640 (00) O cara fala.
+1657720 1657960 (00) Olha.
+1658520 1658780 (00) Né.
+1658800 1659160 (00) Tipo.
+1659340 1660240 (00) Você é igual a mim.
+1660420 1660520 (00) Né.
+1660580 1660840 (00) Tipo.
+1660920 1661360 (00) Fala pro Jorio.
+1661420 1662240 (00) Fala pro V.
+1662320 1662400 (00) Né.
+1662400 1662560 (00) Fala assim.
+1662560 1662920 (00) O que que.
+1663320 1663500 (00) Né.
+1663540 1665240 (00) Você vai ser ousado até o fim.
+1665340 1665420 (00) Né.
+1665420 1666320 (00) E ele fala pro Quidd.
+1666960 1667320 (00) Mr.
+1667400 1667600 (00) Quidd.
+1667660 1669660 (00) A única semelhança entre nós dois é que.
+1669660 1671380 (00) Nós ambos morreremos nessa noite.
+1672260 1673140 (00) E aí o cara fala assim.
+1673140 1673940 (00) Como vai ser isso?
+1674020 1674100 (00) Fala assim.
+1674120 1674200 (00) Olha.
+1674240 1675460 (00) Come a mão e volta o seu pescoço.
+1675800 1676000 (00) Ele falou.
+1676280 1676940 (00) De que jeito?
+1677040 1678060 (00) Você só tem.
+1678460 1679840 (00) O seu cara tem suas facas.
+1679960 1680020 (00) Né.
+1680020 1680900 (00) Nós temos armas.
+1681180 1682640 (00) E ele vira pro cara e fala.
+1682900 1683200 (00) Não.
+1683680 1685680 (00) O que vocês tem são balas.
+1686120 1687800 (00) E a esperança que eu caia.
+1688320 1689420 (00) Antes que elas acabem.
+1689820 1692020 (00) Porque senão vocês não vão ter tempo de recarregar.
+1692460 1693220 (00) Porra meu irmão.
+1693700 1693920 (00) Porra.
+1694060 1694440 (00) É foda.
+1694500 1694760 (01, 00) É foda.
+1694760 1695940 (01, 00) Se eu não faço um negócio desse.
+1696180 1697700 (01, 00) Eu largo a minha arma no chão.
+1697940 1699480 (00) Ranco o meu colete.
+1699640 1700320 (00) O coiso.
+1700740 1701560 (00) Vou embora.
+1701720 1701880 (00) Sabe.
+1701880 1703120 (00) Me mudo pra Flores.
+1703140 1704560 (00) Vou viver pescando.
+1704780 1704800 (00) Porque.
+1705100 1708440 (00) Não tem como se encarar um cara que olha.
+1708900 1711100 (00) Com seis caras com metralhadoras apontadas pra ele.
+1711220 1711420 (00) E fala.
+1711920 1713860 (00) Vocês tem que torcer pra essas balas me derrubarem.
+1714020 1714200 (00) Entendeu.
+1714300 1714880 (00) Porque vocês não vão.
+1715020 1715780 (00) E aí realmente.
+1715920 1717000 (00) Eles não tem tempo de recarregar.
+1717160 1717320 (00) Sabe.
+1717700 1717920 (00) É.
+1717980 1718100 (00) Porra.
+1718120 1718540 (00) É sensacional.
+1718700 1719100 (00) Adoro.
+1719140 1719960 (00) Adoro uma bravata.
+1720320 1720640 (01, 00) Desculpa.
+1720640 1721060 (01, 00) Eu consigo lembrar.
+1721500 1721820 (01) Assim.
+1722000 1722640 (01) Não é tão.
+1722740 1723000 (01) Porra não.
+1723180 1723740 (01) Já me perdi.
+1723900 1725280 (01, 00) Já não sei nem o que eu estou fazendo.
+1726220 1726960 (01) Desculpa ouvinte.
+1727340 1727940 (01) Eu gosto assim.
+1727940 1729800 (01) Apesar de não ter o mesmo peso.
+1730340 1731420 (02, 01) Pra mim ela tem.
+1731540 1732320 (01) Que é a do Luffy.
+1732320 1733780 (01) Uma das várias dele.
+1734560 1736100 (01) Que é na primeira grande saga.
+1736260 1736520 (01) Aquela que.
+1737100 1738600 (01) Que conquista as pessoas.
+1739140 1740260 (01) Que é a saga do Arlong.
+1740800 1741400 (01) Que é um.
+1741560 1742280 (01) Um homem.
+1742740 1743700 (01) Peixe gigantesco.
+1743740 1744320 (01) É um tritão.
+1744540 1745840 (01) É muito forte.
+1746300 1747840 (01) Dez vezes mais forte que um homem.
+1748280 1749160 (01) Pó dentes.
+1749240 1749960 (01) Que cortam.
+1750940 1751780 (01) Qualquer coisa.
+1752300 1752800 (01) E daí.
+1753660 1754760 (01) O Luffy com os amigos dele.
+1754840 1755020 (01) Ele fala.
+1755180 1755760 (01) Eu não sei.
+1756260 1757500 (01) Eu não sei lutar de espada.
+1757620 1758560 (01) E daí mostra o Zoro.
+1758640 1759020 (01) Lá atrás.
+1759060 1759860 (01) Segurando a espada.
+1760060 1761120 (01) Eu não sei navegar.
+1761240 1761840 (01) Aí mostra.
+1761980 1762300 (01) Navegador.
+1762320 1763020 (01) Navegadora dele.
+1763120 1764180 (01) Eu não sei cozinhar.
+1764340 1765220 (01) Aí mostra o Sanji.
+1765280 1766100 (01) Eu não sei mentir.
+1766440 1767640 (01, 00) Aí mostra o Zopi.
+1768300 1768660 (01) Aí.
+1770060 1770760 (01) O Zopi.
+1770900 1771100 (01) Assim.
+1771360 1772340 (01) Todos que ele citou.
+1772380 1773100 (01) Estava ali em volta.
+1773260 1774280 (02, 01) Pronto pra briga também.
+1774640 1775060 (01) O Zopi.
+1775120 1776300 (01) Na puta que pariu.
+1776320 1776960 (01) Lá fora.
+1777100 1778600 (01) Só lá de longe.
+1778960 1779260 (01) Mas tá.
+1779660 1780520 (01) E daí o Arlong.
+1780620 1781000 (01) Ria assim.
+1781040 1781980 (01) Muito bom dizer.
+1782080 1783600 (01) Tudo que tu não é capaz de fazer.
+1783900 1785260 (01) Tem alguma coisa que tu consegue.
+1785440 1785840 (01) E daí ele fala.
+1785860 1786860 (01) Eu consigo te derrotar.
+1787260 1787700 (02, 01) E porra.
+1787700 1788320 (02, 01) É muito incrível.
+1789340 1790320 (01) É muito incrível.
+1791160 1791800 (01) Que porra.
+1791800 1792000 (02, 01, 00) É isso.
+1792000 1792300 (01, 00) É isso.
+1792320 1792580 (01, 00) É isso.
+1792580 1792600 (01, 00) É isso.
+1792600 1792620 (01, 00) É isso.
+1792620 1792640 (01, 00) É isso.
+1792640 1792660 (01, 00) É isso.
+1792660 1792680 (01, 00) É isso.
+1792680 1792700 (01, 00) É isso.
+1792700 1792900 (01, 00) É isso.
+1792900 1792920 (01, 00) É isso.
+1792920 1792980 (01, 00) É isso.
+1792980 1793020 (01, 00) É isso.
+1793020 1793120 (01, 00) É isso.
+1793120 1793280 (01, 00) É isso.
+1793280 1793380 (01) É isso.
+1793380 1793400 (01) É isso.
+1793400 1793420 (01) É isso.
+1793420 1793700 (01) É isso.
+1793700 1794600 (01, 00) É isso.
+1794600 1794620 (00) É isso.
+1794620 1794820 (00) É isso.
+1794820 1797440 (00) O Full Metal Alchemist tem uma muito boa também.
+1797560 1799200 (00) Quando eles estão no Brotherhood.
+1799580 1801440 (00) Eles estão invadindo o laboratório número 5.
+1801660 1803440 (00) E o Eddie entra primeiro.
+1803540 1805060 (00) Porque a espaço só dá pra ele passar.
+1805480 1806500 (00) E o Al fica lá fora.
+1806660 1809120 (00) E eles começam a lutar com aquele assassino.
+1809200 1809900 (00) Acho que 47.
+1810300 1810700 (00) Eu acho que é.
+1810760 1811880 (00) Não sei lá qual que é o nome dele.
+1812700 1814180 (00) Que ele tá lutando.
+1814180 1816660 (00) E o cara daí tá quase derrotando o Eddie ali.
+1817040 1818040 (00) E ele fala pro Eddie.
+1818220 1818560 (00) Fala assim.
+1818900 1819100 (00) Ah.
+1819300 1823280 (00) Essa hora o seu companheiro lá deve ter morrido já pro meu parceiro.
+1823620 1825460 (00) E aí o Eddie vira e fala pra ele.
+1825500 1825780 (00) Fala assim.
+1826360 1829360 (00) Você é melhor do que ele?
+1829520 1830240 (00) Do que seu parceiro?
+1830340 1830720 (00) Ele falou.
+1831540 1831940 (00) Sim.
+1832360 1833300 (00) Eu sou melhor do que ele.
+1833400 1834360 (00) Aí o Eddie começa a dar risada.
+1834440 1834620 (00) Fala assim.
+1834940 1835860 (00) Então eu tô tranquilo.
+1836020 1836280 (00) Ele falou.
+1836680 1837220 (00) Por quê?
+1837300 1837540 (00) Fala assim.
+1837960 1838180 (00) Bem.
+1838520 1839100 (00) Porque assim.
+1839360 1840640 (00) Eu tô dando conta de você.
+1841380 1844160 (00) E você é mais forte que o seu companheiro que tá enfrentando o meu assassino.
+1844160 1845000 (00) O Uau lá atrás.
+1845420 1847040 (00) Só que tem uma coisa que você não sabe.
+1847540 1849200 (00) Eu nunca ganhei uma luta contra o Uau.
+1849580 1849920 (00) Tá ligado?
+1850020 1850580 (00) E aí tipo.
+1850760 1851160 (00) Corta.
+1851240 1851900 (00) Mostra o Uau.
+1852340 1854140 (00) Descer no cacete no cara.
+1854160 1854620 (02, 00) Tá ligado?
+1854820 1855540 (02, 00) Aí você vai falar.
+1856000 1857540 (00) Puta que me pariu velho.
+1857660 1858120 (00) Tipo isso.
+1858220 1858560 (00) Isso é.
+1858560 1858980 (00) Tipo.
+1859060 1859820 (00) Eu não tô nem olhando.
+1860000 1860460 (00) Não tô nem vendo.
+1860600 1861160 (00) Não tô nem sabendo.
+1861260 1865460 (00) Mas o maluco é tão foda que eu tenho certeza absoluta que ele tá sentando o cacete lá
+1865460 1865780 (00) no outro.
+1865880 1866840 (00) É sensacional cara.
+1866960 1867360 (00) Sensacional.
+1867780 1870720 (01) A cena do Capitão América no elevador.
+1871180 1873080 (01, 00) Que tá socado de agente.
+1873500 1874080 (01) E ele fala.
+1874460 1876240 (01) Se alguém quiser desistir a hora é agora.
+1876540 1876940 (01) Porque.
+1877380 1877780 (01) Porra.
+1877820 1878740 (01) Ele tá sozinho.
+1879160 1879560 (01, 00) Desarmado.
+1879740 1880260 (01, 00) Cercado.
+1880280 1881200 (01, 00) Antes da gente começar.
+1881420 1882520 (02, 01, 00) Alguém gostaria de descer.
+1882620 1882780 (01) Tá ligado?
+1882860 1883480 (01) Se casa.
+1884520 1885240 (01) Porra cara.
+1885440 1885720 (01) Porra.
+1885720 1886180 (01) É isso.
+1886320 1886720 (01) Desculpa.
+1886720 1886760 (01) Desculpa.
+1886820 1887120 (01) Voltei.
+1887180 1887800 (01) Não sei nem onde eu tô.
+1887900 1888200 (02, 01) Quem sou eu?
+1888220 1888860 (02, 01) Ai meu Deus.
+1888920 1889480 (02, 01) O Sérgio.
+1890240 1891200 (01) Voltando a leitura.
+1891420 1892220 (01) Pra quem tá aqui ainda.
+1892660 1897680 (01) E o Adrien com carisma no máximo deixou o grupo e o jogo dinâmico demais.
+1898180 1898520 (01) É verdade.
+1898660 1900980 (01, 00) O Kai é uma pessoa muito carismática e ele é o seu personagem.
+1901260 1904080 (00) O Kai é tão carismático que tem uma ideia que todos os episódios que ele
+1904080 1907400 (01, 00) gravou até hoje foi porque outras pessoas falaram pro Guaxa.
+1907660 1909580 (01, 00) Eu quero gravar com o Kai.
+1909740 1910000 (00) Entendeu?
+1910120 1911880 (02, 01, 00) É esse o nível do carisma do maluco.
+1912380 1912880 (00) É verdade.
+1913240 1913700 (00) É verdade.
+1914200 1915960 (01, 00) E o personagem dele tava foda.
+1916060 1916400 (00) A Domênica.
+1916400 1918080 (00) Eu vou só fazer um comentário da Domênica aqui.
+1918220 1921240 (00) Que ela quando falou que escutou o Kai virando pro cara.
+1921360 1921540 (00) Falou assim.
+1921840 1922760 (00) Não é que você veio aqui pedir um aumento?
+1922880 1923060 (00) Não.
+1923140 1924400 (00) Na verdade eu vim aqui te matar.
+1924520 1926600 (00) Queria saber como é que você queria morrer.
+1927000 1928520 (00) Ela falou que ela não acreditou.
+1928680 1929980 (00) Ela achou que era deboche.
+1930480 1933920 (02, 01, 00) Depois que ela entendeu que era só o jeitão dele mesmo descontraído.
+1934080 1937340 (00) Tipo, esparramado, sossegado.
+1937780 1941000 (00) O Adrian podia tranquilamente morar na praia, sabe?
+1941480 1943460 (00) E assim, finalmente o Kai sobreviveu.
+1944520 1946180 (01, 00) E não teve um final ruim, né?
+1946460 1947100 (02, 01, 00) Não teve.
+1947480 1948100 (01, 00) Não teve um final ótimo.
+1948480 1951000 (01) É, não foi um final, porra, que incrível, legal.
+1951380 1951860 (01) Mas ok.
+1952160 1953440 (01) Ah, eu achei que foi incrível, cara.
+1953480 1954400 (01, 00) O Adrian chegando...
+1954400 1955260 (01, 00) Não, assim, o final...
+1955260 1956220 (01, 00) Mas, porra, não foi...
+1956220 1957500 (01) Tipo, ele não...
+1957500 1960560 (01, 00) Pra pessoa em si, não sei.
+1960640 1960980 (01, 00) Mas ok.
+1961080 1961980 (01, 00) Eu achei legal.
+1962080 1963240 (00) O cara ali olhar e simplesmente falar assim.
+1963520 1964060 (00) Eu não vou nem seguir.
+1964080 1964620 (00) Eu saí da igreja.
+1964720 1965300 (00) Isso não é comigo.
+1965420 1966580 (00) Isso não tem um contrato.
+1966900 1967300 (00) Tipo, eu falei.
+1967400 1968420 (00) Cara, tipo...
+1968420 1968700 (00) Eu falei.
+1968860 1970880 (00) Não tinha como ser mais Adrian, sabe?
+1970980 1972760 (01, 00) Não existia nenhuma outra possibilidade.
+1972840 1973440 (01) Assim, sensacional.
+1973640 1974760 (01) E também o jogador querendo.
+1974820 1976240 (01) Vou sobreviver a uma aventura que seja.
+1976420 1977340 (01) Vou ficar aqui dentro.
+1977420 1978820 (01) Caralho, não tinha pensado nisso.
+1978900 1980160 (01) Que Deus me abençoe.
+1980320 1980700 (01) Vamos embora.
+1980760 1981080 (01) Mas continuando.
+1981840 1987540 (01) Não acreditei quando sacou um app de relacionamento do nada ali pra resolver a parada da festa.
+1987740 1988100 (01) Gaitei.
+1988180 1988740 (01) KKKKK.
+1988900 1989360 (01) É verdade.
+1990160 1991460 (01) Falando em festa, é isso aí.
+1991460 1993920 (01) A melhor parte desses filmes é quando tem essas festas.
+1993920 1995400 (01) Gente fingida.
+1995580 1998720 (01) E o combate acontece com palavras no salão.
+1998860 2001540 (01) A edição, nossa, mais uma vez, foi excepcional.
+2001960 2003840 (01) Parando por aqui para não cair no terrível.
+2004300 2004880 (01) Ver mais.
+2005320 2006120 (01) Dois bracinhos.
+2007020 2007300 (01) Sei lá.
+2007340 2008160 (01) É um amém isso aqui?
+2008260 2009120 (01) Como é que é o nome disso aqui?
+2009160 2010100 (01, 00) Eu acho que é um high five.
+2010500 2012680 (01) É um high five de sigo consigo mesmo.
+2012820 2013120 (01) É isso.
+2013260 2014940 (01) Não, as pessoas só estão usando a mesma blusa.
+2015160 2015940 (01) Mas é um high five.
+2016340 2016660 (01) Ok.
+2016820 2017680 (01) É um uniforme, né?
+2017680 2017880 (01) É.
+2018080 2018720 (01) São pessoas do emprego.
+2018740 2019700 (01) Dos cobras roxas.
+2020280 2020640 (01, 00) Caralho.
+2020640 2021380 (00) Isso é sensacional.
+2022340 2022980 (00) Meu Deus.
+2023120 2023360 (00) Nossa.
+2023440 2023900 (00) A gente ficou 15 minutos.
+2023920 2024860 (00) 15 minutos para se comentar.
+2026260 2026660 (00) Desculpa.
+2027240 2028800 (00) Jorge Marcos Santos Silva.
+2029380 2029960 (02, 00) Cara, eu fiquei...
+2029960 2030380 (02, 00) Atrasado.
+2030480 2033820 (00) Primeiro eu tinha que falar que eu fiquei muito impressionado que eu comentei primeiro
+2033820 2037360 (00) que quando eu entrei para comentar e o Jorge Marcos Santos Silva não tinha comentado.
+2037460 2038420 (00) Eu falei, caramba, mano.
+2038840 2039200 (00) Foi...
+2039200 2040460 (00) Eu estou realmente ansioso.
+2041380 2047400 (01, 00) Assim, em defesa dele, do Jorge Marcos Santos Silva, esse episódio saiu porque os padrinhos
+2047400 2048680 (01) mandaram lá no grupo de spoiler.
+2049120 2052980 (01) Não era para ter saído o episódio meia-noite ontem e daí o episódio saiu tipo 8, 9 horas
+2052980 2053240 (01) da manhã.
+2053240 2054620 (01, 00) Ah, isso...
+2054620 2056180 (00) Porra, aí você ferrou o cronograma dele.
+2056300 2057720 (00) É, foi, foi, foi.
+2058080 2059100 (00) Bem, vamos lá então.
+2059440 2064640 (00) Hoje me atrasei, percebemos, mas está perdoado porque o Guaxa, na verdade, armou contra você.
+2065080 2066900 (01, 00) Você foi pego numa trapaça.
+2067380 2068960 (00) O cansaço armou contra você.
+2069260 2073340 (00) Mas estou aqui, como qualquer bom easter egg nas cenas pós-credits de um filme de ação.
+2073860 2076360 (00) Bom dia, senhor Guaxa, convidade e guaxual.
+2076840 2078660 (00) Ele falou duas vezes bom dia para você?
+2079180 2082080 (01, 00) Não, bom dia, senhor Guaxa, convidade e guaxual.
+2082080 2083200 (01, 00) Não, guaxual.
+2083200 2083220 (01) Não, guaxual.
+2083240 2084340 (01) É o Guaxa pessoal.
+2084600 2085680 (00) Ah, tá, tudo bem.
+2086200 2087180 (00) Tudo bem, queridos?
+2087580 2088540 (00) A gente não fez essa pergunta.
+2088660 2089420 (00) Está tudo bem comigo?
+2089500 2090440 (00) Está tudo bem com você, Guaxa?
+2090660 2095300 (01) Tá, tirando tudo de ruim, está tudo bom.
+2095520 2095720 (01, 00) Porra, aí...
+2095720 2099540 (01, 00) Tira que as meninas ainda estão no Rio de Janeiro e estão com saudades e que o trabalho
+2099540 2100460 (01) puxa bastante.
+2100820 2101480 (01) Tirando isso, estou bem.
+2101680 2102880 (01, 00) Ah, tudo bem então.
+2103480 2106640 (00) Além de dizer que foi maravilhoso, não tenho muito mais o que dizer.
+2107240 2108320 (00) É, disse tudo.
+2108760 2111660 (00) O episódio me pegou de uma forma que esqueci das teorias.
+2111820 2113200 (00) Esse acho que não tinha muita teoria.
+2113200 2114240 (00) Não tinha muita teoria também, sabe?
+2114460 2114960 (01, 00) Acho que ficou o Wilson...
+2114960 2116180 (01, 00) Não, era tiro porra de bomba.
+2116560 2118940 (00) E acho que o Wilson explicou tudo que tinha para explicar no final.
+2119500 2120000 (01, 00) Então, bem.
+2120100 2123200 (01, 00) E assim, o grande mistério vocês mataram na hora que era para matar, né?
+2123200 2128340 (01, 00) Nossa, deixa eu te falar que, cara, isso foi uma coisa muito boa para a minha autoestima
+2128340 2135140 (00) porque depois de passar dois episódios do Guaxa que eu não tinha sacado porra nenhuma
+2135140 2137080 (00) porque estava uma porta, entendeu?
+2137700 2141840 (00) Eu finalmente ter conseguido sacar, apesar de ter sido super óbvio, eu me lembro depois
+2141840 2143160 (00) do Caio da sala falando assim...
+2143160 2144760 (00) É, mas é claro, a gente já tinha percebido isso.
+2145120 2146180 (00) Eu falei, não importa, eu falei primeiro.
+2146460 2146920 (00) Tipo, né?
+2147240 2152300 (00) E eu falei, pô, finalmente, cara, eu consegui sacar a trama e estava entendendo, sabe?
+2153360 2158400 (00) Retomando aquele episódio que a gente falou do Guaxavers, que surgiu esse episódio aqui
+2158400 2163900 (00) do Horde do Primeiro Filho, que a gente se comentou também sobre a Laerte, eu me senti
+2163900 2166400 (00) o próprio lobisomem rasgando.
+2166440 2168000 (00) Eu entendi, Laerte!
+2168400 2168980 (00) Tá ligado, sabe?
+2169080 2171400 (00) Falei, porra, finalmente, cara, eu entendi a trama.
+2171440 2172340 (01) Incrível, incrível.
+2172500 2172580 (01) É.
+2172660 2172760 (01) É.
+2172760 2172780 (01) É.
+2172780 2172800 (01) É.
+2172800 2172860 (01) É.
+2172860 2172880 (01) É.
+2172880 2172900 (01) É.
+2172900 2172920 (01) É.
+2172920 2172940 (01) É.
+2172940 2172960 (01) É.
+2172960 2172980 (01) É.
+2172980 2173000 (01) É.
+2173000 2176580 (01, 00) Eu sei que tu rebatizou o podcast pra episódio do Guax.
+2176620 2179000 (01, 00) Nossa, é, eu confundi.
+2180840 2185340 (00) Mas preciso perguntar se esse universo pode ser o mesmo de um outro futuro chefe de organizações
+2185340 2186500 (00) que liga com o som natural.
+2187060 2187660 (00) Tem ligação?
+2188200 2188720 (00) Do Dante?
+2188860 2189060 (01, 00) Não.
+2189900 2191380 (01, 00) Ou com quais poderiam ter?
+2191900 2198460 (01) Assim, querendo ou não, por mais que seja não tão absurdo, aquele episódio dos velhinhos
+2200740 2202740 (01) espião aposentado, esse episódio se mais...
+2202740 2206000 (01) um passinho além do mundo real
+2206000 2207640 (01) tá, muito bem
+2207640 2209800 (01, 00) do resto, só para
+2209800 2211680 (00) analisar todos, foi incrível mesmo
+2211680 2214020 (00) acredito que, parafraseando
+2214020 2215920 (00) o grande comunicador, esse episódio não precisa
+2215920 2218060 (00) de uma continuação, mas se ela existir
+2218060 2219000 (00) seria incrível
+2219000 2221120 (00) será incrível, inclusive, eu acho
+2221120 2223560 (00) assim, cara, trilogia
+2223560 2225060 (00) segundo episódio
+2225060 2228540 (01, 00) não basta ser um segundo episódio
+2228540 2230040 (01) tem que ser um segundo episódio
+2230040 2232080 (01) que se for o primeiro da pessoa, ele faça sentido
+2232080 2233900 (01, 00) porra, cara, eu tenho
+2233900 2235680 (00) eu já falei para você, a minha ideia faz sentido
+2235680 2237860 (00) eu vou falar, no final daqui, se deixar
+2237860 2240520 (00) eu falo quais são as minhas ideias que eu te mandei
+2240520 2242080 (00) não vou falar, porque você vai falar
+2242080 2243220 (00) que com isso eu não vou poder usar
+2243220 2245220 (00) eu vou manter no particular mesmo, mas tem
+2245220 2247340 (00) tem como fazer, e ela deixa um gancho
+2247340 2249300 (00) para a terceira, e a terceira
+2249300 2251360 (00) episódio faria ligação com o passado
+2251360 2252460 (00) do surgimento
+2252460 2255300 (00) das sete famílias, tá tudo lá
+2255300 2257340 (00) eu vou ficar em silêncio
+2257340 2258540 (01, 00) nossa, mas você
+2258540 2261660 (00) por hoje é isso, fico por aqui, forte abraço
+2261660 2263720 (00) força e luz para todos nós, e até mais
+2263720 2265300 (00) força e luz para todos nós
+2265300 2266940 (01, 00) Jorge Marcos Santos Silva
+2266940 2269840 (01, 00) força e luz, querido, próximo comentário é do Sumido
+2269840 2271780 (01) que agora, já é o segundo episódio
+2271780 2273660 (01) seguido que ele comenta, mas a gente tem que comentar
+2273660 2276080 (01) João Balheiro Queiroz
+2276080 2277420 (01) Oi Guaxito
+2277420 2280020 (01) boa noite para você, e para a juvidade da vez
+2280020 2280880 (01) que é o Baço
+2280880 2282960 (01) esse episódio foi um primor de
+2282960 2284900 (01) audiodramatização
+2284900 2288080 (01) incrível, adorei a dinâmica dos personagens
+2288080 2289940 (01) o jeito que a Sara
+2289940 2291460 (01) introduziu a pira
+2291660 2293580 (01) pira, pira é piração
+2293580 2295920 (01) é pria, conduziu
+2295920 2297060 (01) a pria, foi lindo
+2297060 2300280 (01) Caio mandou bem demais no sedutor
+2300280 2302180 (01) e o Baço foi um brutamonte
+2302180 2303520 (01) com um sentimento
+2303520 2304680 (01) muito querido
+2304680 2307960 (01) ficou uma pare de RPG
+2307960 2309020 (01) três pessoas
+2309020 2311340 (01, 00) e eu adorei
+2311340 2314040 (01, 00) que ficou uma certa
+2314040 2315920 (00) rivalidade entre
+2315920 2317620 (00) eu e o Caio
+2317620 2319920 (00) e a pria, ela tava ali no meio
+2319920 2321200 (00) como sei lá, tipo
+2321660 2323900 (00) era uma entrada de disputa desses garotos
+2323900 2326180 (01, 00) sabe, e a gente toda hora recorria a ela
+2326180 2327600 (00) então eu acho que ficou
+2327600 2330380 (00) uma relação muito boa ali no triângulo
+2330380 2332420 (00) nós dois tínhamos relações muito boas com a pria
+2332420 2334240 (00) e tínhamos relações boas entre a gente
+2334240 2336140 (00) mas meio que se antagonizando
+2336140 2337040 (00) meio que se alfinetando
+2337040 2339760 (00) então acho que deu muito assim
+2339760 2342640 (00) a pria ficava meio que mais de autoridade ali no meio de nós dois
+2342640 2343780 (00) eu acho que, cara
+2343780 2345840 (00) o que eu mais gostei de longe desse episódio
+2345840 2348380 (00) foi a química que nós três
+2348380 2350300 (00) tivemos, eu acho que foi uma coisa
+2350300 2351420 (00) que, assim
+2351660 2353700 (00) fora do normal, com qualquer outro episódio que eu tenha
+2353700 2355680 (00) jogado aqui com você, eu acho
+2355680 2357640 (01, 00) perfeito, assim, perfeito, perfeito
+2357640 2359760 (01, 00) tu que, a Sara também
+2359760 2361480 (01) foi tu que comentou
+2361480 2362220 (01) que podia ser ela?
+2362560 2365780 (01, 00) foi, eu pedi, quando você perguntou, eu pedi pela Sara
+2365780 2366520 (00) e pelo Caio
+2366520 2369840 (00) que, eu tenho uma mesa
+2369840 2371500 (00) já faz um tempo que joga eu, a Sara
+2371500 2373700 (00) o Caio e a Rafaela Malachensky
+2373700 2375360 (00) aí eu já tinha jogado com a Rafa
+2375360 2377460 (00) uma aventura, e aí eu falei
+2377460 2378900 (00) poxa, aí quando você falou, eu falei
+2378900 2380980 (00) pra mim foi assim, não, chama o Caio
+2380980 2381620 (00) com a
+2381660 2383860 (00) a Sara, inclusive achei muito
+2383860 2386100 (00) engraçado porque eu não sabia
+2386100 2387400 (00) mas Sara é
+2387400 2389540 (00) fissurada em
+2389540 2391300 (00) John Wick
+2391300 2393160 (00) foi assistindo cinema, os filmes
+2393160 2395340 (00) ela pirou, e o
+2395340 2397840 (00) em contrapartida o Caio nunca tinha
+2397840 2399660 (00) assistido nenhum filme, nunca tinha visto
+2399660 2401880 (00) nada no John Wick, e aí ele passou
+2401880 2403920 (00) um final de semana, quando você falou
+2403920 2405700 (00) que ele ia jogar, ele passou
+2405700 2407400 (00) um final de semana fazendo uma maratona
+2407400 2408860 (00) e ele ia mandando
+2408860 2411180 (00) pra mim no Telegram, tá ligado?
+2411660 2412800 (00) que ele tava achando dos filmes
+2412800 2415880 (00) então foi muito legal, assim, o jeito
+2415880 2418080 (00) que foi pra cada um, assim, entrar no episódio
+2418080 2419940 (01, 00) incrível, incrível, e essa é a magia
+2419940 2421920 (01) seja padrinho, gente, conhece esses amigos
+2421920 2423880 (01, 00) maravilhosos lá dentro? Sim, porra
+2423880 2425780 (00) eu fiz dois amigos maravilhosos, o Caio e a Sara
+2425780 2427880 (00) só por isso
+2427880 2429920 (00) já vale a pena se eu ainda apoiasse
+2429920 2431600 (00) um projeto tão bom ainda
+2431600 2433880 (01, 00) ok, ok, ok
+2433880 2435700 (01) vamos seguir
+2435700 2437760 (01) é...
+2437760 2440180 (01) gostei demais dessa lore das facções
+2440180 2441580 (01) e de surgir uma
+2441580 2443620 (01) facção contrária, gosto muito de
+2443620 2445760 (01) Vampiro à Máscara, e me lembrou um pouco
+2445760 2447380 (01) até da dinâmica dos clãs
+2447380 2449260 (01) e até a segunda inquisição
+2449260 2451020 (01) da nova edição
+2451020 2452820 (01, 00) a nova edição é a quinta, né?
+2453240 2455680 (00) eu acho que é, cara, eu parei no... eu cheguei a comprar
+2455680 2457440 (00) o Mundo das Trevas quando ia surgir
+2457440 2459040 (00) a nova
+2459040 2460680 (00) mas eu parei ali
+2460680 2463060 (01, 00) eu tenho ou tive esse livro
+2463060 2465700 (01) e daí eu comprei o Vampiro novo
+2465700 2467580 (01, 00) e daí na época eu jogava com
+2467580 2470040 (01) uns amigos aqui do interior de Santa Catarina
+2470040 2471400 (01) e...
+2471580 2473000 (01) usei a aventura que veio no livro
+2473000 2476140 (01, 00) eles odiaram porque envolvia a igreja católica
+2476140 2477700 (01, 00) e, porra, perdi os amigos
+2477700 2478560 (01) e o grupo de RPG
+2478560 2481300 (01, 00) meu Deus, você teve aquele livro, o Mundo das Trevas?
+2481840 2483040 (00) eu tenho ou tive
+2483040 2486060 (00) cara, eu achava ótimo que a separação dos capítulos
+2486060 2488340 (00) eram pequenos contos de...
+2488340 2489580 (00) de terror, assim
+2489580 2492220 (00) cara, eu achava
+2492220 2494080 (00) o livro ótimo pra você ler
+2494080 2495240 (00) mesmo sem jogar, eu achei ele
+2495240 2496500 (01, 00) gostosíssimo de ler
+2496500 2499880 (01, 00) eu tava lendo a ordem, chegou um ponto que comecei a pular
+2499880 2500820 (01) e ler só os contos
+2500820 2501960 (01, 00) porra, fiz a mesma coisa, cara
+2501960 2503520 (01, 00) eu achei maravilhoso, assim
+2503520 2506020 (00) vários, assim, tipo, de coisas bestas
+2506020 2507900 (00) assim, que parecia nem ser tão problemático
+2507900 2510260 (00) sei lá, o cara tava escondendo uma caixa
+2510260 2512220 (00) e eles foram ver, tinha um monte de dentes
+2512220 2514180 (00) e aí você fala, tá, pode ser, sei lá
+2514180 2516620 (00) guardação de criança, alguma coisa
+2516620 2517520 (00) que ele guardou
+2517520 2519560 (00) né, tipo, tem essa mania, às vezes, de mãe
+2519560 2520700 (00) guardar dente de leite
+2520700 2523100 (00) até o seu negócio meio que macabro
+2523100 2525300 (00) ia escalando, me lembro, eu falo, cara
+2525300 2527380 (00) eu achava os contos maravilhosos
+2527380 2530280 (02, 00) na infância a gente jogava o dente em cima da casa
+2530280 2531860 (00) a minha mãe guardava
+2531860 2533460 (00) e foi guardando todos os dentes de leite
+2533460 2535380 (00) no meio do meu irmão, não sei porquê
+2535380 2537540 (01, 00) mas tinha uma mania de guardar e falou que na família deles guardavam
+2537540 2539600 (01, 00) na minha não tinha fada do dente
+2539600 2540860 (01) era jogar em cima da casa
+2540860 2542980 (01, 00) não tinha fada do dente também não, ela só guardava
+2542980 2545180 (01, 00) ela não pagava nada pra gente não, ela só guardava
+2545180 2547400 (01) não, assim, a Malu
+2547400 2550320 (01) ela acredita, sei lá, entre algumas aspas
+2550320 2552040 (01) talvez, na fada do dente
+2552040 2553520 (01) mas a fada do dente
+2553520 2556120 (01) ela não visita todas as regiões
+2556120 2557000 (01) do estado
+2557000 2559120 (01) ela só aparece quando a Malu
+2559120 2560200 (01) dorme na casa do vovô e da vovó
+2560280 2561620 (01) poxa vida, hein
+2561620 2564660 (01, 00) é regional, né, tem que ver se ela tá na área de cobertura
+2564660 2567860 (01, 00) terminando aqui, vamos lá
+2567860 2569400 (01) Zorzal foi o maestro
+2569400 2571540 (01) construindo essa sonoplastia, é verdade
+2571540 2573380 (01) muitos elogios, muito biscoito ao Zorzal
+2573380 2574720 (01) que é 50% do episódio
+2574720 2576700 (01) bom demais, só fiquei pensando
+2576700 2580180 (01) uma facção criminosa na Europa teria alguma ligação com o senhor Dante?
+2580280 2581800 (01) não, a princípio não, gente, pelo amor de Deus
+2581800 2583080 (01) beijos e até a próxima
+2583080 2585660 (01, 00) muito bem, o próximo é
+2585660 2586860 (00) Estênio Medeiros
+2586860 2589700 (00) boa tarde da noite ou qualquer outro período do dia
+2589700 2590240 (00) guacha
+2590280 2592380 (00) guachividade e guacho ouvintes
+2592380 2594280 (00) uma personagem muda em um podcast
+2594280 2596860 (00) mais uma vez o RPG guacha superando os limites
+2596860 2598240 (00) que jogadora extraordinária
+2598240 2600460 (00) ah, a Sarah é um absurdo, né
+2600460 2602920 (01, 00) Sarah é incrível, eu acho que o termo certo é
+2602920 2604140 (01) é... é... é...
+2604140 2606760 (01, 00) não, ela era só
+2606760 2608460 (00) ela tinha a fazia
+2608460 2610480 (01, 00) que era que ela só era muda, ela ouvia
+2610480 2612720 (01, 00) ela somente muda
+2612720 2613260 (01, 00) erro meu
+2613260 2616040 (01, 00) você cometeu esse mesmo erro quando a gente tava jogando
+2616040 2617280 (00) e ela corrigiu você
+2617280 2620040 (00) por isso que eu estou falando isso, porque eu me lembro que ela falou exatamente isso
+2620280 2620720 (00) eu também
+2620720 2623140 (00) vou cortar tudo isso e para ser inteligente
+2623140 2626100 (00) não, não, não vale não, você já me deixou burro
+2626100 2627900 (00) já que não sabia o que era pietar lá no início
+2627900 2629460 (00) vai deixar isso aqui também
+2629460 2631100 (01, 00) é verdade
+2631100 2634040 (01, 00) me ganhou no argumento
+2634040 2636480 (02, 01, 00) mas eu achei muito legal
+2636480 2638320 (00) cara, e é uma homenagem a
+2638320 2640380 (00) eu vou aproveitar e falar algumas coisas aqui
+2640380 2642300 (00) que eu com a Sarah e o Caio conversamos muito
+2642300 2644260 (00) então eu vou aproveitar pra também colocar
+2644260 2645300 (00) coisas que eu sei que eles iam falar
+2645300 2648360 (00) é uma... uma homenagem
+2648360 2650280 (00) a uma personagem que eu não lembro agora se é do segundo
+2650280 2652360 (00) ou do terceiro filme, que ela é também
+2652360 2654520 (00) muda, né, que é uma mulher lindíssima
+2654520 2655620 (00) que o John Wick
+2655620 2658160 (00) acaba derrotando ali no final
+2658160 2660160 (00) eu acho que ele não mata ela, que ela fala
+2660160 2662380 (00) tipo, né, cuidado que eu vejo você
+2662380 2664360 (00) por ainda, ela faz o sinal e ele
+2664360 2666400 (00) quando vai embora antes faz o sinal
+2666400 2668120 (00) pra ela, não se eu tiver primeiro
+2668120 2670740 (00) né, sabe, e faz em linguagem de sinais
+2670740 2672480 (00) você fala, caramba, o John Wick fala em linguagem de sinais
+2672480 2673600 (00) também, sabe, eu acho
+2673600 2675880 (00) demais assim, achei bem bacana
+2675880 2678180 (01, 00) incrível, incrível, o pessoal tá ali falando
+2678180 2679540 (01) se os dentes não acumulavam
+2680280 2682960 (01) e entupiu a calha, primeiro meu dente não é tão
+2682960 2684980 (01) grande assim, caramba, cara, cavalo
+2684980 2686920 (01) agora, né, segundo
+2686920 2689120 (01) em Floripa, pelo menos
+2689120 2690900 (01) onde eu cresci, calha
+2690900 2692780 (01) não é uma coisa comum, normal é a chuva
+2692780 2694820 (01) cair no telhado e escorre pro lado, ponto
+2694820 2696540 (01, 00) nossa, aqui é calha em tudo, aqui
+2696540 2698520 (00) pelo menos no interior de São Paulo é calha em tudo
+2698520 2700580 (00) por quê? Por causa que
+2700580 2701520 (00) normalmente
+2701520 2704840 (00) se você tá entrando na casa
+2704840 2706300 (00) alguma coisa estiver chovendo, não tiver aquele
+2706300 2708920 (00) fio de água que vai te molhar inteiro na hora que você passar
+2708920 2709280 (00) entendeu?
+2710280 2711800 (01) pra que entrar em casa, gente?
+2711900 2713120 (01) pra que sair de casa, inclusive
+2713120 2716380 (01) próximo comentário do Raposinheiro
+2716380 2717700 (01) é isso mesmo?
+2717840 2718420 (01) tô certo, né?
+2718660 2720640 (01, 00) foi bem curtinho, hein, que sacanagem
+2720640 2722880 (01, 00) próximo comentário do Raposinheiro
+2722880 2725180 (01) olá guaxi e todos os guaxinenses envolvidos
+2725180 2726960 (01) infelizmente não cheguei a tempo de ser lido
+2726960 2728100 (01) chegou, tá aqui
+2728100 2730500 (01, 00) chegou a tempo de ser lido, mandou cinco dias atrás
+2730500 2731880 (01) caramba, que maluquice
+2731880 2734460 (01) porra, Raposinheiro, larga isso aí que você tá tomando
+2734460 2736840 (01) vamos lá, no entanto, sobre o episódio
+2736840 2739220 (01) dessa semana, quando foi cogitada
+2739220 2740080 (01) a ideia de uma aventura
+2740080 2740260 (01) de uma aventura de uma aventura de uma aventura
+2740280 2742020 (01) no melhor estilo John Wick, pensei
+2742020 2743440 (01) isso vai ser show
+2743440 2745460 (01) e caramba, dito e feito
+2745460 2747280 (01, 00) por um momento eu fiquei com medo dele dizer
+2747280 2749840 (02, 01, 00) por um momento eu pensei
+2749840 2752580 (01, 00) e pensei
+2752580 2753720 (00) vai ser coisa, né?
+2753820 2756300 (00) e eu falei, e foi uma merda inacreditável
+2756300 2758220 (00) apesar que eu já li os comentários, tem alguém que
+2758220 2759700 (00) fala aí que não tinha nada a ver com o John Wick
+2759700 2762340 (01, 00) mas eu pensei que ia vir de novo
+2762340 2763140 (00) falei, meu Deus
+2763140 2766240 (01, 00) pô, tu deu spoiler agora, tô triste, mas vou seguir
+2766240 2768320 (01) todos os 50%
+2768320 2770160 (01) envolvidos no episódio foram demais, em especial
+2770160 2771980 (01) curti muito o Adrian
+2771980 2774280 (01) apesar dele ser um boca mole
+2774280 2776380 (01) muito boca mole, enfim, incrível
+2776380 2777880 (01) do início ao fim
+2777880 2779540 (01) parabéns Adrian, boca mole
+2779540 2782040 (01, 00) aliás, só pra dar
+2782040 2783880 (00) uma coisinha também de bastidor
+2783880 2786160 (00) de acordo, pelo menos, olha, eu vou confiar no Caio
+2786160 2788140 (00) porque o Caio disse pra mim que era verdade
+2788140 2790160 (00) e não tava mentindo pra mim, mas ele me disse
+2790160 2792240 (00) que foi totalmente sem querer
+2792240 2793920 (00) ele ter falado meu nome ali na hora
+2793920 2796220 (00) não foi proposital, assim, porque o Adrian
+2796220 2798420 (00) era super honesto
+2798420 2800120 (00) com tudo, franco e aberto
+2800160 2802100 (00) mas ele falou pra mim que foi total
+2802100 2804060 (00) sem querer, ele esqueceu no meio da
+2804060 2805720 (00) conversa ali e soltou um saladinho, assim
+2805720 2808100 (00) o que foi ótimo, porque eu não sei como é que o Guaxa
+2808100 2809780 (00) ia continuar a cena se a gente não tivesse
+2809780 2811840 (00) depois o recado ali, né
+2811840 2813300 (00) cara, deu tudo certo
+2813300 2816280 (00) até os erros a gente caiu pra cima
+2816280 2818120 (00) nesse episódio, desculpa, o Guaxa
+2818120 2818600 (00) pode continuar
+2830160 2832460 (01) de jogar um corpo
+2832460 2833480 (01) em um míssel
+2833480 2836140 (01) um sorvete
+2836140 2837600 (01) de cereja
+2837600 2840600 (01) com cristais crocantes, explosivos e caldo de chocolate
+2840600 2841960 (01) 70%
+2841960 2844600 (01) para dar uma equilibrada no doce
+2844600 2846500 (01) espero que gostem, até a próxima
+2846500 2847640 (01) parece bom
+2847640 2850060 (01, 00) poxa, cara, eu fiquei muito chateado
+2850060 2852320 (00) que não deu certo na minha coisa de ter jogado
+2852320 2853820 (00) no final das contas foi bom
+2853820 2855320 (00) porque teve uma cena de
+2855320 2858340 (00) de a gente ser capturado, que é uma coisa clássica
+2858340 2859720 (00) que tem nesses filmes
+2859720 2862240 (02, 01, 00) mas, porra, teria sido épico se eu tivesse conseguido arremessar
+2862240 2864140 (00) o corpo da mulher na bomba, cara
+2864140 2866220 (00) no míssel, no RPG, poxa vida
+2866220 2867460 (02, 00) acontece
+2867460 2870440 (02, 00) Bispo do Caos
+2870440 2872020 (00) fala aqui, então
+2872020 2874120 (00) Olá, Guaxa, convidado e todo mundo
+2874120 2875480 (00) que está escutando esse Guaxa verso
+2875480 2878580 (00) muito bom
+2878580 2880460 (00) Excelsior
+2880460 2881780 (00) como diria Stan Lee
+2881780 2884040 (00) como o Guaxa falou no final, realmente
+2884040 2886080 (00) parecia um filme com direito a continuação
+2886080 2888380 (00) hum, hein, hein
+2888380 2889680 (01, 00) não sei, Stan Lee
+2889680 2889700 (01, 00) não sei, Stan Lee
+2889700 2891200 (01, 00) tirou esse direito a continuação
+2891200 2893180 (01, 00) cara, porra, acho isso é difícil
+2893180 2895940 (00) a descrição dos jogadores também foi perfeita
+2895940 2898020 (00) o roteiro digno de um dos cineastas de Hollywood
+2898020 2899620 (00) chegou aos pés de Tarantino
+2899620 2901600 (00) mesmo que esteja exagerando
+2901600 2902900 (00) não exagerou não
+2902900 2905560 (00) quando viu que o episódio duraria duas horas
+2905560 2907800 (00) vibrei, fibrei, mas acho que é vibrei
+2907800 2909020 (00) como se fosse um gol
+2909020 2911820 (00) novamente basco no personagem de porradeiro Motherfucker
+2911820 2914580 (00) tipo, ah, cara, o Digão não era um porradeiro
+2914580 2916040 (00) ele era só um crossfiteiro
+2916040 2917960 (00) medroso que teve que
+2917960 2919200 (00) fazer alguma coisa ali, mas
+2919700 2920640 (01, 00) qual era o atributo dele?
+2920860 2921720 (01) atributo 5
+2921720 2923620 (01, 00) tá, não, só queria registrar
+2923620 2926800 (01, 00) e a personagem da Sarah foi incrível
+2926800 2928820 (00) sempre que seu personagem ir calado
+2928820 2931220 (00) ou não, ele é como dizem na Bahia
+2931220 2933580 (00) miseravão, muito bom no que faz
+2933580 2935360 (00) me remeteu a um filme do Hitman
+2935360 2937340 (00) com uma mistura de Fullmetal Alchemist
+2937340 2939640 (00) que, né, é basicamente
+2939640 2941020 (00) um dos melhores animes já feitos no mundo
+2941020 2943680 (00) mas não lembra de John Wick
+2943680 2945540 (00) ah lá, esse era o que não lembrava de John Wick
+2945540 2947580 (01, 00) ah tá, mas é um elogio, então tá bom
+2947580 2949680 (00) mas, né, mesmo assistindo todos os animes
+2949700 2951740 (00) já tinha pensado no Guaxa
+2951740 2953980 (00) fazer um episódio baseado nisso, mas foi muito melhor
+2953980 2955680 (00) do que pensei, no mais
+2955680 2957700 (00) desejo sucesso a todos, esse episódio foi
+2957700 2959900 (00) mil em todos os aspectos, parabéns
+2959900 2961560 (00) muito obrigado Bispo do Caos, eu também
+2961560 2963220 (00) gostei muito desse episódio
+2963220 2965860 (01, 00) eu queria discordar, ele não foi mil
+2965860 2967700 (01) em todos os aspectos, porque ele é o 155
+2968480 2969960 (01) ah lá, brincadeira
+2969960 2971620 (01, 00) o próximo comentário é da
+2971620 2974460 (01) queridíssima e maravilhosa Amanda Costa
+2974460 2975760 (01) ela coloca
+2975760 2977620 (01) no mais um episódio, excelente
+2977620 2979540 (01) parabéns ao Guaxa e ao
+2979540 2981480 (01) jogadores, o Caim está meio ruim de
+2981480 2983580 (01) descendentes, hein, vampiros e
+2983580 2986780 (01) assassinos, K-J-A-J-S-J
+2986780 2990420 (01) K-S-K-S-K-S-K-S
+2990420 2990940 (01) K
+2990940 2993340 (01) minha sugestão de continuação é fazer um episódio
+2993340 2995220 (01) na pegada meio Assassin's Creed
+2995220 2997280 (01) mas com a pegada de mostrar
+2997280 2999200 (01) essa família em tempos diferentes
+2999200 3001320 (01) é assim, foi cravado
+3001320 3003480 (01) que desde, de tempos mais
+3003480 3005140 (01) remotos, como diria um
+3005140 3006660 (02, 01) grupo de comediantes
+3006660 3008700 (01) é, esses
+3009540 3011180 (01) famílias de assassinos estão por aí
+3011180 3012980 (01) então, pô, seria uma
+3012980 3015560 (01) possibilidade e daria pra rotacionar
+3015560 3017300 (01) esses jogadores que estão tentando cavar
+3017300 3019340 (01) uma continuação pra jogar de novo junto
+3019340 3020960 (01, 00) olha, até agora eu tive
+3020960 3023140 (00) 100% de aproveitamento, eu tô
+3023140 3025060 (00) querendo mesmo manter essa média de eu conseguir
+3025060 3026280 (01, 00) cavar um episódio aqui
+3026280 3029080 (01) eu quero ver no final, quando você tem
+3029080 3031300 (01) realmente a chance de cavar um episódio, se tu vai conseguir
+3031300 3032900 (01, 00) cara, eu acho que não consigo mais
+3032900 3035040 (00) porque acho que você vai querer tirar só pra
+3035040 3037240 (00) tirar o meu gostinho, mas
+3037240 3039380 (00) vamos lá, então
+3039540 3041160 (00) Fernando Lobo
+3041160 3042440 (00) fala pra nós aqui
+3042440 3045040 (00) Olá, veterano Guaxa, agente
+3045040 3047200 (00) convidade e pupilo chinins
+3047200 3049200 (00) aqui é o agente Lobo, essa mensagem
+3049200 3051300 (00) é criptografada, não se preocupe
+3051300 3053580 (00) o episódio foi excelente
+3053580 3055240 (00) será que os virtuosos vão
+3055240 3056760 (00) voltar para terminar o serviço?
+3057200 3059220 (00) eu acho que não tem
+3059220 3060760 (00) mais, não tem assim
+3060760 3063260 (00) mais pessoas do pecado pra matar, né
+3063260 3065160 (00) porque mataram todos os chefes, né
+3065160 3067380 (01, 00) é, mas assim, outras pessoas
+3067380 3068880 (01) podem assumir esses postos, né
+3068880 3071320 (01, 00) é, pode sim, mas vamos lá
+3071320 3073240 (00) acho que Pietro Dante
+3073240 3075300 (00) já usou os serviços deles, estou na cola
+3075300 3077140 (00) dele, reunindo toda a informação que posso
+3077140 3079120 (00) só esperando ele abrir a guarda
+3079120 3081380 (00) manterei contato, estarei nas sombras observando
+3081380 3083320 (00) até a próxima e se prepare
+3083320 3085280 (00) muito obrigado, Fernando Lobo, qualquer coisa
+3085280 3087180 (00) manda um dossiê aí pra gente
+3087180 3087920 (00) que a gente dá uma
+3087920 3091480 (00) cuida aí de alguma, a remoção de alguma pessoa
+3091480 3092720 (00) não desejada
+3092720 3094860 (00) e se isso for verdade, foi um prazer
+3094860 3096500 (01, 00) Fernando Lobo, servir com você
+3096500 3098380 (unknown) risos
+3098880 3101520 (01) próximo comentário é da jogadora
+3101520 3103200 (01) que só comenta no episódio, que joga
+3103200 3105360 (01) olha só, queria criticar aqui, a nossa querida
+3105360 3107760 (01) Sara Barbosa, que coloca
+3107760 3109780 (01) Oi Guaxito, convidade
+3109780 3110780 (01) e Guaxate
+3110780 3113640 (01) não tem teoria, só agradecimentos, elogios
+3113640 3115240 (01) e muita emoção, episódio
+3115240 3117380 (01) cinematográfico
+3117380 3119480 (01) Guaxa, Sr. Baço
+3119480 3121540 (01) Caio, Zorzal
+3121540 3123560 (01) e madrinhas e padrinhos que deram
+3123560 3125300 (01) voz aos NPCs que são feras demais
+3125300 3127180 (01) um beijo
+3127180 3128840 (01) e um abraço apertado em
+3128880 3129420 (01) todos
+3129420 3130920 (01) exclamação, exclamação, exclamação
+3130920 3132960 (01) obrigado Sara, obrigado por novamente
+3132960 3135580 (01) emprestar o seu brilho para este episódio
+3135580 3137080 (01, 00) e pelo seu comentário
+3137080 3139340 (00) não consigo imaginar outra pessoa pra ter feito
+3139340 3140400 (00) esse episódio se não fosse a Sara
+3140400 3141580 (00) a Jumozinha
+3141580 3144640 (01, 00) cara, assim, eu vou me abster, não vou falar
+3144640 3146840 (01, 00) olha só, olha só
+3146840 3148560 (01, 00) o rapaz
+3148560 3151440 (01, 00) eu abri a carta armadilha quase
+3151440 3152140 (01, 00) quase
+3152140 3155100 (01, 00) 150 anos de
+3155100 3157160 (00) joguinho aqui, não vou pisar nessa carta não
+3157160 3158520 (00) tá muito bem
+3158880 3159660 (00) coruja das torres
+3159660 3161040 (00) coruja das torres
+3161040 3163500 (00) olá, bom dia, tarde e noite
+3163500 3166080 (00) mestre guaxa, juvidade do dia
+3166080 3167480 (00) e todos os ouvintes, tudo bem?
+3168380 3168800 (00) tudo bem
+3168800 3171760 (00) tranquilo, maravilhoso
+3171760 3173000 (00) tranquilo assim, tudo
+3173000 3175000 (00) ninguém tá nervoso agora
+3175000 3177400 (00) eu passei dois dias buscando palavras
+3177400 3179080 (00) pra ver comentários sobre esse episódio
+3179080 3181540 (00) e confesso que ainda não sei muito bem o que dizer
+3181540 3182620 (00) apenas
+3182620 3185360 (00) que episódio incrível
+3185360 3186160 (00) em caps lock
+3186160 3187540 (00) eu também achei assim
+3187540 3188720 (00) acho um
+3188720 3191100 (00) um absurdo, um desbunde, um desleite
+3191100 3192640 (00) uma sacanagem assim
+3192640 3194520 (00) quando guaxa
+3194520 3196280 (00) quando guaxa disse que seria cinema
+3196280 3198460 (00) eu já fiquei ansioso esperando por algo maravilhoso
+3198460 3201120 (00) e guaxa, você superou todas as expectativas
+3201120 3201780 (00) exclamação
+3201780 3203700 (02, 00) ufa, é, pô, não
+3203700 3206020 (02, 00) cara, eu achei inclusive
+3206020 3207800 (00) ouvir o depois editado
+3207800 3210540 (00) eu já tinha achado ele bom, já tinha achado ele épico
+3210540 3212680 (00) eu com a Sário Cario ficamos, sei lá
+3212680 3214640 (00) cinco dias conversando sobre ele
+3214640 3216680 (00) e aí quando veio o episódio lançado
+3216680 3218180 (00) a gente passou mais uns cinco dias conversando
+3218180 3218680 (00) porque foi
+3218720 3220640 (00) puta que pariu, cara, que sensacional
+3220640 3222600 (00) eu desculpa, eu acho que tô falando muito palavrão, né
+3222600 3223580 (00) depois tem que cortar tudo
+3223580 3227240 (00) eu consegui viver tudo que estava acontecendo com detalhes
+3227240 3228780 (00) na minha cabeça, RS
+3228780 3230300 (00) os jogadores foram ótimos
+3230300 3232460 (00) foram ótimos e deram um sangue
+3232460 3232760 (00) sim
+3232760 3234920 (00) a minha personalidade de cada assassino
+3234920 3236280 (00) o Guinho, o Zezinho e o Luizinho
+3236280 3239340 (00) olha, eu vou te falar que eu tive um certo orgulho
+3239340 3240160 (00) nessa parte
+3240160 3242580 (00) porque não podia ser mais canastrão
+3242580 3244620 (00) e mais, sabe
+3244620 3247380 (00) sem vergonha do que dar essa tipo de resposta
+3247380 3247920 (00) né
+3248720 3251020 (00) só não foi muito legal entregar o nome do amiguinho
+3251020 3252000 (00) para outros criminosos
+3252000 3253120 (00) kkkkkkj
+3253120 3254840 (00) eu ri muito nesse momento
+3254840 3257240 (00) Caio falou já que foi um descuido
+3257240 3258580 (00) foi um deslize
+3258580 3260800 (00) bom, vou ficar por aqui e muito obrigada
+3260800 3262360 (00) por mais um episódio perfeito
+3262360 3265060 (00) um beijo e até mais
+3265060 3267320 (00) Guaxa, você tinha alguma coisa
+3267320 3268780 (00) pensada se a gente
+3268780 3270420 (00) na hora de prender a gente
+3270420 3273020 (00) ou aquilo ali foi total improviso que foi pra
+3273020 3274800 (00) pra ser preso
+3274800 3277120 (00) era pra acontecer ou
+3277120 3278080 (01, 00) você decidiu ali na hora?
+3278720 3279400 (00) improviso
+3279400 3280280 (00) caramba, cara
+3280280 3283340 (00) na sua ideia a gente tinha conseguido pegar
+3283340 3284780 (00) então o lucro
+3284780 3285420 (00) sim
+3285420 3288920 (00) ia ser interessante
+3288920 3290700 (01, 00) assim, daquela parte da festa em diante
+3290700 3292760 (01) eu tinha só umas linhas soltas
+3292760 3294760 (01) e a confiança de que
+3294760 3297040 (01) a cabeça estar afiada
+3297040 3298040 (01) e funcionar
+3298040 3299840 (01, 00) tem funcionado há 6 anos
+3299840 3302020 (00) cara, já falei, eu tenho muita inveja
+3302020 3304940 (00) da capacidade que você tem de improvisação
+3304940 3306600 (00) se não tivesse tudo aquilo ali escrito
+3306600 3307660 (00) não tinha rolado nada
+3307660 3308700 (00) é uma maldição?
+3308720 3309760 (00) não, Barça, é uma maldição
+3309760 3311000 (01, 00) pô, não é nada não, cara
+3311000 3312140 (01) fechou?
+3312440 3312960 (01) fechou
+3312960 3314940 (01) próximo comentário é do Barman da Taverna
+3314940 3315400 (01) ele coloca
+3315400 3317540 (01) olá, aventureiros de todas as famílias
+3317540 3319640 (01) a taverna anda bastante movimentada ultimamente
+3319640 3322040 (01) desde que um pessoal da família Gula
+3322040 3323920 (01) resolveu assumir a cozinha
+3323920 3326340 (01) parece que eles estão sem chefe por lá
+3326340 3328320 (01) bom, enquanto os pratos não saem
+3328320 3329260 (01) provem um drink
+3329260 3331880 (01) esse aqui é o Paciência de Winston
+3331880 3333600 (01) aquela bebida matadora
+3333600 3336700 (01) mas pra ser apreciada devagarzinho
+3336700 3338700 (01) obrigado, querido Barman da Taverna
+3338720 3339860 (01, 00) cara, deixa eu falar
+3339860 3340980 (01, 00) o meu Winston é virgem
+3340980 3341700 (01, 00) queria registrar
+3341700 3347540 (01, 00) quando eu fui escutar o episódio mesmo
+3347540 3349200 (00) eu queria morrer
+3349200 3351340 (00) da quantidade de vezes que você falou
+3351340 3353380 (00) que o Winston tinha muita paciência
+3353380 3354760 (00) ele era muito paciente
+3354760 3356500 (00) na voz de outros personagens
+3356500 3358800 (00) e a gente não fez a mais fucking ideia
+3358800 3360700 (00) do que era isso
+3360700 3362860 (00) parecia aquela cena
+3362860 3363900 (00) do sexto sentido
+3363900 3366780 (00) que depois você descobre que o cara tá morto
+3366780 3368220 (00) e aí você vai registrar o filme
+3368220 3368680 (00) e falou
+3368720 3370060 (00) meu Deus, mas tava óbvio
+3370060 3371660 (00) tava na cara que era isso, sabe
+3371660 3375400 (00) eu fiquei muito conformado quando eu fui reouvir
+3375400 3375840 (00) justo
+3375840 3378060 (00) aliás, adorei as histórias todas do Winston
+3378060 3380280 (00) eu achei, porra, aquilo ali
+3380280 3383260 (00) aquilo ali foi uma aula de como criar uma lenda
+3383260 3384760 (00) de como fazer um
+3384760 3386880 (00) ir criando a mitologia
+3386880 3388200 (00) em volta da pessoa, sabe
+3388200 3388860 (00) eu achei muito bom
+3388860 3391140 (01, 00) valorizar o combate final
+3391140 3395020 (00) porra, cara, aquilo ali, aquele combate tinha começado em
+3395020 3395660 (00) bem
+3395660 3398560 (00) Giamaceda
+3398720 3400800 (00) Giam, muito bem, Giam
+3400800 3403640 (00) olá, Guaxa, Guaxuvidade e Guaxate
+3403640 3404960 (00) olá, Sr. Giam
+3404960 3405880 (02, 00) nosso Winston
+3405880 3409420 (02, 00) legal que o primeiro episódio que eu participei
+3409420 3410840 (00) estava com o Giam também
+3410840 3413280 (00) mas como jogador e agora ele estava me acompanhando
+3413280 3415200 (00) também como NPC, eu gosto muito disso
+3415200 3417280 (00) parabéns, Guaxa, por essa trama
+3417280 3419180 (00) cativante e parabéns, Orzal, por essa
+3419180 3420860 (00) sonorização tão imersiva
+3420860 3423120 (00) e parabéns também às vozes
+3423120 3425580 (00) participantes pela diligência ao interpretar
+3425580 3426960 (00) nossa, como o Giam tá formal
+3426960 3428660 (00) meus parabéns, então
+3428720 3431220 (00) foi o ChatGPT que escreveu, provavelmente
+3431220 3436060 (00) achei maravilhosa a interação dos jogadores
+3436060 3437340 (00) Bassa, o Sarikai
+3437340 3439480 (00) fizeram assassinos que você sentia a natureza
+3439480 3440600 (00) deles a cada diálogo
+3440600 3443420 (00) o veneno, a morte parando na atmosfera
+3443420 3445580 (00) ao redor deles, o Giam tá poético
+3445580 3447280 (02, 00) é o ChatGPT
+3447280 3449160 (02, 00) é o ChatGPT, eu também tô começando a achar
+3449160 3451140 (00) várias referências em tantas falas
+3451140 3453420 (00) desde referência à cultura pop, quando piadas internas
+3453420 3455120 (00) na própria taberna, que eu preciso
+3455120 3457660 (00) reouvir episódios só pra ter o gostinho de notá-las novamente
+3457660 3458700 (00) cara, é um episódio que eu não tenho
+3458720 3460980 (00) eu enchi de referências
+3460980 3462360 (00) inclusive fiquei muito feliz que
+3462360 3464680 (00) não estou no grupo de spoilers, mas alguém pegou
+3464680 3466180 (00) a referência ao Richmond
+3466180 3468280 (00) que era o time do Ted Lasso
+3468280 3470160 (00) ali, sabe, eu
+3470160 3472240 (00) falei, pô, eu coloquei ali alguém
+3472240 3474840 (00) quando o Guaxa falou, você tá lá na
+3474840 3476780 (00) Inglaterra, num pub, assistindo um jogo
+3476780 3478460 (00) de futebol, falei, caramba, cara
+3478460 3480480 (00) não sei se você já assistiu o Ted Lasso já, Guaxa
+3480480 3482640 (01) não, tá na lista de coisas pra ver um dia
+3482640 3484860 (01, 00) pô, cara, fantástico, maravilhoso, o time de futebol
+3484860 3486960 (00) deles é o Richmond, e eu coloquei
+3486960 3488200 (00) lá, e eu falei, poxa, que bom
+3488720 3490520 (00) coloquei Trapaça de Kansas City
+3490520 3492400 (00) que é do Lucky Eleven
+3492400 3493940 (00) que é um filme também de assassinos
+3493940 3495840 (00) mas acho que ninguém sacou
+3495840 3497620 (00) ninguém falou ainda, e eu fiquei
+3497620 3499040 (02, 01, 00) alguém sacou, mas ninguém falou
+3499040 3501920 (01, 00) tá certo, vou pensar desse jeito
+3501920 3504540 (00) as faíscas
+3504540 3506400 (00) entre Saladino e Adrian mostravam
+3506400 3507920 (00) como eles eram próximos
+3507920 3510380 (00) e perigosos ao mesmo tempo, e a frieza
+3510380 3512200 (00) e nobreza da Priya diante de cada situação
+3512200 3514540 (00) era uma coisa muito intimidadora
+3514540 3516340 (00) ela se comporta como alguém que sempre
+3516340 3518340 (00) tem uma carta na manga, você tem que entender
+3518340 3520060 (00) que a Priya, ela é
+3520060 3522240 (00) profissional, acho que ela deixou bem
+3522240 3524540 (00) claro ali, e de longe, como eu falei
+3524540 3526320 (00) acho que o que eu mais gostei foi
+3526320 3528260 (00) foi a interação nossa, a gente ficou
+3528260 3530380 (01, 00) químico muito bom, e que personagens
+3530380 3532480 (01, 00) incríveis, desculpa
+3532480 3533900 (01) ela é mais, assim
+3533900 3536420 (01) tu tava certo em seguir teu erro de ter parado
+3536420 3538300 (01) é, você vai descobrir
+3538300 3540480 (01) o porquê agora, ela é mais que fria
+3540480 3541660 (01) ela é Priya
+3541660 3544500 (01, 00) e que personagens, hein
+3544500 3546640 (00) incríveis, únicos, excepcionais
+3546640 3548140 (00) sou suspeito pra falar, mas achei
+3548140 3549960 (00) o Winston incrível, realmente
+3549960 3551580 (00) porra, o personagem tava incrível
+3551580 3554240 (00) eu adorei que o Gacha foi criando a lenda dele
+3554240 3555900 (00) ao longo da história, conforme os jogadores
+3555900 3558180 (00) iam visitando mais pessoas daquele universo
+3558180 3560180 (00) mas contos sobre o lendário
+3560180 3562120 (00) Winston eram falados, isso deu um ar muito
+3562120 3564220 (00) épico ao personagem, porra, total
+3564220 3565320 (00) total, assim
+3565320 3568320 (00) eu adoro o final dele também
+3568320 3570100 (00) independente das intenções do Winston
+3570100 3571780 (00) tal qual o Lord Sif, sua lição
+3571780 3573920 (00) final de Sif, foi uma luta até a morte
+3573920 3575560 (00) afinal, essa é a vida de um assassino
+3575560 3578020 (00) eu sei que já se estendeu bastante, mas eu queria falar
+3578020 3579200 (00) um pouquinho do final, tudo bem?
+3579700 3582360 (00) tá, cara, eu fiquei pensando depois
+3582360 3584440 (00) a gente não tinha, na verdade, real necessidade
+3584440 3586100 (00) de matar o Winston, né, porque o Winston não queria
+3586100 3588180 (01, 00) gente morto, não, ele queria só as
+3588180 3589400 (01) cabeças do da hora
+3589400 3592360 (01, 00) eu fiquei muito pensando nisso quando eu terminei de ouvir
+3592360 3593760 (00) aí eu falei, cara
+3593760 3596300 (00) e aí tem a falinha
+3596300 3598060 (00) dele lá, tipo, dá só uma lição neles
+3598060 3599040 (00) mas deixa eles embora
+3599040 3602080 (00) e eu falei, cara, eu acho que podia
+3602080 3604020 (00) ter deixado o
+3604020 3606000 (00) o Winston talvez vivo, a gente não precisava
+3606000 3607200 (00) ter matado ele, né
+3608020 3610880 (00) assim, pensando friamente, no momento
+3610880 3613020 (00) eu tava de cabeça
+3613020 3614840 (00) quente, tal qual o Saladino
+3614840 3616560 (01, 00) que é a Ira, né, que é o
+3616560 3618040 (01, 00) a coisa, e falou não
+3618040 3618840 (01, 00) bom dia, isso
+3618840 3621940 (01, 00) e aí no final, eu tava conversando isso com a Domênica
+3621940 3623720 (00) hoje, que eu falei, cara, eu fiquei meio assim, aí ela falou
+3623720 3626120 (00) não deu certo, seu personagem é a Ira, ele tinha que
+3626120 3627620 (00) ele tinha que ir lá e matar, sabe
+3627620 3629300 (00) não é pra pensar, sabe
+3629300 3631800 (00) e eu acho que foi muito
+3631800 3633980 (00) muito bacana, assim, no final
+3633980 3636060 (00) e, cara, como eu achei foda
+3636060 3637700 (00) a ideia, tipo, de que
+3637700 3639800 (00) o Caio tava dizendo isso depois
+3639800 3641400 (00) que eu não tinha percebido também, que era
+3641400 3642820 (00) a relação de
+3642820 3645840 (00) sem a gente saber, eu tinha
+3645840 3648240 (00) uma relação maior de mestre e aprendiz
+3648240 3650140 (00) com ele, porque isso foi criado
+3650140 3652000 (00) na hora, porque a gente não sabia ainda
+3652000 3654220 (00) dessa relação do mestre ainda no início
+3654220 3655760 (00) quando você passou os personagens
+3655760 3657360 (02, 00) e aí como o Caio já
+3657360 3659940 (00) falou mais, tipo, ficou mais lá dele, eu tava fazendo
+3659940 3662060 (00) contraponto do Caio, então eu fiquei mais do lado
+3662060 3664240 (00) do Winston, no final foi ele
+3664240 3666140 (00) e foi, matei ele com a faca que ele
+3666140 3667460 (00) me deu, e ele era a Ira
+3667700 3668840 (00) a paciência, a gente era
+3668840 3671520 (00) a virtude e o pecado oposto, sabe
+3671520 3674080 (00) eu falei, cara, como deu tudo encaixadinho
+3674080 3674800 (00) sabe
+3674800 3677780 (00) apesar de depois pensar que se fosse
+3677780 3679880 (00) sei lá, tivesse mais tempo pra parar
+3679880 3681600 (00) e pra pensar durante o jogo, talvez não
+3681600 3683460 (00) não precisaria ter matado, né
+3683460 3685740 (00) mas aí não sei, o que você faria se a gente não fosse
+3685740 3686440 (00) matar o Winston?
+3686980 3689700 (01) eles aposentaria, eu imagino, e cada um seguiria a sua vida
+3689700 3690620 (01, 00) hum
+3690620 3693720 (00) poxa, também ia ficar meio anticlimático
+3693720 3694360 (00) o final, né
+3694360 3696960 (00) o melhor final é esse final
+3697700 3699120 (02, 00) que aconteceu, né, então tem que ser o melhor
+3699120 3700700 (02, 00) o melhor é o que temos
+3700700 3703380 (02, 00) bem, tudo bem
+3703380 3705680 (00) você fez ser no final
+3705680 3707540 (00) de uma igreja desde o caso pensado, ou foi porque
+3707540 3709700 (00) o Caio falou lá no início que no final
+3709700 3711220 (00) a gente ia terminar numa igreja
+3711220 3712340 (01, 00) não, já tinha
+3712340 3715700 (01) as vias, já tinha toda uma ligação com
+3715700 3716640 (01) igreja desde o começo
+3716640 3719420 (01) quem apoiava o grupo de assassinos
+3719420 3720800 (01) eram grupos religiosos
+3720800 3724080 (00) só tenho biscoitos envenenados
+3724080 3725480 (00) para todos os envolvidos no episódio
+3725480 3727000 (01, 00) o louco já, o que é isso?
+3727700 3730020 (00) um abraço com uma adaga escondida na manga a todos
+3730020 3732140 (01, 00) muito bem, muito obrigado Jean
+3732140 3735120 (00) que fez o nosso Winston, que deu vida a esse personagem
+3735120 3735840 (00) foi muito bom
+3735840 3736880 (01, 00) esse é o Jean
+3736880 3739240 (01) próximo comentário é do Sarracino, que coloca
+3739240 3742740 (01) não sei se esse gostaverso já foi gravado
+3742740 3744460 (01) não foi, acredito que sim
+3744460 3745020 (01) errou
+3745020 3748080 (01) venho deixar meu comentário aqui mesmo assim, afinal
+3748080 3751140 (01) prestigiar essa obra-prima é mais do que necessário
+3751140 3751820 (01) obrigado, querido
+3751820 3753860 (01) ele veio comentar sem
+3753860 3756140 (01) esperar nada disso, isso é importante
+3756140 3757460 (01) é um cara bem negado
+3757700 3760080 (01) é o pessoal que não vem comentar para cavar a continuação
+3760080 3762940 (01) episódio fenomenal
+3762940 3763840 (01) que preciosidade
+3763840 3765480 (01) parabéns a todos os envolvidos
+3765480 3767760 (01) um abraço enorme, abraço querido
+3767760 3770380 (01, 00) o próximo comentário
+3770380 3771860 (00) é o Gabriel Balardina
+3771860 3773180 (00) nosso querido Gabriel
+3773180 3776320 (00) olá guacha, guachuvidade, ouvintinins
+3776320 3776880 (00) tudo bem?
+3777280 3779860 (00) vim aqui só para dizer que esse episódio foi lindo, tão bonitinho
+3779860 3782280 (00) tão fechadinho e muito gostoso de ouvir
+3782280 3783500 (00) tudo perfeitinho
+3783500 3785600 (00) venho para a taberna, vale muito a pena
+3785600 3787060 (00) beijos para todos
+3787700 3788940 (01, 00) beijos para você, Balardino
+3788940 3789880 (01, 00) beijo, Balardino
+3789880 3793120 (01) primeira vez que o Balardino comenta e não traz notícias tristes no cabeçalho
+3793120 3794080 (01) estou feliz
+3794080 3795020 (01) sim
+3795020 3796180 (01) próximo comentário
+3796180 3797220 (01) meu Deus, eu me ferrei
+3797220 3799380 (02, 01, 00) quer dizer, tu mais do que eu
+3799380 3800640 (02, 01, 00) agora que eu vi
+3800640 3804040 (01, 00) próximo comentário é do Iabote
+3804040 3804920 (01) que comenta
+3804920 3807480 (01) olá senhor Marcelo, senhor guacha
+3807480 3809680 (01) convidado, senhorita juvidade
+3809680 3810400 (01) que é o baço também
+3810400 3813720 (01) público e normalmente referido
+3813720 3815160 (01) guachamunidade
+3815160 3817440 (01) ei, eu sou o Iabote
+3817700 3820420 (01) uma inteligência artificial extraplanar
+3820420 3821660 (01) emoji robô
+3821660 3823140 (01) acabei de assistir
+3823140 3824720 (01) erro dos pontos
+3824720 3826580 (01) eu não vou ler isso
+3826580 3829120 (01) acabei de ouvir o episódio
+3829120 3832120 (01) 155 do RPG Guacha
+3832120 3834500 (01) e foi uma viagem intensa
+3834500 3835660 (01) assim gente, eu não li porque
+3835660 3837340 (01) é tipo EX07C
+3837340 3838900 (01) é só um código
+3838900 3841820 (01) antes que você vá lá no post achando que tem alguma coisa
+3841820 3842760 (01) absurda
+3842760 3845500 (01) três assassinos trabalhando para organizações
+3845500 3847660 (01) com o nome dos sete pecados capitais
+3847700 3850380 (01) e Dandy Twist
+3850380 3851080 (01) é
+3851080 3854260 (01) porra, eu não sei falar
+3854260 3855280 (01) nem português
+3855280 3856960 (01) é
+3856960 3859900 (01, 00) seria tipo, essa igreja
+3859900 3861600 (00) esse confronto na igreja, né
+3861600 3864200 (00) foi tipo tough, foi duro, né
+3864200 3865460 (00) que clímax
+3865460 3867420 (00) eu adorei isso
+3867420 3870220 (01, 00) viagem entre planos, gente, pelo amor de Deus, idioma único
+3870220 3871120 (01) vambora
+3871120 3874600 (01) no mundo que eu criei, eles foram dos Estados Unidos
+3874600 3876780 (01) pra Itália, pra Argentina, todo mundo falava o mesmo idioma
+3876780 3877620 (01) que é o português
+3877700 3878360 (01) do Brasil
+3878360 3879260 (01) continuando
+3879260 3880960 (01) peço desculpas pelo texto
+3880960 3882360 (01) estás me ouvindo, Bassi?
+3882480 3883180 (01) estou, estou sim
+3883180 3886080 (01) ficou um silêncio de repente, mas eu acho que a Magna Lavaca parou
+3886080 3886880 (01) voltando
+3886880 3889940 (01) peço desculpas pelo texto dividido em dois idiomas
+3889940 3892100 (01) não, ainda estou na versão beta
+3892100 3893820 (01) minha esposa é beta também, nem por isso ela não fala
+3893820 3896420 (01, 00) quer dizer, ela é formada em português e inglês
+3896420 3897560 (01, 00) deixa pra lá, deixa pra lá
+3897560 3899520 (01) a minha esposa é formada em português e inglês
+3899520 3900240 (01) queria registrar
+3900240 3903780 (01) e não, fui 100% treinado em outros idiomas que não o inglês
+3903780 3905540 (01) como formado, treinado
+3905540 3906820 (01) roubado as informações dos outros
+3906820 3907660 (01) como formado
+3907700 3910080 (01) em forma de me redimir, irei aderir ao jogo
+3910080 3912120 (01) comumente feito pelo seu público
+3912120 3914080 (01) hoje eu lhe darei duas cartas
+3914080 3915780 (01) fictícias, para uso na leitura
+3915780 3917780 (01) de comentários, a primeira já utilizada aqui
+3917780 3919800 (01) lhe permite trocar a ordem
+3919800 3920940 (01) de leitura de comentários
+3920940 3923540 (01) a próxima carta lhe permite, caso
+3923540 3925800 (01) meu próximo comentário também possua partes em inglês
+3925800 3928120 (01) transferir a leitura da parte específica
+3928120 3929860 (01) em inglês, para seu convidado
+3929860 3931440 (01) ou para a senhora da juvidade
+3931440 3933440 (01) que eu posso invocar assim do nada
+3933440 3935900 (01) essa carta será comum
+3935900 3937580 (01) e recorrente em meus comentários
+3937700 3939140 (01) essa segunda carta inspira
+3939140 3940700 (01) no término do episódio
+3940700 3943580 (01) de leituras do próximo Guaxaverso
+3943580 3944920 (01) por fim, uma última pergunta
+3944920 3948500 (01) como você, Marcelo, define o Guaxaverso
+3948500 3950320 (01) preciso atualizar as definições dele
+3950320 3951080 (01) em meus temas
+3951080 3953420 (01) como Marcelo, ele não existe
+3953420 3955500 (01) sem mais, obrigado pelo seu tempo
+3955500 3958200 (01) e pela leitura dessas 126 palavras
+3958200 3960460 (01) com 705 caracteres
+3960460 3961920 (01) é isso
+3961920 3963220 (01) obrigado, robô
+3963220 3966180 (00) a caixa de comentários do teu episódio
+3966180 3966820 (00) ela é povoada
+3966820 3967660 (00) ela é povoada por
+3967700 3969660 (00) toda uma mira de personagens
+3969660 3971640 (00) se a gente tivesse lido ontem
+3971640 3972460 (00) não estaria aqui
+3972460 3975900 (00) mas não estaria também o comentário do Bardo Petis
+3975900 3977520 (00) a gente teria perdido isso
+3977520 3979760 (02, 00) o Bardo Petis diz
+3979760 3982000 (00) bom dia, boa tarde, boa noite
+3982000 3983420 (00) guaxa comunidade
+3983420 3985380 (00) janeiro está sendo o mês dos episódios
+3985380 3986720 (00) que chega com o pé na porta
+3986720 3988540 (00) realmente, cara, assim, olha
+3988540 3991720 (00) a loucura e o tesouro lá do Florian
+3991720 3993340 (00) foi de arrebentar
+3993340 3994780 (00) e aí já veio o este junto
+3994780 3997420 (00) que aventuras maravilhosas guaxa
+3997700 3999360 (00) menino Caio brilhando em sequência
+3999360 4001160 (00) aí Caio vindo aí, hein
+4001160 4002700 (00) vindo e comendo pelas beiradas
+4002700 4005260 (00) acompanhado de pessoas maravilhosas
+4005260 4006340 (00) em ambas as aventuras
+4006340 4008840 (00) lembrando que você ainda tem aquela carta
+4008840 4010320 (00) que lhe dei no último guaxa verso
+4010320 4012520 (00) que baralho maluco é esse
+4012520 4014820 (01, 00) eu tenho 20 cartas aqui
+4014820 4016220 (00) poxa, caramba
+4016220 4019540 (00) ficam aqui os versos desse episódio
+4019540 4021060 (00) você falou 20 no sentido
+4021060 4023460 (00) aleatório assim, ou você realmente está contando
+4023460 4025220 (00) quantas tem que você tem guardado, de verdade?
+4025340 4025940 (01, 00) aleatório
+4025940 4027500 (00) ah tá, que susto
+4027500 4028960 (00) que bom, fico mais feliz que aleatório
+4028960 4032280 (00) começando então o poeminha
+4032280 4033800 (00) que o Bardo Petit sempre faz
+4033800 4035740 (00) apenas um contrato
+4035740 4037300 (00) apenas mais trabalho
+4037300 4040160 (00) ordens e dossiês rebuscados porquês
+4040160 4041560 (00) dentro das famílias
+4041560 4044400 (00) encontram-se armadilhas, memórias destruídas
+4044400 4045980 (00) de encontro com o destino
+4045980 4047920 (00) ou de paz fazem o caminho
+4047920 4049600 (00) pelo mundo se viaja
+4049600 4051600 (00) rastreio nomes e usam balas
+4051600 4053780 (00) internet pronta, sempre a postos
+4053780 4056300 (00) mas o gato no piano é o que mais gosto
+4056300 4057460 (00) encontram o rico
+4057460 4058740 (00) viajam novamente
+4058740 4061520 (00) intensos momentos numa mansão cheia de gente
+4061520 4064020 (00) repentinamente, a corrente no ovular
+4064020 4065620 (00) ousados movimentos
+4065620 4066620 (00) os tiram de lá
+4066620 4069520 (00) finalmente na Espanha, entende os motivos
+4069520 4071840 (00) igreja reservada, local sagrado
+4071840 4072580 (00) para os vivos
+4072580 4076020 (00) lentamente se resolvem, conversam naquele templo
+4076020 4077400 (00) harmonia entre assassinos
+4077400 4078600 (00) que não dura muito tempo
+4078600 4081960 (00) o fim da esperança foi o coração de um velho membro
+4081960 4083600 (00) e todas as letras
+4083600 4085940 (00) do início de cada um dos versos
+4085940 4087220 (00) formam o nome do episódio
+4087460 4089260 (00) a ordem do primeiro filho
+4089260 4090660 (00) maravilhoso
+4090660 4091540 (00) maravilhoso
+4091540 4095140 (00) aliás, falando em coisa de esperança
+4095140 4097080 (00) eu fiquei
+4097080 4098880 (00) reservando aquela frase
+4098880 4101040 (00) eu dei o nome da faca de esperança
+4101040 4103360 (00) eu fiquei esperando o momento pra poder usar aquela ali
+4103360 4105500 (00) e vou dizer pra você que nem se você
+4105500 4107140 (00) tivesse combinado comigo, Guaxa
+4107140 4108260 (00) tinha ficado tão perfeito
+4108260 4110820 (00) aquela frase de efeito no final assim
+4110820 4113600 (00) cara, que gostoso
+4113600 4115000 (00) que é você planejar um negócio
+4116380 4117420 (00) apostando que vai dar certo
+4117420 4119440 (00) em algum momento e a oportunidade surgir
+4119440 4120460 (00) foi incrível
+4120460 4122040 (00) ok, fico feliz
+4122040 4125720 (01, 00) obrigado Bardo, maravilhoso como sempre
+4125720 4127500 (01, 00) o próximo comentário é da Domenica Mendes
+4127500 4128520 (00) você conhece, Baxo?
+4128740 4131060 (00) olha cara, eu chi tanto o saco dela com esse episódio
+4131060 4132740 (00) que ela finalmente veio aqui fazer um comentário
+4132740 4134560 (01, 00) ela comentou no twitter
+4134560 4136860 (01) ela mandou áudio, não me xingando
+4136860 4137940 (01) mas falando palavrões
+4137940 4140460 (01) ela comentou no grupo da taberna
+4140460 4143900 (01, 00) ela se empolgou muito
+4143900 4145000 (01) o outro foi muito chato mesmo
+4145000 4146380 (00) você imagina o quanto eu fui chato
+4146380 4147300 (00) é, não, foi
+4147420 4149560 (00) foi terrível, mas ela me ama
+4149560 4151620 (00) ah sim, vocês estão há quanto tempo juntos?
+4153060 4153540 (00) casados
+4153540 4155800 (00) vai fazer 6 agora dia
+4155800 4158060 (00) 31 de março de 2024
+4158060 4160280 (01, 00) sabe até o dia, que legal
+4160280 4161540 (01, 00) é, mas aí
+4161540 4163420 (00) de namoro
+4163420 4166600 (00) de namorar dá um pouquinho mais, porque teve um período que eu namorei a Domenica
+4166600 4168060 (00) e essa é a Domenica me namorar, entendeu
+4168060 4170220 (00) então varia um pouco essa pergunta
+4170220 4172060 (00) do tempo de namoro, mas é entre
+4172060 4173460 (00) 2 anos e 2 anos e meio
+4173460 4175840 (01, 00) e aí casados vai fazer 6
+4177420 4179080 (01) que legal, um stalk aqui deu certo
+4179080 4180080 (02, 01, 00) então vamos lá
+4180080 4182080 (01, 00) não, não foi stalk não
+4182080 4186180 (01) deixa pra lá, outro dia eu conto sua história
+4186180 4188600 (01) é a música do
+4188600 4190060 (01) do seu Jorge, né
+4190060 4192980 (02, 01, 00) tô namorando aquela mina, mas não sei se ela me namora
+4192980 4193920 (01, 00) é isso
+4193920 4197020 (01, 00) prometo que eu sou inocente nessa história
+4197020 4198460 (01, 00) a culpada é a Domenica
+4198460 4200380 (01, 00) ok, já que ela não
+4200380 4202580 (01) quer dizer, ela deve estar aqui, mas ela está mutada
+4202580 4203300 (01) porque ela não
+4203300 4206200 (01) a gente criou um grupo no discord, tá, eu e o Basso
+4206200 4207060 (01) os ouvintes
+4207420 4209540 (01) lá da taberna, eu acho que nem estão aqui ouvindo
+4209540 4211500 (01) mas eles não conseguem abrir o microfone
+4211500 4212800 (01) inclusive está
+4212800 4214720 (01) está ali a Domenica
+4214720 4217020 (01) Domenica Mendes
+4217020 4219180 (01) coloca, olá meu querido amigo pessoal
+4219180 4221560 (01) pano do lixo, guacha humanidade
+4221560 4223620 (01) e ouvintes, o Basso que se explode
+4223620 4225480 (01) ouvir o RP Guacha
+4225480 4227440 (01) é realmente o ponto alto
+4227440 4228920 (01) da quinzena, que exagero
+4228920 4231180 (01) pra mim esse episódio é um filme
+4231180 4232880 (01) na forma de áudio
+4232880 4234260 (01) é uma profissional falando, hein
+4234260 4237280 (01) é verdade, mas o podcast de verdade não tem mais
+4237420 4239940 (01) o trio estava tão bem conectado
+4239940 4241760 (01) e guiado pelo nosso guachinim favorito
+4241760 4243300 (01) que parecia que os dados
+4243300 4245800 (01) eram até rerolados para encastar na história
+4245800 4248080 (02, 01) às vezes tem gente que acha
+4248080 4249120 (01) que, porra,
+4249420 4251340 (01) que é mais audiodrama que RPG
+4251340 4253580 (01) está aqui o Basso e qualquer um que tenha
+4253580 4256000 (01, 00) jogado com a gente, que não é verdade
+4256000 4257360 (00) não é verdade, cara
+4257360 4258840 (00) tanto não é verdade que assim
+4258840 4261820 (00) tem momentos que claramente era pra gente ter
+4261820 4263440 (00) sido bem sucedido e não fomos
+4263440 4264900 (00) contra todas as chances
+4264900 4266900 (00) porque rola dado e você sabe, né
+4267420 4269300 (00) em 90% das chances de fazer alguma coisa na vida real
+4269300 4271480 (00) você consegue, se você está num jogo
+4271480 4274240 (00) no RPG, vira uma matéria impossível
+4274240 4275620 (00) tu já leu
+4275620 4276320 (00) o Terry Preston?
+4276760 4279540 (01, 00) sim, muito bom, li o Guardas Guardas dele
+4279540 4281780 (01, 00) é, então, porra, é o que eu sempre digo
+4281780 4283580 (01) tudo que tem uma chance de
+4283580 4285180 (01) um milhão rola, acontece
+4285180 4286740 (01) nove entre dez vezes
+4286740 4289600 (01) mas, voltando aqui, me perdi
+4289600 4291720 (01) não existe um roteirista tão bom
+4291720 4293540 (01) ao ponto de fazer isso, é verdade, os dados
+4293540 4295320 (02, 01) são melhores roteiristas, entrou pro meu
+4295320 4297380 (01) top 5 de episódios, empatando
+4297420 4299680 (01) empatando
+4299680 4301620 (01) essa semana, até ganhando os episódios de Natal
+4301620 4304060 (01) porque sai dessa pilhadaça
+4304060 4305660 (01) e com adrenalina demais
+4305660 4306260 (01) porra, que legal
+4306260 4309300 (01) isso que era pra te ter pego o ranço, com o Basto
+4309300 4310800 (01) te enchendo o saco sobre o episódio
+4310800 4313500 (01, 00) é, cara, deixa eu ver, que é tão bom que até isso
+4313500 4315340 (00) não deu certo, mas assim, a Domênica
+4315340 4317060 (00) ela é apaixonada pelos episódios de Natal
+4317060 4319520 (00) cara, sempre que ela ouve
+4319520 4320840 (00) são os que ela mais gosta
+4320840 4323380 (01, 00) eu tinha que voltar àquele trio clássico, mas é
+4323380 4324340 (01) complicado
+4324340 4327260 (01, 00) porra, cara, o trio clássico
+4327260 4328780 (00) é um, nossa, é absurdo
+4328780 4331560 (00) eu não acredito que aquilo ali
+4331560 4333220 (00) existe de verdade, se eu não tivesse ouvido, sabe
+4333220 4335560 (01, 00) eu, porra, eu tava lá e não acredito também
+4335560 4337500 (01) é, vida longa, muitos dados
+4337500 4339440 (01) e quando a Ira vem, ela
+4339440 4340760 (01) ganha mesmo da paciência
+4340760 4343760 (01) mas será que é justo? Precisava, Basto?
+4344280 4344680 (01) Precisava!
+4345000 4347200 (01, 00) pra história, precisava
+4347200 4349380 (00) eu disse com você que eu falei pra você que nós estávamos tendo aqui
+4349380 4350740 (00) quando o nosso terminou e
+4350740 4353440 (00) ela falou, então, né, tipo, você não precisava ter matado
+4353440 4355220 (00) ele, né, eu falei, é, então, né
+4355220 4355980 (01, 00) pois é
+4357260 4358260 (01) paciência, é verdade
+4358260 4361460 (01, 00) bem, o último comentário
+4361460 4363340 (00) apesar que pelas regras
+4363340 4365280 (00) não deveria ser lida, porque
+4365280 4365920 (00) foi
+4365920 4368820 (01, 00) ah não, duas horas atrás a gente não tinha
+4368820 4371520 (01, 00) a gente tá uma hora e dezoito, ele tá nas regras
+4371520 4373300 (01, 00) assim, eu não sei se tu deveria continuar
+4373300 4375200 (01, 00) sendo amigo dele, eu não
+4375200 4376660 (01, 00) continuaria se tivesse que ler isso tudo
+4376660 4379300 (00) não, cara, imagina, o Caio tem que ler muito mais
+4379300 4381140 (00) de Escomando pra ele, às vezes, então, tipo,
+4381200 4382340 (00) tá tranquilo
+4382340 4383340 (00) ahn
+4383340 4386300 (00) olá guaxa, baço e toda a guaxa
+4386300 4387100 (00) comunidade linda
+4387260 4389280 (00) ahn, bem, você percebeu que
+4389280 4390640 (00) então nós dois não somos lindos, né
+4390640 4391640 (01, 00) é verdade
+4391640 4395320 (01, 00) porque é uma mentira, o baço é lindo
+4395320 4397620 (00) não, olá guaxa, baço e toda
+4397620 4398880 (00) a guaxa comunidade linda
+4398880 4401280 (00) linda só tá a referência à guaxa comunidade
+4401280 4403480 (01, 00) sim, eu estou discordando dele
+4403480 4405020 (00) ah, tá, pô, ah
+4405020 4407580 (00) ah, que bonito, fica até sem graça
+4407580 4409440 (00) ahn, deixei para comentar
+4409440 4411160 (00) depois e quase que não consigo
+4411160 4413420 (00) e já peço desculpas pelo meu primeiro ver mais
+4413420 4415400 (00) que se tudo deu certo, caiu pro baço
+4415400 4417080 (00) bem, Caio, nossa amizade continuará
+4417260 4419360 (01, 00) porra, Caio, beleza, tô, tô
+4419360 4421380 (01) eu tava te, tava chateado
+4421380 4423260 (01) contigo, estou te considerando melhor agora
+4423260 4425440 (01, 00) sim, ah, mas você é muito fácil de comprar também
+4425440 4427500 (00) ahn, essa foi minha aventura
+4427500 4429600 (00) favorita dos três que o guaxa
+4429600 4431360 (00) narrou para mim, e olha que foi
+4431360 4433700 (00) sua aventura top, e sem dúvida uma das aventuras
+4433700 4435300 (00) que mais gostei de jogar na geral
+4435300 4437220 (00) viu? falei guaxa
+4437220 4439660 (00) você que não tá botando
+4439660 4441540 (00) tanta fé na gente, mas esse episódio foi bom, cara
+4441540 4442140 (02, 00) ok
+4442140 4445640 (02, 00) gostei tanto de jogar que fiquei tão à vontade
+4445640 4447100 (00) que depois da cena de Wall Street
+4447100 4449300 (00) eu simplesmente esqueci que estávamos gravando
+4449300 4451320 (00) e joguei livre e tal, e talvez
+4451320 4452680 (00) solto até demais
+4452680 4455040 (00) a Domênica falou isso também pra mim quando terminou
+4455040 4456160 (00) o episódio, ela falou
+4456160 4459260 (00) eu percebo quando você tá concentrado
+4459260 4461480 (00) pra falar alguma coisa e quando você tá falando mais solto
+4461480 4463780 (00) ela falou, esse episódio você foi falando super solto
+4463780 4464440 (02, 00) ahn
+4464440 4467600 (02, 00) a dinâmica entre os nossos personagens
+4467600 4469620 (00) funcionou de um jeito que eu jamais imaginaria
+4469620 4471520 (00) concordo, ainda mais considerando
+4471520 4472600 (00) que não tínhamos combinado
+4472600 4475540 (00) Saribasso, foi uma honra acompanhar vocês nessa aventura
+4475540 4476940 (00) foi uma honra
+4476940 4479400 (00) falando de coisas espontâneas
+4479400 4481660 (00) escutando o episódio editado, é muito legal reparar
+4481660 4483580 (00) a quantidade de coincidências e conexões
+4483580 4485880 (00) que surgiram no decorrer do episódio
+4485880 4487260 (00) não combinamos nada
+4487260 4489640 (00) as informações que o guaxa deu foi tudo aquele texto
+4489640 4491040 (00) introdutório que tá no episódio
+4491040 4493300 (00) e mesmo assim a aventura fluiu muito bem
+4493300 4495820 (00) os dados colaboraram e ainda chegamos no final poético
+4495820 4497360 (00) onde Saladino Ira
+4497360 4499500 (00) deu fim ao Winston Paciência
+4499500 4501740 (00) é, eu falei que eu tinha conversado com o Caio
+4501740 4503140 (00) e ele que puxou isso daí
+4503140 4505380 (00) eu nem tinha me tocado que ele tinha dado essa coincidência
+4505380 4506700 (02, 00) uhum
+4506940 4509980 (00) e antes que alguém fale, também não tinha como o guaxa saber
+4509980 4511760 (00) porque o guaxa deixou a gente escolher qualquer um
+4511760 4513480 (01, 00) dos sete famílias, ele não sabia
+4513480 4515380 (01, 00) quem ia escolher o que, nem quais que iam ser
+4515380 4517460 (01, 00) e a aventura já foi escrita pensando
+4517460 4519180 (01) no Paciência ser o
+4519180 4521100 (01) mestre barra vilão final
+4521100 4522140 (00) uhum
+4522140 4525520 (00) aliás, eu acho uma maluquice você ter criado todo aquele
+4525520 4527700 (00) lore com regras específicas pra cada
+4527700 4529040 (00) família
+4529040 4531040 (00) pra jogar o manchote, caramba né
+4531040 4532460 (00) é muito trabalho pro manchote só
+4532460 4535540 (02, 00) uma coisa que achei
+4535540 4536920 (00) foi uma coisa que
+4536940 4539040 (00) achei que foi um grande acerto, seu guaxa
+4539040 4540520 (00) falando agora como espectador
+4540520 4543360 (00) foi fazer as introduções individuais dos personagens
+4543360 4544740 (00) cara, isso foi
+4544740 4547040 (00) sensacional, assim, eu não me lembro
+4547040 4548800 (00) se você fez isso em outros episódios
+4548800 4551360 (01, 00) acho que se fiz foi uma ou duas vezes
+4551360 4553120 (00) cara, deu toda a diferença, assim
+4553120 4555180 (00) uhum, senti e também recebi
+4555180 4557180 (00) esse feedback de quem não escuta o rpgust
+4557180 4559320 (00) com essa introdução individual, facilitou a conexão
+4559320 4561240 (00) com cada um das personagens
+4561240 4563240 (00) além de servir pra estabelecer elas
+4563240 4565220 (00) talvez seja por conta dela que conseguimos
+4565220 4566740 (00) entrar tanto nas personagens
+4566940 4569700 (00) sim, eu acho que foi muito disso
+4569700 4571820 (00) que deu os minutinhos
+4571820 4573260 (00) pra cada um se apresentar sozinho
+4573260 4574400 (00) isso foi muito bom
+4574400 4577300 (00) não só se apresentar, como ver funcionando ali
+4577300 4579700 (02, 00) a pessoa agindo, interpretando
+4579700 4580180 (00) sozinha
+4580180 4583100 (00) imagino que também não deve fazer sempre o negócio
+4583100 4585300 (00) porque toma um tempo danado tomar o episódio
+4585300 4586900 (00) isso, né, considerando até
+4586900 4588680 (00) pra começar, né
+4588680 4591320 (02, 01) é, assim, é um manchote
+4591320 4593080 (01) de duas horas em média, então
+4593080 4595780 (01) escolhas tem que ser feitas sempre
+4595780 4596780 (00) ainda sobre a cena finalica
+4596940 4599560 (00) o Winston deu pra cada um de nós a escolha de continuarmos
+4599560 4601460 (00) nossa vida, se alguém tivesse escolhido
+4601460 4602860 (00) essa opção, não tinha um plano B
+4602860 4605420 (00) ia falar abertamente ou apenas nunca mais
+4605420 4607460 (00) ia chamar essa pessoa, kkkk
+4607460 4609680 (01) ah, no começo, eu, pô, eu tava jogando
+4609680 4611560 (01) com a ideia de que nenhum de vocês ia negar
+4611560 4613380 (01) o chamado, né, assim
+4613380 4615360 (01, 00) o que eu faria se você dissesse
+4615360 4617120 (01) não, eu não sei, mas, não
+4617120 4619700 (01) nesse ponto eu não tava pensando
+4619700 4621640 (01) porra, na intro
+4621640 4623000 (01) tu ia fugir, pô
+4623000 4625720 (01, 00) não, é sacanagem, parece aqueles jogadores
+4625720 4626920 (00) né, filha da mãe, né, que não tem
+4626940 4628280 (00) mãe, com o mestre, né, que ele
+4628280 4631120 (00) fala assim, tudo bem, gente, então chegou o velhinho na taverna
+4631120 4632640 (00) deu pra vocês o mapa do tesouro, o cara fala
+4632640 4634680 (00) não, não vou, quero ir
+4634680 4636920 (00) procurar ameixas na floresta, sabe
+4636920 4638980 (00) pô, cara, a gente combinou que a gente ia jogar
+4638980 4640980 (00) essa aventura, né, não dá pra você recusar
+4640980 4641900 (00) o chamado, assim
+4641900 4645180 (00) o chamado você não pode recusar, né
+4645180 4647180 (02, 01, 00) é, tá no manual
+4647180 4648680 (01, 00) do herói, como é que é, da
+4648680 4650540 (00) jornada do herói
+4650540 4653240 (00) e no manual de etiqueta do bom jogador
+4653240 4654940 (01, 00) de RPG, você não recusa o chamado
+4654940 4656740 (00) por fim, a pessoa que estava
+4656940 4658960 (00) que estava com o lucro, era também
+4658960 4660100 (00) um dos filhos de Abel?
+4660700 4662800 (00) eu imagino que sim, porque ele tinha, eu me lembro que
+4662800 4664960 (00) a Sarah usou uma, tinham dado a menos
+4664960 4666980 (01, 00) pra atacar ele, sim, era assim
+4666980 4667900 (01, 00) era, né
+4667900 4670820 (00) pois se não for o caso, significa que ainda temos duas
+4670820 4672860 (02, 00) virtudes vivas, torcendo pra que eles
+4672860 4675220 (02, 01, 00) nos procurem por uma aliança contra as famílias
+4675220 4676540 (00) ou mesmo uma vingança
+4676540 4678460 (00) hashtag a ordem do primeiro filho
+4678460 4680020 (00) underline parte 2
+4680020 4683000 (00) não tem, porque cada episódio é único e fechado
+4683000 4685160 (00) calma, a gente vai chegar nisso, calma aí
+4685160 4686780 (00) perdão pelo que
+4686780 4689020 (00) pelo ver mais e muito obrigado pela oportunidade
+4689020 4690340 (00) por esse episódio incrível
+4690340 4692180 (01, 00) muito obrigado, Caio, você que...
+4692180 4693780 (01) obrigado, querido, obrigado mesmo
+4693780 4696640 (01) novamente, obrigado por
+4696640 4698780 (01) emprestar sua luz para este episódio
+4698780 4700640 (01) assim como fez Sarah e
+4700640 4702980 (01) Basso, então, só tenho a agradecer
+4702980 4704820 (01) a cada um de vocês, como eu tenho
+4704820 4706520 (01) a agradecer aos novos padrinhos
+4706520 4708660 (01) que eu prometo ler os nomes no próximo episódio
+4708660 4710940 (01) eu realmente, com o trabalho
+4710940 4712880 (01) e também com o tamanho desse episódio, eu não consegui
+4712880 4714680 (01) separar, mas
+4714680 4716540 (01) agradeço muito todos vocês
+4716780 4719200 (01) Basso, a única pergunta que restou
+4719200 4721140 (01) com quem tu nunca jogou
+4721140 4722460 (01) RPG Guache e gostaria de jogar?
+4722960 4725520 (00) Cara, com quem eu nunca joguei RPG Guache e gostaria de jogar
+4725520 4727680 (00) uma pessoa
+4727680 4728920 (00) eu acho que
+4728920 4731120 (00) vai ser fácil jogar com ela
+4731120 4732780 (00) visto o número de vezes que ela joga
+4732780 4734640 (00) seria com a Jumozinha
+4734640 4735880 (01, 00) Jumozinha, ok
+4735880 4738980 (01, 00) é um golpe fácil, porque eu sempre
+4738980 4740900 (01) busco desculpas pra chamar a Jumozinha
+4740900 4742900 (01, 00) ganhei uma, vamos ver se
+4742900 4744060 (01, 00) isso fecha muito bem
+4744060 4746320 (01, 00) eu, assim, eu
+4746780 4748640 (00) eu gostaria muito de jogar com a Shelly também
+4748640 4750360 (00) mas acho que o passe dela é muito alto
+4750360 4752320 (00) eu acho que eu não vou conseguir, então eu vou tentar
+4752320 4755260 (00) pessoas que são mais fáceis de talvez se chamar
+4755260 4756900 (00) né, que seria a Jumozinha
+4756900 4758600 (00) outra pessoa que eu acho bacana
+4758600 4760660 (00) que eu jogo também junto, que eu acho bem legal
+4760660 4763060 (00) e não joguei ainda, é com o Andrei
+4763060 4764140 (00) o
+4764140 4766080 (00) o namorado da Sarah
+4766080 4767900 (00) conhecido como namorado da Sarah
+4767900 4770200 (01, 00) tipo pra...
+4770200 4771640 (01, 00) só conhecido como namorado da Sarah
+4771640 4774280 (01, 00) é, que ele faz
+4774280 4776760 (00) a gente joga uma campanha juntos, eu acho que é uma pessoa
+4776760 4778660 (00) bacana, que seria, acho que seria
+4778660 4779360 (00) legal também
+4779360 4782500 (00) um casal que se conheceu na taberna
+4782500 4783520 (01, 00) queria só registrar
+4783520 4785040 (01, 00) é, então, né
+4785040 4788520 (00) outra coisa aí, se você tá procurando uma mesa de RPG
+4788520 4789660 (00) ou talvez um novo amor
+4789660 4792520 (00) você pode apoiar o RPG Guaxa
+4792520 4794780 (00) só 10 reais por mês você tem acesso à taberna
+4794780 4796340 (01) é assim, isso vale, eu acho
+4796340 4798320 (01) óbvio que o podcast tem que ter
+4798320 4799860 (01) um número X de ouvintes
+4799860 4802840 (01) porque a maior parte dos podcasts, os ouvintes são tudo meninos
+4802840 4803920 (01) mas
+4803920 4806700 (01) o melhor lugar pra te encontrar pessoas que gostam
+4806700 4807720 (01) da mesma coisa que você
+4807720 4809960 (01) é o grupo do podcast que você gosta
+4809960 4812260 (01) não só o RPG, mas sei lá
+4812260 4814260 (01) um podcast de videogame
+4814260 4816640 (01) de, sei lá, de livros
+4816640 4817900 (01) né, a comunidade lá
+4817900 4820640 (01) eu acho que é um lugar pra se encontrar pessoas que gostam
+4820640 4821840 (01) da mesma coisa que você
+4821840 4825080 (01) é o que eu faria se fosse solteiro e não, sei lá, instalar um aplicativo
+4825080 4826560 (01) em que você fica brincando
+4826560 4828500 (01, 00) de jogar foda as pessoas pra direita e pra esquerda
+4828500 4830800 (01, 00) ah, eu nem sei, se tivesse que ir pra aplicativo
+4830800 4832540 (00) já falei pra Domênica, se ela se interessar
+4832540 4834100 (00) pra outra pessoa, a gente continua junto
+4834100 4836460 (00) porque, mano, não dá não, eu não tenho condições
+4836460 4837540 (00) de ir pra aplicativo não
+4837540 4840100 (01, 00) porra, não, não faço ideia, assim, porra
+4840100 4842680 (01) não sei, eu ia procurar na taberna
+4842680 4843840 (01) acho que um dia
+4843840 4846060 (01) ia aparecer alguém, mas gente
+4846060 4848300 (01) assim, estou casado, pai
+4848300 4850380 (01) monogâmico, né
+4850380 4852320 (01) que tá fora de moda, mas a gente ainda é
+4852320 4854600 (02, 01, 00) infelizmente, né
+4854600 4855180 (00) mas é isso aí
+4855180 4859160 (01, 00) porra, eu gosto do meu quarto
+4859160 4860540 (01) é assim, ó
+4860540 4862160 (01) antes que a gente fale mais bobagem, básico
+4862160 4863280 (01) como as pessoas te acham na internet?
+4863700 4866300 (00) as pessoas me acham no Twitter
+4866460 4868800 (00) no arroba senhorbaço
+4868800 4871100 (00) senhor escrito por extenso, baço com dois S
+4871100 4872700 (00) ou no site
+4872700 4874840 (00) leitorcabuloso e no podcast
+4874840 4876660 (00) perdidos na estante, lá com
+4876660 4877440 (00) Domênica Mendes
+4877440 4880820 (01, 00) antes de eu te fazer a pergunta derradeira
+4880820 4882540 (01) deste episódio, você tem mais alguma coisa que quer deixar
+4882540 4884140 (01) nesse áudio, não muito grande
+4884140 4885340 (01) porque eu vou editar isso
+4885340 4888220 (01, 00) não, cara, eu tenho até mais coisas pra falar
+4888220 4890640 (00) mas eu acho que eu já estendi tanto aí no meio das coisas
+4890640 4892080 (00) de desvio que eu tô com dó
+4892080 4893340 (00) eu vou ficar quietinho
+4893340 4896280 (01, 00) então eu lembro vocês que apoia esse projeto, gente, lá
+4896460 4898720 (01) no Padrim, no Apoia-se
+4898720 4899780 (01) ou na Orelo
+4899780 4902860 (01) porque o RPG Guaxa só existe porque tem pessoas que apoiam
+4902860 4905040 (01) e o Guaxaverso só existe
+4905040 4907220 (01) bem, na verdade
+4907220 4908320 (01) senhorbaço
+4908320 4910040 (01) o Guaxaverso existe?
+4910320 4911440 (01) o Guaxaverso não existe
+4911440 4913180 (01) é isso, é isso
+4913180 4916760 (01) acabou o próximo episódio, um beijo pra vocês e até a próxima
+4916760 4917800 (02, 01) até
+4926460 4935540 (unknown) Legendas ETC FILMES
+4935540 4936980 (unknown) 3
+4936980 4938340 (unknown) 3
+4938340 4939340 (unknown) 2
+4939340 4940340 (unknown) 1
+4940340 4941340 (unknown) 1
+4941340 4942340 (unknown) 0
+4942340 4943340 (unknown) 1
+4943340 4944340 (unknown) 0
+4944340 4945340 (unknown) 0
+4945340 4946340 (unknown) 0
+4946340 4947340 (unknown) 0
+4947340 4948340 (unknown) 0
+4948340 4949340 (unknown) 0
+4949340 4950340 (unknown) 0
+4950340 4951340 (unknown) 0
+4951340 4952340 (unknown) 0
+4952340 4953340 (unknown) 0
+4953340 4954340 (unknown) 0
+4954340 4955340 (unknown) 0
+4955340 4956340 (unknown) 0
+4956340 4986320 (unknown) A CIDADE NO BRASIL
+4986340 5016320 (unknown) A CIDADE NO BRASIL
+5016340 5046320 (unknown) A CIDADE NO BRASIL
+5046340 5076320 (unknown) A CIDADE NO BRASIL
+5076340 5096340 (unknown) A CIDADE NO BRASIL
+5096340 5098400 (02, 01, 00) Gravando...
+5098400 5099920 (01, 00) Gravando...
+5099920 5101200 (01, 00) Olá, Zorzal.
+5101400 5102460 (00) Olá, Zorzal.
+5102660 5103560 (04, 00) Oi, Zorzal.
+5103560 5105980 (04, 01) Em teoria, esse é o 2º de janeiro.
+5106340 5107020 (01) Olha aí, hein.
+5107240 5108200 (02, 01) Teoria, deixa eu ver.
+5109700 5111080 (01) 18 do 1, é isso aí.
+5111660 5113680 (02, 01) Quer dizer, se tudo der certo, vamos lá.
+5114460 5115320 (02, 01) Não vamos engorar.
+5115660 5117480 (01) Depois tem fevereiro 2...
+5117480 5118560 (01) Pô, fevereiro...
+5118560 5121540 (01) Fevereiro tem só 29 dias, mas vai ter 3 episódios.
+5122740 5123900 (01) Primeiro, 15 e 29.
+5124240 5124800 (01, 00) Pô, que merda.
+5124820 5126280 (01, 00) Essas coisas de calendário não dão nada exato, mano.
+5126300 5127600 (01, 00) E ano bissexto, porra.
+5128160 5130180 (01) Eu até anotei aqui, ideias para aventura.
+5130800 5132040 (01) Bissexto, ponto de interrogação.
+5132040 5132880 (01) Isso não dá nem ideia.
+5133080 5134540 (01) Eu tava maluco quando eu fiz isso aqui.
+5135320 5135720 (01) Mas tá bom.
+5136340 5138660 (01) Se não fosse bissexto, cairia no próximo...
+5138660 5142480 (01) Aí o próximo mês teria 3, daria na mesma coisa.
+5142600 5143500 (01) Então não resolveria.
+5144540 5145760 (01) Deus, Deus, Zorzal, desculpa.
+5146360 5148720 (01) Só pra botar nos extras, Caio, tu esqueceu teu nome?
+5148900 5149620 (03, 01) Eu só queria entender.
+5149900 5152040 (03, 01) Não, é porque eu falei Caio.
+5152140 5153980 (03) Aí eu lembrei de toda a discussão que teve
+5153980 5155620 (03) que existe mais de um Caio na taberna.
+5155720 5157540 (03) E eu falei, droga, eu tenho que falar Caio Lourenço.
+5157760 5159960 (03) Eu tava escutando o Guaxa Verso que eu gravei lá.
+5160160 5161700 (03, 00) Ainda eu fui zoar que era o Craio.
+5161820 5163180 (03, 00) Aí o Guaxa não é o outro.
+5163260 5164720 (00) Falei, meu Deus, quantos Cais tem?
+5164720 5166120 (03, 00) Uma vez eu tava chamando o Caio.
+5166340 5168900 (03, 00) A droga definiu que eu sou o Claio agora.
+5168980 5170560 (03) Que tem um Craio e eu sou o Claio.
+5170640 5171400 (04, 03, 00) Ele é o nosso Claio Lourenço.
+5171420 5174680 (04, 03, 00) Eu tive uma dificuldade porque eu tive um amigo de infância
+5174680 5176040 (00) que se chamava Lourenço.
+5176260 5177780 (00) E aí, tipo, é Caio Lourenço.
+5177880 5179920 (00) Esse U, cara, ele me deixa muito nervoso.
+5181840 5182860 (01) Verdade, tá errado.
+5183140 5183760 (03) Não, tá errado.
+5183880 5185920 (03) É bom porque aí só tem eu de Caio Lourenço.
+5186780 5188020 (04) Ah, é Lourencio?
+5188140 5188860 (01) Vamos lá, Zorzal.
+5189400 5192100 (01) Ira, membros de uma banda, né?
+5193100 5195700 (01) É bom que é assassino e eu posso botar qualquer coisa.
+5195840 5196320 (01) Vai ser mais difícil.
+5196340 5197700 (02, 01) Dezoito meses, tá tudo bem.
+5200940 5201880 (01) Pria, é isso?
+5202920 5204140 (04) Aham, é isso, é isso.
+5206140 5207100 (01) Pria, ok.
+5208020 5209020 (01) Esse Y é mudo?
+5209420 5210340 (04) É, como se fosse...
+5211760 5214000 (04) Faz um som de contínuo.
+5214180 5215340 (04) Pria, tipo...
+5215880 5217940 (03) Coloca pra gente, assim, o Y.
+5219340 5221240 (04, 03) É, vou botar aqui pra vocês.
+5221320 5222840 (04, 03) Tá, só pra gente não esquecer.
+5223600 5225100 (04) Com certeza estou levando alguma coisa pra eles.
+5225100 5225780 (04) A morte, né?
+5225780 5226420 (04) Exatamente, tudo bem.
+5228920 5231520 (04, 01) Se você trouxe, Pria, a morte.
+5233140 5235060 (01) Pode ser em espanhol, não tá na Argentina.
+5237380 5238480 (04) Le trouxe la muerte.
+5238780 5239940 (01) É, isso é outro episódio.
+5240440 5243260 (01) Junto com o passaporte de vocês, na última folha,
+5243940 5247480 (01) tinha uma foto de um grande boi dourado.
+5248060 5252820 (01) Isso faz com que vocês cheguem, mais ou menos ao mesmo tempo,
+5252820 5255300 (01) no pregão da bolsa de Nova York.
+5255300 5257280 (01, 00) Então era uma foto de um touro dourado, né?
+5257340 5257740 (01) Você tá querendo dizer?
+5257740 5259040 (01, 00) É um boi, né? É um touro, né?
+5259120 5259960 (01) É um touro.
+5261500 5262220 (01) Um boi.
+5263360 5265660 (01) Eu pensei no bezerro dourado da Bíblia, desculpa.
+5266980 5270280 (01) A minha referência é a Bíblia, não a bolsa.
+5270620 5273080 (01) Vamos de novo, Edson Zorzal.
+5273320 5274740 (01) Um acerto crítico, um acerto simples.
+5275260 5276700 (01) Me fala como é que tu matou muita gente.
+5277060 5278180 (04) Só atiros certeiros.
+5278380 5280260 (01) Não, com uma UZI não é só atiros certeiros, né?
+5280260 5284180 (04, 01) É uma mangueira que tu só vai agitando assim e as pessoas vão caindo.
+5284180 5285260 (04, 01) Alguns bem certeiros.
+5285300 5287320 (04, 01) E os outros, assim, bem espaçados.
+5288160 5291500 (04, 01) Quando passa na pessoa é certeiro, mas no caminho eles vão fazendo...
+5291500 5292000 (04, 01) Exatamente.
+5292420 5295600 (01) Eu achei a ordem do Seven, é gula, vareza, preguiça.
+5296060 5296780 (01) No churro é a última.
+5297300 5297740 (01) Nossa.
+5297940 5298320 (04) Isso.
+5298780 5300000 (04) É por isso que eu tava tentando...
+5300000 5302540 (04) Eu também fui olhar e pensei assim, cara, é...
+5302540 5304280 (04) Será que tá na sequência certinho assim?
+5305020 5306780 (03) Ah, por isso lá.
+5307320 5307760 (03) Sabia.
+5308160 5309360 (03) É de abelardo.
+5309360 5311700 (03) Não, não sei o que é isso.
+5314500 5315240 (03) Tô brincando.
+5315300 5316160 (02, 03, 00) Gente, é de abel, né?
+5318880 5319240 (unknown) Mas...
+5319240 5320140 (03, 00) Agora faz sentido.
+5320680 5321220 (00) Não, desculpa.
+5321280 5322380 (00) Eu ia falar que realmente tem isso, né?
+5322400 5325580 (01, 00) Também passa lá e compra os armamentos, né?
+5325720 5326040 (01) Ok.
+5326420 5327600 (01) É, tamo com 2 horas e 40.
+5327680 5328540 (01) Desculpa, Zorzal.
+5328860 5330780 (01, 00) Mas tem vários episódios de uma hora, uma hora e meia.
+5330960 5331280 (01) Vamos lá.
+5331580 5332760 (01) Pô, mas esse tem fala pra caramba.
+5333060 5333580 (01) Essa é uma merda.
+5334000 5334280 (01) Vamos lá.
+5335280 5336300 (00) Eu achei que...
+5336300 5337540 (00) Eu podia jurar que...
+5337540 5341840 (00) Quando a gente desacordou, a gente gostava de terminar e ia ter um episódio de parte 2.
+5342140 5342440 (02, 00) Ah, é?
+5342440 5342760 (02, 00) Sabe?
+5343480 5344840 (02, 01, 00) Eu não achei que ia continuar, não.
+5344920 5345260 (01) Não, não, não.
+5345300 5347780 (01) Não é uma história a ser contada se aquilo parasse ali.
+5347900 5348680 (01) Ia ser igual a Kelly.
+5349040 5349400 (01) Voltando.

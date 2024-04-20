@@ -1,0 +1,1874 @@
+0 10120 (00) Se eu pegar essa ilha, e esse helicóptero, e aí tudo faz sentido, porque aqui tem um zumbi, e ali não tinha, e agora...
+10120 13220 (00) É isso! É isso! Eu sabia! Eu sabia!
+13840 15000 (00) O Guaxaverso existe!
+15120 15980 (02) Como assim?
+16180 18120 (02, 05) Você entendeu a referência do último episódio?
+18240 18940 (02, 05) Olha só, faz tudo!
+18940 20020 (02, 05) Não, o Guaxaverso sabe o que faz!
+20020 20960 (02, 05) Espera, o que é o Guaxaverso?
+21000 23080 (02, 05) Era só uma questão de tempo...
+23080 24020 (02) Todos nos conhecemos!
+24020 24540 (02) O Guaxaverso sempre existiu!
+24540 27180 (02, 07, 05) Eu quero entender o Guaxaverso!
+27220 28560 (07, 05) Alguém me explica o que é o Guaxaverso?
+28560 32040 (00, 07, 05) É, pessoal, não existe o Guaxaverso!
+32100 33740 (00) Eu acredito no Guaxaverso!
+33820 36560 (07, 00) Mas, supondo que ele exista...
+37880 41540 (00) Guaxaverso, onde o que não existe é debatido!
+44940 46260 (07) Eu queria mais uma tela.
+46660 47760 (07) Eu vou, eu vou...
+47760 50600 (07) Não era pra ter coisa extra, mas já tá tendo aqui.
+51080 51900 (07) Eu quero...
+51900 58200 (08, 07) Voltando das férias, eu vou trocar a cama da Malu, e vou trocar minha mesa, e talvez minha cadeira.
+58200 58280 (07) Tá.
+58560 60040 (07) Cadeira cara, eu queria uma cadeira boa.
+60480 62200 (07) E daí eu quero ver se eu pego uma mesa em L, assim.
+62420 64620 (07) Porque essa minha mesa agora, ela tá em itálico.
+64800 66600 (07) Porque eu vou puxando ela assim, ela vai...
+66600 67300 (07) É pra não...
+67300 69500 (07) Porque pra lá, tá a cozinha, né?
+69560 72220 (07) E daí eu não quero mostrar os meus passos aqui e tal.
+72660 76180 (07) E eu tenho um fio, um cabo de rede agora, cruzando a cozinha e a sala, assim.
+76600 77940 (07) Que é horrível, mas é isso.
+78400 78900 (07) Vamos lá.
+79380 83080 (07) Olá, eu sou Marcelo Guaxinim, narrador, produtor e idealizador do podcast Realidade Parada do Guaxinim.
+83200 85180 (07) E eu não preparei uma frase.
+85480 87640 (07) Pra quem não sabe, o Guaxaverso é o nosso antigo escudo-mestre.
+87640 88440 (07) Aqui vamos ler...
+88560 90060 (07) Os comentários discutindo as teorias do último episódio.
+90520 92260 (07) Que, no caso, foi Os Filhos da Rainha Lira.
+92680 94060 (07) RPG Guaxa 141.
+94460 98500 (07) E eu estou aqui hoje com a nossa querida madrinha, que estreou no RPG Guaxa.
+98880 100060 (07) Estreou como jogadora, né?
+100060 102520 (07) Já tinha aparecido como NPC antes.
+102980 104300 (07) A nossa querida Sara.
+104420 104900 (07) Olá, Sara.
+105360 105900 (02) Oi, Guaxa.
+105920 106440 (02) Oi, pessoal.
+106980 107560 (02) Tudo bem com vocês?
+108140 108840 (07) Tudo certinho.
+109420 110380 (07) Como foi gravar o episódio?
+111480 111920 (02) Maravilhoso.
+111920 114460 (02) Eu acho que, assim, como fã, né?
+114780 115980 (02) Surtando aqui como uma fã.
+116240 117300 (02) Foi tipo, meu Deus!
+117640 118540 (02) Eu vou jogar um RPG.
+118560 119520 (02) RPG Guaxa!
+119800 121320 (02) E eu literalmente falei...
+121320 123260 (02) Mãe, eu tô no RPG Guaxa.
+124340 126760 (02, 07) É uma experiência muito diferente, gente.
+127040 127520 (02) É muito bom.
+127800 128120 (02, 07) Muito bom.
+128220 128640 (07) De verdade.
+128740 129140 (07) Fiquei feliz.
+129320 132300 (07) A ideia sempre é os jogadores se divertirem, né?
+132720 134360 (02, 07) E se divertiram, estou muito feliz.
+134820 136080 (07) Como é que as pessoas te acham na internet?
+136600 137120 (07) Ou não acham?
+137320 139940 (02) Ah, podem me achar lá no Instagram.
+140480 141080 (02) É...
+141080 143040 (02) Arroba Sara Pereira B.
+143480 144580 (02) B de bola, né?
+144580 147980 (02) E se quiserem também conhecer a minha lojinha,
+148560 150460 (02) é arroba Taverna do Mangá.
+150920 152140 (07) Taverna do Mangá.
+152220 152480 (07) Ok.
+153000 153380 (02) Uhum.
+153860 154860 (07) É uma lojinha online.
+155400 155840 (02) Isso aí.
+155940 156140 (02) Ok.
+156340 156700 (02) Pô, é legal.
+156800 158960 (07) Então qualquer um do Brasil pode estar olhando.
+159380 160260 (02, 07) Conheçam, gente.
+160640 164700 (07) Falando em conhecer quem é da região de Blumenau
+164700 166160 (07) e quer me conhecer,
+166360 169180 (07) eu vou estar na Blumenau Comic Con Experience.
+169360 170800 (07) Vai ser no Teatro Carlos Gomes no final do mês,
+170860 172620 (07) dia 29 e 30 de julho.
+173100 174260 (07) Eu vou estar lá.
+174260 177660 (07) Vou estar sábado e domingo, menos, talvez,
+177660 179520 (07) porque sábado...
+179520 181460 (07) Graças a esse evento maravilhoso,
+181820 184740 (07) eu ganhei ingresso pra mim, pra minha esposa e pra minha filha.
+185140 187220 (07) Então a gente vai estar os três lá conhecendo o evento.
+187560 188500 (07) Vai ser muito bacana.
+188860 190920 (07) Você vai poder pedir pra Malu falar e a Escudo Mestre.
+191720 192120 (07) E é só.
+192320 193760 (07) A Beta nem sabe dos episódios,
+193840 194860 (07) vocês vão poder fazer perguntas pra ela.
+195280 196720 (07) Mas ela fez alguns NPCs.
+196800 197560 (07) Não sei se ela vai lembrar.
+197660 198660 (07) Você pode perguntar pra ela também.
+199120 200080 (07) Vai ter a Jumozinha.
+200520 200880 (08) Também!
+203620 204700 (07) Deu pra ouvir, gente?
+204900 204920 (07) Não.
+206020 206960 (07) Sara, tu ouviu?
+207060 207140 (07) Não.
+207140 207220 (07) Não.
+207220 207320 (07) Não.
+207320 207640 (07) Não.
+207660 208000 (07) Deu.
+208340 208580 (03, 07) Não.
+208580 209260 (03, 07) Pessoal na live ouviu.
+209260 209600 (03, 07) Não deu pra ouvir nada.
+209600 210660 (03, 07) Pessoal na live ouviu.
+210760 211320 (03, 01, 07) Ouviu, pô.
+211480 212960 (03, 01, 07) Aqui pra mim não apareceu, não.
+212980 214280 (03, 07) É, acho que o Discord não considerou,
+214360 215340 (07) mas o pessoal na live ouviu.
+215740 217340 (08, 07) Tá, todo mundo mandando um beijo pra Beta.
+217460 217960 (08, 07) Então tá bom.
+218320 219600 (08, 07) Então vai estar eu, vai estar a minha esposa,
+219800 220840 (08, 03, 07) vai estar a Malu,
+221120 222100 (07) vai estar a Senhora Jumozinha,
+222200 224280 (07) eu acho, eu acho, não sei se é oficial, né?
+224360 225660 (07) Talvez vocês encontrem ela por lá.
+226140 228220 (07) E outras pessoas também vão aparecer.
+228860 231220 (07) Então se vocês querem me conhecer,
+231380 233100 (07) não sei porque alguém gostaria de fazer isso,
+233520 234680 (07) aparece lá sábado e domingo.
+234720 235660 (07) Eu devo dar uma passada também.
+235660 238540 (07) Mas aí domingo vai ser só eu, né?
+238720 241400 (07) E eu só vou dar uma olhadinha mesmo e tal.
+241920 243780 (07) De certeza, sábado.
+243940 244660 (07) Vejo vocês sábado.
+245120 246100 (07) Tem os ingressos pra vender.
+246660 249840 (07) Ainda faltam 16 dias, tá no último lote.
+250040 251660 (07) Dá pra ir lá, vai ter Guilherme Briggs,
+252400 256540 (07) vai ter K-pop, vai ter cosplay, show.
+257120 259720 (07) O Paulo Moreira, que eu acho maravilhoso os quadrinhos dele.
+260120 261560 (07) Vai ter o Carlos Ruas.
+261900 262660 (07) Só gente boa.
+262660 264880 (07) A Jumozinha é.
+264880 267660 (07) A minha melhor amiga, ela mora aqui perto.
+268260 269640 (07) Nunca encontrei ela, nunca.
+270040 272800 (07) Então vai ser a primeira vez no sábado que ela vai aparecer.
+273100 274700 (07) Porque ela é bicho do mato, é isso.
+274920 275820 (07) Não sou eu não, é ela.
+276340 277660 (08, 07) Queria deixar registrado.
+277780 279180 (07) Ela não tá nem pra se defender, que bom.
+279560 281480 (07) Você, assim como a Jumozinha, assim como a Sara,
+281660 283220 (07) assim como, vou escolher aleatoriamente,
+283440 285460 (07) assim como Andrei.
+285980 286760 (07) É Andrei a pronúncia?
+287280 288080 (08, 07) É, é Andrei.
+288080 289020 (08, 00, 07) Andrei, né? Ok.
+289740 290140 (07) Andrei.
+290260 292880 (07) Como Trota, como Jean, como...
+292880 293900 (07) Um monte de gente.
+294880 296380 (07) O Hugo, que tava aí antes.
+296580 299080 (07) Se você quer ser padrinho, receber episódio antes,
+299280 301120 (07) gravar voz de NPC,
+301320 304580 (07) gravar aquela abertura de regras no começo do episódio,
+304780 307780 (07) conversar sobre os episódios, conhecer pessoas maravilhosas,
+307980 308980 (07) muito melhores do que eu,
+309180 310280 (07) seja nosso padrinho.
+310480 311580 (07) A partir de um real você tá ajudando.
+311780 314780 (07) A partir de 10 reais você recebe, lá no seu e-mail,
+314980 316380 (07) um link do Telegram.
+316580 319080 (07) E no Telegram daí tem um grupo principal.
+319280 320780 (07) Eles se dividem em grupos menores.
+320980 323280 (07) Tem um Discord onde o pessoal tá sempre jogando RPG.
+323480 324180 (02, 07) É uma...
+324180 326380 (02, 07) Família maravilhosa, vocês deveriam fazer parte.
+326580 329580 (07) Sarah, qual é o grupo, assim, que tu gosta mais lá dos padrinhos?
+329780 331780 (02, 07) O grupo que eu mais gosto é o grupo de jogos.
+331980 332580 (02, 07) Jogos?
+332780 335380 (02) Onde eu conheci todo mundo, né, pra jogar.
+335580 336780 (02) Que eu fiz amizade também, né?
+336980 337980 (02) Foi quando...
+338180 339780 (02) Eu fiz bastante amizade com o pessoal, foi.
+339980 340580 (02, 07) Bastante.
+340780 341380 (02, 07) Pessoal incrível.
+341580 342580 (02, 07) Soube, bastante amizade.
+342780 343780 (02, 07) A Dona Ana, a Zuzu.
+343980 345180 (02, 07) É, bastante amizade.
+345380 346180 (02, 07) O Day.
+346380 346980 (02, 07) Aham.
+347180 348380 (02, 07) Bastante amizade, eu soube.
+351580 353580 (02) Fiz muitas amizades, muitas amizades boas.
+353580 356180 (02) E outra, foi onde eu joguei primeiro com o Trota.
+356380 357980 (02) Primeira mesa eu joguei...
+358180 361180 (08, 02) Primeira mesa foi com a Bia e com o Jean, uma mesa da grande família.
+361380 361980 (08, 02) Uhum.
+362180 366180 (02) Depois, a segunda pessoa que eu joguei sem ser o Jean e a Bia foi o Sr. Trota.
+366380 367380 (02) Ele fez um professor.
+368580 369380 (02) Era o meu professor.
+369580 369980 (08, 07) Justo.
+370180 370580 (07) Justo.
+370780 371580 (02, 07) Uhum.
+372380 376980 (07) Segue a gente também nas redes sociais, em quase todas, tá?
+377180 382180 (07) Acho que o Threads, eu não sei se esse pessoal do Instagram já transformou o Instagram num Threads.
+382380 383180 (07) Mas...
+383180 390780 (08, 00, 07) Tem lá a opção, tem o BlueSky, tem o Cu também, tem o Twitter, que tá o Cu também, mas ainda é Twitter.
+390980 393580 (07) Tem, mas principalmente Instagram e Twitter.
+393780 399780 (07) Tá morrendo, mas onde a gente tem número maior, produção de conteúdo, é medir o tamanho do número de inscritos.
+399980 404780 (07) Então, segue a gente no Twitter, segue a gente no Instagram, no arroba rpguaxa, no arroba marcelgocinim.
+404980 408780 (07) No Twitter, em especial, o arroba rpguaxa.
+408980 411780 (07) No Instagram, em especial, o arroba rpguaxa também.
+411780 416380 (07) E na Twitch, a gente tá aqui, twitch.tv, o twitch.tv barra marceloguaxinim.
+416580 426380 (07) Eu perdi a senha, mas você pode seguir o twitch.tv barra rpguaxa, onde a gente tá gravando essa leitura de comentários ao vivo, aqui na segunda-feira.
+426580 430380 (07) Mas a gente tá aqui pra ler os comentários do episódio passado.
+430580 434380 (07) E o primeiro comentário é dele, Jorge Marcos Santos Silva, que coloca...
+441780 442780 (07) Tudo é contigo, Sarah?
+442980 443980 (02) Tudo maravilhoso.
+444180 445180 (07) Vamos seguir assim.
+445380 446380 (07) Spoilers!
+446580 455580 (07) Eu não sou indígena, mas tenho linhagem forte dos dois lados da família e cresci ouvindo histórias de tribos e da forma que os povos daqui vivem e veem a natureza.
+455780 459580 (07) Acho que por isso histórias assim mexem comigo de uma forma boa.
+459780 460580 (07) Mas vamos lá.
+460780 464780 (07) Esse episódio é mesmo o corvo, ponto de interrogação.
+464980 468780 (07) Tipo, do segundo episódio mesmo, ponto de interrogação.
+468980 470380 (08, 07) Hum...
+470380 473580 (07) Eu diria... Essa é uma pergunta muito importante, né?
+473780 479780 (07) Eu diria que muito provavelmente, assim, a gente pode desconfiar, porque é um ser que muda de corpo, né?
+479980 483980 (00, 07) Então, que era o poder do corvo inicial, mas não tá na mesma linha.
+484180 485980 (07) Então talvez a gente possa ficar de olho, né?
+486180 488180 (07) É uma ótima teoria, é isso que eu queria dizer.
+488380 491580 (07) Se sim, como ele chegou nesse mundo com certeza que...
+491780 495580 (07) Nesse mundo que com certeza não é o dele, senão quem é?
+495780 497580 (07) Como ele chegou nesse mundo?
+497780 499780 (07) Assim, supondo que seja.
+499780 502780 (07) Então, tu tendo o poder de saltar de pessoa pra pessoa,
+502980 509780 (07) e a gente sabendo que os orques e povos desses mundos medievais mágicos
+509980 513980 (07) chegaram nos Estados Unidos, pelo menos ali por 1800 e alguma coisa,
+514180 519780 (07) então seria uma possibilidade, talvez, entre os que passaram por aquelas minas,
+519980 521780 (07) alguém tenha conseguido.
+521980 523180 (07) É uma possibilidade.
+523380 525380 (07) Claramente houve uma traição, sim.
+525580 527980 (07) Foi o corvo mesmo que traiu todos, incluindo o xamã?
+528180 528980 (07) Não.
+528980 530980 (07) O xamã traiu todos.
+531180 531980 (07) O xamã...
+532180 533980 (07) Isso eu posso...
+534180 535780 (07) Eu vou até afirmar, provavelmente.
+535980 538180 (07) O xamã é o mesmo há muito tempo.
+538380 540180 (07) Ele só vai mudando de corpo.
+540380 541580 (07) Ele vai mudando de corpo.
+541780 543780 (07) E vai continuando, vai.
+543980 546780 (07) Escolhendo outro animal pra estar com ele, como tinha o corvo.
+546980 548980 (07) Porque, entendam o seguinte.
+549180 551580 (07) Algumas pessoas podiam ter um vínculo com os animais.
+551780 556780 (07) Algumas pessoas, como jogadores, ao ponto de trocar, de entrar no corpo desses animais.
+556980 558780 (07) A rainha tinha um poder mais evoluído,
+558780 561580 (07) que era poder entrar em qualquer animal.
+561780 565580 (07) E o xamã tinha um poder acima do dela,
+565780 568580 (08, 00, 07) que é o poder de entrar em qualquer ser vivo.
+568780 571580 (07) Então, por mais que eu não tenha contado a ninguém,
+571780 575580 (07) ele conseguiria entrar no corpo de outras pessoas.
+575780 578580 (07) Talvez, naquele ponto, apenas corpos vazios,
+578780 582580 (07) como estava o da rainha quando ela saiu lá pra própria guerra.
+582780 585580 (07) Talvez, mas...
+585780 588580 (07) Tanto que o xamã morre por conta de que
+588580 591380 (07) pra ninguém desconfiar que foi ele, sabe?
+591580 593380 (07) Esse seria o mundo das orquídeas? Sim.
+593580 595380 (00, 07) Eu não peguei a referência do tigre, qual é?
+595580 596380 (07) Eu gosto de tigre.
+596580 597380 (07) Eu queria deixar registrado.
+597580 598380 (02, 07) Acho que é isso.
+598580 599380 (02, 07) Quem não gosta de um tigre?
+599580 601380 (07) Porra, um tigre é, porra, maneiro.
+601580 603380 (07) Eu tenho uma rainha tribal, assim, incrível.
+603580 604380 (02, 07) Porra, tem um tigre.
+604580 605380 (02, 07) Ela vai ter um...
+605580 606380 (02, 07) Era um tigre branco.
+606580 607380 (02, 07) É branco, porra.
+607580 608380 (02, 07) Era um tigre de bengala.
+608580 609380 (02) Vai ser um...
+609580 610380 (02, 07) Vai ser um tigre.
+610580 611380 (07) Vai ser um papagaio.
+611580 613380 (07) Não é não, porra, é um tigre.
+613580 614380 (02, 07) Podia ser um guaxinim.
+614580 615380 (07) Um papagaio.
+615380 618180 (07) Mas, assim, eu já botei o ser mais poderoso do universo no guaxinim.
+618380 622180 (07) Talvez faltasse humildade se eu botasse um guaxinim ali.
+622380 623180 (unknown) Ok.
+623380 624180 (07) Acho que é isso.
+624380 627180 (07) Não foi um dos meus favoritos, mas foi lindo.
+627380 629180 (07) Adorei de coração por ir por hoje.
+629380 630180 (07) É isso.
+630380 631180 (07) Um forte abraço a todos.
+631380 632180 (07) Fonsi Luiz para todos nós.
+632380 633180 (07) Obrigado pelos comentários, querido.
+633380 635180 (07) Sobre tribo, eu acho interessante.
+635380 638180 (07) Depois do episódio já gravado, pronto, editado,
+638380 643180 (07) surgiu uma discussão sobre tribo nos Estados Unidos.
+643380 645180 (07) Em que, no Magic,
+645380 646180 (07) eles chamam de...
+646380 648180 (07) Os elfos são uma tribo.
+648380 650180 (07) Os orques são uma tribo.
+650380 652180 (08, 07) Tu tem os dex tribais.
+652380 656180 (08, 07) E eles mudaram o nome recentemente para Taipo.
+656380 658180 (07) Tribal, Taipo.
+658380 659180 (07) Mudaram para Taipo.
+659380 662180 (08, 07) É o tipo de todos, Taipo.
+662380 668180 (07) Porque lá nos Estados Unidos tem um tom pejorativo a questão da tribo
+668380 673180 (07) como algo não civilizado.
+673180 675980 (08, 07) Eu acho que essa discussão no Brasil, ela não é...
+676180 679980 (07) Eu, pelo menos, tenho uma visão de tribo como uma tribo guerreira,
+680180 681980 (02, 07) um conjunto forte.
+682180 684980 (07) A minha visão de tribo não é a mesma que os americanos têm.
+685180 687980 (07) Eu entendo porque lá foi uma discussão.
+688180 690980 (08, 07) E eu espero que todo mundo entenda que aqui...
+691180 693980 (07) A minha tribo são os mocinhos.
+694180 696980 (08, 07) Não era em momento algum para diminuir aquelas pessoas.
+697180 697980 (07) Muito pelo contrário.
+698180 699980 (00, 07) Eles tinham um sistema ali.
+700180 701980 (07) Tirando o xamã que queria mais poder.
+701980 706780 (07) Todos ali acabavam se armando, alguns muito literalmente.
+706980 708780 (07) E se cuidando.
+708980 713780 (02) Do comentário dele, eu gostei demais porque ele colocou a questão da linhagem.
+713980 717780 (02) E eu gostei muito do episódio porque eu tenho ascendência indígena.
+717980 718780 (02) Então eu falei assim...
+718980 723780 (02) Caramba, que legal um episódio que vai falar sobre alguma coisa que tem a ver com aldeias, com tribo.
+723980 724780 (02) E eu gostei bastante.
+724980 727780 (02) E se você tem linhagem indígena, então você tem ascendência indígena.
+727980 729780 (02, 07) Você é ascendente indígena.
+729980 730780 (02, 07) Você é um indígena.
+730780 732580 (02, 07) Sim.
+732780 733580 (07) Eu tenho pequenininho.
+733780 734580 (02) Ah, Pedro Perão.
+734780 737580 (02) O próximo comentário.
+737780 740580 (02) Olá Guaxa. Guaxa amigos.
+740780 741580 (08, 02) Bom?
+741780 743580 (02) Amei demais o episódio.
+743780 744580 (02) Ih, perdão Guaxa.
+744780 745580 (02) Eu saí atropelando.
+745780 748580 (08, 02) Não, pode atropelar.
+748780 749580 (02) Amei demais o episódio.
+749780 750580 (02) Simplesmente sensacional.
+750780 752580 (02) Também achei sensacional.
+752780 754580 (02) Aqui como spoiler está assim, uma pergunta.
+754780 755580 (02) Uma pergunta.
+755780 758580 (02) Voltou um corvo ou o corvo?
+758780 759580 (02, 07) O corvo.
+759580 761380 (02, 07) O corvo do xamã.
+761580 763380 (07) Que na verdade é o xamã do corvo.
+763580 765380 (02) E um adendo.
+765580 767380 (02) Serpentes podem dar bote seco.
+767580 771380 (02) Então o trota poderia ter mordido sem injetar a peçonha.
+771580 773380 (02) KKKKKJ.
+773580 775380 (02, 07) Um beijo e um abraço para vocês.
+775580 777380 (07) Mas era uma cobra nova, né?
+777580 779380 (07) A gente estava aprendendo ainda os seus poderes de cobra.
+779580 781380 (07) Eu acho que...
+781580 783380 (02) Ele ainda não sabia, né?
+783580 785380 (02, 07) Não estava controlando de jeito nenhum o corpo dele.
+785580 787380 (07) O adolescente não tem esse controle todo não, gente.
+787380 789180 (07) Pelo amor de Deus.
+789380 791180 (02) Era difícil aqui naquele momento.
+791380 794180 (02, 07) A gente estava com adrenalina lá em cima.
+794380 795180 (07) Obrigado pelo seu comentário.
+795380 797180 (07) O próximo comentário é do Má de Amorim.
+797380 798180 (07) Ele coloca.
+798380 803180 (07) Boa noite Guaxa, convidados, chat, ouvintes ninjas e futura Maria ouvindo o Guaxaverso.
+803380 805180 (07) Ah, Má de Amorim e Má de Maria.
+805380 812180 (07) Hoje meu cérebro guaxaversico não está trabalhando bem.
+812380 815180 (07) Então, sem perguntas sobre esse mundo.
+815180 816980 (07) Bom, já que ele não existe, né?
+817180 817980 (07) É verdade, ele não existe.
+818180 821980 (07) Ah, a traição foi do corvo ou do xamã?
+822180 826980 (07) Então, a alma que habitava o xamã, ela já habitou outros xamãs e outros animais.
+827180 831980 (07) E no fim, aquele corvo, ele estava com o xamã dentro dele.
+832180 833980 (00, 07) Então, o corpo de um xamã é a mesma coisa.
+834180 837980 (07) O xamã dos orques e da lira eram duas pessoas diferentes.
+838180 843980 (07) Duas pessoas diferentes, mas naquele momento, quem estava pilotando aquele corpo era o xamã.
+843980 844780 (07) Era o corvo.
+844980 846780 (07) O corvo era originalmente quem?
+846980 849780 (07) Ele traiu o seu familiar ou só fez a missão para o seu dono?
+849980 852780 (07) Então, como eu falei, é tudo a mesma coisa, gente.
+852980 854780 (07) Eu acho que o poder era...
+854980 860780 (07) Tu possuía animais e o xamã usava isso para conhecer, talvez por várias gerações.
+860980 866780 (07) Ele voava por aí, procurava um lugar, outras civilizações para negociar.
+866980 870780 (07) Ele queria mais poder, ele queria expandir o território dele.
+870980 872780 (07) E para ganhar...
+872780 879580 (07) Ele conheceu um território onde ele teria mais vantagens se ele fosse reconhecido lá.
+879780 884580 (07) E para ganhar esse reconhecimento, ele vendeu informações, né?
+884780 888580 (07) Ele trocou pelo lugar que ela estava.
+888780 892580 (07) Porque, assim como para a rainha ela precisou estar fora do corpo para ele entrar,
+892780 897580 (07) ele não consegue ainda, pelo menos, entrar em qualquer corpo do nada.
+897780 901580 (08, 07) Precisa ser uma cabeça mais fraca ou alguém que queira aceitar ele.
+901580 903380 (07) E foi naquele orc xamã.
+903580 905380 (07) Ele não poderia pular para o rei, por exemplo.
+905580 907380 (07) Ele deve ter uma força de vontade muito grande.
+907580 913380 (08, 07) Mas aquele orc xamã ele conseguiu manipular e levar informações ali.
+913580 915380 (08, 07) Então...
+915580 918380 (07) Como o xamã morreu? Não existiu um orc?
+918580 920380 (07) Não existiu um orc, né?
+920580 922380 (07) É um orc para matar o xamã? Não.
+922580 924380 (07) O xamã queria simplesmente...
+924580 927380 (07) Talvez dentro do corpo da própria rainha.
+927580 931380 (07) Mas o que ele fez foi para que ninguém desconfiasse que foi ele, sabe?
+931380 933180 (07) Para tirar ele de cena.
+933380 935180 (07) É isso. Biscoito para todos. 50% do episódio. Foi muito bom.
+935380 938180 (07) O tempo passou muito rápido porque eu estava me divertindo demais.
+938380 941180 (07) Obrigado por alegrar minha quinta-feira. Um abraço.
+941380 945180 (07) E até o próximo episódio. Até o próximo episódio que vai ser um episódio de terror.
+945380 946180 (07) O que eu registro?
+946380 947180 (07) A véia debaixo da cama.
+947380 951180 (02, 07) Caramba. Mas então, debaixo dessa cama tem uma fila do NSS ou não?
+951380 952180 (02, 07) Ela só está lá mesmo.
+952380 955180 (02, 07) Eu espero que tenha uma só porque vai dar trabalho.
+956380 960180 (02) O próximo comentário é do grande e folgado senhor urso.
+960180 961980 (02) Boa noite a Guaxa.
+962180 963980 (02) Guaxa celebridade e guaxual.
+964180 965980 (02) Seja você sensual ou não.
+966180 966980 (02) Curtindo as férias?
+967180 967980 (02, 07) Ainda não.
+968180 968980 (02, 07) Está curtindo?
+969180 969980 (07) Ainda não. Férias semana que vem.
+970180 971980 (02) Eu estou curtindo um pouquinho as minhas.
+972180 975980 (02) Hoje eu tenho uma pergunta e alguns off-topics. Então vamos lá.
+976180 977980 (02) Primeiro tópico.
+978180 980980 (02) Esse episódio se passa no mesmo universo das orquídeas?
+981180 981980 (08, 02, 07) Sim.
+982180 983980 (02) É no mesmo universo?
+984180 984980 (02, 07) Das orquídeas, sim.
+985180 985980 (02) Caramba.
+986180 987980 (02, 01, 07) O mundo é bem grande, né gente? Pelo amor de Deus.
+988180 988980 (02, 01, 07) Ok.
+988980 990780 (01) Ok. Agora até me tremi aqui um pouco.
+990980 993780 (01) O medo do trato passou um pouquinho para mim.
+993980 994780 (01) Tópico 2.
+994980 996780 (01) Qual foi a sua inspiração para o episódio?
+996980 998780 (07) Eu não sei.
+998980 999780 (02, 07) Eu não sei.
+999980 1000780 (02, 07) Eu sinceramente, sim.
+1000980 1003780 (07) Eu estava pensando em alguma coisa com animais, com mãe.
+1003980 1006780 (07) Agora sim, parando para pensar.
+1006980 1007780 (07) Eu não sei.
+1007980 1010780 (07) Óbvio, deve ter tido alguma inspiração, alguma coisa que eu vi e me deu um estalo.
+1010980 1012780 (02, 07) Mas eu não lembro.
+1013980 1015780 (02) Agora o off-topic.
+1015980 1016780 (02) Primeiro.
+1016780 1019580 (02) No dia 6 de julho, na época que ele escreveu, né?
+1019780 1023580 (02) Enquanto digito esse comentário, acabo de ver uma propaganda do Detran SP
+1023780 1026580 (02) advertindo sobre os cuidados no trânsito.
+1026780 1031580 (02) E na propaganda mostra a morte, ele coloca em letras, em capsuluk, né? Maiúsculo.
+1031780 1032580 (08, 02) Sim.
+1032780 1034580 (02) Tirando férias, bebendo água de coco na praia.
+1034780 1037580 (02) Justo quando saí um episódio com o Trota.
+1037780 1040580 (08, 02) Hum, será que há um sinal?
+1041780 1043580 (02) Segundo o off-topic.
+1043780 1045580 (02) Referente ao episódio Anjos de Metal,
+1045580 1048380 (02) você já ouviu falar de um RPG chamado Lancer?
+1048580 1051380 (02) Ele é um RPG sobre controlar mechas.
+1051580 1057380 (02) Estou lendo o PDF em inglês, pois só foi lançado por enquanto na gringa e recomendo dar uma conferida.
+1057580 1060380 (02, 07) Uma coisa bem louca sobre isso.
+1060580 1063380 (07) Tem uma editora no Brasil que vai lançar esse...
+1063580 1065380 (07) Vai lançar o Lancer, né?
+1065580 1067380 (07) Vai lançar esse sistema.
+1067580 1072380 (07) E daí alguém marcou o meu episódio do Mechas para a editora.
+1072580 1075380 (07) E daí eu mandei uma mensagem para a editora.
+1075580 1080380 (07) Ah, eu sei que o Lancer tem um cenário próprio, né?
+1080580 1083380 (08, 07) E que talvez precise de algumas adaptações.
+1083580 1088380 (07) Mas talvez dê para adaptar essa one-shot minha para o sistema de vocês.
+1088580 1089380 (02, 07) Caramba.
+1089580 1092380 (02, 07) E daí eu recomendei o episódio para a editora ler.
+1092580 1094380 (07) Aguarda a resposta.
+1094580 1095380 (02) Caramba, que maneiro.
+1095580 1097380 (02, 07) Já passou um tempo, inclusive.
+1097580 1099380 (02, 07) Queria só registrar.
+1099580 1101380 (07) Foi bem logo quando o episódio saiu.
+1101580 1103380 (02, 01, 07) Então fica aí ao aviso.
+1103380 1107180 (07, 02, 01) Eu adoraria divulgar esse novo RPG de Mecha.
+1107380 1108180 (07) Adoraria.
+1108380 1111180 (07) Então, editora, responde lá.
+1111380 1113180 (02) Responde.
+1113380 1115180 (02) Terceiro off-topic.
+1115380 1121180 (02) No último Guaxaverso, você disse que gostaria de abordar um tema de...
+1121380 1125180 (02) Se as pessoas que nasceram no mundo virtual têm alma.
+1125380 1131180 (02) Sobre esse assunto, eu recomendo assistir a última temporada de Sword Art Online.
+1131180 1133980 (02) Eu sei que muita gente torce o nariz.
+1134180 1134980 (02) Esse anime.
+1135180 1136980 (08, 02) Eu mesmo já estou torcendo o nariz.
+1137180 1138980 (08) Eu estou torcendo o nariz aqui, ao vivo.
+1139180 1140980 (02) Mas a última temporada eu gostei bastante.
+1141180 1143980 (02) Principalmente por não ter quase nada de arém.
+1144180 1144980 (02) Nossa.
+1145180 1145980 (02, 07) Que bom, né?
+1146180 1149980 (02, 07) Obrigado por não fazer mais que sua obrigação.
+1150180 1151980 (02) Que diferencial.
+1152180 1155980 (08, 02, 01) Só para contextualizar, vou deixar uma pequena sinopse.
+1156180 1159980 (02) Após os acontecimentos da segunda temporada de Sword Art Online,
+1159980 1161780 (08, 02, 07) Kirito é contratado por uma empresa...
+1161980 1162780 (02, 07) Kirito é um nome muito bom, hein?
+1162980 1163780 (02, 07) Kirito.
+1163980 1165780 (07) Ele é um Kirito.
+1165980 1166780 (02) Ele é um Kirito.
+1166980 1167780 (02, 07) Quase um Kirito.
+1167980 1168780 (02, 07) É, o trota é um Kirito.
+1168980 1169780 (07) É um Kirito.
+1169980 1172780 (02) Por uma empresa chamada HET.
+1172980 1174780 (02) Eu acho que é isso em inglês, né?
+1174980 1180780 (02) Que criou uma máquina que traduz a alma humana para a forma de dados digitais chamados...
+1180980 1182780 (02) Nossa, esse nome eu não vou saber ler.
+1182980 1183780 (02, 07) Fuchtlight.
+1183980 1184780 (02, 07) Isso.
+1184980 1185780 (02, 07) Fuchtlight.
+1185980 1186780 (02, 07) Está certo?
+1186980 1188780 (02) Essa temporada foi dividida em duas partes.
+1188780 1193580 (02) Alicization e War of the Underworld.
+1193780 1194580 (02) É.
+1194780 1195580 (07) Fiquei interessado?
+1195780 1196580 (02, 07) Não sei muito o que falar.
+1196780 1197580 (02, 07) Não.
+1197780 1202580 (08, 02, 07) Eu estou mais interessado sobre o isekai da pessoa que morreu e virou uma máquina de venda.
+1202780 1203580 (02, 07) Sim.
+1203780 1204580 (02, 07) Estou muito curioso para ver isso.
+1204780 1205580 (02, 07) Deve ser muito ruim.
+1205780 1207580 (07) E eu quero muito ver o primeiro episódio.
+1207780 1208580 (unknown) Ah, não.
+1208780 1211580 (02) Depois do isekai do carinha que pode comprar na Amazon.
+1211780 1213580 (02) Poxa, esse daí está muito bom também.
+1213780 1214580 (02) Deve ser bom.
+1214780 1217580 (02, 07) Imagino você uma máquina de vendas no mundo medieval.
+1217580 1219380 (02, 07) Porra, por que, né?
+1219580 1222380 (02, 07) A sinopse desse anime é muito boa.
+1222580 1225380 (02, 07) Cara, se me dissessem, olha, a Jumozinha fez o roteiro, eu acreditava.
+1225580 1227380 (07) Porque a cara dela...
+1227580 1229380 (02) É tipo um pokémon, né?
+1229580 1231380 (02) Os pokémons agora são eletrodomésticos.
+1231580 1233380 (02) Agora, por que não?
+1233580 1235380 (02, 07) O isekai é como uma pessoa que pode virar uma máquina.
+1235580 1236380 (02, 07) Porra, perfeito.
+1236580 1237380 (07) Perfeito.
+1237580 1238380 (07) Perfeito.
+1238580 1239380 (02) Uma delícia.
+1239580 1246380 (02) Desculpe pelo comentário enorme e você e aos jogadores que estão de parabéns, especialmente a Oasis.
+1246380 1249180 (02) Nunca vi um Ratel rasgar um orc na jugular.
+1249380 1250180 (02) Eu também nunca vi.
+1250380 1253180 (02, 07) Foi, assim, algo que eu também me choquei.
+1253380 1255180 (07) Os orcs também nunca viram.
+1255380 1257180 (02) Era só isso mesmo.
+1257380 1260180 (02) Parênteses, risos sarcásticos.
+1260380 1262180 (02) Algo como se fosse assim, ó.
+1262380 1263180 (02) Fecha parênteses.
+1263380 1266180 (02, 07) Um abraço do seu amigo senhor urso.
+1266380 1267180 (07) Um abraço, querido.
+1267380 1268180 (07) Assim...
+1268380 1270180 (07) Amo os seus comentários.
+1270380 1273180 (07) Nem a Paula vou ver zoar de arte online, tá?
+1273380 1274180 (07) Mas, assim...
+1274380 1276180 (07) Obrigado.
+1276380 1278180 (07) Assim, não é bullying.
+1278380 1280180 (07) O pessoal tá dizendo que eu fiz bullying com a Jumózinha.
+1280380 1282180 (08, 07) Não é bullying.
+1282380 1283180 (07) O plot.
+1283380 1286180 (07) Você é uma máquina de vendas no mundo medieval.
+1286380 1288180 (07) É algo que a Jumózinha diria.
+1288380 1294180 (07) Porque eu pedi pra alguns amigos próximos a me dar ideias aleatórias de aventura.
+1294380 1296180 (07) E ela me respondeu uma aventura de objetos.
+1296380 1297180 (07) Eu falei assim...
+1297380 1298180 (07) Como assim, Ju?
+1298380 1300180 (07) Ela me falou que os jogadores são objetos.
+1300380 1301180 (07) Obrigado.
+1301380 1303180 (08, 07) É um caos.
+1303380 1304180 (03, 07) É um caos, né?
+1304380 1305180 (08, 03, 07) É, ok.
+1305180 1306980 (07) Eu queria registrar isso aqui.
+1307180 1307980 (07) É...
+1308180 1309980 (08, 07) A Jumózinha agora tá online, inclusive.
+1310180 1311980 (07) Eu queria retirar tudo que eu disse pra a Sara.
+1312180 1312980 (07) É...
+1313180 1314980 (07) Próximo comentário.
+1315180 1316980 (07) G Silvale coloca...
+1317180 1319980 (07) Olá a todos do RPGuacha.
+1320180 1322980 (07) Gostei bastante desse episódio de temática tribal.
+1323180 1326980 (07) Me encanta muito e também gosto do tema Shapeshifters.
+1327180 1330980 (07) Imaginei a floresta em que os personagens jogaram como algo meio inca.
+1331180 1332980 (07) Com construções de pedra e etc.
+1333180 1333980 (07) Ok.
+1333980 1335780 (00, 07) Ela deixou aqui uma imagem muito bonita.
+1335980 1338780 (08, 00, 07) Que mostra as pirâmides incas, né?
+1338980 1340780 (07) Que elas têm um degrauzinho, não é?
+1340980 1341780 (07) Igual a pirâmide egípcia.
+1341980 1344780 (08, 07) Com bastantes escadas e tal.
+1344980 1345780 (07) Eu imagino mais algo...
+1345980 1346780 (07) Casas na árvore.
+1346980 1348780 (07) Tipo, em vez de pedra, madeira.
+1348980 1350780 (07) Mas num formato muito parecido com esse.
+1350980 1352780 (00, 07) Mas bem bacana a imagem que ela deixou lá.
+1352980 1353780 (07) Dei uma conferida no post.
+1353980 1354780 (07) E ela continua.
+1354980 1356780 (07) Gostei também das escolhas dos personagens.
+1356980 1359780 (07) Achei que os animais trabalharam muito bem em conjunto.
+1359980 1360780 (07) Também achei.
+1360980 1361780 (07) Um Texugo esperto.
+1361980 1362780 (07) Uma cobra pacifista.
+1362780 1365580 (07) E uma cobra pacifista com veneno.
+1365780 1367580 (07) E uma pantera impulsiva.
+1367780 1368580 (07) Pô, muito impulsiva.
+1368780 1372580 (07) Dito isso, eu provavelmente escolheria uma ave como meu animal.
+1372780 1373580 (07) Puts, eu...
+1373780 1376580 (07) Assim, eu não vou dizer pros jogadores escolher uma ave.
+1376780 1377580 (07) Mas a ideia...
+1377780 1380580 (07) Quando eu escrevi a aventura, tava lá assim, ó.
+1380780 1382580 (07) Ela fala com o jogador que escolheu uma ave.
+1382780 1384580 (07) Porque é óbvio que alguém vai escolher uma ave.
+1384780 1386580 (07) Pô, voar é o melhor poder, né?
+1386780 1387580 (07) É...
+1387780 1389580 (08, 00, 07) Que, por exemplo, você tem mais coragem que eu.
+1389780 1392580 (07) Porque você tem coragem de voar e eu não tenho.
+1392780 1393580 (08, 07) Ninguém escolheu voar.
+1393780 1394580 (08, 07) Ninguém escolheu voar.
+1394780 1395580 (07) Tive que ignorar essa parte.
+1395780 1398580 (07) Eu tive que só falar genericamente ali.
+1398780 1400580 (07) Mas assim, era uma das dicas já pra futuramente.
+1400780 1402580 (07) Eram as duas dicas que eu deixei plantadas.
+1402780 1404580 (07) Eu acho que a Sarah até que pegou.
+1404780 1405580 (08, 07) Que era...
+1405780 1408580 (07) O amor que ela demonstrava, ela encostou na testa.
+1408780 1411580 (00, 07) E depois, quando já era o xamã, ele fala, eu te amo.
+1411780 1413580 (07) Ele faz de um jeito diferente.
+1413780 1415580 (07) E o medo de voar.
+1415780 1418580 (07) E a rainha, depois de perder o seu...
+1418780 1420580 (07) Perder, entre aspas, o seu tigre.
+1420780 1422580 (07) Ela tava voando, né?
+1422780 1423580 (07) Então...
+1423780 1424580 (01, 07) Verdade.
+1424780 1427580 (01, 07) Essas eram as dicas ali de que não era a mesma pessoa.
+1427780 1428580 (07) E os jogadores...
+1428780 1431580 (07) A Sarah, pelo menos, sacou bem rápido.
+1432780 1434580 (01) Eu saquei a oasis, não.
+1434780 1436580 (07, 01) Eu falei assim, cara, ela não vai notar, não.
+1436780 1437580 (07, 01) Ah, pode ser.
+1437780 1439580 (07) Dito isso, eu provavelmente escolheria uma ave como meu animal.
+1439780 1443580 (07) Fiquei pensando em como seria legal um ataque aéreo na cabeça daqueles orcs.
+1443780 1448580 (07) E alguns arranhões da singela pata de uma arpia nas fuças.
+1448780 1449580 (07) Risos.
+1449780 1450580 (07) Nossa.
+1450780 1451580 (07) Ok.
+1451580 1454380 (07) Eu tô me perguntando o que acontece com a alma humana no corpo do animal.
+1454580 1456380 (07) Caso o corpo humano seja destruído.
+1456580 1458380 (07) Fica as duas lá.
+1458580 1464380 (07) Assim como, por coincidência, no episódio do corvo, em que mais de uma alma habitava uma mesma mente.
+1464580 1468380 (07) Como a do animal é uma mente mais simples, né?
+1468580 1471380 (07) O humano acaba se prevalecendo ali.
+1471580 1476380 (07) Chega à conclusão que provavelmente o humano ali dentro iria perdendo sua essência pra se tornar um animal completo.
+1476580 1481380 (07) Talvez, assim, se tu ficar muito tempo como animal, tu acaba preferindo ali umas coisas animais.
+1481380 1487180 (08, 07) Eu, quando li a primeira vez o Lobisomem, o Apocalipse, e nunca joguei, só li o negócio.
+1487380 1494180 (07) Eu achei muito bizarro tu ter a opção de, ah, eu sou um lobisomem, eu posso casar com uma humana ou com uma loba.
+1494380 1496180 (07) Por que que eu casaria com uma loba?
+1496380 1498180 (07) Tipo, isso é estranho, né? Eu sou um humano.
+1498380 1501180 (07) Por mais que eu consiga virar um lobo, eu não vou casar com uma loba.
+1501380 1503180 (07) Eu, ok, assim, não julgo.
+1503380 1506180 (07) Quer dizer, no caso disso eu posso julgar porque é até crime.
+1506380 1509180 (08, 07) Mas, porra, é isso. Desculpa.
+1509180 1512980 (08, 07) Assim, um lobisomem, beleza, acho tranquilo porque ele é um lobisomem.
+1513180 1515980 (07) Mas, porra, uma loba, uma loba.
+1516180 1520980 (07) Aqui é a sua esposa, essa aqui é a Totó, é a loba.
+1521180 1522980 (07) É isso, ela é uma loba.
+1523180 1524980 (07) Me incomoda.
+1525180 1526980 (07) Mas ok.
+1527180 1532980 (00, 01, 07) Desculpa por isso, olha, só botei pra fora o que me incomodava.
+1533180 1535980 (01) Tem que botar pra fora, engolir pra quê?
+1536180 1537980 (01) Desprezar.
+1537980 1539780 (07, 01) Ai, gente.
+1539980 1541780 (01, 07) Eu continuo ali.
+1541980 1546780 (07) E talvez no futuro receber um humano em seu corpo novamente.
+1546980 1548780 (07) Puta, isso seria louco.
+1548980 1551780 (07) Um animal que viveu tanto tempo com um humano presidente dele
+1551980 1553780 (07) que ele acaba se tornando só um animal.
+1553980 1558780 (07) E um dia chega uma alma, é tipo Tarzan e Jane, só que tudo num cérebro só.
+1558980 1561780 (08, 07) Já tiveram sido no passado, tá.
+1561980 1563780 (07) O Zox podia entrar no corpo dos humanos?
+1563980 1566780 (07) Não, porque se a rainha humana era uma impostora
+1566780 1569580 (07) e depois o Raj deixou seu corpo caído e meio que abandonado,
+1569780 1573580 (07) me leva aqui que os humanos podem ser receptados para os orques.
+1573780 1576580 (07) Então, a sacada é que o tempo todo era o xamã.
+1576780 1578580 (07) Assim como os animais são para os humanos, sendo assim,
+1578780 1581580 (07) tem a teoria que um orque veio no corpo do xamã humano
+1581780 1584580 (07) e ficou na tribo e por sua vez, não, o xamã era o culpado o tempo todo,
+1584780 1586580 (07) incluindo ele.
+1586780 1589580 (00, 07) Avisou pros orques que aquele lugar tinha tesouros e tal.
+1589780 1593580 (07) Ela construiu só um corpo humano para o corvo e assim conseguia voar
+1593780 1595580 (07) pra se comunicar com os orques.
+1595580 1599380 (07) Era isso, só que ao contrário, isso usava o voar pra se comunicar sempre.
+1599580 1603380 (07) Quando o plano entrou em ação, o corvo orque humano abandonou a casca do xamã
+1603580 1606380 (07) e passou pro corvo novamente, ao fim de retornar à ilha dos orques
+1606580 1608380 (07) para continuar a arquitetar o plano.
+1608580 1610380 (07) Vê se o orque foi, foi o humano que foi.
+1610580 1613380 (07) Acho que é isso, espero que eu tenha sido pontual nas minhas colocações.
+1613580 1618380 (07) E não vou pedir desculpas, quero ler mais, porque acho legal textos grandes e risos.
+1618580 1621380 (07) Quando eu vencer a minha ansiedade social, juro que eu volto pra taverna.
+1621580 1624380 (07) Abração. Abração, volte assim que puder.
+1624380 1626180 (02, 07) E escreva mesmo.
+1626380 1630180 (02) Abraços. Volte, você será muito bem acolhido.
+1630380 1633180 (02) Coelha de Alcantarilha.
+1633380 1637180 (02) Primeiramente, boa hora do dia, Guaxa.
+1637380 1642180 (02) Convidade, chat, ouvintes e futura Fabiola que vai ouvir esse episódio no Spotify
+1642380 1645180 (02) e possivelmente no chat da Twitch.
+1645380 1647180 (02) Boa hora pra você também.
+1647380 1648180 (08, 02) Bora.
+1648380 1650180 (02) Trota, que saudade.
+1650380 1652180 (02) E gente nova.
+1652380 1653180 (02) Uma pantera.
+1653380 1654180 (02) Uma naga.
+1654180 1654980 (02) Que era uma naja.
+1655180 1655980 (02) E um ratel.
+1656180 1656980 (02) Amei.
+1657180 1658980 (02) E mais uma história com três irmãos.
+1659180 1660980 (02) Já sabemos que vai ser uma grande aventura.
+1661180 1662980 (02) Meu Deus, os três virando animais.
+1663180 1663980 (02) Que fofo.
+1664180 1664980 (02) Muito fofo.
+1665180 1665980 (02, 07) Fofíssimo.
+1666180 1666980 (02, 07) Meu Deus.
+1667180 1667980 (08, 07) Uma cobra venenosa.
+1668180 1671980 (01, 07) Um ratel que destrói o pescoço.
+1672180 1674980 (07) E uma pantera que arranca a mão.
+1675180 1675980 (07) Fofíssimos.
+1676180 1681980 (01, 07) Depois vê o vídeo do ratel estofou e vê se um ratel realmente é muito fofo.
+1681980 1686780 (02, 01) Eu acho que eu me perdi aqui.
+1686980 1693780 (02, 01) Meu Deus, o Kuki tentando combater 20 criaturas que ele nem sabe o que é realmente.
+1693980 1698780 (02, 07) Mas foi um momento muito legal dele tentar combater 20 criaturas que ele nem sabia o que era.
+1698980 1702780 (02, 07) Eu achei que o grupo ia recuar, tentar avisar a tribo.
+1702980 1705780 (07) Mas ok, ficou legal.
+1705980 1708780 (02) Ele agiu muito como o irmão caçula mesmo.
+1708980 1709780 (02) Eu achei isso muito legal.
+1709980 1710780 (02) Foi muito boa.
+1710780 1713580 (02) A interpretação do Lucas foi muito boa.
+1713780 1715580 (02) E falando nisso, ele tinha pedido para eu dar um salve.
+1715780 1716580 (02) E eu não posso esquecer.
+1716780 1720580 (02) Um salve para vocês enviados do Lucas Avatar.
+1720780 1722580 (02) Meu querido irmãozinho mais novo.
+1722780 1724580 (02) Luto pelos coelhos na praia.
+1724780 1730580 (02) Minha espécie sempre atacada para ser comida ou com o pé decepado por crença tonta de humanos.
+1730780 1731580 (02) Concordo com você.
+1731780 1734580 (02) Meu Deus, o extermínio de orques.
+1734780 1738580 (02) Me sinto mal pelo pote de mel, runa, espada negra e ameaça silenciosa.
+1738780 1739580 (02) Nossa.
+1739580 1744380 (02) Realmente, quando a gente começou a atacar ali, eu realmente me senti mal.
+1744580 1748380 (02) Mas eu pensei assim, cara, eu não posso ser o que a Sarah está pensando.
+1748580 1751380 (02) Porque se eu for fazer o que a Sarah está pensando, eu não vou fazer nada.
+1751580 1756380 (02) Eu tenho que agir como se a Oasis tivesse realmente bolada com aquela situação ali.
+1756580 1760380 (02) Agindo mais ou menos como o Luko que estava agindo, né?
+1760580 1765380 (02) Mas por dentro eu estava muito assim, ai meu Deus, que não sejam a tribo das orquídeas.
+1765580 1766380 (02) Que não seja, que não seja.
+1766580 1767380 (02) Que eu também fiquei muito mal.
+1767380 1770180 (02) Que é um dos meus episódios favoritos, o episódio delas.
+1770380 1772180 (07) Você matou a descendente das orquídeas.
+1772380 1773180 (07) Que feio.
+1773380 1776180 (02, 01) Nossa, não me faça ficar mais mal.
+1776380 1778180 (unknown) Porque eu fui...
+1778380 1782180 (02, 01) Nossa, quando terminou o episódio, né?
+1782380 1783180 (02) Que a gente começou a perguntar.
+1783380 1787180 (08, 02) E o senhor, não respondendo as perguntas, só ria da gente.
+1787380 1791180 (02, 07) Eu fiquei muito assim, caraca, será que a gente matou alguém que era da linha?
+1791380 1793180 (02, 07) Fiquei com a minha cabeça explodida.
+1793380 1794180 (07) Diretamente dos episódios, não.
+1794380 1796180 (07) E entenda assim, o vilão era o xamã.
+1796380 1797180 (07) Isso é óbvio.
+1797380 1799180 (01, 07) Os orques eram vilões?
+1799380 1803180 (07) Pensa em grupo de aventureiros chegando numa ilha e os animais atacando eles.
+1803380 1807180 (02, 07) Os grupos, no geral, recuariam ou atacariam os animais?
+1807380 1808180 (02) É, caramba.
+1808380 1813180 (02) Estou igual aquele gif do carinha com a mente explodindo.
+1813380 1815180 (02, 07) Põe na conta do xamã, gente.
+1815380 1816180 (02) É culpa do xamã.
+1816380 1818180 (02, 07) Tudo que nós fizemos foi culpa do xamã.
+1818380 1819180 (02, 07) Os orques mortos é culpa da Sarah.
+1819380 1820180 (07) Pode botar na conta.
+1820380 1821180 (07) Não, mentira.
+1821380 1824180 (02) Não, na minha não.
+1824380 1826180 (02) Meu Deus.
+1826180 1828980 (02) Meu Deus, a tigresa falou que era a verdadeira.
+1829180 1830980 (02) Eu fiquei maravilhada.
+1831180 1833980 (08, 02) Esse foi o ponto alto do episódio para mim.
+1834180 1840980 (02) Quando o Lukuk virou a pantera dele e aí ele conversou com a tigresa.
+1841180 1842980 (02) E a tigresa falou que era a mãe.
+1843180 1844980 (02) Nossa, eu acho que todo mundo se aliviou ali um pouco, né?
+1845180 1846980 (02) Que a gente não sabia o que fazer.
+1847180 1848980 (02, 01, 07) Eu senti que a gente ficou meio travado.
+1849180 1849980 (07) Posso bater nela.
+1850180 1850980 (unknown) Vamos embora.
+1851180 1852980 (01) Não, bater nela não.
+1853180 1854980 (07, 01) Que ainda era o corpo da rainha, né?
+1854980 1856780 (07, 01) O Trota até tentou.
+1856980 1858780 (01, 07) Meu Deus.
+1858980 1860780 (01) Foi sem querer.
+1860980 1862780 (07, 01) Podia ter sido um final bem ruim ali, né?
+1862980 1864780 (07) Mas ok.
+1864980 1866780 (02, 01) Por isso que os dados ajudaram, né?
+1866980 1868780 (02) Ainda bem que ele não conseguiu.
+1868980 1873780 (02) Outro momento pós-twitch foi a impostora saindo do corpo da rainha.
+1873980 1875780 (02) Meu Deus, que final foi esse?
+1875980 1876780 (02) Realmente.
+1876980 1877780 (02) Ok.
+1877980 1879780 (02) Devo admitir que não entendi nada.
+1879980 1881780 (02) Mas as perguntas servem para isso, né?
+1881980 1883780 (02, 07) Primeira pergunta.
+1883780 1886580 (02) Quais episódios são relacionados com esse?
+1886780 1891580 (07) Qualquer um medieval acontece em algum lugar próximo por ali, né?
+1891780 1894580 (07) Assim como Criaturas Fantásticas e tal, eu imagino.
+1894780 1898580 (02, 07) O mais direto, embora seja muito antes, das Orquisas.
+1898780 1899580 (02, 07) Nossa.
+1899780 1904580 (02) O sábio xamã era o orc que vimos em Princesas e Orquisas?
+1904780 1905580 (02, 07) Não, não.
+1905780 1906580 (02, 07) Aquele que mexe com magias?
+1906780 1907580 (02, 07) Não.
+1907780 1909580 (02) Cara, eu também tinha pensado nele.
+1909780 1911580 (02) Pensei assim que ele tinha trocado tanto de corpos
+1911580 1914380 (02) que a alma dele já era milenar, né?
+1914580 1916380 (08, 02) Eu tinha pensado a mesma coisa.
+1916580 1921380 (02) Como exatamente acontece essa magia de mudar de corpo com o familiar?
+1921580 1926380 (07) Assim, eu não sei fazer, mas basicamente a pessoa deixa...
+1926580 1932380 (07) É tipo uma projeção astral, só que em vez de ver as pessoas tomando banho,
+1932580 1935380 (02, 07) tu entra no corpo do bichinho e sai controlando o bichinho.
+1935580 1939380 (02) Se eu fosse nova, igual um adolescente fala assim,
+1939380 1942180 (02) nossa, então ele fez uma ADR, uma viagem.
+1942380 1944180 (02) O pessoal diz que dorme, né?
+1944380 1946180 (02) Pra poder viver uma outra realidade.
+1946380 1949180 (02) Uma coisa entre os adolescentes, viver o ADR.
+1949380 1951180 (02) O mundo irreal deles.
+1951380 1955180 (02) Nunca entendi isso, mas alguns dizem que funciona.
+1955380 1958180 (02) E alguns ainda vão pra universos tipo...
+1958380 1960180 (02) Estilo Isekai.
+1960380 1961180 (02) Tipo Saô, né?
+1961380 1963180 (02) Sure, chat online.
+1963380 1966180 (02) Como exatamente acontece essa ideia hoje ali?
+1966380 1968180 (02) Por que os orcs atacaram a tribo deles?
+1968180 1970980 (02, 07) Então, eles receberam a informação do xamã
+1971180 1972980 (07) que era um lugar que tinha algum tesouro,
+1973180 1975980 (07) algum lugar especial e foram pra lá.
+1976180 1978980 (07) Estavam montando acampamento, matando animais pra comer, né?
+1979180 1981980 (07) Quando de repente os animais rasgaram o pescoço de um e envenenaram o outro,
+1982180 1984980 (07) os animais começaram a atacar eles porque eles não entenderam nada, né?
+1985180 1986980 (07) Não houve um diálogo ali.
+1987180 1989980 (07) E daí eles tentaram atacar, mas perderam e fugiram.
+1990180 1991980 (07) Com a promessa de que um dia vão voltar.
+1992180 1996980 (02) Eles conseguiriam falar com animais normais quando estavam nos corpos de seus familiares?
+1996980 2001780 (02, 07) Assim, eu acho que convencer esses jogadores sim, mas seria limitado a inteligência do animal, né?
+2001980 2003780 (07) Tipo, o animal...
+2003980 2005780 (07) Ah, senhor coelhinho!
+2005980 2008780 (07) A esquadrada de 70 e tanto, hein?
+2010980 2012780 (01, 07) Queria dizer cenoura.
+2012980 2015780 (01) Realmente, é uma pergunta bem complicada pra um coelhinho.
+2015980 2017780 (07, 01) Eu, como gostinho, não saberia responder.
+2020980 2023780 (02) Talvez isso foi falado no episódio e eu acabei não ouvindo.
+2023980 2025780 (02) Mas quem foi escolhido para ser o sucessor
+2025780 2027580 (02) ou a sucessora?
+2027780 2030580 (02, 07) Não ficou em aberto. Não foi escolhido ali.
+2030780 2032580 (02) Veremos mais dessa tribo?
+2032780 2034580 (02, 07) Dessa tribo, talvez.
+2034780 2036580 (02) Bom, por hoje é isso.
+2036780 2040580 (02) Vou dar meus pulos e ela coloca um emoji muito fofo de um coelho.
+2040780 2042580 (02, 07) Perfeito, perfeito.
+2042780 2044580 (07) Assim, episódio do mês que vem.
+2044780 2045580 (07) Não de julho.
+2045780 2047580 (07) Final de agosto, senhora Miguel.
+2047780 2049580 (07) Ou início de agosto, não lembro.
+2049780 2052580 (07) Episódio de agosto, que se passa muito depois desse aqui.
+2052780 2054580 (08, 07) Só isso que eu vou dizer.
+2054580 2056380 (08, 07) Adriano Trota coloca
+2056580 2059380 (07) Olá, a juvidade de hoje e guaxual.
+2059580 2061380 (07) Que sim, é o guaxa sensual.
+2061580 2062380 (08, 07) Ok.
+2062580 2066380 (07) Queria achar um absurdo o jogador que só comenta no episódio que joga.
+2066580 2067380 (07) Fica o registro.
+2067580 2068380 (07) E um salve a todos.
+2068580 2069380 (07) Salve, querido.
+2069580 2070380 (07) E ele põe um diálogo.
+2070580 2072380 (07) Lucuque, confia em mim.
+2072580 2074380 (07) Raje, tudo bem.
+2074580 2076380 (07) Se você sabe o que está fazendo.
+2076580 2079380 (07) Oasis, promete que não vai fazer nenhuma besteira.
+2079580 2082380 (01, 07) Lucuque, eu prometo que não vou fazer nenhuma besteira.
+2082580 2084380 (07) Corta pro Lucuque.
+2084380 2086180 (07) Eu não vou ficar fazendo besteira.
+2086380 2087180 (unknown) É isso.
+2087380 2089180 (01) Coitado.
+2089380 2093180 (01) Coitadinho do Lucuque, ele nem queria.
+2093380 2098180 (07, 01) Ele fala, eu também acho um absurdo o jogador que só comenta no episódio que participa.
+2098380 2102180 (07) Mas queria agradecer pela confiança do guaxa em me colocar como veterano do grupo.
+2102380 2103180 (07) É verdade.
+2103380 2107180 (08, 07) Sarah e Lucuque e o Sasaki eram estreantes.
+2107380 2109180 (08, 07) Então o veterano do grupo era o Trota.
+2109380 2111180 (07) Ele levou muito a sério isso, inclusive.
+2111380 2114180 (07) Mesmo estando nessa guaxa humanidade maravilhosa.
+2114380 2115180 (07) Há pouco tempo.
+2115380 2117180 (07) Espero ter correspondido nessa missão.
+2117380 2118180 (07) Adorei o episódio.
+2118380 2120180 (07) E amei jogar com vocês, como sempre.
+2120380 2123180 (07) Espero que a Oasis seja a nova rainha da ilha.
+2123380 2124180 (07) Acho justo.
+2124380 2126180 (07) Minha dúvida é simples.
+2126380 2128180 (07) E é a mesma de quando eu estava jogando.
+2128380 2131180 (07) Existe alguma possibilidade desses orques não serem malignos?
+2131380 2134180 (07) E estarem sob controle mental de uma certa atividade maligna?
+2134380 2136180 (07) Querido, não precisa de nada disso.
+2136380 2137180 (07) Pila errada.
+2137380 2139180 (08, 07) O xamã entrou num orque lá.
+2139380 2141180 (07) Fingiu, ó, é o terceiro lugar.
+2141380 2143180 (07) Mágico, com tesouro.
+2143180 2144980 (07) Vai ser incrível.
+2145180 2145980 (07) Vamos lá.
+2146180 2146980 (07) E o pessoal foi na pila errada.
+2147180 2147980 (07) É isso.
+2148180 2149980 (00, 01, 07) Esse sangue tá na tua mão também, Trota.
+2150180 2150980 (07) Fica aí.
+2151180 2152980 (07) Um grande beijo pra vocês.
+2153180 2153980 (07) Até a próxima.
+2154180 2154980 (07) Até a próxima, querido.
+2155180 2156980 (01, 07) Tadinho, Trota.
+2157180 2158980 (02, 01) Agora a gente vai sofrer aqui.
+2159180 2160980 (02) Mas pensa de um lado bom.
+2161180 2162980 (02) A gente foi enganado.
+2163180 2164980 (02, 07) Fomos enganados pelo xamã.
+2165180 2167980 (02, 07) Se isso te ajuda a dormir a noite, acho ótimo.
+2168180 2170980 (02) Não, não vai me ajudar a dormir a noite.
+2170980 2174780 (02) Barman da Taverna, o próximo comentário é do Barman.
+2174980 2176780 (02) Olá, aventureiros.
+2176980 2180780 (02) Hoje o balcão da taberna está servindo uma bebida exótica.
+2180980 2184780 (02) Recebemos esse barril de cabana do xamã.
+2184980 2191780 (02) Nosso sommelier disse que é uma experiência transformadora, desde que você ignore o cheiro.
+2191980 2193780 (07) Ok, eu passo.
+2193980 2195780 (02) Também passo.
+2195980 2196780 (07) Mas obrigado, Barman.
+2196980 2199780 (07) Próximo comentário é do Fernando Lobo, olha só.
+2199780 2201580 (07) Olá, Mestre Guax.
+2201780 2204580 (07) Convidade, ouvintininhos e capchat.
+2204780 2205580 (07) O que é um capchat?
+2205780 2207580 (02, 07) É um chat de capivaras.
+2207780 2208580 (02, 07) Ok.
+2208780 2209580 (07) Ótimo episódio.
+2209780 2212580 (08, 07) Adorei a ideia de terem companheiros animais.
+2212780 2216580 (07) No começo eu achei que se passava na Amazônia, até aparecer os orcs.
+2216780 2217580 (07) É, sempre...
+2217780 2218580 (07) Sempre acontece.
+2218780 2223580 (08, 07) E se eu pudesse, teria escolhido um pangolim ou uma arpia.
+2223780 2225580 (07) O animal, não a criatura mágica.
+2225780 2226580 (07) Não, tranquilo.
+2226780 2229580 (07) Assim que eu vi que o animal do xamã era um corvo, pensei...
+2229580 2231380 (07) Algo de errado não está certo.
+2231580 2234380 (07) Tenho poucas dúvidas sobre esse episódio, então vamos a elas.
+2234580 2236380 (07) 1. Esse é o mesmo mundo das três orquídeas?
+2236580 2237380 (07) Sim.
+2237580 2240380 (07) O xamã traiu a tribo ou foi possuído também?
+2240580 2241380 (07) Os dois, né?
+2241580 2243380 (07) Ele foi possuído e traiu a tribo.
+2243580 2245380 (07) Ele era o que possuía tudo.
+2245580 2247380 (07) Inclusive, alguém possuiu ele antes dele.
+2247580 2249380 (07) E ele é o traidor.
+2250580 2251380 (08, 07) O que os orques querem?
+2251580 2252380 (07) Os orques querem...
+2252580 2253380 (07) Sim.
+2253580 2258380 (07) Eles queriam tesouros, eles queriam conhecer uma terra exótica, eles queriam, sei lá, um território mágico.
+2258380 2260180 (07) Alguma desculpa o xamã deu para eles irem para lá.
+2260380 2262180 (07) 2. Como se possui o corpo de outra pessoa?
+2262380 2264180 (07) Gente, é só um RPG.
+2264380 2266180 (07) Segunda pessoa que me pergunta.
+2266380 2267180 (07) É ficção.
+2267380 2268180 (07) Não dá, tá?
+2268380 2269180 (07) Não dá.
+2269380 2270180 (unknown) Não dá.
+2270380 2271180 (01) Fica no imaginário.
+2271380 2273180 (07, 01) É, fica no imaginário.
+2273380 2274180 (07) Ninguém é de ninguém, gente.
+2274380 2275180 (07) É isso.
+2275380 2276180 (07) Já dizia tribalistas.
+2276380 2277180 (07) É isso.
+2277380 2281180 (07) 3. Está na hora de voltar à Alcateia, mas estarei sempre por perto.
+2281380 2282180 (07) É só sorviar.
+2282380 2284180 (07) Até a próxima, Fernando Lobo.
+2284380 2285180 (07) Até a próxima, querido.
+2285380 2288180 (02) E o próximo comentário é do Murilo.
+2288380 2289180 (02) Morcego de óculos.
+2289380 2291180 (02) Guerra!
+2291380 2293180 (02) Dando uma voadora literal em um orc.
+2293380 2296180 (02, 07) Eu imaginei um orc numa voadora.
+2298380 2300180 (02, 01) Um orc levando uma voadora?
+2300380 2302180 (07, 02, 01) De um morcego.
+2302380 2303180 (07) Um pequeno morcego.
+2303380 2305180 (02) Verdade.
+2305380 2307180 (02) A foto dele parece até um zubatzinho, né?
+2307380 2308180 (02, 07) É.
+2308380 2309180 (02, 07) As cores são bem parecidas.
+2309380 2311180 (02, 07) Não vai ser muito efetivo esse ataque.
+2312380 2314180 (02) Isso é por tentar prender minha irmã.
+2314380 2315180 (02) Ufa.
+2315380 2318180 (02) Agora vamos voar até um galho para conversarmos.
+2318380 2326180 (02) Bom dia, boa tarde, boa noite e boa madrugada a todos os guaxafãs e a você, nosso amado guaxinim.
+2326380 2328180 (02) Que episódio maravilhoso.
+2328380 2329180 (02) Ah, é mesmo.
+2329380 2330180 (02) Risos.
+2330380 2331180 (02) R.S.R.S.
+2331380 2333180 (02) Não posso deixar de gritar.
+2333380 2334180 (02) Com licença.
+2334380 2335180 (02) Guaxaaaaa.
+2335380 2336180 (02) Pronto.
+2336380 2337180 (02) Agora continuando.
+2337380 2340180 (02) Entrei na taberna e que lugar maravilhoso.
+2340380 2341180 (02) Concordo.
+2341380 2344180 (02) Já estou lá há um tempo e me sinto em casa.
+2344380 2346180 (02) Ainda sou meio tímido em falar na taberna.
+2346180 2351980 (02) Mas amo aquele lugar, pessoas maravilhosas, gentis e até já tenho grandes amigos.
+2352180 2357980 (02) Inclusive, um dos meus ídolos do RP Guaxa jogou comigo e isso me deixou muito feliz.
+2358180 2364980 (02) Por isso, quem pode ser padrinho, e não por vergonha ou medo, saiba que lá é o lugar de amor e cuidado.
+2365180 2367980 (02) As pessoas são boas e carinhosas. Isso é verdade.
+2368180 2368980 (08, 02) É verdade.
+2369180 2369980 (02, 08) Tipo a Sarah.
+2370180 2375980 (02) Ah, que bonitinho que tenho de falar. Você foi incrível. Parabéns. Muito obrigada.
+2376380 2380980 (02) Muito obrigada, João. Eu tenho certeza que é o João. Maravilhoso, João.
+2381180 2385980 (02) E claro, todos os jogadores, editor, NPCs e o nosso amado Guaxinim.
+2386180 2390980 (02) Vocês são 141% desse episódio. Verdade, eles merecem todos os biscoitos possíveis.
+2391180 2394980 (02) Vamos às perguntas que já devem ter sido feitas.
+2395180 2396980 (02) Essa é a realidade das orquídeas?
+2397180 2397980 (08, 02) Sim.
+2398180 2400980 (02) Aquela mesma aonde tiveram de fugir por uma fenda?
+2401180 2402980 (02) Ah, já respondeu.
+2403180 2405980 (02) Guaxa, esse episódio tem a ver com o corvo?
+2406380 2408980 (07) Tem. Tem um corvo, né, do Xamã.
+2409180 2411980 (02) É o mesmo corvo do episódio 2?
+2412180 2413980 (02, 07) Talvez.
+2414180 2416980 (02) A tigresa da rainha está bem?
+2417180 2419980 (07) Ah, sim, né. Vocês não chegaram a machucar ela.
+2420180 2423980 (02, 07) A gente só cuidou dela.
+2424180 2427980 (02, 07) Quem vai herdar o trono dos três?
+2428180 2431980 (07) Não sei. Assim, eu, Guaxa, queria que fosse a Sarah, sim.
+2432180 2435980 (07) Mas essa decisão não cabe a mim, cabe a Rainha Lira.
+2436180 2439980 (02, 07) Procurem a Rebel Bee e perguntem para ela.
+2440180 2440980 (02, 07) Procurem a Rainha?
+2441180 2441980 (02, 07) Isso.
+2442180 2447980 (02, 07) Essa tribo humana é a mesma dos outros episódios nessa linha, supondo que são da mesma linha?
+2448180 2450980 (07) Não, essa tribo humana é isolada naquela floresta.
+2451180 2456980 (02, 07) Talvez muito, muito no passado, mas eles eram aquela tribo ali, eram eles.
+2457180 2463980 (02, 07) Guaxa, para finalizar as perguntas, quando você vai confessar a todos que o Guaxa Verso é real?
+2463980 2465780 (07) Nunca.
+2465980 2473780 (02) Bem, vou sair por aqui batendo minhas asas, porque acho que já invoquei o Vermais.
+2473980 2475780 (02, 07) Sim, você invocou o Vermais.
+2475980 2477780 (02, 07) Ah, o Vermais, só para botar no bico.
+2477980 2479780 (02) RS, RS.
+2479980 2485780 (02, 07) Agora, e acho que aquele Ratel por aí para jogar RPG. Beijos a todos e uma ótima noite.
+2485980 2486780 (07) Uma ótima noite, querido.
+2486980 2488780 (07) O próximo comentário é de Seu Amigo do Peito.
+2488980 2489780 (07) Ele coloca, salve.
+2489980 2493780 (07) Esse foi mais um episódio incrível, que não só alugou um apartamento na minha cabeça,
+2493780 2495580 (07) mas criou um mundo inteiro novinho.
+2495780 2499580 (07) Da última vez tinha pedido a benção e me responderam benção.
+2499780 2501580 (07) Fiquei indignado com a resposta.
+2501780 2504580 (07) Pô, tu pediu benção e recebeu benção, tu queria o quê?
+2504780 2509580 (07) Aqui na minha terrinha a gente pede benção para os mais velhos com um cumprimento tipo,
+2509780 2511580 (07) benção, mãe, etc.
+2511780 2514580 (07) E a resposta é, ai, Deus te abençoe, ok.
+2514780 2516580 (07) Porra, ok, ok.
+2516780 2519580 (07) Então, meu amigo do peito, Deus te abençoe, querido.
+2519780 2522580 (07) Porque eu gosto bem galáctico e a sua linha.
+2522580 2527380 (07) Enfim, agora que tudo está explicado, preciso pedir benção mais uma vez.
+2527580 2529380 (07) Deus te abençoe, querido. Vamos embora.
+2529580 2533380 (07) E dizer, tanto os jogadores quanto o mestre e o editor contam uma história sensacional.
+2533580 2534380 (07) Isso é verdade.
+2534580 2535380 (08, 07) Que me cativou bastante.
+2535580 2538380 (08, 07) E a escolha dos animais foi muito OP.
+2538580 2539380 (07) Overpower.
+2539580 2541380 (07) Eles foram apelões segundo o nosso querido.
+2541580 2543380 (07) Eu achei que um voador ia ajudar, gente.
+2543580 2545380 (07) Só queria dizer isso.
+2545580 2552380 (07) Isso porque o ratel sola um leão e bota para correr e é imune a veneno de muitas cobras.
+2552580 2559380 (07) Que por falar nisso, também tinha um na party que tem um dos venenos mais potentes de todos.
+2559580 2562380 (07) Sem falar que é uma panteira negra no grupo.
+2562580 2564380 (07) Não tem Thanos que segura. É verdade.
+2564580 2566380 (02, 01, 07) Verdade.
+2566580 2568380 (07) Aqueles dados meio roubados, eles tinham vencido o Thanos também.
+2570580 2571380 (02, 07) Pergunta.
+2571580 2572380 (02, 07) O dado está viciado.
+2572580 2573380 (02, 07) É.
+2573580 2574380 (07) Perguntas.
+2574580 2580380 (07) 1. Esse é o mundo do farol em que há grupos de magos que têm afinidades com animais?
+2580580 2581380 (07) É.
+2581380 2582180 (07) É verdade.
+2582380 2591180 (08, 07) 2. No caso de uma resposta positiva para a pergunta anterior, existem mais ilhas que pregam amor que também machuca e outra com conhecimento erudito?
+2591380 2592180 (07) Deve ter.
+2592380 2597180 (07) 3. Esse é o mesmo mundo dos cavaleiros arco-íris em que fora da cidade existem pessoas que se transformam em animais?
+2597380 2598180 (07) É um bom palpite.
+2598380 2603180 (07) 4. Testando mais uma relação de mundos, eu vi que já foi questionada a ligação com as orquídeas.
+2603380 2605180 (07) Isso é a mais óbvia de todas.
+2605380 2611180 (07) 5. E essa ligação existe ao objetivo de invasão era somente expansão, colonização ou havia algum objetivo extra?
+2611180 2612980 (07) O Xamã talvez tenha algum objetivo extra.
+2613180 2617980 (07) Dos orques era mais expansão, colonização, conhecer e talvez achar alguma coisa...
+2618180 2620980 (07) O Xamã pode ter preenchido alguma coisa importante lá.
+2621180 2622980 (07) Desculpa atirar para todos os lados dessa vez, Guaxinim.
+2623180 2623980 (07) Não, deu ótimos tiros aí.
+2624180 2626980 (07) Acertou mais do que eu gostaria que fosse acertado.
+2627180 2627980 (07) No mais, avante, Guaxinim.
+2628180 2630980 (02, 07) E o próximo comentário é do Guaxinim.
+2631180 2632980 (02) Episódio maravilhoso.
+2633180 2638980 (02) Saindo quentinho uma forrada de biscoitos com muito chocolate, 50% do episódio.
+2638980 2653780 (02) Um biscoito para Sara, um biscoito para o Trota, um biscoito para o Lucas, um biscoito para os NPCs, um biscoito para a Rainha Lyra, um biscoito para a Boba, um biscoito para a Deusa, um biscoito para a Niki, um biscoito para o Corvo e...
+2653980 2656780 (02) Um biscoito especial para você, Guaxa.
+2656980 2661780 (02) PS. Guaxa rima com Xuxa. Coincidência? Não mais.
+2661980 2666780 (07) Não rima. Guaxa não rima com Xuxa. Não rima. Guaxinim não rima.
+2666780 2669580 (02, 08, 07) Vamo parar. Não rima.
+2669780 2673580 (07) Porra, não rima. Tu tá roubando. Não rima, não.
+2673780 2680580 (08, 07) Cadê o Bardo pra fazer? Bardo, próximo episódio eu quero que tu me responda se Guaxa rima com Xuxa.
+2680780 2685580 (01, 07) Se for uma boa rima vai ser muito bom, né?
+2685780 2688580 (07, 01) Próximo comentário é do Vermenos.
+2688780 2693580 (01, 07) Sara, eu tenho do episódio passado uma carta que eu posso pular um comentário grande.
+2693780 2696580 (07) Eu só fiquei com pena de usar com você, mas eu tenho ela aqui.
+2696780 2700580 (08, 00, 07) Pode usar a qualquer momento. E o Vermenos me trouxe uma carta, olha só.
+2700780 2705580 (07) Olá, Guaxa. Juventude do dia, Guaxate. E pra você que ainda não é madrinho ou padrinho do RP Guaxa.
+2705780 2710580 (07) Venha fazer parte dessa guaxarada. Somos bacanudos. É verdade.
+2710780 2714580 (07) Episódio incrível. Episódio lindo. Episódio família. E família animal.
+2714780 2721580 (07) Família, biscoito para todos os 50% do episódio. E sim, senhor Marcelo Guaxinim, pode usar a sua carta acumulada.
+2721780 2725580 (07) Posso usar. Aqui, tome mais uma carta extra para o próximo Guaxa Verso.
+2725580 2728380 (07) E pule o seu ver mais para as novidades do dia.
+2728580 2732380 (07) Eu tenho duas cartas registradas. No dia que o Trota voltar aqui...
+2732580 2737380 (07) Jean é outro que eu queria usar muito nisso. Fica lá o aviso.
+2737580 2740380 (07) Eu tenho duas cartas. E se eu cansar até o final, eu posso usar uma hoje, inclusive.
+2740580 2744380 (07) Duas cartas em que se o comentário for muito grande, eu posso pular.
+2744580 2747380 (07) Com as duas aqui na mesa posicionada, eu posso até...
+2747580 2752380 (07) Tal qual o jogador de Yu-Gi-Oh!, eu posso ter cinco. Tenho duas.
+2752580 2755380 (02) Vai acumular cartas, né?
+2755380 2757180 (02, 01, 07) Vou fazer um acumulado, gente.
+2757380 2762180 (07) Vou acumular, sim. Jean, Trota... Pô, vocês estão ferrados.
+2764380 2768180 (02, 07) E o próximo comentário é o meu. Sarah Barbosa. Opa!
+2768380 2771180 (07) Assim, para quem... A Sarah está sem câmera, né? Para quem está vendo ao vivo.
+2771380 2774180 (07) Eu não consigo aumentar. Aqui a foto, olha só. Essa é a Sarah.
+2774380 2776180 (07) Olha só, olha só.
+2776380 2783180 (02) Oi, pessoal. Esse sou eu. Opa, tudo bom? Oi, Guaxa. Guaxa, novidade e ouvinte ninde.
+2783380 2785180 (02, 07) Tu não sabia que era você mesmo?
+2785380 2787180 (02, 07) Eu não sabia que ia cair para mim.
+2787380 2790180 (02, 01, 07) Mas tu sabia que o convidado era você mesmo?
+2790380 2795180 (07, 02, 01) É, isso eu sabia. Mas eu falei assim, isso seria muita prepotência colocar meu nome. Eu não vou fazer isso.
+2795380 2801180 (02, 01, 07) Assim, é uma coisa que muita gente já fez, mas ok. Mas também julgo todos eles. Pode continuar.
+2804380 2809180 (02) Só elogios aos meus irmãos Raj, Trota e Lukuki, Lucas Sasaki.
+2809380 2814180 (02) Amei poder jogar ao lado de vocês. Senti que realmente éramos irmãos vivendo aventuras
+2814180 2818980 (02) e tentando lutar contra o desconhecido. Mamãe deve estar orgulhosa de nós.
+2819180 2820980 (02) O medo que tem medo de nós.
+2823180 2830980 (02) Surreal ouvir o episódio editado e com as vozes dos NPCs. Todos incríveis. Tomem os biscoitos. Levem tudo.
+2831180 2837980 (02) Isso é verdade. O episódio editado foi maravilhoso. Eu até comentei com o Guaxa que eu tinha pensado mesmo na voz da Bia
+2838180 2842980 (02) para ser a voz da mãe, né? A voz da Rainha Lyra. E quando a gente ouviu o editado, eu falei assim,
+2842980 2845780 (02) caramba, cara, muito bom. Ficou incrível.
+2845980 2851780 (02) Obrigada de coração você, Guaxa, que sempre traz histórias maravilhosas para a podosfera nerd.
+2851980 2860780 (02) Que história boa de eu jogar e de ouvir, realmente. Confesso que enquanto jogávamos, a minha mente estava viajando em meio a teorias e medos.
+2860980 2867780 (02) O senhor realmente ama quebrar expectativas, mas quebrou de forma maravilhosa. Episódio de reviravoltas. Foi mesmo.
+2867980 2872780 (02) Deixo as perguntas aos meus amigos da taberna. As perguntas deles eram as mesmas que as minhas.
+2872780 2875580 (02) E agora um recado para o Trota.
+2875780 2884580 (02) Senti sua dor na luta contra os orques. A preocupação não era somente sua, mas esses três irmãos, ainda inexperientes com as suas habilidades animais,
+2884780 2892580 (02) agiram da melhor forma possível. Vamos acreditar que esses orques aí eram do mal e não tinham nada a ver com as orquisas.
+2892780 2895580 (02, 07) Duas mãozinhas juntas e o emojizinho chorando.
+2895780 2898580 (02, 07) Vamos acreditar. Fé faz isso.
+2898780 2900580 (02, 07) A fé move montanhas.
+2900780 2902580 (02, 07) Pô, move.
+2902980 2907580 (02) Ai, ai, ai. Esses jogadores que só comentam nos episódios que jogam.
+2907780 2909580 (02, 07) É verdade. É um absurdo.
+2909780 2914580 (07) Sarah, eu não lembro de comentário teu. Eu acho que você é uma, inclusive, uma...
+2914780 2915580 (02, 07) Não, não, não.
+2915780 2916580 (07) Olha só. Cp.
+2916780 2923580 (02, 07) Eu já joguei, eu já comentei com o nick do tio Walter e Lilad.
+2923780 2924580 (02, 07) Ok.
+2924780 2926580 (02, 07) E era uma foto de um rato.
+2926780 2929580 (02, 07) Ok. Cp da Sarah depois, gente. Depois a gente faz.
+2929780 2931580 (07) Próximo comentário é do Stanley Medeiros, que coloca...
+2931580 2937380 (07) Por favor, não me diga que esses orques são do mesmo povo que nossas queridas e saudosas orquisas.
+2937580 2939380 (07) Sim, mas muito tempo depois.
+2939580 2943380 (07) Quero muito ver outro episódio com elas, mas não quero que elas sejam vilãs.
+2943580 2948380 (00, 07) Então, não, assim, elas são lendas já nesse mundo. Pode ficar tranquilo.
+2948580 2954380 (07) Agora, as orquisas da Copa do Mundo, talvez não sejam tão lendas assim.
+2954580 2961380 (02) Oh, nossa. Caramba, agora vai alugar uma parte a mais na minha cabeça agora, esse comentário.
+2961580 2965380 (02) O próximo comentário é do Tô Desistindo.
+2965580 2969380 (08, 02) Não desista, querido. Por favor.
+2969580 2974380 (02) Pergunta de entrevista. E se você fosse um animal, qual você seria? Acho que essa pergunta é pra você, Goshen.
+2974580 2977380 (02, 07) Eu não gosto nem.
+2977580 2987380 (02) Os jogadores já escolheram os deles. Eu não sei o meu. Talvez algo que possa voar e nadar. Uma piranha voadora? Um tubarão branco? Tenho tempo para decidir.
+2987580 2989380 (02, 07) Uma piranha voadora?
+2989380 2993180 (07) Uma piranha voadora? Porra, uma piranha voadora, Tô Desistindo?
+2993380 2999180 (07) Eu, assim, eu não sou de vetar personagens. Mas, porra, uma piranha voadora?
+2999380 3009180 (07) Tu ia ter um aquário e teu irmão Ratel ia te carregar por aí até o momento, porque ela não voa de verdade, sabe? Ela pula. Porra, Tô Desistindo?
+3009380 3017180 (01, 07) Não, né? Assim, uma piranha voadora, eu ia vetar. Eu ia vetar. Ou então, se a primeira falha, ela ia estar no chão, assim, se debatendo.
+3017180 3018980 (01, 07) É, porra.
+3019180 3022980 (01) Iam ficar andando com uma cambuquinha cheia d'água, né?
+3023180 3035980 (01, 07) Um tubarão branco? Assim, porra. Um tubarão branco? Porra, Tô Desistindo? Não, assim, desse personagem não desista, querido. Porra.
+3036180 3042980 (07, 01) Nossa. Nossa, isso foi muito bom.
+3042980 3052780 (07) Tem uma pantera, um Ratel, um aquário de cinco por oito e um tubarão branco lá dentro. Porra.
+3052980 3059780 (01, 07) E com rodinha, assim, um aquário. Porra, não dá, gente. Não dá, Tô Desistindo? Não dá.
+3059980 3061780 (01) Nossa.
+3061980 3068780 (07, 01) Olá, Guaxual. Guaxa, Guaxa. E convidado do dia. O comentário dele foi tão bom.
+3068980 3072780 (08, 01, 07) Porra, é. Qual o teu pokémon inicial? A Magikarpa.
+3072780 3074580 (08, 07) Vai ser o meu pokémon. É isso.
+3074780 3082580 (08, 07) A Magikarpa, que quando tá pra evoluir, tu aperta B. Porque tu quer lá a Magikarpa. Tu não quer que ela evolua. É isso.
+3082780 3086580 (08, 07) Eu posso fazer piada de pokémon, porque a Sarah vai entender. Eu tô muito feliz.
+3086780 3087580 (08, 07) Sim.
+3087780 3089580 (07) O próximo comentário é da Marcele de Rei. Ela coloca...
+3089780 3096580 (08, 07) Oi. Oi. Amo vocês. Nós também te amamos, Marcele. Desculpa a ausência no último Guaxaverse. Não, desculpa.
+3096780 3100580 (08, 02, 00, 07) Estou me recuperando de uma virose pesada. Ok, eu sou...
+3100780 3102580 (07) Eu tava sob a influência de um corpo.
+3102980 3104580 (07) Desculpa, sim.
+3104780 3112580 (07) Pois paguei com a língua e depois de passar várias semanas me vangloriando, que todos adoeciam menos eu, eu fiquei pior que eles.
+3112780 3113580 (07) É isso aí, a vida.
+3113780 3114580 (07) Nossa.
+3114780 3121580 (07) Mas vamos ao que interessa. Ouvir o Trota no episódio me fez lembrar que devo uma aventura a ele. Vai sair, eu juro.
+3121780 3129580 (07) Episódio incrível, muito emocionante. Cada detalhe, desde o humor da convivência entre irmãos no início até o impasse e muita ação no final.
+3129780 3132580 (07) Só me diga, por favor, que Nossas Queridas Orquídeas não tem nada a ver com isso.
+3132780 3135580 (07) E é apenas um momento histórico dos tempos de guerra.
+3135780 3138580 (07) Elas não tem nada a ver com isso. É um momento histórico futuro.
+3138780 3146580 (07) É isso. Até a próxima. Escrevi isso na madrugada do domingo. Ainda não sei se estou ou não de férias, já que deveria ter dormido faz tempo.
+3146780 3150580 (07) Ah, você tava esperando nota da faculdade, é isso? Não sabe se tá de férias?
+3150780 3155580 (07, 00) Ou é um sorteio? Vai ter uma loteria das férias no trabalho, não sei.
+3156780 3158580 (02, 07) Mas obrigado, Marcelles. Um beijo.
+3158780 3159580 (unknown) É.
+3159780 3162580 (02) O próximo comentário é do Rodrigo Azevedo.
+3162780 3165580 (02) Bom dia. Meu feedback corrido sobre o episódio.
+3165780 3171580 (02) Espetacular. Parabéns a cada um dos 50% dos participantes.
+3171780 3175580 (02) Palminhas, palminhas, palminhas. O melhor podcast de RPG do universo.
+3175780 3176580 (02, 07) Obrigado.
+3176780 3177580 (02, 07) Verdade.
+3177780 3184580 (08, 07) Obrigado. Podia ter calculado pra esse comentário cair pra mim. Meu Deus, não tem mais? Mas ok.
+3184780 3191580 (07) Eu achei engraçado porque o episódio do especial de aniversário, que tem uma cobra, foi gravado...
+3191580 3196380 (00, 07) Assim, esse episódio foi gravado antes daquele episódio sair, mas depois de eu já ter gravado ele, né?
+3196580 3202380 (08, 00, 07) Então, eu acho que esse episódio era pra ter saído antes e eu botei ele, tipo, troquei ele um pra frente
+3202580 3205380 (07) pra não ficar muito na sequência de episódios dos Jogadores com uma Cobra.
+3205580 3209380 (08, 07) Queria registrar isso. Só lembrei agora.
+3209580 3213380 (08, 07) Próximo comentário é do Bardo Petis, que escreve um poema gigante.
+3213580 3216380 (07) Bom dia, boa tarde, boa noite, guaxomunidade.
+3216580 3218380 (07) Amo esse clima de floresta do desconhecido.
+3218380 3226180 (07) Dos jogadores saberem o que é uma arma, mas interpretarem um personagem que nunca viu aquela ferramenta.
+3226380 3230180 (07) Que episódio maneiro. Obrigado a cada pessoinha que fez esse episódio ser o que é.
+3230380 3232180 (07) Vocês são nota 10.
+3232380 3234180 (07) E como de costume, meus versinhos.
+3234380 3242180 (07) Olhos e ouvidos do mato, sabe o que é um contrato. Façam o necessário para viver. Indique o caminho para vencer.
+3242380 3246180 (07) Lutem e protejam o seu lar. Há uma maneira de se preparar.
+3246380 3248180 (07) Observem e aprendam.
+3248180 3251980 (07) Com o que eles fazem. Sistemas de armas, combate e empilhagem.
+3252180 3255980 (07) Domine os seus familiares. Aqueçam a alma para a verdade.
+3256180 3260980 (07) Ras de oásis que pensavam em correr.
+3261180 3263980 (07) Ataque de oportunidade e fugir para quê?
+3264180 3269980 (07) Iniciam o combate e seguram a onda. Não há um covarde. Não há quem se esconda.
+3270180 3274980 (07) Hesitam ao ver os monstros que vêm. Até que a floresta mostra o que tem.
+3275180 3277980 (07) Lutam contra a mãe ou contra a tigresa.
+3278180 3280980 (07) Instinto diz quem é a verdadeira besta.
+3281180 3285980 (07) Rápido, corra! Não a deixe fugir. Agora é hora do corvo sorrir.
+3286180 3290980 (02, 07) Obrigado pelo seu comentário, querido. O corvo não sorriu. Ele tem só um biquinho, né?
+3291180 3291980 (02) Uhum.
+3292180 3295980 (02) Nossa, eu preciso fazer algo que é meio ridículo, mas eu vou fazer.
+3296180 3300980 (02) Porque você leu rimando igual a Jess e o James.
+3301180 3306980 (07, 02, 01) Miau! É isso aí. Parecia que era o dilema do Jess e do James. Foi muito bom.
+3306980 3310780 (01, 07) Pessoal, guardem esse trecho para saber porque Cassaro nunca mais gravou.
+3310980 3312780 (07) Mentira, eu tô brincando.
+3312980 3317780 (01) Desculpa, pessoal. Desculpa.
+3317980 3322780 (02, 01) O próximo comentário é do Giser Carlos Eiras.
+3322980 3326780 (02) Saudações de pessoas de toda a guachamunidade. Cês tão bom?
+3326980 3327780 (02, 07) Tô bom, tô bom.
+3327980 3330780 (02, 07) Muito boa. Muitos biscoitos a todos.
+3330980 3331780 (02) Dúvida.
+3331980 3336780 (02) O que ocorreria se alguém tivesse dito que estava com medo logo no começo?
+3336780 3337580 (02) Uhum.
+3337780 3338580 (02, 07) Então, a...
+3338780 3340580 (02, 07) Algo mudaria na sessão?
+3340780 3341580 (07) Da rainha perguntando, né?
+3341780 3342580 (07) Uhum.
+3342780 3345580 (07) Ela queria dar o exemplo de que todo mundo tem medo e tal.
+3345780 3350580 (07) Porque a ideia ali era dar a pista que ela tem medo de voar para depois descobrirem, né?
+3350780 3356580 (07) Não mudaria nada em específico. Era mais para que a rainha pudesse dar a pista para depois ser descoberta.
+3356780 3357580 (02, 07) Uhum.
+3357780 3361580 (02) O corvo no ombro do ancião Orc é um novo corvo?
+3361780 3365580 (02, 07) É o mesmo que estava com o xamã. Tá com a alma do xamã dentro.
+3365580 3368380 (02, 07) Só que agora, naquele ponto, ele não está no xamã, ele está no Orc.
+3368580 3371380 (02) Uhum. E o antigo que ficou com o corpo do xamã?
+3371580 3372380 (02, 07) O xamã morreu, né?
+3372580 3373380 (02, 07) Uhum.
+3373580 3374380 (07) Bem triste.
+3374580 3376380 (02, 07) Próximo comentário é do Marcelo Luzidio.
+3376580 3378380 (07) Que comentou mais de uma vez?
+3378580 3379380 (02, 07) Que comentou quatro...
+3379580 3381380 (02, 07) Ah, porra, que cara maravilhoso. Gostei dele.
+3383580 3384380 (07) Nossa!
+3384580 3391380 (07) Ele contou... Eu acho que ele... Eu espero que ele tenha contado para que os menores fiquem comigo.
+3391580 3392380 (07) Vamos lá.
+3393580 3395380 (07) Marcelo Luzidio coloca...
+3395380 3400180 (07) Na cara o Marcelo. Segue nos próximos comentários minhas constatações.
+3400380 3403180 (07) Obrigado por ter sido só uma frase. Boa sorte, Sara.
+3404380 3407180 (01) Eu acho que ele contou, sim.
+3408380 3411180 (02, 01) Marcelo Luzidio comentou no próximo comentário.
+3411380 3417180 (02) O meu último comentário aqui foi para exaltar o atendimento recebido pelo pessoal do SAC do Guaxinim.
+3417380 3419180 (02) Se posso chamar assim.
+3419380 3421180 (02) Eles fizeram com que o Marcelo...
+3421380 3424180 (02) Abre parênteses. Ih, chamou de Marcelo. Fecha parênteses.
+3424180 3424980 (02) Abre parênteses.
+3425180 3426980 (02, 07) Verificasse o cu por mim.
+3427180 3428980 (07) Isso de novo, gente. É verdade.
+3429180 3430980 (07) Tive que lavar ele tudo.
+3433180 3438980 (02) Lembra que nele eu disse que, por esse motivo, eu estaria reservando meus 10 reaisinhos?
+3439180 3446980 (02) Pois bem, meus pilinhas foram devidamente depositados e, no dia 23 de junho, recebi um e-mail que dizia...
+3447180 3447980 (02) Olá, Sara!
+3448180 3451980 (02) E um link que mudou as minhas ideias sobre relações interpessoais.
+3451980 3455780 (02) E me fez chegar a um dos únicos lugares confortáveis da internet.
+3455980 3460780 (02) Que bom! Embora eu tenha amado o episódio, esse comentário não é sobre ele.
+3460980 3466780 (02) Será apenas para exaltar o quão feliz você pode ser a partir de 10 reais, apoiando esse projeto.
+3466980 3470780 (02) Eu tenho até medo de citar nomes e esquecer de alguém.
+3470980 3475780 (02) Mas uma das pessoas maravilhosas que me acolheu por lá foi a Agatha Sofia.
+3475980 3476780 (02, 07) Maravilhosa.
+3476980 3481780 (02) Que não há adjetivos para descrevê-la além de maravilhosa. Realmente.
+3481980 3482780 (02) Maravilhosa.
+3482980 3485780 (02) Ontem eu joguei a minha primeira aventura por lá.
+3485980 3490780 (02) Junto com, entre muitos nomes, a Fabiola, outra moderadora de lá.
+3490980 3493780 (02) Que é gente boníssima com todo mundo.
+3493980 3495780 (02) E me deu uma caneca imaginária.
+3495980 3496780 (02, 07) Sim.
+3496980 3498780 (02) Inspirada nos mecas dos animes.
+3498980 3501780 (02) Esses dias ela saiu andando sozinha.
+3502980 3506780 (02) Na caneca bebi um Tio Anjão.
+3506980 3509780 (02) Bebida preparada pelo barman de lá, o Moisés.
+3509980 3511780 (02) Fiquem com dó da Ju.
+3511780 3513580 (08, 02) Só sofre bullying na taberna.
+3513780 3515580 (02) Mas é bacana também.
+3515780 3519580 (02) Trata que jogou a aventura Felipe e Dani, o maior casal da América Latina.
+3519780 3520580 (08, 02) Verdade.
+3520780 3523580 (02) Espero que sejam, pelo menos.
+3523780 3526580 (02, 07) Tô com medo de ter falado besteira.
+3526780 3529580 (02, 07) Não, assim, somando os dois não dá três metros, eu acho.
+3529780 3531580 (02, 07) Mas é o maior casal da América Latina, sim.
+3531780 3533580 (07) Não, três metros dá quatro.
+3533780 3535580 (07) Quatro... Três e meio, né?
+3535780 3538580 (02, 07) Eles são maravilhosos, são maravilhosos.
+3538780 3541580 (02) Gente, se eu esqueci de alguém, que provavelmente esqueci.
+3541780 3544580 (02) Porque são mais de dois dígitos de gente.
+3544780 3547580 (02) Não se sintam tristes, eu amo todos vocês.
+3547780 3549580 (02) São todos bacaníssimos.
+3549780 3551580 (02) Ah, que bom.
+3551780 3553580 (02) Tem grupos pra todo tipo de gosto lá.
+3553780 3556580 (02) Mas o que eu mais amei foi de jogos mesmo.
+3556780 3559580 (02) Você que tem tempo, mas não tem mesas, entre na taberna.
+3559780 3562580 (02) Logo você terá mesas, mas não terá tempo.
+3562780 3563580 (02, 07) Eu concordo com isso.
+3563780 3564580 (02, 07) É verdade.
+3564780 3565580 (02, 07) O meu tempo reduziu pra caramba.
+3565780 3567580 (02, 07) Eu tenho quarta-feira pra gravar alguma coisa.
+3567780 3571580 (02) Eu só tô com tanta mesa jedada que...
+3571580 3574380 (02) Além de mesa, é campanhas, mini campanhas.
+3574580 3577380 (02, 01, 07) Que eu já não sei mais o que eu vou fazer com o meu tempo.
+3577580 3579380 (07) Recentemente chamei a Ju pra jogar.
+3579580 3582380 (07) E ela disse não, porque ela tinha uma mesa pra jogar na taberna.
+3582580 3586380 (07) Ela negou, sabe? Ela negou.
+3586580 3587380 (07) E daí eu tive que perguntar pra ela.
+3587580 3589380 (07) Me diz o nome das outras pessoas nessa mesa.
+3589580 3593380 (00, 01, 07) Porque se eu convidar uma delas, eu tenho certeza que elas vão te abandonar.
+3593580 3595380 (07) E tu vai ficar triste comigo.
+3597580 3599380 (01) Tadinha da Ju.
+3599580 3601380 (01) Tá ficando grande o comentário.
+3601380 3603180 (02, 01) Seu comentário ficou muito grande.
+3603380 3605180 (02, 01) Mas sabe que isso foi planejado.
+3605380 3606180 (02) Eu sei que foi planejado.
+3606380 3608180 (02) Isso foi muita maldade.
+3608380 3612180 (02) Pra minha invenção funcionasse.
+3612380 3615180 (02) Depois que entrei lá, acabei virando forjador da taberna.
+3615380 3619180 (02) Criando artefatos mágicos para os novatos que entram lá.
+3619380 3623180 (02) Por isso, para o Sr. Agostinim, criei o grandiosíssimo...
+3623380 3624180 (02) Abre parênteses.
+3624380 3627180 (02, 07) O Marcelo Luzid, ele continua.
+3627380 3630180 (07) Equipamento chamado de Marcelo Redutor.
+3630180 3632980 (07) Obrigado, Marcelo Luzid.
+3633180 3634980 (02) E ele continua. Ele não para.
+3635180 3636980 (02) O homem é uma máquina.
+3637180 3638980 (02) Marcelo Luzid continua.
+3639180 3639980 (02) Ouvi.
+3640180 3641980 (02) Oh, distintos convivas.
+3642180 3646980 (02) Pois desvelarei acerca de uma invenção magnífica.
+3647180 3650980 (02) A qual eu denominei de dispositivo Marcelo Redutor.
+3651180 3655980 (02) Ah, a sua aparência de semelhança a um artefato eletrônico ordinário.
+3656180 3658980 (02) Assemelha-se a um dispositivo comunicativo.
+3658980 3660780 (02) Contemporâneo.
+3660980 3662780 (02) Conhecido como smartphone.
+3662980 3670780 (02) Todavia, peço licença para mencionar que esse engenho ostenta propriedades singulares.
+3670980 3673780 (02) Quiçá até anômalas.
+3673980 3679780 (02) Ao ser ativado, o supracitado Marcelo Redutor emana uma frequência ímpar.
+3679980 3687780 (02) Que exerce seu domínio tão somente sobre os indivíduos agraciados com prenome Marcelo.
+3687780 3695580 (02) De maneira curiosa, aqueles que portam tal alcunha são acometidos por uma inabilidade em decifrar comentários.
+3695780 3699580 (02) Ou qualquer tipo de texto longânimes.
+3699780 3704580 (02) Apenas enquanto o referido dispositivo permanece em ação.
+3704780 3706580 (02, 07) Ah, sim.
+3706780 3710580 (02, 07) Se fossem os grandes caísse para mim, eu teria pulado todo comentário.
+3710780 3713580 (07) Mas já que não caiu, Marcelo Luzid continua.
+3713780 3717580 (07) Ademais, o Marcelo Redutor reserva uma funcionalidade adicional.
+3717580 3721380 (07) A qual impacta diretamente a interação dos usuários com os comentários inseridos no ciberespaço.
+3721580 3723380 (07) Obrigado, querido.
+3723580 3726380 (01, 07) Cara, não acaba nunca mais, pelo amor de Deus.
+3726580 3728380 (01, 07) Não. Agora entendi.
+3728580 3731380 (01) Porque uma certa pessoa comentou assim, meus pés, amiguinhos.
+3731580 3734380 (02, 01) Agora eu entendi porque colocou isso.
+3734580 3736380 (02, 01) Foi por causa desses comentários tão grandes.
+3736580 3738380 (02) Marcelo Luzid continua.
+3738580 3746380 (02) Repetidamente, pessoas chamadas Marcelo vêm se libertas da obrigatoriedade
+3746380 3751180 (02) de adentrar postagens que abrigam a opção de ler mais.
+3751380 3754180 (02) Ou que ostentam extensão demasiada.
+3754380 3760180 (02) Nessas circunstâncias específicas, recai sobre os ombros do acompanhante do portador
+3760380 3767180 (02) do dispositivo a responsabilidade de empreender a leitura minuciosa e, após tal feito,
+3767380 3773180 (02) fornecer ao mencionado indivíduo um sumário conciso da informação em questão.
+3773380 3776180 (02) Desse modo, observa-se que tais peculiaridades
+3776180 3780980 (02) acentuam de forma substancial a influência do Marcelo Redutor
+3781180 3786980 (02) nas dinâmicas comunicacionais, concedendo aos portadores do dispositivo
+3787180 3790980 (02) uma salvaguarda contra informações prolixas,
+3791180 3795980 (02) ao passo que transferem aos seus fiéis acompanhantes
+3796180 3800980 (02) o encargo de absorver e transmitir tais informações de maneira resumida.
+3801180 3805980 (02) Essa interação singular pode engendrar
+3805980 3812780 (02) situações de notório interesse e, simultaneamente, ensejar problemáticas
+3812980 3815780 (02) de natureza potencial.
+3815980 3821780 (02) O Marcelo Redutor ostenta a possibilidade de se erigir como uma ferramenta eficaz,
+3821980 3826780 (02) a qual otimiza a capacidade de gerir e gerir.
+3826980 3834780 (02) O Marcelo Redutor ostenta a possibilidade de se erigir como uma ferramenta eficaz,
+3834780 3840580 (02) a qual otimiza a leitura e a assimilação de informações para os agraciados,
+3840780 3846580 (02) com o nome Marcelo, aliviando-os do fardo imposto por textos longevos.
+3846780 3851580 (02) Contudo, não se pode negligenciar o efeito colateral que recai sobre aqueles
+3851780 3856580 (02) que os acompanham, instigando-os a uma sobrecarga de leitura
+3856780 3862580 (02) e uma necessidade constante de resolver o conteúdo para o mencionado Marcelo em questão.
+3862580 3868380 (02) Ah, que facinho! Essa minha invenção desperta em mim o forjador da taberna do Guaxiguinho.
+3868580 3871380 (02, 07) É um trava-língua que ele criou aqui.
+3871580 3873380 (02, 07) O Marcelo Luzito continua e escreve
+3873580 3876380 (07) Espero que eu tenha contado corretamente os comentários
+3876580 3879380 (01, 07) para que para mim não tenha surtido o efeito contrário.
+3879580 3881380 (07) Desculpe pela brincadeira, cara convidado.
+3881580 3886380 (08, 07) Não costumo comentar com frequência, então não tenha medo de me encontrar de novo.
+3886580 3888380 (07) Brincadeiras à parte, entrei na taberna.
+3888580 3890380 (07) Lá é realmente maravilhoso.
+3890380 3894180 (07) E os 10 reais é um valor simbólico perto das experiências que você terá.
+3894380 3899180 (07) E olha que eu nem mencionei a Dani empunhando um sábio de luz.
+3899380 3902180 (07) Muito obrigado, Marcelo Luzito.
+3902380 3907180 (02, 07) Acho que a sua máquina estica comentários para os convidados
+3907380 3909180 (07) ao invés de reduzir os comentários para mim.
+3909380 3913180 (02, 07) Mas assim, não estou reclamando, estou só dizendo.
+3913380 3915180 (02, 07) Foi legal essa brincadeira.
+3915380 3917180 (02) Me traumatizou, me traumatizou, mas foi legal.
+3917380 3920180 (02, 07) O próximo é tranquilo, pode ir lá.
+3920380 3923180 (02) Senhor Urso Urso.
+3923380 3928180 (02) Bom dia, boa tarde, boa noite.
+3928380 3930180 (02) Guaxamunidade.
+3930380 3932180 (02) Guaxa guaxa e convidado do dia.
+3932380 3936180 (02) Às vezes fico desacostumado a como falar humano.
+3936380 3937180 (07) Eu também.
+3937380 3939180 (02, 07) Ep maravilhoso.
+3939380 3941180 (02) Ep maravilhoso.
+3941380 3944180 (02) Para ser perfeito faltou um representante ursídio.
+3944380 3945180 (02) Mas tudo bem.
+3945380 3948180 (02) Vi mesmo agradecer por mais uma aventura incrível.
+3948380 3950180 (02) Então obrigado a todos os 50%
+3950180 3951980 (02) que fizeram parte dela.
+3952180 3953980 (02) Deixo mel e amoras.
+3954180 3955980 (02) Meio que acabei com o salmão, espero que não se importem.
+3956180 3957980 (02) Tudo bem, vou indo já.
+3958180 3962980 (02) Afinal, preciso achar um jeito de ir até a ilha ajudar meu pessoal animalístico.
+3963180 3964980 (02) Beijos e abraços.
+3965180 3965980 (07) Beijo, querido.
+3966180 3967980 (07) Abraço, obrigado pelo seu comentário.
+3968180 3971980 (02, 07) Salmão me lembra uma vez meu pai fez assim, era tipo um...
+3972180 3973980 (07) Era um desses feriado santo.
+3974180 3975980 (08, 07) Aí o pai fez um salmão maravilhoso.
+3976180 3977980 (07) Ele fica laranjinho assim, né?
+3977980 3979780 (08, 07) Era um camarãozinha milanesa.
+3979980 3981780 (08, 07) E daí eu perguntei, pô, por que isso?
+3981980 3985780 (07) O especial dele falou, não, é porque hoje é um dia santo e a gente não pode comer carne.
+3985980 3987780 (07) Aí eu pensei, mas aí deu o mesmo sacrifício.
+3987980 3989780 (07) Não estou reclamando.
+3989980 3994780 (07) Mas assim, acho, acho que você interpretou errado o nosso catolicismo.
+3994980 3996780 (07) Ah sim, estava maravilhoso.
+3996980 3998780 (07) Mas ok.
+3998980 4002780 (07) Assim, o pai faz isso mais vezes, queria mostrar.
+4002980 4007780 (07) Achei engraçado a maneira que ele escolheu para mostrar um dia.
+4007780 4009580 (07) Porque hoje é tão triste, hoje a gente não vai comer carne.
+4009780 4011580 (07) Vamos comer salmão, é isso.
+4011780 4012580 (02, 07) Mas estava gostoso?
+4012780 4013580 (02, 07) Porra, bom, bom, bom.
+4013780 4016580 (02, 07) Eu não sou muito de peixe e adorei, sabe?
+4016780 4017580 (02) Ah, então valeu a pena.
+4017780 4019580 (02, 07) Eu não sou muito de peixe porque eu cresci em Floripa.
+4019780 4021580 (07) Meu avô era pescador, meu pai era pescador.
+4021780 4025580 (07) Então eu era pequeno, a gente comia tainha, comia assim...
+4025780 4030580 (07) Era uma comida tão comum, que daí a gente cresce e fica...
+4030780 4033580 (02, 07) Acho que me perdi.
+4033780 4037580 (02, 07) Então vocês iam pescar geralmente às uma hora da tarde?
+4037580 4039380 (02, 07) Não, por quê?
+4039580 4041380 (02) Porque uma hora o peixe vem.
+4041580 4043380 (02, 07) Desculpa, Guaxa.
+4043580 4046380 (07) E é por isso que eu vou renovar o Gondra da Sara para mais dois episódios.
+4046580 4048380 (07) Gostei.
+4048580 4050380 (03, 07) É ruim, é ruim, é isso que eu gosto.
+4050580 4052380 (03) É péssimo.
+4052580 4054380 (07) Próximo comentário é do Alquimista da Garra do Corvo.
+4054580 4056380 (07) Bom dia, boa tarde, boa noite.
+4056580 4058380 (07) Espero que esteja bem, Guaxa.
+4058580 4061380 (07) Juvidade do dia, Guaxate e ouvintines.
+4061580 4063380 (07) Parabéns pelo excelente episódio.
+4063580 4065380 (07) Os jogadores, mestre e editor foram sensacionais.
+4065580 4067380 (07) Vocês são incríveis.
+4067380 4070180 (07) Uma nova história de origem da minha organização?
+4070380 4072180 (07) Ali é da Garra do Corvo, né?
+4072380 4073180 (07) Não.
+4073380 4077180 (08, 07) Quando Guaxa disse a descrição do xamã que tinha um cajado com um triângulo,
+4077380 4079180 (07) já pensei nesse número especial.
+4079380 4082180 (07) Ainda por cima, familiar, sendo um corvo.
+4082380 4084180 (07) O triângulo do cajado é um símbolo, né?
+4084380 4086180 (07) Vamos registrar aí, né? É um símbolo.
+4086380 4087180 (08, 07) Vamos à minha dúvida.
+4087380 4089180 (07) Não sei se já respondeu.
+4089380 4092180 (07) A pessoa que invadiu o corpo da rainha era o corvo ou o xamã mesmo?
+4092380 4094180 (07) Sim, essa mesma pessoa.
+4094380 4097180 (07) Até tinha minhas dúvidas, mas enrolei demais para comentar agora.
+4097180 4098980 (07) A gente tá em cima da hora.
+4099180 4101980 (07) Um grande abraço até o Guaxaverso.
+4102180 4103980 (07) Sarah, eu lembrei de uma.
+4104180 4106980 (08, 07) Você pode usar com alguém na taverna, aleatoriamente.
+4107180 4110980 (07) Eu vi, obviamente, eu li na internet essa, né?
+4111180 4112980 (08, 07) Mas como é que é?
+4113180 4116980 (08, 07) Eu cheguei na beta e segurei o braço dela.
+4117180 4118980 (08, 00, 07) Aí ela assim, o que foi?
+4119180 4121980 (07) Aí eu falei, é que tudo que é perfeito a gente pega pelo braço.
+4122180 4123980 (07) Ela não viu.
+4124180 4125980 (07) Pessoal, assim, fica...
+4125980 4127780 (07) Tem muita gente, mas não funcionou aqui.
+4127980 4129780 (01, 07) Poxa, mas essa foi tão boa.
+4129980 4131780 (07, 01) Porra, é boa, né? Tudo que é perfeito a gente pega pelo braço.
+4131980 4133780 (01, 07) Porra, é perfeito.
+4133980 4135780 (07, 01) Eu vou usar essa agora.
+4135980 4137780 (07, 01) Usa, usa, usa.
+4137980 4140780 (07) Aí você dá rasteira nele, né? Porque a gente joga lá em cima e embaixo.
+4140980 4142780 (07) Vamos lá, seu próximo comentário.
+4142980 4144780 (07) Não, você leu essa e eu leio a próxima, é isso?
+4144980 4145780 (02, 07) Eu não acabei.
+4145980 4147780 (02, 07) É, eu acho que você acabou de ler.
+4147980 4148780 (07) Eu não sei.
+4148980 4151780 (02, 07) Se tu falar não, porque eu que li, eu vou acreditar.
+4151980 4154780 (02, 07) Não, não, você leu agora esse último e...
+4154780 4156580 (02) Agora eu acho que sou eu que tenho que ler.
+4156780 4157580 (02, 07) Tá, então vai lá.
+4157780 4158580 (07) Tá acabando, beleza.
+4158780 4159580 (07) Tem mais dois, gente.
+4159780 4160580 (02, 07) Vamos lá.
+4160780 4161580 (02) Aê!
+4161780 4163580 (02) O próximo comentário é da Jéssica Pseta.
+4163780 4165580 (02) Boa noite, Guaxamunidade.
+4165780 4166580 (02) Primeiramente, agradecer.
+4166780 4168580 (02) Foi um episódio maravilhoso.
+4168780 4169580 (02) Aizmei.
+4169780 4171580 (02, 01, 07) Aizmei é muito bom.
+4171780 4173580 (01) Esse é muito bom mesmo.
+4173780 4178580 (02) No início eu fiquei me perguntando se os orques seriam bonzinhos nesse mundo.
+4178780 4180580 (02) Devido ao episódio das princesas orquídeas.
+4180780 4182580 (02) Mas depois logo caiu a ficha.
+4182780 4184380 (02) Carinha dela...
+4184380 4188180 (08, 02) Tem um mojizinho com um pinguinho assim de constrangido na cabeça.
+4188380 4192180 (02, 08) Só queria perguntar o motivo do Tiki ter feito o tigre.
+4192380 4198180 (08, 02) Pois acompanho o RP Guaxa, mas minha memória é igual a da peixinha Dory.
+4198380 4206180 (02, 08) E devo dizer que passei o episódio inteiro pensando em como seria um texugo, uma naja e uma pantera vivendo juntos em uma floresta.
+4206380 4208180 (02) Não seria muito bom, mas...
+4208380 4212180 (02, 07) É um mundo mágico, é isso.
+4212180 4217980 (02) Ademais, só agradecer a todos os 50%.
+4218180 4219980 (02, 07) O Psicopato comenta...
+4220180 4221980 (07) Só passando pra tocar quem tá lendo o comentário, Quack.
+4222180 4223980 (08, 07) Então esse foi o último, querido.
+4224180 4226980 (02, 08, 07) Assim, intenção maravilhosa.
+4227180 4233980 (07) Se tivesse mais um Marcelo Luzid aqui embaixo, tu tinha me salvo tranquilo.
+4234180 4235980 (07) Porra, assim...
+4236180 4237980 (02, 01, 07) Obrigado mesmo.
+4238180 4239980 (01) Eu teria chorado.
+4239980 4245780 (07, 01) Se eu tivesse continuado com esse tipo de comentário do Marcelo, eu choraria.
+4245980 4249780 (07) Uma coisa que eu sempre choro é quando eu vejo as pessoas maravilhosas que apoiam esse projeto.
+4249980 4251780 (07) Eu queria mandar um beijo especial para...
+4251980 4265780 (07) Nina Nunes Cadete, Mariana Arcanjo, Raquel Araújo da Silva, Samarone Cardoso, Matheus de Jesus, Diego dos Santos Gonçalves Pacheco, Enrico Reis Barbosa, Denis Kenji Nakano,
+4265980 4269780 (07) Uma pessoa que pediu pra eu não identificar. Obrigado, pessoa que pediu pra eu não identificar.
+4269780 4277580 (07) Pauline Angel Becker da Costa, Lucas Mariano, Leonardo Carvalho, Rafael Wallace e Charles Calisto Souza.
+4277780 4279580 (07) Muito obrigado a todos vocês que apoiaram esse projeto.
+4279780 4281580 (07) Eu queria perguntar pra Sarah.
+4281780 4286580 (02, 07) O personagem, assim, só teve um, né? Por enquanto. Então ele é o teu favorito. Qual o teu atributo favorito?
+4286780 4288580 (02, 07) Meu atributo favorito é o 4.
+4288780 4291580 (02, 07) 4, ok. É uma Shelly girl.
+4291780 4292580 (02) Sim.
+4292780 4295580 (07) Tu fez alguns NPCs? Ou mais de um?
+4295780 4296580 (07) Só um.
+4296780 4297580 (01, 07) Só fez um NPC?
+4297780 4298580 (07) Só um só.
+4298780 4299580 (01, 07) Qual foi o NPC que você fez?
+4299780 4300580 (07, 01) A recepcionista.
+4300780 4309580 (07, 08, 01) A recepcionista. Ah, tá. Foi o teste. Ajuda isso. A Sarah e o Zuzu são gente boa. Manda um NPC pra elas, né? Manda um NPC pra elas. É isso.
+4309780 4315580 (07) Então você não vai escolher o NPC. Então, personagens dos outros. Qualquer personagem jogador que seja o seu favorito.
+4315780 4318580 (02, 07) Ah, a Nerecy da Fabi Bell.
+4318780 4319580 (07) A Nerecy é maravilhosa.
+4319780 4320580 (02, 07) Dá.
+4320780 4322580 (02, 07) Aham. Nossa, seria invertido.
+4322780 4323580 (02, 07) Nossa.
+4323780 4325580 (02, 07) Eu amo esse personagem. Amo, amo.
+4325780 4329580 (07) Em teoria ela volta esse ano. Preciso ver onde eu vou encaixar isso, mas ela volta esse ano.
+4329780 4331580 (01) Ah, que maravilha.
+4331780 4335580 (07) Porque as pessoas lá no Spotify decidiram, votaram. É isso.
+4335780 4336580 (02, 07) Uhum.
+4336780 4339580 (07) Porque eu queria também. Eu só queria uma desculpa e eu usei o Spotify.
+4339780 4341580 (02, 07) Eu também votei lá.
+4341780 4343580 (02, 07) Qual o NPC favorito?
+4343780 4348580 (02) O NPC favorito, sem sombra de dúvida, a Nadine da Deba.
+4348780 4349580 (08, 02, 07) Ah.
+4349780 4352580 (02) Ela fez tão bem esse NPC que parecia que ela tava jogando junto com o pessoal.
+4352780 4353580 (08, 02, 07) Foi.
+4353780 4358580 (02, 07) Quando saiu editado, eu jurei. Eu pensei assim, não, a Deba tava junto nessa soma e ela não tava.
+4358580 4362380 (02, 07) Ela só recebeu um bloco de texto dizendo, vai.
+4362580 4364380 (07, 01) Foi incrível.
+4364580 4368380 (07) A gente só jogou com o Sasaki e com o Trota, então fica fácil.
+4368580 4373380 (01, 07) Não vale Zuzu e Andrei, porque esses dois eu já prometi que vão ter esse trio.
+4373580 4376380 (07) Não sei quando ainda, quando me surgiu uma ideia.
+4376580 4379380 (07) Mas eu achei tão legal duas dessas três pessoas.
+4379580 4384380 (07) E da amizade que a terceira pessoa tem com vocês.
+4384580 4386380 (08, 07) Porra, parece ser um trio muito legal.
+4386580 4388380 (07) E eu pretendo chamar.
+4388380 4390180 (07) Então, esquece esses três que já vão existir.
+4390380 4396180 (02, 07) Tirando esses dois e os dois que jogaram contigo, me diz outras duas pessoas que já jogaram RPG.
+4396380 4398180 (02, 07) Eu acho que tu queria jogar também.
+4398380 4400180 (02) Duas pessoas incríveis, maravilhosas.
+4400380 4403180 (02, 07) Uma delas eu até falei aqui, que é a Fabi.
+4403380 4406180 (02) E a outra é a Ju, que é incrível também, maravilhosa.
+4406380 4407180 (02, 07) Perfeito, perfeito.
+4407380 4414180 (08, 01, 07) O bom é que eu tirei já da frente, não precisava falar do Andrei, porque tu não ia falar de qualquer jeito.
+4414380 4416180 (08, 07) E depois ia ficar um clima ruim, né?
+4416380 4418180 (07) Então eu já tirei ele assim, porra.
+4418380 4420180 (07) É óbvio que eu ia te escolher, né Andrei?
+4420380 4422180 (00, 07) Mas o Guaxa tirou, é isso.
+4422380 4424180 (07) Eu estou aqui, eu estou aqui para ajudar.
+4424380 4425180 (08, 00, 07) É isso.
+4425380 4430180 (07) Obrigado a todo mundo que acompanha ao vivo na twitch.tv barra rpguaxa.
+4430380 4432180 (07) Obrigado a todo mundo que apoia esse projeto.
+4432380 4434180 (07) No rpguaxa só existem pessoas como vocês.
+4434380 4439180 (07) Assim, graças a vocês estou conseguindo pagar os episódios com antecedência.
+4439380 4441180 (07) Já estou criando uma gordurinha.
+4441380 4444180 (07) Quer dizer, não eu que já tenho bastante gordurinha.
+4444380 4448180 (07) Mas de episódios extras para não atrasar.
+4448380 4449180 (07) Para sair tudo certinho.
+4449380 4452180 (07) Para eu poder ter uma mini férias agora, final do mês.
+4452380 4456180 (07) Férias escolares com a minha esposa, com a Malu.
+4456380 4459180 (07) Então assim, muito obrigado a todos vocês que apoiam esse projeto.
+4459380 4461180 (07) E a rpguaxa é por conta de vocês.
+4461380 4464180 (07) E o guaxa verso mesmo é bem...
+4464380 4466180 (02, 07) Sarah, o guaxa verso existe?
+4466380 4467180 (02, 07) Não sei de nada.
+4467380 4468180 (07) Ok, ok.
+4468380 4471180 (07) Vamos manter essas pelo menos mais duas aventuras.
+4471380 4472180 (07) Um beijo para vocês, gente.
+4472380 4474180 (07) Até a próxima.
+4474380 4476180 (02) Beijo, pessoal.
+4476380 4478180 (02) Até a próxima.
+4478380 4480180 (unknown) Tchau, tchau.
+4506380 4507180 (07) Gravando.
+4507180 4507980 (07) Gravando.
+4508180 4508980 (08, 07) Gravando aqui.
+4509180 4509980 (08, 07) Gravando.
+4510180 4510980 (03) Gravando.
+4511180 4511980 (06) Oi, Zorzas.
+4512180 4512980 (06) Beleza?
+4513180 4514980 (06) Um salve para o editor.
+4515180 4515980 (03) Você viu que eu ia te falar isso.
+4516180 4516980 (03) Oi, Zorzal.
+4517180 4517980 (06) Tudo bom?
+4518180 4519980 (03) Ah, e tem outra coisa também.
+4520180 4520980 (03) Oi, Malu.
+4521180 4521980 (03) Eu estou na rp guaxa.
+4522180 4522980 (03, 07) Tá.
+4523180 4524980 (07) No caso, no guaxa verso provavelmente.
+4525180 4526980 (07) Porque isso não vai para o episódio final.
+4527180 4527980 (03, 07) É verdade.
+4528180 4528980 (03) Tudo guaxa verso.
+4531180 4531980 (07) Vamos lá.
+4532180 4533980 (03, 05) O Lulu que...
+4534180 4534980 (07) O que foi?
+4535180 4535980 (05) Léo.
+4535980 4538180 (05) Léo, eu estou desacreditando aqui.
+4538380 4543780 (07, 05) Vocês escutaram um episódio que chama as princesas orquídeas, né?
+4543980 4545580 (05) Os orques não são necessariamente do mal.
+4545780 4546580 (08, 05) Vocês sabem disso, né?
+4546780 4547180 (08, 05) Sim.
+4547380 4549380 (03, 05) Por isso eu estou também preocupada.
+4549580 4550780 (08, 06, 05) Mas aí é metagame, gente.
+4550980 4551380 (06, 07) Vamos embora.
+4551580 4553780 (06, 07, 05) Não é esses coelhos abatidos aí, meu amigo.
+4553980 4554780 (03, 07) Isso não tem explicação, não.
+4554980 4556780 (03, 07) Calma que a gente vai tentar resolver isso.
+4556980 4557780 (03, 07) Acorda tudo isso, Zorzal.
+4557980 4558780 (07) Voltando.
+4558980 4559780 (07) Quer que espere?
+4559980 4560380 (07) Ah, tá.
+4560580 4561780 (07) A gente espera, Sarah.
+4561980 4564780 (08, 03, 04, 07) Se alguém quiser ir ao banheiro tomar uma água, a hora é essa.
+4564780 4565780 (04, 07) Obrigada, pessoal.
+4565980 4567980 (04, 07) Eu vou abrir lá o portão para minha mãe, porque...
+4568180 4568980 (04, 07) Não, sem problema.
+4569180 4570980 (04, 07) Os cachorros começam a latir e eu fico em desespero.
+4571180 4571980 (04) Já volto.
+4572180 4573980 (04, 07) Só uma pausa, Zorzal.
+4574180 4575980 (07, 05) Eu vou pegar uma água também.
+4576180 4576980 (05) Ficarei por aqui.
+4577180 4578980 (05) Caramba, isso aí...
+4579180 4585980 (05) Eu sempre fico tentando adivinhar se a gente está muito dentro ou muito fora do que o guaxa imaginou.
+4586180 4588980 (06, 05) Agora eu acho que a gente está completamente fora.
+4589180 4591980 (06) Você acha que a gente está fora?
+4592180 4592980 (06) Mas isso é divertido, né?
+4593180 4593980 (06, 05) Sim.
+4593980 4596180 (05) E quero saber o que vai acontecer agora.
+4596380 4599180 (05) Será que esses bichos todos são da nossa tribo?
+4599380 4600380 (05) São a galera da nossa tribo?
+4600580 4604580 (05) Ou são, sei lá, a rainha trouxe da floresta mesmo?
+4604780 4606380 (06, 05) Estranho a rainha ter sumido, né?
+4606580 4610380 (06) Mas talvez ela queira que nós tenhamos a nossa aventura sem a interferência dela, né?
+4610580 4612580 (06, 05) É, eu acho que ela já não queria interferir.
+4612780 4613780 (06) Mas foi necessário, né?
+4613980 4614780 (06) Acho que foi um perigo maior.
+4614980 4615780 (06) Foi.
+4615980 4617780 (06) Mas isso provavelmente estava fora do plano?
+4617980 4619780 (06) Eu acho, provavelmente.
+4619980 4621780 (06, 05) Você sente isso?
+4621980 4622780 (05) Sim.
+4622780 4625380 (05) Os orques não são malignos no guaxa velho.
+4625580 4627580 (06, 05) Mas, mano, e os coelhos, velho?
+4627780 4628980 (05) Eles mataram para comer.
+4629180 4631580 (05) São viajantes, caçadores.
+4631780 4632580 (05) A gente também.
+4632780 4635980 (05) A gente está há um mês na floresta, a gente vai ter que matar para comer também.
+4636180 4641380 (06, 05) Mas nós somos vegetarianos, mas nós como animais também somos vegetarianos?
+4641580 4642580 (05) Ah, não sei.
+4642780 4649780 (05) Teria que perguntar para o guaxa, mas a cobra que eu me transformei, a cobra naja, inclusive ela come ovos.
+4649980 4650980 (06) Naturalmente, né?
+4651180 4651980 (05) É.
+4651980 4655980 (05) Ela come ovos, roedores e sapos.
+4656180 4661980 (06, 05) Porque também ele disse que os animais viviam em harmonia uns com os outros, que nenhum deles eram agressivos.
+4662180 4663980 (06) E como funciona a alimentação?
+4664180 4664980 (06) Isso que eu fico confuso.
+4665180 4667980 (06, 05) É, tem uma cadeia alimentar aí, né?
+4668180 4669980 (06, 05) Então, até onde vai essa harmonia, né?
+4670180 4671980 (06, 05) Até onde a fome bate.
+4672180 4675980 (05) É, não sei como a gente vai se alimentar nesse um mês aí, mas também não passou um mês, né?
+4676180 4681780 (06, 05) Então, mas também eu quero só ressaltar aqui que eu não queria matar nenhum orque.
+4681980 4684180 (06) E eu não matei nenhum, você pensou nisso?
+4684380 4686380 (06, 05) Você só arrancou uma mão.
+4686580 4688380 (06) Não, não, não, mas foi sem querer.
+4688580 4691580 (06) Você e a oásis mataram, hein, velho?
+4691780 4694580 (06) A oásis já foi na jugular, mano.
+4694780 4696780 (06) Você ainda não tem culpa porque é o veneno, né?
+4696980 4698980 (06) É, sei lá.
+4699180 4702180 (06) Mas talvez não fez um estrago no guaxaverso?
+4702380 4704980 (06, 05) Ah, não, o guaxa está sempre preparado para tudo.
+4705180 4708980 (06) Ah, ele foi fazer uma pausinha lá, ele já foi dar uma pensada, então.
+4709180 4710780 (06) Eu estou comendo, na verdade.
+4710780 4713780 (06, 05) Ah, tá, ele não está nem preocupado.
+4713980 4715980 (05) Você deve estar comendo e rindo aí.
+4716180 4720580 (06, 07, 05) Não, para mim ele já foi analisar o mapinha lá do guaxaverso e conectar as coisas.
+4720780 4724580 (06, 07) Não, não, assim, até agora nada saiu muito do que eu tinha planejado.
+4724780 4726580 (06, 07, 05) É, então tá bom, ótimo.
+4726780 4727780 (05) Então tá bom.
+4727980 4729980 (07) Mas e aí, guaxa, os animais se comem ou não?
+4730180 4734380 (07) Dentro da tribo, os animais que são familiares dos humanos, não.
+4734580 4737780 (07) Existem animais na floresta que daí eles caçam por fora.
+4737980 4738780 (07, 05) Mas, por exemplo...
+4738980 4740180 (07, 05) Atualmente a gente...
+4740780 4742980 (07, 05) A gente está se alimentando de animais, né?
+4743180 4743580 (05) É.
+4743780 4745780 (07, 05) Ah, entendeu, entendeu, entendeu.
+4745980 4747980 (07) Deixa a critério também, mas sim.
+4748180 4752580 (07) O que não acontece é, por exemplo, eu tenho um rato e daí o meu familiar é um rato,
+4752780 4755180 (07, 05) tem o familiar é uma cobra e tu vai lá e come o meu familiar, não pode?
+4755380 4762180 (06, 07, 05) Sim, não vou comer o familiar do meu amigo, mas os animais NPCs da floresta viram comida.
+4762380 4764580 (06, 04, 05) Ah, sim. Voltei, pessoal.
+4764780 4767780 (06, 04) Então, desculpa aí para os orcs.
+4767980 4770580 (06, 04) Foi só uma mãozinha e uma batatinha na perna.
+4770780 4773780 (04) Consegue me ouvir tranquilinho aí?
+4773980 4774780 (06, 07) Tranquilinho, tranquilo.
+4774980 4775780 (06, 07) Tudo certo, tudo certo.
+4775980 4778180 (07) Aproveitei para comer um negocinho, vamos lá.
+4778380 4781580 (03, 07) Eu fui na... Eu estava na mãe, né? Daí sobrou o panqueque que a gente trouxe.
+4781780 4784180 (03, 06, 07) Ah, tem que aproveitar. Coisa boa.
+4784380 4790580 (06) Ó, só antes eu quero ver se a carne do orc é suculenta, que aí eu já vou levar uma sobremesa, né, no caminho.
+4790780 4792180 (06) É uma carne dura.
+4792380 4793380 (06) Mas suculenta?
+4793580 4794380 (06) Não muito.
+4794580 4795580 (06) Ah, deixa lá mesmo.
+4795780 4798580 (03) Quando eu vejo ele fazendo isso, eu fico com uma cara tipo...
+4798780 4799580 (03) Nossa!
+4799580 4802580 (03) Eu não sabia que você era tão feroz assim.
+4802780 4804580 (04, 05, 08, 03, 06) É a fome, meu irmão.
+4804780 4806580 (08, 05) Estou em fase de crescimento.
+4806780 4815580 (05) Eu vou pegar um dos arcos e flechas que tem dos orcs e vou ficar estudando aquilo durante a noite na minha cama mesmo.
+4815780 4816580 (07) Beleza.
+4816780 4818580 (07) O que é importante para uma cobra é um arco, né?
+4818780 4821580 (03) Sim.
+4821780 4824780 (03) Por que não ele ficar em formato de arco?
+4824980 4825780 (03) Não é?
+4825980 4828580 (08, 03, 07) O nosso irmão ajudar a mira e a gente ficar lá...
+4828580 4830580 (03, 07, 05) Amar uma cordinha?
+4830780 4831580 (03) Aham.
+4831780 4833580 (07) Tirou quanto?
+4833780 4834580 (03, 07) Cinco.
+4834780 4837580 (03, 07) Ela até morreu no mundo real, olha só. Eu não estou ouvindo nada.
+4837780 4838580 (03, 04, 07) Ah, você está me ouvindo agora?
+4838780 4839580 (03, 04) Falou.
+4839780 4840580 (07, 05) Alô?
+4840780 4841580 (04, 07, 05) Vocês estão me ouvindo, gente?
+4841780 4843580 (04, 05) Eu estou ouvindo, Guaxa.
+4843780 4844580 (05) Putz, foi eu que caí?
+4844780 4845580 (05) Eu estou ouvindo.
+4845780 4846580 (05) Você está ouvindo a gente, Guaxa?
+4846780 4849580 (05) Ih, acho que o Guaxa caiu. O Guaxa não está ouvindo ninguém.
+4849780 4850580 (03, 05) Ah, sim.
+4850780 4855580 (03) É, gente. Morri.
+4855780 4856580 (03, 07) Alô?
+4856780 4857580 (03, 07) Olá.
+4857580 4858580 (07) Alô, e aí, Guaxa?
+4858780 4859780 (03, 07, 05) Agora sim. Está me ouvindo?
+4859980 4860780 (07, 05) Ouvindo perfeitamente.
+4860980 4861980 (07) Voltou? Está ouvindo a gente?
+4862180 4863980 (07, 05) Meu Deus, fiquei preocupado. Agora estou ouvindo.
+4864180 4866580 (07, 05) Só você que não estava ouvindo. A gente estava se ouvindo aqui.
+4866780 4869780 (07, 05) Ah, achei que a Sara tinha morrido no mundo real e que morreu aqui.
+4869980 4870980 (07, 05) É isso.
+4871180 4872580 (07) Voltou o Zorzal.
+4872780 4873780 (07) Sara, quanto é que tu tirou?
+4873980 4876780 (07) A lança atravessa a oásis.
+4876980 4878380 (03, 06) Cortou aqui para mim, gente.
+4878580 4879580 (03, 06, 07) Ih, rapaz.
+4879780 4880780 (06, 03, 05) Cortou, Guaxa.
+4880980 4883780 (06, 03) Cortou no oásis. Eu quero saber o que aconteceu.
+4883980 4885580 (06, 03, 05) Estou preocupada se eu fui...
+4885780 4886580 (06, 05) Logo agora.
+4886580 4888380 (03, 05) Olha a tensão nesse momento.
+4888580 4890580 (03) Se eu fui de diagonal para baixo, sabe?
+4890780 4891580 (03, 06) Caramba.
+4891780 4892980 (06) O que você foi aprontar, velho?
+4893180 4895580 (06) Nossa. Volta, Guaxa.
+4895780 4896780 (06, 03) E o Guaxa não volta.
+4896980 4899780 (03) Aquele som suspende.
+4899980 4900980 (06) Vamos acabar assim, né?
+4901180 4901780 (06, 05) Os caras.
+4901980 4902580 (06, 05) Irmãos.
+4902780 4903780 (06, 03, 05) Eu não estou ouvindo vocês.
+4903980 4905380 (03, 06, 05) Opa.
+4905580 4907180 (05) Voltou, Guaxa? Está ouvindo?
+4907380 4908580 (06, 05) Vocês estão usando a ideia.
+4908780 4910380 (06, 05) Agora ele ficou mudo, né?
+4910580 4912380 (03, 04) Opa. E agora?
+4912580 4913580 (06) Será que perdemos uma irmã?
+4913780 4915780 (03) Não, por favor.
+4915780 4916780 (03) Não fui eu.
+4916980 4917780 (03) Não fui eu.
+4917980 4918980 (03, 05) Foi um ratel de um braço só.
+4919180 4920180 (05) A gente está se ouvindo aqui, né, gente?
+4920380 4921180 (07, 05) É. Eu estou...
+4921380 4922380 (05) Caramba.
+4922580 4925180 (03, 07, 05) Que maldita essa humana, cara.
+4925380 4926380 (03, 07, 05) Nossa.
+4926580 4927580 (03, 07) Eu estou ouvindo.
+4927780 4928380 (03, 07, 05) Vocês estão me ouvindo?
+4928580 4929180 (03, 07) Agora sim.
+4929380 4930180 (03, 07, 05) Agora estou te ouvindo.
+4930380 4931380 (07, 05) Desculpa, gente.
+4931580 4932580 (03, 07, 05) Não sei o que está acontecendo.
+4932780 4934780 (03, 07, 05) Deixa eu fechar algumas coisas aqui.
+4934980 4936980 (05) Tenta desconectar e voltar, se quiser.
+4937180 4938780 (05) Não sei se estraga a gravação.
+4938980 4939980 (05) O Discord eu não posso fechar.
+4940180 4941980 (07) Eu vou fechar o Steam.
+4942180 4943580 (07) Está rodando em fundo, né?
+4943780 4945380 (07) Não sei o que ele está fazendo aqui.
+4945380 4946580 (07) Vou atualizar alguma coisa.
+4946780 4947780 (07, 05) Pronto. Desculpa.
+4947980 4948980 (00, 07, 05) Voltei.
+4949180 4950180 (07) Voltei.
+4950380 4951780 (07) O que vocês ouviram?
+4951980 4952980 (03, 07, 05) A oásis.
+4953180 4955180 (06, 07, 05) A lança atravessou ela.
+4955380 4957980 (06, 05) A lança atravessou a oásis e a oásis.
+4958180 4959180 (05) E você parou.
+4959380 4960380 (unknown) Ah, tá.
+4960580 4961580 (05) Bem nisso.

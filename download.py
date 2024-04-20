@@ -18,6 +18,12 @@ for item in soup.find_all("item"):
         .replace("?", "")
         .replace("!", "")
         .replace("%", "")
+        .replace(".", "")
+        .replace(";", "")
+        .replace("'", "")
+        .replace('"', "")
+        .replace("/", "")
+        .replace("\\", "")
         .lower()
         + ".mp3"
     )

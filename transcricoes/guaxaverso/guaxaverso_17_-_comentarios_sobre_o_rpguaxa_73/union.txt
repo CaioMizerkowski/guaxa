@@ -1,0 +1,1090 @@
+0 10120 (01) Se eu pegar essa ilha e esse helicóptero, e aí tudo faz sentido, porque aqui tem um zumbi e ali não tinha, e agora...
+10120 15000 (00) É isso! É isso! Eu sabia! Eu sabia! O Guaixaverso existe!
+15120 15960 (01) Como assim?
+16180 18140 (00, 01) Você entendeu a referência do último episódio?
+18260 18980 (00, 01) Olha só, faz tudo!
+18980 20020 (01, 00) Não, o Guaixa sabe o que faz!
+20020 20960 (01, 00) Espera, o que é o Guaixaverso?
+21000 22980 (00, 01) Era só uma questão de tempo.
+23080 24000 (00) Todos vão conhecer o Guaixaverso!
+24000 24520 (00) O Guaixaverso sempre existiu!
+24520 25440 (00) Até o nosso final!
+25480 26920 (02, 03, 00) Eu quero entender o Guaixaverso!
+27220 28560 (02) Alguém me explica o que é o Guaixaverso?
+28560 32020 (02, 03, 00) É, pessoal, não existe o Guaixaverso.
+32100 33720 (02, 00) Eu acredito no Guaixaverso!
+33780 36560 (03) Mas supondo que ele exista...
+37880 41540 (00) Guaixaverso, onde o que não existe é debatido.
+48100 52320 (03) Olá, eu sou Mazar Gostinim, mestre, produtor, idealizador, podcaster,
+52680 55560 (03) e aquele cara com um balão dentro do esgoto no dia de chuva que pergunta...
+56400 57400 (03) Você quer ouvir um podcast?
+58560 64040 (03) Para quem não sabe, o Guaixaverso é o nosso antigo escudo do mestre.
+64320 67380 (03) Aqui vamos ler os comentários e discutir as teorias do último episódio,
+67600 69360 (03) que no caso foi o episódio A Chuva.
+69700 72380 (03) Antes de mais nada, lembrar vocês que a gente tem canecas agora,
+72660 76600 (03) tem o link no post, e tem algumas lojas parceiras com cupons de desconto.
+76900 77800 (03) Pode dar uma olhadinha lá.
+77800 80800 (03) Mas sem enrolação, vamos às perguntas.
+81300 81740 (03) Najaf!
+82360 83600 (03) Olá, Marcelo, tudo bem?
+83940 84800 (03) Chamou de Marcelo.
+84940 85680 (03) Tô preocupado.
+85900 88220 (03) No momento que escrevo isso, estou na empresa que trabalho,
+88560 89740 (03) e está chovendo.
+90040 91860 (03) Muito forte aqui em Fortaleza.
+92460 93640 (03) Eu tenho uma capa de chuva,
+94020 97180 (03) mas por algum motivo, eu não tô achando que ela vai me proteger hoje.
+97480 98520 (03) Acho melhor esperar passar.
+98900 100480 (03) A do meu grupo que você escolheu para esse episódio,
+100840 103660 (03) gosto muito como o Felipe se entrega ao personagem.
+104180 107040 (03) Normalmente a maioria dos jogadores de RPG é uma situação de perigo
+107040 111720 (03) que, em teoria, o personagem não deveria saber porque ele não tem o conhecimento disso.
+112040 115120 (03) Subitamente tem a vontade de se preparar antes de fazer tal ação.
+115420 116380 (03) O Felipe não faz isso.
+116660 117300 (03) Pelo contrário.
+117600 118400 (03) Ele não deixa que o personagem se entregue.
+118400 118440 (03) Ele não deixa que o personagem se entregue.
+118440 118540 (03) Ele não deixa que o personagem se entregue.
+118560 121300 (03) Eu acho que o Felipe que ouviu o perigo descrito pelo mestre
+121300 124000 (03) dizer ao seu personagem o que está para acontecer
+124000 126100 (03) se aumenta muito a imersão na campanha.
+126580 127240 (03) Sim, perfeito.
+127400 128520 (03) É o que eu sempre digo.
+128660 129720 (03) Anotem no bingo aí, gente.
+130020 131440 (03) Metade do episódio são os jogadores.
+131740 135000 (03) E sim, o motivo do Felipe gravar um milhão de episódios
+135000 136780 (03) é porque o Felipe é maravilhoso, né, gente?
+137380 138920 (03) E traga a Ana mais vezes.
+139160 141400 (03) Ela já é minha participante preferida.
+141840 145200 (03) Rê horrores de como ela escolheu lidar com o notebook e o rádio
+145200 147440 (03) simplesmente desligando rapidamente.
+147440 148440 (03) Eu não vou dizer de novo
+148440 149940 (03) mas vocês sabem, né?
+150460 151540 (03) Os jogadores são metade do episódio.
+152180 155600 (03) Um grande abraço a dois metros e meio de distância para você
+155600 158160 (03) e obrigado por continuar fazendo esse conteúdo
+158160 160300 (03) que me ajuda a enfrentar esses tempos tão difíceis
+160300 161440 (03) que estamos passando.
+162220 162940 (03) Que bom que gostou, cara.
+163020 166120 (03) Espero que tu esteja inteiro depois da chuva.
+166700 168440 (03) Luiz Edivaldo Correia, uê baguacha!
+169460 170100 (03) Ótimo episódio.
+170560 172000 (03) Confesso que imaginei que seria um episódio
+172000 173440 (03) tiro, porrada, explosão.
+173720 175940 (03) Mas o spoiler...
+175940 177680 (03) lance da chuva ácida foi genial.
+177680 178420 (03) Obrigado.
+178440 179720 (03) Eu gosto de genial, gente.
+180300 183600 (03) Pensei, ah, os jogadores vão ficar barricados
+183600 185380 (03) e deixe os matadores virem.
+185620 185960 (03) Mas não.
+186380 188940 (03) A ideia de forçar os jogadores a saírem da casa foi ótima.
+189260 191160 (03) Não vou perguntar se tem ligação com outros episódios
+191160 192440 (03) afinal, gosto avesso não existe.
+192760 193460 (03) É verdade.
+193880 196640 (03) Ele botou piscadinha e eu digo piscadinha de volta.
+197140 198920 (03) Parabéns pra você, obrigado pelo seu trabalho.
+199360 200440 (03) Quero mandar um abraço pro Elton
+201020 203440 (03) do arroba manda.bolos
+203440 205180 (03) que sei que curte o podcast.
+205660 207280 (03) E um beijo pra minha esposa,
+207280 208140 (03) Daiane.
+208140 209760 (03) Se virou o quadro da Xuxa.
+210080 210980 (03) Mas manda bolos.
+211180 213040 (03) É uma boa ideia.
+213380 215360 (03) Jorge Marcos Santos Silva.
+215780 217440 (03) Uou, que episódio bom.
+217760 221500 (03) Não só pelo plot, mas pelo tom que você deu pra história, Guaxá.
+221700 222220 (03) Guaxá.
+222320 223920 (03) Ele botou um acento.
+224160 225340 (03) Parabéns mesmo, obrigado.
+225880 226440 (03) Spoilers.
+227040 229140 (03) Adorei os personagens também, em especial o Rico,
+229500 230800 (03) o jogador de 50 da aventura.
+231080 232840 (03) O que aconteceu com ele após essa aventura?
+233160 235700 (03) Conseguiu depor ou resolveu aceitar a oferta
+235700 237140 (03) de Pietro Dante?
+237500 237840 (03) Então,
+237840 239860 (03) depois que o episódio saiu pros padrinhos,
+240020 241360 (03) ele saiu na segunda, né,
+241500 242940 (03) pra vocês saírem na quinta-feira no feed,
+243260 245700 (03) mas na segunda-feira daquela semana ele já tava pros padrinhos,
+246000 247680 (03) já houve toda uma discussão sobre
+247680 249660 (03) o que aconteceria as 12 horas depois
+249660 252180 (03) e no fim a gente decidiu gravar uma aventura
+252180 253720 (03) que vai se passar
+253720 256220 (03) logo após o fim daquela.
+256600 257820 (03) Nosso querido amigo Rico está
+257820 259900 (03) num prédio, em segurança, tá tudo bem.
+260280 262320 (03) Dois outros agentes foram destacados
+262320 263300 (03) pra protegê-lo
+263300 264960 (03) e dessa vez vai dar tudo certo.
+265340 266880 (03) Aguarde essa história um dia no feed.
+267160 267760 (03) Ele continua.
+267840 269400 (03) Aliás, excelente nome de vilão.
+269960 272460 (03) Ele é alguma manifestação de um dos seres antigos
+272460 274160 (03) que quer consumir resistência?
+274520 277120 (03) Se não, quem ou o que ele é?
+277380 279140 (03) Só me vinha a imagem do cara ontem.
+279560 281460 (03) O nome foi a ajuda dos padrinhos.
+281560 283060 (03) Olha, novamente, como é bom ser padrinho.
+283360 284940 (03) A gente ficou discutindo lá nomes,
+285000 285740 (03) eles deram ideias.
+286040 287980 (03) Se não me engano, Pietro foi ideia minha
+287980 290760 (03) porque eu tava vendo Wandavision na época
+290760 293480 (03) que eu escrevia esse trecho da aventura, né,
+294060 296200 (03) e alguém deve ter sugerido Dante e tal.
+296200 297200 (03) Acho que foi a ideia,
+297840 298980 (03) coletivo lá com os padrinhos.
+299320 301040 (03) Mas tá aí, é um nome bem bacana, eu gostei também.
+301560 302040 (03) Quem ele é?
+302280 304680 (03) Por enquanto, oficialmente, ele é um ser humano
+304680 306000 (03) com muito dinheiro
+306000 307780 (03) que financia um grupo terrorista
+307780 311300 (03) com acesso a armas químicas, oficialmente,
+311600 315120 (03) já que o governo não acredita 100% na existência de magia.
+315820 319120 (03) E é tudo que a gente sabe no momento.
+319420 320380 (03) O que eu posso dizer pra vocês
+320380 322140 (03) é que você ainda vai ouvir esse nome
+322140 325160 (03) antes do episódio das próximas Horas do Rico.
+325640 327220 (03) Se bem me lembro, e se não me engano,
+327220 329480 (03) a Garra do Corvo está ligada com os seres
+329480 332760 (03) e a invocação no mínimo de energias referente a ele, certo?
+333300 336300 (03) Sim, a Garra do Corvo já apareceu em outros momentos
+336300 338380 (03) ligada a criaturas antigas.
+338940 341700 (03) Com certeza tem mais plotes que não me vem à cabeça agora,
+342040 343940 (03) mas se não me engano, eu já nem me lembro.
+344220 347000 (03) A chuva foi a manifestação mágica a algo tecnológico.
+347340 350980 (03) E é claro, o que foi a explosão pouco antes da chuva piorar.
+351280 354440 (03) Então, a explosão provavelmente causou a chuva.
+354440 356440 (03) Era algo tecnológico ou algo mágico?
+357220 357700 (03) Mágico.
+358000 359560 (03) Eu chutaria algo mágico.
+360040 363520 (03) Oficialmente, nos relatórios do governo, está tecnológico.
+363860 364740 (03) Excelente nome de episódio.
+364880 367340 (03) Adorei a edição, principalmente o som do micro-ondas
+367340 370700 (03) de fundo na conversa quando o computador estava sendo destruído.
+371420 371920 (03) Genial.
+372280 372980 (03) Eu nem notei isso.
+373120 373660 (03) Parabéns, editor.
+373840 374520 (03) Parabéns, Orzal.
+374840 377840 (03) Um final triste, mas me deixa feliz que terá ganchos dele.
+378120 379680 (03) Já falei, está confirmado.
+379780 382400 (03) Gravo semana que vem, inclusive, a continuação.
+382400 385680 (03) Está com o nome provisório de 13º andar,
+385920 387200 (03) porque é onde o Rico está.
+387220 389940 (03) Mas não conta para o Pietro.
+390480 392520 (03) Linda história com a sua filha, Guaxa.
+392900 394640 (03) Mesmo sendo simples, me emocionou mesmo.
+394740 395740 (03) Um forte abraço para vocês.
+396080 397440 (03) Tudo de bom e até mais.
+397700 398440 (03) Obrigado, querido.
+398560 399740 (03) Tudo de bom e até a próxima.
+400060 402520 (03) Bito Lugo Alexandre, só digo duas coisas.
+403520 404000 (03) Parabéns.
+404440 405100 (03) Excelente episódio.
+405440 407960 (03) Parabéns aos jogadores, ao editor e a você, Guaxa.
+408320 411920 (03) A minha dúvida é, os tentáculos que vêm aparecendo nos últimos episódios
+411920 415280 (03) é o mesmo monstro que circula entre os universos
+415280 417200 (03) ou são versões de um mesmo monstro?
+417480 418960 (03) Do estilo Poderoso N.
+419080 420580 (03) Existe um tentáculo verso?
+421200 423300 (03) Então, se está ligado a Garra do Corvo,
+423400 424760 (03) provavelmente é a mesma criatura.
+425100 427140 (03) Mas existem outras parecidas, tá?
+427540 428320 (03) Quais são quais?
+428860 430560 (03) Nem eu tenho total certeza ainda.
+430640 432900 (03) Preciso botar isso organizado num papel.
+433220 435880 (03) PS, a versão do Felipe desesperado é o melhor Felipe.
+435960 436600 (03) Eu concordo.
+436940 437520 (03) Eu concordo.
+437920 439220 (03) Gabriel Balardino escreve...
+440320 441640 (03) Olá, Guaxa. Como você está?
+442220 444620 (03) Estou na medida do possível, bem.
+444960 446560 (03) Queremos você bem descansado, tá?
+446560 447060 (03) Eu estou tentando.
+447060 447200 (03) Eu estou tentando.
+447220 452220 (03) Se você tiver alguém, sei lá, conhecer a dona do Magazine Luiz
+452220 455300 (03) e quiserem falar bem de mim, vocês podem lá falar bem de mim.
+455680 456920 (03) Porque, putz, seria maravilhoso.
+457000 459120 (03) Eu preciso viver só de fazer conteúdo.
+459760 462520 (03) Por sinal, parabéns ao Jovem Nerd, ao Azaghal,
+463020 464800 (03) que não escuta o Guaxa Verso.
+465120 466520 (03) Mas se um dia ouvirem, está aí.
+466760 467400 (03) Parabéns, assim.
+467480 468100 (03) Eu fiquei muito feliz.
+468360 470240 (03) Foi um podcast que eu acompanhei desde o começo
+470240 472220 (03) e que me motivaram a ser podcaster.
+473220 476440 (03) E por mais que eu não esteja ouvindo as caixas dos últimos anos, né?
+476440 477060 (03) Só um outro...
+477060 478060 (03) Outro episódio pontual.
+478380 479760 (03) Parabéns pelo que vocês alcançaram.
+480220 483400 (03) E Ponto Frio, Leorói Merlin...
+483400 484240 (03) O que mais tem aí?
+484560 485520 (03) Lojão do Povo.
+485820 486160 (03) Estamos aí.
+486600 487020 (03) Voltando.
+487300 489660 (03) Mesmo que isso eventualmente signifique uma pausa.
+489980 492780 (03) Uma pausa eu não vou fazer, por enquanto.
+493160 494320 (03) Eu estou gravando uma vez por semana.
+494460 496060 (03) O episódio sai tirando esse mês agora.
+496160 496980 (03) Está saindo um por mês.
+497340 498240 (03) Estou dando conta.
+498360 500420 (03) Quem pega o grosso mesmo da edição são os editores.
+500620 501720 (03) E são quatro editores.
+502060 503400 (03) Então até para eles é mais tranquilo.
+503820 504480 (03) Mas muito obrigado.
+504660 506240 (03) Fico muito feliz com o seu comentário, querido.
+506240 509800 (03) Estamos em tempos que precisamos parar e curtir uma chuva.
+509920 510280 (03) Ops.
+510480 510840 (03) É verdade.
+510980 512020 (03) Essa chuva não...
+512020 513800 (03) Quer dizer, se tu estiver dentro de casa é protegido.
+514400 515940 (03) Enfim, vão falar o de sempre.
+516080 517040 (03) Este episódio está lindo.
+517380 519880 (03) O som da chuva, que eu geralmente uso para dormir,
+520260 524060 (03) conseguiu transmitir uma urgência e terror com a cena que você construiu.
+524360 526660 (03) A ação de cada personagem chamou muita atenção.
+527040 529980 (03) Em alguns momentos eu achei que o Felipe estava junto com o Pietro.
+530320 531180 (03) A vassoura, gente.
+531180 533080 (03) A vassoura foi o item certo.
+533400 534420 (03) Vamos às perguntas.
+534500 534920 (03) Vamos lá.
+534920 536020 (03) Você tem um lemais?
+536240 536800 (03) Vamos ver.
+537120 538720 (03) Adorei a referência à chuva ácida.
+538800 541220 (03) Os estudantes sempre imaginam isso na aula de geografia.
+541520 543300 (03) Eu sou formado em geografia, para quem não sabe, gente.
+543400 545000 (03) Isso é uma informação que pode ser relevante.
+545700 550260 (03) Essa chuva foi conseguida a partir de magia ou de efeito tecnológico corrompido.
+550680 553040 (03) Como eu falei lá em cima, teve participação de magia.
+553380 556640 (03) Mas oficialmente, para os relatórios de governo, foi só tecnologia.
+557280 559980 (03) Se for isso, o Garra do Corvo tem acesso a armas biológicas já.
+559980 565240 (03) O que significa que eles cresceram muito como organização terrorista desde o primeiro atentado.
+565580 565980 (03) Eles estão tentando...
+566240 569060 (03) Eles estão tentando provocar o apocalipse que vimos acontecer em outras histórias.
+569380 570860 (03) Teremos mais Garra do Corvo esse ano.
+570980 572780 (03) Teremos mais Pietro Dante este ano.
+573220 576660 (03) E, assim, essa não é a pior coisa que eles fizeram.
+576960 578220 (03) E vocês vão ouvir, tá?
+578520 579780 (03) Fica esse aviso.
+580160 583540 (03) Mas eles estão muito, muito poderosos como organização.
+584040 590000 (03) Em especial pela grande quantidade de dinheiro que Pietro Dante está investindo em pesquisa,
+590220 591680 (03) em, sabe, um monte de coisa.
+591980 593460 (03) Então, guardem essa história.
+593460 596120 (03) Pietro Dante possui um vínculo com uma das criaduras...
+596240 598100 (03) As criaturas derrotadas, fugindo do ano do N.
+598520 601960 (03) Seria ele que está por trás desse efeito?
+602380 606680 (03) Então, a princípio, ele é um humano com muito dinheiro e conhecimento místico.
+606960 607380 (03) Ponto.
+607700 608800 (03) E é tudo que eu vou dizer por enquanto.
+609060 612380 (03) Outra coisa que tem me chamado a atenção é que, na história do Torneio dos Deuses,
+612780 614300 (03) apareceu um mundo dividido em quatro.
+614660 616520 (03) E nele havia um corvo que foi derrotado.
+616880 621080 (03) É muita viagem imaginar que essas criaturas têm a ver com criaturas derrotadas pelo N?
+621420 621620 (03) É.
+621840 622540 (03) Nesse caso, é.
+622760 625360 (03) Afinal, aquele mundo parece ser algo pré-divisão.
+625420 626200 (03) Ele é pré-divisão.
+626520 628200 (03) Existia um N só naquele mundo.
+628520 629400 (03) O que eu estou fazendo?
+629500 630580 (03) Não existe guaxaverso.
+630680 631060 (03) É verdade.
+631360 633000 (03) Não sei do que a gente está falando aqui.
+633420 634500 (03) Enfim, um grande abraço.
+634580 635060 (03) Se cuida.
+635360 638700 (03) Porque nós queremos que o grande guaxinim nos traga muitas histórias
+638700 642380 (03) e sinta tanta alegria e satisfação quanto a que ele nos traz.
+642760 645380 (03) Excitando Raul Seixas, eu perdi o medo da chuva,
+645480 647940 (03) pois a chuva caindo traz coisas do ar.
+648260 652920 (03) Aprendi o segredo da vida vendo as pedras que choram sozinhas no mesmo lugar.
+653180 654060 (03) Raul é um gênio.
+654160 655320 (03) Essa música é maravilhosa.
+655900 656220 (03) Embora ela não seja a única que eu conheço,
+656220 661220 (03) ela fala sobre os problemas da monogamia, né?
+661460 662340 (03) Mas é uma boa música.
+662740 664620 (03) Não cante para sua esposa, mas é uma boa música.
+664880 667060 (03) O Jonatas Pessoa colocou aqui.
+667120 667660 (03) Oi, guaxa.
+667700 668800 (03) Eu sou o Marcelo Guaxinim.
+669120 670300 (03) Ele é Jonatas Pessoa.
+670420 670920 (03) Olha que legal.
+671220 671640 (03) Foi bojo.
+671940 672380 (03) Oi, guaxa.
+672400 672980 (03) Tudo bem contigo?
+673140 675740 (03) Melhor agora que você comentou Jonatas Pessoa.
+676080 677860 (03) Aproveitei que estava chovendo agora pela manhã
+677860 681300 (03) para ouvir novamente o episódio cheio de tensão e incertezas.
+681600 683660 (03) O Zorzal fez um trabalho fantástico com os sonhos, viu?
+683980 684360 (03) Verdade.
+684360 686200 (03) O Zorzal mandou benzão nesse episódio.
+686220 687680 (03) E vai editar a continuação.
+688060 691460 (03) O barulho da chuva, que geralmente traz um sentimento de paz e tranquilidade,
+691800 695020 (03) foi transformado por você em algo que gera tensão e medo.
+695280 696620 (03) Como o rádio no Santa e Rio.
+696940 700480 (03) O sentimento foi parecido com o que tive com filmes Catástrofe,
+700780 703180 (03) como O Impossível e o Inferno de Dante.
+703820 705860 (03) Hoje os jogadores também estão de parabéns,
+705920 708740 (03) tomando decisões rápidas e se adaptando o tempo todo
+708740 712700 (03) a tudo que ia acontecendo e ainda tendo que lidar com o rico.
+713020 713500 (03) É verdade.
+713500 715940 (03) O Felipe às vezes jogava com os amigos,
+716300 717580 (03) às vezes jogava com o mestre,
+718040 719280 (03) mas tudo decisão do jogador.
+719620 721000 (03) Não sei se eu já falei alguma vez,
+721360 722520 (03) mas os jogadores são metade do episódio.
+722940 724640 (03) Agora vem as dúvidas e spoilers.
+725360 728420 (03) Os jogadores poderiam ter tentado reforçar alguma parte da casa
+728420 730740 (03) e se esconder por lá, chamando auxílio,
+730880 734240 (03) ou eles seriam forçados eventualmente a ter que abandonar a casa.
+734520 735140 (03) Isso é interessante.
+735280 736780 (03) Quando eu escrevi a aventura originalmente,
+737120 739860 (03) eu não imaginei eles abandonando a casa tão facilmente.
+740380 742540 (03) Eu imaginei que a casa aos poucos ia
+742540 744640 (03) cair no telhado, no segundo andar,
+744940 746200 (03) ia começar a escorrer pela esquerda,
+746220 749300 (03) a situação ia ficar cada vez pior
+749300 752140 (03) até eles decidirem fugir de alguma forma.
+752600 755560 (03) Mas a ideia original, quando eu escrevi a aventura,
+755900 757300 (03) era forçar eles saírem de lá.
+757820 760060 (03) É óbvio que eles poderiam ter
+760060 762060 (03) ideias muito boas
+762060 763560 (03) de como se proteger.
+763700 765980 (03) Eu não sei agora, mas os jogadores sempre são criativos.
+766360 768220 (03) E daria pra, sei lá, ter reforçado aquela casa.
+768620 769640 (03) Então eu tinha um trunfo
+769640 771800 (03) que existia andando a pé
+771800 773000 (03) por aquela região.
+773600 775780 (03) Tinha um cara, sabe, atirando nas casas,
+775780 776200 (03) atirando aí.
+776200 778640 (03) Até fazer os jogadores saírem.
+778940 780960 (03) Então ele poderia ser um problema também
+780960 781620 (03) mais pro futuro.
+782000 784160 (03) Mas como eles saíram muito cedo da casa,
+784500 786220 (03) algumas coisas mudaram ali.
+786540 788240 (03) Mas sim, a ideia era cada vez mais piorando
+788240 789140 (03) a estrutura da casa.
+789460 791440 (03) Eu imaginei, inclusive, que eles pudessem tentar correr
+791440 794100 (03) pra uma casa vizinha, uma casa mais forte,
+794220 796060 (03) alguma coisa mais resistente àquela chuva.
+796380 798400 (03) Mas no fim, eles decidiram pegar o carro
+798400 799060 (03) e ir embora.
+799580 801780 (03) E a gente adaptou a aventura
+801780 803140 (03) ao que os jogadores fizeram.
+803580 805060 (03) Continuando aqui, os tentáculos
+805060 806140 (03) tinham um aspecto fixo.
+806200 808320 (03) E físico, como realmente tentáculos
+808320 809400 (03) de um ser ancestral,
+809820 812460 (03) eram algo mais amorfo, como uma nelva,
+812780 813580 (03) ou um fluido,
+813980 816200 (03) ou simplesmente foi a forma que a mente dos personagens
+816200 818260 (03) absorveram o que estava acontecendo.
+818600 820400 (03) Digo isso porque um deles ativamente
+820400 822240 (03) jogou um carro, mas depois
+822240 824100 (03) eles sumiram, deixando no ar
+824100 824820 (03) um mistério.
+825480 827340 (03) Então, foi o que eu falei pros jogadores.
+827860 830240 (03) Talvez o cheiro daquela chuva pudesse também
+830240 832580 (03) afetar um pouco o que eles estavam vendo.
+833160 834280 (03) Talvez o tentáculo fosse
+834280 836020 (03) só imaginação, mas o tentáculo
+836020 838120 (03) virou o carro. Alguma coisa virou
+838120 840080 (03) o carro. Então, talvez os tentáculos
+840080 842040 (03) realmente estivessem lá. Fica aí
+842040 844380 (03) o mistério. Os jogadores poderiam ter removido
+844380 846240 (03) a manta resistente do carro da polícia
+846240 848500 (03) para tentar correr os três juntos até a saída?
+848880 849980 (03) Tá aí uma ideia que eu não pensei.
+850240 851840 (03) Talvez sim. Ah, mais uma coisa.
+851920 853620 (03) Aquela vassoura foi genial.
+854000 855600 (03) Um abraço. Concordo contigo.
+855880 857580 (03) E muito obrigado pelo seu comentário, querido.
+857760 859820 (03) O Samarone Cardoso colocou
+859820 861860 (03) Olá, Guaxa. Não terminei de ouvir ainda,
+862280 863700 (03) mas tive que vir fazer o meu
+863700 865380 (03) primeiro comentário aqui.
+865380 867020 (03) Então vamos a ela.
+867120 869860 (03) A pergunta mais importante de todos os episódios.
+870120 871480 (03) Ele tem ligação
+871480 873040 (03) com o episódio do Corvo?
+873380 875780 (03) Porra, Samarone. É a garra do Corvo, né?
+876100 877300 (03) Se é sobre a garra do Corvo
+877300 878760 (03) que tu tá falando, aí tem.
+879080 881300 (03) Muito obrigado por todos os episódios. Sinto-se
+881300 883220 (03) agradecido, elogiado e
+883220 884960 (03) fico roborizado. Fiquei.
+885200 887160 (03) Quer dizer, eu não vou ficar roborizado assim
+887160 889040 (03) totalmente porque eu tô meio puto com a tua pergunta.
+889320 891100 (03) Na verdade, não tem pontuação. Não foi a pergunta
+891100 892560 (03) que tu afirmou. Tá bom.
+892560 893760 (03) Beijo, Samarone.
+895380 896480 (03) Celino colocou
+896480 898580 (03) Olá, senhor Guaxa. Olá, senhor
+898580 900580 (03) Nicolas. Obrigado pela última aventura.
+900680 902860 (03) Foi maravilhoso e desesperador
+902860 905160 (03) perceber que os jogadores estavam confinados
+905160 906180 (03) nessa situação
+906180 908660 (03) sem nenhuma forma de receber ajuda externa.
+909000 910760 (03) Honestamente, nessa situação, eu teria abraçado
+910760 912880 (03) o Rico e chorado ainda mais alto
+912880 914580 (03) que eles. Kkkk
+914580 916560 (03) Bom. Então, cara, eu acho que eu também.
+916700 918100 (03) Eu não sei se eu abraçaria o Rico,
+918420 919900 (03) mas sentado e chorando, certeza.
+920420 922500 (03) Só que os jogadores, os outros dois, eram agentes
+922660 924260 (03) treinados, né? Então eles
+924260 926020 (03) sairiam melhor que a gente.
+926680 927740 (03) Impressão. Ele continua, né?
+927940 930500 (03) Impressão minha, o Pietro Dante teve alguma ligação com o senhor
+930500 932320 (03) Crocodile, a mãe do Luffy,
+932420 933080 (03) para quem não sabe.
+935380 936440 (03) Pessoal que tá acompanhando
+936440 938380 (03) um piso pela Netflix, o Crocodile
+938380 940160 (03) ser a mãe do Luffy é uma piada.
+940560 942720 (03) Ela não se confirma em momento algum
+942720 944880 (03) dos mil e tantos episódios.
+945320 946640 (03) E se alguém quiser que eu explique,
+946700 948040 (03) eu explico essa piada pra você.
+948420 950560 (03) Mas isso não é um spoiler porque isso nem existe.
+950560 952360 (03) Tá, gente? Mas eu adoro
+952360 954480 (03) essa teoria furada de que o Crocodile,
+954580 956160 (03) na verdade, é a mãe do Luffy.
+956320 958440 (03) Então, assim, é a referência
+958440 960340 (03) do homem poderoso com dinheiro, né?
+960900 962700 (03) Acho que o Crocodile não foi uma inspiração
+962700 964020 (03) direta, mas
+964020 965680 (03) poderia ser.
+966240 968240 (03) Consegui rever muita referência desde o começo do episódio.
+968380 970540 (03) Desde o título até a referência do Charuto
+970540 972420 (03) no vaporizador. Adoro consumir
+972420 973860 (03) coisas que me lembram a One Piece.
+974220 976260 (03) Ah, tá. Então eu vou fingir que é só pra ficar feliz
+976260 978420 (03) e continuar ouvindo. Tem chance de ele
+978420 980220 (03) não ser apenas um patrocinador,
+980520 982180 (03) mas um dos chefões do grupo terrorista?
+982480 984300 (03) Isso a gente ainda vai ter que descobrir. Tem que ver se rola
+984300 986500 (03) o julgamento, né? O poder climático dele
+986500 988460 (03) tem a ver com magia mesmo ou alguma
+988460 990600 (03) arma ancestral. Digo, tecnologia
+990600 992300 (03) mais avançada. Mais uma vez,
+992420 994160 (03) obrigado por mais uma história
+994160 996360 (03) que me deu muita ideia para escrever.
+996620 998380 (03) Até o próximo. Observação.
+998540 1000360 (03) Primeira vez comentando que se torna um hábito.
+1000680 1002140 (03) Que bom, Nicolas. Volte sempre.
+1002560 1004200 (03) E, a princípio,
+1004260 1005800 (03) Pietro Dante é um cara com muito dinheiro.
+1005800 1007760 (03) E é isso que eu posso dizer pra vocês.
+1008180 1009260 (03) Rafael Sochás.
+1009460 1012280 (03) So-cho-la. So-chá-cho-chás.
+1012360 1013720 (03) Rafael Soch...
+1013720 1015720 (03) O Rafael Sochache.
+1016100 1017140 (03) O Rafael. Oi, Rafael.
+1017620 1020500 (03) Fala, Guaxa. Meu episódio. Vamos direto ao que interessa.
+1020800 1021960 (03) Tem ligação com o Corvo?
+1022060 1023480 (03) Não, cara, não.
+1023900 1025840 (03) Brincadeira à parte, fiquei me perguntando
+1025840 1027920 (03) se essa tal garra do Corvo seria
+1027920 1030200 (03) alguma organização que surgiu em tempos imemoriais.
+1030540 1032120 (03) Quem sabe derivada de uma certa
+1032120 1034220 (03) família Corvo, já citada
+1034220 1036060 (03) em outros episódios. Esse episódio
+1036060 1037900 (03) me deixou algumas curiosidades também.
+1038240 1040500 (03) Que a personagem da Ana teria percebido
+1040500 1042320 (03) ao especionar a casa se a
+1042320 1043740 (03) mesma acertasse os dados.
+1044600 1046280 (03) Não vou lembrar. Agora, no calor
+1046280 1048220 (03) aqui, eu não vou lembrar. Se ela já
+1048220 1050320 (03) estava chovendo, ela ia identificar que a
+1050320 1052220 (03) casa não resistiria há muito tempo?
+1052600 1054180 (03) Que talvez alguns pontos já estavam com
+1054180 1055780 (03) goteiras? Eu não sei.
+1056240 1058540 (03) O que você havia planejado pra que era escoteira?
+1058780 1060000 (03) Que ela ia vender biscoito
+1060000 1062620 (03) e deixar os jogadores com uma pulga atrás da orelha.
+1062900 1064400 (03) Ponto. Era só isso.
+1064480 1066340 (03) Era só... Era, sabe...
+1066340 1068400 (03) Era o mágico fazendo eles olharem pra um lado
+1068400 1070520 (03) enquanto a magia acontecia do outro.
+1071360 1072240 (03) Basicamente, ela era
+1072240 1074140 (03) só uma escoteira vendendo biscoito.
+1074340 1076320 (03) Talvez criar alguma cena...
+1076320 1078120 (03) Se os jogadores ficassem muito tempo na casa, talvez
+1078120 1080180 (03) a escoteira tivesse se encostado num cantinho
+1080180 1082280 (03) onde a chuva não pega e agora ela tá chorando
+1082280 1084260 (03) lá fora. Podia ter criado alguma situação
+1084260 1086280 (03) assim, mas a função
+1086280 1088220 (03) básica dela era só passar
+1088220 1090180 (03) pela cena e fazer os jogadores
+1090180 1092460 (03) pensarem. O que foi, de fato,
+1092540 1093860 (03) aquela primeira grande explosão?
+1093960 1096660 (03) Teve uma explosão, que foi o que jogou nas nuvens
+1096660 1098180 (03) o que fez a chuva.
+1098640 1100200 (03) E daí, pro governo,
+1100380 1102100 (03) foi uma explosão totalmente tecnológica.
+1102240 1103760 (03) Mas a gente sabe,
+1103980 1106300 (03) só entre a gente, que tem magia no meio ali.
+1106500 1108040 (03) Obrigado novamente por mais um episódio, simplesmente
+1108040 1110200 (03) fantástico. Foi tão bom que tive que ouvir duas
+1110200 1112140 (03) vezes seguidas. Cara, fico
+1112140 1113640 (03) muito feliz. Obrigado, Rafael.
+1113960 1115620 (03) André! Ele botou
+1115620 1117820 (03) Amei esse episódio. Queria mais caos.
+1118160 1119540 (03) PS. Aprendi a fazer isso.
+1119860 1122220 (03) É sobre o spoiler, sobre esconder
+1122220 1124060 (03) a frase. Obrigado, André. Volte sempre
+1124060 1125260 (03) com seus comentários de uma frase.
+1125820 1128020 (03) Tô desistindo, colocou. Ainda firme e forte
+1128020 1130020 (03) escutando o RPG Guaxa. Obrigado, tô
+1130020 1131820 (03) desistindo. Não desista. Continua aí.
+1132240 1134240 (03) João Matias, Guaxa, mais um episódio
+1134240 1136440 (03) incrível. Parabéns. Fiquei tenso do começo
+1136440 1138180 (03) ao fim. Agora algumas dúvidas com
+1138180 1140040 (03) spoiler. No momento em que a Kátia
+1140040 1142180 (03) percebeu que a linha de comunicação
+1142180 1144280 (03) deles havia sido comprometida,
+1144580 1146400 (03) o que havia acontecido com o resto da equipe?
+1146820 1148160 (03) Eles continuavam em seus
+1148160 1150020 (03) postos, porém comunicáveis?
+1150460 1152180 (03) Ou todos foram de alguma forma neutralizados?
+1153320 1154320 (03) Existiam alguns agentes
+1154320 1156160 (03) pela cidade. Nas
+1156160 1158120 (03) minhas anotações estava que alguns deles
+1158120 1160060 (03) foram descobertos, porque quando começou
+1160060 1162220 (03) a chuva, eles acabaram saindo,
+1162240 1164140 (03) ou talvez eles estavam dando mais
+1164140 1165800 (03) na cara que os outros grupos.
+1166180 1167720 (03) Então, alguns já tinham sido descobertos,
+1167980 1170400 (03) outros ainda estariam lá como um trunfo, caso a aventura
+1170400 1172260 (03) precisasse, mas a ideia é que os
+1172260 1174580 (03) jogadores estavam sozinhos na chuva.
+1174880 1176260 (03) O carro do policial que tentou atirar
+1176260 1177920 (03) no rico estava coberto com uma lona
+1177920 1180240 (03) de tal material refletivo
+1180780 1182200 (03) que protegia da chuva.
+1182500 1183920 (03) Mas havia algo nos pneus
+1183920 1185660 (03) que ia proteger-se também?
+1186000 1187900 (03) Ou se o carro ficasse rodando sobre a chuva,
+1188220 1189700 (03) eles também estourariam eventualmente?
+1189700 1191640 (03) Era mais forte? Era mais resistente?
+1191640 1194000 (03) Ou por ser de um material tecnológico específico?
+1194260 1195860 (03) Ou talvez tenha alguma outra proteção?
+1196420 1197580 (03) Mas o carro resistiria
+1197580 1199560 (03) a mais tempo. Assim, não pra
+1199560 1201160 (03) sempre, mas mais tempo.
+1201440 1203580 (03) O Henrique Dairique colocou
+1203580 1205440 (03) Olá, tudo bom? Tudo.
+1205820 1207100 (03) Queria falar que o episódio foi
+1207100 1209620 (03) espetacular, como sempre. Obrigado.
+1209980 1211540 (03) Também queria falar que bem agora, na hora
+1211540 1213400 (03) que estou comentando, aqui está
+1213400 1214720 (03) chovendo.
+1215380 1217580 (03) Agora sempre que chover, vou lembrar desse episódio.
+1218140 1219600 (03) E me fez lembrar
+1219600 1221620 (03) de vir aqui e deixar meu agradecimento
+1221620 1223360 (03) fazer meus dias mais felizes.
+1223800 1225420 (03) E também que eu adoro chuva.
+1225700 1227860 (03) Principalmente quando tem trovão. Não me julgue.
+1228200 1229440 (03) Não te julgo. Eu gosto de chuva.
+1229800 1230620 (03) Não gosto de trovão.
+1230860 1232680 (03) Canis Magnus colocou
+1232680 1235760 (03) Então, vejam só onde uma curiosidade sobre química
+1235760 1237660 (03) me levou. Há muito tempo atrás,
+1238040 1239880 (03) procurando pelas interwebs da vida
+1239880 1242160 (03) algumas informações sobre tabela periódica,
+1242280 1244040 (03) fui descobrir o que era um podcast
+1244040 1245720 (03) ouvindo um tal de sci-cast
+1245720 1247940 (03) sobre o método científico.
+1247940 1249760 (03) A partir dali, ouvir sci-cast
+1249760 1251280 (03) virou um hábito e acabei conhecendo
+1251280 1253620 (03) um time de divulgadores que se tornaram
+1253620 1255060 (03) exemplos importantes pra mim.
+1255540 1257980 (03) E também conheci muitos outros projetos dessas pessoas.
+1258300 1259940 (03) Projetos que acompanho ainda hoje
+1259940 1261540 (03) e que continuam me apresentando
+1261540 1263420 (03) novidades sempre boas.
+1263720 1265160 (03) O Missangas e o R.P. Guaxa
+1265160 1267500 (03) são alguns deles. Assim como o contador
+1267500 1269180 (03) de histórias, o Podice e outros,
+1269500 1271060 (03) Guaxa, seu trabalho continua sendo
+1271060 1272900 (03) inspirador. Cara,
+1273240 1275160 (03) sem palavras, não sei nem o que te dizer.
+1275540 1276900 (03) Só agradecer o teu carinho
+1276900 1279380 (03) e espero estar produzindo cada vez mais
+1279380 1281260 (03) com mais qualidade pra continuarmos
+1281260 1282640 (03) merecendo esses elogios.
+1282960 1285060 (03) Sobre o episódio A Chuva, infelizmente
+1285060 1287360 (03) meu lado professor de uma disciplina sobre materiais
+1287360 1289040 (03) e processos de fabricação
+1289040 1290760 (03) acabou atrapalhando um pouco
+1290760 1293300 (03) no primeiro momento. Pôs uma substância
+1293300 1295180 (03) que não corrói metal, não corrói
+1295180 1297120 (03) plástico ou borracha. Assim como
+1297120 1299100 (03) o contrário também não ocorre. Mas logo
+1299100 1301120 (03) deixei de ser chato e lembrei que estamos
+1301120 1303020 (03) numa realidade paralela do Guaxinim e que
+1303020 1305360 (03) essa tal chuva corrói, ela corrói
+1305360 1307320 (03) fim. Mas daí no finalzinho mesmo
+1307320 1309060 (03) formulei minha teoria. Tudo,
+1309060 1311140 (03) personagens e cenários são criações da Nick,
+1311260 1313380 (03) não. E assim o nome
+1313380 1314940 (03) dessa garotinha, certo?
+1315340 1317300 (03) Sim, é Nick. E são feitos de açúcar!
+1317800 1318600 (03) Pam, pam, pam!
+1319000 1321020 (03) A chuva, a magia não mudou a chuva.
+1321340 1323000 (03) A chuva transformou todos em açúcar.
+1323160 1325000 (03) O que acham dessa teoria? Não, não é isso,
+1325140 1327420 (03) mas obrigado, assim. Eu sabia
+1327420 1329340 (03) que eu deveria ter pesquisado mais sobre ácidos,
+1329720 1331040 (03) mas se eles tivessem um carro
+1331040 1333180 (03) de pneu infinito, a aventura teria
+1333180 1334600 (03) acabado com metade do tempo, né?
+1334980 1336980 (03) Amplexos remotos a você, cara guaxa.
+1336980 1338940 (03) Vida longa e próspera. Muito obrigado, querido.
+1339220 1341220 (03) E ele comenta aí embaixo mais uma coisinha,
+1341260 1342980 (03) Ah, sim, tem mais uma coisa.
+1343280 1345400 (03) O Caronte, barqueiro do inferno, é um velho
+1345400 1347260 (03) bem decrépito. Mesmo na obra
+1347260 1349220 (03) de Dante. Mas curti o fato
+1349220 1351440 (03) de na tua versão aí, ele é o próprio
+1351440 1353340 (03) Pietro Dante. E pelo
+1353340 1355200 (03) visto, mais bem abençoado.
+1355500 1357220 (03) Ou terei errado? A referência
+1357220 1359280 (03) é essa, tá? A referência
+1359280 1361560 (03) é essa. Mas para na referência.
+1361960 1363340 (03) Evandro, me divirto com
+1363340 1365020 (03) clubli... clubismo.
+1365600 1367080 (03) Hã? Evandro, me divirto com
+1367080 1369240 (03) clubismo. É isso o teu apelido?
+1369240 1371240 (03) Tá bom. Rapaz, que episódio?
+1371780 1373340 (03) Dúvida. O Dante foi capaz
+1373340 1375380 (03) de fazer chover em uma zona inteira
+1375380 1377300 (03) um ácido que acabou com a região toda.
+1377580 1378780 (03) Por aí. O...
+1378780 1381420 (03) O Felipe perguntou quantas pessoas morreram
+1381420 1383380 (03) por causa dos personagens dele. Sei lá, eu chuto
+1383380 1385280 (03) no mínimo mais 5 mil. Ele fez
+1385280 1387380 (03) tentáculos e emergiram do céu e entrou
+1387380 1388840 (03) na cabeça do Rico duas vezes.
+1389620 1391340 (03) Afinal, tudo isso aconteceu e fizeram
+1391340 1393320 (03) uma experiência com os sonhos do Rico. Tudo aconteceu.
+1393820 1395220 (03) Infelizmente pro Rico e
+1395220 1397540 (03) pras prováveis 5 mil habitantes que não tiveram
+1397540 1399340 (03) muita sorte, aconteceu.
+1400000 1401100 (03) Por que alguém tão poderoso ficaria
+1401100 1403220 (03) preocupado com o tribunal? É dito lá no
+1403220 1405220 (03) começo. Ele, na verdade, ele tá
+1405220 1406980 (03) em... ele tá escondido
+1406980 1409020 (03) num país em que ele banca lá
+1409020 1411280 (03) o governo, né? E o governo diz que
+1411280 1413220 (03) não tem motivo pra extraditá-lo
+1413220 1415000 (03) porque ele é inocente e tal.
+1415520 1417180 (03) A ideia do tribunal é muito mais
+1417180 1419200 (03) pra mostrar que ele é
+1419200 1421020 (03) culpado pra apresentar provas,
+1421340 1423400 (03) pra fazer o mundo se unir,
+1423680 1425520 (03) já que o mundo tá bem desunido nesse ponto,
+1425860 1427300 (03) pra entender que esse cara
+1427300 1429320 (03) é realmente o perigoso. A ideia
+1429320 1430920 (03) é essa. O André Trapani colocou...
+1430920 1432880 (03) Eu acho que o julgamento nem seria
+1432880 1434900 (03) tão problemático. Ele tem boas chances
+1434900 1437040 (03) de comprar um juiz, mas penso que a exposição
+1437040 1438960 (03) seria muito ruim pra ele. Não tem
+1438960 1440840 (03) nada que fizesse e que
+1440840 1443320 (03) desfizesse isso. Aí, olha só. Obrigado, André.
+1444240 1444680 (03) O Enoch.
+1445160 1446820 (03) Eu gosto pra caramba desses episódios de
+1446820 1449300 (03) suspense e mistério. Especialmente
+1449300 1450680 (03) esses de aparência
+1450680 1453000 (03) Lovecraftiana. E, cara, que episódio
+1453000 1455100 (03) maravilhosamente tenso. Os efeitos
+1455100 1456940 (03) sonoros estavam incríveis. Parabéns ao
+1456940 1459220 (03) editor. É o que eu sempre digo. Metade do episódio
+1459220 1460900 (03) é o editor. E, claro, como sempre,
+1460920 1462520 (03) parabéns ao Guaxa e aos jogadores
+1462520 1464960 (03) pela história incrível. Muito obrigado,
+1465080 1466840 (03) querido. Sem mais delongas, vamos debater
+1466840 1468780 (03) e teorizar sobre o Inexistente.
+1469140 1470860 (03) Spoilers à frente. Não necessariamente
+1470860 1472960 (03) tem a ver com o episódio, mas algo nele
+1472960 1475180 (03) me fez pensar. Os seres pré-
+1475180 1476620 (03) Big Bang, exceto N,
+1476980 1478940 (03) geralmente são retratados como malignos.
+1479240 1480980 (03) Mas, talvez, no ponto de vista deles,
+1481380 1483060 (03) poderiam ser apenas criaturas perdidas
+1483060 1484240 (03) em busca de sobrevivência?
+1484820 1486740 (03) Os humanos, para eles, seria algo equivalente
+1486740 1489160 (03) a gado pra nós? Então eles apenas
+1489160 1490880 (03) os usam como meios
+1490920 1492640 (03) para, no fim, voltar a serem
+1492640 1494680 (03) completos? Até sinto uma
+1494680 1496580 (03) certa empatia por eles nesse contexto.
+1496800 1498500 (03) É, obviamente, quando você é uma criatura
+1498500 1500700 (03) de bilhões de anos com
+1500700 1502620 (03) um poder gigantesco, que
+1502620 1504680 (03) já foi, sei lá, um
+1504680 1507140 (03) sozinho a energia de uma galáxia,
+1507740 1508880 (03) talvez você não não visse
+1508880 1510880 (03) os seres humanos com o mesmo peso
+1510880 1512660 (03) que os seres humanos se veem.
+1512900 1515080 (03) A garra do covo são cultistas que servem
+1515080 1516520 (03) aos seres pré-Big Bang, certo?
+1516920 1518820 (03) Certo. Eles fazem isso por
+1518820 1520560 (03) poder, devoção ou outro motivo.
+1520920 1523000 (03) Poder e devoção. Alguns são
+1523000 1525320 (03) mais religiosos, entre aspas,
+1525620 1526940 (03) outros querem vantagens
+1526940 1528960 (03) dessas criaturas. O que foi aquela explosão
+1528960 1530880 (03) no começo? Teve algo a ver com a chuva? Como eu falei,
+1531220 1532960 (03) foi o que iniciou a chuva, foi aquela
+1532960 1535080 (03) explosão. Jogou pro céu, pras nuvens,
+1535140 1537120 (03) o que seja, pro governo
+1537120 1539060 (03) algo tecnológico, mas pra gente, a gente
+1539060 1541280 (03) sabe que envolvia também um pouco de magia.
+1541620 1542940 (03) Se o Pietro tinha todo aquele
+1542940 1545020 (03) poder, por que temer o julgamento a ponto de fazer
+1545020 1546780 (03) tudo isso? Foi o que eu comentei antes.
+1547180 1548100 (03) A mídia,
+1548540 1550840 (03) o mundo inteiro considerar ele
+1550840 1553220 (03) um bandidão, por mais que muita gente já saiba,
+1553860 1554900 (03) ou pelo menos desconfie,
+1555200 1556960 (03) não tem nenhuma prova de que
+1556960 1558880 (03) ele é realmente a cabeça
+1558880 1560300 (03) desse grupo terrorista.
+1560680 1562720 (03) E ele tá em países que ele comprou
+1562720 1564740 (03) todo mundo lá, e que não querem
+1564740 1566220 (03) extraditá-lo, nem tirá-lo.
+1566560 1568840 (03) O mundo precisaria do povo
+1568840 1570820 (03) ou de convencer alguns governos
+1570820 1572900 (03) a quebrar algumas soberanias, talvez?
+1573340 1574940 (03) Então, esse julgamento é muito
+1574940 1576780 (03) mais político do que realmente
+1576780 1578660 (03) um julgamento, um julgamento.
+1578780 1580660 (03) E assim, sim, algo bem exagerado
+1580840 1582380 (03) algo bem exagerado, mas
+1582380 1584260 (03) é uma aventura de RPG, né gente?
+1584520 1586440 (03) Esse final é aberto, será que veremos outra aventura
+1586440 1589020 (03) com a testemunha em sua busca por sobrevivência?
+1589320 1590920 (03) Como eu falei lá em cima, sim.
+1591280 1592260 (03) Vou gravar semana que vem.
+1592560 1594500 (03) É isso aí, foi mal pelo tamanho, me empolguei.
+1594660 1596240 (03) Abraços e até os próximos episódios.
+1596480 1597640 (03) Até os próximos episódios, querido.
+1597880 1600240 (03) Daniel Alexander. Olá Guaxa, como vai?
+1600360 1602640 (03) Espero que bem. Adoro esses episódios
+1602640 1605060 (03) no qual os personagens ficam sem muitas opções.
+1605520 1606560 (03) Sempre os jogadores tomam
+1606560 1608680 (03) ações desesperadas, isso deixa a narrativa
+1608680 1610680 (03) muito boa. Principalmente pelos episódios
+1610840 1612280 (03) com a atmosfera mais tensa.
+1612520 1613920 (03) Vamos nós com as perguntas.
+1614200 1616220 (03) Se a gente foi capaz de criar uma nuvem com chuva ácida,
+1616520 1617980 (03) por que ele simplesmente não aumentou
+1617980 1619820 (03) além dos limites da cidade?
+1620160 1621440 (03) Essa cidade tem algo especial?
+1622000 1624140 (03) Na verdade, o que ele podia fazer tinha um limite
+1624140 1627080 (03) de tamanho, né, que envolvia aquela cidade.
+1627420 1628640 (03) Ele poderia ampliá-la?
+1629020 1630740 (03) Não de improviso, não assim
+1630740 1631900 (03) de uma hora pra outra.
+1632360 1634720 (03) Imagino que a magia seja bem específica
+1634720 1636920 (03) sobre a área ou a parte tecnológica,
+1636980 1638820 (03) sobre o raio que ela podia
+1638820 1640820 (03) cobrir, então não dava pra ampliar.
+1640840 1642880 (03) Não dava pra ampliá-la ali, mas o Pietro Dante
+1642880 1644740 (03) terá uma ideia pra continuação
+1644740 1646600 (03) que talvez seja melhor até.
+1646940 1649080 (03) E não, não vai ser um outro episódio sobre chuva,
+1649300 1650460 (03) tá? Tenho algo
+1650460 1652200 (03) mais legal a guardar.
+1652520 1654640 (03) A chuva já ocorreu em outros lugares do mundo
+1654640 1656300 (03) ou dos paralelos universos?
+1656600 1658400 (03) Vídeo que o policial disfarçado já estava todo
+1658400 1660580 (03) paramentado para uma coisa teoricamente
+1660580 1662700 (03) desconhecida. Talvez a Garra do Corvo já tenha
+1662700 1664340 (03) usado essa chuva em menor escala,
+1664720 1666820 (03) já conhecesse os seus efeitos,
+1667260 1668640 (03) mas na escala de uma cidade
+1668640 1670600 (03) nunca tinha sido usada, em lugar nenhum.
+1670840 1672480 (03) O nível de acidez da chuva era muito alto.
+1672780 1674620 (03) Então, o professor de Química já brigou comigo, gente.
+1674900 1676080 (03) Eu não vou responder isso.
+1676340 1678780 (03) Quanto tempo uma pessoa aguentaria sem nada
+1678780 1680480 (03) naquela chuva? Pois fiquei imaginando
+1680480 1682740 (03) porque os personagens não tentaram virar o carro
+1682740 1684740 (03) que estava capotado. Eu acredito
+1684740 1685880 (03) que alguns poucos minutos,
+1686500 1687960 (03) não sei te precisar disso.
+1688280 1690360 (03) Uma última coisa. Sempre que ouço
+1690360 1692480 (03) o Corvo na RPG Guaxa, imagino
+1692480 1694680 (03) esse personagem. Tem uma foto no post,
+1694960 1696780 (03) eu achei engraçado. Dá uma olhada
+1696780 1698940 (03) lá. Um fuerte abraço.
+1699280 1700660 (03) Um fuerte abraço, irmão.
+1700660 1700700 (03) Um fuerte abraço, irmão.
+1701060 1702500 (02, 03) Hermano. Hermano? Não sei.
+1702720 1704960 (03) A gente já definiu que o espanhol no Guaxaverso
+1704960 1706720 (03) ele é diferente do espanhol do mundo
+1706720 1708700 (03) real, né, gente? Isso, por sinal,
+1709120 1711040 (03) vocês vão descobrir num episódio futuro.
+1711340 1712460 (03) O André colocou
+1712460 1714700 (03) Muito bom episódio. Incrível como depois
+1714700 1717000 (03) de uma chuva de acertos críticos
+1717000 1718660 (03) só sobrou um terço de jogadores
+1718660 1720960 (03) vivos. No fim, após o contador
+1720960 1722720 (03) acordar, fica a impressão que
+1722720 1724720 (03) tudo não passou de um sonho. Não vou fazer
+1724720 1726980 (03) essa pergunta. É melhor deixar no ar mesmo.
+1727280 1728880 (03) Então, oficialmente aconteceu.
+1728880 1730660 (03) Muita gente morreu. Vamos botar esse peso
+1730660 1732380 (03) nas costas do Rico. E teremos
+1732380 1734640 (03) outro episódio e talvez tenhamos mais respostas.
+1735240 1737000 (03) André Trapani. Muito bom episódio.
+1737580 1738820 (03) Fiquei espantado em como
+1738820 1740240 (03) os jogadores foram persistentes.
+1740560 1742440 (03) Eu não tava conseguindo ver saída.
+1742860 1744780 (03) Achei que o Felipe ia desistir quando o cara
+1744780 1746760 (03) capotou. Não tem nenhuma teoria
+1746760 1748540 (03) do Guaxaverso para confirmar.
+1748700 1750960 (03) E não só porque passei longe no último,
+1751300 1752840 (03) mas queria saber qual era a função
+1752840 1755120 (03) da escoteira. Era só pra aumentar a tensão?
+1755480 1756880 (03) Tinha alguma coisa nos biscoitos? Não, gente.
+1756880 1758420 (03) Era só biscoito. Só biscoito.
+1758600 1760640 (03) A ideia era realmente botar a pulga atrás da orelha.
+1760660 1762980 (03) Dos jogadores e de você, ouvinte.
+1763320 1765040 (03) E, pelo visto, eu consegui.
+1765280 1766220 (03) Também adorei o Dante.
+1766700 1768660 (03) Você faz vilões muito bons. Obrigado.
+1769240 1771140 (03) PS. Só nos comentários.
+1771320 1772760 (03) Já vi duas coisas pra marcar
+1772760 1774520 (03) no bingo. Risos. Por fim,
+1774660 1777000 (03) queria só deixar registrado que a Debbie é demais.
+1777380 1778600 (03) Mesmo não estando nesse episódio.
+1778820 1780920 (03) A Debbie é demais. Mesmo não estando nesse episódio.
+1781080 1782880 (03) Então, muito obrigado, Debbie. E obrigado a André
+1782880 1784020 (03) por mais esse comentário.
+1784300 1786880 (03) O Ricardo Santos colocou o primeiro comentário da vida.
+1787360 1788820 (03) Nossa, nunca comentou nada, Ricardo.
+1789180 1790540 (03) Obrigado por escolher esses
+1790540 1791200 (03) passos, então.
+1791480 1794760 (03) Guaxa só tem que agradecer por horas e horas de diversão e dar parabéns
+1794760 1796740 (03) pela qualidade dos episódios. Mais uma vez,
+1796760 1799200 (03) uma história excelente. Obrigado, Ricardo.
+1799700 1800380 (03) Erika Sá.
+1800680 1802960 (03) O terror de escutar esse episódio no dia mais chuvoso
+1802960 1804340 (03) do mês aqui na minha cidade.
+1804660 1806620 (03) Desculpa, Erika. E ainda de quebra, a chuva
+1806620 1808980 (03) ficar bem intensa quando os personagens percebem
+1808980 1810280 (03) que a chuva era ácida.
+1810820 1812500 (03) A imersão na trama foi total.
+1812820 1814460 (03) Então, já não tem o cinema
+1814460 1816900 (03) 5D, agora é o podcast 5D.
+1817380 1818800 (03) Eu já escutei todos os episódios e amo
+1818800 1820500 (03) o RPG Guaxa. Espero um dia poder me
+1820500 1822960 (03) tornar madrinha nesse projeto maravilhoso.
+1823220 1824840 (03) Muito obrigado, Erika. Muito obrigado.
+1824960 1826620 (03) Só desse seu comentário,
+1826720 1828700 (03) desse seu carinho, já ajuda bastante
+1828700 1830620 (03) a gente aqui a continuar lançando episódios.
+1830920 1832320 (03) O Rodrigo Azevedo. Bom dia!
+1832580 1834120 (03) Parabéns pelo episódio. O Marcelo Guaxinim.
+1834460 1836400 (03) História tensa. Gostei do clima de
+1836400 1838580 (03) 24 horas. De ter que resolver as coisas
+1838580 1840800 (03) rapidamente. Os jogadores estão excelentes.
+1841200 1842740 (03) Pena que a Ana
+1842740 1844780 (03) e o Gilles não me deixaram.
+1845100 1846580 (03) Eu que dei a voz pro NPC assassino.
+1846580 1848560 (03) Olha aí, um padrinho que deu a voz
+1848560 1850340 (03) pro personagem. Mataram o Felipe.
+1850500 1852360 (03) Que bom que você não matou o Felipe. Teremos uma
+1852360 1853960 (03) continuação, né, gente? Pergunta.
+1854500 1856440 (03) Com esse episódio, podemos concluir de vez
+1856440 1858300 (03) que a Garra do Corvo usa algum poder
+1858300 1860040 (03) místico relacionado às criaturas ancestrais?
+1860360 1862380 (03) Sim, vocês podem. Esse episódio
+1862380 1864300 (03) ocorre no mesmo universo dos episódios dos
+1864300 1866460 (03) Pactos? Olha aí, boa pergunta.
+1866880 1868440 (03) Não sei. Eu diria que
+1868440 1870420 (03) muito provavelmente sim. Um grande abraço.
+1870460 1872340 (03) Um grande abraço, Rodrigo. Obrigado pela
+1872340 1874500 (03) sua voz de NPC. Seja
+1874500 1876540 (03) como o Rodrigo grave sua voz
+1876540 1878380 (03) de NPC. Falando nisso, eu quero
+1878380 1880180 (03) agradecer aqui aos novos padrinhos. Ao
+1880180 1882340 (03) Francisco Anacleto, ao Vinícius
+1882340 1884260 (03) Giazoni, ao
+1884260 1886360 (03) Wanderson Almeida de Melo
+1886360 1888380 (03) ou Wanderson, ao Lício José
+1888380 1890140 (03) Peralta dos Santos, ao José
+1890140 1892140 (03) Ergo Salve Jr., ao Matheus Dias
+1892140 1894060 (03) Franco Pereira, ao Alan
+1894060 1896480 (03) Alves Silva, ao Vinícius Gomes de Oliveira,
+1896840 1898280 (03) ao Vitor Hugo Alexandre,
+1898760 1900140 (03) ao Johnny Kayashima e
+1900140 1902180 (03) ao Roger Correa Costa. Muito obrigado
+1902180 1904320 (03) a todos vocês. Pessoal, tá rolando
+1904320 1906120 (03) lá no Twitter votação qual é o melhor
+1906120 1907640 (03) episódio dos últimos quatro.
+1908020 1910120 (03) São votação como aquelas que me ajudam a pensar
+1910180 1912080 (03) qual é os próximos episódios,
+1912400 1913900 (03) o que pode ter continuação ou outra.
+1914160 1916280 (03) Quando tava com os 90 votos, A Casa
+1916280 1917720 (03) e a Chuva tava bem empatado.
+1918040 1920080 (03) Agora eu tô olhando aqui, A Casa
+1920080 1921860 (03) deu uma leve disparada à frente.
+1922440 1924360 (03) A Chuva e o Tesouro de Gariboy tá empatado
+1924360 1926340 (03) ali, lutando pela segunda opção.
+1926940 1928200 (03) E tem a flechada do Seu Zé
+1928200 1930020 (03) que tá um pouco mais atrás. Então,
+1930140 1931820 (03) se você gostou do estilo de episódio,
+1932240 1934040 (03) queria uma continuação ou mesmo pra dizer
+1934040 1936120 (03) qual o seu episódio favorito, vai
+1936120 1937840 (03) lá no Twitter e vota.
+1937840 1939880 (03) Ele tá valendo por sete
+1940180 1941840 (03) quando eu lancei. Então, quando eu descer esse
+1941840 1944020 (03) Guaxaverso, vocês têm aí mais uns três,
+1944140 1945920 (03) quatro dias pra tá votando também.
+1946220 1947780 (03) Então, não deixe de lá votar,
+1948140 1949300 (03) deixar a opinião de vocês.
+1949900 1952320 (03) Só mais uma coisinha. A Manga de Faria
+1952320 1953940 (03) lá do Universo Simulado
+1953940 1955740 (03) lançou o Catarse
+1955740 1957800 (03) do Tordesilhas
+1957800 1959900 (03) Árvore das Artes Mágicas.
+1960160 1962000 (03) Eu já anunciei aqui quando teve o
+1962000 1963180 (03) Catarse do primeiro
+1963180 1965940 (03) Tordesilhas, né, do livro básico.
+1965940 1967480 (03) E agora eu tô anunciando.
+1967880 1970120 (03) Ele apresenta um novo cenário de uma nação,
+1970180 1971960 (03) um vertical. Ela foi erguida
+1971960 1973920 (03) no fóssil de uma árvore colossal.
+1974220 1976160 (03) Tem novas magias, tem um negócio
+1976160 1977740 (03) das tatuagens mágicas,
+1978060 1980300 (03) tem uma aventura, tem bastante coisa nova
+1980300 1982140 (03) que, obviamente, o ideal é
+1982140 1984020 (03) tu usar no próprio Tordesilhas, né?
+1984580 1985760 (03) Mas por ser um cenário
+1985760 1987760 (03) de aventura, um cenário de campanha,
+1988080 1989840 (03) tu pode adaptar pra outros sistemas, incluindo
+1989840 1992100 (03) o Guaxinize Gambierras, mas o ideal é que tu use
+1992100 1993800 (03) junto com o Tordesilhas. Tá lá.
+1993800 1995860 (03) Eu vou deixar o link aqui no post pra vocês
+1995860 1998140 (03) conhecerem. Como sempre, é um projeto
+1998140 1999720 (03) que eu recomendo
+1999720 2001560 (03) você ir lá dar uma espiadinha.
+2001960 2003900 (03) Muito obrigado por todo o apoio e carinho de vocês.
+2004020 2005820 (03) Muito obrigado por tudo. Obrigado pelos seus comentários
+2005820 2007820 (03) aqui, pelos seus comentários lá no
+2007820 2009940 (03) Twitter, pelos seus comentários
+2009940 2011980 (03) nos grupos do Telegram, etc.
+2012320 2014140 (03) e tal. Isso acaba motivando
+2014140 2015960 (03) a gente bastante a continuar cada vez mais.
+2016320 2017920 (03) Muito obrigado do fundo do coração.
+2018360 2019640 (03) Um beijo pra vocês, se cuidem
+2019640 2021100 (03) e até o próximo episódio.
+2029720 2031720 (unknown) Música
+2031720 2032160 (unknown) Música
+2032160 2034220 (unknown) Música
+2034220 2034820 (03) Música
+2034820 2035380 (03) Música
+2035380 2035560 (03) Música
+2035560 2035600 (03) Música
+2035600 2035620 (03) Música
+2035620 2035660 (03) Música
+2035660 2035700 (03) Música
+2035700 2035780 (03) Música
+2035780 2035800 (03) Música
+2035800 2035820 (03) Música
+2035820 2035880 (03) Música
+2035880 2035920 (03) Música
+2035920 2035940 (03) Música
+2035940 2036100 (03) Música
+2036100 2036120 (03) Música
+2036120 2036180 (03) Música
+2036180 2036260 (03) Música
+2036260 2038220 (00, 03, 01) Pietro Dante. O Pietro Dante.
+2038740 2041720 (03, 01, 00) O que é bom de atirar tá dirigindo,
+2041840 2043020 (03) o que é bom de atirar tá atirando.
+2043220 2043360 (03, 01) É.
+2043740 2044940 (03, 01) Tocando o Tokyo Drift.
+2050640 2052100 (03) Ah, voltando à cena.
+2052500 2053540 (03) Kelvin e
+2053540 2055520 (03) Katia. Fala dois dados cada um.
+2055720 2057900 (02, 03, 01) Cada um. Beleza. O Rico não.
+2058160 2058760 (01) Ah, o Rico não.
+2058760 2060120 (01) Ela não se considera o rico
+2060120 2062940 (03, 01) Não tem nada que você possa fazer
+2062940 2065340 (03, 01) Tu tem que ir lá embaixo?
+2065680 2067640 (01) É, desculpa, eu preciso de
+2067640 2068580 (01) Dois minutinhos
+2068580 2070500 (00, 01) Tudo bem, a gente se desce
+2070500 2072340 (01) Vou aproveitar para ir ao banheiro
+2072340 2075660 (00, 01) Petrodante, filho da puta
+2075660 2077500 (01, 00) É até bom que eu vou pensando
+2077500 2078420 (01) Vai pensando
+2078420 2081460 (00) Nossa guacha
+2081460 2082900 (00) Desesperador
+2082900 2085400 (03) Tudo surgiu porque minha filha
+2085400 2086520 (03) Ultimamente tem medo de chuva
+2086520 2089300 (03, 00) Faz sentido
+2089300 2091440 (00) Eu tinha medo de chuva quando eu era pequena
+2091440 2092680 (00) Mas eu tinha mais medo de vento
+2092680 2095440 (03, 00) Inclusive quando eu comecei a narrar e falei da chuva
+2095440 2096580 (03) Ela correu e olhou a janela
+2096580 2098200 (03, 00) Mas tá um sol bem forte lá fora
+2098200 2100960 (03, 00) Aqui começou a chover bem na hora que você começou a narrar
+2100960 2103240 (00) Eu ia falar, começou a chover baixinho
+2103240 2104920 (00) Mas acho que não vai sair na gravação não
+2104920 2105980 (00) Mas aí você já começou
+2105980 2107980 (00) Nossa, que conveniente
+2107980 2110360 (02, 03, 00) Vou botar o microfone na janela
+2110360 2113800 (02, 03, 00) Nossa, eu tô falando e gesticulando
+2113800 2114420 (02) Todas as vezes
+2114420 2116060 (02, 00) Como se eu imaginasse
+2116060 2119960 (02, 00) Eu tô imaginando a Katia mais durona
+2119960 2121160 (00) Fechadona
+2121160 2123960 (00) Sem muita empatia, sem muito tempo
+2123960 2126120 (00) Então eu não tô gesticulando muito
+2126120 2127960 (00) Mas quando eu fiz a ameaça silenciosa
+2128580 2129640 (00) Eu ficava toda hora
+2129640 2131240 (00) Fazendo vários gestos
+2131240 2134340 (03) A vida de vocês agora depende do Felipe
+2134340 2134700 (03, 00) Sim
+2134700 2137700 (03, 00) Tem outra coisa pra acontecer que daí independe dele
+2137700 2139100 (03) Porque vocês falharam no teste também
+2139100 2140020 (03, 00) Ai droga
+2140020 2143920 (02, 03, 00) Nossa, a gente tá falando dos testes importantes
+2143920 2144720 (02, 00) É então
+2144720 2146560 (02, 00) Ah, pra olhar um negócio lá fora
+2146560 2147300 (00) Dois acertos
+2147300 2149960 (00) Pra evitar que uma coisa terrível aconteça
+2149960 2150340 (00) Né
+2150340 2153940 (02, 00) Ah, pra você ver se a casa tá com a estrutura boa, crítico
+2153940 2154980 (02, 03) Sim
+2154980 2156980 (03) A ideia é que se vocês continuassem na casa
+2156980 2160280 (03) Ia começar, aquela escada ia virar uma cachoeira
+2160280 2162980 (02, 03) Ia começar a molhar o andar ali até vocês ir embora
+2162980 2164540 (02, 03) Foi a melhor escolha mesmo ter saído
+2164540 2165000 (02, 00) Sim
+2165000 2168320 (03, 00) O Felipe falou que ia ter uma hora que ele ia ter que abrir a porta pra alguém
+2168320 2168900 (03) Tudo bem
+2168900 2169620 (03, 00) Ah, beleza
+2169620 2172960 (00) Eu tava lembrando que eu e o Felipe a gente tem mesa hoje do Zorzal
+2172960 2174000 (00) E eu não tinha nem dado
+2174000 2174520 (03, 00) Ai sim?
+2174520 2175120 (03, 00) Cinco, ele falou
+2175120 2176500 (03, 00) Ah, é cinco?
+2176620 2177240 (00) Então tá ótimo
+2177240 2177860 (03, 00) Perfeito
+2177860 2179400 (03) Onde estávamos, Felipe?
+2181200 2183280 (01) Estávamos em um lugar alagado
+2183280 2184120 (01) Sim
+2184120 2186700 (01) O Pietro Dante estava numa gôndola
+2186700 2190160 (02, 03, 01) E ele me fez uma proposta bem interessante
+2190160 2193220 (03, 01) Quando você acordar, se falar Pietro Dante
+2193220 2195240 (03) É me perdoe, né?
+2195540 2196780 (01) Não, eu te perdoo, na verdade
+2196780 2198740 (03, 01) É, ele ia saber onde tu tava
+2198740 2199340 (03, 01) Perfeito

@@ -1,0 +1,437 @@
+0 10120 (02) Se eu pegar essa ilha e esse helicóptero, e aí tudo faz sentido, porque aqui tem um zumbi e ali não tinha, e agora...
+10120 15000 (02, 01) É isso! É isso! Eu sabia! Eu sabia! O Guaxaverso existe!
+15120 15960 (01) Como assim?
+16180 18120 (02, 01) Você entendeu a referência do último episódio?
+18260 18980 (01) Olha só, faz tudo!
+18980 20020 (02, 01) Não, o Guaxaverso sabe o que faz!
+20020 20960 (01, 00) Espera, o que é o Guaxaverso?
+21000 22980 (01, 00) Era só uma questão de tempo.
+23080 24000 (01) Todos vão conhecer o Guaxaverso!
+24000 24520 (01) O Guaxaverso sim que existiu!
+24520 25460 (01) É o nosso final!
+25460 27140 (02, 01, 00) Eu quero entender o Guaxaverso!
+27220 28560 (01) Alguém me explica o que é o Guaxaverso?
+28560 32020 (02, 01, 00) É, pessoal, não existe o Guaxaverso.
+32080 33720 (02) Eu acredito no Guaxaverso!
+33760 36560 (00) Mas supondo que ele exista...
+37880 41520 (02) Guaxaverso, onde o que não existe é debatido.
+44860 51200 (00) Olá, eu sou o Marcelo Guaxinim, a mãe do RPG Guax, embora no mundo real eu seja pai, e não mãe, né?
+51700 55360 (00) Mas você sabia que no RPG do Alien, o narrador é chamado de mãe?
+55360 57300 (00) Eu achei, nossa, genial!
+57800 58360 (00) E fica pra vocês...
+58560 63260 (00) O Guaxaverso, pra quem não sabe, é aquele lugar onde eu leio os comentários do último episódio.
+63680 68560 (00) No caso, o referente de hoje é o episódio especial de Dia das Crianças, os Ratinhos de Alcantarilha.
+69520 75040 (00) Teve pouquíssimos comentários, porque como foi um episódio que eu gravei um mês antes, ele saiu um mês antes pros padrinhos, né?
+75300 76840 (00) Na verdade, ele tá pronto há muito mais tempo.
+77300 83060 (00) Mas como ele foi feito com muita antecedência, já upado no servidor, eu não tinha ideia de que existia o Guaxaverso.
+83120 86240 (00) Então, no final dele, eu não pedi comentários e vocês não comentaram.
+86240 88540 (00) Então, eu vou ler os poucos comentários que tem.
+88560 91660 (00) Vou dar uma conversada rápida de onde é que veio o episódio e tal.
+92020 96400 (00) Como eu comentei no próprio episódio lá, a ideia começou com uma ideia simples.
+96800 99260 (00) A Debbie tava meio desanimada lá na Europa, né?
+100160 101500 (00) Quarentena, longe de todo mundo.
+101940 103400 (00) E eu perguntei como é que eu podia animar ela.
+103860 105420 (00) Confiei ela pra jogar uma aventura.
+105740 108140 (00) E ela poderia escolher o tema e os jogadores.
+108560 111420 (00) E ela me disse que ela queria jogar com alguma coisa que não fosse humana.
+111740 116840 (00) E que ela queria a participação da Shelly e do Felipe Queiroz.
+116840 118340 (00) Eu joguei Mouse Guard.
+118560 121880 (00) Há um tempo atrás, num evento que teve em Curitiba, quando a gente podia sair na rua, né?
+122080 125380 (00) Vi algumas imagens de ratinhos em outros RPGs.
+125480 127640 (00) Teve também uma mesa, isso eu não comentei no episódio original.
+128000 131560 (00) Teve uma mesa lá dos padrinhos, que, se não me engano, o Mestre do Senhor Nuvem.
+131960 133700 (00) Se eu tiver errado, me corrijam nos comentários, gente.
+134040 138180 (00) Mas era uma aventura de guerra, em que os animaizinhos iam pra guerra.
+138380 140740 (00) Tinha rato, tinha outros animais e tal.
+140800 143500 (00) Eu ouvi essa aventura lá no Discord, dos nossos padrinhos.
+143780 145280 (00) E foi uma das inspirações também.
+145280 148280 (00) A aventura original que eu escrevi, ela era muito mais política.
+149400 152300 (00) Ela seria a ideia de que o gato ficaria na cidade,
+152400 155480 (00) os jogadores sairiam pra resolver o negócio da represa dos castores.
+156200 161540 (00) E quando voltassem, o rato seria amado por todos, teria cartazes, sabe?
+161900 163820 (00) As pessoas iam amar aquele gato.
+164120 165720 (00) Que, obviamente, seria um problema.
+166120 169240 (00) Sabe quando a ovelha fica feliz com o lobo?
+169660 171300 (00) Não vamos entrar em política agora.
+171640 173240 (00) Mas a ideia era totalmente essa.
+173240 175200 (00) Só que os jogadores, quando souberam que era o ratos,
+175340 177280 (00) eles abraçaram toda essa ideia lúdica,
+177280 180080 (00) no jeito de falar, nas ações que tomaram.
+180500 183340 (00) E eu vi, ok, eles querem uma aventura mais simples.
+183720 187220 (00) E muita coisa da aventura eu acabei improvisando na hora, mudando.
+187580 193120 (00) O próprio guachaverso ali, foi meio de última hora a decisão de colocar ele na aventura.
+193600 196280 (00) Mas, quando a gente terminou ela de gravar,
+196320 198700 (00) os jogadores estavam tão empolgados, e eu também,
+199040 201580 (00) que eu disse, olha, ao invés de tornar isso um episódio regular,
+201960 204480 (00) vamos fazer isso ser um especial de Dia das Crianças.
+204600 206220 (00) Vai ficar bacana, a gente conversou ali.
+206220 207120 (00) Eu falei, inclusive...
+207120 209020 (00) Inclusive, ó, vou tentar com o Danilo, né?
+209400 212220 (00) Que, óbvio, o RPGost tem editores maravilhosos, né?
+212220 213260 (00) O Farofinhos, o Rosal.
+213660 216300 (00) Mas essas coisas de musiquinha, esses efeitos,
+216540 218840 (00) a própria, o milhão de vozes que tem naquele episódio,
+218840 222340 (00) que o Danilo e a Carol, né? A esposa dele, fizeram.
+222660 227040 (00) É... Esse cuidado maior ali, pras coisas, pros detalhes minúsculos,
+227300 229740 (00) era um episódio que precisaria do Danilo editando.
+230000 232440 (00) Então, quem não conhece o Contador de Histórias, é o podcast dele,
+232720 234160 (00) é maravilhoso, dá uma conferida lá.
+234720 237080 (00) Então, eu disse, ó, vou conversar com o Danilo pra ver se ele faz.
+237120 238840 (00) O Danilo, ele edita especiais, né?
+238840 241460 (00) Ele edita Os Cavaleiros do Bicho, ele editou esse,
+241580 242980 (00) ele vai editar o episódio de Natal.
+243280 245180 (02, 00) Então, só tenho a agradecer ele e...
+245180 248280 (00) Esse episódio final é uma construção coletiva,
+248380 251800 (00) não só minha como mestre, mas do Danilo com a sua edição
+251800 253840 (00) e, principalmente, dos jogadores.
+254240 255480 (00) Mais que tudo, a Debbie, né?
+255500 258960 (00) Que foi quem escolheu o time e, mais ou menos, escolheu o tema, né?
+259300 261660 (00) Dos comentários do post, temos o Todê existindo.
+262140 262860 (00) Ele escreve...
+262860 265580 (00) Curti a pegada fofíssima e com a risada da Debbie.
+265580 267000 (00) Vou tentar lembrar desse.
+267120 269800 (00) Quando minha sobrinha começaram a se interessar por podcasts.
+270360 272860 (00) Muita gente mandou feedback e ouviu com o filho e tal.
+273380 274480 (00) Eu fiquei meio assim, como eu falei.
+274840 278520 (00) Ele não foi planejado, desde o começo, em ser uma coisa infantil.
+278840 281960 (00) Então, talvez tenha um pouco daquelas piadas que servem também pros adultos,
+282260 284300 (00) como o próprio rato pedreiro, né?
+284700 286760 (00) Acho que o resultado final ficou bem bacana.
+287100 288880 (00) O Tom Borges, ele colocou...
+288880 292140 (00) Possíveis spoilers de nada de novo em Raccoon Town.
+292360 294120 (00) Episódio 9 da Beguache.
+294120 296680 (00) Então, se você não ouviu o episódio 9, pausa, vai lá ouvir.
+296680 298100 (00) Ou pula aí um pedacinho.
+298320 301680 (00) Se partimos do princípio que o que levou os ratos a formarem uma sociedade complexa
+302360 305000 (00) pode ter sido influência do lixo radioativo do esgoto,
+305300 307420 (00) e não só as roupas, como as tartarugas ninjas,
+307740 310760 (00) então o guaxinim inverso, que também comeu esse lixo,
+310900 314500 (00) poderia ser o mesmo guaxinim radioativo que mordeu o super-herói
+314500 315880 (00) e nada de novo em Raccoon Town.
+316300 320200 (00) Aliás, teremos mais aventuras de super-heróis no RPG Guaxa ou naquele mundo?
+320560 323180 (00) Não, esse episódio, desculpa, ele...
+323180 326200 (00) Na minha cabeça, ele não tem influência nenhuma.
+326680 328440 (00) Normalmente eu nego que os episódios tenham ligação.
+328860 332660 (00) Mas não, nada de novo em Raccoon Town, ele é um episódio diferente.
+332820 334140 (00) Passa em outro lugar.
+334420 335900 (00) Pense em novas aventuras de super-heróis?
+336180 338620 (00) Sim, por ano que vem teremos aventuras de super-herói.
+338960 342760 (00) Eu tô com esboço ainda, não saiu do papel, não foi gravada, nem nada.
+343160 344660 (00) Mas eu pretendo...
+344660 347620 (00) Se eu pretendo visitar aquele mundo novamente, possivelmente.
+347960 350480 (00) Não necessariamente como super-herói naquele mesmo mundo.
+350860 353500 (00) Talvez aquele mesmo mundo já tenha sido aproveitado de outras formas, né?
+353500 355000 (00) Era um mundo normal com uma cidade isolada.
+355320 356480 (00) Porque eu costumo contar sempre...
+356680 357760 (00) Sempre uma história diferente.
+358100 360720 (00) Mas sim, vamos tentar ter super-heróis.
+361140 363700 (00) Outra questão, você disse que foi inspirado pelo RPG Mouse Guard.
+364080 365760 (00) É um dos meus RPGs favoritos.
+366160 369060 (00) Mas o episódio, embora super divertido, foi numa pegada mais cartoon.
+369580 372380 (00) Como você mesmo disse, sim, os jogadores acabaram puxando o lado mais cartoon.
+372680 375700 (00) Então, há alguma chance de, num futuro próximo ou distante,
+376340 381020 (00) termos uma aventura mais medieval, onde bichinhos usam armadurinhas e espadinhas?
+381360 382660 (00) É possível, sim, é possível.
+382660 386540 (00) Eu não tenho lá nem esboçado no momento, mas é uma coisa que eu gostaria de fazer.
+386680 391680 (00) Eu quase comprei a caixa do Mouse Guard quando eu fui no evento lá em Curitiba, no RPG World Fest.
+391980 393080 (00) Tava 400 conto.
+393200 396680 (00) E, puta, era uma caixinha linda, que vinha o livrinho, vinha as cartinhas.
+398020 398380 (00) Mas...
+398380 400820 (00) Eu ia jogar com a minha filha e mais quem, sabe?
+400860 401840 (00) Eu fiquei meio na dúvida.
+402200 403860 (00) E na época o dinheiro tava meio curto, né?
+404160 405860 (00) Não que agora ele esteja longo, mas...
+405860 407080 (00) Eu acabei optando por não comprar.
+407220 409600 (00) Acho que se eu tivesse comprado, teria sido a aventura nesse mundo mais fácil.
+410000 411240 (00) Óbvio, usando o meu sistema.
+411480 412680 (00) Sempre usando o meu sistema.
+413100 415100 (00) Mas Mouse Guard é um RPG que eu guardo no coração.
+415480 416520 (00) E sim, talvez tenhamos alguma coisa a fazer.
+416520 416660 (00) E sim, talvez tenhamos alguma coisa a fazer.
+416680 417940 (00) E sim, talvez tenhamos alguma aventura nesse estilo.
+418300 420040 (00) E já estamos por aqui mesmo, só mais uma pergunta.
+420460 422760 (00) Já que essa é uma aventura focada em humor e mais infantil,
+423100 424520 (00) assim como os especiais de Natal,
+424800 426740 (00) haveria alguma chance de termos um crossover
+426740 429700 (00) entre os ratinhos e duendes natalinos?
+430020 432280 (00) Embora isso quebre a regra de só 3 jogadores?
+432700 435920 (00) Aliás, fica como sugestão para o RPG sem, por exemplo.
+436360 438140 (00) Nada é impossível, gente. Nada é impossível.
+438440 440640 (00) Eu precisaria aumentar o valor que eu pago pro editor
+440640 442140 (00) pra ele botar 6 jogadores?
+442500 442900 (00) Teria.
+443980 444420 (00) Mas...
+444420 445260 (00) Nada é impossível.
+445260 446360 (00) Mas também não está.
+446360 447480 (00) Não está programado.
+447640 450580 (00) Da mesma forma que a gente sempre tem participações de NPCs,
+450680 453300 (00) de jogadores como NPCs especiais
+453300 455420 (00) na forma de gnomos nos episódios de Natal,
+455700 457840 (00) talvez alguma coisa aconteça no final do ano.
+458380 459660 (00) Muito obrigado pelo episódio, Guaxa.
+459760 462440 (00) Foi hilário e com certeza está no meu top 5 do RPG Guaxa.
+462500 463320 (00) Olha só o top 5.
+463620 465040 (00) E o Leonardo Souza comentou.
+465180 465560 (00) Curti!
+465960 467960 (00) Leo aqui, padrinho do RPG Guaxa.
+468280 470740 (00) Qual a relação entre os ratinhos, ou o mundo dos ratinhos,
+471040 472480 (00) os passarinhos e as gatas?
+472840 474620 (00) Ou também tem relação com os pugs, etc?
+474940 476340 (00) Os pugs e os passarinhos?
+476340 479740 (00) Eles não são bem animaizinhos, como vocês viram no episódio.
+480320 480760 (00) Passarinhos.
+481100 482900 (00) Então não, eles não têm ligação nenhuma.
+483220 485660 (00) Esse episódio tem sim ligação com o outro episódio.
+486000 487380 (00) Na verdade com dois, já.
+487500 489240 (00) No momento ele tem ligação com dois episódios.
+489540 493020 (00) Um que saiu, e que dificilmente vocês vão fazer a ligação.
+493360 494040 (00) E um que vai sair.
+494580 497560 (00) Eu vou aproveitar que teve poucos comentários neste episódio, né?
+497860 499720 (00) Porque eu acho que o pessoal não estava esperando
+499720 501660 (00) que fosse ter um Guaxa Verso sobre ele.
+501960 504500 (00) E vou olhar o que vocês acharam dos Guaxa Versos anteriores.
+504600 505300 (00) Vamos lá dar uma olhadinha?
+505520 506300 (00) Primeiro Guaxa Verso.
+506300 506320 (00) Primeiro Guaxa Verso.
+506340 508420 (00) O Guaxa Verso bateu aqui 11 comentários, né?
+508600 509340 (00) Mas é tudo tipo...
+509920 511000 (00) Richard, maravilhoso!
+511060 512600 (00) Tatiana Alves, Guaxa Verso!
+512680 514120 (00) Lou, Guaxa, você é genial!
+514500 515980 (00) Bruno Fim, Guaxa Verso é real!
+516340 517920 (00) 3. Adorei essa abertura.
+518240 519840 (00) A abertura foi editada pelo Danilo também,
+519980 521800 (00) acho que já comentei aqui, mas é bom lembrar de novo.
+522280 523980 (00) Jonathan P1, excelente, Guaxa!
+524040 526560 (00) O escudão, apelido que dê pro formato, ficou perfeito.
+526920 528400 (00) Eu que sempre amei o escudo do mestre,
+528460 531160 (00) achei que essa maneira de comentar sobre os episódios ficou incrível.
+531360 532780 (00) A abertura ficou sensacional, sério.
+532780 534760 (00) E que bom que eu consegui maratonar tudo
+534760 535780 (00) antes do lançamento desse novo formato.
+536780 538580 (00) Filipe Xavier, que participa da vinheta, inclusive,
+539140 540400 (00) participou da escolha da vinheta,
+540780 542240 (00) veio elogiar a vinheta,
+542580 543640 (00) veio elogiar a capa,
+543900 547240 (00) por sinal, a capa foi feita, a arte original é da Jujuba, né?
+547520 549380 (00) Mas no dia de lançar o primeiro Guaxa Verso,
+549680 551160 (00) eu terminei de editar ele e fiquei,
+551520 553200 (00) e agora? Que imagem eu uso?
+553540 554840 (00) Aí falei com a Sinara,
+555180 557180 (00) e a Sinara, com o auxílio do Filipe,
+557260 559820 (00) a Sinara pegou o logozinho que a Jujuba fez
+559820 561880 (00) e fez essa arte maravilhosa
+561880 563940 (00) que vocês veem no Guaxa Verso.
+564200 565620 (00) Ele colocou, linda vinheta,
+565620 566780 (00) a capa tá sensacional,
+567120 568820 (00) a explicação do episódio bem clara, obrigado,
+569080 569740 (00) eu achei que foi...
+569740 571140 (00) Tem vezes a gente reclamou que eu falei muito rápido,
+571240 572080 (00) é porque eu falo muito rápido.
+572300 573380 (00) Perguntas foram muito boas,
+573460 575660 (00) mas esse final foi de matar, como assim?
+575980 578340 (00) É, a ideia é sempre ter um final...
+578340 580160 (00) Pra quem pulou os Guaxa Verso
+580160 581420 (00) e não ouviu até o final,
+581740 584180 (00) todos eles têm uma ceninha extra no final,
+584280 585380 (00) gente, que vocês deviam acompanhar.
+585860 587780 (00) O André Trapani escreveu,
+587820 589720 (00) Oi, eu sou a pessoa que ouviu Acredite
+589720 591820 (00) como primeiro episódio do RPG Guaxa.
+592140 593620 (00) O episódio foi muito bem aproveitado
+593620 595580 (00) com uma obra isolada,
+595580 597000 (00) tanto que eu gostei bastante,
+597100 599840 (00) mas acho que pegando os easter eggs teria sido melhor.
+600120 601660 (00) O Zipão Silva colocou,
+601760 603920 (00) Guaxa Verso é real, Guaxa você é fantástico.
+604320 606860 (00) A trilogia Kid Perry já ouvi mais de 10 vezes
+606860 608800 (00) e toda vez eu acabo em choro.
+609100 610480 (00) Parabéns por todos os envolvidos
+610480 613440 (00) e lembro que Ohana significa família.
+613960 616720 (00) Nunca mais abandonar do Lilo Sticky, né?
+616980 619020 (00) Do desenho, eles falam Ohana.
+619360 622580 (00) Ohana era o nome de mãe de um padrinho,
+622620 623660 (00) se não me engano, que sugeriu.
+623660 625560 (00) Isso foi os comentários do Guaxa Verso 1,
+625580 627560 (00) no episódio 2 tem dois comentários grandes
+627560 629800 (00) com bastante spoiler, então se fosse vocês
+629800 631720 (00) eu dava uma olhada lá, mas o segundo comentário
+631720 633220 (00) do Tom Borges, ele colocou
+633220 635080 (00) que seria legal ouvir os jogadores também.
+635480 637260 (00) A ideia desse episódio é ter pouca edição,
+637620 639660 (00) é facilitar o meu lado e quanto mais
+639660 641020 (00) pessoas, mais complicada a edição,
+641420 643480 (00) mas óbvio, eu pretendo quando
+643480 645680 (00) der um tempinho, fazer um Guaxa Verso
+645680 647420 (00) com algum jogador, talvez até
+647420 649300 (00) algum episódio especial, talvez
+649300 651240 (00) entrevistando um jogador chamado
+651240 653460 (00) Axélio, Felipe Xavier, pra falar não só
+653460 655220 (00) dos episódios, das suas teorias,
+655580 657320 (00) falar dos seus personagens favoritos,
+657440 659520 (00) dos seus NPCs favoritos, é uma ideia que
+659520 661640 (00) eu pretendo fazer mais pra frente, só que
+661640 663200 (00) pra ter mais podcast no feed,
+663540 665660 (00) eu tenho que ver que as pessoas estão baixando, né?
+665960 667460 (00) Mas sim, eu pretendo,
+667800 669580 (00) talvez não pro Guaxa Verso, pro outro formato
+669580 671480 (00) diferente, um formato mais
+671480 673560 (00) de conversa, episódios
+673560 675480 (00) em que a gente conversa com jogadores, conversa
+675480 677800 (00) sobre teoria, sobre NPCs
+677800 679740 (00) e tal. Aguarde e confie.
+680240 681420 (00) Falando em aguardar e confiar
+681420 683540 (00) e mostrar que você está gostando
+683540 685420 (00) desse episódio, gostando dos
+685420 687060 (00) podcasts aqui do RP Guaxa,
+687440 688620 (00) segue a gente nas redes sociais,
+689020 691500 (00) arroba marcelogostin, arroba rpguaxa, tanto no Twitter
+691500 693340 (00) quanto no Instagram. Se o Twitter
+693340 694760 (00) bater 5 mil seguidores,
+695240 697460 (00) até 31 de dezembro, Guaxa
+697460 699580 (00) Verso especial extra sobre o episódio
+699580 701400 (00) 1, da Bruxa e das 4 Gatas.
+701760 703400 (00) Além disso, se eu fizer um
+703400 705380 (00) Guaxa Verso daquele episódio, eu vou ter que
+705380 707400 (00) revisitar, ler minhas anotações, ler
+707400 709440 (00) os comentários, eu prometo
+709440 711280 (00) sair uma aventura, ou depois
+711280 713140 (00) dos eventos do primeiro episódio,
+713560 715260 (00) ou antes, ou naquela...
+715260 717300 (00) área por ali. Então teremos um episódio
+717300 719480 (00) continuação, entre aspas,
+719880 721720 (00) daquele mundinho, daquela aventura
+721720 723540 (00) se chegarmos a 5 mil
+723540 725480 (00) seguidores até o final do ano, no
+725480 727960 (00) Twitter do RP Guaxa.
+728500 729780 (00) No Instagram, tá fácil.
+730140 731500 (00) Tá cresceu aquilo de um
+731500 733040 (00) jeito que... Nossa.
+733380 735660 (00) Até porque ele tem o Gabriel Pinheiro,
+735980 737560 (00) Filipe Xavier e a Sinara cuidando
+737560 739400 (00) de lá. Eles estão sempre postando memes,
+739540 740900 (00) coisas engraçadas, informações.
+741360 743760 (00) Então o Instagram do RP Guaxa é maravilhoso.
+744080 745240 (00) Se chegar a 2 mil seguidores,
+745260 747300 (00) lá, Guaxa Verso Extra
+747300 748940 (00) sobre o episódio do Corvo,
+749260 750980 (00) e como é a mesma coisa, eu vou ter que
+750980 752980 (00) revisitar, ler minhas anotações,
+753420 755600 (00) reouvir o episódio, eu prometo
+755600 756820 (00) que teremos uma outra aventura
+756820 759060 (00) naquele mundinho. Ou naquela mesma
+759060 761280 (00) instalação, contra as crianças, ou
+761280 763560 (00) o Adam numa nova aventura, já pensou?
+763880 765200 (00) Mas pra isso é preciso que vocês sigam
+765200 767180 (00) até dia 31 de dezembro
+767180 769200 (00) 2 mil seguidores no Instagram.
+769600 771080 (00) No Twitter, por sinal, já que eu falei,
+771660 773400 (00) na sexta-feira eu comecei a votação
+773400 775220 (00) que vai durar 7 dias, qual foi o
+775220 777200 (00) melhor episódio entre os últimos 4?
+777540 779120 (00) O 57, que é o Acredite,
+779500 781300 (00) o Escuridão da Caverna, que é o 58,
+781860 783380 (00) Ratinhos de Alcantarilha, que é o
+783380 785420 (00) 59, né, que a gente tá comentando hoje,
+785720 787260 (00) e o Desaparecimento do Dylan,
+787420 789560 (00) que é o 60. Desses 4, qual foi o melhor?
+789900 791300 (00) Essa votação é importante também pra
+791300 793360 (00) saber que tipo de episódio vocês gostam
+793360 795440 (00) mais, que tipo de episódio vocês gostam menos,
+795780 797300 (00) e definir o que vem
+797300 798900 (00) depois. Então é importante
+798900 801180 (00) vocês irem até lá, ao Twitter do
+801180 803620 (00) RP Guaxa, seguir, e se já segue,
+804060 804660 (00) votar.
+805220 807320 (00) Votação, tem um dos episódios, tá ganhando
+807320 809100 (00) assim, de maneira disparada,
+809200 811040 (00) como era esperado. Você sabe qual é?
+811420 813520 (00) Será? Será que sabe mesmo? Vai lá conferir.
+813820 815140 (00) Quer receber episódio antes?
+815340 817460 (00) Quer ter um grupo de spoiler pra tirar dúvida
+817460 819240 (00) direto comigo? Ficou alguma coisa
+819240 821360 (00) no episódio passado, qualquer episódio que tu não
+821360 823400 (00) entendeu, ou que não foi respondido
+823400 825000 (00) porque não existia Guaxa Verso na época,
+825000 826920 (00) ou porque você ouviu
+826920 829060 (00) depois Guaxa Verso sair, ou porque você esqueceu
+829060 830580 (00) de comentar? Tem um grupo
+830580 832880 (00) no Telegram só pra discutir essas
+832880 834900 (00) coisas. Apoiou a partir de 10 reais,
+835220 837100 (00) tu faz parte do grupo do Telegram, tem o grupo principal
+837100 839060 (00) que rola de tudo lá, e tem
+839060 841060 (00) grupos menores. Um desses grupos é o grupo
+841060 843040 (00) The Spoilers, que comenta
+843040 845040 (00) tudo lá. Tem um desenho das
+845040 847100 (00) linhas que eu comentei no Guaxa Verso 02.
+847820 849240 (00) Lá tem eu, tirando dúvidas.
+849560 850960 (00) Lá tem a maioria dos jogadores,
+851080 853100 (00) como eu costumo jogar com pessoas que também são
+853280 855040 (00) padrinhos, embora ser padrinho não faz
+855040 857220 (00) você jogar, lembra disso? Tá lá a Shelly,
+857280 859320 (00) tá lá o Filipe Xavier, tá lá a Debi,
+859600 861200 (00) tu pode estar lá, sempre tirando
+861200 863400 (00) uma dúvida com eles, conversando, elogiando,
+863520 864860 (00) né? Quem apoia esse projeto,
+865220 866720 (00) a partir de 1 real tu tá ajudando a pagar o editor,
+867180 869120 (00) ajudando a sair cada vez mais episódios,
+869480 871260 (00) e, se tu quiser fazer parte do
+871260 873340 (00) Telegram, 10 reais, cê faz parte
+873340 875480 (00) lá. Tem um grupo também pra marcar aventura,
+875760 877220 (00) tem um grupo que tá sempre no Discord jogando,
+877680 879460 (00) basta ser nosso padrinho.
+879820 881280 (00) Falando nisso, quero agradecer a todos
+881280 882880 (00) os padrinhos que assinaram
+882880 884840 (00) desde o último Guaxa Verso.
+884900 887120 (00) O Alisson Araújo, o Ednei Nascimento
+887120 889100 (00) da Silva, Rafael Monteiro,
+889380 891420 (00) André Bernardo, Camila Liberato,
+891780 893240 (00) André Arnandite,
+893520 894940 (00) João Pérez, Gustavo Henrique
+895220 897040 (00) Domingues, Gabriele
+897040 899760 (00) Barra Calie, eu acho que é o nome
+899760 902140 (00) e um apelido, o Vinícius Camargos,
+902500 903440 (00) a Rafaela Santos,
+903800 905560 (00) o Rafael 47 lá da RPG
+905560 907400 (00) Next, que honra, meu querido,
+907740 909780 (00) o Luiz, Edvaldo Corrêa,
+909780 911980 (00) e ao Nicolas, só Nicolas
+911980 913800 (00) ele colocou. Agradeço a todos vocês
+913800 915760 (00) que apoiaram, agradeço a todo mundo que
+915760 917740 (00) seguiu nas redes sociais, e
+917740 919520 (00) agradeço a todo mundo que deu este download
+919520 921700 (00) e ouviu até o final. Muito
+921700 923800 (00) obrigado, gente, muito obrigado por
+923800 925760 (00) todo o feedback. Não esqueçam de
+925760 928280 (00) deixar comentários no episódio
+928280 929760 (00) do desaparecimento do Dylan,
+930140 931480 (00) que lá na quinta-feira sai
+931480 933760 (00) o Guaxa Verso relativo a ele, né?
+934040 935920 (00) Eu devo gravar na quarta-noite, talvez?
+936460 937640 (00) Então, tente comentar até
+937640 939700 (00) quarta-feira sobre o episódio. Beijo
+939700 941320 (00) no coração de vocês, e até!
+953800 955800 (01) Ai, ai, ai, ai...
+955800 958060 (01) Estou cansado de ser o rato
+958060 959460 (01) que fala engraçado.
+960600 962020 (01) Será que sobrou alguma
+962020 963600 (01) roupa naquela caja?
+966600 967800 (01) Ai, caramba...
+969180 970000 (01) Há tantas
+970000 972100 (01) cajas...
+972100 973760 (01) O que estava escrito na
+973760 975440 (01) caja de roupa mesmo?
+977600 980100 (01) Não era esta...
+980100 981920 (01) Não era esta...
+981920 983420 (01) Ahá! A encontrei!
+983800 985800 (01) Espera...
+988460 989140 (01) Nike?
+990560 992920 (01) Não, não, não, não...
+992920 993880 (02, 01) Nick!
+995260 995880 (01) Será que
+995880 997220 (01) está faltando letra?
+998440 999800 (01) Ai, caramba...
+1013800 1015800 (unknown) Ai, caramba...
+1015800 1017800 (unknown) Ai, caramba...
+1017800 1019800 (unknown) Ai, caramba...
+1019800 1021800 (unknown) Ai, caramba...

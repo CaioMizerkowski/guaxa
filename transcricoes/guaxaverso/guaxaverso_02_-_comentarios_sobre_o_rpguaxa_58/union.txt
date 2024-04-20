@@ -1,0 +1,721 @@
+0 10120 (00) Se eu pegar essa ilha e esse helicóptero, e aí tudo faz sentido, porque aqui tem um zumbi e ali não tinha, e agora...
+10120 15000 (00) É isso! É isso! Eu sabia! Eu sabia! O Guaixaverso existe!
+15120 15960 (00) Como assim?
+16180 18120 (01, 00) Você entendeu a referência do último episódio?
+18260 18980 (00) Olha só, olha tudo!
+18980 19600 (01, 00) O Guaixa sabe o que faz!
+19600 20960 (01, 00) Espera! O que é o Guaixaverso?
+21000 22980 (01, 00) Era só uma questão de tempo!
+23080 24020 (00) Todos vão conhecer o Guaixaverso!
+24020 24520 (00) O Guaixaverso sim que existiu!
+24520 27140 (01, 00) Eu quero entender o Guaixaverso!
+27220 28560 (01, 00) Alguém me explica o que é o Guaixaverso?
+28560 32020 (00) É, pessoal, não existe o Guaixaverso!
+32100 33720 (00) Eu acredito no Guaixaverso!
+33760 36560 (00) Mas supondo que ele exista...
+37880 41540 (00) Guaixaverso, onde o que não existe é debatido!
+44720 48640 (00) Olá, eu sou o Massaro Guaxinim, o narrador de RPG.
+49040 50980 (00) Não, de futebol, de corrida...
+50980 55520 (00) Eu nem saberia narrar nada que não seja de RPG.
+55520 57520 (00) Eu tô aqui pra falar do último episódio...
+57520 59520 (00) A ESCURIDÃO DA CAVERNA
+59520 62520 (00) Eu recebi muitas sugestões pro formato e muitos elogios.
+62520 65520 (00) E agradeço a todo mundo que comentou, que baixou.
+65520 67520 (00) Foi um sucesso de público.
+67520 70520 (00) Eu espero que o segundo e os próximos episódios tenham isso também.
+70520 76520 (00) Mas uma das ideias que me foi passada é de começar com a leitura das perguntas e delas partir a discussão.
+76520 78520 (00) É o que eu vou tentar pra esse episódio.
+78520 82520 (00) Então, se você preferir a dinâmica do primeiro, deixa nos comentários.
+82520 85520 (00) Se você preferir essa dinâmica do segundo, deixa nos comentários.
+85520 86840 (00) Se você tiver uma terceira, deixa nos comentários.
+86840 89840 (00) Se você tiver uma terceira ideia, deixa nos comentários, sabe?
+89840 93840 (00) Eu tô aqui pra ouvir vocês e agradecer.
+93840 96840 (00) Esse episódio tem spoilers leves do Samba da Criação,
+96840 100840 (00) spoilers levíssimos do Cavaleiros do Bicho,
+100840 105840 (00) spoilers mais pesados do Poderoso N e da Luz do Farol.
+105840 110840 (00) Além, é claro, da Escuridão da Caverna, que é o episódio específico sobre o qual estamos falando.
+110840 112840 (00) Então, guarde isso com você.
+112840 115840 (00) Se não ouviu todos esses episódios, se não quer tomar spoiler,
+115840 117840 (00) vai lá ouvir, depois você volta.
+117840 120840 (00) Antes de entrar nas perguntas, uma coisa que eu preciso deixar muito claro,
+120840 125840 (00) que ela tá lá no episódio 40, que é o Samba da Criação,
+125840 129840 (00) ela foi mais ou menos apresentada, mas que eu já bati nessa tecla algumas vezes
+129840 132840 (00) lá no grupo de spoiler dos padrinhos, lá no Telegram.
+132840 134840 (00) Seja nosso padrinho, fica aí a dica.
+134840 139840 (00) E que é a base pra vocês entenderem esse episódio assim como outros.
+139840 144840 (00) Antes de tudo, antes desse episódio, lá no princípio, existiram criaturas
+144840 151840 (00) que conseguiram absorver toda a energia do seu mundo, da sua galáxia, do seu sol, que seja.
+151840 154840 (00) E se tornaram criaturas de imenso poder.
+154840 157840 (00) Cada criatura fez isso com a sua galáxia.
+157840 160840 (00) Com uma quantidade monstruosa de energia.
+160840 165840 (00) Embora elas estivessem distantes entre si, elas conseguiam sentir a energia uma das outras.
+165840 169840 (00) E elas sabiam que se uma entrasse em conflito com outra,
+169840 172840 (00) a terceira chegaria pra atacar o vitorioso daquela luta.
+172840 177840 (00) Porque assim ela absorveria a energia dos dois e pegaria alguém que já estava fraco.
+177840 183840 (00) Ficava aquele checkmate em que ninguém atacava ninguém com medo de ser atacado.
+183840 189840 (00) Grandes massas de energia, talvez criando pequenos mundos, talvez criando suas próprias realidades.
+189840 194840 (00) Esses planetas, essas pessoas, esses monstros,
+194840 199840 (00) que o nosso querido amigo Nelson representa lá no samba da criação, no episódio 40,
+199840 201840 (00) como monstros balões, ficavam por aí.
+201840 203840 (00) Flutuando.
+203840 208840 (00) Um dia, uma dessas criaturas conseguiu contato com uma outra.
+208840 211840 (00) Pra ficar mais fácil, vamos chamar de criatura X e Y.
+211840 214840 (00) A criatura X conseguiu convencer a Y no seguinte.
+214840 218840 (00) Olha, se tu atacar o Z, eu fico como teu guarda-costas.
+218840 220840 (00) Eu não vou me meter.
+220840 224840 (00) De alguma forma, Y acreditou na intenção do X.
+224840 227840 (00) E Y atacou o Z, absorveu a energia dele.
+227840 230840 (00) E quando ele estava fraco, o X ficou do lado mostrando pra todo mundo.
+230840 233840 (00) Se alguém vir, vai lutar comigo.
+233840 235840 (00) E criaremos um novo checkmate.
+235840 239840 (00) Quando o Y se recuperou do combate, ele tinha o dobro da energia.
+239840 241840 (00) E agora as coisas estavam mais fáceis.
+241840 244840 (00) Assim, ele foi lutar com A, com B, com C.
+244840 248840 (00) Assim, ele foi lutando com todas as outras criaturas e absorvendo elas.
+248840 252840 (00) Com o tempo, o X disse que pra ser guardião, era bom que ele fosse mais forte.
+252840 257840 (00) E o Y, sendo muito poderoso, deixou o X absorver algumas energias também.
+257840 259840 (00) Entendam, eram várias criaturas e elas começaram a se destruir.
+259840 264840 (00) As criaturas mais inteligentes, mais rápidas, ou o que sejam, fugiram.
+264840 266840 (00) Algumas dessas criaturas fugiram.
+266840 270840 (00) Criaram sua própria realidade e se esconderam lá.
+270840 272840 (00) Foram poucas.
+272840 275840 (00) A imensa maioria foi destruída nesta guerra.
+275840 278840 (00) Quando o Y absorveu o último que ainda estava pelo espaço,
+278840 281840 (00) que não tinha fugido ainda, ele explodiu.
+281840 283840 (00) Porque era energia demais.
+283840 285840 (00) E resultou no que a gente chama de Big Bang.
+285840 287840 (00) Até o momento desta gravação,
+287840 291840 (00) nenhuma aventura se passou antes desse Big Bang.
+291840 295840 (00) Dito isso, o X, que foi quem começou essa loucura toda,
+295840 298840 (00) tinha energia suficiente pra sobreviver à explosão.
+298840 300840 (00) E ele ficou flutuando um tempo no espaço.
+300840 303840 (00) O Y explodiu. Pra todos os lados.
+303840 307840 (00) Embora tivesse uma energia gigantesca, foi uma explosão gigantesca.
+307840 311840 (00) Um dia, o X, flutuando no espaço, conseguiu se recuperar.
+311840 314840 (00) Ele olhou pro universo que surgiu daquela grande explosão,
+314840 316840 (00) e ele encontrou um planeta que tinha vida.
+316840 318840 (00) E ele foi até lá.
+318840 320840 (00) Lá, ele ergueu o topo de uma montanha,
+320840 321840 (00) virou de cabeça pra baixo,
+321840 323840 (00) escondeu lá acima das nuvens,
+323840 326840 (00) sentou e começou a observar o mundo lá embaixo.
+326840 329840 (00) Começou a ver como aquele planeta tinha se desenvolvido.
+329840 331840 (00) Como era a vida lá.
+331840 333840 (00) E ele ficou igual às pessoas que ele enxergava.
+333840 336840 (00) Assim, ele ficou por muito tempo só como um observador distante.
+336840 339840 (00) Um dia, quatro guerreiros o encontraram.
+339840 341840 (00) Eles treinaram, desenvolveram alguma técnica,
+341840 344840 (00) eles conseguiram chegar naquela ilha voadora.
+344840 345840 (00) E desafiaram o X
+345840 346840 (00) a uma luta.
+346840 349840 (00) X venceria invariavelmente.
+349840 351840 (00) Mas ele pensou que seria divertido
+351840 353840 (00) deixar o mundo na mão daquelas pessoas
+353840 355840 (00) e ir viver junto aos mortais.
+355840 357840 (00) Ele pegou aquela energia gigantesca que ele tinha,
+357840 359840 (00) dividiu em seis partes.
+359840 360840 (00) Ficou com duas pra ele,
+360840 364840 (00) e deu uma pra cada um dos guerreiros que chegaram naquela ilha e disse
+364840 367840 (00) Cada um de vocês é responsável por um lado do mundo.
+367840 371840 (00) O norte, o sul, o leste, o oeste.
+371840 374840 (00) Qualquer um que chegar aqui e desafiar vocês e vencer,
+374840 377840 (00) toma seus poderes, toma seu lugar.
+377840 379840 (00) E assim esses quatro ficaram lá.
+379840 383840 (00) Nenhum episódio até agora retratou este momento.
+383840 386840 (00) Esses quatro originais foram derrotados por outras pessoas.
+386840 390840 (00) E aí sim, alguns episódios se passam com outras pessoas lá em cima.
+390840 393840 (00) Um deles bem especificamente, se vocês prestarem atenção.
+393840 395840 (00) E ficou o mundo assim.
+395840 397840 (00) Um X andando entre os mortais.
+397840 400840 (00) E aquela ilhazinha flutuante com quatro pessoas.
+400840 402840 (00) Que eventualmente eram derrotadas
+402840 404840 (00) e substituídas por outras
+404840 406840 (00) num ciclo bem grande.
+406840 410840 (00) Um dia, essas quatro pessoas brigaram entre si.
+410840 413840 (00) E viram que entre elas, elas não podiam se destruir.
+413840 417840 (00) Porque a regra dizia que só se alguém de fora as derrotasse.
+417840 420840 (00) Os quatro juntos fizeram cópias daquele planeta
+420840 422840 (00) e criou uma realidade só pra si.
+422840 425840 (00) Só que a cópia dividiu o mundo original em quatro partes.
+425840 427840 (00) Incluindo o X.
+427840 430840 (00) O X foi repartido quatro vezes, já que ele tinha ligação com aquele mundo.
+430840 434840 (00) E surgiu uma versão dele em cada um destes mundos.
+434840 436840 (00) No episódio do samba da criação.
+436840 439840 (00) E que acaba caindo nos episódios dos cavaleiros.
+439840 441840 (00) Ele ficou conhecido como Nelson.
+441840 443840 (00) No episódio poderoso N.
+443840 446840 (00) Esse X ficou conhecido como N, o mago.
+446840 448840 (00) Neste mundo específico.
+448840 451840 (00) Graças a ação de uma jogadora da Agatha Rafaela.
+451840 456840 (00) O poder deste N se dividiu entre todas as pessoas.
+456840 458840 (00) Volto ao que eu disse lá atrás.
+458840 461840 (00) Algumas daquelas criaturas originais conseguiram fugir.
+461840 464840 (00) Ao preço de que perderam grandes partes de seu poder.
+464840 466840 (00) Algumas se dividiram em partes menores.
+466840 468840 (00) Mas isso eu falo em outro episódio.
+468840 472840 (00) O fato é que essas criaturas perseguiam um poder que estava com esse X no original.
+472840 475840 (00) E que agora se chama Nelson no mundo e N em outro.
+475840 479840 (00) Porque com aquele poder de criação elas voltam a ser aquelas entidades que elas eram.
+479840 481840 (00) Uma criatura estava de olho no mago.
+481840 485840 (00) E nunca conseguiria vencê-lo pelo poder imenso que ele tinha.
+485840 487840 (00) Mas quando ele dividiu seu poder.
+487840 490840 (00) Graças ao final do episódio o poderoso N.
+490840 492840 (00) O mago se tornou mais frágil.
+492840 493840 (00) Essa criatura o atacou.
+493840 496840 (00) E temos tudo o que aconteceu no episódio a luz do farol.
+496840 499840 (00) Em que ele nesse sacrifício se uniu a criatura.
+499840 502840 (00) No sentido de unir a energia dele a ela.
+502840 504840 (00) Para segurá-la para ela não atacar.
+504840 505840 (00) O mundo criou o farol.
+505840 508840 (00) Que faz com que aquela energia que está em todos os seres vivos.
+508840 511840 (00) Aos pouquinhos se acumule naquele farol.
+511840 514840 (00) Para gerar energia suficiente para um dia uma pessoa escolhida.
+514840 515840 (00) Derrotar aquela criatura.
+515840 516840 (00) Mas não é sobre aquele episódio.
+516840 517840 (00) Que a gente está aqui.
+517840 520840 (00) É sobre o episódio a escuridão da caverna.
+520840 521840 (00) Sabendo de tudo isso.
+521840 523840 (00) Eu vou responder as perguntas de vocês.
+523840 524840 (00) O Leonardo Porto escreveu.
+524840 526840 (00) Guaxa quero muito ouvir um episódio.
+526840 528840 (00) Com as consequências desse episódio.
+528840 530840 (00) Os jogadores deixaram um banquete.
+530840 533840 (00) E uma biblioteca de conhecimentos para os habitantes desta ilha.
+533840 535840 (00) Uma conjoação direta dessa aventura.
+535840 537840 (00) Não está nos planos ainda.
+537840 539840 (00) Por enquanto talvez.
+539840 542840 (00) Mas eu pretendo ainda contar uma outra história deste mundo.
+542840 544840 (00) Em janeiro provavelmente.
+544840 545840 (00) Se tudo é certo.
+545840 547840 (00) Só que muitos, muitos anos depois.
+547840 549840 (00) A Carolina Ferreira comentou.
+549840 550840 (00) Guaxa, quem é o Pinheiro?
+550840 552840 (00) Ele é um nativo mesmo?
+552840 553840 (00) Como que ele sabia a língua humana?
+553840 555840 (00) Já que os demais não sabiam.
+555840 556840 (00) E os demais?
+556840 558840 (00) Eles têm alguma sensibilidade à luz?
+558840 560840 (00) E por isso ficam no subterrâneo?
+560840 561840 (00) Todo mundo morreu no final mesmo?
+561840 562840 (00) Até o Marmelo?
+562840 563840 (00) E por último.
+563840 564840 (00) Eu sou madrinha.
+564840 566840 (00) Meu nome vai aparecer na lista?
+566840 568840 (00) Até eu tenho que atualizar aquela lista ali quando dá tempo.
+568840 570840 (00) A quarentena me fez me perder.
+570840 572840 (00) Mas prometo colocar na lista ali.
+572840 573840 (00) Vamos às respostas.
+573840 574840 (00) Quem é o Pinheiro?
+574840 575840 (00) Ele é um nativo mesmo?
+575840 576840 (00) Ele é um nativo.
+576840 577840 (00) Ele é um nativo.
+577840 578840 (00) Na verdade.
+578840 579840 (00) O Pinheiro original.
+579840 580840 (00) É o sacerdote que estava naquela ilha.
+580840 581840 (00) Quem conversa com os jogadores.
+581840 582840 (00) É um nativo.
+582840 583840 (00) Que devorou o Pinheiro.
+583840 584840 (00) E tomou o lugar dele.
+584840 585840 (00) Como ele sabia a língua humana.
+585840 586840 (00) E os demais não sabiam.
+586840 587840 (00) Como eu falei.
+587840 588840 (00) Ao devorar outras criaturas.
+588840 589840 (00) Eles ganham o seu conhecimento.
+589840 590840 (00) Então ele ganha o conhecimento de falar.
+590840 591840 (00) E os demais?
+591840 592840 (00) Eles têm alguma sensibilidade à luz?
+592840 593840 (00) E por isso ficam no subterrâneo?
+593840 594840 (00) Eles preferem a escuridão?
+594840 595840 (00) Eles enxergam?
+595840 596840 (00) Eles enxergam?
+596840 597840 (00) Eles enxergam?
+597840 598840 (00) Eles enxergam?
+598840 599840 (00) É terrifying.
+599840 600840 (00) Mas há друзья que raidam com tudo.
+600840 601840 (00) Mas não se importa.
+601840 602840 (00) Mas eles têm alguma sensibilidade à luz.
+602840 603840 (00) E por isso ficam no subterrâneo.
+603840 604840 (00) Eles preferem a escuridão.
+604840 606220 (00) Eles enxergam no escuro.
+606220 607200 (00) Aquelas criaturas malignas.
+607200 610160 (00) Que habitam o mar.
+610160 612960 (00) Mas nada impede eles de irem à luz do dia.
+612960 614580 (00) Talvez dê um pouco de desconforto.
+614580 616220 (00) Um pouco de incomodação.
+616220 617300 (00) Todo mundo morrendo no final mesmo?
+617300 618300 (00) Morreu.
+618300 619300 (00) Até o marmelo?
+619300 620300 (00) É.
+620300 621300 (00) É triste.
+621300 622300 (00) Mas é.
+622300 623300 (00) Porém, tanta que anseio.
+623300 624300 (00) O Tô Desistindo escreveu.
+624300 625680 (00) Se eles tivessem ido pro barco.
+625680 626840 (00) Desancorado.
+626840 627840 (00) E partido.
+627840 630620 (00) Teria sido o sucesso ou o começo da parte 2?
+631120 635200 (00) Se eles tivessem partido de barco, ou seja, no final da aventura tivessem fugido,
+635660 636980 (00) seria um sucesso para a aventura.
+637340 642300 (00) Seria um dos finais possíveis e terminaria com eles encontrando a sacerdotisa lá, né?
+642600 645140 (00) O amor ao próximo é um poder somente de cura e restauração.
+645420 647600 (00) Ou pode se levar ao extremo da destruição em massa.
+647940 650400 (00) Para evitar esse extremo, foi dado o nome de amor ao próximo?
+650780 653200 (00) O sistema de magias no Gostinhas e Gambiarras funciona da seguinte maneira.
+653200 654640 (00) Tu pode tentar o que tu quiser.
+654640 660400 (00) Só que se tu falhar no teste, o quão absurdo você foi para um lado, você vai tomar de volta.
+660720 664120 (00) Tu quer curar alguém e falhou, tu vai causar dano.
+664460 668840 (00) Se quisesse criar uma bola de fogo para explodir os inimigos e falhasse,
+669160 673960 (00) ela provavelmente explodiria na tua mão e explodiria teus amiguinhos em volta ou coisa do tipo.
+674240 676240 (00) Então é sempre uma faca de dois gumes.
+676240 682420 (00) Tu pode tentar algo sutil e se falhar vai ter um pequeno problema.
+682800 684420 (00) Ou você pode tentar algo assombroso.
+684720 686280 (00) E o que tentar, tu vai ter um pequeno problema.
+686740 692200 (00) Nessa aventura eu interpretei este erro como aquela criatura que era tão influente naquela ilhazinha
+692200 696160 (00) tentando trazer para o lado dele, para o lado sombrio, como a gente vê no Star Wars,
+696520 698160 (00) o personagem da Sinara, a Samu.
+698420 702460 (00) Comer os três participantes iria realmente dar o poder aos selvagens?
+702720 704700 (00) Ou o cara lá era um caso à parte?
+704700 708200 (00) Não funciona uma pessoa devorar duas, não funciona.
+708560 711320 (00) Dá indigestão. É tipo a Comunomia no One Piece.
+711620 713700 (00) Se vocês não entenderam, é basicamente...
+714640 720620 (00) Uma pessoa, aquelas criaturas, tem o poder de absorver o conhecimento de alguém que elas devorem uma vez.
+721080 727540 (00) Outros selvagens devoraram os jogadores e cada um deles ganhou as habilidades e conhecimentos daqueles jogadores.
+727960 731640 (00) Seria tipo uma invocação primitiva que a gente viu naquele episódio dos três participantes.
+731640 733340 (00) Aqui é um spoiler de outro episódio.
+733820 735780 (00) Não, não é tipo aquele episódio.
+736140 741180 (00) Aquele episódio se passa em outra linha, inclusive, se tu for pensar no que eu expliquei ali no começo.
+741620 742680 (00) Ricardo Borodernowski.
+742680 749800 (00) Considerando que os aventureiros foram devorados, o conhecimento deles do farol acaba motivando os nativos a irem lá e destruírem a instalação.
+749960 755260 (00) Sim, pois quando eles passam na ilha, só tem dois homens os recebendo, mas futuramente tem três.
+755600 759180 (00) Ou isso pode estar relacionado a uma provável captura da Esmeralda.
+759480 761240 (00) E o mais importante, o Marmelo sobreviveu?
+761520 765700 (00) Eu queria muito, gente. Puta, eu queria muito, muito, muito, muito, muito, muito.
+765980 768420 (00) Mas não deu. Ele foi junto com os jogadores.
+768620 771760 (00) Ele não iria abandonar a taxa, já que a taxa não o abandonou.
+771760 772400 (00) Mas vamos lá.
+772680 776200 (00) No episódio Luz do Farol, tem três pessoas lá, mas uma delas é o pirata.
+776340 776600 (00) Lembra?
+776900 778780 (00) Lembra que tem um navio pirata afundado do lado?
+779140 780560 (00) Aquela aventura não foi gravada antes.
+780920 786660 (00) Então os eventos dessa não afetariam diretamente aquela aventura, mas afetam neste caso.
+787360 791080 (00) Essa é uma explicação de como que as informações sobre a ilha vazaram.
+791500 797260 (00) Vazaram para aquela criatura, para aquela entidade, que influencia não só aquelas criaturas em cavernas primitivas,
+797560 800080 (00) mas influencia piratas, por exemplo.
+800340 802660 (00) Aquela tripulação de piratas era devota a essa criatura.
+802680 807100 (00) Aquela criatura estava caçando aquele farol há muito tempo, e quando aquelas criaturas recebem a informação,
+807560 814860 (00) elas, por terem esse contato com aquela criatura das profundezas, passam essa informação para ela,
+815180 818700 (00) ela passa a esses piratas, os piratas chegam lá e ferram tudo.
+818960 828240 (00) Os jogadores terem sido devorados nesse episódio é o canon, é o válido, é a explicação de como foi que aqueles piratas chegaram até a ilha.
+828720 830640 (00) A esmeralda não foi capturada.
+830640 832320 (00) Outros existindo ainda comentam ali.
+832320 836320 (00) O Marmelo podia reunir um exército de animais para recuperar os três e ou proteger a ilha lá.
+836580 838700 (00) É, não. Não vai rolar, infelizmente.
+839500 840560 (00) Nicolás Magalhães.
+840600 842980 (00) Estou curioso sobre as criaturas ancestrais, Guaxa.
+843240 846660 (00) Elas estão em guerra eterna contra os seres de luz, N, Sofia e Princesa?
+846960 849560 (00) Há alguma possibilidade de extinção dessas criaturas ancestrais?
+849920 855740 (00) Os animais gigantes e armaduras que foram criados pelo N têm a função de equilíbrio ou de eliminação das criaturas?
+855740 862120 (00) A esmeralda seria descendente direta da Sofia ou só aprendiz direta por isso que chamou a atenção do monstro?
+862360 862940 (00) Por partes.
+863600 865820 (00) Há alguma possibilidade de extinção dessas criaturas ancestrais?
+866280 866500 (00) Há.
+866740 868780 (00) É praticamente impossível, mas há.
+869100 871280 (00) E existem alguns episódios em que isso é feito.
+871720 872260 (00) Aguarde.
+872620 874540 (00) Mas existem várias, como eu falei lá no começo.
+874880 879540 (00) As criaturas ancestrais são partes daquelas criaturas que fugiram.
+879880 885060 (00) Ou mesmo criaturas enfraquecidas que gastaram muito seu poder para criar uma realidade paralela.
+885060 886800 (00) Para criar o seu próprio mundo.
+887040 889180 (00) Animais gigantes e armaduras criadas pelo N.
+889460 891720 (00) As armaduras foram criadas pelo Nelson.
+892060 892160 (00) Que é...
+892320 893460 (00) Uma parte do N.
+893740 894560 (00) Só que de outra linha.
+894740 895360 (00) Lembrem disso.
+895720 898200 (00) Mas sim, a função final é eliminar essas criaturas.
+898620 901240 (00) A esmeralda seria descendente da Sofia ou só aprendiz?
+901540 903280 (00) Pode ser que tenha alguma ligação de sangue.
+903360 904700 (00) Mas o mais provável é só.
+905080 907100 (00) Ela é a aprendiz mais estudada.
+907420 911080 (00) A que conhece mais sobre tudo da deusa e das lendas.
+911380 914360 (00) A responsável pela manutenção do farol.
+914360 917660 (00) Então ela era uma pessoa muito importante naquela religião.
+918040 919800 (00) Então sim, ela era um alvo da criatura.
+920280 922300 (00) E sim, a criatura estava criando informações.
+922320 924220 (00) Será que ela conseguiu?
+924560 925880 (00) Você vai descobrir isso ainda hoje.
+926240 926680 (00) Calma lá.
+926960 930740 (00) Levando em consideração que os nativos aprenderam o idioma e conhecimentos de quem eles devoram.
+931000 933320 (00) Isso me faz lembrar das formigas do episódio Úrsula.
+933620 936240 (00) E se esses seres foram uma evolução daquelas formigas.
+936540 939300 (00) Porque é dito ter três grandes continentes.
+939680 944000 (00) Para os outros continentes saberem disso, tem que ter navegação.
+944280 946780 (00) Às vezes foi a viagem da Úrsula que difundiu isso.
+947300 950820 (00) Sim, aquelas formigas do episódio da Úrsula tem ligação com esses seres.
+950820 952300 (00) Mas por enquanto eu vou guardar.
+952320 956480 (00) Bem, perguntas com o auxílio da Luana Soberon nas teorias.
+956800 963360 (00) Será que os nativos e evoluções das formigas do episódio de Úrsula seriam essas formigas de um experimento que deu errado do N?
+963540 963760 (00) Não.
+964260 965820 (00) Na hora de aumentar os animais?
+966060 966420 (00) Não.
+966840 971320 (00) Seria o animal da borda do mundo um pedaço da criatura que ainda estava fraca?
+971700 972040 (00) Sim.
+972400 974880 (00) O barco no episódio da luz do farol é o mesmo desse?
+975080 975400 (00) Não.
+975720 976640 (00) Era um barco pirata.
+976940 978360 (00) Esse barco deles é um barco menor.
+978760 982280 (00) Justificaria ter os objetos mágicos da Sofia e não ter sinal do corpo?
+982320 983360 (00) Ou das pessoas que estavam lá?
+983360 986880 (00) Será que os nativos comeram alguma parte da criatura?
+987220 989200 (00) Por isso eles têm alguma conexão com ela?
+989500 990160 (00) Então é uma boa ideia.
+990480 991880 (00) Talvez parte do ritual deles.
+992220 995380 (00) Eu vou comer uma pequena parte daquele ser ancestral.
+995760 997140 (00) E por isso a ligação tão forte.
+997480 998920 (00) E por isso esses poderes leves.
+999420 1000360 (00) Natan José Mafra.
+1001200 1004660 (00) A Esmeralda sabia da pegada canibal e enviou os três para o abate?
+1004980 1005300 (00) Não.
+1005680 1006160 (00) Explico.
+1006460 1008460 (00) Ela sabia que tinha gente que cultuava a criatura.
+1008860 1011060 (00) Sim, ela pode ter dito isso devido às ovelhas.
+1011060 1012260 (00) Mas também faria sentido.
+1012320 1019840 (00) Ela não sabia que aquelas pessoas específicas nunca mandaria seus principais pupilos para a morte.
+1020200 1021600 (00) Ela realmente não esperava isso.
+1021920 1025280 (00) Aquela viagem apresentando o farol, apresentando uma ilha nova.
+1025620 1028260 (00) Na verdade, ela estava se preparando para uma viagem.
+1028680 1030800 (00) Porque ela sabia que algo grande estava para acontecer.
+1031180 1032300 (00) Ela estava tendo sonhos.
+1032700 1034660 (00) E ela estava preparando alguém para substituí-la.
+1035040 1035800 (00) Mas deu tudo errado.
+1036140 1038860 (00) A deusa abandonou a personagem por causa do dano com a magia de cura?
+1038860 1042260 (00) O que aconteceria caso ela tentasse causar dano novamente?
+1042640 1049140 (00) Ali, como eu falei antes, era tipo uma corrupção que estava acontecendo com a personagem da cenária, com a Samu, pelas forças malignas.
+1049460 1052220 (00) Se ela se entregasse até dado a mais, eu ia deixá-la rodar.
+1052600 1056880 (00) Mas, no fim, ela ficaria devota àquela criatura e seria um problema maior para o futuro.
+1057280 1059520 (00) Adorei o episódio. Estou aguardando ansiosamente o escudo do mestre.
+1059800 1060140 (00) Chegou.
+1060440 1061800 (00) O Jeter Pinheiro colocou.
+1061940 1063240 (00) Guaxa, o que aconteceu com a Esmeralda?
+1063560 1064820 (00) Morreu esquecido naquela ilhota?
+1065200 1066360 (00) Você vai saber disso ainda hoje.
+1066360 1071000 (00) E por que a criatura não faz nada com ele, sendo que a mesma teve algumas oportunidades de fazer algo?
+1071240 1072280 (00) A Esmeralda é muito mais poderosa.
+1072280 1078280 (00) Se a Samu conseguia fazer pequenas curas, pequenas magias, a Esmeralda conseguia fazer coisas grandes.
+1079320 1085920 (00) Ela estava com medo de lutar com seus pupilos em volta, porque provavelmente isso destruiria o barco e eles não teriam muito como se virar.
+1086300 1087860 (00) Derrotá-la não seria tão fácil.
+1088240 1091260 (00) É a principal sacerdotisa da deusa, né?
+1091540 1098700 (00) A aventura terminou muito de repente e está aparentando ter muito mais da aventura ainda, pois elas podem muito bem ainda estarem vivas.
+1098700 1100700 (00) Como na primeira vez que foram apagados e nocauteados.
+1101680 1102120 (00) Inclusive.
+1102280 1107040 (00) Porque o Marmelo só fez um barulho, tipo um nido, que teria apenas se machucado.
+1107580 1108860 (00) Assim, todos morreram, gente.
+1109300 1113820 (00) A primeira aventura de outubro, assim como a do ano passado, é um TPK.
+1114180 1116420 (00) É aquela hora que morrem todos os jogadores.
+1116840 1117580 (00) Não tem o que fazer.
+1117900 1119660 (00) A aventura podia ter vários finais diferentes.
+1120040 1121700 (00) Podia ter alguém ficado para se sacrificar.
+1122000 1124720 (00) Podiam não ter falhado nos dados e chegaram até o barco.
+1125040 1126460 (00) Podia alguém ter ficado para se sacrificar.
+1126460 1129180 (00) O Marmelo tentou fazer isso, mas a taxa não quis.
+1129480 1131280 (00) Foi aquele momento que caiu um dragão, sabe?
+1131560 1132260 (00) Eu não vou embora!
+1132280 1132860 (00) Eu vou embora sem a Uni.
+1133240 1134680 (00) No caso, eu não vou embora sem o Marmelo.
+1135220 1141980 (00) A Samu podia aceitar a benção daquela criatura, se tornar muito poderosa e eliminar aquelas criaturas.
+1142200 1145900 (00) Mas ela estaria corrompida para sempre e seria uma criatura muito poderosa.
+1146140 1147420 (00) Talvez gerando uma nova aventura.
+1147800 1150220 (00) O Marmelo fez pouco barulho porque é maldade, né, gente?
+1150240 1151320 (00) Eu fiquei muito triste com isso.
+1151720 1153580 (00) Mas sim, a aventura acabou ali.
+1153940 1157880 (00) Da primeira vez eles foram apagados e colocados para fazer parte daquele jogo.
+1158260 1161260 (00) Que iria definir quem iria devorar aquelas pessoas.
+1161260 1166480 (00) Mas perdeu a graça da brincadeira as criaturas da segunda vez.
+1166640 1168280 (00) Não vão errar a primeira.
+1168640 1169860 (00) Perderam, inclusive, o Pinheiro.
+1170260 1171340 (00) Não iam errar da segunda.
+1171960 1172440 (00) Ele continua.
+1172520 1173200 (00) E mais importante.
+1173620 1176540 (00) Faça uma continuação desse episódio em específico, por favor.
+1176640 1177300 (00) Pois ele merece.
+1177600 1177920 (00) Talvez.
+1178320 1178600 (00) Peça.
+1178720 1180260 (00) Eu e minha família amamos todas as suas aventuras.
+1181240 1184660 (00) Pois desde que descobrimos, ouvimos todos desde o episódio 1 até esse atual.
+1185000 1186720 (00) Em um dia quero ter a condição de ser padrinho.
+1187000 1188220 (00) Para poder participar com o player.
+1188540 1190440 (00) Ou até mesmo só fazendo voz no NPC.
+1190440 1191080 (00) Player.
+1191260 1194560 (00) A gente ser padrinho não te torna player, pelo amor de Deus.
+1194860 1195900 (00) São 400 pessoas.
+1196120 1197700 (00) Eu não vou chamar as 400 pessoas.
+1198100 1199720 (00) Acontece às vezes por coincidência.
+1200280 1201580 (00) Nessa aventura aqui, por exemplo.
+1201640 1202740 (00) Na aventura passada.
+1203080 1207460 (00) A Mel, o Ricardo e a Sinara são padrinhos.
+1207800 1208760 (00) Mas coincidência.
+1208840 1210200 (00) São meus amigos e tal.
+1210300 1211560 (00) Etc, etc, etc.
+1211920 1213080 (00) É uma série de fatores.
+1213460 1214540 (00) Não seja padrinho para jogar.
+1214880 1215780 (00) Seja por um milhão de coisas.
+1215880 1217040 (00) Seja para fazer voz de NPC.
+1217540 1219020 (00) Mas não para jogar.
+1219500 1219640 (00) Tá?
+1219640 1220420 (00) E por último.
+1220520 1220900 (00) Felipe Xavier.
+1221260 1224460 (00) Qual é a distância temporal desse episódio em relação a Luz do Farol?
+1224740 1225420 (00) Eu preciso.
+1225500 1227100 (00) Eu já comentei isso lá no grupo de padrinhos.
+1227520 1228800 (00) De um quadro grande.
+1229260 1230460 (00) Vários alfineiros coloridos.
+1230680 1231480 (00) E lã colorida.
+1231800 1233180 (00) Para fazer toda uma linha do tempo.
+1233800 1234880 (00) Imagine o seguinte.
+1235260 1236280 (00) Criaturas balões.
+1236600 1237960 (00) Uma linha reta por muito tempo.
+1238020 1238860 (00) Que só tinha um X.
+1239240 1239800 (00) Que virou Nelson.
+1239880 1240300 (00) Virou N.
+1240600 1241740 (00) Se divide em quatro.
+1242140 1244700 (00) Cada um deles tem uma cópia desse X.
+1245500 1246500 (00) Numa tem o Nelson.
+1246580 1247220 (00) Na outra tem o N.
+1247560 1248740 (00) Na outra tem outros nomes.
+1249220 1250380 (00) Sobra uma linha central.
+1250380 1251240 (00) Que é a linha variável.
+1251260 1251740 (00) Vazia.
+1252040 1253440 (00) Porque quando cada um foi para um lado.
+1253860 1255580 (00) Sobrou uma cópia vazia sem vida.
+1255940 1257440 (00) E nessa cópia vazia sem vida.
+1257760 1259720 (00) Também tem histórias contadas ali.
+1260000 1261280 (00) Existem duas outras linhas.
+1261660 1264360 (00) Que são realidades criadas por criaturas daquelas que fugiram.
+1264640 1265980 (00) Sempre pense em sete linhas.
+1266360 1267180 (00) Sete linhas.
+1267600 1268580 (00) E originalmente.
+1268940 1269500 (00) Quatro X.
+1270100 1270440 (00) Quatro.
+1270960 1271140 (00) É.
+1271160 1271640 (00) O Nelson.
+1271800 1272080 (00) N.
+1272320 1273740 (00) E os nomes que ele tem depois.
+1274540 1275100 (00) Originalmente.
+1275420 1276980 (00) Pode ser que em aventuras mais avançadas.
+1277100 1278560 (00) Tenham menos cópias desse X?
+1278860 1279200 (00) Pode.
+1279200 1280660 (00) Pode ser que tenham mais?
+1281100 1281200 (00) Talvez.
+1281940 1283120 (00) Voltando a pergunta do Felipe.
+1283520 1284260 (00) Distância temporal.
+1284600 1285520 (00) Eu imagino.
+1285860 1287680 (00) Eu teria que fazer contas e pensar um pouco.
+1288020 1288800 (00) Algumas semanas.
+1289280 1289700 (00) Pessoal.
+1289800 1291260 (00) Falei no episódio passado.
+1291380 1292040 (00) Vou repetir aqui.
+1292400 1294640 (00) Se chegar no Twitter do RP Guaxa.
+1294920 1296200 (00) A cinco mil seguidores.
+1297300 1297440 (00) Tá.
+1297820 1299340 (00) Eu faço um episódio.
+1299760 1300660 (00) Um Guaxa verso.
+1301260 1303360 (00) Comentando o primeiro episódio.
+1303700 1305340 (00) Das quatro gatas da bruxa.
+1305620 1306880 (00) Faço um Guaxa verso especial.
+1307220 1308100 (00) Para aquele episódio.
+1308440 1309180 (00) Vai sair extra.
+1309180 1310300 (00) Não vai nem ocupar lugar nenhum.
+1310560 1311180 (00) Vai sair extra.
+1311420 1312560 (00) Comentando o primeiro episódio.
+1313000 1314120 (00) Mas eu preciso até.
+1314340 1315340 (00) Final deste ano.
+1315520 1316820 (00) Até 31 de dezembro.
+1317220 1319260 (00) Chegar a cinco mil seguidores no Twitter.
+1319440 1321060 (00) Do Realidades Paralelas do Guaxinim.
+1321300 1321860 (00) Vai lá procurar.
+1321940 1322800 (00) Arroba RP Guaxa.
+1323040 1323720 (00) Chegou a cinco mil.
+1324020 1324960 (00) Garantiu esse extra.
+1325280 1325900 (00) E digo mais.
+1326240 1327220 (00) Se sair esse extra.
+1327700 1328840 (00) Faça uma nova aventura.
+1329220 1330020 (00) Naquele mundo.
+1330380 1331040 (00) Das gatas.
+1331520 1332480 (00) É uma aventura assim.
+1332720 1333820 (00) Temporalmente muito próxima.
+1334180 1335360 (00) Ou contando um pouco antes.
+1335760 1336780 (00) E mostrando aquela bruxa.
+1337060 1338240 (00) Ou contando um pouco depois.
+1338240 1339820 (00) O que aconteceu com aquelas meninas.
+1340160 1341040 (00) O que pode acontecer.
+1341260 1342160 (00) Naquela casa.
+1342300 1343660 (00) Com a que as gatas chegaram.
+1343880 1345060 (00) Mesma coisa para o Instagram.
+1345420 1345780 (00) O Instagram.
+1345920 1347800 (00) Se chegar a dois mil seguidores.
+1348080 1349980 (00) Teremos um Guaxa verso extra.
+1350340 1351660 (00) Sobre o episódio dois.
+1351960 1353240 (00) Sobre o Corvo.
+1353580 1354840 (00) O episódio mais amado.
+1354940 1356080 (00) Pela maioria dos ouvintes.
+1356140 1356820 (00) Eu não sei porquê.
+1357320 1357640 (00) Mas.
+1357940 1359420 (00) Se chegar a dois mil seguidores.
+1359660 1360940 (00) Até 31 de dezembro.
+1361260 1362160 (00) Lá no Instagram.
+1362560 1363520 (00) Episódio extra.
+1363900 1367040 (00) Contando tudo sobre o Guaxa verso.
+1367540 1369080 (00) Envolvendo o episódio do Corvo.
+1369420 1370360 (00) Fazendo ligações.
+1370560 1370880 (00) Como essa.
+1370960 1371240 (00) Que eu fiz.
+1371260 1372580 (00) Que outros episódios.
+1372640 1373700 (00) Será que apareceram o Corvo.
+1374000 1375160 (00) Será que ele realmente apareceu.
+1375340 1375840 (00) Eu acho que não.
+1376020 1376520 (00) Talvez sim.
+1377080 1377820 (00) Você vai descobrir isso.
+1377880 1379740 (00) Se chegar a dois mil seguidores.
+1380000 1380620 (00) Até final do ano.
+1380940 1382460 (00) No Instagram do RPG Guaxa.
+1382700 1383760 (00) Batendo essas metas.
+1383920 1385200 (00) A gente cria novas metas.
+1385540 1387060 (00) Chegou a ter um episódio extra.
+1387500 1388640 (00) Do Guaxa verso.
+1389100 1390320 (00) Do episódio do Corvo.
+1390700 1392300 (00) Eu vou contar uma aventura.
+1392640 1394120 (00) Também se passando muito próximos.
+1394120 1395020 (00) Daqueles eventos.
+1395300 1396340 (00) Ou antes daquela criança.
+1396360 1397200 (00) Começar a fugir.
+1397540 1398040 (00) Ou então.
+1398220 1399400 (00) Continuando os eventos.
+1399760 1400200 (00) Depois.
+1400960 1401240 (00) Que é uma coisa.
+1401260 1402160 (00) Continuação do Corvo.
+1402480 1403640 (00) Que é um Guaxa verso do Corvo.
+1404000 1404760 (01, 00) Dois mil seguidores.
+1405140 1405760 (00) Lá no Instagram.
+1406160 1406620 (00) Siga também.
+1406840 1407900 (00) O arroba Marcelo Guaxinim.
+1408200 1408580 (00) Tanto no Twitter.
+1408680 1409100 (00) Quanto no Instagram.
+1409480 1410820 (00) Não tem meta de seguidores.
+1411020 1411720 (00) Mas eu fico bem feliz.
+1411760 1412680 (00) Quando vocês me seguem.
+1412920 1413500 (00) E é bem bacana.
+1413520 1414100 (00) Eu entrar assim.
+1414140 1414780 (00) No Twitch Deck.
+1415160 1415840 (00) E aparecer que a pessoa.
+1415960 1416500 (00) Seguiu nos dois.
+1416880 1418040 (00) Dá para ver o carinho de vocês.
+1418380 1418540 (00) Então.
+1418880 1419320 (00) Siga lá.
+1419680 1420280 (00) Nas redes sociais.
+1420820 1421800 (00) Eu vou ler aqui o nome dos padrinhos.
+1421820 1423200 (00) Que assinaram desde o último Guaxa verso.
+1423540 1424880 (00) Antes de falar dos novos.
+1425240 1425680 (00) Falar de uma.
+1425740 1426960 (00) Que esteve no Guaxa verso passado.
+1427360 1427940 (00) Que reclamou.
+1427940 1429440 (00) Que eu falei o nome dela errado.
+1429820 1430120 (00) Eu falei.
+1430200 1430940 (00) Eu acho que Midori.
+1431380 1432240 (00) E o certo é.
+1432840 1433200 (00) Midori.
+1433560 1434080 (00) Acho que é isso.
+1434180 1434740 (00) Acertei agora.
+1435080 1435420 (00) Se errar.
+1435520 1436100 (00) Eu tenho de novo.
+1436320 1437020 (00) Mas quero agradecer também.
+1437040 1437560 (00) Os novos.
+1437680 1438400 (00) Ao Paulo.
+1438820 1440700 (00) Alexandro de Andrade Campos.
+1440700 1442000 (00) Ao Guilherme Fabrício.
+1442340 1443480 (00) Ao Marcos Takeuchi.
+1443880 1445220 (00) Ao Denis Rodrigues Pinho.
+1445600 1446880 (00) Ao Wagner Vilar da Silva.
+1447300 1448500 (00) Ao Jackson Luiz de Marco.
+1448840 1449760 (00) A Marília Castro.
+1449960 1451000 (00) Ao Brandon Souza.
+1451380 1452400 (00) Ao Felipe Rodrigues.
+1452660 1454020 (00) Ao Felipe de Moraes Matsuda.
+1454440 1455360 (00) Ao Giovanni Pinheiro.
+1455760 1456760 (00) Ao Pedro Rodrigues.
+1457020 1457900 (00) Ao Heitor Moraes.
+1458200 1459640 (00) Ao Yuri Vazquez da Conceição.
+1460020 1460700 (00) A Carolina Carvalho.
+1461460 1462380 (00) Ao Felipe Garcia.
+1462860 1464020 (00) Ao Claudio Piccoli.
+1464360 1465760 (00) Ao André de Souza Viana.
+1466160 1467700 (00) Ao João Pedro Rodrigues dos Santos.
+1468420 1469940 (00) A Júlia Itikawa.
+1469940 1472120 (00) Ao André Trapani Costa.
+1472480 1475160 (00) Ao Gustavo Moser Mariano.
+1475500 1477360 (00) E a Isolda Florencio.
+1477660 1479920 (00) Muito obrigado a todos vocês que apoiaram esse projeto.
+1480260 1481580 (00) Alguns nomes aqui estão repetidos.
+1481980 1482960 (00) Porque volta e meia.
+1483280 1484460 (00) PicPay e o Padrim.
+1484720 1487540 (00) Acaba cancelando a inscrição da pessoa.
+1487540 1489120 (00) Por algum problema técnico.
+1489460 1490740 (00) É mais comum no PicPay, inclusive.
+1491160 1492040 (00) Então dá uma conferida lá.
+1492380 1493720 (00) Vê se a sua assinatura está em dia.
+1494080 1494540 (00) Se ela não está atrasada.
+1495160 1496220 (00) Se ela não foi cancelada.
+1496600 1498980 (00) E, caso você queira, reassine.
+1499280 1500740 (00) Para continuar apoiando esse projeto.
+1501140 1502920 (00) E tendo as suas vantagens.
+1503800 1504860 (00) Muito obrigado a todos vocês.
+1505160 1506600 (00) Eu comecei esse projeto achando.
+1506940 1508540 (00) Ah, um escudo do mestre separado.
+1509180 1510240 (00) Vai ser fácil gravar.
+1510540 1511820 (00) E eu realmente estou aqui.
+1512100 1513720 (00) Já há 40 minutos falando.
+1513860 1515900 (00) É óbvio que depois das datas vai dar metade do tempo.
+1516460 1517520 (00) Porque eu não sou organizado.
+1517520 1518760 (00) Eu não organizo as coisas antes.
+1518860 1520120 (00) Eu só vou fazendo, né?
+1520500 1522140 (00) Me incentive a continuar fazendo.
+1522580 1523460 (00) Seja nosso padrinho.
+1523600 1524620 (00) Siga nas redes sociais.
+1525140 1526000 (00) Dê o seu feedback.
+1526300 1527920 (00) Ele é muito importante para a gente.
+1528340 1529380 (00) Beijo no coração de vocês.
+1529840 1531980 (00) Esse episódio saiu meio perdido na semana.
+1532360 1534740 (00) A ideia dos guachaversos é sair na quinta-feira.
+1534780 1535420 (00) Que não tem episódio.
+1535780 1537520 (00) Mas essa semana tivemos episódio extra.
+1537860 1539700 (00) E mesmo assim temos um guachaverso extra.
+1540060 1543180 (00) E o episódio extra também vai ter seu próprio guachaverso.
+1543520 1544200 (00) Fica ligado.
+1544360 1545220 (00) Eu não sei quando ele vai sair.
+1545600 1546880 (00) Mas deixa suas perguntas lá.
+1546880 1547500 (00) Deixa as perguntas.
+1547500 1548880 (00) As perguntas nos próximos episódios.
+1549160 1551120 (00) Tem muita coisa maravilhosa para chegar.
+1551480 1553820 (00) Se você tem dúvidas sobre essa explicação que eu dei no começo.
+1554040 1555880 (00) Dos deuses, das criaturas.
+1556340 1556800 (00) Calma.
+1557160 1559480 (00) Outros episódios vão explicar isso muito melhor.
+1559820 1560500 (00) Melhor do que eu.
+1560860 1562800 (00) Outros guachaversos vão existir.
+1562980 1566100 (00) Isso significa que todos os mundos são interligados por essa teoria.
+1566360 1567580 (00) Das criaturas balão.
+1567940 1569500 (00) E dos universos separados.
+1569880 1570180 (00) Não.
+1570760 1571920 (00) Isso é só para esse episódio.
+1572280 1573360 (00) Porque cada episódio é único.
+1573760 1575320 (00) O guachaverso, como vocês sabem.
+1575320 1576520 (00) Ele só existe.
+1576520 1577620 (00) No seu feed.
+1578100 1579020 (00) E nos nossos corações.
+1579420 1580320 (00) Beijo no coração de vocês.
+1580460 1580700 (00) E até.
+1606520 1607520 (unknown) Tchau.
+1612180 1612680 (00) Venci.
+1613780 1614780 (00) Me custou um braço.
+1614940 1616160 (00) Mas espantei a criatura.
+1618640 1620180 (00) Preciso parar esse sangramento.
+1620720 1623460 (00) Tenho certeza que logo os aprendizes estarão aqui para me pegar.
