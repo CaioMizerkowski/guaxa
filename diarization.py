@@ -1,9 +1,10 @@
+from pathlib import Path
+
 import torch
+import torchaudio
 from dotenv import dotenv_values
 from pyannote.audio import Pipeline
 from pyannote.audio.pipelines.utils.hook import ProgressHook
-import torchaudio
-from pathlib import Path
 
 env = dotenv_values(".env")
 pipeline = Pipeline.from_pretrained(
