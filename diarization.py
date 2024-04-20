@@ -27,11 +27,22 @@ def diarize(audio_path):
     output_path = Path(audio_path).parent / "diarization.txt"
     with open(output_path, "w") as f:
         for turn, _, speaker in diarization.itertracks(yield_label=True):
-            f.write(f"start={turn.start:.1f}s stop={turn.end:.1f}s speaker_{speaker}\n")
+            f.write(
+                f"start={int(turn.start*1000)}ms stop={int(turn.end*1000)}ms speaker_{speaker}\n"
+            )
 
 
 if __name__ == "__main__":
-    audio_path = Path(
-        "transcricoes/rpguaxa/a__espera_rpguaxa_153/a__espera_rpguaxa_153.mp3"
-    )
-    diarize(audio_path)
+    root = Path("transcricoes")
+
+    audio_path = Path("transcricoes/rpguaxa/o_corvo_rpguaxa_02/o_corvo_rpguaxa_02.mp3")
+    if not (audio_path.parent / "diarization.txt").exists():
+        print(audio_path)
+        diarize(audio_path)
+
+    for mp3 in root.rglob("*.mp3"):
+        audio_path = Path(mp3)
+
+        if not (audio_path.parent / "diarization.txt").exists():
+            print(audio_path)
+            diarize(audio_path)
