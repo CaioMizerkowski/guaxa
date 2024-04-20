@@ -1,0 +1,2986 @@
+0 6000 (unknown) MÚSICA
+30000 40000 (05) MÚSICA
+60000 70000 (05) MÚSICA
+90000 94000 (05) MÚSICA
+120000 122000 (unknown) MÚSICA
+150000 154940 (11, 12) O mago lança seu Thunderbolt mais 15 no Beholder
+154940 157340 (11, 12, 15) Eu quero rolar a percepção, posso?
+158340 159740 (15) Tem algum lugar pra se esconder?
+160380 162680 (13) Ah, falha a crítica
+162680 164140 (13) Ataque de impunidade!
+164320 166600 (13, 00) Erro, meu! Chamo o clínico!
+169360 172960 (00) RPG Realidades Paralelas do Guaxinim
+172960 175900 (00) Sua aventura de bolso na forma de podcast
+175900 178820 (00) Uma jornada completa a cada episódio
+180000 182000 (00) MÚSICA
+182000 199580 (05, 12) Vocês nasceram então, vocês foram clonados e alterados geneticamente
+199580 201300 (05) Vocês são seres humanos perfeitos
+201300 203660 (05) Vocês moram num lugar chamado Novo Éden
+203660 208400 (05) Esse lugar é na verdade uma base, uma cidade espacial
+208400 209980 (05) Ela foi criada para os seres humanos
+209980 212920 (05) Poderem viajar mais facilmente para o espaço
+212920 214720 (05) Mas antes de a gente conseguir ir muito longe
+214720 215760 (05) Algo aconteceu
+215760 218440 (05) E a ideia que era viajar para o espaço
+218440 219800 (05) Simplesmente mudou para
+219800 222340 (05) Vamos sobreviver e fundar uma cidade aqui
+222340 224360 (05) Como eram poucas pessoas que habitavam
+224360 225560 (05) E tinha um espaço enorme
+225560 227720 (05) Porque a meta era realmente ter uma cidade ali
+227720 230920 (05) Na base de clonagem, de alteração genética
+230920 232840 (05) Foi criado outras gerações
+232840 235580 (05) Algumas crianças voltadas mais para o ensino
+235580 237640 (05) São cientistas, são professores
+237640 239960 (05) E algumas crianças mais voltadas para o combate
+239980 243080 (05) Normalmente você nasce e provavelmente vai morrer
+243080 244500 (05) Naquilo que tu foi escolhido
+244500 245880 (05) Embora exista uma exceção
+245880 247260 (05) Que é o Capitão Fencas
+247260 250500 (05) Que ele nasceu para ser da área científica
+250500 253980 (05) Mas todas as pesquisas deles envolvia a parte bélica
+253980 254780 (05) Envolvia armas
+254780 258040 (05) E ele acabou pedindo para ir para o lado do combate
+258040 259780 (05) É ele que está diante de vocês
+259780 261720 (05) Vocês estão prontos para a primeira missão
+261720 263360 (05) Acabaram de sair da academia
+263360 264720 (05) E ele fala para vocês
+264720 265640 (05, 11) Como devem saber
+265640 267460 (11) Em algum ponto do passado
+267460 269380 (11) Uma explosão aconteceu sobre o Pacífico
+269380 269960 (11) Essa explosão foi uma explosão
+269980 271060 (11) Uma explosão gerou uma onda
+271060 273540 (11) Que desligou todos os equipamentos eletrônicos da Terra
+273540 276360 (11) Os que tiveram sorte morreram naquele momento
+276360 278900 (11) E nem mesmo os geradores da gasolina funcionaram
+278900 280940 (11) A escuridão era geral
+280940 283760 (11) Saque a lojas, brigas, assassinatos
+283760 284540 (11) Medo
+284540 286720 (11) As informações depois disso são imprecisas
+286720 288460 (11) Devido a falta de comunicação
+288460 289580 (11) Mas conta-se
+289580 292140 (11) Que primeiro vieram os monstros marinhos
+292140 293420 (11) Criadores gigantes
+293420 296340 (11) Atacando barcos e todas as cidades costeiras
+296340 299240 (11) Depois os mortos começaram a voltar à vida
+299240 299960 (11) Para cair na terra
+299980 301420 (11) Caçar seus entes queridos
+301420 302540 (11) E matá-los
+302540 304820 (11) Grandes répteis gigantes
+304820 306120 (11) Monstros
+306120 307240 (11) Dragões
+307240 308960 (11) Morte e destruição
+308960 309880 (11) Para todo lado
+309880 311700 (11) Existem relatos de anjos
+311700 313060 (11) Mas são tão poucos
+313060 314740 (11) Que eu suponho que seja somente uma lenda
+314740 316580 (11) Uma alucinação
+316580 318820 (11) E se forem realmente verdade
+318820 320280 (11) Essas aparições, bem
+320280 322400 (11) O cenário é ainda pior
+322400 324540 (11) Porque eles já foram dizimados
+324540 325660 (11) Sim, senhores
+325660 326840 (11) O apocalipse
+326840 328540 (11) O apocalipse aconteceu
+328540 329700 (11) E devem resistir muito mais
+329700 329840 (11) E devem resistir muito mais
+329840 332160 (11) Menos que 1% da população mundial
+332160 333220 (11) Habitando a terra no momento
+333220 334660 (11) Menos de 1%
+334660 335780 (11) Novo Éden
+335780 337840 (11) Nosso querido, nosso amado lar
+337840 340840 (11) Inicialmente projetado para ser uma cidade no espaço
+340840 343340 (11) Uma base flutuante que lançaria o homem
+343340 345160 (11) Aos cofins do universo
+345160 346420 (11) Ele foi poupado
+346420 348020 (11) Nada nos afetou
+348020 348760 (11) Isso preservou
+348760 351200 (11) Alguma das maiores mentes do planeta
+351200 353280 (11) E permitiu nossa sobrevivência
+353280 354160 (11) Vocês
+354160 356620 (11) Vocês nasceram para serem soldados
+356620 357720 (11) Estaram seu DNA
+357720 359280 (11) Desde sua clonagem
+359280 360720 (11) E manipulação genética
+360720 361880 (11) Vocês
+361880 364260 (11) Vocês são seres humanos perfeitos
+364260 365620 (11) Em seus ápices
+365620 366820 (11) Mentais e físicos
+366820 367960 (11) Perfeitos
+367960 369540 (11) Cresceram sendo preparados
+369540 371400 (11) Para este exato momento
+371400 372520 (11) E agora
+372520 373860 (11) Agora chegou a hora
+373860 374980 (11) Vocês
+374980 376980 (11) Retornarão à terra
+376980 378880 (11) O equipamento que vão receber
+378880 380320 (11) Fui eu mesmo que projetei
+380320 382840 (11) A roupa e o capacete que estão recebendo
+382840 384400 (11) São resistentes a tiros
+384400 385300 (11) Lasers
+385300 385980 (11) Fogo
+385980 386640 (11) Ácido
+386640 387400 (11) Água
+387400 388600 (11) Objetos cortantes
+388600 390720 (11) Só não são muito bons em absorver impacto
+390720 391700 (11) Tenham muito cuidado com isso
+391700 392280 (11) Muito cuidado
+392280 394420 (11) O capacete possui um computador pessoal
+394420 397400 (11) Uma versão aprimorada dos antigos óculos computadores
+397400 400320 (11) Mas por não existir mais uma rede mundial de computadores
+400320 402620 (11) Ele possui muitos registros offline
+402620 404160 (11) E uma conexão com a base
+404160 406180 (11) Embora seja um pouco lenta
+406180 407260 (11) Quando acessada pela terra
+407260 409160 (11) Suas pistolas disparam lasers
+409160 411280 (11) Que podem ser ajustados para atordoar
+411280 412260 (11) Ou para matar
+412260 413720 (11) Agora vamos ao seu veículo
+413720 415380 (11) Eu os chamo de anjos
+415380 417480 (11) São armaduras robóticas
+417480 418240 (11) De 5 metros de altura
+418240 418400 (11) De 5 metros de altura
+418400 419120 (11) De 5 metros de altura
+419120 421340 (11) Transportam apenas uma pessoa
+421340 422640 (11) E uma pequena carga
+422640 425360 (11) E funcionam mais ou menos como uma armadura
+425360 427200 (05, 11) Aí vocês veem robôs gigantescos
+427200 428080 (05) Todo branco né
+428080 429120 (05) Eles são humanoides
+429120 431460 (05) Tem asas de metal atrás deles
+431460 433760 (05, 11) Cada um deles pode ser equipado com duas armas
+433760 434840 (11) A escolha é de vocês
+434840 436580 (11) De acordo com suas maestrias
+436580 439220 (11) Espada, lança, rif de precisão
+439220 440920 (11) Metralhadora giratória laser
+440920 442180 (11) Lança granadas
+442180 444720 (11) As asas além de garantir o voo
+444720 446400 (11) Podem ser usadas para dar um impulso
+446400 448280 (11) Tanto de investida quanto de recurso
+448400 450440 (11) Aqui estão os projetos
+450440 452360 (11) Se precisarem fazer algum ajuste
+452360 453680 (11) Vocês tem uma hora
+453680 455600 (11) A missão de vocês é simples
+455600 456640 (11) Ir à terra
+456640 459700 (11) Verificar como estão vivendo os seres humanos
+459700 462060 (11) 40 anos depois do fim dos tempos
+462060 463800 (11) Querem uma análise comportamental
+463800 465020 (11) Amostras de sangue
+465020 466020 (11) Ou o que puderem descobrir
+466020 468540 (11) Vão ficar 3 dias em solo
+468540 472120 (11) E a final de cada dia enviarão relatórios pessoais
+472120 473700 (11) Sobre tudo o que aprenderam
+473700 475140 (11) Façam interações pacíficas
+475140 476360 (11) Quando possível, claro
+476360 477400 (11) Alguma pergunta?
+478400 480140 (11, 04) Posso pintar o meu anjo de preto?
+480440 481060 (04) Sim, pode
+481060 481800 (05, 04) Obrigado
+481800 484680 (05) Todos os três anjos tem nomes neles
+484680 485620 (05) E os nomes são
+485620 488180 (05) Gaspar, Baltazar e Belchior
+488180 489260 (05, 07) Eu quero Belchior
+489260 490520 (07) Eu tô com Baltazar
+490520 491580 (07) Fico com Gaspar
+491580 492840 (07) Ah, então deu certinho
+492840 494120 (05, 07) Anselmo, Belchior
+494120 495300 (05) Felipe, Baltazar
+495300 495900 (05) Correto
+495900 497020 (05) E Gaspar é a Cris
+497020 497500 (05) Isso
+497500 500560 (05) Normalmente eu pediria que vocês descrevessem o personagem de vocês
+500560 503080 (05) Mas vocês são muito fortes
+503080 504760 (05) Parte física de vocês está no ápice
+504760 506640 (05) O cabelo dos homens é curto
+506640 508240 (05) Batidinho na cabeça mesmo
+508240 509700 (05) Mal dá pra ver a cor
+509700 511280 (05) E das mulheres é curto
+511280 512500 (05) Curto, curto
+512500 513760 (05) Mas tem cabelo ainda
+513760 514760 (05) Como é que eu posso descrever isso?
+514860 515420 (05) Só curto
+515420 516120 (05) É, curto
+516120 518740 (05) Qual a cor do cabelo de vocês e dos olhos?
+519060 521000 (02) Meu cabelo é preto e meus olhos são vermelhos
+521000 521580 (05, 02) Felipe?
+521840 524100 (05) Cabelo preto, olhos negros
+524100 524940 (05) E o Anselmo?
+525360 527200 (05, 04) Cabelos e olhos castanhos
+527200 527900 (05, 04) Perfeito
+527900 530260 (05) Todos vocês receberam um número quando nasceram
+530260 532580 (05) Não tiveram nenhuma criação familiar
+532580 534180 (05) Cresceram junto com outras crianças
+534180 536160 (05) Foi realmente saíram de tubos de ensaio
+536160 537380 (05) E foram crescer
+537380 538220 (05) E cada um de vocês recebeu um número quando nasceram
+538240 540920 (05) E cada um de vocês recebeu um código quando nasceu
+540920 542880 (05) A Cris então se chama C-28
+542880 544120 (05) Pode ser chamada só de C
+544120 547500 (05) Porque não tem nenhuma outra da mesma linha de produção que ela
+547500 549000 (05) O Felipe se chama F-15
+549000 551700 (05) E o Anselmo se chama A-37
+551700 552080 (05) Tá
+552080 555000 (05) Cris, tem que escolher duas armas pro teu anjo
+555000 555600 (05) Qual seriam?
+555820 557080 (07, 02) O rifle e a metralhadora
+557080 557720 (05, 02) Felipe?
+558100 561260 (07, 04) Uma lança e um lança-granadas
+561260 562140 (05, 04) Anselmo?
+562320 564100 (04) A espada e o lança-granadas
+564100 566240 (04) Eu não sei porque com uma metralhadora laser
+566240 567420 (04) Precisa ser giratória
+567420 568080 (04) Mas enfim
+568080 568220 (04) Eu não sei porque com uma metralhadora laser
+568240 569000 (05) Estética
+569000 571540 (05, 02) A gente sabe se as coisas voltaram a funcionar na Terra
+571540 572040 (05, 02) Não
+572040 575240 (05) Vocês fazem ajustes nos trajes de vocês
+575240 576100 (05) Nos anjos, né?
+576300 577460 (05) Escolhem as armas deles
+577460 579000 (05) O Capitão Fencas volta
+579000 580120 (05) Fala pra vocês
+580120 582560 (05, 11) Acho que esse local seria um bom ponto para começar
+582560 584340 (05, 11) Ele abre um mapa da Terra
+584340 585820 (05) Um mapa holográfico
+585820 587720 (05) Com a mão dando zoom ali
+587720 590240 (05, 11) Esse local abaixo de nós está gerando um tipo de
+590240 591960 (11) Que energia estranha
+591960 592840 (11) Ok, senhor
+592840 593760 (11, 07) Positivo
+593760 595360 (07) Eu só acendo um positivo com a cabeça
+598240 609300 (unknown) Que eu sou uma pessoa que só tem uma cabeça
+609300 609800 (05) Que eu sou uma pessoa que só tem uma cabeça
+609800 614320 (05) Vocês são praticamente lançados em direção à Terra, né?
+614360 615120 (05) Porque vocês estão no espaço
+615120 617780 (05) Vocês sentem muito calor durante a reentrada
+617780 618940 (05) Mas logo passa
+618940 621060 (05) O projeto dos anjos realmente funciona
+621060 621920 (05) O que é maravilhoso
+621920 623460 (05) Porque é a primeira vez que eles são testados assim
+623460 625600 (05) E vocês conseguem pousar em solo
+625600 628020 (05) Não exatamente onde tinha aquela fonte de luz
+628020 630360 (05) mas bem próximo. O lugar que vocês estão
+630360 632640 (05) parece ser uma grande cidade
+632640 634380 (05) ou era. Tem nenhum prédio
+634380 636640 (05) em pé, embora tenha concreto, vidro
+636640 638380 (05) carros pra todos os lados
+638380 640300 (05) tudo muito destruído. Tem
+640300 642840 (05) bastante mato, principalmente os cipós
+642840 644300 (05) tentando crescer por cima
+644300 646300 (05) desse concreto, embora não tenha
+646300 648660 (05) grandes árvores, nem nenhuma vegetação
+648660 650880 (05) alta, tudo é meio rasteiro
+650880 652040 (05, 07) A gente tá
+652040 654040 (07) distante da cidade
+654040 656440 (07) provavelmente a galera viu alguma coisa caindo
+656440 658040 (07) mas não sabe que é a gente ainda
+658040 660660 (07) O nosso traje consegue verificar as condições
+660660 662800 (07) de suporte à vida do planeta, eu acho
+662800 665000 (05) Sim, o oxigênio
+665000 666500 (05) ele nunca esteve tão limpo, o ar
+666500 668640 (05) dos registros que vocês tem da época
+668640 670560 (05) que a terra estava tranquila
+670560 672680 (05) de 40 anos atrás, o ar
+672680 674140 (05) deu uma melhorada
+674140 676600 (05) o solo ali tem muito concreto
+676600 678620 (05) mas ele não chega a ser estéreo
+678620 680800 (05) até pelas plantas que estão ali. O que mais de informação
+680800 682800 (05, 07) tu precisaria? Grupo, a gente
+682800 684820 (07) chega lá com uma armadura de 5 metros
+684820 686420 (07) com arma Telstein
+686420 688280 (07) isso acho que vai ser um pouco
+688280 690520 (07, 12, 04) assustador. É. Sim, mas
+690520 692300 (04) podemos dar uma investigadinha aqui
+692300 694360 (04) se a gente acha alguma coisa também que a gente tem
+694360 696460 (07, 04) que reportar tudo que a gente encontrar. Beleza
+696460 698660 (07) então vamos dar uma procurada
+698660 700440 (07) né, vamos com calma chegando perto
+700440 702440 (05, 07) da cidade. Na verdade vocês sabem
+702440 704260 (05) de lugar que tem uma energia que não foi
+704260 706400 (05) identificada qual a fonte. Pode ser
+706400 708600 (05) uma cidade, uma construção, alguma coisa
+708600 710340 (05, 04) Ah, tá. Achei que já era
+710340 712320 (05, 04) sabido a... Não, não citei
+712320 714300 (05, 04) a informação. Nesse caso eu não saio do meu
+714300 716400 (07, 02, 04) traje por nada. Eu ia dizer isso agora, baseado
+716420 718380 (02) nessas estatísticas. Dá vontade de
+718380 720440 (02) abrir isso aqui e dar uma fungada no ar
+720440 722380 (02) pra saber como é que é. Mas é melhor
+722380 724340 (02) a gente ir com os trajes pra a fonte de
+724340 726440 (02, 04) energia. É, vamos devagar
+726440 728660 (04) olhando, mas vambora. É, concordo
+728660 730400 (05, 04) Enquanto vocês vão andando, algumas
+730400 732460 (05) criaturas pequenininhas, parecem
+732460 734400 (05) uma mistura de gato com
+734400 736480 (05) réptil, com pequenos chifres, eles estão
+736480 738400 (05) andando por ali e quando notam
+738400 740340 (05) vocês, eles fogem. São criaturas
+740340 742640 (05, 07) pequenas. Dou uma escaneada na criatura
+742640 744260 (07) assim e vou registrando tudo
+744260 746060 (05, 02) O óculos tira foto? Tira
+746420 748240 (02) Eu tiro uma foto com o óculos
+748240 750400 (05) A criatura não é desse... Não
+750400 752720 (05) tá catalogada. Ela provavelmente não é
+752720 754200 (05) deste mundo, essas criaturinhas
+754200 756740 (05, 07, 02) Ok. Isso não vai acabar bem. Relaxa
+756740 758860 (05, 02) Tudo certo. Essa criatura não tá no catálogo
+758860 760660 (05, 02) e eu vou dar nome pra ela. Pode
+760660 762880 (05) fazer isso, é. Pode inclusive incluir no catálogo
+762880 764820 (05) pra quando voltar já ter o nome
+764820 766900 (05) lá. À medida que vocês vão andando
+766900 768500 (05) vocês se afastam um pouco daquele lugar que
+768500 770620 (05) teriam grandes prédios ali pela destruição
+770620 772680 (05) e uma vegetação fica um pouco
+772680 774620 (05) maior, um pouco mais verde, mas
+774620 776300 (05) ainda assim arbustiva e tal, não
+776420 778500 (05) chega a ter grandes árvores e vocês
+778500 780440 (05) notam já a distância, né?
+780540 782620 (05) Antes de precisar se aproximar muito. O local
+782620 784520 (05) que vem essa energia toda parece
+784520 786720 (05) ser uma igreja. E essa igreja, ao contrário
+786720 788500 (05) de tudo até agora, ela tá de pé
+788500 790900 (05, 02) e parece bem firme. Eu procuro ao redor
+790900 792580 (02) ainda do lado de fora, algum
+792580 794600 (02) lugar onde toda a minha armadura
+794600 796500 (02) fique escondida atrás. Tem algo tão
+796500 798360 (05, 02) grande? Tem algumas pilhas grandes
+798360 800340 (05) de concreto e ferro retorcido que
+800340 802100 (05, 02, 04) poderia botar atrás da armadura. Ok.
+802340 804500 (04) Esse capacete que a gente tá usando, a gente
+804500 806400 (04) consegue dar zoom na visão? Consegue.
+806420 808640 (02, 04) Vamos dar um zoom e olhar o...
+808640 810240 (02) F, eu vou ficar aqui atrás
+810240 812600 (02) porque eu tenho uma arma de longo alcance
+812600 814500 (02, 04) se vocês quiserem entrar, eu fico dando
+814500 816220 (04) cobertura. Boa. Beleza.
+816380 818420 (04) Vamos dar um zoom
+818420 820320 (04) ali e ver se a gente vê algum movimento primeiro.
+820480 822620 (05) Tá. A igreja parece que adaptaram
+822620 824500 (05) em cima dela uma chaminé que tá saindo
+824500 826480 (05) fumaça. Ela parece ser bem grande.
+826580 828340 (05) Ela tem alguns anexos que foram construídos
+828340 831120 (05) recentemente, pelo visto. E...
+831120 832560 (05) a igreja parece ter sido reformada
+832560 834580 (05) há pouco tempo. Tá lá. Pelos registros
+834580 836280 (05) históricos, havia uma igrejinha ali,
+836420 838300 (05) há muito tempo, no passado, mas ela era
+838300 840100 (05) menor, né, do que a estrutura que tá agora.
+840180 842720 (05, 04) Tá certo. A gente tem comunicação entre a gente?
+843080 844520 (05, 02, 04) Sim. Tá. Dá pra ouvir do lado
+844520 846040 (02) de fora, a gente faz barulho quando
+846040 848480 (05, 02) se comunica ou só a gente escuta? Só vocês
+848480 850760 (05) escutam. O som só sai de dentro
+850760 852260 (05) do anjo se vocês quiserem.
+852400 854200 (04) Tá. Então se a C vai ficar
+854200 856360 (04) atrás dando cobertura ali, vamos um
+856360 858360 (04) de cada lado. Isso. Eu vou pelos fundos,
+858460 860000 (04) você vai pela frente. Beleza.
+860320 862300 (05, 04) E aí a gente vai andando. Ok. Vocês se
+862300 864700 (05) aproximam até um ponto em que
+864700 866400 (05) uma parede invisível
+866420 868420 (05) para vocês. Uma espécie de
+868420 870660 (05) campo de força impede vocês de continuar.
+870960 872000 (02) Por que vocês pararam de andar?
+872340 874500 (05, 04) Tem algum campo de força, alguma coisa aqui que a gente
+874500 876740 (07, 04) não consegue andar. Eu pego minha lança
+876740 878500 (07) e tento forçar um pouco o campo
+878500 880440 (07) de força, assim. Acontece alguma coisa?
+880560 882740 (05, 07) A lança solta algumas faíscas
+882740 884320 (05, 07) e parece que vai entortar. É.
+884560 886200 (07) E é bem resistente, inclusive.
+886420 888260 (05, 07) Quem foi pela frente? Eu. Tá.
+888560 890480 (05) A porta se abre, ninguém sai
+890480 892580 (05) lá de dentro, a porta se fecha
+892580 894100 (05) e uma voz fala pra ti.
+894100 895860 (05, 15) Você precisa deixar
+895860 897640 (15) todas as suas armas
+897640 900060 (15) para conseguir passar. Quem é
+900060 901920 (04, 15) você? Eu sou o padre
+901920 903980 (15) Misael. Eu cuido
+903980 906100 (04, 15) dessa igreja. Eu não tô
+906100 908060 (04) vendo ele, né? Não. Tô falando
+908060 910100 (04) com o ar, assim. Isso. Perturbador.
+910340 912040 (04) Eu não consigo te ver, como é que eu posso
+912040 914060 (15, 04) acreditar nisso? Você não consegue me
+914060 916080 (04, 15) ver? Não. Estranho.
+916180 918080 (15) Eu estou só te ouvindo. Talvez eu
+918080 919860 (15) fique visível do lado de cada
+919860 922100 (15) barreira. Mas como é que eu consigo
+922100 924260 (15) passar pra lá da barreira? Somente
+924260 925600 (15) aquele livre de todas as...
+925600 927540 (15) Todas as armas e todas as
+927540 929540 (15) intenções malignas. Pode
+929540 931360 (15) se aproximar da casa
+931360 933500 (15) do senhor. Eu posso dar um jeito
+933500 934080 (15) nas armas.
+937300 939460 (07) Eu vou gravando esse áudio
+939460 941700 (07) e vou registrando ali, campo de
+941700 943440 (07) força. O cara tá invisível.
+943700 945160 (04) Você tá conversando com uma pessoa invisível?
+945420 947700 (04) Eu falo só internamente aqui
+947700 949520 (04) por dentro do capacete. Sim, tem uma
+949520 951660 (04) voz aqui. Começou a falar o padre
+951660 953460 (04) Misael e
+953460 955480 (04) ele disse que só quem está livre de
+955480 957440 (04) suas armas e da intenção
+957440 959460 (04) maligna pode passar nesse campo de força.
+959700 961700 (04) A gente não consegue atravessar por causa da armadura.
+961860 963120 (02) Pergunta aí de quem criou isso.
+963400 965560 (04) Tá. Ô, padre, quem é que criou
+965560 967380 (04) esse campo de força? De onde é que ele vem?
+967500 969720 (15) Eu e meus fiéis criamos
+969720 971520 (04, 15) a barreira. Mas vocês fazem
+971520 972540 (04) isso como?
+973180 974660 (15) Com fé. Oxi.
+976140 977520 (07) Ela não era tão forte assim
+977520 979520 (07) 40 anos atrás. Eu vou dando
+979520 980920 (07) a volta na igreja assim.
+981300 982840 (07) Chego assim perto do ser.
+983740 985320 (07) Tento encontrar o...
+985320 987200 (05, 07) a origem dessa voz. Parece vindo
+987200 989060 (05) a porta ali, mas não tem nada lá.
+989300 991620 (07) Aí, comunicação interna. Seguinte,
+991840 993340 (07) eu saio da armadura...
+993340 995080 (07) Aliás, primeiro eu tiro as armas e vou tentar
+995080 997260 (07) entrar com a armadura. Se caso ainda não
+997260 999200 (07) funcionar, eu saio da armadura e vocês
+999200 1001240 (07) ficam atentos se alguma coisa acontecer.
+1001460 1003460 (07, 04) Qualquer coisa eu volto e falo pra vocês.
+1003780 1005300 (04) Beleza. Só que se alguma coisa
+1005300 1007220 (04) acontecer, tudo que a gente vai poder fazer é ver
+1007220 1009120 (04) mesmo, né? Se arma não entra, não adianta
+1009120 1011060 (05, 04) atirar daqui de fora. Ou nem isso, né?
+1011100 1013240 (05) Porque até agora vocês não viram nada de efetivo lá dentro.
+1013480 1015280 (05, 07) Então, vamos lá. Primeiro,
+1015280 1017420 (07) eu tiro a lança e tiro a lança-granada
+1017420 1019320 (05, 07) e tento passar no escudo. Não.
+1019600 1021380 (05) Ah, bom. Tu lembra que tu tem no teu
+1021380 1023420 (05) coldre uma pistola caso tu precise
+1023420 1025220 (05, 07) sair da armadura, né? Caraca.
+1025500 1027340 (07) Eu vou tentar, assim, o campo
+1027340 1029440 (07) de força, quando eu, sei lá,
+1029520 1031680 (07) vou num pedaço de terra, eu cavo,
+1031980 1033360 (07) ele continua, assim,
+1033460 1035060 (05, 07) por debaixo da terra? Continua.
+1035160 1037300 (05, 07) É uma redoma perfeita. Mas que campo de
+1037300 1038180 (07) força bom, hein, rapaz?
+1039500 1041120 (07) Tá bom. É muita fé.
+1041160 1043400 (07) Eu saio da armadura e coloco a cabeça
+1043400 1044560 (07) pra dentro do campo.
+1045280 1047560 (05, 07) Isso é alguma coisa. Tá. Tu sai da armadura,
+1047660 1049700 (05) tu tá com o teu traje e tu vai deixar a pistola
+1049700 1051540 (05) dentro do Baltazar.
+1051840 1053420 (07) Isso. Aí eu ativo o alarme dele.
+1053640 1055740 (05, 07) Tá. O F-15, então, ele
+1055740 1057900 (05) só usando o traje de proteção
+1057900 1059900 (05) e o capacete e um coldre vazio,
+1060040 1061840 (05) ele consegue atravessar o campo de força.
+1062040 1063860 (05, 07) O que que eu vejo? Vocês continuam
+1063860 1065760 (05) vendo ele e ele continua vendo só a
+1065760 1067480 (05, 07) porta da igreja aberta. Tá. Eu
+1067480 1069760 (07) volto e saio do campo de
+1069760 1071660 (07) força e falo, cara, olha, então,
+1071660 1073800 (07) eu não te vi ainda. Tente tirar
+1073800 1074780 (07) o capacete.
+1075280 1077660 (05, 07, 15) A qualidade do ar tava
+1077660 1079720 (07) boa, né? Eles tão me ouvindo dentro do campo
+1079720 1081360 (07) de força? Como assim, tão te ouvindo?
+1081520 1083560 (07) Eu ainda consigo comunicar com eles
+1083560 1086040 (05, 07) lá dentro desse campo de força? Com o capacete,
+1086120 1087600 (05) sim. Tirar o capacete, tu fica sem
+1087600 1089500 (05, 07) comunicação. Oh, então,
+1089900 1091380 (07) é padre, né? Isso.
+1091720 1094060 (07) Então, se eu tirar esse capacete,
+1094280 1095680 (07) pode ser que eu, enfim,
+1095960 1097640 (07) fique um pouco doente, alguma coisa.
+1097900 1099980 (07, 15) O campo de força nos protege
+1099980 1101980 (15) de tudo, incluindo de doenças.
+1102780 1104000 (15) Bom, tudo pela informação.
+1104280 1105080 (07, 15) Eu tiro o capacete.
+1105280 1107260 (05) Eu tiro o capacete, tem um senhor
+1107260 1109640 (05) carequinha, assim, meio curvadinho,
+1109720 1111840 (05) jacotempo, usando uma roupa
+1111840 1113600 (05) marrom, assim, preso com uma cordinha,
+1113660 1115680 (05) meio franciscano, né? Ele tá sorrindo
+1115680 1117540 (05, 07) na porta pra ti. Ok, eu vejo
+1117540 1119720 (05, 07) só ele, mais alguma coisa, nada? Só ele
+1119720 1121920 (05) e a porta aberta e ele tá lá te convidando
+1121920 1124180 (05, 07) a entrar. Ah, sim, só um instantinho.
+1124480 1125680 (07) Eu esqueci algum...
+1125680 1127480 (07) a minha carteira ali. Eu já volto.
+1127660 1129380 (07) Eu boto o capacete, vou lá pra fora.
+1129380 1131300 (07) Oh, gente, então, de fato
+1131300 1133480 (07) tem um padre, parece um
+1133480 1135260 (07) franciscano e, bom,
+1135400 1137320 (07, 02) parece amigável. Parece amigável?
+1137580 1139580 (07, 02) Bom, não me atacou. Você perguntou
+1139580 1141420 (02) a ele por que ele fez
+1141420 1143660 (07, 02) esse redom? Bom, não, mas
+1143660 1145700 (07) segundo ele, a redoma
+1145700 1147540 (07) protege de tudo que tá
+1147540 1149180 (07) externo, dali de dentro.
+1149460 1150720 (07, 02) E o ar, como é que é? Olha,
+1151420 1153560 (07) melhor do que aquele ar-condicionado
+1153560 1155540 (07) lá da base, viu? Realmente
+1155540 1157160 (07, 02) muito bom. Cara, não sei.
+1157160 1159020 (02, 04) Eu já abri a viseira do capacete
+1159020 1160560 (04) pra ouvir, pra cheirar.
+1161440 1162560 (04) Dá aquela fungácia.
+1164220 1165020 (05) Tá, tu abriu,
+1165280 1167000 (05) o Belchior, e abriu o capacete.
+1167320 1169400 (04) É, dá pra abrir ele, mas continuar ouvindo eles?
+1169720 1170840 (05) Sem o capacete, não.
+1171180 1173520 (04) Não, não, não quero tirar o capacete. Não tem uma
+1173520 1175640 (04) viseira, assim, que tu abre só pra entrar um ar?
+1175820 1177460 (05, 04) Tipo de moto? Tipo de moto.
+1177600 1179420 (05) Não, é um capacete, ele entra na cabeça
+1179420 1181000 (05) e fecha. Não tem uma viseira.
+1181220 1182740 (05) Não, então eu deixo o capacete. Chato.
+1183020 1184880 (04) Tecnologia de capacete não evoluiu muito.
+1185240 1187060 (05) Mas é pra aguentar a pressão no espaço, se precisar.
+1187640 1189500 (02, 04) Ah... Daqui de fora eu não vou conseguir
+1189500 1191140 (02) proteger vocês. Ou a gente
+1191140 1193420 (02) solta tudo e entra, ou alguém vai ter
+1193420 1195260 (02, 04) que ficar aqui fora, mas... É, mas eu acho que é bom.
+1195260 1197260 (04) Eu acho que não adianta muito. Tem que tirar tudo pra
+1197260 1199340 (04) entrar. Eu acho que o que ficar aqui fora não vai conseguir
+1199340 1201160 (04) entrar como proteção também.
+1201360 1203380 (04) Entendeu? Não adianta você ficar aqui e tentar lançar
+1203380 1205280 (04) uma granada. A granada vai bater nesse escudo
+1205280 1207240 (04) porque a arma não entra. Ou tentar dar
+1207240 1209220 (02, 04) um tiro. É, mas a gente vai
+1209220 1211420 (02) deixar todo esse equipamento aqui.
+1211680 1213200 (05) O equipamento, ele se tranca
+1213200 1215540 (05) e ele obedece e ele só atende a vocês, né?
+1215920 1217280 (02, 04) Ah, tudo bem. Qualquer coisa a gente
+1217280 1218760 (04) sai correndo e faz...
+1218760 1221200 (02, 04) Então vamos todos. Vamos?
+1221360 1223020 (02, 04) Vamos. Tá. Então eu saio,
+1223020 1225020 (02) eu abro bem devagar, assim, tirando o capacete.
+1225580 1227020 (02) E dou aquele...
+1227540 1229460 (05) Ao tirar o capacete
+1229460 1230880 (05) tu vê que tem realmente alguém
+1230880 1232260 (05) parado na frente da porta.
+1232480 1234760 (05, 07) Que antes tu não via. Eu estendo a mão,
+1234860 1236960 (07) senhor padre, eu sou F-15.
+1237280 1238580 (05, 07) E cumprimento ele. Ele não
+1238580 1240400 (05) aperta tua mão, ele faz só
+1240400 1242400 (05) uma reverência com a cabeça.
+1242620 1244720 (05, 07, 15) Por que não entramos pra conversar?
+1244940 1246080 (07, 15) O de ombro foi bom.
+1246560 1248980 (07) Acho que o protocolo está um pouco
+1248980 1251020 (07, 02) desatualizado, gente. Tá, eu
+1251020 1252920 (02) vou seguindo eles, mas me mantenho
+1252920 1255020 (02) atrás como alguém que ainda está
+1255020 1256860 (07, 02) dando cobertura. Eu fico
+1256860 1259220 (07) do lado contrário do F. O F fica de um lado e eu do outro.
+1259380 1261300 (07) Qualquer coisa, o capacete vira arma.
+1261640 1263080 (02) O capacete passou com a gente
+1263080 1264340 (05, 02) e eu acho que ele ficou lá do lado de fora.
+1264520 1267200 (05) O capacete passa com vocês, mas vocês só enxergam
+1267200 1268900 (05) o padre se estiver sem o capacete.
+1269060 1269200 (05) Tá.
+1278540 1280560 (05) Ao entrarem na igreja,
+1280780 1283120 (05) é o salão principal da igreja, tem uns bancos
+1283120 1284960 (05) lá. Embora alguns foram arrastados,
+1284960 1287080 (05) pro lado, pra dar mais espaço. Tem crianças
+1287080 1289340 (05) brincando, tem algumas
+1289340 1291000 (05) mulheres cozinhando, mas
+1291000 1292960 (05) pelo menos metade das pessoas ali, e tem
+1292960 1295320 (05) umas 40 pessoas, estão rezando
+1295320 1297060 (05) nesse momento. Em silêncio, né,
+1297160 1299180 (05) todos de cabeça baixa, mas estão rezando
+1299180 1301200 (05, 04) nos bancos. Eu coloco o capacete
+1301200 1303220 (04) rapidinho, assim, só pra ver se eu vejo algo diferente.
+1303540 1305080 (05) O capacete faz a contagem, tem
+1305080 1307000 (05) 43 pessoas, na verdade,
+1307120 1308900 (05) ali dentro. Ele não tá contando o padre,
+1308980 1311020 (05) o capacete não consegue ver o padre, embora ele
+1311020 1312560 (05) consiga identificar todas as outras pessoas.
+1312560 1314560 (05) E tu vê que as pessoas ali estão todas saudáveis,
+1315560 1316400 (05) e razoavelmente
+1316400 1318020 (05) alimentadas. Parecem
+1318020 1320520 (05) estar vivendo bem ali, embora o espaço seja
+1320520 1322100 (05, 02) pequeno, né? Registra
+1322100 1324280 (02) isso com a anotação que
+1324280 1326720 (02) existe um padre que não dá pra ser visto.
+1326920 1328720 (05) Que não tá sendo registrado em momento algum.
+1328920 1330860 (05, 02) É, escreve de anotação.
+1331080 1332500 (07) Eu dou uma cutucada, assim, no
+1332500 1334560 (07) ombro do C e do A.
+1334860 1336440 (07) Olha, ele não apertou
+1336440 1338480 (07) minha mão. Tem algum espelho aí?
+1339640 1340120 (05) Não.
+1340120 1342100 (05) Tem um cruz, tem
+1342100 1344440 (05) todas as imagens de santos
+1344440 1346520 (05) lá na frente, mas não tem um espelho, não.
+1346580 1348180 (02) Ele não apertou a mão, mas ele ainda
+1348180 1350140 (05, 02) tá no mesmo local que a gente. É, não, na verdade
+1350140 1352280 (05) ele foi mais lá pra frente, onde o
+1352280 1354080 (05) padre ficaria pra rezar a missa, né? Lá tem
+1354080 1356120 (05) uma portinha de saída, e quem está sem
+1356120 1358040 (05) o capacete tá vendo ele fazendo sinal pra vocês
+1358040 1360300 (05) entrarem ali. Tá. Passarem pelas pessoas
+1360300 1362120 (05, 04) e entrarem ali. Eu já tirei o capacete
+1362120 1363980 (04) também, eu tinha colocado só pra dar aquela visão
+1363980 1365740 (02, 04) geral e gravar, e tirei.
+1366020 1368120 (02) Eu acompanho ele e dou aquele
+1368120 1370260 (02) toque no ombro como se fosse
+1370260 1372320 (02) falar alguma coisa, mas na verdade
+1372320 1374080 (02) minha intenção é ver se ele
+1374080 1375820 (02) é tangível ou não.
+1376000 1378360 (05) Ele é um senhor bem velhinho, bem arqueadinho,
+1378760 1380200 (05) mesmo assim, ele se move
+1380200 1381700 (05) com uma graça e velocidade,
+1382240 1384120 (05) tu não consegue tocar o ombro dele.
+1384200 1385020 (07, 12) Mestre Cami?
+1385320 1385800 (05, 07, 12) Ok.
+1389780 1391580 (07, 12) Que malemolência desse velho.
+1391820 1394000 (07, 12, 02) Eu anoto assim, olha, seres humanos estão
+1394000 1395380 (07) desenvolvendo uma agilidade
+1395380 1396740 (07) monstruosa.
+1397880 1399980 (02) Tá, eu dou aquela disfarçada com a mão de
+1399980 1402100 (02) ah, sabe quando você vai tocar
+1402100 1404060 (02) na mão de alguém e a pessoa não toca e você dá uma disfarçada?
+1404080 1406140 (02, 04) Dá aquela puxada
+1406140 1407000 (02, 04) e passa no cabelo, né?
+1407620 1410140 (04) Tá. A gente já passou pelo pessoal da igreja?
+1410380 1412280 (05) Vocês que vão me dizer. O padre já entrou
+1412280 1414180 (05) na salinha que ele pediu pra vocês entrarem
+1414180 1415700 (05) e ele tá lá dentro esperando vocês.
+1415860 1418400 (05) Ali tem o pessoal da igreja, algumas pessoas rezando,
+1418540 1420160 (05) pessoas cozinhando, crianças brincando,
+1420260 1422140 (05) tem pessoas cuidando de alguma dessas crianças.
+1422500 1424080 (02) Como eu passei, eu acho que vocês...
+1424880 1426160 (02) Eu olho pra trás e dou
+1426160 1428040 (02) um sinal com a cabeça assim, mexendo,
+1428160 1429840 (02) porque eu passei deles pra poder tocar no padre,
+1430020 1431840 (02) como se fosse falar com alguém, entendeu?
+1431840 1433520 (02) Tipo, fico olhando pra ele, pra uma pessoa.
+1434080 1436380 (07) Tipo, uma criança que tá brincando ali
+1436380 1437740 (07) e tal, meio que paro ela
+1437740 1440060 (07) e pergunto, oi, tudo bom?
+1440380 1442160 (07) Oi! E me explica
+1442160 1444260 (07) uma coisa, como é que vocês conseguem
+1444260 1446220 (07) comida e manter esse lugar tão seguro?
+1446780 1448520 (08) Segurança vem do oração.
+1449160 1450720 (08) Oração nos protege.
+1451240 1452380 (08) Comida a gente
+1452380 1454140 (08) faz. E também
+1454140 1456660 (08) fazemos troca com os viajantes.
+1457020 1458000 (05) É o mundo, após a apocalipse,
+1458060 1459940 (05) as crianças não ficam crianças por muito tempo, né?
+1459940 1461900 (05) Ele já parece estar bem ciente das coisas ali.
+1462280 1462560 (07) Na verdade,
+1464080 1465520 (07) talvez vocês estão brincando aqui.
+1465620 1467740 (07) O padre não acha ruim de vocês acabarem
+1467740 1469680 (07) jogando uma bola na cabeça dele,
+1469920 1471740 (07) atrapalhando o dia a dia dele, não?
+1471880 1473860 (08, 07) Não podemos atrapalhar as pessoas
+1473860 1476340 (08) rezando. Nenhum padre.
+1476880 1477860 (08) Mas ele quase
+1477860 1478900 (08) nunca está aqui.
+1479520 1482080 (08, 07) Ele só saiu porque vocês chegaram.
+1482780 1484140 (08) De onde vocês vieram?
+1484260 1485580 (07) A gente é da cidade vizinha.
+1485860 1487120 (07) A gente tava andando por aqui
+1487120 1489720 (07) e viu um lugar bem construído.
+1489800 1492420 (07) A gente veio procurar um pouco de comida e abrigo.
+1492420 1494040 (07, 04) Eu olho pra criança e pergunto,
+1494080 1495520 (04) você já entrou nessa linha do padre?
+1495820 1496720 (08) Não, nunca.
+1496800 1498840 (04) Eu olho pro F assim.
+1499140 1501660 (05) É, vocês veem que algumas pessoas que não estavam fazendo nada, eles pararam
+1501660 1504040 (05) e estão ali vendo a conversa de vocês. Não estão interferindo.
+1504200 1506180 (05) Eles parecem mais curiosos em olhar pra vocês
+1506180 1508100 (05) porque pessoas fortes
+1508100 1509600 (05) e bem alimentadas
+1509600 1511280 (05) é uma coisa raríssima de se ver.
+1511460 1513300 (07) Caraca, eu sou meio aquele inocentão, né?
+1514180 1516400 (07) Que só ficou atrás de uma cadeira.
+1516720 1518360 (07) Nunca teve contato social.
+1518860 1520420 (07, 12, 04) Eu tô achando que eu tô arrasando.
+1520420 1522900 (04) Eu vou dar uma olhada assim pro F.
+1522980 1524060 (04) Vou dar aquela de ombro.
+1524080 1525680 (04) Aquela batidinha de ombro.
+1526180 1528380 (04) Bom, acho que vamos lá
+1528380 1529240 (04) falar com o padre, né?
+1529400 1531800 (02, 04) Eu tô parada na porta da sala do padre.
+1532100 1533620 (04) É, vamos ficar todo mundo junto ali.
+1534000 1535480 (04) A gente foi lá pra sala do padre.
+1535720 1536560 (05) Os três vão entrar?
+1536760 1539040 (02) Eu deixo os meninos passarem e fico na porta.
+1539100 1540880 (05) O padre lá dentro pede...
+1540880 1542500 (05, 15) Por favor, fechem a porta.
+1542760 1544500 (02) Eu dou de ombros, entro e fecho a porta.
+1544680 1547880 (05) Uma cadeira que antes estava vazia, agora tem
+1547880 1549860 (05) o padre sentado nela.
+1550060 1552260 (05) O padre que tava de pé conversando com vocês
+1552260 1553500 (05) e ele desaparece no ar.
+1554080 1556680 (05) Aqui, esse padre sentado, ele tá muito, muito
+1556680 1559340 (05) mais velho, mais acabado.
+1559460 1561020 (05) Parece que as pernas dele
+1561020 1563100 (05) estão quebradas ou em posições
+1563100 1563940 (05) que não deveriam estar.
+1564280 1566340 (05) Dedos de uma mão também estão quebrados.
+1566340 1567780 (05) E ele parece, sim,
+1568320 1569460 (05) estar nas últimas.
+1569680 1570340 (02) Eu abro a porta.
+1571920 1574340 (05) Ok, o padre desaparece
+1574340 1576300 (05) da cadeira e volta o outro
+1576300 1578320 (05) padre mais inteiro e olha
+1578320 1579260 (05) meio feio pra ti.
+1579320 1581340 (05, 07) Eu fecho a porta e faço...
+1581340 1583720 (07, 15) Vira-se.
+1583720 1586120 (07, 15) Que esse mecanismo é muito louco.
+1587380 1588600 (15) Não é um mecanismo.
+1589020 1590220 (15) Eu estou fazendo isso
+1590220 1592100 (15) e é extremamente cansativo.
+1592220 1594380 (02) Ah, desculpa, foi só curiosidade.
+1594520 1596340 (15) Vocês vieram de muito longe.
+1596740 1597800 (15) O que querem aqui?
+1598100 1600380 (04) Nós viemos verificar como as coisas estão.
+1600640 1602000 (04) Se o local é seguro.
+1602320 1605040 (04) Se podemos retornar pra terra.
+1605280 1607000 (05, 04) A gente tava vivendo no espaço.
+1607120 1609000 (05) Ele parece bem chocado
+1609000 1610020 (05) com o que vocês falam.
+1610020 1611920 (05, 02) Eu não imaginei que fosse tão longe.
+1612360 1613680 (02) E eu não imaginei que isso não podia ser
+1613680 1615080 (02) consumir e mudar de corpo.
+1615200 1617880 (02, 04) O que o senhor faz é muito mais chocante
+1617880 1618840 (04) do que a gente faz.
+1619060 1621700 (15) Ah, estou velho demais pra tudo isso.
+1622180 1623980 (15) As pessoas lá fora precisam de mim,
+1624520 1625460 (15) de minha proteção
+1625460 1627960 (15) e esse corpo não está mais aguentando.
+1628600 1629920 (15) Eu evito de interagir
+1629920 1632040 (15) com as pessoas, mas senti
+1632040 1633320 (15) a presença de vocês
+1633320 1635760 (07, 15) e acho que podemos nos ajudar.
+1635880 1637420 (07, 15) O senhor disse proteger.
+1637920 1638860 (15) De que exatamente?
+1639280 1641940 (15) O mundo lá fora é cheio de demônios,
+1641940 1643500 (15) de criaturas,
+1643500 1644500 (15) e saqueadores.
+1645200 1646860 (15) Mas com o meu poder
+1646860 1649160 (15) e a fé, a fé
+1649160 1651540 (15) das pessoas aqui, conseguimos
+1651540 1653420 (15) criar uma barreira de segurança
+1653420 1654360 (15) para elas.
+1654700 1656480 (02, 15) Seu poder? De onde vem seu poder?
+1656640 1659700 (15) Eu quero que isso fique apenas entre nós.
+1659980 1660380 (02, 15) Tudo bem.
+1660540 1662840 (15) E que prometam que vão pensar bem
+1662840 1664040 (15) na minha proposta.
+1664180 1666460 (05, 15) Ele se inclina pra frente.
+1666720 1669000 (05) Vocês veem que das costas dele tem
+1669000 1671420 (05) dois cotoquinhos do que seriam asas.
+1671420 1672580 (05, 15) Olha só.
+1672680 1673480 (07, 15) Você é um anjo?
+1673500 1674740 (07, 15) Desconfiei pelo nome.
+1674800 1676140 (15) Eu servia a Miguel
+1676140 1678960 (15) e tentamos ajudar os mortais,
+1679520 1681140 (15) mas fomos traídos.
+1681620 1683620 (15) Bem, isso não vem ao caso agora.
+1684380 1685760 (15) A missão de vocês
+1685760 1687760 (15) é estudar, não é mesmo?
+1688160 1689240 (15) Sim. Estudar,
+1689440 1690960 (15) investigar, pesquisar.
+1691020 1692900 (15) Com uma grande quantidade de armas.
+1693800 1696000 (04, 15) Mas eu entendo. É um mundo perigoso.
+1696160 1697760 (04) A gente não sabia o que ia encontrar aqui.
+1697880 1699340 (04) A gente não sabia que poderia
+1699340 1700800 (04) haver pessoas aqui.
+1700800 1702360 (04) A gente veio preparado pra tudo.
+1702400 1703480 (15, 04) Há alguns meses,
+1703540 1706460 (15) chegou aqui uma mulher que estava grávida.
+1706460 1709620 (15) Infelizmente, ela veio a falecer no parto.
+1709620 1712880 (15) O pai da criança claramente não é deste mundo.
+1712880 1717380 (15) A presença da criança aqui me enfraquece cada dia mais.
+1717380 1719380 (15) Mas é um bebê.
+1719380 1721380 (15) Ele não tem culpa de nada.
+1721380 1724060 (15) Existem pequenos aglomerados humanos.
+1724060 1726060 (15) Mas posso passar a vocês a localização
+1726060 1728060 (15) da maior cidade do continente.
+1728060 1731360 (15) Um local que reúne muito conhecimento.
+1731360 1733360 (15) E gostaria que levassem esse bebê
+1733360 1734200 (04, 15) até lá.
+1734200 1736200 (04) Mas de onde é o pai dessa criança?
+1736200 1737200 (04) Dessa mesma cidade.
+1737200 1739200 (15, 04) E por que ela te enfraquece?
+1739200 1741200 (15) O pai dela é o oposto do que eu represento.
+1741200 1743200 (07, 15) Tá. Eu quero pesquisar
+1743200 1745200 (07) nos arquivos offline da Google
+1745200 1747200 (07) que não está mais no ar
+1747200 1749200 (07) se eu sei alguma coisa sobre mitologia,
+1749200 1751200 (07) religião, alguma coisa assim.
+1751200 1753200 (05, 07) É. Tu tem alguns livros de religião
+1753200 1755200 (05) e mitologia arquivados no...
+1755200 1757200 (05) Mas tu tem que ser mais específico sobre o que tu quer procurar.
+1757200 1759200 (05, 07) Filho do demônio.
+1759200 1761200 (05) Várias lendas, várias lendas,
+1761200 1763280 (05, 07) filmes ruins. Filmes ruins. É muita coisa pra você.
+1763280 1765280 (05) O que mais apareceu pra ti?
+1765280 1767280 (07, 04) Mochila de criança.
+1767280 1769280 (07, 04) Coloca agora.
+1769280 1771280 (07) Parece aquele negócio da...
+1771280 1773280 (07) de criancinha. Aquelas mochilas rosinhas.
+1773280 1775280 (07) Eu vou pegar referência
+1775280 1777280 (07) de literatura. A mais antiga possível.
+1777280 1779280 (05, 07) Existem lendas que falam
+1779280 1781280 (05) que demônios podem engravidar mulheres
+1781280 1783280 (05) e tal. E essas crianças nascem marcadas.
+1783280 1785280 (05) Mas...
+1785280 1787280 (05, 02) nada muito específico. Tá. Seu padre,
+1787280 1789280 (05, 02, 15) como é seu nome mesmo? Misael.
+1789280 1791280 (02) Misael. Tudo bem. Vou tentar falar
+1791280 1793280 (02) de forma mais clara. Esta criança,
+1793280 1795280 (02, 15) é filha de um demônio. Com uma humana.
+1795280 1797280 (02, 15) Anjos também podem ter filhos com
+1797280 1799280 (02, 15) humanos? Não temos esse...
+1799280 1801280 (07, 15) apetrecho. E...
+1801280 1803280 (07) você disse que ajudaria
+1803280 1805280 (07) a gente. Como seria realmente
+1805280 1807280 (07, 15) essa ajuda? O que vocês precisam?
+1807280 1809280 (15) Conhecimento. O que vocês quiserem
+1809280 1811280 (15) perguntar para mim ou meu povo,
+1811280 1813280 (15) nós responderemos.
+1813280 1815280 (15) O mundo lá fora é extremamente perigoso.
+1815280 1817280 (15) Existem criaturas
+1817280 1819280 (15) poderosíssimas vagando.
+1819280 1821280 (15) Alguns humanos se renderam à selvageria.
+1821280 1823280 (15) Mas existem alguns pontos
+1823280 1825280 (15) que por motivos adversos
+1825280 1827280 (04, 15) conseguiram prosperar. Os humanos
+1827280 1829280 (04, 15) daqui, eles saem daqui? Todos
+1829280 1831280 (15) são livres para sair quando quiserem.
+1831280 1833280 (15) Mas isso é bem raro. Alguns
+1833280 1835280 (15) até viajam para outras cidades.
+1835280 1837280 (04, 07, 15) Entendam? Ah tá, mas eles conseguem fazer isso?
+1837280 1839280 (07, 15, 04) A maioria não. Bom...
+1839280 1841280 (07, 04) É, se a gente não entregar a criança,
+1841280 1843280 (07) ele vai morrer, as pessoas vão perder a proteção
+1843280 1845280 (07) e a tragédia vai ser muito
+1845280 1847280 (07) grande. Se a gente entregar a criança,
+1847280 1849280 (07) é uma
+1849280 1851280 (07, 04) grande interrogação. Não tem mais
+1851280 1853280 (04) muito que a gente pode investigar aqui. Tudo que eles
+1853280 1855280 (05, 04) sabem é o que está aqui dentro.
+1855280 1857280 (05) Na verdade foi pedido também exame de sangue,
+1857280 1859280 (05) qualquer coisa vocês podem pedir ali também.
+1859280 1861280 (07, 04) Para o relatório do primeiro dia,
+1861280 1863280 (07) hoje foi até lucroso.
+1863280 1865280 (05, 15) Foi.
+1865280 1867280 (02) Tem muitos humanos ainda
+1867280 1869280 (02, 15) na Terra?
+1869280 1871280 (15) Imagino que não chegue a 100 mil pessoas
+1871280 1873280 (04, 02, 15) nesse país. Tudo bem.
+1873280 1875280 (04) Beleza, já que a gente tem que fazer
+1875280 1877280 (04) relatório e pesquisar sobre tudo,
+1877280 1879280 (04) a ideia do exame de sangue é interessante.
+1879280 1881280 (04) Pessoal, filhinha indiana
+1881280 1883280 (04) aqui. Todo mundo vai ser só uma
+1883280 1885280 (04) picadinha na ponta do dedo, não vai doer.
+1885280 1887280 (07, 04) Eu dou uma cutucada que está fazendo
+1887280 1889280 (05, 07, 04) a criança também. Sim, sim.
+1889280 1891280 (05) O padre está esperando vocês. Vocês vão
+1891280 1893280 (05, 02) aceitar a missão? Sim, a gente aceita a missão,
+1893280 1895280 (02) mas em troca a gente faz
+1895280 1897280 (02, 15) esses exames em todos. Certo.
+1897280 1899280 (15) Descansem aqui.
+1899280 1901280 (15) A viagem é de um dia de caminhada,
+1901280 1903280 (15) mas com o equipamento de vocês,
+1903280 1905280 (15) imagino que isso seja bem
+1905280 1907280 (04, 15) mais rápido. Inclusive
+1907280 1909280 (04) a gente faz o exame de sangue,
+1909280 1911280 (04) passa o scanner do capacete
+1911280 1913280 (05, 04) também. Em todas as pessoas?
+1913280 1915280 (05) É, só o bebê vocês só vão
+1915280 1917280 (05) ver amanhã, tá? Quando forem partir.
+1917280 1919280 (05, 07) Porque ele está separado do resto das pessoas.
+1919280 1921280 (07, 02) Tá bom. Então a gente fica os três
+1921280 1923280 (02) dividindo em três filhas, fazendo os
+1923280 1925280 (02) exames das pessoas e...
+1925280 1927280 (02) a gente encontra
+1927280 1929280 (05, 02) alguma coisa estranha, eu acho? Não. São todos
+1929280 1931280 (05) seres humanos bem saudáveis.
+1931280 1933280 (05) Alguns têm resquícios que tiveram algumas doenças
+1933280 1935280 (05) graves e tal, mas elas parecem ter se
+1935280 1937280 (05) curado de alguma forma.
+1937280 1939280 (05, 04) Beleza. Por mim, acho que a gente
+1939280 1941280 (02, 04) já pode mandar o relatório de hoje.
+1941280 1943280 (02) Só que a gente prometeu ao cara
+1943280 1945280 (02) que guardaria a informação de que ele é um anjo.
+1945280 1947280 (05, 07) É, aí é a decisão de vocês. É, acho
+1947280 1949280 (07) que não precisa falar sobre
+1949280 1951280 (07) o filho do demônio, nem
+1951280 1953280 (07, 04) que ele é um anjo ainda não. Eu acho que ia
+1953280 1955280 (07, 04) ser difícil de acreditarem na gente, né?
+1955280 1957280 (07, 04) A gente fala que a gente encontrou
+1957280 1959280 (07, 02) uma igreja, um grupamento de
+1959280 1961280 (07) humanos que conseguiu fazer
+1961280 1963280 (07) uma área protegida. Não, é mentira.
+1963280 1965280 (07) Por mim, beleza. Fechou. Aliás,
+1965280 1967280 (07) eu acho que ele queria manter segredo,
+1967280 1969280 (05, 07) mas era com relação a criança, né?
+1969280 1971280 (05) Não, a criança e o fato dele ser um
+1971280 1973280 (05, 07, 02) anjo, eu acho. Ah, não. Ok, pronto. Então esses
+1973280 1975280 (02) dois fatos serão omitidos no relatório de hoje.
+1975280 1977280 (02) E anexo eu boto. Catalogando
+1977280 1979280 (02) um bichinho novo. Nome.
+1979280 1981280 (02) Thaíses Botias.
+1983280 1985280 (05) Ah, perfeito.
+1985280 1987280 (05) Catalogado.
+1987280 1989280 (05) Você recebe alimento ali. Vocês tem o próprio
+1989280 1991280 (05) alimento de vocês, que é uma pasta
+1991280 1993280 (05) e alguns comprimidos, mas
+1993280 1995280 (05) você pode comer comida de verdade
+1995280 1997280 (05) da moda antiga, feita por pessoas
+1997280 1999280 (05) no fogo. Tem essa opção ali também.
+1999280 2001280 (15, 04) Eu pergunto pro padre, mas
+2001280 2003280 (04, 15) o que é isso que eles estão comendo aí?
+2003280 2005280 (05, 15) Nós criamos algumas galinhas aqui
+2005280 2007280 (15) ao lado da igreja. Eu imagino que
+2007280 2009280 (15) sejam frango ou ovos.
+2009280 2011280 (15) Nós até tínhamos uma vaca,
+2011280 2013280 (15) mas ela ficou velha e
+2013280 2015280 (15) acabamos comendo só carne.
+2015280 2017280 (04, 15) A gente tinha galinha e ovos na
+2017280 2019280 (05, 02, 04) Estação Espacial? Não. E eu tô
+2019280 2021280 (02, 04) salivando com aquele olho, assim, olhando pra galinha, sabe?
+2021280 2023280 (05, 02, 04) Lá tem muito vegetal, assim,
+2023280 2025280 (05) tipo, não tem nenhuma opção de carne
+2025280 2027280 (05, 07) pra vocês na Estação Espacial.
+2027280 2029280 (07) Eu já tô na fila, assim, com um prato na mão.
+2029280 2031280 (05, 07) Te servem
+2031280 2033280 (05) lá um arroz
+2033280 2035280 (05, 07) e frango com ovo?
+2035280 2037280 (05, 07) Nossa, eu bato o prato.
+2037280 2039280 (05, 07) É a comida mais gostosa que eu já comi na tua vida.
+2039280 2041280 (07) Eu levanto, assim, pra eles. Vocês tão perdendo!
+2041280 2043280 (07, 02) Vocês tão perdendo!
+2043280 2045280 (02) Não, eu tô aqui na fila, pô!
+2045280 2047280 (05) Servem a C também,
+2047280 2049280 (05, 02) ela come.
+2049280 2051280 (02) Feito anime,
+2051280 2053280 (02) sabe?
+2053280 2055280 (02) Eu vou junto nessa também, então,
+2055280 2057280 (05, 02) já que tá todo mundo comendo.
+2057280 2059280 (05) Vocês vão fazer algum turno de vigia
+2059280 2061280 (05, 02) ou vão dormir os três e confiar?
+2061280 2063280 (02, 04) Vamos dormir o turno de vigia.
+2063280 2065280 (04) A gente reveza, né? É.
+2065280 2067280 (05, 04) Vamos fazer, sei lá, que hora que é já.
+2067280 2069280 (05, 02) Não é relevante, mas hora X.
+2069280 2071280 (02) Da porta da igreja a gente consegue ver
+2071280 2073280 (02) do lado de fora as armas que a gente deixou.
+2073280 2075280 (05, 02) Tá tudo lá. Tá.
+2075280 2077280 (02) Então eu pego o primeiro turno
+2077280 2079280 (02) e fico posicionado
+2079280 2081280 (02) de modo que eu visse o interior da igreja,
+2081280 2083280 (02) mas também estivesse vendo as nossas
+2083280 2085280 (05, 12, 02) armas do lado de fora.
+2085280 2087280 (05) O padre depois deu as instruções pra população
+2087280 2089280 (05) fazer o que vocês pedissem e ele foi pra sala dele
+2089280 2091280 (05) e não saiu mais, então ninguém mais o viu.
+2091280 2093280 (05) Tu nota que a noite realmente outras
+2093280 2095280 (05) pessoas se ajoelham, pessoas estavam
+2095280 2097280 (05) dormindo antes, se ajoelham do lado elas
+2097280 2099280 (05) estão rezando, começam a rezar
+2099280 2101280 (05) e as pessoas que estavam rezando saem pra comer,
+2101280 2103280 (05) pra dormir. A oração ali é silenciosa,
+2103280 2105280 (05) mas ela não
+2105280 2107280 (05) para, né? Pessoas só param de rezar
+2107280 2109280 (05) quando tem outras pra substituí-las. Fora isso,
+2109280 2111280 (05) vocês três fazem seus turnos
+2111280 2113280 (05) alternados e a noite transcorre
+2113280 2115280 (05, 07) perfeitamente bem. Tá, ok.
+2115280 2117280 (07) Eu registrei esse hábito
+2117280 2119280 (07) deles de ficar rezando e revezando
+2119280 2121280 (05, 07) o tempo todo. Aham.
+2121280 2125280 (unknown) ...
+2125280 2127280 (05) Manhã seguinte, é servido lá um café
+2127280 2129280 (05) da manhã, tem ovos
+2129280 2131280 (05) e pra vocês, especialmente, eles
+2131280 2133280 (05) prepararam um tipo de carne especial
+2133280 2135280 (05) que são umas tirinhas assim meio gordurentas,
+2135280 2137280 (05) mas que pro resto do povo ali
+2137280 2139280 (05) eles não tão comendo. Parece tipo um presente
+2139280 2141280 (05, 02) pra vocês. Nossa...
+2141280 2143280 (07, 02) Alguém não vai comer? Hum...
+2143280 2145280 (07) Vai. Vou, né? Eu nunca vi
+2145280 2147280 (07, 04) na minha vida, então como sem remorso.
+2147280 2149280 (05, 07, 04) Todos comeram? O F tá comendo,
+2149280 2151280 (04) eu vou fazer a mesma
+2151280 2153280 (04) estratégia, gente. Vou ficar olhando um pouco
+2153280 2155280 (04) assim, meio desconfiado da comida
+2155280 2157280 (04) e daí depois que todo mundo comeu,
+2157280 2159280 (02, 04) eu como também. Eu tô aquela agradecida,
+2159280 2161280 (02) já que o F comeu, eu
+2161280 2163280 (02) comento com ele embaixo, informando
+2163280 2165280 (02) que eu acho muito estranho, mas já que ele comeu
+2165280 2167280 (02) e eu não quero fazer desfile com as pessoas, eu vou pegar
+2167280 2169280 (02) fingindo que eu comi e dou pra ele.
+2169280 2171280 (12, 02) Ele já comeu, cara.
+2171280 2173280 (02) Alguém não pode ter dor de barriga, né? Tem que ajudar.
+2175280 2177280 (07, 02) Ela deu pra mim? Deu. Eu tô satisfeito,
+2177280 2179280 (07) eu guardo assim num pacotinho pra
+2179280 2181280 (05, 07) comer mais tarde. O A37 comeu?
+2181280 2183280 (07) É, eu fiquei olhando, eu vi que ele guardou, eu também
+2183280 2185280 (05, 07) guardei. Beleza. Tem duas
+2185280 2187280 (05, 07) provisões de bacon com ovos. Perfeito.
+2187280 2189280 (07, 04) Vai ficar bem cheiroso a mala.
+2189280 2191280 (07) Ó, essa é a maior comida que eu comi na minha
+2191280 2193280 (07) vida. É lógico que eu vou guardar pra comer
+2193280 2195280 (05, 07) mais tarde. O padre abre a porta
+2195280 2197280 (05) dele, ele sai. Junto dele sai uma mulher.
+2197280 2199280 (05) O rosto dela tá muito branco, assim,
+2199280 2201280 (05) cheio de olheira. Cabelo dela
+2201280 2203280 (05) ressecado, assim, bem danificado.
+2203280 2205280 (05) Ela tá muito, muito magra. Essa
+2205280 2207280 (05) realmente parece doente, comparado
+2207280 2209280 (05) com os outros ali. Ela segura no colo
+2209280 2211280 (05) um bebê. E ela parece bem aliviada
+2211280 2213280 (05) em estender a mão e passar
+2213280 2215280 (05, 04) pra vocês. Ah, eu pego o bebê.
+2215280 2217280 (05, 04) Ok. O bebê, ele é um bebê
+2217280 2219280 (05) lindo, buchuchudo, cabelo
+2219280 2221280 (05) escuro, olho claro. Ele tem uma
+2221280 2223280 (05) mancha, faz um símbolo bem
+2223280 2225280 (05) estranho na testa e mesmo símbolo
+2225280 2227280 (05, 07) na mão dele. Daí eu lembro do
+2227280 2229280 (07) que eu li daqueles relatos
+2229280 2231280 (05, 07) antigos. Sim. É uma marca de nascença
+2231280 2233280 (05, 04) muito estranha pra ser aleatória. Tá
+2233280 2235280 (05, 04) certo. Daí eu tô com ele no colo,
+2235280 2237280 (05, 04) assim, fazendo bilubiloso. Ele ri,
+2237280 2239280 (05, 04) ele tá bem ali. Cadê o bebê?
+2239280 2241280 (05, 12, 04) Achou!
+2241280 2243280 (12, 04) Eu pensei em fazer isso, só que ia
+2243280 2245280 (12, 04) ficar muito ridículo. Achou!
+2245280 2247280 (07) Eu...
+2247280 2249280 (07) sei lá, eu coloco a mão no ombro da mãe
+2249280 2251280 (05, 07) e digo... Não, ela não é a mãe.
+2251280 2253280 (05) A mãe faleceu no parto. Esta é a mulher
+2253280 2255280 (05, 07) que tava cuidando do bebê. Eu falo com ela
+2255280 2257280 (07) olha, cuidaremos bem dele. Pode
+2257280 2259280 (07, 16) ficar tranquila. Por favor, cuidem dele.
+2259280 2261280 (16) É uma criança muito boa que
+2261280 2263280 (16) não tem culpa do sangue que carrega.
+2263280 2265280 (16) Vocês deram o nome pra ele? Os meninos tinham
+2265280 2267280 (16) umas revistas japonesas.
+2267280 2269280 (16) Eles o batizaram de
+2269280 2271280 (07, 16) Oni. Eu falo com ela
+2271280 2273280 (07) alguma coisa?
+2273280 2275280 (07) Aí eu olho, assim, pro rosto
+2275280 2277280 (07) dela abatido. Que a gente deva se preocupar
+2277280 2279280 (07, 16) com relação ao Oni?
+2279280 2281280 (16) Não, não. Vocês
+2281280 2283280 (16) vão ficar pouco tempo.
+2283280 2285280 (02, 16) Não há nada a se preocupar. Mas se a gente
+2285280 2287280 (02, 16) ficasse mais tempo, a gente teria alguma
+2287280 2289280 (02, 16) preocupação? Coisas
+2289280 2291280 (16) estranhas acontecem
+2291280 2293280 (16) em volta dele.
+2293280 2295280 (02, 16) Pesadelos. Tá, eu coloco o capacete
+2295280 2297280 (02) e olho pro bebê e vejo que o capacete
+2297280 2299280 (05, 02) informa. É um DNA
+2299280 2301280 (05) 99% humano. É alguma coisa
+2301280 2303280 (05) que tu não consegue identificar ali. A estrutura
+2303280 2305280 (05) óssea da criança
+2305280 2307280 (05) e tal é um pouco diferente, mas
+2307280 2309280 (05) não consegue identificar o que é
+2309280 2311280 (05, 02) isso que ele tem extra, né? Tá, eu dou aquela
+2311280 2313280 (02) registrada com o nomezinho
+2313280 2315280 (05, 07, 02) dele, Oni. Tá. O padre
+2315280 2317280 (05, 07) tá por ali? Se vocês estão de capacete, não.
+2317280 2319280 (05, 02) Se vocês estão sem o capacete, sim. Não, eu coloquei
+2319280 2321280 (05, 07, 02) só pra registrar e tiro então. Ah, tá.
+2321280 2323280 (07) Eu tô sem o capacete e eu digo
+2323280 2325280 (07) Padre, eu reparei que o pessoal
+2325280 2327280 (07) reza o tempo todo e
+2327280 2329280 (07) esse escudo, aliás,
+2329280 2331280 (07) parabéns, é um trabalho maravilhoso.
+2331280 2333280 (07) Como a gente poderia
+2333280 2335280 (07) replicar esse escudo?
+2335280 2337280 (07, 15) Não poderiam. Eu
+2337280 2339280 (15) canalizo a fé dessas pessoas.
+2339280 2341280 (07, 15) Não funciona sem mim. Ah, perfeito.
+2341280 2343280 (07) Ótimo, tá bom. É uma boa
+2343280 2345280 (07) explicação. Faz sentido. E se a gente
+2345280 2347280 (07) levar junto? Eu não vou abandonar
+2347280 2349280 (07) o meu povo. Ah, tá.
+2349280 2351280 (07) Ele tá querendo livrar da criança
+2351280 2353280 (07, 04) pra ficar mais forte.
+2353280 2355280 (07, 04) Perguntar não ofende, né?
+2355280 2357280 (04) Padre, pra qual
+2357280 2359280 (05, 04) direção que fica essa cidade? Ele dá um
+2359280 2361280 (05) ele mostra um mapa pra vocês, ele não pode dar
+2361280 2363280 (05) porque ele precisa desse mapa, mas o capacete
+2363280 2365280 (05) registra rapidamente e já marca um ponto
+2365280 2367280 (05, 15) pra vocês. Essa cidade conseguiu
+2367280 2369280 (15) prosperar de outra forma.
+2369280 2371280 (15) Vocês vão entender quando chegarem
+2371280 2373280 (15) lá. É o nosso maior ponto comercial.
+2373280 2375280 (07, 15) Por mim, vambora. Você disse
+2375280 2377280 (07) que as armaduras tem um compartimento,
+2377280 2379280 (07, 15) né, Guax? Tem. Quem vai ficar
+2379280 2381280 (07) com a criança? O compartimento. Não.
+2381280 2383280 (07) De qual das três armaduras é? Ah, tá.
+2383280 2385280 (07, 02) Eu, como eu fico mais
+2385280 2387280 (02) distante devido às minhas armas,
+2387280 2389280 (02) tem que ser um de vocês, porque eu sempre vou
+2389280 2391280 (02) seguir atrás.
+2391280 2393280 (02, 04) Não, eu escolhi dar a
+2393280 2395280 (02) cobertura. Não dá pra eu carregar o bebê
+2395280 2397280 (02, 04) e dar a cobertura. Não, eu levo.
+2397280 2399280 (04) Eu carrego porque não adianta.
+2399280 2401280 (04) Eu não vou conseguir acertar nada em
+2401280 2403280 (05, 04) percepção de coisa alguma. Vocês
+2403280 2405280 (05) vão por terra ou vocês vão voando?
+2405280 2407280 (05, 07, 04) Voando, de preferência.
+2407280 2409280 (05, 07, 04) Voando. Pela maneira
+2409280 2411280 (05) como os anjos são construídos,
+2411280 2413280 (05) com a velocidade e até pelo
+2413280 2415280 (05) compartimento, ficaria sem ar. Não
+2415280 2417280 (05, 04) dá pra levar o bebê voando. Então a gente vai
+2417280 2419280 (05, 04) por terra. Pelo menos um vai ir por terra
+2419280 2421280 (05) e os outros dois podem ir só voando.
+2421280 2423280 (05, 04) Tá, eu acho que você tem
+2423280 2425280 (04) uma parada mais
+2425280 2427280 (04) de cobertura, assim. Você pode
+2427280 2429280 (04) ir voando por cima da gente.
+2429280 2431280 (02, 04) Combinado.
+2433280 2435280 (07, 04) E a gente vai andando.
+2435280 2437280 (07) Eu vou na frente, tu fica atrás
+2437280 2439280 (07, 02) com a criança. Ele vai na frente,
+2439280 2441280 (07, 02) o A vai atrás
+2441280 2443280 (02) e eu vou mais atrás voando
+2443280 2445280 (02) vendo os dois e observando
+2445280 2447280 (05, 02) o que tem ao redor. Certo.
+2447280 2449280 (05) Joga dois dados e C.
+2449280 2451280 (05, 02) Cinco e quatro.
+2451280 2453280 (05) Tu nota bem mais à frente de vocês,
+2453280 2455280 (05) por estar voando e tal,
+2455280 2457280 (05) que tem uma criatura,
+2457280 2459280 (05) parece humana, humanoide, né?
+2459280 2461280 (05) Só que o corpo cheio de escamas,
+2461280 2463280 (05) com chifres retorcidos na cabeça
+2463280 2465280 (05) e ele tá puxando uma outra
+2465280 2467280 (05) pessoa, aí sim um ser humano,
+2467280 2469280 (05) preso numa corrente. Ele tá só passando
+2469280 2471280 (05) e vai acabar cruzando com vocês em algum momento.
+2471280 2473280 (05) Ele tem uns dois metros de altura.
+2473280 2475280 (05, 02) Gente, para aí. Tem uma criatura muito estranha
+2475280 2477280 (02, 04) lá na frente. Tem algum
+2477280 2479280 (04) outro caminho que a gente pode tomar pra não
+2479280 2481280 (04) dar de frente com ele? Vocês podem desviar
+2481280 2483280 (05, 02, 04) o caminho, sim. Deixa eu mandar uma foto primeiro
+2483280 2485280 (02) pra vocês. Eu tiro uma foto da criatura
+2485280 2487280 (07, 02) e mando pra eles. Eita
+2487280 2489280 (07) bicho feio. Agora que eu vi.
+2489280 2491280 (07) Provavelmente essa pessoa que tá amarrada
+2491280 2493280 (07) na corrente tá amarrada sem consentimento, né?
+2493280 2495280 (05, 07, 02) Sem consentimento. E aí?
+2495280 2497280 (02) Querem salvar a pessoa? Eu posso tentar
+2497280 2499280 (02, 04) meter bala daqui. Pode ser também, mas
+2499280 2501280 (04) eu tava pensando em deixar chegar mais
+2501280 2503280 (04) perto pra gente ver mais claramente.
+2503280 2505280 (04) Tipo, sair do caminho, mas
+2505280 2507280 (04) continuar monitorando ele.
+2507280 2509280 (05) Vocês são robôs de cinco metros de altura,
+2509280 2511280 (05, 04) tá? Lembrando disso. Tudo bem. É um
+2511280 2513280 (04) campo aberto? Tem árvores? Tem prédios?
+2513280 2515280 (05, 04) Tem alguma coisa nesse caminho? Concreto,
+2515280 2517280 (05) aço retorcido pra todo lado, carros
+2517280 2519280 (05) virados, ônibus amassados.
+2519280 2521280 (05) É uma cidade que foi devastada
+2521280 2523280 (05, 02) durante o apocalipse. Faz assim.
+2523280 2525280 (02) A, que tá com o bebê.
+2525280 2527280 (02) Você fica escondido. Beleza. F,
+2527280 2529280 (02) se aproxima dele que eu te dou cobertura
+2529280 2531280 (02) e fico observando de onde eu tô. Tanto
+2531280 2533280 (02) o A quanto o F que tá indo
+2533280 2535280 (02, 04) resolver isso. Certo.
+2535280 2537280 (04) Ah, e agora eu sou um robô de cinco metros de
+2537280 2539280 (04) altura, agachado atrás dos concretos
+2539280 2541280 (04) retorcidos, fazendo bilu-bilu numa
+2541280 2543280 (04) criancinha. Isso. É.
+2543280 2545280 (07, 04) Que cena maravilhosa.
+2545280 2547280 (07) Ele tá vindo na minha direção?
+2547280 2549280 (05, 07) Ele tá andando na mesma direção que vocês,
+2549280 2551280 (05, 07) sim. Ah, se eu atrasar, ele vai
+2551280 2553280 (05, 07, 02) tipo que andar mais, né? É. Pode
+2553280 2555280 (02) encontrar com ele, F. Tô dando cobertura.
+2555280 2557280 (02) Eu encontro e faço um sinal com a mão
+2557280 2559280 (02) assim. Opa! Eu tô com um
+2559280 2561280 (02) rifle apontado de longe,
+2561280 2563280 (02) pra cabeça do bicho estranho, observando
+2563280 2565280 (05, 02) o que vai acontecer. Ele te olha
+2565280 2567280 (05) meio estranho e cumprimenta
+2567280 2569280 (05, 07, 02) de volta. Sim!
+2569280 2571280 (05, 07) Quer fazer troca? Hum...
+2571280 2573280 (13, 07) O que que você tá trocando aí? Eu troco
+2573280 2575280 (13, 07) esse homem pelo robô?
+2575280 2577280 (07) Não, não, não. Ele tá pedindo muito, rapaz.
+2577280 2579280 (13, 07) Por uma de suas armas, então?
+2579280 2581280 (13, 07) Eu tenho uma coisa muito mais interessante.
+2581280 2583280 (07) Você já ouviu falar num tal
+2583280 2585280 (07) de, é... fatia
+2585280 2587280 (07) de gordura? Cara, é uma delícia.
+2587280 2589280 (13, 07) Ah, eu não preciso de alimento.
+2589280 2591280 (13, 07) Se eu quisesse, eu ia. Eu comeria esse
+2591280 2593280 (07) humano aqui, ó. Eu falo no comunicador.
+2593280 2595280 (07) É, parece que eles
+2595280 2597280 (07) fazem mercado escravo
+2597280 2599280 (07) de pessoas, ou comida delas.
+2599280 2601280 (02) Diz que a armadura
+2601280 2603280 (02) é muito valiosa, que você precisaria mais
+2603280 2605280 (02) de um humano, mais do que um humano, e
+2605280 2607280 (02) pergunta onde ele conseguiu isso. Onde ele conseguiu
+2607280 2609280 (07, 02) o humano. Boa. Ah, cê tá
+2609280 2611280 (07) querendo muito pouco, rapaz. Essa armadura
+2611280 2613280 (07) custa muito mais humano. Aliás,
+2613280 2615280 (13, 07) você me consegue mais humanos? É,
+2615280 2617280 (13, 07) difícil. Eles pouco e muito
+2617280 2619280 (13, 07) escondidos. Hum, entendo.
+2619280 2621280 (13, 07) Você é um caçador. Não, eu
+2621280 2623280 (13, 07) faço trocas. Esse, esse
+2623280 2625280 (13, 07) eu troquei por um revólver, sem munição.
+2625280 2627280 (13, 07) E onde você troca exatamente?
+2627280 2629280 (13) Com outras criaturas que acabo encontrando.
+2629280 2631280 (13, 07) É, criatura forte,
+2631280 2633280 (13, 07) como, como você. Ah, certo.
+2633280 2635280 (07) Por acaso você faz negócios
+2635280 2637280 (07) por uma cidade que tá mais aí
+2637280 2639280 (13, 07) pra frente? Não, não. Eu não posso me aproximar
+2639280 2641280 (13, 07) de lá. Uai, alguma
+2641280 2643280 (13, 07) coisa te impede assim? É porque é
+2643280 2645280 (13, 07, 04) território de alguém muito maior.
+2645280 2647280 (04) Aí eu digo assim, ó. F,
+2647280 2649280 (04) faz uma troca com ele. Troca o
+2649280 2651280 (04) humano por uma bala sua.
+2651280 2653280 (07) É uma bala,
+2653280 2655280 (07) ó a granada. Vai sobrar nada
+2655280 2657280 (05, 07) do humano pra contar a história. Tá, uma granada
+2657280 2659280 (05) ele tá com um ser humano preso perto dele.
+2659280 2661280 (05, 07) Lembrar disso. É não, a granada não.
+2661280 2663280 (07) Ah tá, tu não tem, tu não tem arma
+2663280 2665280 (07) de fogo, né? A de fogo é a lança
+2665280 2667280 (07) granada. E tem uma lança.
+2667280 2669280 (07) É, C, você consegue
+2669280 2671280 (07) acertá-lo daí? De onde você tá?
+2671280 2673280 (05, 07, 02) Eu espero que sim. Tá, me lembrem
+2673280 2675280 (05) disso. Qualquer ataque dentro
+2675280 2677280 (05, 07) da armadura, três dados.
+2677280 2679280 (07) Ok. Então, eu viro
+2679280 2681280 (07) pra galera. Olha, a gente tem duas opções.
+2681280 2683280 (07) A gente segue viagem e
+2683280 2685280 (07) esquece do que a gente viu. A gente ia conseguir
+2685280 2687280 (07) uma informação boa. Ou B, a gente
+2687280 2689280 (07) tenta salvar esse humano e
+2689280 2691280 (07, 02) enfim. Diz a ele que
+2691280 2693280 (02) troca o humano por uma bala. Ele
+2693280 2695280 (07, 02) dá o humano e eu dou a bala nele. É,
+2695280 2697280 (07) isso aí. Essa é a troca. Tá bom.
+2697280 2699280 (07) Eu falo assim, pensando bem
+2699280 2701280 (07) aqui, eu acho que eu vou aceitar
+2701280 2703280 (07) o seu negócio. Mas primeiro
+2703280 2705280 (07) passa o humano que eu te passo a arma.
+2705280 2707280 (05, 07) Ele tá bem desconfiado. Ele
+2707280 2709280 (05, 07, 13) Bom, primeiro a arma. Eu
+2709280 2711280 (07) dou. Tá bom. Eu
+2711280 2713280 (07) agacho.
+2713280 2715280 (07) Eu fiz que eu vou pegar a arma assim nas costas pra
+2715280 2717280 (07, 04) passar pra ele. Seja feita a
+2717280 2719280 (04) vossa vontade.
+2719280 2721280 (02) Tem pra todo gosto dos meus dados. Deu
+2721280 2723280 (05, 02) dois, seis e cinco.
+2723280 2725280 (05) O tiro acerta o braço da criatura.
+2725280 2727280 (05) Arranca o braço dela
+2727280 2729280 (05) fora. O braço que segurava a corrente, inclusive.
+2729280 2731280 (05) A criatura urra de dor.
+2731280 2733280 (05) Eu vou matar você! Corre
+2733280 2735280 (05) na direção do F.
+2735280 2737280 (05) Dá socos na armadura. Parece
+2737280 2739280 (05) não afetar nada. O computador
+2739280 2741280 (05) não informa dano algum na armadura.
+2741280 2743280 (05, 07) Ele tá socando a armadura. Eu
+2743280 2745280 (07) vou apertar ele assim. Ele disse que só tem dois
+2745280 2747280 (05, 07) metros. Eu tenho cinco, né? Eu vou segurar
+2747280 2749280 (07) ele e vou falar assim,
+2749280 2751280 (07) então, é...
+2751280 2753280 (13, 07) Gostou da troca? Vou te matar
+2753280 2755280 (13) você! Como podem me trair?
+2755280 2757280 (13, 07) Somos a mesma espécie! Minha espécie?
+2757280 2759280 (13, 07) Você é humano?
+2759280 2761280 (13) Como ficou tão grande?
+2761280 2763280 (13, 07) É mentira você! Aliás,
+2763280 2765280 (07) qual é a sua espécie? Eu consigo enxergar
+2765280 2767280 (05, 07) ele assim? Sim, sim.
+2767280 2769280 (05, 07) Bom, então suponho que
+2769280 2771280 (05, 07) ele não seja um anjo. Não.
+2771280 2773280 (05, 07) Tem chifres na cabeça, inclusive. Olha,
+2773280 2775280 (07) me fala uma coisa. O que que você sabe
+2775280 2777280 (13, 07) sobre essa cidade? A cidade é protegida
+2777280 2779280 (13, 02) por um dos sete demônios reais!
+2779280 2781280 (07, 02) Nossa. E aí, galera, o que que a gente faz?
+2781280 2783280 (07, 02) Pergunta qual dos sete demônios
+2783280 2785280 (07, 02) é o que tá nessa cidade. Eu deixei
+2785280 2787280 (07) no viva-voz, assim, a... Tudo
+2787280 2789280 (07) que eles falarem tá saindo no...
+2789280 2791280 (02) A preguiça! Você sabe
+2791280 2793280 (02) qual é a cidade que tem os outros demônios?
+2793280 2795280 (07, 02) Não, não, não! Tá certo.
+2795280 2797280 (07) Eu viro pro humano, eu falo aí,
+2797280 2799280 (07) então, tudo bem contigo? Faz o seguinte...
+2799280 2801280 (05, 07) Ele tá com os olhos bem arregalados, ele tá
+2801280 2803280 (05) apavorado, assim. Tem sangue do demônio nele.
+2803280 2805280 (05, 07) Eu pego
+2805280 2807280 (07) a lança, eu quebro a corrente
+2807280 2809280 (07) assim, aponto lá pro fundo
+2809280 2811280 (07) e falo, olha, caminha pra lá que você vai
+2811280 2813280 (07) encontrar uma igreja.
+2813280 2815280 (07) Chega lá, você vai encontrar um padre e ele vai te ajudar.
+2815280 2817280 (05, 07) Vai na fé.
+2817280 2819280 (05, 02) E ele começa a correr. Arranca a cabeça dele, cara!
+2819280 2821280 (07, 02, 04) Eu digo, dá um jeito
+2821280 2823280 (07) nesse capeta aí. Tá ok, então
+2823280 2825280 (07, 04) dou um jeito no capeta.
+2825280 2827280 (05, 07) Com a mão ou com a lança? Com a mão.
+2827280 2829280 (05, 07) Com a lança, lógico. Beleza.
+2829280 2831280 (05, 07) Consegue, o bicho tá rendido.
+2831280 2833280 (07) Então tá bom, então nós temos o
+2833280 2835280 (07) capeta da preguiça,
+2835280 2837280 (07, 12) o demônio da preguiça. É.
+2837280 2839280 (07) A cidade tem acordo com humanos.
+2839280 2841280 (07) Tá bom. Menos mal, né?
+2841280 2843280 (07) O capeta preguiçoso deve ser mais fácil.
+2843280 2845280 (07) Vamos indo? Mas
+2845280 2847280 (07) isso pode ser um problema, porque
+2847280 2849280 (07) se os demônios não podem chegar a perto da
+2849280 2851280 (07) cidade e ele confundir a gente com o demônio,
+2851280 2853280 (07, 02) isso não pode acabar bem.
+2853280 2855280 (02) Só não parece demônio, mas tá carregando
+2855280 2857280 (07, 02, 04) o bebê deles. Esse é o problema.
+2857280 2859280 (02, 04) Que beleza. A gente entra, o
+2859280 2861280 (02, 04) bebê não entra. Mas vamos indo até onde
+2861280 2863280 (02, 04) dá. Tá. Vai chegar uma hora que
+2863280 2865280 (04) se for esse o caso,
+2865280 2867280 (02, 04) a gente vai começar a ser repelido. A gente devia ter
+2867280 2869280 (02) perguntado ao humano se ele era dessa cidade.
+2869280 2871280 (02) Humano! Dou aquela olhada pra trás
+2871280 2873280 (05, 02) pra ver se ainda é alcançável.
+2873280 2875280 (05, 02) Ele tá correndo lá atrás, né? Tá, eu consigo
+2875280 2877280 (05, 02) voar rapidinho até ele. Consegue.
+2881280 2883280 (02) Um cão gigante de cinco metros
+2883280 2885280 (02) cai na frente dele.
+2885280 2887280 (05, 02) Ele tá apavorado.
+2887280 2889280 (10, 02) Eu abro o Gaspar pra ele ver que eu sou humano.
+2889280 2891280 (10) Achei que ia morrer. Obrigado
+2891280 2893280 (10, 02) por terem me salvado. Não precisa agradecer.
+2893280 2895280 (02) A gente tá aqui exatamente pra isso. Eu quero saber
+2895280 2897280 (02) se você é dessa cidade onde tinha
+2897280 2899280 (02) que ele falou que é dominada pelo
+2899280 2901280 (10, 02) demônio da preguiça. Sim. Eu já morei
+2901280 2903280 (10, 02) lá. Você já morou e não mora mais?
+2903280 2905280 (10) Não. Não.
+2905280 2907280 (10) Eu fui pego roubando. Aí me
+2907280 2909280 (10) baniram da cidade. Achei que conseguiria
+2909280 2911280 (10) me virar aqui fora, mas
+2911280 2913280 (10, 02) acabei prisioneiro da criatura.
+2913280 2915280 (02) Mas como... O que que acontece nessa cidade?
+2915280 2917280 (10, 02) A cidade vive de trocas e
+2917280 2919280 (10) mineração de prédios caídos.
+2919280 2921280 (10) Eles cavam nos destroços em
+2921280 2923280 (10, 02) busca de coisas de valor. Mas as pessoas
+2923280 2925280 (02) estão bem. Mesmo sendo governadas
+2925280 2927280 (10, 02) por um demônio. Sim. Ele
+2927280 2929280 (10) mal sai do seu nhenho. E...
+2929280 2931280 (10) Ele brigou com os outros
+2931280 2933280 (10) demônios? Ele é um demônio
+2933280 2935280 (10) poderoso. Só dele
+2935280 2937280 (10) estar dormindo lá. Nenhum outro
+2937280 2939280 (10, 02) demônio tem coragem de se aproximar. Mas...
+2939280 2941280 (02) E os outros demônios da mesma
+2941280 2943280 (10, 02) patente dele? Eu nunca vi nenhum.
+2943280 2945280 (10, 02) A nossa armadura parece com demônios?
+2945280 2947280 (10) Não. Mas vocês...
+2947280 2949280 (10) Vocês são grandes e fortes. Aquela
+2949280 2951280 (10) criatura que me capturou não era
+2951280 2953280 (10) muito inteligente. Deve ter se
+2953280 2955280 (10, 02) confundido. Então... Obrigado pela informação.
+2955280 2957280 (02) Pode continuar o seu caminho até a igreja.
+2957280 2959280 (05, 02) Vocês tem alguma comida?
+2959280 2961280 (02) Tenho uma fatia de gordura.
+2961280 2963280 (05, 02) Tu tem aquelas pastas de comida
+2963280 2965280 (05, 02) pronta que vocês trouxeram lá de cima? Tá.
+2965280 2967280 (02) E ele nunca comeu. Ele vai adorar.
+2967280 2969280 (02) Eu olho pros meninos pra
+2969280 2971280 (02) receber um ok deles. Ou não.
+2971280 2973280 (07, 02) Tá fazendo um joinha lá de longe assim, ó.
+2973280 2975280 (07) Eu ia levar a gordura. Na hora que ela falou que vai
+2975280 2977280 (07) dar a pasta, eu fico feliz da vida e eu dou
+2977280 2979280 (10, 07) um joinha também. Eu dou uma pasta
+2979280 2981280 (10) a ele. Muito obrigado, muito
+2981280 2983280 (10, 05) obrigado. Ele parece bem feliz.
+2983280 2985280 (10, 02, 05) Eu vou dizer, me devolve o plástico. Eu não quero deixar
+2985280 2987280 (05, 02) nenhuma evidência dessa. É meio tarde
+2987280 2989280 (05) pra salvar o planeta.
+2989280 2991280 (05, 02) Me devolve o plástico
+2991280 2993280 (05, 02) que a gente faz reciclagem. Ele devolve
+2993280 2995280 (05, 02) o plástico. Tá, eu deixo ele seguir e
+2995280 2997280 (02) volto pros meninos e dou as informações
+2997280 2999280 (02) que eu recebi, já que eu tava sem o capacete.
+2999280 3001280 (02, 04) Então, eu tô achando que
+3001280 3003280 (04) eu, depois de ouvir as informações,
+3003280 3005280 (04) o que eu tô achando é que o
+3005280 3007280 (04) grandão lá falou
+3007280 3009280 (04) que nenhum demônio pode chegar perto.
+3009280 3011280 (04) Não é que não pode. É que nenhum
+3011280 3013280 (04) tenta chegar perto, pelo que o cara falou.
+3013280 3015280 (04) Uhum. Eu acho que a gente pode
+3015280 3017280 (02, 04) ir indo. Tu também acha? Também acho.
+3017280 3019280 (07, 02, 04) A gente segue na mesma formação? Sim.
+3019280 3021280 (07) Funcionou bem, inclusive.
+3031280 3033280 (05) Vocês passam por alguns
+3033280 3035280 (05) outros demônios como aquele, só que
+3035280 3037280 (05) sem ninguém junto, né? E vocês podem
+3037280 3039280 (05) optar por matá-los ou simplesmente
+3039280 3041280 (05) deixar passar. E nenhum deles vai atacar vocês
+3041280 3043280 (05, 07) se não for atacado. Não, tá
+3043280 3045280 (05, 07) tranquilo. Vão ignorando e seguindo, né?
+3045280 3047280 (05, 07) Uhum. A maioria deles se assusta quando vê vocês
+3047280 3049280 (05) se são muito grandes em comparação.
+3049280 3051280 (05) Até que, Cris, você que está voando,
+3051280 3053280 (05, 02) dois dados.
+3053280 3055280 (02) Seis e três. Três é meu atributo.
+3055280 3057280 (05, 02) Você voando lá de cima,
+3057280 3059280 (05) tu identifica, mais à frente de vocês,
+3059280 3061280 (05) a cidade meio que
+3061280 3063280 (05) diminui, começa algumas regiões que pareciam
+3063280 3065280 (05) fazendas antigamente, e tem
+3065280 3067280 (05) uma procissão, pode ser descrito
+3067280 3069280 (05) assim, ou um rio de mortos
+3069280 3071280 (05) caminhando, que parecem
+3071280 3073280 (05) zumbis. Eles estão na direção oposta
+3073280 3075280 (05) de vocês. Eles estão indo no sentido norte-sul,
+3075280 3077280 (05) eles estão indo leste-leste, tipo uma
+3077280 3079280 (05) procissão gigantesca que parece não acabar
+3079280 3081280 (05) indo de um ponto ao outro. Como se fosse um rio
+3081280 3083280 (05, 02) de mortos. Gente, parou de novo.
+3083280 3085280 (02) Tem uma coisa muito estranha ali na frente.
+3085280 3087280 (02) Parece mortos caminhando
+3087280 3089280 (02) e muitos. Muito.
+3089280 3091280 (02) Tipo, muitos, muitos.
+3091280 3093280 (02) Muitos, muitos. Parece um rio de
+3093280 3095280 (02) mortos descendo. E...
+3095280 3097280 (04) você acha que se você jogasse uma
+3097280 3099280 (04) uma granada ali no meio, ia abrir
+3099280 3101280 (04) um buraco o suficiente pra gente passar?
+3101280 3103280 (04) Não, não quero matar eles,
+3103280 3105280 (04) eu quero fazer uma abertura.
+3105280 3107280 (02, 04) Tá, eu tento dar zoom, consigo ver
+3107280 3109280 (05, 02) mais alguma coisa, eu gosto. O
+3109280 3111280 (05) visor da C identifica, não há abatimentos
+3111280 3113280 (05) cardíacos, nem calor vindo deles. Eles
+3113280 3115280 (05) andam lentamente, e são milhares.
+3115280 3117280 (05) Os dois lados que tu olhar, tem deles
+3117280 3119280 (05) vindo, pelo menos
+3119280 3121280 (05, 04) assim... Tá, mas eles são humanos, né?
+3121280 3123280 (05) São humanos que morreram há muito tempo, provavelmente.
+3123280 3125280 (05) Estão bem no estágio avançado da
+3125280 3127280 (05, 04) composição. Tá, beleza. A gente tem cinco metros
+3127280 3129280 (02, 04) de altura, vamos andando. Tá. O F tá indo
+3129280 3131280 (05, 02, 04) na frente, né? Uhum. Quando a gente chegar
+3131280 3133280 (04) mais perto, vamos dar uma olhada na largura
+3133280 3135280 (04) dessa galera, assim.
+3135280 3137280 (04) Tipo, na largura do rio. Se for muito
+3137280 3139280 (02, 04) grande, pode ser um problema. Tá.
+3139280 3141280 (05, 02) Quem trouxe o lance da granada? Os dois têm.
+3141280 3143280 (05, 07, 02) Bom, qualquer coisa, você falou
+3143280 3145280 (07) que tem ruínas de prédios, essas coisas, né?
+3145280 3147280 (05, 07) Ali menos, ali é uma região mais de fazenda.
+3147280 3149280 (05, 07) Eu vou fazer o seguinte, eu
+3149280 3151280 (07) vou voar, e vou voar, assim,
+3151280 3153280 (07) pra uma direção distante do grupo.
+3155280 3157280 (07) Vou
+3157280 3159280 (07) pegar a minha espada e bater num pedaço
+3159280 3161280 (07) de ferro, assim, bem forte. Eu posso
+3161280 3163280 (07) voar, mas voar não pode. Eu vou tentar
+3163280 3165280 (07) atrair esse povo pra longe desse caminho.
+3167280 3169280 (05) Eles parecem não prestar atenção,
+3169280 3171280 (05) barulho algum, e só seguem
+3171280 3173280 (05) sentido leste-oeste,
+3173280 3175280 (05, 07) sem olhar pro lado. Bom, não
+3175280 3177280 (07) segue barulho. É, então, ok.
+3177280 3179280 (07) É, gente, não funcionou.
+3179280 3181280 (02) Tá. Vamos tentar cruzar.
+3181280 3183280 (02) O ar não vai passar com a gente.
+3183280 3185280 (02) Tu tenta passar primeiro, e eu fico dando
+3185280 3187280 (02) a cobertura daqui de cima, vê o que acontece.
+3187280 3189280 (07, 02) Qualquer coisa, você corre, enquanto
+3189280 3191280 (02) eu uso a metralhadora, e aí tu joga
+3191280 3193280 (02) uma granada, quando tu estiver na distância.
+3193280 3195280 (07, 02) Tá certo. Então, eu vou caminhar
+3195280 3197280 (07) no meio da multidão, e fazer aquele
+3197280 3199280 (05, 07) jacarezinho na onda. Tá. Ah, você tá voando.
+3199280 3201280 (05) Uhum. O F entrou no meio
+3201280 3203280 (05, 04) da multidão. Uhum, entrei. Tá.
+3203280 3205280 (04) Que largura que tem esse rio aí, de gente?
+3205280 3207280 (05, 04) Trinta pessoas. Mas, a hora
+3207280 3209280 (05) que o F entra em contato com o primeiro,
+3209280 3211280 (05) eles começam a agarrar
+3211280 3213280 (05) a armadura. Você já viu o
+3213280 3215280 (05) Guerra Mundial Z, né? Já.
+3215280 3217280 (05) Sim. Eles começam a subir um em cima do outro,
+3217280 3219280 (05) e começam a se agarrar na armadura.
+3225280 3227280 (02, 04) Corre, cara! Corre! Eu grito pra
+3227280 3229280 (04) Z, abre fogo. A armadura
+3229280 3231280 (04) dele é resistente a laser. As
+3231280 3233280 (02, 04) pessoas, não. Tá. Então, eu desço,
+3233280 3235280 (02) guardo o rifle, puxo a metralhadora,
+3235280 3237280 (05, 02) e começo a atirar. Três dados.
+3237280 3239280 (05, 02) Seis, cinco,
+3239280 3241280 (02) e três.
+3243280 3245280 (05) Seis, cinco é falha, três é o teu atributo.
+3245280 3247280 (05) Eu derrubo alguns, mas
+3247280 3249280 (05) eles estão se acumulando em grande quantidade
+3249280 3251280 (05) no F ainda. Ah, vai fazer o quê?
+3251280 3253280 (05, 04) Eu vou
+3253280 3255280 (04) usar as asas como um
+3255280 3257280 (04) boost, assim, pra dar uma baita de uma velocidade.
+3257280 3259280 (05, 04) Aham. E circundar
+3259280 3261280 (04) ele com a espada aberta, com o braço,
+3261280 3263280 (04) assim, levando a espada pra
+3263280 3265280 (04) destruir o máximo de corpos que eu puder.
+3265280 3267280 (05, 04) Três dados.
+3267280 3269280 (04) Oxê, nunca rolei tanto
+3269280 3271280 (04) dado na vida. Dois, quatro,
+3271280 3273280 (04) e cinco.
+3275280 3277280 (05) Tu faz uma limpa
+3277280 3279280 (05) gigantesca ali, tu corta
+3279280 3281280 (05) vários deles com um movimento
+3281280 3283280 (05) só da espada, e o F
+3283280 3285280 (05) tá... continua tendo criaturas
+3285280 3287280 (05) escalando ele, mas os teus movimentos
+3287280 3289280 (05) estão mais livres. Tu vai
+3289280 3291280 (05) voltar ou tu vai aproveitar pra atravessar pro outro lado?
+3291280 3293280 (05, 07) Se eu encostar em um deles
+3293280 3295280 (07) e sair correndo, e se eles me seguirem,
+3295280 3297280 (07) então a galera vai vir atrás,
+3297280 3299280 (07) não é? Eu vou dar um tapa
+3299280 3301280 (07) assim, num grupo, e na hora que eles
+3301280 3303280 (07) começarem a vir atrás de mim, eu vou ficar meio
+3303280 3305280 (07) que voando, assim, pra atrair eles pra um
+3305280 3307280 (05, 07) lado. Tá, três dados.
+3307280 3309280 (07) Cinco, cinco
+3309280 3311280 (07) e seis.
+3313280 3315280 (07) Que cena.
+3323280 3325280 (05) A hora que tu
+3325280 3327280 (05) vai voar, as asas, na verdade,
+3327280 3329280 (05) elas têm aberturas como se fossem
+3329280 3331280 (05) uma turbina que puxaria. Tu
+3331280 3333280 (05) puxa uma das criaturas e escuta uma
+3333280 3335280 (05) explosão vindo dessa asa, e tá
+3335280 3337280 (05) saindo bastante fumaça do teu
+3337280 3339280 (05) anjo. Ele parece que não
+3339280 3341280 (05) vai voar mais, e começa a piscar
+3341280 3343280 (05) vários alertas vermelhos
+3343280 3345280 (05, 07) na tua tela principal. Ah, Baltazar,
+3345280 3347280 (05, 07) corre.
+3347280 3349280 (05) Tu tá parado no meio do rio. Os bichos tão
+3349280 3351280 (05, 02) se acumulando ainda. É a C.
+3351280 3353280 (02) Tá. O A correu pra atravessar?
+3353280 3355280 (05) O A fez um movimento lindo destruindo
+3355280 3357280 (05) vários. O F tentou voar
+3357280 3359280 (05) e um dos bichos entrou na turbina dele
+3359280 3361280 (05) e tá pegando fogo agora
+3361280 3363280 (05, 02) a asa. Eu olho pro A e digo
+3363280 3365280 (02) atravessa, atravessa. Viro
+3365280 3367280 (02) pro F e metralhadora.
+3367280 3369280 (05) Três dados.
+3369280 3371280 (02) Quatro, um e dois.
+3371280 3373280 (05) Tu dá uma protegida legal ali em volta
+3373280 3375280 (05) dele, mas a unidade dele
+3375280 3377280 (05) parece não tá se movendo. F,
+3377280 3379280 (05) precisaria de um tempo pra consertar isso aí.
+3379280 3381280 (05, 07) Eu não consigo mexer em nada, nem os
+3381280 3383280 (05, 07) braços? Não, travou tudo.
+3383280 3385280 (07) Bom, nem dar um tiro de granada.
+3385280 3387280 (05, 07) Não. Tá bom, tô aqui
+3387280 3389280 (05, 07) assoviando na lagoa. É, a armadura
+3389280 3391280 (05) tá te protegendo por enquanto.
+3391280 3393280 (05, 07) Todos os bichos não conseguem passar por ela.
+3393280 3395280 (05, 07) O A atravessou? O A, se o A quis atravessar,
+3395280 3397280 (05, 04) ele atravessou. Tá, não tem condições
+3397280 3399280 (04) de eu sair daqui de dentro. Tá, então
+3399280 3401280 (04) mesmo eu tendo atravessado, ou não
+3401280 3403280 (04) também, isso não vai fazer diferença, eu vou
+3403280 3405280 (04) falar pro F, abre só
+3405280 3407280 (02, 04) a armadura que eu te pego.
+3407280 3409280 (02, 04) Não precisa abrir a armadura, não. Vou levantar
+3409280 3411280 (02) a armadura dele e começar a chacoalhar
+3411280 3413280 (02) no A pra ver se cai.
+3413280 3415280 (unknown) .
+3415280 3417280 (02, 04) É tipo, tipo tirando formiga, né?
+3417280 3419280 (12, 02) Exato. Da mão assim, né?
+3419280 3421280 (12, 02) . Não abre não, não abre
+3421280 3423280 (02) não, eu faço, não abre não, não abre não, isso aí não.
+3423280 3425280 (02, 04) .
+3425280 3427280 (04) Vai pegar pelo braço e ficar chacoalhado.
+3427280 3429280 (04) É. Ah, perfeito.
+3429280 3431280 (07, 04) Faça isso que é muito melhor. Posso? Gosto.
+3431280 3433280 (05, 07) Pode. Dois dados, teste de força.
+3433280 3435280 (05, 07) Tomara que não seja duas armaduras.
+3435280 3437280 (07, 02) Quatro e dois.
+3437280 3439280 (07, 02) .
+3439280 3441280 (unknown) .
+3441280 3443280 (unknown) .
+3443280 3447280 (05) .
+3447280 3449280 (05) .
+3449280 3451280 (05) .
+3451280 3453280 (05) .
+3453280 3455280 (05, 07, 02) .
+3455280 3457280 (05, 07, 02) .
+3457280 3459280 (05, 07) .
+3459280 3461280 (07) .
+3461280 3463280 (05, 07) .
+3463280 3465280 (05, 07) .
+3465280 3467280 (07) .
+3467280 3469280 (07) .
+3469280 3471280 (07) .
+3471280 3473280 (05, 07) .
+3473280 3475280 (05) .
+3475280 3477280 (05, 07) .
+3477280 3479280 (05, 04) .
+3479280 3481280 (05, 04) .
+3481280 3483280 (05) .
+3483280 3485280 (05) .
+3485280 3487280 (05) .
+3487280 3489280 (05) .
+3489280 3491280 (05, 04) .
+3491280 3495280 (04) .
+3495280 3497280 (05, 04) .
+3497280 3499280 (05) .
+3499280 3501280 (05, 04) .
+3501280 3503280 (05, 04) .
+3503280 3505280 (05, 04) .
+3505280 3507280 (05) .
+3507280 3509280 (05) .
+3509280 3511280 (05, 02) .
+3511280 3513280 (02) .
+3513280 3515280 (02) .
+3515280 3517280 (02) .
+3517280 3519280 (05, 02) .
+3519280 3521280 (05) .
+3521280 3523280 (05, 02) .
+3523280 3525280 (05, 04) .
+3525280 3527280 (05, 04) .
+3527280 3531280 (05, 04) . .
+3531280 3533280 (05) . .
+3533280 3535280 (05) . .
+3535280 3537280 (05) .
+3537280 3539280 (05) . .
+3539280 3541280 (05) . .
+3541280 3543280 (05) .
+3543280 3545280 (05, 02) .
+3545280 3547280 (05, 02) .
+3547280 3549280 (05) .
+3549280 3551280 (05, 04) .
+3551280 3552880 (unknown) .
+3552880 3555280 (04) .
+3555280 3556800 (07, 04) viu, cara. Viu o negócio.
+3557560 3558980 (07) Eu vi a morte chegar.
+3560120 3560600 (05) Literalmente.
+3564500 3566980 (05) A criatura cai com a foice
+3566980 3569380 (05) de cima pra baixo, cortando, e arranca
+3569380 3570840 (05) o braço da armadura
+3570840 3572800 (05) do F-15, ou do Baltazar.
+3573160 3574520 (05, 07) Mas hoje é o dia, hein?
+3575640 3577020 (05) Como bônus, tens uma ação, Felipe.
+3577160 3579020 (05) Tu tá dentro de uma armadura travada
+3579020 3580420 (05) e sem um braço agora.
+3581420 3583300 (05) Eu vou comer. O braço da lança
+3583300 3584660 (05, 07) tá, caiu. Eu vou comer
+3584660 3587220 (07) um pouco do bacon com ovo.
+3587740 3589280 (05, 07) Pode ser minha última refeição.
+3591760 3593120 (07) Eu preparo ali
+3593120 3595040 (07) minha pistola, abro a armadura
+3595040 3597100 (07) e corro como se não houvesse
+3597100 3599240 (05, 07) amanhã. Vai abrir a armadura
+3599240 3600480 (05) e correr. Perfeito.
+3600880 3602720 (05) Na direção do ar,
+3602900 3604920 (05) existe um círculo de mortos em volta de vocês.
+3604920 3606020 (05, 07) Estão distantes, mas estão lá.
+3606020 3608900 (05, 07) Eu não consigo segurar
+3608900 3610980 (07) na C, não? Ela tá voando?
+3611220 3612960 (05) Pode sim, pode. Dois dados.
+3613320 3614480 (05) Preciso de um acerto de
+3614480 3615440 (05) força. Vamos lá.
+3616740 3617620 (07) Seis e um.
+3617940 3620580 (05, 07) Oito e oitenta, sempre. Um te garante
+3620580 3622700 (05) que tu tá pendurado no braço da C.
+3622960 3624340 (07) Nossa, mas eu tô igual
+3624340 3625660 (07) o filhote macaco ali.
+3626440 3628720 (05) C, tu não pode usar as armas de fogo
+3628720 3630560 (05) porque um dos teus braços tá segurando o teu amigo.
+3630740 3632540 (05, 02) O que tu faz? Eu tenho que levar ele
+3632540 3634140 (02) pra fora do círculo, eu tô voando.
+3634460 3636660 (05) Tá. Tu vai abandonar o Anselmo ali.
+3636760 3638660 (05, 02) É isso. Tá tão largo o círculo assim?
+3638840 3640520 (05) Tá, assim. Não, a tua ação é
+3640520 3642660 (05) que tu consegue sair do círculo, mas tu não tem
+3642660 3644360 (05) tempo de voltar. Tu vai voltar na próxima.
+3644480 3646100 (05, 02) Tá, o que eu faço é
+3646100 3648560 (02) eu pego com uma mão o Felipe, tá?
+3648620 3650220 (05, 02) Certo. Levanto ele
+3650220 3652280 (02) pra ele ficar fora do círculo e
+3652280 3654660 (02) segurando ele e uso a velocidade
+3654660 3656620 (02) pra tentar abrir espaço
+3656620 3658340 (02) no círculo de mortos, tentando
+3658340 3660340 (02) deixar espaço pro A passar. De forma
+3660340 3662500 (02) que a minha armadura bata
+3662500 3664320 (02) nos mortos, mas o F
+3664320 3666200 (02) não seja atingido porque ele tá sobre
+3666200 3668180 (02) minha cabeça. Se eu tenho cinco metros
+3668180 3670160 (05, 02) cada braço vai ter...
+3670160 3672540 (05, 02) Tá bom, parece plausível. Eu quero dois dados.
+3672540 3674220 (05) Tem que tirar daí mais que
+3674220 3676060 (05) pelo menos um deles, mais que três.
+3677500 3678580 (02) Três e cinco.
+3678700 3680120 (02) Três é meu atributo e cinco.
+3680360 3682100 (05) Perfeito. Mas aí tua ação acaba.
+3682320 3684360 (05, 02) Tá, mas eu abri espaço e tirei o F, né?
+3684440 3686300 (05, 02) Tirou. A37, ação.
+3686800 3688660 (04) Esse espaço que ela se abriu
+3688660 3690140 (04) tá bem na minha frente?
+3690420 3691780 (05, 04) Sim, atrás de ti. Mas, quer dizer,
+3692100 3694060 (04) como é que tá bem na minha frente? Ela tá alcançável
+3694060 3696320 (04) pra eu dar um boost e passar por ele?
+3696380 3698300 (05, 04) Tá alcançável. Ah, beleza. Eu faço isso.
+3698440 3700380 (04) Quando eu vi ela abrindo um
+3700380 3702300 (04) espaço entre o
+3702300 3704100 (04) círculo de desgraça ali,
+3704220 3706220 (04) eu dei um boost com as
+3706220 3708060 (04) asas e varei pelo
+3708060 3710120 (05, 04) caminho. Certo. Vocês três
+3710120 3712080 (05) estão do lado de fora daquele círculo.
+3712220 3714240 (05) A criatura com a foice encara vocês
+3714240 3716360 (05) com desconfiança. O círculo
+3716360 3718440 (05) começa a voltar a formar o mar
+3718440 3720500 (05) e a criatura tá lá analisando
+3720500 3722500 (05) o que é o robô do...
+3722500 3724220 (05) o que era o Baltazar, né? O robô
+3724220 3726380 (05) do F-15. Ela parece que não vai atrás de vocês.
+3726600 3727640 (07) A gente segue pra cidade.
+3728440 3730320 (07) Quer deixar a criança no meu colo?
+3730500 3731620 (05, 07, 12, 02) É, eu ia dizer isso agora.
+3731620 3734120 (07, 02, 04) É a hora do Felipe ficar com a criança.
+3734440 3735860 (04) Do F ficar com a criança.
+3736160 3738040 (05) Daí ele vai literalmente levá-la nos braços, tá?
+3738340 3739720 (04) É, ele não tem armadura
+3739720 3741860 (04) nenhuma, né? Bom, é o filho do capeta
+3741860 3743600 (04) também, né? Não precisa de cuidados.
+3743720 3745680 (02, 04) E faz do mesmo jeito. Deixa o F
+3745680 3747880 (02) com a criança e vai do lado dele
+3747880 3749660 (02) enquanto eu vou de longe observando.
+3749960 3751720 (05, 02) Beleza. Eu dou uma olhada pra trás
+3751720 3753900 (02) pra ver o que parecia ser a morte
+3753900 3755920 (05, 02) olhando... Ela parece ter se incomodado
+3755920 3757920 (05) com vocês quebrarem o... o rio
+3757920 3759520 (05) dela. Mas aí o rio voltou
+3759520 3761180 (05) e ela tá lá analisando o robô.
+3762980 3763860 (02) Ah, F,
+3763860 3765880 (02) tem certeza que a gente não tem condições
+3765880 3767220 (07, 02) de matar isso? Olha,
+3767560 3769560 (07) eu não sou eu que vou tentar.
+3770340 3771920 (05) O F, a resposta é provavelmente
+3771920 3772240 (05) não.
+3774240 3775320 (04) Eu entrego
+3775320 3777780 (04) o bebê pro F, olho pra morte
+3777780 3779820 (04) lá pro bicho e dou uma sarrada
+3779820 3781540 (04) no ar com aquele monstro de 5 metros.
+3783220 3783660 (05) Justo.
+3784300 3785660 (04) E daí fica aquela pose assim
+3785660 3787740 (04) de altivo. E aí?
+3788000 3789940 (05, 04) Vai cair dentro? O bicho tá lá.
+3790180 3791560 (02) Ah, quer matar o bicho?
+3791560 3793580 (02) Você pode jogar uma granada
+3793580 3795180 (02) e eu posso descer a metralhadora.
+3795340 3796920 (02) Ao mesmo tempo. Bora. Tá.
+3797160 3798300 (05) Três dados cada um.
+3799040 3801280 (05) F, tu vai ficar perto pra ver o que vai acontecer?
+3801940 3803620 (02) Eu, antes de... Ó, nem
+3803620 3805500 (02) rolei o dado. Antes de fazer,
+3805900 3807600 (02) olho pra ele e faço. Fica
+3807600 3809800 (02) num lugar seguro que a gente ainda consiga
+3809800 3811420 (07, 02) te ver. Eu arrumo
+3811420 3813300 (07) um carrinho de supermercado que tava no chão,
+3813700 3815420 (07) coloco a criança e tipo ali
+3815420 3817280 (07) bonitinho, filho do capeta.
+3817560 3819640 (07, 04) Eu vou em direção a uma ruína
+3819640 3821020 (04) e fico lá dentro.
+3821020 3823120 (04) Eu ia ser, eu lembro pra ele de um jeito
+3823120 3825080 (04) que ele escuta. Sem a gente falar
+3825080 3826500 (04) ele escuta. Run!
+3829420 3830620 (04) Dois, quatro
+3830620 3832960 (02, 04) e cinco. Três, dois
+3832960 3834280 (05, 02, 04) e três. Tá.
+3834700 3836580 (05, 02, 04) O teatro de bota é três, inclusive, né?
+3837740 3838980 (05, 04) Tá. E o meu é cinco.
+3839020 3840980 (05, 04) Descreve a tua ação lá. Eu vou lançar
+3840980 3842760 (04) três granadas na morte
+3842760 3844840 (04) e depois de lançar elas
+3844840 3846860 (04) pra fazer um movimentozinho assim, eu vou dar
+3846860 3849220 (04) um guste pra lateral com as asas
+3849220 3851120 (04) assim pra ficar preparado pra pegar ela
+3851120 3853020 (04) de outro ângulo se caso precisar de
+3853020 3855080 (05, 04) depois. Tá. Cris, a tua ação
+3855080 3857160 (05, 02) foi? Minha ação é a metralhadora
+3857160 3859260 (02) e eu faço um movimento com a metralhadora
+3859260 3861220 (02) de forma que, com que as balas
+3861220 3862960 (02) cortem a cabeça do demônio.
+3863220 3864760 (05) Vocês causaram quase
+3864760 3867020 (05) o dano máximo possível, né? Primeiro
+3867020 3869140 (05) as granadas explodem, pedaços
+3869140 3871080 (05) da criatura caem. Ela é como se fosse
+3871080 3872940 (05) feita de sombras, mas esses pedaços
+3872940 3875120 (05) caem dela. Vocês veem que vários
+3875120 3877120 (05) dos mortos que estavam caminhando, eles param
+3877120 3879000 (05) mesmo não tendo próxima a explosão,
+3879080 3880860 (05) eles parecem que simplesmente param de funcionar
+3880860 3883000 (05) e eles começam a cair. A morte tá bem, bem
+3883000 3885260 (05) destruída com as granadas, ela estende
+3885260 3887340 (05) a mão pra vocês de forma ameaçadora
+3887340 3889220 (05) quando vem os tiros na metralhadora
+3889220 3891100 (05) e os tiros começam de
+3891100 3893080 (05) debaixo e vão até ela conseguir
+3893080 3895380 (05) a mira pro pescoço e vão cortando
+3895380 3897040 (05) e a criatura é completamente
+3897040 3899280 (05) destruída do pescoço pra baixo
+3899280 3900640 (05) vocês notam
+3900640 3903460 (05) um olho saindo no meio daquela escuridão
+3903460 3905000 (05) um olho vermelho cheio
+3905000 3906500 (05) de raiva, esse olho
+3906500 3908980 (05) desaparece e todos os mortos param
+3908980 3910700 (05, 07) de andar e caem. Caramba
+3910700 3912980 (05, 07, 04) Parabéns. Assim, eles conseguiram um dano
+3913000 3915000 (05) absurdo. Ela não morreu, provavelmente ela se
+3915000 3916740 (05) mandou pra se recuperar.
+3916820 3919000 (02, 04) Ela não tá mais na nossa
+3919000 3921140 (05, 02, 04) visão. Não. Eu vou até Baltazar
+3921140 3922940 (02) e vejo se tem alguma chance
+3922940 3924760 (05, 02) daquilo voltar a funcionar. Fazer
+3924760 3926900 (05, 02) reparos nele? Se é, seria
+3926900 3929120 (05, 02) rápido, não? Não. Dá pra pegar a lança
+3929120 3931140 (05, 02) e o lança-granadas dele. Então eu pego
+3931140 3932720 (02) o lança-granadas
+3932720 3934880 (02) e eu pego a lança. E a gente vai atrás do F.
+3935080 3936760 (05) Tá, o F tá brincando com o PB
+3936760 3938560 (05) em algum lugar mais afastado.
+3938640 3940860 (07) Eu tô ali dentro de um
+3940860 3942840 (07) carrinho de supermercado, a gente tá
+3942840 3944100 (07) descendo. A mão tá assim.
+3946560 3949080 (05, 02) Parece segura. Coloca os dois na tua mão
+3949080 3950640 (02) e vai andando com eles na mão
+3950640 3952840 (02) enquanto eu olho de longe. Se alguma
+3952840 3954980 (02) coisa acontecer, tu desce eles. Assim a gente
+3954980 3956800 (02) vai andar mais rápido e eles vão estar mais
+3956800 3958860 (02, 04) protegidos. Não, beleza. O F
+3958860 3960840 (04) tá segurando a criança, eu pego
+3960840 3962820 (04) o F, tipo, fica um segurando o outro
+3962820 3964560 (05, 04) assim. Sim, Inception. É.
+3964960 3966900 (04) E vamos andando pra ganhar tempo
+3966900 3968820 (04) e se algo acontecer, eu
+3968820 3970960 (04) jogo eles dentro de um buraco e a gente faz
+3970960 3972700 (04) as coisas e depois eu pego do buraco.
+3972840 3974860 (07, 04) As coisas. Tá. Uma pergunta.
+3975240 3976700 (07) Eu percebi alguma coisa diferente
+3976700 3978080 (05, 07) segurando essa criança? Não.
+3978420 3980720 (05, 07) Ah, então bem. É uma criança fofinha com
+3980720 3982780 (05, 07) duas marcas estranhas. Essas marcas, se eu
+3982780 3984640 (07) pesquisar alguma coisa, eu consigo encontrar?
+3985060 3986760 (05, 07) Nada. Ok, então tá bom.
+4000760 4001160 (unknown) ...
+4001160 4002800 (05) Vocês chegam a
+4002800 4004760 (05) até uma grande muralha improvisada
+4004760 4006580 (05) feita com sucata, carros
+4006580 4008540 (05) velhos, empilhados e tal
+4008540 4010640 (05) e na frente do portão
+4010640 4011940 (05) tem dois humanos.
+4012600 4014540 (05) O capacete de vocês identifica que a arma que eles estão
+4014540 4016540 (05) usando são AK-47.
+4016760 4018860 (05) São armas muito antigas e eles estão lá fazendo
+4018860 4020760 (05) a segurança da entrada. A entrada
+4020760 4022720 (05) é gigantesca, vocês passariam os robôs
+4022720 4024700 (05) de 5 metros ali, mas os dois
+4024700 4026960 (05) olham assim, meio assustados pra vocês
+4026960 4028780 (05) olham entre eles e um deles toma a frente
+4028780 4030820 (05) e levanta a mão assim como, em paz,
+4030920 4032680 (05) ele deixa a arma solta, presa
+4032680 4034520 (05) na bandoleira, mas ele levanta a mão
+4034520 4036720 (05) pra, como se tivesse em paz
+4036720 4038720 (05, 02) se ele quer conversar. Eu faço um sinal com a
+4038720 4040620 (02) cabeça dos meninos, mas
+4040620 4042740 (02) fico de longe com o rifle apontado.
+4042880 4044540 (04) Eu chego um pouco mais
+4044540 4046540 (04) perto, abaixo um pouquinho assim
+4046540 4048140 (04) pra não ficar tão ameaçador.
+4048360 4050540 (05) É, tu tem uma pessoa nas mãos, né?
+4050700 4052320 (04) É. Ou eu boto ele no chão assim.
+4052520 4054660 (05, 04) Beleza. Ele olha pro F e fala
+4054660 4056620 (05, 14) Bonito robô. Ele te obedece?
+4056900 4058660 (14) Como funciona? Sim, tudo com
+4058660 4060680 (14) comando de voz. Ai, que safado.
+4060980 4062200 (14) Você veio de muito longe?
+4062680 4064260 (14) Veio pra trocar esse robô?
+4064660 4066700 (14) Você pode conseguir muita coisa boa por ele
+4066700 4068480 (14, 07) na cidade? Bom, quem sabe?
+4068580 4070640 (07) Talvez. Eu, né?
+4070740 4072540 (07) Tô com a criança no colo assim. A gente tá
+4072540 4074600 (07) precisando um pouco de água, abrigo.
+4074820 4076580 (05) A criança tá coberta ou tá
+4076580 4078700 (05) aparecendo as marcas dela?
+4078820 4080480 (05, 14) Ela tá coberta. Tranquilidade.
+4080960 4082400 (14) Só quero te avisar que quem comanda
+4082400 4084660 (14) essa cidade é uma criatura muito poderosa.
+4085100 4086840 (14) E se você arrumar encrenca aqui
+4086840 4088380 (14) não vai durar muito.
+4088600 4090520 (07) É, tranquilo. O que
+4090520 4092320 (07) mal poderia fazer?
+4092680 4094680 (14) Verdade. Que mal poderias causar
+4094680 4096360 (14) com algumas toneladas de metal
+4096360 4098380 (14) que respondem a comando de voz
+4098380 4101240 (14) e transportam armas maiores que um homem adulto?
+4101700 4102980 (07) Não, tranquilo.
+4103120 4104800 (07) Eles não vão
+4104800 4106920 (07) atacar se tudo permanecer
+4106920 4108800 (14, 07) em paz. Certo. Pode seguir.
+4109140 4110180 (07) Ótimo. Obrigado.
+4110240 4111660 (05) Eles ficam olhando e tal.
+4112380 4113960 (07) Bom, pelo menos
+4113960 4115840 (07) é só um humano.
+4116420 4118040 (05, 07) É, um humano e um bebê. Isso.
+4118440 4120700 (05) O outro guarda, ele tira um
+4120700 4122660 (05) objeto do bolso. Ele bate uma
+4122660 4124580 (05) foto, parece uma câmera fotográfica antiga.
+4124820 4125940 (05) Ele bate uma foto tua
+4125940 4128160 (05) e dos robôs te seguindo.
+4128380 4130520 (05, 07) Beleza. A Cris vai passar pelo portão,
+4130620 4132520 (05) pela entrada, ou vai voar por cima do
+4132520 4134820 (05, 02) muro? Vou, voando por cima, olhando a cidade.
+4135000 4136540 (02) Tô fazendo a guarda deles
+4136540 4138420 (02) como sempre tava fazendo antes
+4138420 4140600 (02) e observando a cidade pra ver se tem alguma coisa
+4140600 4142420 (07, 02) estranha. Pelo capacete eu falo,
+4142560 4144220 (07) olha, quanto menos
+4144220 4146240 (07) identificação eles tiverem da gente, eu acho melhor.
+4146460 4148380 (07) Então, vocês podem sair na surdina,
+4148760 4150380 (07) vocês não vão ter nenhuma identificação
+4150380 4152260 (07, 02) se caso você sair do robô. Tudo bem,
+4152660 4154560 (02) eu deveria ter perguntado alguma coisa sobre
+4154560 4156900 (02) o demônio, onde ele fica. Só não chama de demônio,
+4157040 4158580 (02) diz o líder deles, o
+4158580 4160720 (07, 02) governador da cidade. Não, mas agora com a gente
+4160720 4162660 (07) dentro da cidade, acho que agora é tranquilo.
+4162940 4164740 (05) É, a cidade ali bem perto da entrada
+4164740 4166820 (05) tem muitas barraquinhas com todo tipo
+4166820 4168680 (05) de bugiganga que foi desenterrada
+4168680 4170400 (05) e o pessoal fazendo troca.
+4170600 4172500 (05) Você nota que mais pra dentro da cidade tem uma
+4172500 4174560 (05) como se fosse mineração mesmo, o pessoal tirando
+4174560 4176860 (05) concreto e procurando objetos.
+4177280 4178780 (05) A cidade parece viver disso.
+4179080 4180660 (05) Tem uma outra região que vocês veem
+4180660 4182440 (05) alguns animais, algumas plantas,
+4182440 4184560 (05) que eles cultivam ali. E a cidade parece
+4184560 4186500 (05) se gerir e essa
+4186500 4188460 (05) próxima entrada ali é a parte das trocas
+4188460 4189680 (05) mesmo, é a parte comercial.
+4190420 4192560 (07) Agora você me deu uma ideia boa. A gente pode
+4192560 4194120 (07) de fato ter algo de troca.
+4194280 4196420 (07) O Baltazar pode ser uma moeda aqui
+4196420 4198580 (05, 07) de fato, que a gente pode usar. Mas o Baltazar
+4198580 4200620 (05, 07) ficou pra trás, né? Pois é, já tá lá,
+4200680 4202500 (07) né? Não, mas aí depois é só pegar.
+4202820 4204340 (05, 07) Isso aí é tranquilo. Ficou lá pra trás,
+4204620 4206660 (05) próximo a milhares de seres humanos
+4206660 4208340 (05) mortos, que sabe-se lá porque eles estavam
+4208340 4210540 (05) fazendo uma fila ou alguém filou os corpos.
+4210720 4212240 (05, 07) Ah, então beleza. Bom,
+4212440 4214100 (07) vamos partir pra feirinha
+4214100 4216700 (07) e, pô, agora o que perguntar, né?
+4216940 4218300 (07, 02) Pergunta onde fica o
+4218300 4220480 (07) governador da cidade. A gente fala
+4220480 4222260 (07) com ele que a gente quer fazer uma troca, assim,
+4222340 4224520 (07) de um robô, talvez. E fala
+4224520 4226320 (07) que a gente deixou ele guardado
+4226320 4228380 (07) num lugar e pede pra ele buscar onde é que tem
+4228380 4230480 (07, 02) bastante porto vivo. É a preguiça, ele vai
+4230480 4232480 (06, 02) mandar a gente buscar. É, tem esse detalhe.
+4232580 4234420 (06) Um dos vendedores te aborda assim, ó.
+4234980 4236060 (06) Livros? Livros?
+4236480 4238380 (06) Conhecimento é poder? O que será
+4238380 4240420 (06) que escondem essas páginas amareladas?
+4240420 4242120 (06) Vamos trocar alguma coisa?
+4242440 4244400 (06) O que você tem aí? O que você tem,
+4244500 4245160 (06) homem prateado?
+4246080 4248320 (07) Não, eu só tô aqui só olhando.
+4248640 4250120 (07) Não quero nada, não. Mas aqui,
+4250420 4252160 (07) você sabe me dizer onde que fica
+4252160 4254340 (07) a casa do líder
+4254340 4256300 (07, 06) da cidade? Ele te olha meio estranho.
+4256380 4258320 (06) Ele dorme na praça central da cidade.
+4258460 4260500 (07) Ah, certo, certo.
+4260700 4262600 (07) Alguma coisa? Sabe como é que é?
+4262700 4264560 (07) É forasteiro. Alguma coisa que eu deva
+4264560 4266400 (07, 06) me preocupar? Não. Enquanto
+4266400 4268440 (06) ele estiver aqui, não existe nada para se
+4268440 4270040 (07, 06) preocupar. Ele nos protege.
+4270400 4272360 (06) Não há local tão seguro quanto
+4272360 4274560 (07, 06) este, Edgar. Tá bom. Obrigado,
+4274620 4275960 (07) viu? E qual é o nome dele mesmo?
+4276340 4277960 (07, 06) É o Preguiça. Preguiça.
+4278220 4280100 (07) É um bonito nome, aliás. Tá certo.
+4280180 4282260 (07) Se caso eu precisar de alguma coisa, eu volto aqui pra
+4282260 4284300 (07, 06) negociar. Livros. Muitos livros.
+4284720 4286060 (06) Conhecimento. Se eu soubesse ler,
+4286260 4288600 (07, 06) eu nem precisaria vendê-los. Tá certo.
+4288700 4290280 (07) Tá certo. Eu viro pro pessoal
+4290280 4292220 (07) e falei, gente, centro da cidade,
+4292540 4294480 (07, 02) mas... sei não.
+4294800 4296560 (07) É só entregar a criança? É só isso mesmo?
+4296800 4298420 (02) Não, não entregaria a criança. Agora eu quero
+4298420 4300780 (02) observar. Eu não vou entregar a criança a um demônio.
+4300940 4302320 (07) A criança é filha do demônio.
+4302320 4304300 (07) O demônio. Tá, abandona o padrão e tal, né?
+4304660 4306160 (07) Porque ele já não quis a criança,
+4306280 4308360 (07) não foi à toa. Se ele enfraquecia
+4308360 4309760 (07) o anjo, será que
+4309760 4312140 (07) era só o anjo mesmo que ele enfraquecia? Talvez
+4312140 4314080 (07) ele não enfraqueça também o demônio? Então,
+4314420 4316440 (07, 04) eu acho que a gente chega perto e
+4316440 4317820 (04) mostra a criança pro
+4317820 4320040 (04) demônio. E dê a reação.
+4321620 4322180 (04) É tipo
+4322180 4323820 (04) mostrar a rosa pro Beholder, tá ligado?
+4324020 4326280 (02) Guaxa, eu tô voando, eu consigo ver o centro
+4326280 4328200 (05, 02) dali? Consegue. Tem alguma coisa
+4328200 4330080 (05, 02) estranha lá? Parece ser um
+4330080 4332000 (05) dragão gigantesco dormindo numa
+4332000 4334380 (05, 02) pilha de objetos. Gigantesco
+4334380 4335520 (05, 02) quanto? 20 metros.
+4337640 4339660 (02, 04) Tá, vamos pra lá, então. Vamos.
+4339800 4341640 (04) Aí eu vou dar uma ajudinha, assim.
+4341680 4343680 (04) Aí eu abaixo, aí pro F subir
+4343680 4345880 (04) no meu ombro, assim, já que ele tá
+4345880 4347880 (04) a paisana, pra aproveitar o
+4347880 4349960 (07, 04) andar do robô que é grande. Certo.
+4350080 4351600 (07) Tá, gente, a gente tem que pensar o seguinte.
+4351900 4353720 (07) A gente vai chegar no Preguiça,
+4353880 4356060 (07) provavelmente sem nada
+4356060 4358020 (07, 04) nas mãos pra trocar. Não, tem um
+4358020 4359580 (04) bebê capeta aí, ó.
+4359680 4361980 (04) Vamos ver o que acontece. Isso deve valer alguma coisa?
+4362000 4364260 (04) Tá bom. Isso se o
+4364260 4366140 (04) bebê capeta não for o negócio
+4366140 4367180 (04) que ele mais teme, né?
+4367560 4369200 (04) A gente vai descobrir rapidinho.
+4369700 4371080 (04) É, o que pode dar errado?
+4374840 4376160 (05) Chegando, é um dragão
+4376160 4378180 (05) gigantesco dormindo sobre várias
+4378180 4379900 (05) objetos brilhantes.
+4380100 4381960 (05) Devia ter muito valor no passado, mas hoje
+4381960 4383980 (05) não serve pra muita coisa. Mas ele
+4383980 4385840 (05) tá lá nesse ninho de objetos brilhantes.
+4385980 4388220 (05) Tem algumas pessoas em volta dele
+4388220 4390240 (05) cuidando, assim. Tem objetos
+4390240 4391920 (05) que às vezes caem nesse ninho e estão colocando de
+4391920 4394280 (05) volta. Tem um deles com um pano
+4394280 4396300 (05) assim, um pedaço de madeira bem longo
+4396300 4398440 (05) e ele tá meio que esfregando as costas
+4398440 4400360 (05) do Preguiça. E o que chama
+4400360 4402160 (05) a atenção de vocês é que tem duas mulheres
+4402160 4404200 (05) que tão cuidando de uma criança de uns dois
+4404200 4406100 (05) anos. E a criança tá correndo ali do lado
+4406100 4408100 (05) pro outro. E essa criança tem uma marca na
+4408100 4410480 (05, 07) testa e na mão. Parecida com a que
+4410480 4412000 (05, 07) o One tem? Não.
+4412180 4414120 (05) É uma outra marca. Mas o
+4414120 4416160 (05) Preguiça tem uma marca na própria
+4416160 4417960 (05) testa que é idêntica a do One.
+4418160 4419900 (05, 07) E não é igual da menina. Olha
+4419900 4421680 (07, 04) só a cara do pai.
+4421920 4424200 (04) É. Eu olho pro F e digo assim
+4424200 4426160 (04) ó, ó. A nossa tá valendo
+4426160 4427440 (04) mais. Tá dando match.
+4427840 4428520 (07, 04) Tá, tá.
+4429780 4431460 (07) Eu não sei nem como conversar.
+4431580 4434120 (05, 07) Ele tá dormindo, o dragão? Ele parece
+4434120 4436260 (05) de olho fechado apenas, aproveitando
+4436260 4438100 (05) a massagem que ele tá recebendo.
+4438220 4440060 (07) Tá. Eu vou entregar a
+4440060 4441800 (07) criança pro ar. Eu vou, olha,
+4441980 4444120 (07) vamos por partes.
+4444420 4445160 (07) E vou tentar
+4445160 4447900 (07) conversar com alguma dessas pessoas que
+4447900 4450280 (05, 07) tão auxiliando ali o Preguiça. Certo.
+4450400 4451280 (07) Eu viro. Ei,
+4451920 4453820 (07, 01) viu? Olá. Você veio fazer
+4453820 4455980 (07, 01) uma oferenda? Ah, então.
+4456140 4457960 (07) Eu sou novo por aqui. É...
+4457960 4459980 (07) Você sabe me dizer como é que a gente pode
+4459980 4462100 (07) tá fazendo uma oferenda? Como isso funciona?
+4462460 4464040 (01) É só colocar em torno do ninho
+4464040 4465940 (07, 01) e ir embora. Ah, tá.
+4465940 4467780 (07) Eu tô vendo que tem uma criança
+4467780 4469860 (07) correndo ali. É
+4469860 4471940 (07) tranquilo a gente andar por aqui? Não é perigoso
+4471940 4473780 (07, 01) não? Muito pelo contrário.
+4473980 4475720 (01) Aqui é provavelmente o local
+4475720 4478120 (07, 01) mais seguro da Terra. Ah, tá certo.
+4478260 4479840 (01) O senhor Preguiça protege
+4479840 4481720 (01) a todos dessa cidade. Não
+4481720 4483400 (01) existe alguém mais forte que ele.
+4483760 4485840 (02) Eu falo pelo capacete. Protege de
+4485840 4487800 (07, 02) quê? E eu repito. Protege de
+4487800 4489640 (07, 01) quê, exatamente? Criaturas,
+4489940 4491840 (01) saqueadores, o mundo
+4491840 4493380 (07, 01) lá fora em geral. Certo.
+4493380 4495320 (07) Eu percebi que aquela criança tem uma
+4495320 4497480 (07) marca muito parecida com a do Preguiça.
+4497920 4499260 (01) Não. Aquela
+4499260 4501340 (01) criança possui a marca da Ira.
+4502060 4503460 (07) Beleza. Então, tá
+4503460 4505540 (07) bom. Deixa eu ver. Eu deixo
+4505540 4507460 (07) lá o pacotinho de comida
+4507460 4508520 (07) que sobrou.
+4509300 4511120 (02) Pergunta onde a Ira tá.
+4511720 4514320 (07) Ira, engraçado,
+4514800 4516220 (07) ela não fica com
+4516220 4517960 (07, 01) a criança dela, não? Não.
+4518520 4520480 (01) Normalmente eles trocam as crianças.
+4521160 4521480 (07) Ah,
+4522340 4524160 (07, 01) interessante. Algo ligado a uma
+4524160 4526180 (07, 01) antiga maldição. Eu vou
+4526180 4528220 (07) deixar a minha oferenda. Eu pego
+4528220 4530200 (07) o último pedaço de
+4530200 4531100 (07) bacon coves
+4531100 4534160 (07) na minha cabeça e são oferenda.
+4534740 4535520 (07) E deixo ali
+4535520 4537900 (05, 07) no chão, perto. Tu escuta
+4537900 4539820 (05) um barulho do ar assim se movendo?
+4541720 4543740 (05) A Preguiça abre
+4543740 4545940 (05) o olho e come a tua oferenda.
+4546120 4547040 (05) E daí ela te encara.
+4547480 4549800 (07) Olha, é a coisa mais deliciosa
+4549800 4551080 (07) que eu já vi na minha vida.
+4551080 4553140 (07) Eu realmente pensei
+4553140 4554720 (07) em você quando eu vim aqui.
+4554780 4557080 (03) Você veio de um lugar muito distante
+4557600 4559020 (03) e trazeram um
+4559020 4560360 (03) pedacinho de bacon.
+4560660 4562640 (07) Bom, bacon? É.
+4563080 4564560 (07) Bacon é um nome muito interessante.
+4564980 4567060 (07) Nunca tinha comido. Foi a coisa mais deliciosa
+4567060 4569020 (05, 07) que eu já vi. Ele levanta aquele pescoço
+4569020 4571140 (05) gigantesco. Ele encara o belchó.
+4571720 4573620 (05) Ah, isso
+4573620 4574920 (05) é seu?
+4575280 4575840 (07) Sim, sim.
+4576580 4578340 (07) São minha propriedade.
+4579060 4581700 (03, 07) Você quer fazer uma troca?
+4582840 4583400 (07) Bem,
+4583880 4585600 (07) eu não tava muito afilhão, mas
+4585600 4587360 (07) o que você tem a oferecer?
+4587640 4589700 (03, 07) Bom, eu tenho tudo.
+4589860 4590420 (07) Aí eu, assim,
+4590860 4592940 (07) pros meus amigos, eu tô falando
+4592940 4595240 (07) gente, me ajuda aqui. Eu tô blefando,
+4595380 4597140 (07) mas eu tô cagando nas calças.
+4597920 4599880 (02) Lembra que tem um lá fora.
+4599880 4601620 (02) Você disse que esses são seus, mas
+4601720 4603940 (02) você tem outro que tá disposto a trocar.
+4604100 4605340 (02) Continua que você tá indo bem.
+4605540 4607900 (07) Ah, tá certo. Eu tenho
+4607900 4609860 (07) um outro, sim. E ele
+4609860 4611200 (07) tá até em bom estado.
+4611720 4613760 (07) Você disse que eu ganharia tudo
+4613760 4614220 (07) em troca?
+4615980 4618140 (03) Eu disse que tenho tudo.
+4618500 4619700 (03) Não que daria
+4619700 4622040 (03) tudo. Mas você pode pedir
+4622040 4623000 (03) o que quiser.
+4623320 4625900 (02) Pede conhecimento sobre a maldição.
+4626180 4627040 (07) Mas aí, né?
+4627040 4630300 (07) Vai ser um pouco
+4630300 4631040 (07) deselegante.
+4631720 4633040 (07) E muito na cara.
+4633740 4636000 (07) Olha, vamos fazer o seguinte. É um pedido
+4636000 4637840 (07) de muita responsabilidade.
+4638320 4640280 (07) Que tal você me dar um tempo pra pensar
+4640280 4642120 (07) enquanto eu preparo
+4642120 4644060 (07) o meu presente pra troca?
+4644840 4645400 (05) Injusto.
+4645540 4646320 (05) Ele volta a dormir.
+4647340 4650020 (07) Eu vou cabalhando até o pessoal, assim.
+4650500 4652100 (07) Eu seguro o centro do chão
+4652100 4654420 (07, 02) com a roupa
+4654420 4656220 (07, 02, 04) suada embaixo da cinta.
+4659880 4661700 (07, 04) O pé escorregando e no salto.
+4661720 4665960 (07, 04) Eu viro pra eles e falo
+4665960 4667880 (07) olha, na próxima eu vou ficar
+4667880 4669720 (07) na armadura e vocês conversam
+4669720 4670660 (07) com o demônio.
+4672220 4673640 (07) Eu falo, bem, ele
+4673640 4675880 (07) é um tanto pacífico.
+4676060 4677480 (07) Acredito eu, mas
+4677480 4679460 (07) eu tô falando tudo dentro do capacete.
+4679920 4681800 (07) Pelo que eu entendi, cada
+4681800 4684100 (07) filho é prejudicial
+4684100 4685760 (07) ao seu pai em questão
+4685760 4688040 (07) e por isso eles trocam os filhos entre si.
+4688180 4689840 (07) Aí ele deixou o filho com a preguiça
+4689840 4691560 (07) e a preguiça provavelmente
+4691560 4693500 (07) deixou seu filho por aí pra que ele morresse.
+4694180 4695600 (07) Muito esperto, aliás.
+4696060 4697400 (04) Rapaz, a gente vai ter que juntar
+4697400 4699900 (07, 04) todos os sete e aí vai dar trabalho pra cacete, hein.
+4700060 4701660 (07) Olha, o relatório de hoje vai ser
+4701660 4702420 (07) uma maravilha.
+4702520 4705520 (02) Querendo aproximar o bebê dele sem ele perceber.
+4705780 4707560 (07, 04) Com essa marca na testa fica difícil.
+4707620 4708540 (04) Sim, ele vê o bebê.
+4708620 4711720 (04) Não, mas ele tá dando meu compartimento de carga aqui.
+4711880 4712720 (04) Até onde eu lembro.
+4712880 4714640 (07) E se a gente... Olha só.
+4714780 4716220 (07) Nossa, mas isso aí é...
+4716220 4718480 (07) Nossa, a gente é ruim mesmo.
+4718920 4721540 (07) Deixar o bebê dentro da armadura do Baltazor
+4721560 4722860 (07) e entregar pra ele.
+4722980 4725160 (07) Provavelmente ele vai ficar em cima do próprio filho.
+4725460 4727440 (07) Mas que isso é... Caraca, isso é muito mal.
+4727780 4728660 (07) Coitada da criança.
+4728960 4731380 (04) Se a ideia é essa, você pode dizer que você vai
+4731380 4733420 (04) me trocar por ele ou trocar
+4733420 4735100 (04) você por ele, de qualquer forma.
+4735280 4737940 (04) E a gente levar a criança dentro sem estar visível.
+4738120 4739600 (04) Pra ver se ele vai sentir a presença.
+4739820 4740100 (04) Entendeu?
+4740420 4743000 (04) Tá, ok. E o que ganha em troca?
+4743200 4744880 (04) Você pede em troca
+4744880 4746960 (04) como as coisas funcionam aqui.
+4747480 4749560 (04) Como que ele tem esse poder.
+4749560 4750840 (04) De onde ele vem.
+4751560 4754540 (07, 04) Bom, pelo que eu entendi, ele pode dar tudo que eu quiser.
+4754900 4756260 (04) Sim, mas eu acho que talvez
+4756260 4757860 (04) o como ele faz isso
+4757860 4760180 (04) é uma informação interessante pra gente reportar.
+4760240 4762860 (07) Ah, sim. A gente precisaria fazer um teste, né?
+4763360 4763800 (07) Realmente.
+4764000 4765380 (07) É muito difícil. Então vamos fazer o seguinte.
+4765520 4767700 (07) Quando a gente vai pensando, que tal a gente já
+4767700 4770680 (07) tentar trazer o Baltazor pra cá?
+4770860 4772000 (05) Já tá anoitecendo.
+4772160 4773120 (05) Tá acabando o segundo dia.
+4773300 4775080 (05) O ideal seria até descansar.
+4775260 4776520 (05) Trocar o bebê e alimentar.
+4779760 4781520 (04) Eu já carreguei.
+4781560 4782620 (04) A minha parte tá feita.
+4782800 4785180 (02, 04) A gente tá muito longe de onde tá o robô.
+4785600 4785840 (02) Gosta?
+4786140 4787040 (05) Há umas duas horas.
+4787340 4788060 (02) Mesmo voando?
+4788420 4790660 (05) Voando com a velocidade máxima em dez minutos.
+4790960 4793220 (02) Vocês querem que eu vá tentar buscar o robô?
+4793400 4795200 (02) Enquanto vocês vão cuidando do bebê, da comida?
+4795600 4796260 (02) Limpa isso aí?
+4796440 4799780 (07) Sim, pode. Enquanto isso, a gente vai pensando
+4799780 4802960 (07) na melhor estratégia do que a gente vai conseguir de volta.
+4803200 4804840 (02) Então, eu deixo
+4804840 4806760 (02) o F com o A
+4806760 4808140 (02) e vou atrás do robô.
+4808140 4810440 (05, 02) Tá. Os mortos continuam caídos.
+4810820 4811540 (05) O robô tá lá bem...
+4811560 4812200 (05) bem danificado.
+4812380 4813420 (02) Eu consigo carregá-lo?
+4813700 4814020 (05) Sim.
+4814340 4814880 (02) Tá, então.
+4815000 4816420 (05) Mas se tu levou dez minutos pra ir,
+4816440 4817460 (05) tu vai levar vinte pra voltar.
+4817720 4818120 (02) Tudo bem.
+4818320 4819440 (05) Tu volta com o robô.
+4819620 4821620 (05) O pessoal na porta, ele bate foto
+4821620 4822800 (05) quando tu passa voando, né?
+4823080 4824460 (05) Tu traz o braço, inclusive, né?
+4824700 4825480 (05, 02) Tô levando tudo.
+4825640 4827740 (05) Vocês procuram uma área ali mais aberta
+4827740 4828800 (05) pra poder pousar, né?
+4828800 4829520 (05) Botar as coisas.
+4829840 4831240 (05) Muita gente chega perto de vocês.
+4831420 4832320 (05) Vamos negociar.
+4832340 4833580 (05, 08) Quer fazer uma troca?
+4833760 4834800 (05, 08) Por favor, vamos trocar.
+4834920 4835460 (08) Vamos trocar?
+4835820 4838420 (07) Não, mas aí, vocês podem sair das armaduras aí.
+4838420 4841420 (07) Eu acho que é só o porteiro que tira fogo.
+4841560 4841860 (07) Falta?
+4841940 4843420 (05, 07) Poder a gente pode, mas a gente não quer.
+4844180 4844980 (05) Te vira aí.
+4846400 4848280 (07) Olha, tem outro detalhe importante.
+4848460 4848660 (07) É o seguinte.
+4849080 4851640 (07) A gente ajudou o anjo lá, o padre,
+4851780 4853060 (07) porque ele protegia as pessoas.
+4853360 4854480 (07) Pelo que eu tô entendendo aqui,
+4854660 4855940 (07) esse cara também protege.
+4856120 4857520 (07) Mas ele é o capeta.
+4858580 4859020 (07) Ok.
+4859800 4860860 (07) Anjo, capeta.
+4861060 4862000 (07) Protegindo as pessoas.
+4862300 4863280 (07) Que mal faz.
+4863500 4864240 (07) Sem parar de pensar.
+4867240 4868540 (07) Eu vou ficar aqui dentro.
+4868540 4869740 (07) Sei não, cara.
+4869980 4871520 (07) A morte é o maior problema pra mim.
+4871560 4874540 (07) Aquela danada, daquela safada, daquela morte.
+4874780 4876660 (07) Agora, esse cara, eu tô pensando aqui.
+4877100 4878680 (07) Porra, ele protege todo mundo.
+4878940 4879920 (07, 02) Tá até suave.
+4880100 4881020 (02) Mas vamos ver o que acontece.
+4881160 4882760 (02) Porque pode ser que essas criaturas...
+4882760 4883180 (02) Pode ser não.
+4883360 4886760 (02) Provavelmente as criaturas, os demônios que estavam comendo as pessoas,
+4886880 4888860 (07, 12, 02) só estão aqui porque eles estão aqui.
+4889160 4891140 (02) Esse gente quer uma terra habitável novamente.
+4891440 4892180 (07) É um bom ponto.
+4892280 4892600 (07) Tá ok.
+4892780 4894300 (07) Eu viro pro Oni e falo.
+4894480 4895920 (07) Então, não é nada pessoal.
+4895920 4899000 (07) Faço ali um bercinho dentro do Baltazar.
+4899460 4901460 (07) E eu consigo deixar ele operacional.
+4901460 4902160 (07) De novo, eu gosto.
+4902360 4904900 (05) Se tu trabalhar durante a noite, tu consegue fazer ele andar um pouquinho.
+4905120 4905560 (07) Ótimo.
+4905740 4907680 (07) Eu tenho que estar lá dentro pra ele funcionar?
+4907980 4908240 (05, 07) Não.
+4908600 4909040 (07) Perfeito.
+4909240 4911380 (05) Ele desobedece comandos simples de voz.
+4911560 4912000 (05, 07) Perfeito.
+4912180 4912960 (05) Da tua voz, né?
+4913120 4913420 (05, 07) Isso.
+4913640 4917940 (07) Eu vou virar a noite tentando deixar o Baltazar o mínimo possível funcional.
+4918080 4918620 (05, 07) Dois dados.
+4920040 4921100 (07) Seis e quatro.
+4921360 4921800 (05) Perfeito.
+4922260 4922960 (05) Tá funcionando.
+4923160 4926300 (05) Não voa, mas consegue mover um braço e as pernas.
+4926580 4927600 (07) O outro braço tá aí, não?
+4927760 4929420 (05) O outro braço foi cortado fora.
+4929420 4931440 (05) Tá ali, mas tu não conseguiu prender ele de volta.
+4932300 4933680 (07) Tá bom.
+4934020 4936740 (07) Não é perfeito, mas já dá pro gasto.
+4936780 4937260 (07) Beleza.
+4937940 4938700 (07) Bom, gente.
+4938780 4939320 (07) Então, é o seguinte.
+4939880 4941660 (05) O que foi no relatório de vocês?
+4942020 4943580 (05) Tudo ou omitir alguma coisa?
+4943920 4947500 (05) Sobre a cidade, o demônio, sobre a morte, os mortos-vivos?
+4947860 4951420 (02) Eu acho que a gente pode omitir a parte...
+4951420 4956060 (02) Continuar omitindo a parte do anjo, mas dá pra falar dos demônios aí.
+4956300 4959460 (07) É, porque ele só pediu pra omitir com relação à criança e ele, né?
+4959460 4961260 (07, 02) Pode ser até que a gente receba reforço.
+4961460 4969500 (02, 04) É, a gente pode relatar que teve aquele rio de pessoas mortas ou muito estranhas.
+4969640 4973800 (05, 04) Porque dizer que tem um monte de pessoas mortas andando, eu não sei se vai...
+4973800 4974700 (05, 04) I see dead people.
+4975100 4976120 (04) I see dead people.
+4976260 4980900 (07, 04) A gente viu um demônio de dois metros usando uma pessoa como moeda de troca.
+4981120 4986160 (07) A gente viu um mar de pessoa morta que reage quando a gente toca, mas não reage a barulho.
+4986160 4989340 (07) Vimos um ser parecido com a morte, mitológica.
+4989500 4991300 (07) E uma cidade protegida por...
+4991300 4993520 (07) Por um dragão com o nome de preguiça.
+4993860 4995860 (07) É, acho que dá pra falar isso aí.
+4995920 4997640 (07) A gente omite só a parte da criança e do anjo.
+4997720 4997840 (05) Tá.
+4998160 5000340 (05) Cês só omitem o bebê e o anjo.
+5000580 5000760 (05, 07) É.
+5000920 5001340 (05, 07) Isso é.
+5001420 5001800 (05) Perfeito.
+5002080 5002220 (05) Tá.
+5002320 5003540 (05) De manhã, cês tão lá.
+5003720 5005000 (05) Vão fazer a troca de vocês.
+5005260 5005620 (12) Aham.
+5005960 5006220 (05) Uhum.
+5006440 5006620 (05) Tá.
+5006920 5011360 (05) Cês chegam lá, um dos ajudantes da preguiça acordam ela.
+5011520 5012860 (05) E ela olha pra você.
+5014540 5014980 (unknown) Esse...
+5014980 5017060 (05, 03, 12) Robô destruído.
+5017160 5018300 (03) É o que você tem pra mim?
+5018300 5020340 (03, 07) Olha, ele ainda é funcional.
+5020680 5020940 (03) Ok.
+5021300 5024420 (03) O que você gostaria de receber por ele?
+5024900 5029340 (07) Eu pensei a noite toda e cheguei à conclusão que...
+5029340 5031480 (07) Eu tô enrolando, assim, pra...
+5031480 5033280 (07) Que até então o grupo não decidiu, né?
+5033620 5035300 (02) Pergunta dos outros demônios.
+5035580 5036400 (02) Pede conhecimento.
+5036580 5042480 (02) Diz que tu é um estudioso obcecado e criou esses robôs tu mesmo e que por isso tu quer o conhecimento.
+5042740 5046180 (07) Olha, depois de que tudo aconteceu, a gente tem uma pesquisa.
+5046640 5050680 (07) Pra tentar buscar o maior número de informação, eu gostaria de conhecimento.
+5050680 5053960 (07, 03) Sobre que assunto, especificamente?
+5053960 5054960 (03, 07) Ah...
+5054960 5055960 (07) Apocalipse.
+5055960 5065440 (07, 03) Bom, quando a balança das almas estava pendendo quase que totalmente para o inferno, o senhor
+5065440 5071440 (03) das trevas forjou sete dragões, um representando cada pecado.
+5071440 5074480 (03) Eu sou um desses dragões.
+5074480 5080080 (03) Quando chegamos à terra, abrimos portais que trouxeram todo o inferno.
+5080080 5082080 (03) E atacamos.
+5082080 5087080 (03) Mas depois de um tempo, a gente viu que isso não ia alugar algo.
+5087080 5091080 (03) E que não passávamos de peões.
+5091080 5095080 (03) Decidimos segurar o apocalipse.
+5095080 5097080 (03) E cada um foi para o seu canto.
+5097080 5100080 (03, 07) Ele não tá me vendo não, mas dentro da máscara eu tô de queixo caído.
+5100080 5105080 (07, 03) O apocalipse terminaria com toda a existência.
+5105080 5107080 (03) Tudo seria destruído.
+5107080 5109080 (03) Eu não quero morrer.
+5109080 5109360 (03) Eu não quero morrer.
+5109360 5110360 (03) Prefiro viver aqui.
+5110360 5111360 (03) Eu não tenho essa comunidade.
+5111360 5112360 (03) Hum...
+5112360 5113360 (03) Legal.
+5113360 5114360 (03) É...
+5114360 5115360 (04) O bebê tá comigo, né?
+5115360 5116360 (04) Tá na armadura do Baltasar, né?
+5116360 5117360 (04) É.
+5117360 5118360 (04) Ah, é verdade.
+5118360 5119360 (05, 04) É um cavalo de Troia, na verdade.
+5119360 5120360 (05, 07, 04) Então...
+5120360 5121360 (07) A gente tá no meio do...
+5121360 5122360 (07, 04) Nossa...
+5122360 5123360 (07) Pergunta pelos outros demônios.
+5123360 5124360 (07) Onde eles estão?
+5124360 5125360 (07) É...
+5125360 5126360 (07) E...
+5126360 5127360 (07) Olha...
+5127360 5130360 (02) Já que eu tô nessa jornada de conhecimento, você poderia me indicar onde estão os seus
+5130360 5131360 (07, 02) outros irmãos?
+5131360 5132360 (07) Olha...
+5132360 5133360 (07) É pra quem?
+5133360 5134360 (07) Pra quem?
+5134360 5135360 (07) Pra quem?
+5135360 5136360 (07) Pra quem?
+5136360 5137360 (07) Pra quem?
+5137360 5138360 (07) Pra quem?
+5138360 5139360 (07) Como eu diria...
+5139360 5140360 (07, 03) É pra conhecimento.
+5140360 5141360 (03) Olha...
+5141360 5142360 (03) É pra conhecimento.
+5142360 5143360 (03) Cada um foi para um ponto do globo.
+5143360 5146560 (03) Uns decidiram criar uma cidade como eu.
+5146560 5148360 (03) Outros se isolaram.
+5148360 5149360 (03) Sinceramente...
+5149360 5150560 (03) Não sei...
+5150560 5152480 (03) E não me importo.
+5152480 5153480 (03, 02) Enfim...
+5153480 5157360 (03, 02) Diz ele que é a última pergunta.
+5157360 5162360 (02) E pergunta porque a criança tem uma marca, mas não é a pragmática dele...
+5162360 5163360 (07, 02) É...
+5163360 5164360 (07) É...
+5164360 5165360 (07) Eu tipo...
+5165360 5167360 (07) Tiro um caderninho assim pra notar, e eu...
+5167360 5168360 (07) Olha...
+5168360 5175260 (07) Percebi, da última vez que eu vim, que aquela criança tem uma marca, mas não é exatamente a que você tem.
+5175260 5178540 (07, 03) Sim, Samanta é filha do Ira.
+5178980 5180520 (07) Ah, interessante.
+5181160 5184320 (03) Ah, tá me saindo caro esse robô, hein?
+5185220 5186760 (03) Ah, mas continue.
+5187140 5188880 (03) Vou ser divertido.
+5192880 5195660 (07) Engraçado, a mãe dela vem muito aqui?
+5195660 5202640 (07, 03) A mãe morreu no parto, o pai veio uma vez aqui pra trazê-la e foi embora.
+5202680 5204140 (03, 02) Por que ela ficou com ela, cara?
+5207640 5216680 (07) É um engulo seco assim, e fala dentro, olha, ele tá ficando um pouco impaciente com as perguntas.
+5217360 5219420 (07) Mas vai direto ao ponto, homem.
+5219840 5223440 (07, 02) Mas o quê? O quê? Que ponto? O que é um ponto aqui?
+5223440 5225440 (07, 02) Pergunta por que a Irina ficou com ela e entregue.
+5225660 5229040 (07, 02) Aí eu, filho, te respiro fundo.
+5229400 5234640 (07) Olha, senhor preguiça, realmente é a última pergunta, eu não quero incomodá-lo, mas me explica uma coisa.
+5234880 5237600 (07, 03) Por que ela não cuida da própria filha? Que absurdo.
+5238080 5240000 (03) Isso eu não posso revelar.
+5240680 5243480 (03) Aproxime o robô do meu ninho e vá.
+5243660 5244860 (02) Mas você disse qualquer coisa?
+5245180 5247100 (05, 03) Mas foram várias perguntas, né?
+5247260 5248920 (07, 04) Foram várias qualquer coisas, né?
+5251080 5255540 (07) Eu coloco o robô lá sentado e ele respeita o meu comando de voz, não é?
+5255660 5255940 (05, 07) Sim.
+5256260 5259460 (07) Eu percebo alguma mudança no dragão, assim, com o robô fechado?
+5259620 5259900 (05) Não.
+5260100 5263680 (07) Então eu começo a abrir um compartimento, assim, onde tá a criança.
+5264320 5265960 (05) Manualmente ou verbalmente à distância?
+5267020 5268580 (07) Verbalmente à distância.
+5268900 5270220 (05) Tá, o robô se abre.
+5270460 5271700 (05, 07) Alguma alteração?
+5271960 5272280 (05) Não.
+5272640 5272800 (07) É.
+5273680 5277000 (07) Cavalo de Troia, acho que o sistema de antivírus dele é eficiente.
+5277940 5281660 (07) Ou vocês querem tentar atacar, eu viro pros outros dois.
+5282400 5284880 (02) Pensei em pegar o bebê e a criança da Ira.
+5285660 5288340 (04) Eu vou até lá, pego o bebê e coloco no colo do cara.
+5292440 5295820 (07) Olha, eu tô lá do fundo da cena batendo palma.
+5296000 5298500 (05) Com as marcas aparecendo ou cobertas por pano?
+5298820 5299980 (04) Não, aparecendo, assim, ó.
+5300040 5300360 (04) Tipo, ó.
+5300520 5301480 (04) Tá aqui teu filho, pega.
+5302260 5303960 (05) O bicho se assusta muito.
+5304260 5305620 (05) Todos em volta dele se assustam.
+5305920 5309960 (05) Sente teu corpo travar de medo por um momento quando a criatura te olha.
+5309960 5312780 (05) Mas a criatura, então, se acalma quando nota o bebê.
+5312860 5314060 (05, 03) Meu filho aqui?
+5314620 5315500 (03) Não imaginei isso.
+5315500 5316220 (03) Deu tão cedo.
+5316760 5319400 (04) Tá na hora de assumir algumas responsabilidades aí, viu?
+5319580 5321800 (05, 03, 04) Sim, a mãe dele fugiu.
+5321840 5323140 (05, 04) E a gente tá trazendo ele de volta.
+5323300 5325220 (05) Ele tá olhando pro F meio desconfiado.
+5325340 5328240 (05, 03) Tem alguém aí dentro?
+5328780 5334280 (07) Eu levanto os braços e eu falo, olha, juro por Deus que eu tô entendendo nada.
+5337500 5339200 (04) Não era isso que eu queria, né?
+5340140 5343200 (05) Ele faz sinal pras mulheres que estavam cuidando da Samanta.
+5343360 5344360 (05) Elas vêm pegar o bebê.
+5344440 5345420 (03) Cuidem dele.
+5345500 5348940 (03) Por alguns anos isso não será um problema.
+5349020 5351040 (05) A preguiça se levanta pela primeira vez.
+5351180 5352280 (05) Ela é ainda maior.
+5352520 5355980 (05) Ela vai até o F e olha bem pertinho dele.
+5356240 5360240 (07, 03) Fale a verdade ou eu vou te engolir.
+5360600 5363760 (07) Sério, eu não faço ideia do que tá acontecendo.
+5363940 5365380 (05) Os outros vão fazer alguma coisa?
+5365640 5367900 (04) A outra menina lá que eu esqueci o nome agora.
+5368140 5368740 (05) A Samanta?
+5369200 5369760 (04) Samanta.
+5370020 5372460 (04) Ela é bem mais velha que o bebê?
+5372460 5373620 (05, 04) Dois anos ela tem.
+5373900 5375340 (05) Ela é um ano e pouco mais velha.
+5375500 5376640 (05, 04) Eu vou perguntar pra ele.
+5376860 5379020 (04) Por alguns anos isso não será um problema.
+5379300 5381840 (04) Existe uma idade onde isso se torna um problema?
+5382040 5387020 (04) Se quer falar comigo, mostre a sua cara.
+5387540 5392040 (04) Eu abro a armadura do anjo e mostro a cara pra ele.
+5392100 5394320 (03) O problema está na adolescência.
+5394600 5396080 (03) Não, alguns um pouco depois.
+5396400 5398480 (03) Até lá não são perigosos.
+5399020 5399960 (04) Por que na adolescência?
+5400360 5402600 (03) Ficam poderosos demais.
+5402940 5405480 (03, 02) Acho que é o momento da gente resgatar todos os bebês.
+5405500 5407340 (02) E esperar a adolescência.
+5407620 5408980 (02, 04) São poderosos nada.
+5409260 5411520 (04) O adolescente só chora e é revoltado.
+5411660 5412260 (04) Não tem poder nenhum.
+5412720 5420620 (03) Ordeno que vocês dois ou três saiam da minha comunidade.
+5421720 5424640 (07) Bom, eu acho que nós fizemos tudo bem.
+5425200 5426180 (07) Prazer em conhecer o senhor.
+5426640 5427860 (07) Desculpa a bagunça.
+5428240 5429720 (07) Espero que o senhor goste da troca.
+5430540 5432980 (07) Eu vou meio que saindo dele.
+5432980 5434500 (07, 02) Ah, vamos pegar o F.
+5435500 5440600 (07, 02) Se eu escutei isso, eu vou dar um comando de voz pro Baltazar.
+5441120 5443440 (07) E ele se move um pouco ainda, né?
+5443740 5444040 (05) Sim.
+5444540 5446940 (07) Bicho, abandona esse Baltazar, ele já tá fudido.
+5447080 5449160 (07) Vou tentar fazer um comando de voz pra...
+5449160 5451400 (07) Se vocês não pegassem as crianças e saírem correndo,
+5451660 5453180 (07) provavelmente o bicho não vai gostar.
+5453400 5455360 (07) Não, mas a gente vai pegar as crianças e você.
+5455600 5458300 (07) Então, eu tô pensando em utilizar o Baltazar pra distraí-lo.
+5458360 5460060 (07) Já que eu posso dar um comando, pelo menos.
+5460200 5460580 (07, 02) Ah, beleza.
+5460860 5462460 (07) Tá, é isso então que a gente vai fazer, né?
+5462460 5464460 (07, 02) Dá o comando de voz e a gente pega...
+5465500 5469320 (07, 02) Mais próximo, o Felipe, o bebê e a criança de dois anos.
+5469560 5472960 (07) Caraca, o Baltazar vai tentar segurar o preguiça.
+5473200 5475320 (05) Tá, a primeira ação, então, é do Baltazar.
+5475460 5476960 (05) Um dado, que ele tá bem destruído.
+5477340 5479620 (07) Ai, olha, eu nunca te pedi nada.
+5479940 5480360 (07) Vamos lá.
+5481640 5482080 (07) Quatro!
+5488020 5488500 (02) Quatro!
+5489060 5490580 (05) Ação do C e do A, qual é?
+5490580 5495060 (05, 02) Eu tô mais próximo do Felipe e eu vou pegar o Felipe.
+5495500 5498940 (02) Enquanto o A pega o bebê e nós dois corremos pra pegar a menina.
+5499060 5500200 (02) E chegar primeiro e pegar a menina.
+5500400 5500720 (02) Isso.
+5501060 5502200 (05) Tá, tu vai pegar o Felipe.
+5502680 5502960 (04) É.
+5503120 5503360 (05, 04) Tá.
+5503640 5505760 (04) É, dá aquele boost das asas, assim.
+5505920 5507620 (05, 04) Pegar o Felipe não precisa rolar dados.
+5507860 5509660 (05) Voar o mais rápido possível, dois dados.
+5510980 5511620 (04) Dois e dois.
+5511720 5512540 (04) Dois e dois.
+5513080 5513480 (05) Perfeito.
+5513660 5515460 (05) Pegou o Felipe, vai levantar voo.
+5515720 5516280 (05) Ação do A.
+5516280 5523780 (05, 04) Eu vou dar um daqueles boost com a asa, assim, pra ganhar velocidade em linha reta na Terra.
+5523960 5525280 (04) Pra tentar pegar...
+5525500 5527820 (04) A que estiver mais próxima, lhe levanta voo.
+5528000 5528500 (05) Uma só.
+5528740 5531080 (04) Não, se elas estiverem próximas, as duas, né?
+5531440 5532440 (05) Tá, dois dados.
+5533780 5535080 (04) Dois e dois.
+5535520 5536780 (05) O que aconteceu foi o seguinte.
+5536940 5540520 (05) A preguiça começou a ficar com muita raiva e ia pra cima do Felipe.
+5540720 5545240 (05) Na hora que ela foi avançar, Baltazar segurou ela pelo rabo e conseguiu dar um tranco.
+5545480 5548920 (05) Nesse momento que a preguiça olhou pra trás pra ver o que tava acontecendo,
+5549100 5552160 (05) foi o que a C agarrou o F e levantou voo.
+5552160 5555160 (05) A preguiça voltou a olhar pra frente, mas a F já tava se afastando.
+5555500 5560280 (05) E esse foi o momento pro C fazer o movimento dele, pegar as crianças e levantar voo.
+5560440 5561460 (05) Elas estão se afastando.
+5561720 5564940 (05) A preguiça, apesar de ter asas, ela é pesada demais.
+5565140 5567120 (05) Ela não conseguiu levantar voo.
+5567200 5568600 (05) Ela tentou, mas não conseguiu.
+5568820 5572720 (05) Só que ela começou a encher a boca e cospe na direção de vocês.
+5573660 5575860 (07) Eu tô fora da armadura.
+5578280 5580220 (05) São dois alvos, na verdade, né?
+5580580 5583520 (04) Sim, e a gente vê a cusparada vindo?
+5583520 5584160 (05, 04) Vê.
+5584340 5585480 (05) Mas não tem muito o que fazer.
+5585580 5586080 (05) Tá.
+5586360 5588000 (05) Um, o A e os bebês.
+5588340 5589840 (05) Dois, C e Felipe.
+5590840 5591060 (05) Um.
+5591300 5592400 (05) Dessa vez o Felipe escapou.
+5592680 5594680 (07) Eu tô feliz e triste ao mesmo tempo.
+5595320 5597260 (05) Ele roda só quatro dados.
+5597540 5598680 (05) O atributo dele é quatro.
+5600420 5600900 (05) Nossa.
+5601240 5603340 (05) Um, três, dois e seis.
+5603840 5607940 (05) O jato pega nas costas do Belchior.
+5608160 5611100 (05) Várias luzes vermelhas começam a apitar e ele tá em queda.
+5611640 5612020 (05) Cris.
+5612260 5615440 (02) Vou tentar segurar ele pra descer ele no chão.
+5615500 5616000 (02) Sem ele cair.
+5616260 5617260 (02) Felipe numa mão.
+5617480 5620220 (02) E ele, eu sei que pode ser que eu não consiga segurar o peso dele inteiro.
+5620340 5622540 (05, 02) Mas eu vou só tentar segurar ele e descer.
+5622920 5624320 (05, 02) Amortecer pra que ele...
+5624320 5624680 (05, 02) Um dado.
+5624900 5626640 (05) Um dado porque o Felipe tá te atrapalhando.
+5627680 5629440 (05) Não conseguiu ajudar ele, não.
+5629480 5630080 (05) Não chegou a tempo.
+5630460 5630900 (05) Anselmo.
+5631120 5633640 (04) Quando eu vejo que ela não tá conseguindo me segurar,
+5633920 5638520 (04) eu entrego as crianças pra ela e deixo o corpo cair.
+5638720 5640260 (05) Pra até passar os bebês tem uma dificuldade.
+5640380 5641000 (05) Rola dois dados.
+5642320 5643500 (04) Seis e dois.
+5643740 5644980 (05, 04) Ainda bem que deu seis.
+5645080 5645500 (05) Porque tu só conseguiu...
+5645500 5648600 (05) Tu consegue passar as crianças e cai.
+5649140 5653040 (05) A Cris lá de cima vê que o pessoal da cidade tá pegando armas
+5653040 5655880 (05) e todo mundo indo pra cima do Belchior do ar caído.
+5656220 5657740 (05, 02) É cinco metros de armadura.
+5657880 5658900 (02) Só cabe eu aqui dentro.
+5659100 5660980 (05) É, o resto é proteção e armamento.
+5661340 5663680 (07) Tem um compartimento pra colocar as crianças, né?
+5663920 5664140 (05) Tem.
+5664420 5665580 (05) Mas ela tá em voo, né?
+5665740 5666780 (05) Como é que ela vai abrir?
+5667020 5669560 (02) Tenho que descer e deixar você com as crianças e ir atrás dele.
+5670040 5670480 (07) Perfeito.
+5671420 5672940 (07) Eu arrumo um carrinho.
+5673840 5675300 (07) Um carro de supermercado.
+5675500 5678540 (07) Boto o One, boto a...
+5678540 5679260 (07) É Samanta, né?
+5679660 5679820 (12) É.
+5680000 5681780 (07) E te vale isso, é muito bonitinho.
+5682900 5684900 (07) E saio correndo com o carrinho.
+5685520 5685720 (05) Tá.
+5686040 5689000 (05) A C então pousa mais longe ali do negócio.
+5689380 5691020 (05) Deixa o F com as crianças.
+5691220 5693460 (05, 02) Volto voando pra tentar resgatar o A.
+5693640 5693780 (05) Tá.
+5694180 5697460 (05) No teu retorno, tu é recebido por uma rajada também daquele mesmo...
+5697460 5701740 (05) Parece um óleo quente que sai da boca do preguiça.
+5701960 5703360 (05) Esse óleo te acerta também.
+5703360 5705480 (05) Tu vê várias luzes vermelhas piscando.
+5705500 5707620 (05) E a tua armadura parando de funcionar.
+5707740 5711400 (05) E a população te cercando e batendo e fazendo de tudo ali.
+5711820 5712340 (07) Caraca.
+5712660 5715500 (05) A maneira de voltar pra Novo Éden é com...
+5716420 5718020 (05) Os robôs, tá?
+5719200 5721880 (07) São os novos moradores do planeta Terra.
+5722420 5724760 (05) Tu acha que os dois não vão aguentar muito tempo lá?
+5725060 5726080 (05) Vai tentar voltar?
+5726540 5728880 (05) Provavelmente morrer nisso ou fugir com as crianças?
+5729340 5729880 (07) Caraca.
+5730020 5732320 (07) Os zumbis ainda não estão parados ali?
+5732420 5733420 (07) Tem zumbi em pé, nada?
+5733420 5735420 (05, 07) Segundo a Cris ontem...
+5735420 5736520 (05) Já tava caído ainda.
+5736700 5738840 (05, 07) Nossa, mas que impasse.
+5739580 5740880 (02) Ele consegue ver a gente?
+5741140 5741520 (02) De longe?
+5741780 5742520 (05) De longe, sim.
+5742680 5743860 (07) Eu consigo comunicar com eles?
+5744120 5744560 (05) Consegue.
+5744660 5745500 (05) Comunicador tá funcionando.
+5745780 5746520 (05, 07) Gente...
+5746520 5747560 (02) Vai, F.
+5747720 5747980 (02) Vai.
+5748380 5749080 (02) Só vai.
+5749900 5753440 (07) Talvez se eu negociar as crianças, vocês consigam sair vivos dessa, não?
+5753620 5754260 (02) Só vai.
+5754420 5755880 (02) Tenta conversar com o padre.
+5756300 5758680 (02) Diz que as crianças vão ter poderes.
+5758820 5764240 (02) Conta a história pra ele e acha que as crianças podem vencer os demônios quando virarem adolescentes.
+5764240 5764640 (02, 04) É.
+5764740 5765260 (04) Logo, logo.
+5765260 5766700 (04) A gente junta as sete estériles...
+5766700 5767560 (04) Não, as sete crianças.
+5769880 5776820 (07) Olha, pela cara do padre e de alívio daquela mulher, eles não queriam isso também.
+5777320 5778400 (07) Mas tudo bem.
+5779640 5782360 (07) Eu falo, olha, você tinha um problema na mão, eu trouxe outro de volta.
+5782640 5783540 (07) E eu saio correndo.
+5784220 5785680 (07) Eu vou com as crianças pra lá.
+5785900 5790280 (05) Preguiça pisa na armadura do A e a comunicação dele é cortada.
+5790540 5790940 (05, 03, 07) Troca.
+5791060 5791980 (02) Posso abrir minha escotilha?
+5791980 5793840 (05, 02) Tá cheio de gente lá fora armada.
+5794020 5794500 (05) Pode abrir.
+5794660 5795000 (02) Eu abro.
+5795000 5800580 (05, 02) A comunicação da C é cortada também.
+5800580 5800880 (05) A comunicação da F.
+5814260 5817680 (07) Eu volto lá pra igreja, falo com o anjo padre.
+5817960 5821480 (07) Falo, olha, essa sua missão suicida custou meus dois amigos.
+5821900 5824660 (07) Mas o seu segredo ainda permanece.
+5824660 5827680 (07) E você não me contou o principal, não é mesmo?
+5827860 5829380 (07) Eu estou com as duas crianças.
+5829860 5832600 (07) E elas ficarão infinitamente poderosas.
+5832840 5836360 (15) Oh, serão anos difíceis, pelo visto.
+5854660 5866860 (09) Não quero regra nem nada Tudo tá como o diabo gosta, tá?
+5866860 5874940 (09) Já tenho este peso que me fere as costas E não vou eu mesmo atar minha mão
+5874940 5882860 (09) Já tenho este peso que me fere as costas E não vou eu mesmo atar minha mão
+5882860 5883860 (09) Oh!
+5884660 5891080 (09) Que transforma o velho no novo Bendito fruto do povo será
+5891080 5898500 (09) E a única forma que pode ser norma É nenhuma regra ter
+5898500 5906040 (09) É nunca fazer Nada que o mestre mandar
+5906040 5908040 (08, 09) Escudo do Mestre
+5908040 5914640 (05, 08) Bem-vindos ao Escudo do Mestre, aquela estrutura de papelão que esconde as anotações do Mestre.
+5914660 5918360 (05) O Mestre, suas rolagens de dados e o protéssio de bolinhas de papel.
+5918840 5922440 (05) Esse episódio faz parte do famigerado Guaxa Verso?
+5922700 5924800 (05) Sim, e eu falo disso daqui a pouco.
+5925100 5927540 (05) Antes, eu preciso agradecer algumas pessoas.
+5928120 5933360 (05) O primeiro delas é o nosso querido Henrique Farofinha, lá do Atelas Produções, edição de podcast.
+5933820 5935100 (05) Ele editou esse episódio.
+5935440 5939940 (05) Quem quiser procurar uma ótima edição, procurem por Atelas Produções.
+5940340 5942140 (05) O link está na descrição do post.
+5942440 5944380 (05) Além da edição maravilhosa do Farofinha,
+5944660 5947600 (05) nós tivemos também a revisão da Debby.
+5947840 5951920 (05) Debby que está terminando lá seu TCC e agradeceu ao RP Guaxa.
+5952180 5954520 (05) Não um TCC comum, ela está terminando o mestrado lá na Europa.
+5955060 5956880 (05) Então, eu que tenho que agradecer.
+5957100 5960240 (05) Muito obrigado por todo o carinho, por todo o apoio que você dá a esse projeto.
+5960740 5963900 (05) O sucesso desse projeto só acontece por pessoas como você.
+5964020 5964940 (05) Muito obrigado mesmo.
+5965280 5966500 (05) Quero agradecer aos jogadores.
+5966700 5968200 (05) Essa aventura foi jogada em maio.
+5968480 5971920 (05) Então, muito obrigado, Felipe Xavier, que é padrinho lá do RP Guaxa
+5971920 5974620 (05) e já gravou um milhão de episódios.
+5974660 5977940 (05) Ele é tipo a Shelly entre os rapazes.
+5978060 5983060 (05) Ao nosso querido Anselmo, também padrinho, também me ajudou muito lá no Discord.
+5983200 5984840 (05) É uma pessoa muito presente no grupo.
+5985160 5989660 (05) E por último, ela que estava lá no primeiro episódio, a nossa Cris Vasconcelos,
+5990600 5992840 (05) a derivada lá do Portal Deviante.
+5993460 5997420 (05) Obrigado aos jogadores, obrigado pela paciência que esperaram a publicação desse episódio
+5997420 5999660 (05) e obrigado por deixá-lo tão divertido.
+6000580 6003520 (05) Antes de mais nada, eu queria avisar vocês duas coisas importantes.
+6003520 6004520 (05) A primeira delas...
+6004660 6006900 (05) Conheçam a Geek Inventário.
+6007120 6007740 (05) O link está na descrição.
+6008080 6010560 (05) O Geek Inventário é administrado pela Sabrina.
+6010880 6012660 (05) Ela faz vários acessórios para o RPG.
+6013000 6017340 (05) Bolsa de dados em forma de ovo de dragão, luva, muita coisa linda.
+6017560 6022820 (05) Se você quer itens exclusivos, feitos à mão, conheça o trabalho da Sabrina.
+6023320 6025560 (05) E o mais importante...
+6025560 6028100 (05) Se você for fazer alguma compra com ela e falar...
+6028100 6032620 (05) Olha, conheci você graças ao RP Guaxa, graças ao Guaxa,
+6032620 6034600 (05) graças ao Realidades Paralelas do Guaxinim,
+6034660 6037640 (05) você ganha 5% de desconto.
+6037720 6038180 (05) É isso mesmo.
+6038640 6040240 (05) Qualquer produto que ela está vendendo,
+6040560 6042720 (05) falou que conheceu graças ao seu amigo Guaxa,
+6043040 6045060 (05) 5% de desconto.
+6045560 6047180 (05) Outro lugar que você pode pegar desconto,
+6047620 6050920 (05) esse, basta clicar no link da loja que eu vou deixar aqui na descrição,
+6051700 6053560 (05) é a Caverna do DM.
+6054040 6055900 (05) Uma loja de miniaturas lá do Dresdler,
+6056000 6059460 (05) que já gravou RPG Guaxa, já gravou miçangas falando sobre miniaturas, inclusive.
+6060100 6062900 (05) Ele tem impressora 3D, ele faz as miniaturas em casa
+6062900 6064500 (05) e ele se uniu a...
+6064500 6067000 (05) 5 podcasts de RPG.
+6067520 6070820 (05) Cada um deles vai estar sorteando uma miniatura de dragão.
+6071340 6073060 (05) Se você quer ganhar essa miniatura de dragão,
+6073520 6077840 (05) vá até o link que está no post e descubra como concorrer.
+6078000 6080080 (05) Você pode concorrer a ganhar qualquer um dos 5 dragões.
+6080300 6082540 (05) O dragão do RP Guaxa é o dragão branco.
+6082780 6086860 (05) Mesmo tipo que você viu na aventura A Herança, o nosso episódio 3.
+6087180 6090300 (05) Então, se você quiser concorrer a um dragão branco ou qualquer uma das outras cores,
+6090540 6091180 (05) vá no post.
+6091180 6094480 (05) E se você quiser adquirir qualquer miniatura da Caverna do DM,
+6094500 6096300 (05) com o link que está aqui na descrição,
+6096680 6100080 (05) é só clicar no link, você ganha 10% de desconto.
+6100340 6101020 (05) É isso mesmo.
+6101520 6103100 (05) Comprou uma miniatura da Caverna do DM,
+6103500 6105220 (05) chegando lá pelo meu link,
+6105740 6109460 (05) você ganha 10% de desconto e ajuda o RP Guaxa.
+6109640 6111620 (05) Então, clica no link, dá uma olhada no site.
+6112020 6113960 (05) Mesmo não está pensando em comprar nada agora de miniatura,
+6114360 6116600 (05) seja para usar na sua campanha de RPG,
+6117060 6118340 (05) seja para enfeitar uma estante,
+6118560 6120500 (05) clique no link, dá uma olhada, tem muita coisa bacana.
+6121320 6122500 (05) Eu tenho certeza que você vai gostar.
+6122500 6124400 (05) E 10% de desconto.
+6124700 6125980 (05) Só porque o Guaxa te mandou lá.
+6126260 6130380 (05) Muitas pessoas estão me perguntando se eu vou no WRF lá em Curitiba,
+6130880 6135680 (05) que é um evento de RPG, board games, card games, jogos eletrônicos,
+6136080 6138320 (05) literatura fantástica, colecionáveis, etc.
+6139200 6142320 (05) Muito provavelmente eu estarei lá no sábado, dia 14 de setembro.
+6142560 6145580 (05) A melhor maneira de ter a certeza disso é me seguir nas redes sociais.
+6146020 6146860 (05) Então, me siga.
+6147320 6150060 (05) Talvez eu esteja lá domingo também, não sei ainda.
+6150480 6152420 (05) Eu, sinceramente, não comprei ainda meu ingresso.
+6152420 6154180 (05) Não sei se tem inscrição para a imprensa.
+6154180 6155180 (05) Como é que funciona?
+6155540 6156500 (05) Eu vou dar uma olhada.
+6156840 6160560 (05) Eu vou botar o link do evento aqui no post para você dar uma olhada também.
+6161040 6163580 (05) Quem é de Curitiba ou região, quiser aparecer lá,
+6163860 6165940 (05) para me dar um abraço, para conversar um pouco sobre RPG.
+6166540 6170840 (05) No sábado, dia 14 de setembro, 99% de chance, estarei lá.
+6171360 6173940 (05) Outra coisa que vai nos ajudar bastante é nos seguir nas redes sociais.
+6174120 6175580 (05) O Instagram, arroba Marcelo Gostinim.
+6175720 6178160 (05) Como eu falei, vai estar concorrendo a um dragão.
+6178460 6179280 (05) Dê uma olhada lá.
+6179280 6182480 (05) E o Twitter, arroba Marcelo Gostinim.
+6182840 6183280 (05) Ou arroba RPG.
+6184180 6186560 (05) Siga os dois, se puderem.
+6187080 6190440 (05) Porque quanto mais números lá, mais parceiros vamos reunir.
+6190600 6191600 (05) E vai ser bom para todo mundo.
+6192000 6193400 (05) Outra maneira de estar ganhando alguma coisa?
+6193600 6195220 (05) Você já tem o PicPay e não tem ainda?
+6195300 6196360 (05) Vai criar uma conta nova?
+6196600 6198100 (05) Usa meu código GUACHA.
+6198520 6200500 (05) Criou a conta nova, ele pergunta se você tem um código de amigo.
+6200580 6202280 (05) E você diz, eu tenho GUACHA.
+6202640 6204300 (05) G-U-A-X-A
+6204300 6206820 (05) Você ganha 10 reais de cashback na sua primeira compra.
+6207040 6209480 (05) E eu ganho 10 reais também, para ajudar a pagar o editor.
+6209480 6212480 (05) Esse episódio só saiu porque existem padrinhos.
+6213360 6214100 (05) Tanto no PicPay.
+6214340 6215560 (05) Quanto no Padrim.
+6215880 6218320 (05) No PicPay, basta procurar pelo arroba RPGUACHA.
+6218580 6222440 (05) E no Padrim, padrim.com.br barra RPGUACHA.
+6222860 6226800 (05) Falando em padrinhos, quero agradecer aos novos apoiadores desse projeto.
+6227140 6228060 (05) Ao Luan de Brito.
+6228380 6229680 (05) Ao Gustavo Vieira Santos.
+6230200 6231400 (05) Ao Cristiano Marques.
+6231700 6232700 (05) Ao Marcelo Machado.
+6233020 6234240 (05) Ao Joseph Oliveira.
+6234640 6235640 (05) Ao Tanaka Tanaka.
+6235980 6237000 (05) Ao Gabriel Ribeiro.
+6237000 6239380 (05) Ao Marcos Sadal Chouji.
+6239700 6241080 (05) Ao Fábio Luiz dos Santos.
+6241320 6242640 (05) Ao Miguel Rodrigues Lopes.
+6243140 6244000 (05) Ao Sandro Lazaro.
+6244180 6246180 (05) Ao Felipe Augusto Goetz.
+6246540 6247900 (05) Ao Marcos Takeuchi.
+6248320 6250000 (05) Ao Flávio Souza Lima.
+6250520 6252080 (05) William Afonso Bianchi.
+6252260 6253600 (05) Tiago Minatel.
+6254100 6254960 (05) Gabriel Dena.
+6255340 6256540 (05) Daniel Gasparin.
+6257000 6258400 (05) Fernando Rafael Junques.
+6258800 6260340 (05) Carlos Cleiton da Silva.
+6260940 6262640 (05) Matheus Ferreira Pacheco.
+6263060 6264000 (05) Marcelo Souza.
+6264320 6264680 (05) Meu xará.
+6265160 6266580 (05) Douglas Inácio Patrício.
+6267080 6268460 (05) Karina Rosa Moreira.
+6268940 6269860 (05) E Felipe Rios.
+6270180 6271260 (05) Muito obrigado a todos vocês.
+6271380 6273580 (05) Se seu nome não apareceu aqui, entre em contato comigo.
+6273580 6274340 (05) Mande um e-mail.
+6274740 6276240 (05) rpguaxa.gmail.com
+6276240 6278120 (05) Também podem me procurar nas redes sociais.
+6278260 6279060 (05) Como eu já falei antes.
+6279200 6280020 (05) Arroba Marcelo Agostinho.
+6280120 6281120 (05) Arroba rpguaxa.
+6281560 6284280 (05) Quero agradecer a todos que deram voz a esse episódio.
+6284640 6287720 (05) Ao Fencas, que deu voz ao Capitão Fencas.
+6288040 6291840 (05) Ao Guilherme Vertamati, que fez a voz do Padre Misael.
+6292100 6294280 (05) A Shelly, que fez a sacerdotisa do Preguiça.
+6294780 6299260 (05) A nossa querida Sinara Salve, que fez a voz da mulher que cuidava do bebê.
+6299620 6302200 (05) A criança que foi interpretada pela minha filha, Maria Luísa.
+6302200 6303200 (05) A voz maravilhosa.
+6303580 6306520 (05) A voz maravilhosa que me surpreendeu do demônio escravagista.
+6306640 6308980 (05) Foi feita pelo José Enio.
+6309400 6312120 (05) O Preguiça foi feito pelo Gabriel Mezena Lopes.
+6312560 6315000 (05) O Mercador foi feito pelo nosso querido amigo Ronda.
+6315500 6317920 (05) Também conhecido como Mateus Berlandi.
+6318180 6321380 (05) O Segurança da Cidade do Preguiça, que foi feito pelo Guilherme Sasaki.
+6321760 6326680 (05) E o Prisioneiro Foragido, que foi interpretado pelo Allen Araújo.
+6327060 6330900 (05) Além disso, quero agradecer as vozes adicionais do Eliomar Pereira.
+6330900 6332620 (05) Do Michel Piratini.
+6332620 6337620 (05) E da Sabrina Palma, que fizeram aquelas vozes de vendedores aleatórias.
+6338420 6339980 (05) Depois da primeira conversa com o Preguiça.
+6340440 6343040 (05) Muito obrigado a todos vocês que deram voz para esse episódio.
+6343620 6344880 (05) Quer dar voz para esse episódio?
+6345360 6346920 (05) Seja nosso padrinho.
+6347500 6351280 (05) Todos que eu citei aqui, talvez com a única exceção da minha filha,
+6351720 6354080 (05) são padrinhos do nosso projeto.
+6354600 6355560 (05) Seja você também.
+6356060 6358800 (05) Os padrinhos costumam brincar que existe um guacho averso.
+6359060 6361840 (05) Um mundo onde todas as aventuras se encontram.
+6361840 6362920 (05) Eu nego.
+6363900 6368200 (05) Mas, esse episódio é sim parte do guacho averso.
+6368540 6370900 (05) Talvez o primeiro episódio do guacho averso.
+6371300 6376340 (05) Já que ele se baseia num mundo de um livro que quase saiu pela Diamond Editora.
+6376380 6379640 (05) Se vocês pesquisarem por Ragnarok 2130.
+6380200 6381840 (05) Faz, eu acho, sei lá, 20 anos, talvez?
+6382260 6382760 (05) Pouco menos.
+6383300 6385180 (05) Ele iria sair pela Diamond Editora.
+6385540 6386500 (05) Acabou não saindo.
+6386600 6390200 (05) Ele seria futuro pós-apocalíptico para o mundo da Diamond.
+6390200 6391660 (05) Além disso, eu comecei...
+6391660 6395660 (05) Eu comecei a escrever um livro, um romance, dentro desse mundo.
+6395660 6398280 (05) Que se passa 17 anos depois dessa aventura.
+6398280 6401060 (05) Mas, eu sou péssimo escritor, e isso tá parado.
+6401060 6402420 (05) Talvez um dia volte.
+6402420 6405420 (05) Mas, basicamente, esse é o cenário, é o meu cenário de RPG.
+6405420 6409660 (05) Que eu trabalhei por muitos anos, na minha cabeça, nas minhas campanhas.
+6409660 6415660 (05) Então, é uma aventura cheia de detalhes, porque, simplesmente, eu conheço todos esses detalhes.
+6415660 6417660 (05) Aquela morte, na verdade...
+6417660 6421520 (05) Bem, eu vou deixar isso pra explicar uma outra aventura, talvez, ou num futuro livro.
+6421520 6424520 (05) Mas, a morte ter sido derrotada...
+6424520 6428520 (05) Onde estão os outros seis dragões dos pecados?
+6428520 6432520 (05) O que exatamente acontece quando as crianças chegam à adolescência?
+6432520 6438520 (05) O romance que eu estava escrevendo, tinha como um dos personagens principais, Oni.
+6438520 6441520 (05) Ou seja, aquele bebê, já adolescente.
+6441520 6443520 (05) É um cenário com influência de muita coisa.
+6443520 6445520 (05) Onde eu homenageei muita gente.
+6445520 6450520 (05) Tanto que o personagem se chama Fencas, desde a época que eu estava escrevendo o romance, né?
+6450520 6451520 (05) Esse episódio...
+6451520 6456520 (05) É, obviamente, continuação de Pacto John Lennon e Pacto Raul.
+6456520 6457520 (05) Alguma coisa...
+6457520 6460520 (05) Quem escutou o Pacto Raul sabe o final dele.
+6460520 6464520 (05) Então, algo aconteceu entre aquele episódio e esse, e a gente chegou onde chegou.
+6464520 6466520 (05) Fora essa ligação...
+6466520 6470520 (05) Se você acha que ele é ligado a outros episódios, aí é teoria de vocês.
+6470520 6475520 (05) Eu só assumo que esses pactos são todos parte de uma história maior.
+6475520 6477520 (05) Espero que tenham curtido esse episódio.
+6477520 6479520 (05) Eu espero visitar esse cenário novamente.
+6479520 6480520 (05) Eu espero, um dia, ter inspiração...
+6480520 6485520 (05) Pra terminar de escrever tudo que eu tenho anotado nesses 20 anos desse cenário.
+6485520 6487520 (05) Um beijo no coração de vocês.
+6487520 6489520 (05) Rolem 6, rolem 20.
+6489520 6492520 (05) Se tudo é errado, rolem no chão.
+6492520 6494520 (05, 13) Porque diverte e apaga o fome.

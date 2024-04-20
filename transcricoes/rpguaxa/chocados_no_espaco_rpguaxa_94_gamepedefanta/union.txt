@@ -1,0 +1,2908 @@
+0 7320 (01) Sabe aquele momento que o jogador lança o dado e tira um acerto crítico,
+7320 14040 (01) resolvendo o que você passou horas planejando em um único movimento? Relaxa. RPG é isso. É
+14040 18120 (01) uma grande história compartilhada em que os jogadores às vezes vão criar soluções
+18120 24180 (01) mirabolantes e resolver todos os problemas que você criou para eles, mas muitas vezes vão
+24180 29680 (01) criar problemas novos e situações que você não tinha nem planejado. Em situações assim,
+29680 34780 (01) existe uma coisa a se fazer. Dar aquele gole demorado em uma Fanta gelada,
+34780 39580 (01) que além de refrescante e gostoso, vai te dar tempo para pensar no próximo momento da aventura.
+39580 44740 (01) Sei lá, acabaram suas anotações? Pergunta para os jogadores o que eles acham que vai acontecer
+44740 50140 (01) agora ou, na pior das hipóteses, copia um RPGuaxa que você ouviu. Eu não vou ligar.
+50140 53740 (01) E já que falei de Fanta e RPGuaxa, olha que legal. O episódio de hoje,
+53740 58900 (01) assim como o anterior e o próximo, são um presente da Fanta para você,
+58900 59660 (01) que curte ouvir e curtir.
+59680 64900 (01) Antes de contar histórias, graças ao melhor refrigerante já criado, temos não um, nem dois,
+64900 71200 (01) mas três episódios extras em dezembro. Mas por que isso? A Fanta, como você sabe,
+71200 76720 (01) sempre esteve junto de quem curte jogos. Em especial, os jogos cooperativos. Quem não tem
+76720 82000 (01) lembrança daquele litrão de Fanta gelado, muito salgadinhos e seus amigos em volta de uma mesa
+82000 88900 (01) rolando dados? Além do RPGuaxa, a Fanta também é o refrigerante oficial da CSSP Worlds 2021,
+88900 94120 (01) e o evento que sendo será online. Ou seja, é a sua chance de qualquer lugar do mundo participar
+94120 99460 (01) dessa festa. O ingresso é gratuito. Existem versões pagas que têm suas vantagens, mas para
+99460 105640 (01) curtir muitas atrações, é de graça. Pede para te colocar o teu nome e o teu e-mail e pronto,
+105640 110980 (01) tu já recebe o e-mail de confirmação e tu já pode acompanhar o palco Thunder Stage,
+110980 116740 (01) o Artistas Valley, o Creators, o Cosplay Universe, entre várias outras coisas,
+116740 118880 (01) e o mais especial de todos, a Fanta e o RPGuaxa. Então, até a próxima.
+118900 119700 (01) Se inscreva no canal e ative as notificações. Um abraço para todos!
+119700 124720 (01) Acima de tudo, o que a Fanta queria te convidar para participar é o TRIBO GAME ARENA BY FANTA.
+124720 129120 (01) Vão rolar várias ações lá. Vai rolar muito CSGO com a presença do Gaules,
+129120 133240 (01) que é um streamer gigantesco, vocês já devem ter ouvido falar. Lembrando que o
+133240 139020 (01) evento é nesse fim de semana. Você está ouvindo na sexta-feira. E o evento vai rolar dia 4 e 5 de
+139020 146780 (01) Dezembro. Ou seja, sábado e domingo. Não perca a sua chance de participar porque vai ser incrível.
+146780 147660 (01) Não perca a CSSP desse ano. Não deixe de participar desse evento. Não deixem de participar. Não deixem de participar.
+147660 149700 (01) desse ano, não deixe de conferir
+149700 151660 (01) o Tribu Arena Game by Fanta
+151660 153700 (01) e acompanhe a Fanta nas redes
+153700 155480 (01) sociais, tanto no Twitter quanto no Instagram.
+155800 157380 (01) O link dele está aqui no post.
+157620 159340 (01) E se você achou bacana
+159340 161920 (01) eles estarem apoiando o RP Guaxa,
+162160 163820 (01) vai lá, agradece eles
+163820 165640 (01) marcando a nossa arroba
+165640 167920 (01) também. Game by Fanta,
+168240 169380 (01) a marca oficial da
+169380 171860 (01) CSP Worlds 2021.
+172800 173780 (01) Episódio de hoje,
+174320 175540 (01) chocados no espaço
+175540 177440 (01) com os jogadores.
+177660 179620 (01) A Ju, a Juliana, que é
+179620 181400 (01) madrinha do RP Guaxa, e ela é uma
+181400 183620 (01) participante recorrente lá do podcast No Fim
+183620 185200 (01) do Universo, que aqui é um podcast
+185200 187480 (01) modéstia à parte, inspirado no
+187480 189780 (01) RP Guaxa, que é de um outro padrinho, o Mike Abrantes,
+189880 190860 (01) então dá uma conferida lá.
+191280 193720 (01) Gabriel Ballardino, ele além de padrinho
+193720 195540 (01) do RP Guaxa, ele pediu pra divulgar o
+195540 197580 (01) Instagram dele, então eu vou pôr aqui no post
+197580 199560 (01) pra vocês. E com o
+199560 201480 (01) Hugo, que é cantor de rap, ele
+201480 203700 (01) tem músicas no Spotify, no Deezer,
+203760 205420 (01) no YouTube, no SoundCloud, e eu vou
+205420 207440 (01) deixar o link aqui no post pra vocês
+207440 209740 (01) conhecerem o trabalho dele, que é maravilhoso.
+210020 211300 (01) Ah, e é padrinho também.
+212080 213380 (00) O Realidade
+213380 215200 (00) Paralelas do Guaxinim
+215200 217180 (00) usa o sistema Guaxinins
+217180 219280 (00) e Gambiarras. Nele,
+219700 221440 (00) cada jogador possui apenas
+221440 223380 (00, 06) um único atributo,
+223880 225080 (00) que vai de 2
+225080 226280 (00) a 5.
+227280 228900 (00) Quanto maior o atributo,
+229180 231160 (00) mais atlético é o personagem.
+231960 232740 (00) Quanto menor,
+233520 235680 (00) mais inteligente e carismático.
+236680 237280 (00) Sempre
+237280 239140 (00) o que o jogador faz
+239140 240900 (00) algo com uma chance de A,
+241440 243380 (00) joga 2 dados
+243380 245240 (00) e precisa tirar
+245240 246780 (00) seu atributo ou menos
+246780 248940 (00) para ataques e ações físicas.
+249380 251140 (00) E seu atributo ou mais
+251140 253800 (00) para ações intelectuais ou sociais.
+254480 255160 (00) Se a jogada
+255160 257140 (00) for fácil ou tiver algum
+257140 259440 (00) auxílio, joga um dado a mais.
+260060 261180 (00) Se a jogada for difícil,
+262220 265420 (00) os deuses estão caçoando de você.
+266100 267220 (00) Rola-se um dado
+267220 268000 (00) a menos.
+268540 270720 (00) Eu sou o Mikante Shutley.
+271200 272940 (00) Mas pode me chamar de Mik.
+273520 274900 (00) Eu sou madrinha do
+274900 277060 (00) RP Guaxa porque é o jeito
+277060 279080 (00) mais fácil de conseguir
+279080 280320 (00) almas para mim.
+280760 282340 (01) Não deixe de seguir nas redes sociais
+282340 284380 (01) arroba marcelo guaxinim arroba rp guaxa
+284380 286020 (01) tanto no twitter quanto no instagram.
+286380 289180 (01) Vai lá, conta pra gente qual seu sabor de fanta favorito.
+289300 289880 (01) E boa aventura.
+297220 301760 (05) E aí, vocês estão na caverna?
+302240 302880 (01) Rola os dados.
+303920 305560 (01, 05) Bola de fogo!
+306200 309320 (06) Chama o clérigo.
+310460 311720 (03, 06) Como assim eu morri?
+312880 314100 (08, 03) Rola a iniciativa.
+314760 317160 (08) Então, não tem armadilha.
+317440 318060 (08) Podemos ir.
+318800 319960 (00) O que vocês fazem?
+321340 322060 (04) Tá, tá.
+322260 325380 (04) Eu amarro uma corda nelas e uso como arma.
+325380 326640 (01, 04) Eu ataco.
+326640 329160 (01) O Magro lança seu Thunderbolt
+329160 330980 (01, 06) mais 15 no Upholder.
+331000 333300 (01, 06) Eu quero rolar a percepção, posso?
+334180 335680 (10) Tem algum lugar pra se esconder?
+336340 336740 (06) Ah,
+337160 338580 (06) falha a crítica.
+339140 339940 (03, 06) Ataque de impunidade!
+340280 342520 (03) Ei, arrumando! Chama o clérigo!
+345260 347380 (03) RPG Realidades Paralelas
+347900 348920 (03) do Guaxinim.
+349260 351540 (03) Sua aventura de bolso na forma de podcast.
+352260 353460 (03) Uma jornada completa
+353460 354800 (03) a cada episódio.
+356640 357880 (unknown) Se inscreva no canal,
+357880 359300 (unknown) e ative o sininho!
+359300 359680 (unknown) E a gente se vê no próximo episódio!
+359680 360240 (unknown) Tchau, tchau!
+360240 361200 (unknown) Se inscreva no canal!
+361200 361740 (unknown) Ative o sininho!
+361740 362360 (unknown) E ative as notificações!
+362360 363700 (unknown) E ative o sininho!
+363700 364240 (unknown) E ative as notificações!
+364240 364840 (unknown) E ative a campainha!
+364880 365640 (unknown) Ative a campainha!
+365640 366320 (unknown) Ative a campainha!
+366320 367900 (unknown) Ative a campainha!
+367900 369580 (unknown) Ative a campainha!
+369580 370580 (01) Estamos no futuro,
+370920 371720 (01) temos robôs,
+371820 372740 (01) viagens espaciais,
+373120 374360 (01) e o mundo é um paraíso
+374360 377700 (01) para 0.001% da população
+377700 379280 (01) que detém os meios de produção
+379280 380880 (01) ou trabalha pra quem detém.
+381220 382980 (01) Embora ainda existam governos,
+382980 384840 (01) quem manda realmente no mundo
+384840 386220 (01) são as grandes corporações.
+386640 391260 (01) Empresas gigantescas que agem em praticamente todas as atividades possíveis e impossíveis.
+391540 394000 (01) Uma dessas corporações é a Amazon.
+394400 398460 (01) E é justamente essa empresa que está contratando nossos jogadores.
+399040 400200 (01) Então vamos conhecê-los.
+400420 402020 (01) Primeiro temos a Juliana.
+402460 405440 (01) Ju, fala sobre teu personagem, aparência, atributo.
+405540 407700 (01, 05) Oi gente, eu vou jogar com a Mel.
+408040 409520 (05) O atributo da Mel é o 2.
+410260 411680 (05) Ela tem 35 anos.
+412100 414660 (05) Só que a aparência dela não condiz muito com isso.
+414660 417440 (05) Ela tem 1,40 de altura, é negra.
+417920 419900 (05) E além de muito baixa, ela é magérrima.
+420460 422380 (05) Eu não sei se eu comentei que ela era careca.
+422940 425640 (05) Parte da cabeça dela, um terço, é metalizada.
+426060 431040 (05) Ela costuma ser confundida com uma criança, o que lhe traz benefícios em algumas situações.
+431600 435120 (05) Possui diversas tatuagens nas pernas, das mais variadas referências.
+435840 438440 (05) Utiliza botas vermelhas, short e regata preta.
+438740 442180 (05) E uma capa metálica de um lado e laranja berrante do outro.
+442560 443540 (05) Ela tem uma pistola.
+443540 449860 (05) No cérebro da Mel, há um dispositivo implantado que lhe permite hackear sistemas em geral.
+450300 457140 (05) Contudo, se houver falhas catastróficas, é possível que o seu próprio cérebro seja comprometido por uma ação externa.
+457560 464420 (05) Invadindo e modificando um sistema, a Mel encontrou um robô que anda com ela, que será um dos personagens.
+464720 470980 (05) Ela é uma mercenária e foi contratada pela Amazon em razão de suas habilidades de invasão e modificação de sistemas.
+471480 472040 (01) Qual o atributo?
+472040 473520 (01, 05) O atributo dela é o 2.
+473540 476560 (01, 05) Perfeito, já que foi citado este nosso robô.
+476840 480300 (01) Gabriel Ballardino, fala sobre o teu personagem, aparência, atributo.
+480300 483700 (01, 02) Olá, meu personagem hoje é o Ziggy.
+483920 485780 (02) Mas Ziggy é o nome que a Mel me deu.
+486200 488700 (02) Antes eu era o robô de segurança Z-74.
+489220 495200 (02) Eu sou um robô, eu tenho 15 anos de idade, mas estou a 12 com consciência.
+495520 501980 (02) E eu fui construído como um robô de segurança pela Boston Dynamics, que é uma divisão de robótica da Amazon.
+501980 511340 (02) Trabalhava numa das empresas, que eu fui vendido, até que há 12 anos atrás, eu fui oficialmente roubado pela Mel.
+511720 516640 (02) Mas na minha opinião, eu fui transformado e salvo, quando eu verdadeiramente nasci.
+516940 522780 (02) Considero ela uma mulher maravilhosa, porque é ela o ser que me deu a vida, que me deu consciência e que me deu livre-arbítrio.
+522780 531900 (02) Eu tenho um corpo preparado para o combate, então eu sou totalmente metalizado, não há nenhuma preocupação estética maior para mim.
+532220 537380 (02) Eu tenho corpos com ligas metálicas bem resistentes, próprias para a proteção mesmo.
+537720 545740 (02) E para a contenção, consigo me mexer em formas que para um humano seria impossível, apesar de eu ter um aspecto quase humanoide.
+546100 548940 (02) E além disso, eu possuo um laser regulável no meu braço.
+548940 554660 (02) Então ele pode servir desde uma iluminação, um ponto luminoso, até uma arma ofensiva.
+555080 560220 (09, 02) E eu tenho um feca de altura e eu tenho um atributo 5.
+560640 561940 (01) Um feca de altura é 2.
+561980 562740 (01) 2 metros, gente.
+562820 564920 (01) É o padrão do Guaxavé, só não é de medida.
+565160 566940 (01) E por último, temos o Hugo.
+567100 569100 (01) Fala sobre o personagem, aparência e atributo.
+569320 571760 (08) Opa, hoje eu sou o Alex Hamilton.
+572400 576180 (08) Ele é piloto e ele é de uma família conhecida por pilotagem.
+576540 579700 (08) Só que pilotagem de entretenimento, não comercial.
+580020 586440 (08) Ele até tentou essa carreira de piloto de entretenimento, mas ele, por não ter tanta habilidade quanto seus parentes,
+586760 591060 (08) ele acabou ficando meio frustrado e hoje ele trabalha como piloto comercial freelancer.
+591060 592560 (08) Para quem paga mais.
+592900 596620 (08) Ele tem 30 anos de idade, é negro, mais ou menos 1,80m.
+597200 601500 (08) Sempre com óculos escuros para esconder os olhos dele, que são de um aumento cibernético.
+601880 604900 (08) E um bonézinho com símbolo da família dele.
+605340 609580 (08) E ele geralmente usa roupas mais despojadas, assim, para a época.
+609860 610140 (08) E é isso.
+610360 611160 (01) Qual o atributo dele, tu falou?
+611500 614420 (08) Ah, o atributo dele é Shelly, digo, 4.
+614700 618180 (01) Ah, outra unidade de medida do RPG Guax aqui.
+621060 630780 (01) Então, vocês são mercenários, né?
+630860 632100 (01) Recebem por missões.
+632740 635840 (01) Ou seja, se vocês estão fazendo alguma coisa, vocês estão ganhando algum dinheiro.
+636340 638400 (01) Fora isso, vocês não têm um salário regular, né?
+638660 641640 (01) Vocês estão nessa missão para receber bastante dinheiro.
+641840 646240 (01) É provavelmente uma das missões que melhor vai pagar da vida de vocês.
+646240 650740 (01) Fora isso, se vocês forem bem-sucedidos, vão cair nas graças da terceira...
+651060 652600 (01) Maior corporação do universo.
+653180 654560 (01) Que é a Amazon, né?
+654920 659520 (01) O que chama a atenção de vocês é que vocês foram contratados, né?
+659540 664940 (01) Vocês estavam, por algum motivo, por uma região que já foi conhecida no passado como Brasil.
+665460 667000 (01) Mas hoje é tudo Amazon mesmo.
+667420 672160 (01) E vocês foram chamados para conversar diretamente com a Melinda Amazon.
+672700 676060 (01) A família trocou de nome há algumas décadas para facilitar a identificação.
+676340 679140 (01) Você sabe que a Melinda é uma mulher de corpo perfeito.
+679680 681020 (01) Graças à sua fortuna.
+681060 681960 (01) Incalculável, né?
+682460 687580 (01) Além de ter tido cada gene do seu corpo selecionado antes dela nascer.
+687960 692300 (01) Ela também gastou muito tempo trocando suas imperfeições por próteses.
+692620 697520 (01) Em entrevista recente, ela declarou que isso correspondia a menos de 1% do corpo.
+697880 704000 (01) Mas as revistas de fofoca alegam que ao menos suas pernas, braços, olhos e coração não são orgânicos.
+704420 706260 (01) Ela está usando um lindo vestido branco, né?
+706300 707680 (01) Quando vocês vão encontrar agora.
+707680 710680 (01) E ela pediu para vocês irem até uma enorme história.
+711060 713940 (01) Estufa, que foi inaugurada recentemente.
+714460 716480 (01) Onde ela vai encontrá-los.
+716960 721100 (01) Na verdade, quem vai encontrá-la é a Mel e o Alex.
+721740 726480 (01) Porque armas e equipamentos, e o Zig se encaixa nas duas descrições.
+727120 730420 (01) Precisam ficar lá de fora, numa salinha reservada.
+730900 734200 (01) Então, a Mel deixa a pistola que ela tem.
+734660 737400 (01) E deixa o Zig ali antes de prosseguir, certo?
+737400 739560 (01, 05) Certo. Eu vou dizer para o Zig.
+740100 741040 (05) Não se preocupe.
+741060 743160 (05) E se conforte, meu querido.
+743160 746160 (02, 05) Se houver algum problema, por favor, me contate.
+746160 748160 (02) Eu entrarei correndo.
+748160 749160 (01, 02, 05) Fique tranquilo.
+751160 753660 (01) Fala um dado, a Mel e o Alex, por favor.
+753660 756660 (01) Atributo ou mais, para sentir uma coisinha.
+757660 759660 (05) Eu tirei o meu atributo 2.
+759660 760660 (01, 05) Tirei 3.
+760660 763460 (01) Tu vê aquela mulher linda de vestido branco.
+763460 765460 (01) Tu acaba não percebendo muita coisa.
+765460 769260 (01) Mas a Mel, que está sempre prestando atenção de tudo.
+769260 770460 (01) Tu sente um cheiro.
+770460 772460 (01) Foi um acerto crítico, né?
+772460 779260 (01, 05) Tu sente um cheiro de carne meio apodrecida e eucalipto quando tu entra ali.
+779260 781260 (05) Hum, esse cheiro...
+781260 783260 (05) Eu vou virar para o Alex.
+783260 784460 (05) Tipo, com uma careta.
+784460 785760 (05) Cheirinho esquisito, hein?
+785760 787460 (05) Meio que cochichando para ele.
+787460 788460 (05) Perfume?
+788460 789460 (05) Você não está sentindo?
+789460 790460 (08) Eu senti, mestre.
+790460 791460 (01, 08) Não, tu não sente.
+791460 792460 (01, 08) Não.
+792460 793460 (08) Vai saber, né?
+793460 794460 (01, 08) O que esse rico usa.
+794460 799560 (01) O motivo pode ser também que vocês estão numa floresta pela primeira vez, né?
+799560 801560 (01) Essa estufa gigantesca.
+801560 804560 (01) Ela tem árvores por todos os lados.
+804560 807560 (01) Além de robôs e sentinelas gigantescos.
+807560 809560 (01) Similares ao Ziggy, só que maiores.
+809560 813560 (01) Eles estão posicionados de maneiras que não atrapalhem a paisagem.
+813560 819560 (01) Mas são visíveis o suficiente para lembrá-los que se ameaçarem, por qualquer motivo, à
+819560 825560 (01, 08) senhorita Melinda, eles arrancam suas cabeças antes de pensarem em fazer qualquer coisa.
+825560 826560 (08) Eu olho para a árvore assim...
+826560 828560 (08) Ué, eu pensei que só isso existia em livro de história.
+828560 830560 (08) Sabia que tinha ainda.
+830560 833560 (05) Então é assim que os ricos vivem.
+833560 837560 (01, 05) Além da Melinda, tem um pequeno robô do lado dela.
+837560 840560 (01) Esse robô segura uma bandeja acima da cabeça.
+840560 847560 (01) Assim que vocês entram, a Melinda se levanta, ela repousa a taça em cima deste robô e
+847560 848560 (01, 04) fala.
+848560 853560 (04) Sabiam que a Amazon recebeu esse nome por conta de um rio que passava por aqui?
+853560 857560 (04) Que essa floresta se chama Floresta Amazônica na língua primitiva local?
+857560 859560 (04) Essa estufa é minha maior obra.
+859560 863560 (04) Uma floresta de quase 400 metros quadrados.
+863560 865560 (04) A maior floresta do mundo.
+865560 866560 (04) A Amazon.
+866560 867560 (04) E me pertence.
+867560 868560 (01, 04) Tudo isso?
+868560 869560 (01) Ela te ignora.
+869560 872560 (01) Ela parece que tá só querendo falar a fala dela.
+872560 875560 (01, 04) E por conta disso perdi meu primo.
+875560 876560 (04) Sentem.
+876560 878560 (01, 04) Peguem uma bebida que eu contarei tudo.
+878560 883560 (01, 04) O robôzinho vai até vocês, ele tira dentro dele bebidas assim e servem pra vocês.
+883560 886560 (08) É, o Alex ele tá meio que saco cheio assim, ele senta assim meio impaciente.
+886560 888560 (08) Quer ouvir historinha, mas fazer o que, né?
+888560 895560 (05, 08) A Mel vendo a bebida de graça num ambiente chique vai se servir, feliz de ter acesso
+895560 896560 (05) a uma coisa diferente.
+896560 897560 (01, 05) Obrigada.
+897560 901560 (01) Provavelmente, por mais que o resto da tua vida tu receba o mesmo salário que tu vai
+901560 906560 (01) ganhar por esse trabalho hoje, e tenha muitos trabalhos, não vai ter o suficiente pra pagar
+906560 909560 (01, 05) uma garrafa como essa que está sendo servida pra você.
+909560 912560 (05) Cada gole ela vai fechar os olhos e dar uma respirada então.
+912560 916560 (04) Meu primo Aaron sempre foi o mais ingênuo da família.
+916560 918560 (04) Seria um ótimo par pra mim.
+918560 925560 (04) Minha outra opção seria o irmão dele, Gustav, mas Gustav possui um temperamento forte e acho
+925560 929560 (04) que as três tentativas de assassinato nos afastaram um pouco.
+929560 936560 (04) Dizem que na última tentativa ele ficou morto por nove minutos e que hoje seu corpo é 100%
+936560 937560 (04) cibernético.
+937560 942560 (04) Ele não vai mais envelhecer e mesmo assim guarda rancor de mim.
+942560 943560 (04) Um babaca.
+943560 944560 (04) Não.
+944560 945560 (04) Eu preciso do Aaron.
+945560 949560 (04) Por isso vocês vão trazê-lo de volta com vida.
+949560 952560 (04) Prometo que serão muito bem recompensados.
+952560 954560 (04) Mas vamos aos fatos.
+954560 959560 (04) Com a intenção de convencer Aaron a se juntar a mim, eu investi nessa grande estufa.
+959560 964560 (04) Deu-se árvores do mundo todo pra compor essa Amazônia dos sonhos.
+964560 968560 (04) Eu tenho até um koala de verdade em algum lugar.
+968560 971560 (01, 04) Dela olha assim tentando procurar o koala e não acha.
+971560 973560 (01, 04) Mas esse foi meu erro.
+973560 976560 (04) Entra num cobre e me por pra comer.
+976560 980560 (04) O melhor pra ti não combina mal o que目前inha.
+980560 987560 (04) Ele quer nem a vida.
+987560 991560 (04) Você não sabe isso, cara.
+991560 993560 (04) Você não sabe.
+993560 997560 (04) Vamos lá em casa.
+997560 999560 (04) Talvez faça testemunho.
+999560 1000560 (04) Em gozo.
+1000560 1002520 (04) entende que se alimentarmos as pessoas
+1002520 1004720 (04) ninguém vai querer trabalhar nem consumir
+1004720 1006320 (04) e isso destruiria
+1006320 1007740 (04) nossa frágil sociedade
+1007740 1010320 (04) o fato é que Aaron acabou
+1010320 1012820 (04) acertando uma das manifestantes com seu carro
+1012820 1014240 (04) ele a socorreu
+1014240 1016780 (04) e logo eles estavam se atracando como animais
+1016780 1018720 (04) pedi pra polícia prender essa mulher
+1018720 1020420 (04) pra queimarem a casa dela
+1020420 1022340 (04) ou coisa assim, mas meu prima
+1022340 1024380 (04) protegeu, no fim ele pegou
+1024380 1025960 (04) uma das nossas naves de pesquisa
+1025960 1028240 (04) encheu de hippies e fundou
+1028240 1029920 (04) uma cidade espacial
+1029920 1031460 (04) autossuficiente
+1031460 1034420 (04) e obviamente não posso fazer nada em relação
+1034420 1035800 (04) a isso, ou melhor
+1035800 1038220 (04) não podia, Aaron me mandou
+1038220 1040020 (04) essa manhã um pedido de socorro
+1040020 1042380 (04) uma mensagem onde ele pede pra ser
+1042380 1044120 (04) salvo, com isso ganhei uma
+1044120 1046340 (04) autorização de extração, mas como
+1046340 1048680 (04) ele está em uma cidade espacial
+1048680 1050040 (04) autossuficiente
+1050040 1052600 (04) eu só posso pegá-lo depois que ele voltar
+1052600 1053780 (04) pra próximo da terra
+1053780 1056160 (04) próximo da nossa jurisdição
+1056160 1058480 (04) quero que vocês vão até a nave dos hippies
+1058480 1059660 (04) peguem Aaron
+1059660 1061260 (04) tirem ele de lá
+1061260 1063680 (04) e tragam pra próximo da terra
+1063680 1065860 (04) dona Melinda
+1065860 1068400 (01, 04) ela te olha assim com um pouco de desprezo
+1068400 1069660 (01, 05, 04) pois não
+1069660 1072300 (05, 04) a senhora vai nos desculpar
+1072300 1073100 (05) mas
+1073100 1075680 (05) essa história do seu primo
+1075680 1077880 (05) a gente poderia ver a mensagem
+1077880 1079160 (05) que ele te enviou
+1079160 1081160 (05) pra ajudar
+1081160 1083780 (05) nessa localização e tudo mais
+1083780 1085560 (01, 05) ela faz um movimento
+1085560 1087480 (01) mexendo com os dedos na palma da mão
+1087480 1089640 (01) surge uma
+1089660 1091800 (01) pequena tela no ar flutuando
+1091800 1093560 (01) vocês veem um homem assim
+1093560 1095020 (01) de trinta e poucos anos
+1095020 1096780 (01) ele está descabelado
+1096780 1099700 (01) atrás dele tem uma labareda
+1099700 1101640 (01) vocês veem faísca saindo de algum lugar
+1101640 1102680 (01) a luz piscando
+1102680 1110900 (01, 04, 06) a mensagem foi essa
+1110900 1112460 (05, 04) realmente peculiar
+1112460 1115080 (05, 04) é a minha chance, ele quer sair
+1115080 1117100 (04) isso me dá uma autorização
+1117100 1118420 (04) vão pegá-lo pra mim
+1118420 1118860 (05, 04) ok
+1118860 1118980 (05, 04) ok
+1118980 1119140 (05, 04) ok
+1119140 1119500 (05, 04) ok
+1119500 1119520 (05) ok
+1119520 1120220 (05) só mais uma coisa
+1120220 1122640 (05) já que nós temos que fazer esse serviço
+1122640 1124440 (05) e nós gostamos de prestar um
+1124440 1126220 (05) um serviço de excelência
+1126220 1128220 (05) pra pessoas de excelência, não é mesmo?
+1128420 1129180 (01) fala dois dados
+1129180 1132020 (01, 05) três e três
+1132020 1134580 (01, 05) ela se sentiu assim
+1134580 1136120 (01) ela deu um sorriso pra ti
+1136120 1138640 (01) ela foi ensinar pro robô a servir mais bebida
+1138640 1140760 (01) ela quer continuar te ouvindo
+1140760 1141320 (01) pode falar
+1141320 1144120 (01, 05) pra nós continuarmos o nosso serviço de excelência
+1144120 1146840 (05) eu gostaria só de tirar mais algumas dúvidas
+1146840 1147240 (05) com
+1147240 1149000 (05) com você
+1149000 1149360 (05) com você
+1149360 1151360 (05) você saberia dizer
+1151360 1154260 (05) com quem o seu primo convivia?
+1154260 1156360 (05) e quem era a mulher que ele
+1156360 1158260 (05) aparentemente atropelou?
+1158260 1159560 (05) a mulher se chama Belo
+1159560 1161760 (01, 05) ela entrega uma má ficha pra ti
+1161760 1164960 (01, 05) nessa ficha tem uma foto, dados, é isso?
+1164960 1167160 (01) tem uma foto assim, é uma loirinha
+1167160 1170560 (01) ela tem uma cicatriz na bochecha
+1170560 1173560 (01) tem uma lista ali de crimes
+1173560 1175660 (01) todas são manifestações que ela participou
+1175660 1178260 (01, 05) temos alguém revoltada com o sistema por aqui
+1178260 1179200 (05) humm
+1179200 1181200 (05) e outros
+1181200 1184700 (05) você saberia outros contatos do seu primo?
+1184700 1185700 (05) digamos assim?
+1185700 1188700 (01, 05) ela pega mais algumas
+1188700 1191700 (01) na verdade ela não te entrega isso fisicamente, né?
+1191700 1193200 (01) ela mexe na mão dela
+1193200 1195200 (01) e na tua cabeça tu tá recebendo
+1195200 1197700 (01) fichas assim de mais de 40 pessoas
+1197700 1199200 (01) homens e mulheres
+1199200 1201200 (01) também com histórico de manifestação
+1201200 1203200 (01, 05) perfeito
+1203200 1204700 (05) cara melinda
+1204700 1207200 (05) acho que já temos informação suficiente, né Alex?
+1207200 1208300 (05, 08) ô mestre, é, nesse meio tempo, né?
+1208300 1209200 (08) o mestre, é, nesse meio tempo, né?
+1209200 1214200 (08) eu posso ter conseguido ver algo diferente com a minha visão?
+1214200 1220700 (01, 08) se quando ela tava falando ela teve uma reação que não seria, sabe, comum pra pessoa preocupada com o primo, esse tipo de coisa?
+1220700 1221700 (01) não precisa rolar dado
+1221700 1227700 (01) ela parece realmente desprezar tanto o próprio primo quanto as pessoas que ele se envolveu
+1227700 1231200 (01) mais as pessoas que ele se envolveu do que o primo, né?
+1231200 1235200 (01, 00, 06) tu sabe que a situação hoje em dia, como com manipulação genética
+1235200 1237200 (01) o casamento entre parentes
+1237200 1239200 (01) é, acaba sendo...
+1239200 1240700 (01) com risco zero, né?
+1240700 1242700 (01) essas grandes corporações
+1242700 1245700 (01) voltaram a ser quase monarquias medievais
+1245700 1248200 (01) em que os primos ficam casando e tal
+1248200 1250700 (01) e que ela precisa casar com alguém da família dela
+1250700 1253200 (01) pra se manter no topo
+1253200 1254700 (01) e não dividir
+1254700 1256700 (01) não sujar, entre aspas
+1256700 1259200 (01) o sangue da família diante de fora, né?
+1259200 1260700 (01, 08) certo, certo
+1260700 1262200 (08) é, então eu falo...
+1262200 1263700 (08) é, por enquanto não
+1263700 1264700 (08) a senhora também é linda
+1264700 1267700 (08) sabe que a família Hamilton é conhecida por serem excelentes pilotos
+1267700 1270200 (08) eu irei fazer o nome da minha família aqui, nesse trabalho
+1270200 1272200 (01, 08) e eu olho pra Mel
+1272200 1273200 (01, 05) com certeza
+1273200 1276200 (01) ela faz o sinal, a porta atrás de vocês se abre
+1276200 1278700 (01) e ela volta a sentar de costas pra vocês
+1278700 1280700 (01) admirando, assim, as árvores
+1280700 1283200 (01) e parece que tem árvores do mundo inteiro
+1283200 1285700 (01) tem uma árvore lá atrás que caiu uma folha rosa
+1285700 1288200 (01) parece uma mistura gigantesca, assim
+1288200 1290200 (01, 08) tu não vê duas árvores iguais
+1290200 1291200 (01, 08) é, tem animais, né?
+1291200 1291700 (01) não tem
+1291700 1294200 (01, 08) ela disse que tinha um coelho, mas vocês não viram
+1294200 1295200 (01) ah, tá, ok
+1295200 1297200 (01) talvez a Mel saiba
+1297700 1298700 (01, 05) talvez vocês não viram
+1298700 1300700 (05) eu consigo... é isso que eu ia perguntar
+1300700 1303700 (05) eu consigo identificar de onde vinha aquele cheiro podre?
+1303700 1305700 (01, 05) aquele cheiro apodrecido?
+1305700 1308200 (01) de árvores, assim, mas floresta dentro
+1308200 1309700 (01) que não é muito grande, né?
+1309700 1310700 (01) perfeito
+1310700 1314700 (05) na saída, a tempo, há robôs ali de vigilância, né?
+1314700 1315700 (01, 05) sim
+1315700 1318700 (05) eu posso tentar algum tipo de comunicação?
+1318700 1320200 (05) com o sistema deles?
+1320200 1321700 (01) pode, um dado
+1321700 1322700 (01, 05) só que não tira um
+1322700 1323700 (05) e acabou a aventura
+1324700 1325700 (05) três
+1327700 1328700 (01) perfeito
+1328700 1332700 (01) tu consegue superficialmente acessar a rede interna deles
+1332700 1333700 (01) o que tu estás procurando?
+1333700 1337700 (01, 05) eu estou procurando histórico de eventos relevantes
+1337700 1339700 (05) se existe algum tipo de arquivo
+1339700 1342700 (01, 05) eventos relevantes naquele ambiente
+1342700 1344700 (01) tem a planta do lugar
+1344700 1346700 (01) quais são as espécies que tem ali
+1346700 1348700 (01) de onde veio cada uma delas
+1348700 1350700 (01) tem essas manifestações
+1350700 1352700 (01) tem notícias
+1352700 1355700 (01) tu tem uma lista com todos os funcionários que trabalham ali
+1355700 1356700 (01) e são bem poucos
+1356700 1359700 (01) a maior parte do que é cuidado ali são robôs, né?
+1359700 1360700 (01) o que mais tu quer ter
+1360700 1363700 (01) o que é servido no almoço
+1363700 1365700 (01) para os executivos quando eles estão ali
+1365700 1366700 (01, 05) animais
+1366700 1367700 (01, 05) só o koala?
+1367700 1368700 (01, 05) só o koala
+1368700 1369700 (01, 05) só o koala
+1369700 1370700 (05) e eu tenho a ficha dele agora?
+1370700 1373700 (01, 05) temos a ficha do koala, tem as fotinhos dele e tudo
+1373700 1375700 (01) ele parecia um koalinha bem triste
+1375700 1376700 (05) ok
+1376700 1378700 (05) temos um koala triste na minha memória
+1378700 1379700 (05) perfeito
+1382700 1383700 (01) enquanto isso, estamos indo embora
+1383700 1384700 (01) perfeito
+1384700 1385700 (01) vocês passam ali, pegam as coisas, né?
+1385700 1387700 (01) que inclui o Zig
+1387700 1389700 (01, 08) eu dou aquele último gole na bebida para aproveitar, né?
+1389700 1390700 (08) já que está de graça
+1390700 1392700 (08) coloco na mesa, levanto
+1392700 1394700 (08) senhora, me saiba
+1394700 1395700 (05, 08) está tudo bem?
+1395700 1396700 (05) tudo sim
+1396700 1399700 (05) acho que se fizermos o serviço da ricaça
+1399700 1401700 (05) a gente tem chance de ter uma
+1401700 1404700 (05) uma vidinha mais farta daqui para frente
+1404700 1410700 (09, 05) ah, e podemos ir para aquele palheta onde robôs são considerados seres com direitos?
+1410700 1412700 (09, 05) ah, meu...
+1412700 1414700 (05) dar uma disfarçada, assim
+1414700 1416700 (09, 05, 06, 08) dar uma engasgada
+1416700 1417700 (05, 03, 08) é...
+1417700 1418700 (05, 08) ah, claro, claro
+1418700 1420700 (05, 08) mais tarde a gente conversa, claro
+1420700 1422700 (08) é, não tenho muita paciência para esses ricos aí não
+1433700 1436700 (01) vocês receberam já metade do pagamento
+1436700 1439700 (01) isso paga o combustível, os preparativos de vocês
+1439700 1441700 (01) e sobra uma quantidade muito boa, né?
+1441700 1443700 (01) para vocês dividirem entre dois
+1443700 1446700 (01) porque novamente o Zig é uma...
+1446700 1448700 (01) não é uma pessoa, né?
+1448700 1451700 (01, 08) é, então, tem um tempo de preparação, né mestre?
+1451700 1453700 (01, 08) sim, vocês querem reservar alguma coisa
+1453700 1455700 (01) assim, não tem muito tempo
+1455700 1457700 (01) porque pela mensagem que vocês viram
+1457700 1459700 (01, 08) do fogo
+1459700 1461700 (01) talvez trazer com vida
+1461700 1463700 (01) fique mais difícil a cada minuto
+1463700 1466700 (01, 08) é, então, assim, rapidamente fazer aquela revisão na minha nave
+1466700 1468700 (08) para ver se está tudo certo
+1468700 1470700 (08) vou comprar uma arma só porque, né?
+1470700 1471700 (08) vai que precisa
+1471700 1472700 (08) e é isso
+1472700 1474700 (08) sem muito papo
+1474700 1475700 (01, 08) a Mel vai preparar alguma coisa?
+1475700 1477700 (01, 05) ela só vai perguntar para o Zig
+1477700 1482700 (05) Zig, você consegue revisar os nossos armamentos e providenciar isso?
+1482700 1485700 (02, 05) sim, eu já estava fazendo isso enquanto eu estava aqui
+1485700 1487700 (02) pode ficar tranquilo que já está tudo
+1487700 1489700 (02) tudo que você precisa já está na nave
+1489700 1490700 (01, 02) bom menino
+1490700 1492700 (01, 02) e é uma caixa gigantesca que eu carrego
+1492700 1494700 (01, 02) vocês vão até a nave de vocês
+1494700 1497700 (01) ela tem o espaço para vocês
+1497700 1499700 (01) e mais um espaço de carga, né?
+1499700 1501700 (01) terem mais alguns bancos e espaço de carga
+1501700 1503700 (01) para trazer mais pessoas
+1503700 1507700 (01) caso decidam resgatar mais alguém além do Aron, né?
+1507700 1510700 (01) mas a missão de vocês é bem específica quanto a isso
+1510700 1513700 (01) como vocês estão trabalhando para a Amazon
+1513700 1516700 (01) a liberação de vocês na pista de lançamento
+1516700 1518700 (01) ela é rápida
+1518700 1521700 (01) não fazem muitas perguntas para vocês
+1521700 1524700 (01) vocês acabam furando uma fila de outras pessoas que estavam esperando
+1524700 1527700 (01) para zarpar para o espaço
+1531700 1534700 (01) então vocês vão até o espaço
+1534700 1537700 (01) vocês têm as coordenadas, né?
+1537700 1539700 (01) na velocidade da nave de vocês
+1539700 1541700 (01) dois dias de viagem, de distância
+1541700 1543700 (01) então já dois dias se passaram
+1543700 1545700 (01, 08) ô mestre, só um detalhe
+1545700 1547700 (08) o Alex, ele gosta de música clássica, né?
+1547700 1549700 (01, 08) então ele está ouvindo NWE
+1549700 1552700 (01) e quando o piloto fala dois dados
+1552700 1553700 (01) o Alex
+1553700 1555700 (01, 08) dois e cinco
+1555700 1557700 (01) um acerto simples
+1557700 1559700 (01) tu logo chega às coordenadas da nave, né?
+1559700 1562700 (01) tu vê que a nave como um todo
+1562700 1565700 (01) está enviando um pedido de socorro
+1565700 1568700 (01) tu recebe no teu equipamento ali uma
+1568700 1571700 (01) um pedido de socorro eletrônico, né?
+1571700 1572700 (01) só
+1572700 1574700 (01) não há uma mensagem em si apenas
+1574700 1576700 (01) como se fosse um SOS, né?
+1576700 1578700 (01) e que as luzes dessa nave
+1578700 1581700 (01) que seriam para identificá-la ali no espaço
+1581700 1583700 (01) estão também piscando
+1583700 1586700 (01) num sentido de pedido de socorro
+1586700 1588700 (01) ela está em todo um modo
+1588700 1589700 (01) deu ruim
+1589700 1590700 (08) eu consigo contato com essa nave?
+1590700 1591700 (01, 08) pode tentar
+1591700 1592700 (01, 08) e qual é o coronel da nossa nave?
+1592700 1593700 (08) tem nome?
+1593700 1594700 (01, 08) escolheu ou não?
+1594700 1595700 (01) a nave é tua, na verdade
+1595700 1597700 (01) os outros dois é o pessoal especialista
+1597700 1599700 (01) o piloto é o dono da nave
+1599700 1600700 (01, 08) é verdade
+1600700 1601700 (08) a nave vai ser
+1601700 1602700 (08) vai ser LIM-14
+1602700 1603700 (08) tá bom
+1603700 1604700 (08) contato
+1604700 1605700 (08) qual é o contato
+1605700 1606700 (08) nave LIM-14?
+1606700 1607700 (08) alguém escuta?
+1609700 1610700 (01, 08) não tem resposta
+1610700 1611700 (08) imaginei isso
+1611700 1612700 (08) Mel, por favor, vem aqui
+1612700 1613700 (05, 08) sim, Alex
+1613700 1614700 (05) o que está acontecendo?
+1614700 1616700 (05, 08) parece que a nave está em
+1616700 1617700 (08) pedindo o modo SOS
+1617700 1618700 (08) ela não responde
+1618700 1619700 (05, 08) hum
+1619700 1620700 (05) será que dessa distância aqui
+1620700 1622700 (05) eu consigo me comunicar?
+1622700 1623700 (01, 05) não
+1623700 1624700 (01) teria que encostar as duas naves
+1624700 1625700 (01) tem que ter algum
+1625700 1626700 (01) porque está no espaço
+1626700 1627700 (01) tu não tem
+1627700 1628700 (01) ela não está
+1628700 1629700 (01) ela só transmite o pedido de socorro
+1629700 1632700 (01, 08) é, vou tentar acoplar então na nave
+1632700 1633700 (08) tá
+1633700 1634700 (01, 08, 05) mas, mas Alex
+1634700 1635700 (05) você
+1635700 1636700 (05) você acha que é interessante
+1636700 1638700 (05) a gente fazer esse desvio?
+1638700 1639700 (01) não é a nave que a gente está procurando, não?
+1639700 1640700 (01) é outra?
+1640700 1641700 (01) é a nave, a nave que você está procurando
+1641700 1642700 (01, 05) ah, é a nave?
+1642700 1643700 (05) ah, desculpa
+1643700 1644700 (05) eu achei que
+1644700 1645700 (05) é que era uma cidade autossuficiente, tá?
+1645700 1646700 (05) ela é a nave, desculpa
+1646700 1647700 (01, 05) é?
+1647700 1648700 (01, 05) é, gente
+1648700 1649700 (01, 05) nossa
+1649700 1650700 (01) é uma nave bem grande
+1650700 1651700 (01) mora bastante gente, quer dizer
+1651700 1652700 (01) umas quarenta pessoas, né?
+1652700 1653700 (01, 05) hum
+1653700 1654700 (01) mas bastante gente lá
+1654700 1655700 (01) é
+1655700 1656700 (01) e eles declararam que aquilo é uma cidade autossuficiente
+1656700 1657700 (01, 08) ah, perdão
+1657700 1658700 (01, 08) esqueci de habilitar aqui no
+1658700 1659700 (01, 08) visor aqui no visor
+1659700 1660700 (08) perdão
+1660700 1661700 (08) habilita a tela
+1661700 1662700 (08) para ela ver a nave
+1662700 1663700 (05) ah, obrigada, Alex
+1663700 1664700 (05, 08) acho bom a gente se preparar
+1664700 1665700 (05, 08) tomara que você consiga encostar
+1665700 1666700 (05) dois dados
+1666700 1667700 (01, 05, 08) olha lá
+1667700 1668700 (01, 08) um e cinco
+1668700 1669700 (01) um acerto simples
+1669700 1670700 (01) a nave de vocês balança bastante
+1670700 1671700 (01) ela teve
+1671700 1672700 (01) o pouso foi quase uma maquiagem
+1672700 1673700 (01) a nave de vocês balança bastante
+1673700 1674700 (01) ela teve
+1674700 1675700 (01) o pouso foi quase uma maquiagem
+1675700 1676700 (01) a nave de vocês balança bastante
+1676700 1677700 (01) ela teve
+1677700 1678700 (01) uma queda controlada ali
+1678700 1679700 (01) uma queda controlada ali
+1679700 1680700 (01) mas
+1680700 1681700 (01) conseguiu encaixar na outra nave
+1681700 1682700 (01) mas conseguiu encaixar na outra nave
+1682700 1683700 (01) embora as portas não tenham se aberto
+1683700 1684700 (01) embora as portas não tenham se aberto
+1684700 1685700 (01) embora as portas não tenham se aberto
+1685700 1686700 (01) para fazer a ligação entre vocês, né?
+1686700 1687700 (01) para fazer a ligação entre vocês, né?
+1687700 1688700 (01) mas a nave tá
+1688700 1689700 (01) tá
+1689700 1690700 (01) encaixadinha
+1690700 1691700 (01, 02) é, coloquem
+1691700 1692700 (02) eu vou abrir aquela caixa
+1692700 1693700 (02) que eu falei
+1693700 1694700 (02) que eu trouxe em grandona
+1694700 1695700 (02) coloquem as roupas
+1695700 1696700 (02) de proteção do espaço
+1696700 1697700 (02) de proteção do espaço
+1697700 1698700 (02) por favor
+1698700 1699700 (02) eu vou abrir a
+1699700 1700700 (02, 08) a comporta
+1700700 1701700 (02, 08) e fazer a abertura
+1701700 1702700 (08, 06) eu coloco a minha roupa
+1702700 1703700 (08) minha roupa
+1703700 1704700 (08) é roupa personalizada
+1704700 1705700 (08) ela é fora do padrão
+1705700 1706700 (08) assim
+1706700 1709840 (08) Ela é toda preta e um verde meio neon
+1709840 1711320 (08) Eu coloco junto com o capacete
+1711320 1713500 (05, 08) Está vestindo a roupinha dela e a capa
+1713500 1715040 (01, 05) Provavelmente ele comprou essa roupa com dinheiro
+1715040 1716160 (01) Que se eu ganhar era adiantado
+1716160 1718640 (01) É a primeira vez que a Mel vê essa roupa
+1718640 1720800 (01) Se ela quiser fazer algum comentário sobre isso
+1720800 1724580 (01, 05) Você tem talento para ser um rico excêntrico, né Alex?
+1724980 1725700 (08) É herança de família
+1725700 1726640 (05, 08) Herança?
+1727640 1731060 (05, 06) E herdeiro trabalha assim como piloto também?
+1731420 1732840 (08) Só os que não deram certo na carreira
+1732840 1733680 (05, 08) Ah, entendo
+1733680 1735320 (05) Aliás, não entendo mais
+1735320 1736420 (05) Compreendo
+1736420 1738560 (02, 05) Deve ser algum tipo de punição
+1738560 1742140 (01, 02) O Zig então vai abrir a força
+1742140 1745820 (01) A porta da outra nave, é isso?
+1746200 1746640 (01) Isso
+1746640 1749080 (01) Tá bom, joga dois dados
+1749080 1750680 (01) Se ninguém for te impedir
+1750680 1752080 (01, 05) Vocês acham que isso é uma boa ideia?
+1752440 1755260 (05) Olha, geralmente a gente abre sistema
+1755260 1757020 (05) Quando for alguma coisa maior
+1757020 1758080 (05) Por meio de ti, né?
+1758580 1760480 (05) Então eu dependo da tua abertura
+1760480 1762240 (05) Para acessar essa nave também
+1762240 1765560 (02, 05) Beleza, eu vou fazer a saída controlada da minha nave, né?
+1766220 1766340 (02) Mas...
+1766420 1768400 (02) Imagina eu preso tudo direitinho
+1768400 1770520 (02) Para ir até outra nave e abrir ela
+1770520 1774540 (01, 02) As duas naves estão coladas
+1774540 1776660 (01) Abre a porta da nave de vocês
+1776660 1778200 (01) Aí a porta deles está fechada
+1778200 1779800 (01) Só estou a arrombar a porta deles
+1779800 1781540 (01, 08) Isso, é isso aí que eu vou fazer
+1781540 1784160 (01, 08) É, mas isso pode causar mais compressão na nave deles
+1784160 1784740 (08) Não pode?
+1785100 1786460 (01) Fecha o compartimento de carga
+1786460 1789380 (01) Fica vocês dois onde tem o comando
+1789380 1791220 (01) E ele é um robô, se não é problema, ele está lá
+1791220 1792000 (01, 10) Exatamente
+1792000 1793600 (01, 10) Esse robô está voando
+1793600 1795180 (10) Preso por um fio
+1795180 1796260 (05, 10) Antes de arrombarmos o chameiro
+1796260 1797100 (05) E chamarmos a atenção
+1797100 1798300 (05) Será que não vale a pena
+1798300 1800520 (05) Tentarmos ver como é que está a situação dessa nave
+1800520 1801720 (05) Já que tem pedido de socorro?
+1802040 1803140 (02) É por isso que eu vou abrir a porta
+1803140 1805040 (02) E não rasgar ela com laser
+1805040 1806440 (02, 05) Assim que você abrir
+1806440 1809460 (05) Vamos tentar fazer aquele nosso combinado de sempre
+1809460 1812460 (05) E eu vou tentar localizar câmeras
+1812460 1813740 (05) E informações que
+1813740 1816300 (05) Enfim, estejam registradas no sistema da nave
+1816300 1817600 (05) Eventualmente
+1817600 1819860 (01, 05) Tá, então um teste de força do Zig
+1819860 1820480 (01) Dois dados
+1820480 1823160 (01) E a Mel faz rola dois dados também
+1823160 1825260 (01) Quanto é que tirou, Zig?
+1825580 1826060 (01) Tirei um
+1826060 1826820 (01) Um e um
+1826820 1827500 (01) E a Mel?
+1827740 1828860 (01) Seis e quatro
+1828860 1831200 (01) O Zig consegue abrir na força bruta
+1831200 1834020 (01) A entrada da outra nave, né?
+1834280 1837320 (01) A Mel tenta entrar em contato com o computador da nave
+1837320 1840100 (01) Mas a nave está toda em modo de emergência
+1840100 1841660 (01) Do controle da energia
+1841660 1844860 (01) Então só sistemas muito básicos estão ligados
+1844860 1848220 (01) Ela consegue controlar a luz
+1848220 1851620 (01) Se a gravidade vai ser normal
+1851620 1855900 (01) Ou um pouco alterada, né?
+1855900 1857580 (01) Para as coisas ficarem um pouco mais leves ali
+1857580 1858540 (01) Até flutuarem
+1858540 1860540 (01) Tu sabe que tem oxigênio, né?
+1860540 1862420 (01) O sistema de oxigênio está sendo mantido lá dentro
+1862420 1865440 (01) Mas fora isso, ela está toda economizando energia
+1865440 1867920 (01, 05) Algo de muito errado deu nessa nave, gente
+1867920 1869180 (05) Ela só está funcionando
+1869180 1870880 (05) Em suas funções básicas
+1870880 1873100 (05) Mas pelo menos tem oxigênio
+1873100 1875320 (02, 05) Eu entrando pelo compartimento de carga
+1875320 1877280 (02) Eu consigo habilitar
+1877280 1880200 (02) Para que agora a porta faça o procedimento normal
+1880200 1881240 (02) Para eles ficarem ali?
+1881660 1881940 (01) Não
+1881940 1885040 (01) Vocês teriam que religar os sistemas lá dentro da nave
+1885040 1885700 (01) Já que a nave está em um lugar que não é o seu lugar de vida
+1885700 1886540 (01) De alguma forma
+1886540 1887500 (01) Provavelmente manual
+1887500 1887920 (01) Certo
+1887920 1890100 (01, 08) Beleza, então é esperar eles checarem
+1890100 1891720 (01, 08) Ô mestre, deixa eu fazer a pergunta
+1891720 1895460 (08) Como eu sou piloto e entendo de nave em geral
+1895460 1896920 (08) Eu consigo imaginar qual a situação
+1896920 1898720 (08) Se faria a nave ficar nesse estado de
+1898720 1899580 (08) Como ela está agora?
+1899940 1903560 (01) Ela pode ter ficado sem combustível
+1903560 1906640 (01) O que provavelmente não é o caso
+1906640 1908900 (01) Ela está virada próximo do sol ali
+1908900 1911380 (01) Então ela deve ter as placas solares
+1911380 1913300 (01) As placas solares podiam ter quebrado
+1913300 1914720 (01) Mas tu viu que elas estão inteiras lá fora
+1914720 1915680 (01) Talvez algum problema
+1915700 1918020 (01) Algum problema no motor da nave
+1918020 1920660 (01) Talvez seja um problema elétrico
+1920660 1922760 (01) Tem várias coisas que podiam estar causando isso
+1922760 1925420 (01) Ou alguém deliberadamente
+1925420 1926980 (01) Colocou a nave nesse modo
+1926980 1929340 (01, 08) Ok, ficou em semente
+1929340 1930040 (08) Mas não falo nada
+1930040 1932120 (05) Bom, Zig, vamos resolver isso?
+1932460 1933860 (01, 02) Vamos, a porta já está aberta
+1945700 1949220 (unknown) Agora veja nosso próximo episódio
+1949220 1950180 (unknown) Espaços, dicas younger players
+1950180 1951060 (unknown) Escolas
+1951060 1952120 (unknown) Novas quests
+1952120 1953620 (unknown) Inspirações
+1953620 1954520 (unknown) Revisões
+1954520 1955600 (unknown) Colocas
+1955600 1957440 (unknown) F tir conectados
+1957440 1958300 (unknown) метodos
+1958300 1959640 (01) Utilizações
+1959640 1960740 (01) Momento de Ação
+1960740 1962240 (01) Falso
+1962240 1962960 (01) Desenvolvimento
+1962960 1963900 (01) Controle
+1963900 1965480 (01, 05) Mú прошлa
+1965480 1966920 (05) Tipos das tarefas
+1966920 1967700 (01) Pol bam
+1967700 1969020 (01) Bol gatinho
+1969020 1969500 (01) �iz
+1969500 1970300 (01) Objeto
+1970300 1971220 (01) Estreito
+1971220 1971880 (01) DIFIMAÇÃO
+1971880 1972720 (01) Portou
+1972720 1973520 (01) Seixas
+1973520 1974360 (01) Es Wonderful
+1974360 1974940 (01) ED
+1974940 1977040 (01) pra receber visitantes
+1977040 1978860 (01) então tem muitos quadros
+1978860 1981020 (01) pelas paredes, quadros assim
+1981020 1983120 (01) que remetem a muitas e muitos
+1983120 1984900 (01) anos atrás
+1984900 1986900 (01) com fazendinhas
+1986900 1988660 (01) com animais da fazenda
+1988660 1990680 (01) com gente sorrindo
+1990680 1992720 (01) gente plantando, gente usando
+1992720 1994240 (01) uns macacões engraçados
+1994240 1996860 (01) segurando algo que parece ser um garfo gigante
+1996860 1997760 (01) tá
+1997760 2000340 (01) a decoração toda é essa
+2000340 2002200 (01) tem alguns animais assim
+2002200 2004480 (01) de pelúcia gigante
+2004480 2006580 (01) que servem como puffs
+2006580 2007940 (01) pras pessoas sentarem
+2007940 2010040 (01) fora isso, não tem nada ali
+2010040 2012460 (01) mas cada um rola um dadinho
+2012460 2013740 (01, 08) é pra enxergar, mestre?
+2013980 2014380 (01) ouvi
+2014380 2016280 (01) a Mel tirou quanto?
+2016560 2018680 (01) a Mel ouviu
+2018680 2019920 (01) o Zig tirou quanto?
+2020200 2023200 (01) o Zig não ouviu
+2023200 2024640 (01) o Alex tirou quanto?
+2025840 2026720 (01) também não ouviu
+2026720 2030140 (01) novamente a Mel é a mais perceptiva do grupo
+2030140 2032760 (01) vocês tão ali olhando aquele lugar
+2032760 2034180 (01) ali bobo e tal
+2034180 2035380 (01) a Mel escuta
+2035380 2037300 (01) acima da cabeça dela
+2037300 2038660 (01) e quando ela olha
+2038660 2041480 (01) ela vê que são dutos de ventilação
+2041480 2043520 (01) alguma coisa passou correndo
+2043520 2045760 (01) por esse duto, acima de vocês
+2045760 2047780 (01, 05) há alguma coisa se movimentando
+2047780 2048760 (05) nos dutos, gente
+2048760 2050540 (05) vocês escutaram também?
+2051420 2053180 (01, 05) aqui em cima, olhem
+2053180 2054180 (01, 05, 06) eu olho
+2054180 2057360 (01) o que tenha passado ali foi pra longe
+2057360 2058900 (01) não tem nada ali que chame
+2058900 2060380 (01) a atenção de vocês
+2060380 2062080 (01) o duto ele tem
+2062080 2064080 (01) caberia, sei lá, um pequeno
+2064080 2064580 (01) animal
+2064580 2066620 (01) mas não caberia um ser humano
+2066620 2067160 (01) por exemplo
+2067160 2068560 (01, 09) e esse duto é feito de que?
+2069340 2071320 (01) de um metal bem leve
+2071320 2073220 (01, 05) bom, a gente não tem tempo a perder
+2073220 2074400 (05) eu quero
+2074400 2077200 (05) deixar a ricaça lá satisfeita
+2077200 2079840 (05) pra podemos, quem sabe, beber de novo
+2079840 2081800 (05) daquela bebida
+2081800 2082880 (05, 08) dificilmente
+2082880 2084100 (01, 05) é de coma da terra
+2084100 2087040 (01) quando tu faz isso, tu escuta barulho
+2087040 2088560 (01) tem uma porta ali
+2088560 2091000 (01) atrás dessa porta de alguma coisa caindo
+2091000 2093120 (01, 02) Zig, vá verificar
+2093120 2094120 (01, 02) vou olhar
+2094120 2095120 (01, 02) vou direto pra porta
+2095120 2096120 (02) e a porta tá aberta?
+2096120 2097120 (02) como é que ela tá?
+2097120 2098120 (02) tu tem que abrir ela com força
+2098120 2099120 (01, 02) mas é bem mais fácil que a porta lá fora
+2099120 2100120 (01) enrolar o dado
+2100120 2101120 (01, 02) tu só põe a mão e puxa
+2101120 2102120 (01) eu quero fazer uma abertura controlada, entendeu?
+2102120 2103120 (01) eu ia falar que eu vou com ele pra fazer a cobertura dele
+2103120 2104120 (01) isso, abrir ela bem pouco pra poder olhar o que tem dentro
+2104120 2105120 (01) beleza, a Mel vai ficar mais pra trás, é isso?
+2105120 2106120 (01, 02) sim, e eu tô com a minha pistolinha preparada se eventualmente precisar
+2106120 2107120 (01, 02) mas só estou com a mão nela, assim
+2107120 2108120 (02) o Mel, tu que ficou com a mão?
+2108120 2109120 (02) não, eu tô com a minha pistolinha preparada
+2109120 2110120 (02) o Mel, tu que ficou com a mão?
+2110120 2111120 (02) não, eu tô com a minha pistolinha preparada
+2111120 2112120 (02) não, eu tô com a minha pistolinha preparada se eventualmente precisar
+2112120 2113120 (02) eu quero fazer uma abertura controlada
+2113120 2114120 (01) beleza, a Mel vai ficar mais pra trás, é isso?
+2114120 2115120 (01) sim, e eu tô com a minha pistolinha preparada se eventualmente precisar
+2115120 2121580 (01, 05) mas só estou com a mão nela, assim
+2121580 2124540 (01) o Mel, tu que ficou mais pra trás?
+2124540 2127980 (01) de novo, algo passou correndo pelo duto em cima de ti
+2127980 2128980 (01) agora pro outro lado
+2128980 2133560 (01) Zig, ao abrir a porta um pouquinho pra espiar
+2133560 2136060 (01) tem uma pessoa do outro lado caída no chão
+2136060 2137560 (01, 02) ok, eu vou informar
+2137560 2139120 (02) há uma pessoa caída aqui
+2139120 2141040 (02) e vou terminar de abrir a porta
+2141040 2141120 (02) e o Mel vai querendo vir com a minha pistola para espiar
+2141120 2142660 (02) entrar, pra ver como é que essa pessoa tá.
+2142900 2145040 (05) Eu olho pra cima pra identificar
+2145040 2146240 (05) o barulho que tava
+2146240 2148980 (05) acima de mim e
+2148980 2151120 (05) vou entrar na
+2151120 2152180 (05) sala onde já está o Zig.
+2152600 2155200 (01) O que enxerga melhor por causa do olho,
+2155400 2156800 (01) Alex, rola dois dados.
+2158120 2158880 (01) Seis e cinco.
+2159020 2161120 (01) Ah, o teu olho te identifica
+2161120 2162940 (01) ali. É um ser humano, morto
+2162940 2164380 (01) já há algumas horas.
+2164860 2167360 (01) Ele tem muitos arranhões nas costas.
+2167900 2169320 (01) Ele tava usando uma camiseta
+2169320 2170920 (01) e essa camiseta, ela tá
+2170920 2173540 (01) com rasgos, assim, parecem
+2173540 2175140 (01) por lâmina, né?
+2175800 2176860 (01) Embora também tenha
+2176860 2179040 (01) algumas perfurações. É como se ele
+2179040 2180900 (01) tivesse muito cortado e
+2180900 2182880 (01) perfurado nas costas.
+2183040 2183820 (07) Puxei a arma na hora.
+2184580 2186340 (07, 02) Eu vou falar, mas não precisa
+2186340 2189000 (07, 02) puxar a arma, ele já tá morto. Mas o que matou
+2189000 2190980 (07, 05) ele parece que não. Bom, eu ouvi de novo
+2190980 2192920 (02, 05) barulho nos dutos. É só cortarmos a
+2192920 2195120 (02) ventilação. Se furar algo orgânico, vai morrer.
+2195300 2195660 (02) E desiste.
+2196260 2198680 (05) Bom, mas Zig, nós também somos orgânicos.
+2199320 2200560 (05) Desculpe avisá-lo.
+2201640 2202800 (05) Eu sei que você esquece.
+2202820 2204440 (02, 05) Mas vocês estão com o trágico. Sim.
+2204960 2206640 (02) Mas nós viemos buscar o homem. Ah, sim.
+2206940 2209080 (02) O rapaz, o rapaz, é verdade.
+2209340 2210420 (05) Sim, meu querido.
+2210680 2213040 (02) Vocês conferiram se ele não tem pulmões artificiais?
+2213300 2214940 (02, 05) Ele é milionário, talvez ele não precise
+2214940 2216860 (02, 05) mais respirar. Ele era brigado
+2216860 2218920 (01, 05) com a família. Nos registros da Mel
+2218920 2221000 (01) informa que ele tem um braço
+2221000 2222640 (01) mecânico, né?
+2223460 2225200 (01) Mas um pulmão,
+2225380 2227100 (01) não. E tu também
+2227100 2229200 (01) ao bater o olho nesse cadáver
+2229200 2230280 (01) que tá aí na tua frente,
+2230900 2233000 (01) um daqueles registros que tu recebeu aparece.
+2233620 2235060 (01) É um daqueles que a Melinda
+2235060 2236000 (01) chamou de hippies.
+2236660 2238980 (01) É um do pessoal que fazia manifestos
+2238980 2240760 (01) lá pelas pessoas, por
+2240760 2242200 (01) liberdade, essas coisas
+2242200 2245200 (01) que já não fazem muito sentido no mundo
+2245200 2246760 (01, 05) de hoje. Bom, esse
+2246760 2248960 (05) morto aqui, aparentemente,
+2249440 2250980 (05) é alguém da própria nave, não é
+2250980 2253040 (05) um invasor externo. Vamos atrás
+2253040 2254960 (02, 05) do Aeron. Vamos, talvez ainda tenha
+2254960 2257020 (02, 05) algum pedaço dele. Tem mais alguma coisa
+2257020 2259000 (01, 05) nessa sala? Essa sala ainda
+2259000 2260880 (01) parece ser uma área
+2260880 2263140 (01) de triagem, né? O pessoal chegava
+2263140 2265140 (01) naquela sala maior. Ali tem
+2265140 2267060 (01) alguns formulários, algumas mesas.
+2267840 2269020 (01) Provavelmente o pessoal
+2269020 2271160 (01) conversava pra saber o que cada
+2271160 2273000 (01) um sabia fazer melhor, pra poder ajudar ali
+2273000 2274540 (01) na comunidade e tal.
+2275460 2277060 (01) Vocês veem que ali também tem uma sala
+2277060 2279040 (01) de aula. Tá vazia
+2279040 2280900 (01) no momento, né? E daí
+2280900 2283220 (01) a próxima... Algumas outras
+2283220 2285400 (01) salas administrativas também estão vazias.
+2285940 2287060 (01) E daí um acesso
+2287060 2288020 (01) pro andar inferior.
+2288020 2288540 (01, 02) É.
+2289000 2291020 (02) O Zigg não vai prestar atenção nisso, mas
+2291020 2292500 (02) tem mancha de sangue na sala?
+2292820 2294980 (01) Ali onde tá o corpo tem algumas
+2294980 2296680 (01) manchas. É, assim,
+2296920 2299140 (01) tu não vai prestar atenção, no corpo
+2299140 2300040 (01) tem mancha de sangue.
+2300660 2303280 (02) É, sim. É só porque eu perguntei pra contextualizar
+2303280 2304960 (02) os jogadores que já que eles tiveram
+2304960 2306980 (01, 00, 02) sucesso no bolo, é só por isso. É porque o
+2306980 2308480 (01, 02) Zigg não vai prestar atenção porque
+2308480 2310920 (02) pra ele, ele tem um certo desprezo
+2310920 2312840 (02, 05) por humanos. Seja o que foi que atingiu
+2312840 2314740 (05) esse ser humano,
+2315140 2317120 (05) ainda tá solto por aqui. Vamos rápido
+2317120 2318960 (05) antes que o Aeron...
+2319000 2321220 (05) faleça e a nossa missão também
+2321220 2322700 (05) não prospere.
+2323040 2324900 (02) Sim, nós temos que conseguir, né? É o meu
+2324900 2325960 (02) passaporte para
+2325960 2329100 (02, 05) a cidadania. Ameu, dá uma respirada
+2329100 2329460 (05) fundo.
+2333020 2333960 (01) Vocês vão descer
+2333960 2334960 (01) pro andar inferior?
+2335220 2337280 (08) Antes disso, eu queria chegar perto do corpo
+2337280 2339640 (08) e dar uma olhada nele mais minuciosa, assim.
+2340080 2340940 (01, 08) Se eu consigo algo...
+2340940 2342820 (01, 08) Não, o que que tu tá procurando especificamente?
+2343180 2345280 (08) É, então, porque é...
+2345280 2347300 (08) Tipo, se você pegar uma faca e enfiar alguém
+2347300 2348920 (08) e você pegar uma garra e cortar alguém,
+2348920 2349940 (08) são coisas diferentes, né?
+2350720 2352420 (08) Cortes de tipo diferente, então eu queria...
+2352420 2354840 (01) Parece ser o corte de algum tipo de arma
+2354840 2357060 (01) natural. Não parece ser uma faca.
+2357720 2358920 (08) Ah, sim, certo. Eu queria saber isso.
+2359260 2361000 (01) Ah, não há registro de
+2361000 2362640 (01) aliens, tá? Por mais que vocês
+2362640 2364860 (01) já estejam... O ser humano já esteja
+2364860 2365880 (01) no espaço há muito tempo.
+2366540 2368120 (01) Caso isso passe pela cabeça de vocês.
+2368420 2370740 (08) É, então, no meu caso,
+2370780 2372940 (08) eu tô pensando em algum animal, porque pra mim também é um alien,
+2373000 2374520 (01, 08) porque eu nunca vi um animal. Ah, sim.
+2374700 2375180 (01) É verdade.
+2375180 2377140 (01, 05) Bom, precisamos buscar
+2377140 2378380 (05) alojamentos, não sei.
+2378920 2381000 (05) Pela imagem da Melinda, a gente consegue
+2381000 2383140 (05) identificar, comparando com a
+2383140 2385060 (05) nave, o tipo de fundo
+2385060 2386760 (05) agora que a gente, né,
+2386820 2389000 (05) aquele holograma que
+2389000 2390640 (05) apareceu o primo dela.
+2391060 2393100 (05) Nós conseguimos comparar com pedaços da nave
+2393100 2395000 (05) agora, sabendo da
+2395000 2396520 (05) estrutura dela um pouco melhor?
+2397360 2398560 (05) Pra ter alguma noção?
+2398820 2399580 (01) Rola dois dados.
+2400980 2402320 (05) Nossa, um e um.
+2402320 2404160 (01, 05) É, assim,
+2404240 2406420 (01) tu só falharia com um, tu tirou dois uns.
+2407000 2408360 (01) Tu não faz ideia
+2408360 2409340 (01) de onde pode ser.
+2409340 2410740 (01, 08) É, Mel, você não consegue
+2410740 2412260 (08) entrar nas câmeras
+2412260 2414740 (01, 08) e aqui olhar? Estão desligadas.
+2415240 2416380 (01) Tá só no modo emergência.
+2416840 2419520 (02) Vamos seguir para a sala principal,
+2419740 2421420 (02) a sala de comando. Provavelmente é o lugar
+2421420 2423320 (02) mais seguro. Eu acho que vocês
+2423320 2424400 (02) ainda sabem usar lógica.
+2424860 2426600 (02) Seres humanos usam lógica sempre.
+2427000 2427940 (02) O bobo é folgado, hein, tio?
+2428400 2430520 (05) Nem sempre, né, Zig? Você sabe disso.
+2430800 2433420 (02) É verdade. Você se aproveita muito dessa falha de lógica
+2433420 2433800 (02) deles.
+2435100 2437520 (02) Você é minha mãe e eles acham que eu sou a criança.
+2437520 2438200 (02) Não.
+2438200 2441040 (02, 05) Só não fale assim na frente de estranhos.
+2442040 2443960 (05) E ela dá uma risadinha constrangida.
+2444280 2445320 (05, 08) Eu olhando pra eles assim.
+2448020 2448320 (05) Bom,
+2449440 2451560 (05) realmente, meu filho tem razão.
+2452100 2453780 (05) Acho que a sala de comando
+2453780 2455820 (05) parece um bom caminho.
+2456380 2457440 (05) Um bom ponto de partida.
+2457860 2458560 (05) Vamos procurá-la?
+2458860 2461180 (01, 02, 05, 08) Ok, eu vou na frente onde a Mel mandou eu ir.
+2461340 2463840 (01) Tem uma escada e tem um elevador.
+2464260 2464620 (08) Escada?
+2464620 2466440 (05, 08) A escada não está funcionando.
+2467360 2468040 (05) Apesar de,
+2468040 2470700 (05) de gostar de coisas eletrônicas,
+2470700 2473280 (05) acredito que o método tradicional
+2473280 2474280 (05) será mais efetivo.
+2474280 2477080 (02) Se a escada for descansar, eu posso te carregar, Mel.
+2477080 2478380 (05) Bom, tudo bem.
+2478380 2479960 (05) Vou atrás de você, então.
+2479960 2480920 (05) E ela se pendura.
+2480920 2482540 (08) A chave de fenda burrante é útil, né?
+2483920 2485420 (05) Alex, não fale assim com ele.
+2485420 2487800 (05) Ele, às vezes, fica temperamental.
+2488620 2490000 (05) Por mais estranho que possa parecer.
+2490000 2493920 (02) Eu vou mandar uma comunicação pro chip dela.
+2493920 2496420 (02) Eu preciso salvá-la em caso de emergência.
+2496420 2497920 (05) A resposta vai ser humana.
+2497920 2498920 (07, 05) Depende.
+2500920 2502920 (01, 07) Veio os caras mandando DM, velho.
+2503920 2505920 (01) Vocês chegam até o final da escada, né?
+2505920 2508920 (01) A porta ali, ela tá aberta.
+2508920 2512420 (01) Caído ali na escada, tem mais um corpo, agora, de uma mulher.
+2512420 2513920 (01, 05) Ela tá no meu arquivo?
+2513920 2517920 (01) Tá. Essa é a Belo, a que fez eu largar tudo.
+2517920 2521920 (05) Alex, nós aqui de cima não conseguimos encostar muito bem nela, né?
+2521920 2522920 (05) Aqui do alto.
+2522920 2525920 (05, 08) Será que você consegue ver o estado dessa menina?
+2525920 2526920 (08) É, eu vou tentar, Mestre.
+2526920 2527920 (01) É a mesma coisa que...
+2527920 2528920 (01) Que o outro.
+2528920 2537920 (01) Pelas costas, muitos cortes que parecem ser garras, talvez, além de algumas perfurações.
+2537920 2540920 (01, 08) É, eu só olho pra Mel e balanço a cabeça, assim, negativamente.
+2540920 2546920 (01) Todos os três escutam, no duto de ventilação, pelo menos três coisas passando, correndo, assim.
+2547920 2550920 (02, 08) Eu vou girar meu tronco, passar a Mel pra minha frente.
+2550920 2552920 (05) Mas, se paramos de descer as escadas...
+2552920 2554920 (05, 08) Por favor, Ziggy, me solte um pouquinho.
+2554920 2555920 (08) Ô, Mestre.
+2555920 2558920 (08) Eu consigo ver aonde que ficam as saídas do duto de ar?
+2558920 2563920 (01, 08) Ele tem várias saídas em vários pontos, que é por onde o ar é trocado, né?
+2563920 2568920 (01, 08) Essa saída aqui tem uma espécie de ventiladorzinho que faz essa troca.
+2568920 2571920 (08) Não, então, é só pra eu ficar ligeiro quando for passar na frente de uma ou passar atento, sabe?
+2571920 2572920 (01, 08) Tá.
+2572920 2577920 (02, 08) Alex, meus circuitos parecem indicar um padrão...
+2577920 2581920 (02) Meus circuitos de combate parecem indicar um padrão de que eles são atacados pelas postes.
+2581920 2583920 (02) Vá na frente, por favor.
+2583920 2584920 (02) Eu vou por último.
+2584920 2586920 (02) Não faz diferença se você é atacado pelas postes.
+2586920 2588920 (02, 05) Eu tenho uma sugestão.
+2588920 2591920 (05) A gente consegue controlar a luminosidade do lugar, certo?
+2591920 2592920 (01, 05) Certo.
+2592920 2593920 (01) A gente não.
+2593920 2594920 (01, 05) Você.
+2594920 2595920 (05) Tá.
+2595920 2598920 (05) Alex, você tem uma visão superior, correto?
+2598920 2600920 (05, 08) Eu consigo ver no escuro, sim ou não, Mestre?
+2600920 2601920 (08) Sim, pode ver no escuro.
+2601920 2602920 (08) Sim, eu tenho.
+2602920 2607920 (05) O que vocês acham de deixarmos tudo no escuro e o Alex ser os nossos olhos?
+2607920 2609920 (05) Pelo menos em ambientes grandes.
+2609920 2612920 (02, 05) E se essas coisas também vêm no escuro?
+2612920 2614920 (02) Você ficaria em desvantagem.
+2614920 2615920 (02) E eu também.
+2615920 2617920 (02) Minhas câmeras não vão pegar nada se estiver tudo escuro.
+2617920 2619920 (02, 05) O que você acha, Alex?
+2619920 2620920 (02, 05) Você que sabe.
+2620920 2622920 (02, 05) Bom, seja o que for, está andando nos dutos.
+2622920 2624920 (02) Sinal que enxerga no escuro.
+2624920 2627920 (02) A gente ficar no escuro, a gente ficar vulnerável.
+2627920 2629920 (02) Se os bichos andam no escuro, eles enxergam, gente.
+2629920 2630920 (02, 05) E agora?
+2630920 2633920 (05) Vamos continuar no claro por mais um...
+2633920 2635920 (05) Por mais um trecho.
+2635920 2637920 (05) Depois testamos essa escuridão.
+2637920 2639920 (05, 08) O Intel Insight aí não veio no escuro, né?
+2639920 2641920 (02, 08) Eu não entendi o que você falou.
+2641920 2643920 (02) Isso foi algum tipo de tentativa de piada?
+2643920 2645920 (02) Mas...
+2645920 2647920 (02) Meus olhos não são preparados para enxergar no escuro.
+2647920 2649920 (02) Eu sou um robô de segurança.
+2649920 2650920 (02) As áreas estão iluminadas.
+2650920 2652920 (02) Não preciso enxergar no escuro.
+2652920 2655920 (02) Mas eu tenho uma luz maneirinha, você quer ver como funciona?
+2655920 2657920 (02) Não, obrigado.
+2657920 2659920 (01) Vocês estão parados ali no...
+2659920 2662920 (01) Na porta que vai para a próxima área.
+2662920 2663920 (01) E aí, vocês vão entrar?
+2663920 2665920 (01, 02) Eu vou resolver ficar por último.
+2665920 2669920 (01, 02, 08) Eu percebi que esses bichos atacam pelas costas, então eu não vou deixar que eles enxergarem pelas costas.
+2669920 2672920 (08) É, eu vou na frente porque como eu tenho a visão e reflexo apurado,
+2672920 2674920 (08) se ele me atacar eu consigo...
+2674920 2676920 (01, 08) E a Mel no meio.
+2676920 2680920 (05, 08) Bom, se o Alex vai entrar, a gente vai estar entrando em um novo ambiente, certo?
+2680920 2681920 (01, 05) É.
+2681920 2683920 (05) Tá, então eu vou testar nesse ambiente.
+2683920 2685920 (05) Perdão, meu robô. Perdão, Alex.
+2685920 2687920 (05) Eu vou testar, deixar a sala escura.
+2687920 2690920 (05) Só para ver o que o Alex, já que ele vai ser o primeiro a entrar,
+2690920 2692920 (05) se vai mudar alguma coisa ou não.
+2692920 2694920 (01, 05, 06) Para o Alex, que vai deixar a escuridão.
+2696920 2697920 (01) Tu entra ali naquela sala.
+2697920 2700920 (01) Tu chama atenção, essa sala é uma sala bem ampla.
+2700920 2701920 (01) É...
+2701920 2704920 (01) Algumas paredes foram derrubadas ou removidas,
+2704920 2706920 (01) para ficar uma sala ainda maior.
+2706920 2709920 (01) Ela tem várias bancadas, em cima dessas bancadas
+2709920 2712920 (01) cresce uma planta que parece uma gramínea,
+2712920 2715920 (01) tem vários, descem várias mesas,
+2715920 2718920 (01) e à tua direita,
+2718920 2720920 (01) tu nota que tem um elevador,
+2720920 2722920 (01) ele está aberto,
+2722920 2727920 (01) e tem uma pessoa caída, se tu ver só as pernas dela, para fora do elevador.
+2727920 2728920 (08) E apagou a luz, né?
+2728920 2730920 (01, 08) É, tu está enxergando porque tu está enxergando escuro, né?
+2730920 2732920 (01, 08) É, atenção, apagou a luz, não sei o que houve.
+2732920 2735920 (05, 08) Alex, tem algum perigo à sua frente?
+2735920 2737920 (08) É, eu estou vendo uma planta estranha de um lado,
+2737920 2740920 (08) e tem um corpo caído ali, dentro do elevador.
+2740920 2743920 (05) Bom, então, novamente não há nada aqui.
+2743920 2745920 (05) Vou acender a luz de novo.
+2746920 2748920 (05) Deixa no claro.
+2749920 2750920 (05) Vamos adiante na escada.
+2750920 2754920 (05) Precisamos achar a sala de controle e este bendito...
+2754920 2756920 (05) Este bendito Ricasso.
+2756920 2758920 (05, 08) Ou parente de Ricasso, o Seip.
+2758920 2760920 (08) É, o mestre, vou passar de olho naquele elevador ali, viu?
+2760920 2763920 (01, 08) Tu vê que dentro do elevador tem mais um monte de gente.
+2763920 2764920 (01) Um monte.
+2764920 2766920 (01) Um amontoado no outro ali.
+2766920 2768920 (05, 08) Eu aponto, assim.
+2768920 2770920 (05) Todas com a mesma característica?
+2770920 2771920 (01, 05) De morte?
+2771920 2773920 (01) Alguns estão arranhados no rosto,
+2773920 2777920 (01) tem um deles que foi frontal, foi no peito,
+2777920 2782920 (01) mas sempre arranhados, e cortes, né, e perfurações.
+2782920 2786920 (01) Parece que eles tentaram correr todos ao mesmo tempo pro elevador.
+2786920 2790920 (01) O peso do elevador, ele acabou não seguindo,
+2790920 2794920 (01) e eles foram encurralados lá dentro e mortos.
+2794920 2795920 (08) O que é que eles fizeram?
+2795920 2797920 (01, 08) Tu identifica as pessoas ali,
+2797920 2800920 (01) todas constam naquele arquivo que tu recebeu,
+2800920 2801920 (01) mas nenhum deles é o Aaron.
+2801920 2805920 (01, 02) Algum deles parece ter sido arrastado pra Gui,
+2805920 2808920 (02) ou eles morreram exatamente onde foram atacados,
+2808920 2809920 (02) ou foi pelo diferente?
+2809920 2810920 (01, 02) Rola dois dados.
+2810920 2812920 (01) Tira um 5 ou um 6 em um deles.
+2812920 2817920 (01) Não, dois e quatro.
+2817920 2818920 (01, 05) Tu não faz ideia.
+2818920 2822920 (05) Naquelas plantas, nas plantinhas ali ao redor,
+2822920 2825920 (05) a gente consegue perceber alguma coisa estranha,
+2825920 2828920 (05) conectar algum cheiro que a gente sentiu esquisito
+2828920 2831920 (05) na sala da Melinda ou algo do tipo?
+2831920 2833920 (01) Rola dois dados.
+2833920 2835920 (01, 05) Três e cinco.
+2835920 2838920 (01) Como eu falei, vocês não tiveram muito contato com planta,
+2838920 2840920 (01) mas vocês têm um banco de dados,
+2840920 2842920 (01) e teu banco de dados atualmente está atualizado.
+2842920 2844920 (01) Com plantas do mundo inteiro,
+2844920 2848920 (01) graças ao que tu baixou lá na Amazon.
+2848920 2852920 (01) Essa planta parece ter sido alterada geneticamente.
+2852920 2856920 (01) Ela não parece com nada que tu tenha registro.
+2856920 2859920 (01) As folhas são muito uniformes entre si,
+2859920 2863920 (01) o que demonstra que não é algo totalmente natural.
+2863920 2867920 (01) Parece um tipo de planta criado por aquele pessoal ali,
+2867920 2870920 (01) seja pra consumo ou o que eles fazem com isso.
+2870920 2872920 (01, 05) Parece só coisa de hippie.
+2872920 2874920 (05) Então, vamos adiante.
+2874920 2876920 (05) Alex?
+2876920 2877920 (08) Vamos.
+2877920 2880920 (01, 08) Eu tô um pouco chocado com o que eu tô vendo.
+2880920 2881920 (01, 05) O que vocês vão fazer?
+2881920 2883920 (05) Eu vou pegar um pouquinho dessa planta e vou botar no bolso.
+2883920 2884920 (05) Só pra garantir.
+2884920 2885920 (05) Tá.
+2885920 2888920 (01, 05) Arrancar e botar no bolsinho do short, assim.
+2888920 2890920 (01, 05) Aliás, eu tô com uma roupa espacial, né?
+2890920 2892920 (05, 08) Eu tô preocupado com os dutos de ventilação.
+2892920 2894920 (08) Vou ficar de olho em eles.
+2894920 2895920 (08) Ô, mestre.
+2895920 2897920 (08) Esse local que a gente tá parece ser o quê?
+2897920 2899920 (01, 08) Que tipo de ambiente?
+2899920 2901920 (01) Parece ser onde é produzido essa...
+2901920 2904920 (01) Essa vegetação ali, né?
+2904920 2909920 (01, 08) Era uma área de carga e foi adaptada pra isso aí.
+2909920 2911920 (01, 08) Ah, entendi. Ok.
+2911920 2912920 (08) Uma estufa, né?
+2912920 2913920 (01, 08) É, algo assim.
+2913920 2914920 (01) Similar.
+2914920 2919920 (01) Uma tecnologia mais primitiva daquela que vocês viram lá embaixo quando foram contratados.
+2919920 2920920 (01, 08) E vamos seguir.
+2920920 2922920 (01, 08) Vocês começam a andar ali.
+2922920 2925920 (01) Como eu falei, essas gramíneas estão sobre mesas, né?
+2925920 2927920 (01) Elas não estão diretamente no chão.
+2927920 2930920 (01) Tem várias mesas, assim, enfileiradas com essas plantas ali em cima.
+2930920 2936920 (01) Quando vocês escutam, assim, o farfalhar ali das folhas, né?
+2936920 2940920 (01) Tem alguma coisa correndo, assim, por essas gramíneas.
+2940920 2941920 (02) Eu consigo ver o quê?
+2941920 2947920 (02) Eu quero colocar o laser em uma temperatura pra cortar essas gramas.
+2947920 2949920 (01) Tá, mas tu não vai ativar ainda.
+2949920 2950920 (01, 02) Só vai deixar pronto.
+2950920 2951920 (01, 02) Isso.
+2951920 2952920 (01, 05) E a Mel?
+2952920 2953920 (05) A Mel, ela vai...
+2953920 2957920 (05) Tá, ouvindo o barulho na grama, ela só vai observar também, por enquanto.
+2957920 2959920 (05) Botar a mão na arma e observar.
+2959920 2963920 (01, 05) O Alex rola dois dados, a Mel e o Zig rolam um dado.
+2963920 2966920 (01) Porque o Alex tem bônus para ver.
+2966920 2967920 (01) Olha aí.
+2967920 2969920 (01) Vou deixar ele até por último.
+2969920 2971920 (01) A Mel tirou quanto?
+2971920 2972920 (01) A Mel tirou quatro.
+2972920 2973920 (01) A Mel viu.
+2973920 2974920 (01) O Zig tirou quanto?
+2974920 2975920 (01) Cinco.
+2975920 2977920 (01) Cinco é um acerto crítico.
+2978920 2979920 (01) O Alex tirou quanto?
+2979920 2980920 (01, 08) Quatro e seis.
+2980920 2982920 (08) Sendo quatro o meu atributo.
+2982920 2984920 (01) Temos a Mel sendo bem sucedida.
+2984920 2987920 (01) O Zig sendo muito bem sucedido.
+2987920 2991920 (01) E o Alex sendo super ultra bem sucedido.
+2991920 2996920 (01) Vocês notam alguma coisa correndo ali por aquelas graminhas?
+2996920 2998920 (01) De repente essa coisa para.
+2998920 3000920 (01) Ela levanta, assim, a cabeça.
+3000920 3002920 (01) Ela começa a...
+3002920 3006920 (01) Ela faz movimentos rápidos com a cabeça de um lado pro outro.
+3006920 3007920 (01) Ela...
+3007920 3010920 (01) Um dos olhos, assim, olha pra vocês.
+3010920 3012920 (01) E ela faz.
+3012920 3014920 (01) A Mel, principalmente, que tem os animaizinhos que a gente já viu.
+3014920 3015920 (01) A Mel, principalmente, que tem os animaizinhos que a gente já viu.
+3015920 3018920 (01) A Mel, principalmente, que tem os animaizinhos registrados.
+3018920 3019920 (01, 05) É uma galinha.
+3019920 3020920 (05) Perfeito.
+3020920 3022920 (05) Eu vou cochichar pro Zig.
+3022920 3023920 (05) Pegue-a.
+3023920 3024920 (01, 00, 05, 06) Ok.
+3024920 3025920 (05) Devagar.
+3025920 3026920 (05) Pegue-mó esse.
+3026920 3027920 (05) A Mel vai falar baixinho.
+3027920 3028920 (05) Alex.
+3028920 3031920 (02, 05) Isso é uma tal de galinha.
+3031920 3035920 (01, 02, 05) Eu vou fazer uma das missões mais difíceis em um RPG, que é tentar pegar uma galinha.
+3035920 3036920 (01) Rola dois dados.
+3037920 3038920 (01) Um e quatro.
+3038920 3039920 (01) É...
+3039920 3041920 (01) Tu tinha tirado um acerto crítico antes.
+3041920 3042920 (01) Tu começou a te aproximar.
+3042920 3044920 (01) O Alex também se tocou disso.
+3044920 3046920 (01) Porque também tirou um acerto crítico, né?
+3046920 3049920 (01) Ao que vocês relaxaram e foram se aproximar da galinha.
+3049920 3053920 (01) Tanto o Zig quanto o Alex olham pro bico dela.
+3053920 3055920 (01) Perfurações.
+3055920 3058920 (01) Olham pras patinhas dela.
+3058920 3059920 (01) Tem garras ali.
+3059920 3062920 (01) E essa galinha pula pra cima do Zig.
+3062920 3063920 (01) Zig.
+3063920 3064920 (01) Tu segurou ela no ar.
+3064920 3067920 (01) E ela tá se debatendo e te bicando.
+3067920 3072920 (01) Parece que o bico dela tá ligeiramente mais fino.
+3072920 3074920 (01) As garras dela parecem um pouco mais finas.
+3074920 3075920 (01) Um pouco mais compridas.
+3075920 3077920 (01) Ela tá ali cacarejando.
+3077920 3079920 (01) E tentando te matar.
+3079920 3082920 (01, 10) Como eu não sei o que que é, eu vou ficar balançando de um lado pro outro.
+3082920 3083920 (10) E tentando manter ela longe.
+3083920 3085920 (10) E você sabe o que acontece, né?
+3085920 3088920 (01, 10) É, por enquanto tu tá mantendo ela afastada dos outros.
+3088920 3089920 (10) Sim, sim.
+3089920 3092920 (10) Só que se você balança uma galinha no ar, você quebra o pescoço dela.
+3092920 3093920 (01, 10) Ah, tá.
+3093920 3095920 (01, 10) Isso não vai impedi-la de continuar se mexendo.
+3095920 3097920 (01, 06, 10) Não que ela seja um zumbi, gente.
+3097920 3099920 (01) Toda galinha, querido ouvinte...
+3099920 3101920 (01, 06, 10) Quebrar o pescoço não resolve.
+3101920 3102920 (01) Sim, sim.
+3102920 3103920 (10) Eu sei que eu vou matar ela sem querer.
+3104920 3105920 (05, 10) Fala.
+3105920 3108920 (05) Tente deixar esse animal parado e fixo, por favor.
+3108920 3109920 (02, 05) Tudo bem.
+3109920 3111920 (02) Vou segurar com a outra mão.
+3111920 3112920 (02) Ela...
+3112920 3113920 (02, 05) É, né?
+3113920 3117920 (05) Eu quero tentar observar se ela tem alguma parte que não seja orgânica.
+3117920 3118920 (01, 05) Não.
+3118920 3120920 (01) Parece uma galinha normal.
+3120920 3122920 (01) Um pouco mais forte.
+3122920 3124920 (01) Um pouco maiorzinha que o normal.
+3124920 3128920 (01) Tu vê que pelo tamanho dela, ela caberia facilmente em dutos de ventilação, por exemplo.
+3128920 3132920 (01) E enquanto tu tá ali olhando, o Alex...
+3132920 3134920 (01) Que além do acerto crítico tinha um acerto...
+3134920 3135920 (01) Do normal.
+3135920 3138920 (01) Ele se toca que a maioria dos ataques foi por trás.
+3138920 3140920 (01) Ele dá aquela olhadinha pra trás.
+3140920 3144920 (01) E tem uma galinha correndo ali pela grama pra pular em cima dele.
+3144920 3146920 (01, 08) O que tu vai fazer, Alex?
+3146920 3147920 (08) Tiro.
+3147920 3148920 (08) Tiro.
+3148920 3149920 (01, 08) Tô com a minha pistola.
+3149920 3150920 (01) Vou atirar nela.
+3150920 3151920 (08) Dois dados.
+3151920 3152920 (01, 08) Dois e quatro.
+3152920 3153920 (01) Dois acertos simples.
+3153920 3154920 (01) Quatro acertos críticos.
+3155920 3158920 (01) O teu atiro acerta em cheio a galinha atravessando ela.
+3158920 3161920 (01) E ela cai sem se mexer mais.
+3161920 3162920 (01) Os outros veem isso.
+3162920 3163920 (01, 05) É, eu vou...
+3163920 3164920 (01, 05) Eu vou dizer o seguinte.
+3164920 3166920 (05) Ziggy, antes de você matar esse bicho...
+3166920 3170920 (05) Eu quero apagar a luz e ver se ela vai reagir à iluminação.
+3170920 3172920 (05) Pra ver se ela consegue enxergar no escuro ou não.
+3172920 3173920 (02, 05) Desculpe, perdão.
+3173920 3175920 (02) Eu sei que eu não posso te contrariar.
+3175920 3177920 (02) Mas parece que a gente tá sob ataque.
+3177920 3179920 (02, 05) É melhor a gente procurar um lugar seguro.
+3179920 3181920 (05) No quesito segurança, você está sempre certo.
+3181920 3182920 (05) Perfeito, então.
+3182920 3184920 (05) Leve esses Empire vivos, se possível.
+3184920 3185920 (02, 05) Ok.
+3185920 3187920 (02) Eu vou ficar segurando ela com a mão.
+3187920 3190920 (02) E vou regular o laser pra queimar a grama toda.
+3190920 3192920 (02) Pra que ele fique numa temperatura...
+3192920 3194920 (02) Que quando eu passe na grama queime.
+3194920 3196920 (02) Sabe, tipo um sol forte.
+3196920 3199920 (01) O escuro não parece afetar diretamente ela.
+3199920 3200920 (01) Tu conhece pelos teus registros.
+3200920 3202920 (01) Uma galinha normal não é...
+3202920 3205920 (01) Não possui um olfato muito desenvolvido.
+3205920 3209920 (01) Então tu acha que o escuro pode enganá-las, talvez.
+3209920 3210920 (01, 05) Ziggy, prepare-se.
+3210920 3211920 (05) Pode se livrar.
+3211920 3212920 (02, 05) Sim.
+3212920 3214920 (02) Eu vou arrancar a cabeça dela.
+3214920 3216920 (02) Porque eu não sei o que ela está escondendo, né?
+3216920 3217920 (02) Vou arrancar a cabeça dela.
+3217920 3219920 (02) E quero queimar uma área em volta.
+3219920 3221920 (02) Mas não queimar de pegar fogo.
+3221920 3223920 (02) Aquele queimar que você tem lá.
+3223920 3225920 (02) A grama fica toda tortinha.
+3225920 3227920 (02) Em volta da gente, pra abrir tipo uma clareira.
+3227920 3231920 (01, 02) É porque, na verdade, todas as gramas estão em cima de mesas, né?
+3231920 3232920 (01) Você consegue passar pelo lado.
+3232920 3234920 (01, 02) Pode só virar as mesas também.
+3234920 3236920 (02) Ah, é pros bichos não se mexerem, é.
+3236920 3239920 (02) Então é só derrubar as mesas pra não terem onde se esconder.
+3241920 3242920 (01, 05) E aí?
+3242920 3244920 (05) Eu quero reparar nos...
+3244920 3246920 (05) Essa galinha, ela tem perfurações.
+3246920 3247920 (05) Perto.
+3247920 3248920 (05) Foi comentado.
+3248920 3249920 (01, 02, 05) A galinha não.
+3249920 3250920 (01, 02, 05) Não, a galinha tem...
+3250920 3253920 (01, 02) A galinha tem garras que causam perfurações.
+3253920 3254920 (01, 02) Não, tem o bico.
+3254920 3257920 (01, 02, 05) A garra corta e o bico perfura.
+3257920 3258920 (01, 05) Ah, tá, beleza.
+3258920 3262920 (01, 05, 06) Agora, pensando nos cortes, parece que ela ciscou nas costas de todas aquelas pessoas.
+3262920 3263920 (05) Ok.
+3263920 3267920 (05) E nos registros, ela é exatamente como um animal catalogado?
+3267920 3270920 (05) Ou eu consigo perceber que ela tem diferenciações?
+3270920 3274920 (01, 05) Rola dois dados pra cruzar várias informações que tu tem no teu banco de dados aí.
+3275920 3277920 (01) Três e quatro.
+3277920 3279920 (01) Ela tá um pouco diferente, talvez.
+3279920 3281920 (01) Ela parece um pouco maior e tal.
+3281920 3290920 (01) Tu junta isso com informações das plantas alteradas, tu consegue registros de doenças em animais.
+3290920 3302920 (01) Tu acha que talvez essa planta alterada aí causou uma alteração genética nos filhotes e criou essa galinha agressiva carnívora, talvez.
+3302920 3304920 (01, 08) O Alex tá em choque.
+3304920 3307920 (08) Ele tá vendo um bicho que ele não conhece, que ele nunca viu na vida.
+3307920 3308920 (08) Acabou de matar uma galera e foi atacar.
+3308920 3311920 (08) O Alex tá olhando pra tudo quanto é lado assim, procurando ver se tem mais.
+3311920 3314920 (02, 08) Precisamos cumprir nossa missão, ver se o Aron está vivo.
+3314920 3316920 (05, 02, 08) Exatamente.
+3316920 3319920 (05) Há corpos aqui e há bichos esquisitíssimos.
+3319920 3321920 (05) Hippies são sempre assim.
+3321920 3323920 (05, 08) É o quê? Galinha?
+3323920 3326920 (05) É isso. No registro diz que é galinha.
+3326920 3332920 (02, 05) Aparentemente eles são territorialistas, mas não comem muito, porque senão não teriam tantos corpos assim.
+3332920 3334920 (02, 08) É, eles apenas matam pessoas.
+3334920 3337920 (05) E ao menos eles não enxergam no escuro, então eu acho que...
+3337920 3339920 (02, 05) Deve ser um protocolo de proteção.
+3339920 3341920 (02, 05) Você aceita ser nossos olhos?
+3341920 3342920 (05) Vamos, né?
+3343920 3347920 (05) Tá tudo escuro então. A gente vai andar no escuro.
+3347920 3351920 (07, 02, 05) Andar não, eu vou segurar você, você vai comigo do meu lado.
+3351920 3354920 (07) Ok, meu filho. Combinado.
+3354920 3355920 (07) Então é isso, eu vou na frente, mestre.
+3355920 3358920 (07, 05) Tem escada, tem outras salas...
+3358920 3365920 (01, 05) Chama a atenção de vocês, tem uma porta dupla no final dessa sala maior.
+3365920 3367920 (01, 08) Vou na direção dela com a arma na mão.
+3367920 3369920 (08) Aqui na frente tem uma porta dupla.
+3369920 3374920 (01, 02, 08) A minha preocupação tá toda em proteger a Mel. Eu tô muito preocupado com essa coisa de não poder enxergar tudo direito.
+3374920 3379920 (01, 02) Tu sente em alguns momentos tu esbarrando em mesas, derrubando, mas não te afeta em nada, né?
+3379920 3381920 (01) Mas nada tá acertando a Mel.
+3381920 3384920 (01, 08) É, então eu... Eu falo assim.
+3384920 3387920 (08) Robô, abre a porta que eu olho lá dentro.
+3387920 3388920 (02) Você não me dá ordens?
+3388920 3389920 (02, 08) Por favor.
+3389920 3392920 (01, 02) Muito melhor assim. Aí eu vou dar um bico na porta.
+3392920 3393920 (01) Tu deu um bico na porta?
+3393920 3394920 (01, 02) É.
+3394920 3395920 (01) Tá bom.
+3395920 3397920 (01) Tu dá uma maçã na porta ali.
+3397920 3400920 (01) Rola dois dados. Vamos ver se tu derruba essa porta.
+3401920 3403920 (01, 10) Cinco, um sucesso crítico e três.
+3403920 3406920 (01, 10) Querido ouvinte, temos um acerto crítico e um acerto simples.
+3406920 3410920 (01) 99% das vezes eu diria pra vocês que isso é uma coisa boa.
+3413920 3416920 (01) A porta dupla, ela abre pro lado.
+3416920 3421920 (01) Mesmo assim, tu deu um chute que arrebentou a porta, né?
+3421920 3424920 (01) Fez ela cair fazendo um barulho gigantesco de metal.
+3425920 3428920 (01) O Alex olha pra dentro daquela sala.
+3428920 3432920 (01) Ela tem vários nichos assim.
+3432920 3437920 (01) Daquele mato que vocês viram antes, só que mais ressecado.
+3437920 3444920 (01, 06) Tu vê pelo menos umas cem galinhas que estavam dormindinhas e bonitinhas em seus ninhos ali.
+3444920 3447920 (01) Até que com o barulho todas elas acordam.
+3447920 3451920 (01) E elas começam a correr em direção ao barulho.
+3451920 3453920 (01, 08, 06) Alex, tá escuro.
+3453920 3457920 (08) Tem mais ou menos umas cem galinhas vindo pra cá. Fica quieto.
+3457920 3458920 (01, 08) Qual é a tua ação, Mel?
+3458920 3459920 (01) Elas estão correndo.
+3459920 3462920 (01) É assim, o bom... Elas vão esbarrar na parede.
+3462920 3469920 (01) Mas as que não esbarrarem, tá bem tranquilo porque tem uma única saída que dá de frente ao zig que tem você nas costas.
+3469920 3472920 (01, 08) Mas a porta abre pro lado. Robôs não usam a lógica?
+3472920 3473920 (01, 08) Eu não tô vendo.
+3473920 3476920 (01) Os dois tão debatendo ali. Mel, tens alguma ação?
+3477920 3481920 (01, 05) É... O controle de oxigênio da nave, ele não é setorizado, eu imagino, né?
+3481920 3482920 (01, 05) Não.
+3482920 3483920 (01) Mel, é geral.
+3483920 3487920 (01, 05) Eu acho que se eu acender a luz, as galinhas vão ver a gente e vai ser pior.
+3487920 3491920 (01, 05) Não, não tem tempo pra conversar. Eu vou rolar as galinhas contra esse zig.
+3491920 3493920 (01) Quero saber a ação da Mel.
+3493920 3494920 (01, 05) Você pode controlar a gravidade.
+3494920 3497920 (01, 05) Obrigada. Eu acho que é uma boa sugestão. Vamos lá, então.
+3497920 3502920 (05) Alteração de gravidade pra galinhas ficarem... Muito obrigada, zig.
+3502920 3504920 (05) Galinhas flutuantes no escuro.
+3504920 3507920 (01, 05) Desligar completamente a gravidade ali. Ok.
+3507920 3510920 (01) Enquanto tu tá fazendo isso...
+3510920 3511920 (01) Por um momento, várias galinhas...
+3511920 3515920 (01) Por um momento, várias galinhas pulam pra cima do zig, que vão rolar...
+3515920 3519920 (01) Que vai rolar dois dados, e a Mel vai rolar um, que ela tá nas costas dele.
+3519920 3521920 (01, 02) A minha função é só proteger ela, tá?
+3521920 3523920 (01, 02) Então rola bem os teus dois dados.
+3523920 3526920 (01) Ah, antes da Mel rolar, vamos ver como é que sai o resultado do zig.
+3526920 3528920 (01) Talvez eu te dê um dado a mais. Vamos ver.
+3529920 3530920 (01, 02) Três e um.
+3530920 3535920 (01, 02) Tá. Tu pretende parar esse pequeno... Fuga das galinhas, tu vai fazer como?
+3535920 3537920 (02) Então, eu não pretendo parar.
+3537920 3539920 (02) A minha ideia é...
+3539920 3541920 (02) Eu quero proteger a Mel, então eu vou ficar virado...
+3541920 3545920 (02) Vou virar com o tipo... Ela ficar entre mim e a parede.
+3545920 3547920 (02) Vou fazer uma outra parede.
+3547920 3549920 (02) Entendeu? Saindo pro lado.
+3549920 3551920 (02) E aí dar porrada nos que chegarem perto de mim.
+3551920 3553920 (01, 02) Tá, tu vai dar um passo pro lado.
+3553920 3556920 (01, 02) Tu vai dar um passo pro lado e bater nas galinhas.
+3556920 3558920 (01, 02) Isso. Pra Mel ficar nas minhas costas.
+3558920 3560920 (01, 02) Mel, você ganhou um dado. Pode rolar dois.
+3560920 3563920 (01, 05) Muito obrigada, meu filho.
+3563920 3565920 (01) Três e quatro.
+3565920 3567920 (01) São duas falhas. O zig, ele consegue socar várias galinhas que estão passando ali.
+3567920 3568920 (01) São duas falhas. O zig, ele consegue socar várias galinhas que estão passando ali.
+3568920 3570920 (01) Cada galinha que ele acerta, ela para de se mexer.
+3570920 3572920 (01) Cada galinha que ele acerta, ela para de se mexer.
+3572920 3574920 (01) Algumas até tão se mexendo.
+3574920 3576920 (01) Umas com o pescoço meio caído de lado.
+3576920 3578920 (01) Só que algumas ali, quando ele tava se movimentando pro lado...
+3578920 3580920 (01) Só que algumas ali, quando ele tava se movimentando pro lado...
+3580920 3582920 (01) Os teus braços, principalmente.
+3582920 3584920 (01) Tu sentiu arranhões e bicadas ali.
+3584920 3586920 (01) Tá sangrando um pouco e furou a tua roupa...
+3586920 3588920 (01) Tá sangrando um pouco e furou a tua roupa...
+3588920 3590920 (01) Espacial, né? O teu traje.
+3590920 3592920 (01) Se por algum motivo vocês ficarem sem oxigênio...
+3592920 3594920 (01) A tua roupa não vai te proteger.
+3594920 3596920 (01) Outra coisa que aconteceu quando o zig deu um passo pro lado...
+3596920 3598920 (01) Outra coisa que aconteceu quando o zig deu um passo pro lado...
+3598920 3600920 (01) Pra as galinhas saírem e o Alex entrar no conflito.
+3600920 3602920 (01) Pra as galinhas saírem e o Alex entrar no conflito.
+3602920 3604920 (01, 06) Pensa que eu não fecho com o robô.
+3604920 3606920 (01) Como eu falei, minha eternidade já era outra.
+3606920 3608920 (01, 06) Como eu falei, minha eternidade já era outra.
+3608920 3610920 (01, 06) Seis e seis.
+3610920 3612920 (01) Tu cai pra trás.
+3612920 3614920 (01) A tua roupa também é completamente rasgada.
+3614920 3616920 (01) Tu sente várias galinhasinhas em cima de você.
+3616920 3618920 (01) Tu sente várias galinhasinhas em cima de você.
+3618920 3620920 (01) Te rasgando assim com as patinhas e bicando sangue.
+3620920 3622920 (01) Te rasgando assim com as patinhas e bicando sangue.
+3622920 3624920 (01) Tu acha que tu vai morrer quando de repente...
+3624920 3626920 (01) Tu acha que tu vai morrer quando de repente...
+3626920 3628920 (01) Essas galinhas começam a flutuar.
+3628920 3630920 (01) Essas galinhas começam a flutuar.
+3630920 3632920 (01) Elas continuam te batendo ali.
+3632920 3634920 (01) Mas sem a gravidade.
+3634920 3636920 (01) Elas não tem um ponto de apoio.
+3636920 3638920 (01) Tu ta bem ferido.
+3638920 3640920 (01) O sangue flutuando saindo de dentro.
+3640920 3642920 (01) O sangue flutuando saindo de dentro.
+3642920 3644920 (01) Mas as galinhas estão meio assustadas em estarem voando finalmente.
+3644920 3646920 (01) Mas as galinhas estão meio assustadas em estarem voando finalmente.
+3646920 3648920 (01) Mas as galinhas estão meio assustadas em estarem voando finalmente.
+3648920 3650920 (01, 05) Galinhas flutuando nascido no escuro!
+3650920 3652920 (05) Galinhas flutuando nascido no escuro!
+3652920 3654920 (05) Social.
+3654920 3656920 (01) Assim, o Zig e a Mel não sabem o que esta acontecendo.
+3656920 3658920 (01) Assim, o Zig e a Mel não sabem o que esta acontecendo.
+3658920 3660540 (01) O Alex está vendo
+3660540 3661560 (01) Assim
+3661560 3664840 (01) A Mel não levanta, não começa a flutuar
+3664840 3667080 (01) O Alex é bastante pesado
+3667080 3669040 (01) Ele consegue prender com os pés
+3669040 3670240 (01) E com a mão ali no chão
+3670240 3673000 (01) Mas o Alex está flutuando
+3673000 3675060 (01) E as galinhas estão flutuando em volta
+3675060 3676460 (01) Tentando pegar ele de alguma forma
+3676460 3678320 (01) Elas batem a asa e tal
+3678320 3681040 (01) Mas isso acaba não levando elas para o lado que elas querem
+3681040 3683540 (01) E elas não estão enxergando bem direito mesmo
+3683540 3684240 (01, 05) Uma pergunta
+3684240 3685560 (05) A visibilidade das galinhas
+3685560 3688620 (05) Ela é superior à visão humana
+3688620 3689560 (05) Isso eu não sei
+3689560 3691220 (01, 05) Elas veem mais cores que o ser humano
+3691220 3695520 (01, 05, 06) Elas não tem mais astigmatismo
+3695520 3696780 (05) Do que a gente, não sei
+3696780 3699160 (05) Vê mais profundidade, não sei
+3699160 3700700 (05) E essa informação a gente não tem
+3700700 3702780 (07, 05) Desculpe
+3702780 3705400 (07) Você foi ferida, eu tenho que destruir todas elas
+3705400 3706800 (07, 05) Está tudo bem Zig
+3706800 3708000 (05) Vamos acender a luz aqui
+3708000 3710340 (05) E ver o que está acontecendo, onde está o Alex
+3710340 3711280 (05) Eu estou aqui
+3711280 3715360 (05) Você também está flutuando
+3715360 3717500 (05) Está tudo bem Alex
+3717500 3720580 (05, 08) Eu estou secado de galinha
+3720580 3721800 (08) Me atacando
+3721800 3724020 (05, 08) Não, é para você ver
+3724020 3726000 (05) O sangue, como é que está isso
+3726000 3727940 (05, 08) Se existe bem ou não estou mais
+3727940 3730260 (07, 02, 08, 05) Eu vou pegar
+3730260 3732080 (07, 02, 08) Eu vou pegar um
+3732080 3733720 (07, 02) Um kitzinho
+3733720 3735240 (07, 02) Aqueles kitzinhos de spray
+3735240 3737260 (07, 02, 08) De cicatrizante
+3737260 3739140 (02, 08) E dá para cada um deles
+3739140 3741240 (08) Eu não consigo pegar agora não
+3741240 3742520 (08) Estou flutuando secado de galinha
+3742520 3745900 (05, 08) Não tem gravidade, mas eu consigo controlar a gravidade
+3745900 3746960 (05) De deixar ela
+3747500 3748100 (05) Diferente
+3748100 3749680 (01, 05) Sim, para toda a nave
+3749680 3751120 (01, 05) Tá, beleza
+3751120 3752640 (05) Então
+3752640 3756240 (01, 05) Se o sistema tivesse 100%
+3756240 3759100 (01) Conseguia controlar oxigênio individualmente
+3759100 3760980 (01) Gravidade individualmente
+3760980 3763480 (01) Várias luzes, etc
+3763480 3765420 (01) Mas está no modo emergência
+3765420 3767320 (01) Então é um sistema só
+3767320 3768100 (01) Uma chave só
+3768100 3771460 (01) Pode alterar essa gravidade e serve para a nave toda
+3771460 3773100 (05) Eu vou reduzir a
+3773100 3774520 (05) Aliás, eu vou
+3775660 3776920 (05) Reinstalar a gravidade
+3776920 3777480 (05) Mas não complementar
+3777500 3778000 (05) Completamente
+3778000 3780200 (05) Como se a gente estivesse na lua, sei lá
+3780200 3782420 (05) Sabe, que eles vão dando aqueles passinhos lentos
+3782420 3783840 (00, 05) Assim, em câmera lenta
+3783840 3785300 (05) Galinhas e pessoas em câmera lenta
+3785300 3787940 (05) Porque assim os meus colegas conseguem se mover
+3787940 3790440 (00, 05) E a gente consegue chegar no Alex
+3790440 3791720 (05) Eu vou dizer para o Zig
+3791720 3794200 (05) Zig, tenta pegar o Alex
+3794200 3795840 (05) E correr com a gente daqui
+3795840 3797440 (05) Enquanto isso eu estou com a arminha
+3797440 3799560 (05) Eu estou pendurada nele ainda, mas eu estou com a arminha
+3799560 3802240 (05) E eventualmente precisar eu vou atirar nas galinhas
+3802240 3803840 (01, 05) Correr e você diz fugir?
+3804020 3805560 (05) Sim, precisamos sair desse ambiente
+3805560 3807180 (05) Olha a quantidade de animais que tem aqui
+3807500 3810360 (01) Não, a dúvida dele é se recuar para a nave de vocês
+3810360 3812240 (01) E tchau e benço, ou seguir
+3812240 3814820 (01, 02, 05, 06) Não, nós temos uma missão e ela vale muito dinheiro
+3814820 3815880 (05) Vamos adiante
+3815880 3816860 (02, 05) Ok
+3816860 3819440 (02) Eu vou lá então salvar o Alex
+3819440 3822740 (01, 02, 05, 00) Beleza, tu vai botar ele mais para o chão, é isso?
+3823000 3824560 (02) Isso, a minha ideia é puxar ele para o chão
+3824560 3826700 (02) E vou dar um spray sincaprizante
+3826700 3828540 (02) Porque agora provavelmente não tem mais
+3828540 3830000 (01, 02) Não tem muito dessas coisas
+3830000 3832220 (01) Não, tu consegue dar uma ajudinha para ele ali
+3832220 3833520 (01) Mas a minha dúvida é
+3833520 3835980 (01) As galinhas vivas flutuando por ali
+3835980 3837320 (01, 02) Então, elas eu vou testar
+3837500 3840700 (02) Para saber até quando elas aguentam de laser
+3840700 3842720 (02) Eu vou ficar fazendo teste
+3842720 3844760 (01, 02) Até não ter mais nenhuma galinha
+3844760 3845980 (01, 02) É, em volta dele
+3845980 3848860 (02) Aí eu vou testando para ver qual é a medida do laser
+3848860 3850200 (02) Que eu preciso usar, que eu consiga
+3850200 3853040 (02) Tipo, a ideia é fazer tipo um porrinho mesmo
+3853040 3854600 (02, 06) Mas tipo
+3854600 3856800 (02, 06) Ver qual é o caso que elas aguentam
+3856800 3858520 (02) Fica um bom almoço também
+3858520 3860080 (02) Normalmente vai ser a mesma coisa
+3860080 3862320 (02) Ele está testando
+3862320 3864140 (02) Droga, não dá para despertar o ambiente
+3864140 3865220 (02) Eles vão morrer também
+3865220 3866960 (02) A minha ideia era testar isso
+3866960 3868300 (02) Se eu podia esquentar o ambiente
+3868300 3869440 (02) A ponto de matar as galinhas
+3869440 3870360 (02) Sem matar os cilindros
+3870360 3871720 (02) Mas não dá
+3871720 3873880 (02, 05) Vamos tentar matar o que for possível na bala
+3873880 3875240 (02, 05) Sim, eu vou atirando nelas
+3875240 3877260 (02) Só que eu estava com o robôzinho
+3877260 3878880 (02) Estava tentando descobrir se elas morriam
+3878880 3881540 (02) Por uma temperatura menor do que vocês morriam
+3881540 3883120 (02) Porque aí era só esquentar tudo
+3883120 3884080 (02) E deixar elas morrerem
+3884080 3885480 (02, 08) Eu acho bom não atirar
+3885480 3886300 (08) Acho bom não atirar
+3886300 3887820 (08) Tem mais um monte de galinha lá dentro
+3887820 3888920 (08) Se atirar, elas vão morrer
+3888920 3890140 (08) Vão ir tudo para cá
+3890140 3891480 (08, 10) Aí eu vou matar elas com laser
+3891480 3894280 (08, 10) Mas a minha ideia era só testar se elas
+3894280 3895420 (07, 10) Taquiam o zíguo
+3895420 3896000 (10) E não sabe disso
+3896000 3896660 (10) Eu nunca vi outro
+3896660 3897740 (08, 10) Segundo 100 mil
+3897740 3899560 (08) Então ele estava tentando fazer tais
+3899560 3900880 (08) O Alex está muito bolado
+3900880 3901760 (08) A roupa dele rasgou
+3901760 3902400 (01, 08) Tem isso, né?
+3902540 3904020 (01) Em casos de falta de oxigênio
+3904020 3905100 (01) Vocês estão ferrados
+3905100 3907360 (01, 08) Tirando o zíguo
+3907360 3908120 (01) Vocês estão ferrados
+3908120 3909480 (01, 08) Herança de família o negócio
+3909480 3910920 (08) Estragado por um robô
+3910920 3912180 (08) É por isso que não fecha um robô
+3912180 3913440 (01, 08, 10) Não tem nada a ver com isso
+3920920 3922180 (05) Conseguimos chegar no Alex?
+3922560 3923600 (01) Sim, o Alex está bem
+3923600 3925700 (01) As galinhas que estavam por ali foram...
+3926660 3927860 (01) Queimadas
+3927860 3928360 (01) E aí?
+3928660 3929440 (08) Querido mestre
+3929440 3930700 (08) Tem outra sala nessa sala
+3930700 3931420 (08) Ou era só um caminho?
+3931640 3933160 (01) Esse galinheiro
+3933160 3937380 (01) Ele segue até uma outra porta
+3937380 3941920 (01) Que é a antessala da sala de controle
+3941920 3943180 (01, 08) Nós temos que seguir por aqui
+3943180 3944580 (05, 08) Mas antes disso, Zig
+3944580 3947840 (05) Será que não é interessante a gente fechar aquela porta?
+3948120 3948680 (05) Com mesas?
+3948860 3950320 (02) Eu tenho uma sugestão
+3950320 3953260 (02) Eu não sei se eu posso fazer isso
+3953260 3955300 (02) Se eu posso agarrar o chão
+3955300 3956500 (02) Com as mesas
+3956500 3956640 (02) Com as mesas
+3956660 3957100 (02) Com as pernas
+3957100 3957680 (02) Com os pés
+3957680 3958720 (02) Tipo, agarrar mesmo
+3958720 3959960 (02) Como se fosse...
+3959960 3961880 (02) Tipo, é de escalada
+3961880 3963440 (01, 02) Danifica o chão, mas pode
+3963440 3964340 (01, 02) Isso
+3964340 3965900 (02) Porque aí eu quero segurar os dois
+3965900 3966540 (02) E eu vou falar
+3966540 3967560 (02) Inverta a gravidade
+3967560 3969300 (02) E aí eu seguro vocês dois
+3969300 3971240 (02, 08) E as galinhas vão pro teto
+3971240 3972740 (02, 08) É, nesse meio tempo
+3972740 3974040 (08) Eu quero pegar
+3974040 3975560 (08) Tem ali uma cadeira?
+3975640 3976020 (08) Uma coisa assim?
+3976540 3976780 (01) Tem
+3976780 3977960 (01, 08) Eu vou pegar uma cadeira
+3977960 3979120 (08) Eu vou levando assim na frente
+3979120 3980240 (08) Pra afastar as galinhas, sabe?
+3980500 3981880 (08) Não precisa botar a mão nelas
+3981880 3982240 (07) No caminho
+3982240 3984200 (07) Você viu qual é a minha ideia?
+3984540 3986420 (07, 08, 06) A minha ideia é segurar um em cada braço
+3986420 3986640 (07, 06) Arregaçando as galinhas
+3986660 3988360 (07, 08, 06) E andando pelo chão
+3988360 3989800 (07) Enquanto as galinhas vão pro teto
+3989800 3990700 (07) Não, assim, aí eu vou na frente
+3990700 3991680 (07, 08) Afastando elas pra
+3991680 3992780 (08) A gente não ser atacado
+3992780 3993740 (01) É porque ela não necessariamente
+3993740 3995600 (01) Ela vai ser puxada pro teto, né?
+3996080 3997540 (01) Ela só tá livre, flutuando
+3997540 3998540 (01) É só jogar ela pra cima
+3998540 3999260 (01, 07) É, então
+3999260 4001020 (07) Mas se vier alguma nossa direção
+4001020 4001580 (01, 07) Já, já
+4001580 4002940 (01, 07) Então, a minha ideia
+4002940 4004400 (07) A minha ideia que eu tô propondo
+4004400 4006600 (07, 02) Não é exatamente desligar a gravidade, não
+4006600 4007860 (02) Eu não sei se dá pra fazer isso
+4007860 4008700 (02) Por isso que eu tô perguntando
+4008700 4010360 (02) Seria ligar ela ao contrário
+4010360 4011760 (02) Então, o chão
+4011760 4012860 (02) Virar o teto
+4012860 4014300 (01, 02) Não, inverter não dá
+4014300 4014960 (01, 02, 07) Ah, tá
+4014960 4016420 (01, 07, 02) Então vamos fazer assim
+4016420 4016860 (01, 07) Eu vou zero
+4016860 4019560 (01, 07) E eles vão empurrando as galinhas
+4019560 4021660 (07) Com as mãos
+4021660 4022960 (07) Enquanto eu vou andando com eles
+4022960 4023740 (01, 07) Não, não
+4023740 4024440 (01, 07) Com a cadeira
+4024440 4025380 (07, 08) Que eu vou botar a mão nesse bicho aí, não
+4025380 4025640 (08) Não sei o que
+4025640 4026640 (01, 08) Com a mão
+4026640 4027600 (01) Tu pode perder essa mão
+4027600 4028200 (01, 08) É, então
+4028200 4029360 (01, 08) Por isso que eu dou a cadeira
+4029360 4036040 (01, 08) O Alex tá muito bolado com essa história
+4036040 4037960 (01, 08) Vocês passam pela área
+4037960 4039960 (01) Que era o galinheiro, né?
+4040000 4041660 (01) Que tinha os puleiros ali
+4041660 4044100 (01) Tinha os nichos
+4044100 4045720 (01) Tem muitos ovos ali dentro
+4046420 4048440 (01) Tem muitas fotos, assim, nas paredes
+4048440 4050140 (01) De ovos, assim
+4050140 4051980 (01) Sendo preparados
+4051980 4053160 (01) Pratos, sabe
+4053160 4054940 (01) De frigideira
+4054940 4057540 (01) Fotos de galinha
+4057540 4060220 (01) E vocês vão passando por aquela
+4060220 4062060 (01) Por aquela área ali
+4062060 4064340 (01) Até que chegam numa sala
+4064340 4066880 (01) Essa sala, ela tinha uma porta também
+4066880 4068800 (01) Essa porta tá aberta
+4068800 4070220 (01) Parece que permanentemente
+4070220 4073000 (01) É uma área antes da sala de controle
+4073000 4074220 (01) Tem um janelão
+4074220 4075760 (01) Voltado pro sol
+4075760 4076400 (01) Tá pra lá
+4076420 4077840 (01) Pra ver aquele sol lá fora
+4077840 4078860 (01) Então, agora
+4078860 4080720 (01) A escuridão ali dentro
+4080720 4082600 (01) Já não faz diferença, né?
+4083180 4084660 (01) E tem vários bancos colocados
+4084660 4087520 (01) Provavelmente era pros hippies sentarem
+4087520 4090480 (01) E observarem o sol e tal
+4090480 4091820 (01) A janela tem uma
+4091820 4093540 (01) Uma película de proteção
+4093540 4094560 (01) Pra não fritar os olhos
+4094560 4095640 (01) Das pessoas que estão observando
+4095640 4098700 (01) É uma área pra ficar observando o sol ali
+4098700 4100560 (01, 02) Estamos passando pelo fumódio
+4100560 4101700 (01, 05) Ziggy, por favor
+4101700 4102980 (05) Por favor, meu filho
+4102980 4103840 (05) Me coloque ao chão
+4103840 4105840 (02, 05) É, a gravidade tá desligada
+4105840 4106240 (02) Você vai ter que ir lá
+4106240 4106940 (02) Você vai segundo
+4106940 4107840 (02, 05) Podemos
+4107840 4109600 (05) Religar em breve
+4109600 4110500 (05) Ah, não
+4110500 4111360 (05) Não adianta, né?
+4112120 4113320 (05) Porque daí as galinhas podem vir
+4113320 4114660 (07, 05) Ótimo
+4114660 4116820 (07, 05) Vou continuar
+4116820 4118960 (07, 05) Realmente estão de colinho comigo
+4118960 4121780 (07, 05) Vou continuar num poleiro, então
+4121780 4122520 (05) É isso
+4122520 4126520 (07, 05, 08) O Alex tá muito incomodado com isso
+4126520 4127020 (01, 08) Muito
+4127020 4128900 (01) E daí, ao final disso tudo
+4128900 4130020 (01) Tem lá a porta
+4130020 4131480 (01) Pra sala de controle
+4131480 4132680 (01, 08) Eu fico pensando
+4132680 4135100 (08) Eu já ouvi dizer de grupos que aplaudem o sol
+4135100 4135960 (08) Será esse um deles?
+4136240 4136940 (01) É possível
+4136940 4139200 (05) Ziggy, dirija-se a área da janela
+4139200 4140280 (05) Pra gente poder verificar
+4140280 4141400 (05, 08) Não é pra abrir a porta?
+4142180 4143040 (07, 08) Da sala de controle?
+4143160 4144260 (07, 08) A porta abre pro lado
+4144260 4145920 (07) Pro lado, tá bom, Robô?
+4146000 4147020 (07) Então chuta, pro lado
+4147020 4147480 (07, 02, 10) E aí, Ziggy?
+4147500 4148840 (07, 02, 10) Não, mas eu tô enxergando a porta
+4148840 4151860 (02) Tá, a porta tem comando ou alguma coisa assim
+4151860 4153540 (02) Se tiver comando, eu vou pedir pra Mel abrir
+4153540 4156420 (01, 02) A Mel falou pra chegar perto da janela
+4156420 4157120 (01, 02) Tu vai negar
+4157120 4158260 (01, 02) Então eu vou pra perto da janela
+4158260 4161760 (01, 02) Ora, ela falou pra eu ir pra perto da janela
+4161760 4164180 (01, 02) Lá fora dá pra ver o sol, né?
+4164180 4166180 (01) Dá pra ver algumas coisas luzes
+4166240 4166720 (01) O espaço
+4166720 4169540 (01) Um barulho chama a atenção de vocês
+4169540 4171480 (01) Ele tá com as garras
+4171480 4173860 (01) Se segurando ali no banco
+4173860 4176140 (01) Pra não tá voando
+4176140 4178620 (01) É uma criatura grande e majestosa
+4178620 4180620 (01) Uma crista vermelha
+4180620 4182160 (01) Ele olha pro sol
+4182160 4183600 (01) Olha pra vocês, olha pro sol
+4183600 4184680 (01) E ele faz
+4184680 4189520 (01, 05) Este galo está na rua?
+4189960 4191500 (01) Não, tá ali dentro com vocês
+4191500 4194080 (01) Ele tá se segurando ali no banco
+4194080 4195300 (01) Ele tá encarando vocês
+4195300 4196180 (01, 05) Ele é de um tamanho?
+4196180 4197180 (05) Normal?
+4197180 4198180 (01, 05) De galo?
+4198180 4199180 (01, 05) Ele parece um galo maior
+4199180 4200180 (01) Tudo bem
+4200180 4201180 (01, 02) Eu vou falar pro Alex se segura no meu braço
+4201180 4202180 (02) Que eu quero liberar um braço pra atirar nesse bicho
+4202180 4203180 (02) Com laser
+4203180 4204180 (02) Aí eu tô falando pra ele segurar tipo no meu tronco
+4204180 4205180 (02) Ou alguma coisa assim
+4205180 4206180 (02) Que eu quero ficar com o braço livre
+4206180 4207180 (02) Rola um dado
+4207180 4208180 (02) Tens dois pesos contigo, vai lá
+4208180 4209180 (02) Que dignidade
+4209180 4210180 (02) Eu basicamente falei pro Alex segurar no meu sovaco enquanto eu ativo
+4210180 4211180 (02) Dois
+4211180 4212180 (02) Dois
+4212180 4213180 (02) Dois
+4213180 4214180 (02) Dois
+4214180 4215180 (02) Dois
+4215180 4216180 (01, 02) Dois
+4216180 4217180 (01) Dois
+4217180 4218180 (01) Dois
+4218180 4219180 (01, 10) Dois
+4219180 4220180 (05, 10) Dois
+4220180 4221180 (05, 10) Dois
+4221180 4222180 (10) Dois
+4222180 4223180 (10) Dois
+4223180 4224180 (10) Dois
+4224180 4225180 (unknown) Dois
+4225180 4226180 (01, 10) Dois
+4226180 4227180 (01) Dois
+4227180 4228180 (01) Dois
+4228180 4229180 (01) Dois
+4229180 4230180 (01) Dois
+4230180 4231180 (01) Dois
+4231180 4232180 (01) Dois
+4232180 4238180 (01) illness
+4238180 4239180 (01) Dois
+4239180 4240180 (01) Dois
+4240180 4241180 (01) Dois
+4241180 4242180 (01) Dois
+4242180 4243180 (01) Dois
+4243180 4244180 (01) dois
+4244180 4245180 (01) Dois
+4245180 4246180 (01) Dois
+4246180 4247180 (01) Dois
+4247180 4248180 (01) Dois
+4248180 4249180 (01) Dois
+4249180 4250180 (01) Dois
+4250180 4251180 (01) Dois
+4251180 4252180 (01) Dois
+4252180 4253180 (01) Dois
+4253180 4254180 (01) Dois
+4254180 4257300 (01) Ele encosta as patinhas no teto e faz um impulso
+4257300 4258260 (01) Pra ir como se fosse
+4258260 4260980 (01) Uma flecha com aquele bico dele
+4260980 4263120 (01) Pra cima de vocês
+4263120 4265640 (01) Alex, um, Mel, dois, três e
+4265640 4267520 (01, 02) Então, não, eu vou escolher ser eu
+4267520 4269540 (01, 02) Eu vou jogar os dois, eu não sei se eu posso fazer isso
+4269540 4271080 (01) Eu vou empurrar os dois, um pra cada parede
+4271080 4273300 (01, 02) Pode, rola mais um dado
+4273300 4275760 (01, 02) Eu sigo o protocolo de robô
+4275760 4277940 (01) Mel e Alex, rola um dado cada um
+4277940 4279820 (01) Quanto é que tirou?
+4280080 4280800 (01) Eu tirei um
+4280800 4282760 (01) Alex tirou quanto?
+4282760 4284640 (08) Eu tirei seis
+4284640 4285320 (01, 08) É ruim
+4312760 4313780 (01) Ele jogou a Mel pra um lado
+4313780 4315500 (01) Ela bateu contra a parede
+4315500 4317420 (01) Mas conseguiu colocar as mãos
+4317420 4319700 (01) E se segurou ali muito bem
+4319700 4322800 (01) O Alex já tinha sido muito ferido antes
+4322800 4324580 (01) Mesmo com os primeiros socorros
+4324580 4326820 (01) Ele vai se segurar ali
+4326820 4328700 (01) Ao invés de bater
+4328700 4329880 (01) Contra outra parede
+4329880 4332220 (01) Ele entra pela porta
+4332220 4333540 (01) Do galinheiro
+4333540 4336660 (01) Ele continua flutuando até encostar numa barra
+4336660 4338760 (01) Onde algumas galinhas estavam lá
+4338760 4340640 (01) E ele começa a sentir picadas
+4340640 4341600 (01) No pé dele
+4341600 4344400 (01) Ação Zig, tem um galo na tua frente flutuando
+4344400 4346100 (01) Beleza, vou matar o galo
+4346100 4347940 (01) Dois dados agora, não tem ninguém te impedindo
+4347940 4349720 (01, 02) E como ele não é muito atento
+4349720 4350640 (02) Ele tá em combate
+4350640 4353040 (02, 10) Ele provavelmente nem notou ainda o que aconteceu com o Alex
+4353040 4353580 (01, 02, 10) Sim
+4353580 4356140 (01) Um e quatro, né?
+4356360 4357220 (01, 02) Um e quatro, esse
+4357220 4359360 (01, 02, 10) Como é que tu eliminou esta criatura?
+4359700 4361600 (02) Então, eu vou pegar a cabeça dele
+4361600 4363220 (02) Que já tá na minha frente
+4363220 4364180 (02) E vou arrancar do corpo
+4364180 4365160 (01, 02) Porque eu já vi que isso funciona
+4365160 4365640 (01, 02) Ok
+4365640 4368920 (01) Alex, tem galinhas comendo seus pés
+4368920 4369400 (01) O que a gente faz?
+4369840 4370920 (08) Eu quero saber se pode fazer isso
+4370920 4371560 (08) Eu vou pegar a cabeça dele
+4371560 4373680 (08) Eu vou dar um tiro no ar
+4373680 4375900 (08) E o tiro me manda pra trás
+4375900 4377260 (01, 08) Claro, dois dados
+4377260 4379540 (01) Quatro e cinco
+4379540 4380580 (01) Consegue ali
+4380580 4382240 (01) Vai voltar pra outra sala?
+4382900 4383340 (01) É boa, né?
+4383460 4384320 (01) Eu fui e voltei
+4384320 4387160 (01) Uma das galinhas tentou te usar como plataforma
+4387160 4389080 (01) Mas o tiro foi exatamente nela
+4389080 4390620 (01) Ela cai pra trás
+4390620 4393320 (01) Tô sentindo aquele cheirinho no ar de frango frito, né?
+4393780 4394340 (01, 08) É uma arma ali
+4394340 4396020 (01, 08) Eu volto pensando, é por isso que eu não fecho com o robô
+4396020 4398160 (01, 08) E tu volta pra sala anterior
+4398160 4400500 (01, 08) A Mel tá ali segurando na parede
+4400500 4400980 (01) E tal, tal
+4400980 4401400 (01, 10) Zig
+4401400 4402920 (01, 10) O que vocês vão fazer?
+4404120 4405580 (10) Gente, parece de propósito
+4405580 4406820 (10) Mas eu sempre protejo a Mel
+4406820 4408160 (10) Acho que é o Alex, né, cara?
+4410160 4411540 (05) O Alex, ele ainda tá
+4411540 4414020 (05) Ainda tem alguma galinha próximo a ele ali ou não?
+4414100 4414500 (05) Não, né?
+4414820 4416140 (01) Não, na outra sala tem
+4416140 4417240 (01) Mas ali com vocês, não
+4417240 4418840 (01, 05) Não vou retornar à gravidade
+4418840 4421040 (05) Eu vou ir me empurrando, meio voando, sabe?
+4421140 4421540 (01, 05) Certo
+4421540 4423900 (01, 05) E vou falar pro Zig
+4423900 4425340 (05) Zig, abre a porta
+4425340 4426520 (05) Com cuidado, meu filho
+4426520 4426900 (05) Ok
+4426900 4429520 (05) Tem uma coisa que eu queria saber se eu consigo fazer
+4429520 4430740 (05) Não sei se é possível
+4430740 4431040 (05) Não sei se é possível
+4431400 4432460 (05) Antes
+4432460 4433000 (01, 05) Fale
+4433000 4434400 (01, 05) Apesar de eu estar com a roupa
+4434400 4435700 (05) Quando a gente tá com a roupa espacial
+4435700 4437360 (05) Eu disse que eu tinha uma capa, certo?
+4437540 4437760 (01, 05) Certo
+4437760 4439840 (01, 05) Eu queria usar o material dessa capa
+4439840 4441060 (05) Rasgar
+4441060 4444220 (05) E tentar fechar a minha roupa
+4444220 4445680 (05) Pelo menos fazer uma contenção
+4445680 4447400 (05) Na minha roupa, onde rasgou
+4447400 4449800 (05) E tentar fazer isso na roupa do Alex
+4449800 4450560 (01, 05) Não
+4450560 4452340 (01) Tu conseguiria fazer isso na nave
+4452340 4453880 (01) Que tu tem equipamento, tem fita
+4453880 4455480 (01) Ali tu não consegue fazer
+4455480 4456440 (01, 05) Tá, perfeito
+4456440 4457520 (05) Então esquece
+4457520 4460960 (05) Só vou me impulsionando em direção à porta
+4461400 4461900 (05) Voando
+4461900 4463360 (01, 05) Zig vai abrir a porta como?
+4463620 4465380 (01, 09, 05) Então, como é que é essa porta?
+4465600 4466400 (01) Ela abre pro lado
+4466400 4467680 (01, 09) Tá, mas ela tá travada
+4467680 4468760 (01, 09) Ela não tem nenhum comando
+4468760 4470240 (01) Ela tá travada
+4470240 4471920 (01) Ela tem uma...
+4471920 4472740 (01) Uma...
+4472740 4475480 (01) Um painel de digital ali pra poder abrir
+4475480 4476480 (01, 02) O painel tá ativo?
+4476680 4476860 (01) Tá
+4476860 4478400 (01, 02) Ah, então eu vou falar pra...
+4479080 4479680 (02) Pra meu
+4479680 4481420 (02) O painel está ativo
+4481420 4482500 (02) Eu...
+4482500 4484580 (02) Posso servir de porta pra você, talvez
+4484580 4485580 (02, 05) Vamos...
+4485580 4488180 (05) Vamos seguir essa linha então, meu filho
+4488180 4489700 (05) Por favor
+4489700 4490460 (02, 05) A minha ideia é tentar entrar em casa
+4490460 4493820 (02) A minha ideia é tentar entrar em contato com a...
+4493820 4498000 (02) Com o painel, tipo, abrir ele mesmo
+4498000 4501200 (01, 02) Pra ela usar os dois comandos pra tentar hackear a porta
+4501200 4502700 (01) É essa sala que tá do outro lado
+4502700 4504500 (01) É a sala de controle, né
+4504500 4508020 (01) É ali que tá toda a parte que realmente comanda a nave 100%
+4508020 4510620 (01) A Mel consegue acessar com essa...
+4510620 4514580 (01) Tu puxa ali o sistema, né
+4514580 4516660 (01, 05) E a Mel consegue acessar a sala que serve
+4516660 4518360 (01, 05) Perfeito, acessamos
+4518360 4519460 (01) Rola dois dados, vamos lá
+4519460 4520420 (01) Primeiro, antes de mais nada
+4520460 4522940 (01, 05) Quatro e um
+4522940 4527720 (01, 05) Tu tem acesso a todo o principal da nave ali
+4527720 4531920 (01) Tu agora pode, se quiser, reativar o sistema geral
+4531920 4534180 (01) Tu consegue...
+4534180 4536340 (01) As portas não foram destruídas, né
+4536340 4538300 (01, 06) Tu consegue abrir ou fechar
+4538300 4540160 (01) Incluindo essa que tá na tua frente
+4540160 4542320 (01) Tu consegue controlar oxigênio
+4542320 4543860 (01) Tu consegue controlar gravidade
+4543860 4546520 (01) Desde que a sala tenha a porta funcionando, né
+4546520 4547920 (01) A...
+4547920 4549820 (01) Acesso a câmeras de segurança
+4549820 4550920 (01) O que tu precisar
+4550920 4553320 (01, 05) Perfeito, temos controle da sala, então
+4553320 4555320 (05) É...
+4555320 4555760 (05) A primeira...
+4555760 4556900 (05) Aquela antesala
+4556900 4558260 (05) Eu quero fechar a porta dela
+4558260 4560940 (01, 05) Tá, consegue fechar a porta
+4560940 4562200 (01) E dar acesso à área de vocês
+4562200 4563880 (01) Mas não à outra área
+4563880 4565020 (01) Porque foi destruída a porta
+4565020 4565640 (01, 05) Ah, ok
+4565640 4567240 (05) Não tem mais condições
+4567240 4569620 (05) Vamos ver o que as câmeras têm pra contar
+4569620 4571060 (01, 05) Quer ver as imagens de agora
+4571060 4572900 (01) Ou tu quer ver as anteriores?
+4573700 4574980 (05) Primeiro vamos ver as de agora
+4574980 4577580 (05) Pra saber as ameaças iminentes
+4577580 4579340 (05) E depois ver o...
+4579820 4580320 (05) O histórico
+4580320 4581480 (01, 05) Tu vê...
+4581480 4583080 (01) Além das áreas que vocês passaram
+4583080 4584640 (01) Tem galinhas naquela área
+4584640 4586280 (01) Das gramas, né
+4586280 4587060 (01) Flutuando
+4587060 4588700 (01) Tem galinhas ali no galinheiro
+4588700 4590280 (01) Nas outras áreas não
+4590280 4593380 (01) Tem uma área que provavelmente o acesso fica por ali
+4593380 4595300 (01) Que são de dormitório
+4595300 4596500 (01) Vocês veem mais corpos
+4596500 4598800 (01) Mais galinhas fazendo ninho
+4598800 4600600 (01) Em cama de um lado pro outro
+4600600 4603400 (01) Cozinha também tá tomada ali
+4603400 4605440 (01) E...
+4605440 4607560 (01) A sala que vocês têm ali na frente
+4607560 4609240 (01) Tem...
+4609240 4611900 (01) Tem duas pessoas sentadas assim em cadeiras
+4611900 4613700 (01) Mas elas não estão se mexendo
+4613700 4616060 (01, 05) Na sala que tem na frente da sala de controle?
+4616800 4617580 (01) É, na...
+4617580 4618900 (01) Vocês estão de frente pra uma porta, né?
+4619800 4622160 (01, 05) Dentro dessa porta tem duas pessoas sentadas lá dentro
+4622160 4623300 (05) Vou abrir a porta
+4623300 4625180 (05) Vamos lá, vamos abrir
+4625180 4626180 (05) Vamos ver o que tem lá
+4626180 4628120 (05) Ah, primeiro, o histórico
+4628120 4630080 (05) O que tem no histórico antes disso
+4630080 4631480 (01, 05) Vai levar um tempinho
+4631480 4632780 (01) Tu quer esperar antes de abrir a porta?
+4633120 4635540 (05) Eu quero ver o que aconteceu
+4635540 4639160 (02, 05) Mas você vai fazer isso antes de ver as pessoas?
+4639240 4640700 (01, 02) Ou você vai fazer isso depois desse negócio?
+4641000 4642140 (05) O que eu pensei foi o seguinte
+4642140 4643560 (05) Se eu não consigo ver tudo
+4643560 4644740 (05) Porque vai demorar tempo
+4644740 4646840 (05) Eu consigo ver pelo menos
+4646840 4649920 (05) Na primeira sala que a gente chegou, sabe?
+4649960 4651900 (05) Que tinha uma pessoa morta
+4651900 4653540 (05) Identificar aquela câmera
+4653540 4655440 (05) E ver o que aconteceu lá nos últimos
+4655440 4656360 (05) Sei lá, não
+4656360 4657880 (05) Nas últimas 24 horas
+4657880 4659100 (05) Acelerando a imagem
+4659100 4660680 (01, 05) Começa a voltar acelerado
+4660680 4663180 (01) Chega num ponto daquele homem que se desmontaram
+4663180 4666080 (01) Tentando correr assim, abrindo as portas
+4666080 4667840 (01) E uma galinha pulando
+4667840 4669100 (01) Nas costas dele, derrubando-o
+4669240 4670020 (01) E matando
+4670020 4671100 (01, 05) Tá, perfeito
+4671100 4672840 (05) Vamos abrir então
+4672840 4673780 (05) E eu digo
+4673780 4675320 (05) Preparem-se
+4675320 4676740 (05) E tô com a arma na mão também
+4676740 4678300 (05, 08) Eu tô voando ainda de volta
+4678300 4679720 (05, 08) Já que a porta tá trancada
+4679720 4681260 (05) Dá de retornar a gravidade
+4681260 4682260 (07, 05, 08) Eu caio no chão
+4682260 4687840 (07, 08, 06, 05) Caraca, eu tô com pena do Alex, cara
+4687840 4691420 (07, 08, 05) Alex, desculpe
+4691420 4693720 (08) Levanta assim, não falo nada
+4693720 4696000 (08) Limpa a roupa assim e levanta
+4696000 4698560 (05) Espero que essa remuneração valha a mesma pena
+4699240 4700540 (01) Só vale se encontrar o cara
+4700540 4702380 (01) Tu abre a porta
+4702380 4706380 (01) Tem duas pessoas sentadas ali, como eu falei
+4706380 4707480 (01) Elas não tão se mexendo
+4707480 4709240 (01) E tá ali os painéis
+4709240 4711400 (01) Todo o controle da nave tá ali
+4711400 4713460 (01) Tu vê que tem um lado assim que tá queimado
+4713460 4714940 (01) Tu identifica essa como a sala
+4714940 4716740 (01) Tu recebeu a mensagem
+4716740 4719420 (01) Mas parece que o fogo foi controlado ali
+4719420 4721560 (01) Vários fios assim pra fora
+4721560 4723480 (01) Tão remendado, né
+4723480 4724500 (01) Assim, manualmente
+4724500 4726600 (01, 02) Se eu não receber nenhum comando, eu vou direto pras pessoas
+4726600 4727520 (02) Pra ver se elas tão bem
+4727520 4729020 (01, 02) Tu nota uma respiração
+4729020 4730260 (01) Leve vindo dos dois
+4730260 4732280 (01) Mas eles parecem desacordados
+4732280 4733480 (01, 02, 05) Eles estão vivos
+4733480 4736180 (05) Algum deles é o primo da Melinda?
+4736440 4737780 (01) Um deles é o Aaron, sim
+4737780 4740260 (01, 05) A outra pessoa a gente consegue identificar no registro?
+4740360 4742640 (01) É um dos hippies
+4742640 4744200 (01) Protestantes
+4744200 4745480 (01, 02) Eu vou procurar agora
+4745480 4747940 (02) Provavelmente você tá no dormitório
+4747940 4749620 (02) Ou talvez numa sala de emergência
+4749620 4751740 (02) Traz os ainda intactos
+4751740 4753740 (02) Pra ir pros três, pros quatro
+4753740 4755940 (01, 02) Naquela primeira sala que vocês chegaram
+4755940 4757160 (01) Que é onde acoplam as naves
+4757160 4758400 (01) Lá você
+4759020 4761300 (01) Eu acho que lá deve ter armários com essas trajes
+4761300 4763620 (01) Porque tu só vai precisar quando tu sai da nave, né
+4763620 4764260 (01, 02) Sim, sim
+4764260 4765500 (01, 07, 02) O que minha preocupação já é
+4765500 4767740 (01, 02, 07) Já recomeçar o processo de resgate
+4767740 4769760 (02, 08) Ô, mestre, eu vou tentar acordar o Aaron
+4769760 4771680 (01, 08) Deixa eles dormirem, é mais fácil de carregar
+4771680 4773140 (01, 08) Como é que você vai botar o traje nele dormindo?
+4773260 4774460 (01) Se tu for acordar, ele rola um dado
+4774460 4776560 (01) Se tu for repensar, não precisa rolar
+4776560 4777740 (01, 08) Tá bom, vou fazer nada
+4777740 4782660 (08) O Alex está muito bolado pra fazer qualquer coisa agora
+4782660 4784220 (01, 07, 08) Como é que é essa estrutura das cadeiras?
+4784560 4785820 (01) São cadeiras de pilotagem
+4785820 4789000 (01, 07) Tá, mas elas são arrancáveis do chão?
+4789020 4790640 (01, 07, 08) Pra uma pessoa normal, não
+4790640 4793100 (01, 08) Ô, mestre, nesse tempo eu vou olhar ali
+4793100 4795180 (08) Pra ver como é que tá o combustível da nave
+4795180 4796320 (08) Vou dar uma olhada na...
+4796320 4797260 (08) Já que eu sou piloto
+4797260 4800820 (01, 08) A parte elétrica tá bem comprometida
+4800820 4802120 (01) Por conta do incêndio
+4802120 4804700 (01) A nave, ela não consegue
+4804700 4805720 (01) Estar operando ali
+4805720 4808800 (01) Provavelmente eles colocaram ela no modo
+4808800 4811480 (01) De economia
+4811480 4812440 (01) De energia
+4812440 4814740 (01) Porque ela não tá conseguindo energia suficiente
+4814740 4817120 (01) Pra realizar todas as funções da nave
+4817120 4818780 (01) Eu acho que se ela continuar assim
+4818780 4820640 (01) Usando força total
+4820640 4823640 (01) Ela deve parar de produzir oxigênio
+4823640 4824780 (01) A qualquer momento
+4824780 4826700 (01, 08) Eu consigo mexer nisso
+4826700 4828440 (08) Pra diminuir o uso de energia dela?
+4828880 4830100 (08) Pra poder usar mais oxigênio?
+4830220 4832320 (01, 08) Não, o controle tá...
+4832320 4834480 (01, 08, 05) Tu não tem as senhas de acesso ali, né?
+4834840 4836000 (01) Mas a Mel tá no controle
+4836000 4839140 (01, 05) Então, o que eu pretendo fazer é o seguinte
+4839140 4840760 (05) Sabendo que nós estamos
+4840760 4841720 (05) Trancados ali
+4841720 4844260 (05) E que eu não vi outras pessoas vivas
+4844260 4846560 (05) Eu quero saber se
+4846560 4847400 (05) Há como
+4847400 4849980 (05) Tirar o oxigênio da nave inteira
+4849980 4851040 (05) Menos dessa sala
+4851040 4853940 (01, 05) Perfeito, então eu vou fazer isso
+4853940 4855200 (05) Não precisa ser pelo tempo
+4855200 4856580 (05) Pode ser 30 minutos
+4856580 4858060 (05) Só pra garantir
+4858060 4860460 (01, 05, 06) Depois a gente libera
+4860460 4863960 (01, 05) Tá, nesses 30 minutos
+4863960 4864840 (01) O que vocês vão fazer?
+4865000 4867920 (02) A minha ideia é arrancar as cadeiras
+4867920 4869720 (07, 02) Porque eu vou carregar eles nas cadeiras mesmo
+4869720 4872040 (07, 08) Eu vou procurar um silver tape, sei lá
+4872040 4872760 (01, 08) Rola um dado
+4872760 4874400 (01) Um
+4874400 4875740 (01) Não tem silver tape
+4875740 4877140 (01, 08) Mel tá fazendo o que?
+4877400 4879260 (01) O Zig tá lá arrancando as cadeiras, né?
+4879880 4882100 (01) O Alex tava procurando alguma coisa que não achou
+4882100 4882920 (01) A Mel tá fazendo o que?
+4883160 4884640 (05) Eu quero verificar se
+4884640 4887140 (05) Nas pessoas
+4887140 4889600 (05) Tem alguma coisa diferente no corpo delas
+4889600 4891540 (05) Alguma coisa que indique o que aconteceu
+4891540 4893520 (01, 05) Estão bem feridas, estão arranhados
+4893520 4896540 (01) Mas parece que foi mais superficial
+4896540 4898180 (01) Eles devem ter conseguido correr
+4898180 4899860 (01) Pra ali a tempo
+4899860 4902300 (01) O Aaron tem realmente
+4902300 4903520 (01) Um braço mecânico, dá pra ver
+4903520 4905740 (01) Que foi bem destruído
+4905740 4907380 (01) Tem vários pedaços pra fora
+4907400 4909800 (01) O braço dele parece estar inutilizado
+4909800 4910680 (01) No momento
+4910680 4912060 (01) Mas os dois estão vivos
+4912060 4915420 (01, 05) Bom, nós não sabemos como esses hippies vão se comportar
+4915420 4916740 (05) A hora que estiverem bem
+4916740 4918840 (05) Eu sugiro que
+4918840 4921080 (05) Apesar de que eles
+4921080 4923220 (05) Precisamos mantê-los vivos
+4923220 4925620 (05) Inclusive essa pessoa extra aí
+4925620 4927300 (05) Que o governo pode pagar alguma coisa
+4927300 4929500 (05) Aliás, as corporações
+4929500 4931200 (05) Podem pagar alguma coisa, né?
+4931440 4932960 (05) Já que alguém encontra o sistema
+4932960 4934560 (05) Vamos
+4934560 4936680 (05) Amarrá-los
+4936680 4937820 (05) Às mãos
+4937820 4938400 (05) Para que
+4938400 4941220 (05) Eventualmente eles não nos ataquem
+4941220 4943060 (05) O que você acha, Ziggy?
+4943180 4945540 (05) Você que entende de segurança, meu filho?
+4946160 4947020 (02) Tudo bem
+4947020 4948700 (02) Vou arrancar
+4948700 4949720 (02) O que tem
+4949720 4951300 (02) Fios
+4951300 4951920 (02) Não
+4951920 4958020 (02, 05, 06, 08) Ele pode usar minha capa pra isso?
+4958320 4958640 (05) Pode
+4958640 4960760 (05) Pegue minha capa
+4960760 4961400 (08) Tudo bem
+4961400 4962620 (08) O estado que eles estão
+4962620 4965320 (08) Não sei se isso é alguma ameaça
+4965320 4965840 (08) Tudo bem
+4965840 4966660 (05, 08) Mas eu amarro o braço pra eles
+4966680 4969060 (01, 08, 05) Já estão presos na cadeira
+4969060 4971360 (01) Soltou as duas cadeiras
+4971360 4972580 (01) Tu vai carregar as duas
+4972580 4974520 (01, 07, 09, 05) Meia hora se passou
+4974520 4976140 (01) Pelas câmeras a Mel
+4976140 4978020 (01) Tá vendo que não há mais
+4978020 4979540 (01) Vida lá fora
+4979540 4981800 (01, 05) Nesse tempo a gente conseguiu ver
+4981800 4984100 (05) Eu consigo assistir a retrospectiva
+4984100 4985960 (05) Do que aconteceu naquela sala
+4985960 4987240 (05) Onde a gente tá, na sala de controle
+4987240 4989980 (01, 05) Tu vê os dois correndo pra ali
+4989980 4992160 (01) O galo e algumas galinhas
+4992160 4993360 (01) Atacando eles
+4993360 4995820 (01) Enquanto todo mundo correu pra tentar sair
+4995820 4997880 (01) Da nave pra tentar subir
+4997880 5000400 (01) Os dois estavam mais pro lado de cá
+5000400 5002400 (01) Foram eles que correram pra esse lado
+5002400 5003700 (01) Enquanto o resto correu pro outro
+5003700 5007720 (01) Eles foram atacados ali na porta
+5007720 5009780 (01) Tinha galinha ali dentro
+5009780 5011440 (01) Uma galinha conseguiu entrar junto com eles
+5011440 5013380 (01) Foi essa galinha que atacou os fios
+5013380 5015040 (01) E criou o curto-circuito
+5015040 5016900 (01) Que gerou o incêndio ali
+5016900 5019600 (01) Mas a própria galinha acabou morrendo no incêndio
+5019600 5022040 (01) Os dois ficaram muito tempo respirando
+5022040 5022940 (01) Aquela fumaça
+5022940 5025640 (01) E estavam sangrando bastante
+5025820 5028700 (01) Quando eles finalmente conseguiram arrumar tudo
+5028700 5031040 (01) E mandaram o pedido de socorro
+5031040 5032760 (01) A energia falhou
+5032760 5034920 (01) Eles ficaram tentando arrumar a energia
+5034920 5037300 (01) Até que algumas horas atrás
+5037300 5039340 (01) Completamente cansados
+5039340 5041540 (01) E fatigados de tudo que passaram
+5041540 5043400 (01) Eles sentaram na cadeira
+5043400 5044060 (01) E apagaram
+5044060 5046760 (01, 05) Perfeito, eu vou contar isso pros meus colegas
+5047400 5050560 (05) Ou essas imagens estão passando
+5050560 5051460 (05) E todo mundo tá vendo
+5051460 5054040 (01, 05) Tu pode escolher, tu pode ter visto só na tua cabeça
+5054040 5055320 (01) Ou tu pode ter transmitido
+5055320 5057040 (01) Os melhores momentos, né
+5057040 5058300 (01) Nos monitores pra eles
+5058300 5060060 (01, 05) Tá, então eu posso ter feito uma coletânea
+5060060 5062920 (05) De melhores momentos da invasão das galinhas na nave
+5062920 5065980 (01, 05) Isso, e todas as informações da nave
+5065980 5067580 (01) Tu vai baixar pra ti
+5067580 5068540 (01) Ou tu vai deixar aí?
+5068700 5069740 (05) Vamos fazer um download
+5069740 5071560 (05) Isso pode valer alguma coisa
+5071560 5075860 (01, 05) Preparados pro retorno?
+5076540 5076860 (05) Sim
+5076860 5077440 (05) Vamos
+5077440 5080240 (05) Estabelecendo o oxigênio no meio do caminho
+5080240 5082580 (05, 08) Eu tô cansado de galinhas e outras coisas
+5082580 5084620 (08) Eu olho pro robô assim e sigo
+5085320 5091660 (05) Tem alguma coisa de valor ali
+5091660 5094140 (05) Que tem alguma coisa
+5094140 5096160 (05) Sei lá, já que a gente é mercenário
+5096160 5098000 (05) Pode aproveitar e pegar algum
+5098000 5098740 (05, 08) Aponto pro Aaron
+5098740 5102280 (01, 05, 08) Eles não acreditavam muito em dinheiro
+5102280 5104400 (01) Mas tem algumas obras de arte
+5104400 5105160 (01) Ali no meio
+5105160 5108320 (01) Que o Aaron trouxe da própria coleção
+5108320 5109660 (01) Que valem bastante
+5109660 5112900 (01, 05) Meu filho, você consegue carregar essas duas pessoas?
+5113320 5114260 (02) As duas pessoas, sim
+5114260 5115160 (02) E se ficarmos
+5115320 5117080 (02) E se ficar meio difícil
+5117080 5118640 (02) É só você diminuir um pouco a gravidade
+5118640 5119580 (02, 05) Perfeito
+5119580 5122100 (02, 05) Vamos
+5122100 5124540 (05) Vamos então
+5124540 5127560 (05) Reduzir a gravidade e conseguir carregar mais quadros
+5127560 5128400 (05, 06) Porque
+5128400 5130340 (05, 06) De toda forma pode ter algum
+5130340 5132160 (05, 06) Nem que seja um valor de resgate
+5132160 5133820 (05) Ou Melinda pode querer alguma coisa
+5133820 5136100 (05) De toda forma, pode servir pra que a gente
+5136100 5139380 (05) Consiga provar de novo aquelas bebidas
+5139380 5141360 (05) E o Alex compre essas roupas que ele gosta
+5141360 5143380 (02) E aí a gente vai poder ir pro planeta
+5143380 5144860 (02) Que eu possa conseguir minha cidadania
+5145320 5145900 (05) Claro, claro
+5145900 5147660 (05) Claro, meu filho
+5147660 5149640 (01, 05) Vocês voltam pra nave de vocês
+5149640 5151200 (01) Os dois continuam amarrados, né?
+5151480 5153460 (02) É, não, pra fazer a transferência
+5153460 5155860 (02) Vai precisar botar o traje neles
+5155860 5158260 (01, 02, 06) Mas então vão amarrar as mãos deles
+5158260 5161100 (01, 02) As naves estão grudadas
+5161100 5161760 (01) Não tem
+5161760 5163720 (01, 02) Ah, não precisa, tá controlando a verdade
+5163720 5166200 (01, 02) Ah, então eles vão amarrados mesmo
+5175320 5183460 (01) Vocês voltam pra nave de vocês
+5183460 5185040 (01, 08) Ô mestre, assim que eu volto
+5185040 5187640 (08) Eu pego ali minha super tape e tapo os buracos
+5187640 5189160 (08) Da minha, do meu traje
+5189160 5191560 (01, 08) Vocês vão
+5191560 5193000 (01) Vão voltar daí, né?
+5193280 5195420 (05) A Mel quer verificar se teve alguma entrada
+5195420 5196920 (05) No sistema de segurança
+5196920 5198780 (05) Se teve alguma entrada não autorizada
+5198780 5200000 (05) Enquanto a gente tava fora
+5200000 5201000 (01, 05) Fala dois dados
+5201000 5203960 (01) Quatro e dois, crítico
+5203960 5205000 (01) Quando vocês entraram
+5205320 5207100 (01) Eu imagino que a porta da nave de vocês
+5207100 5207940 (01) Foi fechada, né?
+5208140 5208400 (01, 08) Sim
+5208400 5210420 (01) Ou ela tava aberta, Alex?
+5210620 5211180 (08) Eu não lembrei
+5211180 5212240 (08) Eu não falei que ia fechar
+5212240 5212900 (01, 08) Tá bom
+5212900 5214660 (01, 08) Tem uma galinha na nave
+5214660 5216300 (01, 08) Vou ter que ser honesto aqui
+5216300 5219280 (01, 08) Vou ver uma galinhazinha entrando
+5219280 5221560 (01) Pela porta ali
+5221560 5224580 (01) E entrando pra onde tem
+5224580 5226300 (01) A ventilação da nave de vocês
+5226300 5226800 (01) Tiro?
+5227180 5230120 (01, 05) É que não tem câmera na ventilação, né?
+5230520 5230960 (01) Fala, gente
+5230960 5232700 (05) A minha sugestão, Alex
+5232700 5234660 (05) Todos estamos com roupa, certo?
+5235020 5235300 (01) É
+5235300 5236280 (01) Os dois, sim
+5236280 5238200 (01) Os dois que estão dormindo ou não?
+5238480 5239700 (01, 05) Eles estão amarrados na cadeira, né?
+5240260 5241580 (05) Tá, eles estão sem roupa
+5241580 5243020 (05) Não, então não podemos matá-lo
+5243020 5245360 (05) E tem uma bendita galinha desgraçada aqui
+5245360 5247160 (02, 05) Vamos colocar roupas
+5247160 5249900 (02, 05) É só todo mundo ficar na mesma sala
+5249900 5250860 (02) E eu fico esperando
+5250860 5252800 (02) Vocês podem viver, comer, dormir
+5252800 5254260 (02, 05) E eu vou ficar esperando
+5254260 5255580 (02, 05) Quando ela aparecer, eu matá-lo
+5255580 5258740 (05) É só a gente desligar o sistema de oxigênio
+5258740 5260680 (02, 05, 08) Ou no duto
+5260680 5261960 (05, 08) Nesse duto tem
+5261960 5263460 (05, 08) Ô, mestre
+5263460 5265020 (08) Eu posso ter aqueles oxigênios
+5265300 5266280 (08) De emergência?
+5266520 5267660 (08) Aqueles pequenininhos que bota assim no rosto?
+5267880 5268260 (01) Claro
+5268260 5268880 (01, 08) Ah, então
+5268880 5269320 (08) Eu falo
+5269320 5269760 (08) Um segundo
+5269760 5271280 (08) Aí eu pego assim
+5271280 5272920 (08) Pode botar pra eles
+5272920 5275720 (08) E senhorita
+5275720 5276800 (08) Sua roupa tá com um buraco
+5276800 5277900 (08) Aí eu boto e botei
+5277900 5280240 (01, 05, 08) Muito obrigada, Alex
+5280240 5280720 (01) Ok
+5280720 5283900 (01) Nesse sistema de colocar oxigênio portátil nos dois
+5283900 5286380 (01) Desligar o ar lá dentro por um tempo
+5286380 5289460 (01) Depois vocês entram pra verificar
+5289460 5290680 (01) Num duto de ventilação
+5290680 5294400 (01) Vocês tiram uma galinha já falecida
+5294400 5295140 (01) Eu chuto ela
+5295140 5298340 (01, 05) Tem algum cheiro similar ao lugar que
+5298340 5299700 (05) Ou não tem nada a ver
+5299700 5300880 (05) Com o cheiro da Melinda
+5300880 5302100 (01, 02, 05) Não, não tem nada a ver
+5302100 5302720 (02) Vou pegar ela
+5302720 5304820 (02) Você sabe que vocês podem comer isso, né?
+5305020 5307080 (05) Desde quando você sabe essas coisas, meu filho?
+5307380 5308640 (02) Tava na...
+5308640 5309760 (02) Tava nas fotos
+5309760 5311100 (02) Lá na nave
+5311100 5313760 (02, 05) Eu gosto das bebidas dos ricos
+5313760 5315860 (05) Essas comidas de hippie
+5315860 5316740 (05) Não estou acostumada
+5316740 5319220 (05) Prefiro não arriscar a Zig
+5319220 5320360 (01, 05) E fora que assim
+5320360 5321480 (01) Uma galinha mutante
+5321480 5324000 (01) Talvez traga doenças a quem come
+5324000 5324560 (01) Então
+5324560 5326320 (01, 08) É, eu não falo nada
+5326320 5327400 (08) Eu vou à cabine do piloto
+5327400 5329380 (08) Que eu já tô bolado, como eu já disse antes
+5329380 5330480 (01, 08) Mas como eu falei
+5330480 5333120 (01, 07, 08, 05) O Zig, ele não liga muito pra esses detalhes dos humanos
+5333120 5334820 (01, 05) Enquanto isso, eu vou ter isso
+5334820 5336420 (01, 05) Partem, então
+5336420 5338500 (01) Depois de um tempo
+5338500 5340660 (01) São interceptados por uma nave maior
+5340660 5342240 (01) Da Amazon, né?
+5342340 5344260 (01) Agora vocês já estão na jurisdição
+5344260 5346500 (01) Assim que param
+5346500 5349900 (01) Alguns daqueles robôs de combate chegam
+5349900 5351280 (01) Eles entram
+5351280 5352480 (01) Pegam o Arrow
+5352480 5354480 (01) E saem
+5354560 5355760 (01) Vocês vão impedir alguma coisa?
+5356560 5356900 (06) Não
+5356900 5359980 (01, 06) Depois um outro robô volta
+5359980 5361700 (01) Segurando uma
+5361700 5364260 (01) Uma estrutura que parece um vidro
+5364260 5366960 (01) Mas aparece o rosto da Melinda
+5366960 5368200 (01, 04) Muito bem
+5368200 5370680 (04) Conseguiram concluir a missão de vocês
+5370680 5372120 (04) Só posso agradecê-los
+5372120 5374680 (04) Já está sendo repassado créditos à Amazon
+5374680 5375800 (04) Para a conta de vocês
+5375800 5378760 (04) Devo saber de mais alguma coisa
+5378760 5380340 (04) Ou encerramos esse contrato?
+5380760 5381800 (05) Senhora Melinda
+5381800 5383800 (05) Você tem interesse em...
+5384560 5387940 (05) Em cópia dos animais que estavam naquele local?
+5388560 5388820 (04) Não
+5388820 5389760 (05, 04) Não?
+5390480 5390700 (05) Tá
+5390700 5392820 (05) Eu consigo pesquisar
+5392820 5394240 (05) Se aquela pessoa
+5394240 5396360 (05) Que estava no sistema sendo procurada
+5396360 5398780 (05) A gente tinha a ficha corrida dela já
+5398780 5399620 (05) Digamos assim, né?
+5399980 5401900 (05, 06) Se ela tem algum valor para o governo
+5401900 5403680 (05) Aliás, para as corporações
+5403680 5406020 (05) Tem uma recompensa pela cabeça dele, sim
+5406020 5408060 (05) Tá, eu não vou negociar isso com ela agora
+5408060 5410220 (05) Eu quero falar com a pessoa antes
+5410220 5411380 (05) Senhora Melinda
+5411380 5413200 (05) Se você puder mandar
+5413200 5414540 (05) Já que eu não tenho a coragem de falar com ela
+5414560 5416780 (05) Que nós quase perdemos nossa vida
+5416780 5419660 (05) Que meu filho quase se sacrificou
+5419660 5420740 (05) Alex
+5420740 5422540 (05) Teve diversas avarias
+5422540 5423820 (05) A nave, inclusive
+5423820 5426340 (05) Se você puder mandar uma das...
+5426340 5428500 (05) Uma caixa
+5428500 5430680 (05) Daquele seu...
+5430680 5432580 (05) Daquela sua agradável bebida
+5432580 5433500 (05) Ou algo do tipo
+5433500 5435200 (05) Nós ficaríamos muito gratos
+5435200 5437220 (05, 04) Mandarei sim, com certeza
+5437220 5440120 (01, 04) Dois dias depois vai se arrepender muito disso
+5440120 5443100 (01) Porque ela realmente não tem noção do preço das coisas
+5443100 5444540 (01) E é realmente muito caro
+5444560 5445420 (01) Aquela bebida
+5445420 5446780 (01) Mas ali na hora
+5446780 5448780 (01) Ela tá muito feliz que ela tem o Aaron de volta
+5448780 5450500 (01) Ela achou que bebida é...
+5450500 5451600 (01) É bebida, né?
+5451700 5452220 (01) Então ela...
+5452220 5455000 (01) Ela aceitou mandar aquilo pra vocês
+5455000 5457400 (01) Uma informação importante, meu
+5457400 5460800 (01) Tu tem toda a informação daquelas plantas
+5460800 5462600 (01) E das galinhas
+5462600 5466320 (01) Tu vai dar algum uso pra isso ou não?
+5466720 5467300 (05) Para a Melinda
+5467300 5468340 (05) De graça
+5468340 5469120 (05) Eu quero saber
+5469120 5471560 (05) Eu quero conversar com uma pessoa que tava...
+5471560 5473100 (05) Que tava mal
+5473100 5474540 (05) E que a gente não entregou pra ela
+5474560 5477380 (05) Ela tá presa e tá sob nosso...
+5477380 5478520 (05) Sob nosso controle
+5478520 5480400 (05) Dependendo do que ela falar
+5480400 5482640 (05) A gente pode negociar esses planos
+5482640 5484620 (05) Com quem foi mais interessante
+5484620 5485920 (01, 05) Dois meses depois
+5485920 5487000 (01) Vocês estão num bar
+5487000 5488600 (01) Em Marte
+5488600 5492720 (01) As pessoas mais estranhas possíveis estão ali dentro
+5492720 5494880 (01) Entram vocês três
+5494880 5496460 (01) Muito bem vestidos
+5496460 5498520 (01) Foram muito bem recompensados, né?
+5498920 5500900 (01) Vocês sentam numa mesa assim mais...
+5500900 5502900 (01) Afastada deste bar
+5502900 5504400 (01) O...
+5504560 5506100 (01) Um homem na tua frente
+5506100 5508860 (01) Ele pega uma grande maleta
+5508860 5511280 (01) Ele mostra que dentro dela
+5511280 5513320 (01) Tem um...
+5513320 5514840 (01) Um cartão
+5514840 5518040 (01) Que tu consegue com o teu chip
+5518040 5518700 (01) Ele identificar
+5518700 5522340 (01) Ele tem uma quantidade absurda de créditos, né?
+5523180 5525380 (01) Que poderia fazer vocês comprar um...
+5525380 5526940 (01) Que é um asteroide só pra vocês
+5526940 5529380 (01) Ele empurra essa maleta pra ti
+5529380 5531740 (01) Tu empurra uma maleta pra ele
+5531740 5533320 (01) Ele abre esta maleta
+5533320 5534420 (01) Ele pega uma maleta pra ti
+5534420 5535920 (01) Pega de dentro dela um ovo
+5535920 5537260 (01) Ele dá uma olhada assim
+5537260 5538620 (01) Ele põe de volta
+5538620 5539900 (01) Ele fecha essa maleta
+5539900 5541060 (01) E ele sai
+5541060 5548540 (01, 03) Escudo do Mestre
+5548540 5551000 (01, 03) E chegamos a mais um Escudo do Mestre
+5551000 5551960 (01) Aquela estrutura de papelão
+5551960 5554420 (01) A madeira que o mestre usa pra fazer as anotações e lançamento de dado
+5554420 5555180 (01) Mas aqui
+5555180 5557400 (01) Aqui eu baixo essa estrutura e conto pra vocês
+5557400 5559680 (01) Tudo o que aconteceu no episódio
+5559680 5561700 (01) Esse episódio foi gravado há um bom tempo
+5561700 5564080 (01) E ele foi uma daquela leva de vale-aventura
+5564080 5565800 (01) Que a gente fez no grupo de padrinhos
+5565800 5568140 (01) Ou seja, os jogadores são padrinhos
+5568140 5570440 (01) Que por algum motivo receberam um item
+5570440 5571640 (01) Chamado Vale-Aventura
+5571640 5573340 (01) Em que eles puderam jogar
+5573340 5575480 (01) Uma aventura do RPGuash
+5575480 5577320 (01) Essa é uma das vantagens
+5577320 5579780 (01) A vantagem mais rara de ser acessada
+5579780 5581160 (01) Do RPGuash
+5581160 5582160 (01) É essa
+5582160 5584200 (01) E essas três pessoas conseguiram
+5584200 5586520 (01) Quer dizer, a Juliana pode dizer que não é rara
+5586520 5589640 (01) Já que ela conseguiu uma leva grande de participações
+5589640 5590500 (01) E no fim
+5590500 5593180 (01) Ela acabou entrando pro elenco fixo, né?
+5593180 5593920 (01) Eu tenho pessoas...
+5594080 5596200 (01) Que eu chamo mais vezes do que outras, talvez
+5596200 5598620 (01) E ela foi uma dessas pessoas tanto
+5598620 5600320 (01) Que no episódio anterior
+5600320 5601280 (01) Ela...
+5601280 5603400 (01) Embora os três que estavam lá são padrinhos, né?
+5603660 5605560 (01) Eles estavam lá como convidados
+5605560 5607580 (01) E não porque usaram este item raro
+5607580 5609260 (01) Chamado Vale-Aventura
+5609260 5610680 (01) Mas nesse episódio aqui
+5610680 5612400 (01) Foi realmente um Vale-Aventura
+5612400 5614860 (01) Esse episódio sairia ali em janeiro
+5614860 5617200 (01) Já tava tudo pronto, tudo editadinho
+5617200 5618040 (01) Tudo perfeito
+5618040 5620520 (01) Mas como você já deve ter notado
+5620520 5622360 (01) A Fanta chegou pra mim e disse
+5622360 5623020 (01) Guaxa!
+5623020 5624620 (01) Queremos mais RPGuash
+5624620 5625680 (01) Em dezembro
+5625680 5628580 (01) As pessoas precisam de mais episódios
+5628580 5629900 (01) Nesse final de ano
+5629900 5631820 (01) Afinal a Fanta sempre esteve aí com a gente
+5631820 5632900 (01) Sempre nos acompanhou
+5632900 5635260 (01) Seja nos jogos digitais em casa
+5635260 5636860 (01) Seja nos jogos online
+5636860 5638620 (01) Seja nos jogos cooperativos
+5638620 5640920 (01) Como é o RPG e os boardgames
+5640920 5644600 (01) Então por isso, além do episódio escrito especialmente pra Fanta
+5644600 5646440 (01) Que você ouviu na quarta-feira
+5646440 5648760 (01) Temos esse episódio que sairia no ano que vem
+5648760 5649820 (01) Saindo agora
+5649820 5651820 (01) E na semana que vem, presta atenção
+5651820 5652820 (01) Na terça-feira
+5653020 5654180 (01) Temos mais um episódio extra
+5654180 5655760 (01) Que era do ano que vem
+5655760 5657440 (01) E foi puxado pra cá
+5657440 5658240 (01) Além do RPGuash
+5658240 5663180 (01) A Fanta está apoiando a CGXP Worlds 2021
+5663180 5665280 (01) Lá no Tribugame Arena by Fanta
+5665280 5666780 (01) Vão ter várias atividades lá
+5666780 5668080 (01) Várias brincadeiras
+5668080 5669460 (01) Vai ter CSGO
+5669460 5670740 (01) Vai ter o Gaules
+5670740 5671980 (01) Então dá uma conferida lá
+5671980 5673920 (01) Se você ainda não se inscreveu na CGXP
+5673920 5675420 (01) Eu falei lá no início do episódio
+5675420 5676220 (01) Vai lá
+5676220 5678120 (01) Inscrição gratuita
+5678120 5679060 (01) Tu te inscreveu
+5679060 5681540 (01) Tem acesso a muita coisa maravilhosa
+5681540 5682860 (01) E vai curtir o conteúdo
+5682860 5683980 (01) Muito bacana
+5683980 5685900 (01) Também não deixa de acompanhar a Fanta
+5685900 5686840 (01) Tanto no Twitter
+5686840 5687960 (01) Quanto no Instagram
+5687960 5689120 (01) Em especial no Instagram
+5689120 5691000 (01) Vai ter uma cobertura muito boa do evento
+5691000 5691980 (01) Então dá uma conferida lá
+5691980 5692960 (01) Dá uma curtida lá
+5692960 5695260 (01) Vai lá, fala que veio pelo RPGuash
+5695260 5696860 (01) Que você gostou de episódios extras
+5696860 5698440 (01) Dá esse apoio pra gente
+5698440 5700960 (01) Agradece esta marca maravilhosa
+5700960 5701940 (01) Mas corre
+5701940 5703940 (01) Porque o evento vai ser
+5703940 5706100 (01) Neste sábado e neste domingo
+5706100 5707420 (01) Dia 4 e 5
+5707420 5709240 (01) Se você está ouvindo isso no lançamento na sexta-feira
+5709240 5709840 (01) É amanhã
+5709840 5711140 (01) Se você está ouvindo isso no sábado
+5711140 5712380 (01) Cara, é hoje
+5712380 5712840 (01) E amanhã
+5712860 5713220 (01) É amanhã
+5713220 5715180 (01) A ideia da aventura de hoje veio
+5715180 5718040 (01) Muita gente me cobra por uma aventura cyberpunk
+5718040 5720220 (01) Que é uma ambientação que eu tive pouca leitura
+5720220 5722600 (01) Então apareceu muito pouco aqui no RPGuash
+5722600 5723540 (01) Por ser um tema
+5723540 5725000 (01) Não que eu não goste
+5725000 5725760 (01) Mas é um tema que
+5725760 5727220 (01) Eu não me sentia seguro
+5727220 5727860 (01) Pra estar trabalhando
+5728640 5731720 (01) Eu joguei o cyberpunk 2077
+5731720 5733320 (01) Fiz a platina ainda
+5733320 5734720 (01) No mês de lançamento
+5734720 5736560 (01) Embora tenha alguns bugs
+5736560 5738580 (01) Algumas coisas estranhas lá
+5738580 5740200 (01) E eu gostei bastante da história
+5740200 5741000 (01) Em especial da Panam
+5741000 5742120 (01) E a ideia desse episódio
+5742120 5742840 (01) É dar um gostinho
+5742860 5744060 (01) Desse cyberpunk
+5744060 5745180 (01) Embora a gente vá
+5745180 5746300 (01) Pro espaço
+5746300 5748060 (01) Tentei criar várias ideias
+5748060 5749860 (01) Do que poderia ser o problema
+5749860 5751340 (01) Desses jogadores no espaço
+5751340 5753160 (01) A ideia é uma ideia assim
+5753160 5754860 (01) Tem várias mídias que brincam com isso
+5754860 5755940 (01) O próprio Dead Space
+5755940 5757480 (01) Em que o Isaac vai lá
+5757480 5759660 (01) Resgatar a namorada
+5759660 5761320 (01) Várias histórias sobre
+5761320 5763360 (01) Chegar numa nave abandonada
+5763360 5765840 (01) Além o oitavo passageiro também
+5765840 5766420 (01) Obviamente
+5766420 5767980 (01) É uma inspiração
+5767980 5770120 (01) Então a ideia é uma nave abandonada
+5770120 5772000 (01) Com criaturas lá dentro
+5772000 5772840 (01) Como você sabe
+5772860 5775060 (01) Supondo que o Guaxaverso existe
+5775060 5777880 (01) Aliens é uma coisa raríssima
+5777880 5778760 (01) Então eu não queria
+5778760 5781640 (01) Só soltar uns aliens aleatórios
+5781640 5784080 (01) Então eu pensei em criaturas
+5784080 5785680 (01) Que poderiam ser mortais no espaço
+5785680 5787300 (01) Depois de várias anotações
+5787300 5788620 (01) Me surgiu a frase
+5788620 5791420 (01) No espaço ninguém pode ouvir você cacarejar
+5791420 5792760 (01) Com essa frase idiota
+5792760 5795440 (01) Eu por sinal queria que esse fosse o título do episódio
+5795440 5797360 (01) Mas aí entregava demais
+5797360 5798540 (01) Então eu desisti
+5798540 5801520 (01) Mas toda a ideia de ser uma aventura
+5801520 5802660 (01) Inicialmente cyberpunk
+5802860 5804220 (01) De ser um resgate
+5804220 5806020 (01) De fazer essa brincadeira
+5806020 5809080 (01) Das mega corporações que a gente vê em cyberpunk
+5809080 5811540 (01) Então espero que tenham curtido
+5811540 5813120 (01) Eu pretendo sim
+5813120 5815180 (01) Explorar um pouco mais esse mundo
+5815180 5816720 (01) Em solo que ficou
+5816720 5819060 (01) Essa ideia do planeta
+5819060 5820580 (01) Com pouquíssimo verde
+5820580 5822720 (01) É engraçado como coisas
+5822720 5824840 (01) Invertem o valor
+5824840 5826540 (01) Coisas que antigamente
+5826540 5828720 (01) Eram falas de um
+5828720 5830600 (01) Certo grupo de pessoas
+5830600 5832520 (01) E depois muda
+5832860 5834740 (01) Eu vou falar mais sobre isso no Guaxa Verso
+5834740 5836820 (01) Não esqueça de deixar seus comentários aqui no post
+5836820 5838720 (01) Se você não deixou comentário no post anterior
+5838720 5840900 (01) Deixa comentário no post anterior também
+5840900 5842060 (01) Vai ter Guaxa Verso
+5842060 5843840 (01) Eu não sei quando porque são três
+5843840 5845960 (01) Mas teremos Guaxa Verso sim
+5845960 5847420 (01) Então deixem seus comentários
+5847420 5850140 (01) Eu quero muito saber o que vocês acharam desse episódio
+5850140 5853400 (01) E quero contar alguns pormenores sobre ele
+5853400 5854720 (01) Quero agradecer aos jogadores
+5854720 5855760 (01) Então a Ju
+5855760 5857780 (01) Que é madrinha aqui do RP Guaxa
+5857780 5860300 (01) Já estava no episódio passado e vai estar no próximo
+5860300 5862380 (01) A Ju é uma participante frequente do podcast
+5862380 5862840 (01) No Facebook e no Instagram
+5862860 5863640 (01) No fim do universo
+5863640 5865380 (01) Ele é um podcast de RPG
+5865380 5866860 (01) Assim como o RP Guaxa
+5866860 5869300 (01) Ele tem uma forte inspiração aqui na gente
+5869300 5872200 (01) Até porque o criador lá, o Mike
+5872200 5874980 (01) Ele é padrinho nosso, ele já gravou aqui com a gente também
+5874980 5876060 (01) Então dá uma conferida lá
+5876060 5877580 (01) Conheçam no fim do universo
+5877580 5879040 (01) Que é um podcast de RPG
+5879040 5881920 (01) Agradecer também ao Gabriel Ballardino
+5881920 5884220 (01) Ele é padrinho nosso
+5884220 5885980 (01) Assinar a primeira vez que ele grava também
+5885980 5887640 (01) Ele pediu pra deixar o Instagram dele
+5887640 5889080 (01) Ele faz um trabalho muito bacana
+5889080 5891180 (01) Ele se pinta de palhaço
+5891180 5892820 (01) E lê poesia lá
+5892860 5894740 (01) Então dê uma conferida no Instagram dele
+5894740 5897400 (01) E também o terceiro padrinho
+5897400 5899080 (01) O nosso querido amigo Hugo
+5899080 5901300 (01) Ele é cantor de Rap, como eu falei lá na abertura
+5901300 5903220 (01) Tem músicas dele no Deezer
+5903220 5904380 (01) No Spotify, no Youtube
+5904380 5907060 (01) Eu vou deixar o link pra vocês darem uma conferida
+5907060 5908800 (01) Quero agradecer muito a esses três
+5908800 5910380 (01) Que vocês verão mais vezes
+5910380 5913340 (01) Uns mais do que outros, mas vocês verão mais vezes
+5913340 5915880 (01) Esse episódio teve a edição
+5915880 5917000 (01) Do Rafael Zorzal
+5917000 5918920 (01) É editor do RP Guaxa, editor do Questcast
+5918920 5920960 (01) É um editor maravilhoso, precisou de edição
+5920960 5922580 (01) Fala com o Rafael Zorzal
+5922860 5925200 (01) Sério, ele é um editor muito rápido
+5925200 5926400 (01) É um editor muito bom
+5926400 5928540 (01) Você não vai se arrepender
+5928540 5930960 (01) E conheça também o Arquivos da Patrulha
+5930960 5932660 (01) O podcast de audiodrama
+5932660 5934700 (01) Que ele escreve e edita
+5934700 5936640 (01) Eu participo lá como personagem também
+5936640 5938480 (01) Então conheço o Arquivos da Patrulha
+5938480 5940940 (01) Esse episódio teve a revisão da Deb Cabral e do Felipe Xavier
+5940940 5942800 (01) Essas duas figuras maravilhosas
+5942800 5944940 (01) Que sempre me ajudam muito ouvindo o episódio
+5944940 5947620 (01) E apontando algumas coisas que podem melhorar
+5947620 5949100 (01) Nem sempre eu consigo ouvir tudo
+5949100 5950360 (01) O que eles me passam, né
+5950360 5952740 (01) Então às vezes escapa alguma coisa
+5952860 5954860 (01) Não é culpa deles, não se preocupem
+5954860 5956720 (01) O RP Guaxa tem canecas, tem lojas parceiras
+5956720 5958740 (01) Que você pode ver aqui no post
+5958740 5961020 (01) E tem um patronato maravilhoso
+5961020 5963040 (01) Em que você pode, como esses jogadores
+5963040 5965580 (01) Concorrer a participar de uma aventura
+5965580 5966820 (01) Mas é raríssimo
+5966820 5968360 (01) Eu não aconselho ninguém a assinar
+5968360 5970080 (01) Porque quer jogar um RP Guaxa
+5970080 5971780 (01) Mas uma coisa que é bem fácil
+5971780 5973820 (01) É gravar voz pra NPC
+5973820 5976840 (01) E esse episódio teve a voz da Mel
+5976840 5978840 (01) Que fez a voz da Melinda, né
+5978840 5981060 (01) E do editor do Rafael Zorzal
+5981060 5982740 (01) Mas tem episódios que tem um monte de gente
+5982740 5985040 (01) Falando, aí tem muito mais oportunidade
+5985040 5985880 (01) Para os padrinhos
+5985880 5988340 (01) Obrigado a você que ouviu, obrigado a Fanta
+5988340 5991060 (01) Que nos apoiou, não esqueça de conferir o conteúdo deles
+5991060 5992840 (01) Lá no Tribu Game Arena
+5992840 5995000 (01) By Fanta, nessas P-Worlds
+5995000 5996680 (01) 21, rola em 6
+5996680 5999360 (01) Rola em 20, mas tudo errado rola no chão
+5999360 6001420 (01) Que apaga o fogo e diverte
+6001420 6003000 (01) Beijo no coração de vocês, gente
+6012740 6042720 (unknown) Tchau, tchau
+6042740 6044740 (unknown) Tchau

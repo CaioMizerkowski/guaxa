@@ -1,0 +1,3175 @@
+0 29980 (03) O que é Dodgeball?
+30020 33100 (03) Para arremessar, primeiro você precisa arrancá-la com uma bola de borracha.
+33820 34580 (03) Ou quase isso.
+36160 38340 (03) Episódio de hoje, Queimada.
+39120 41380 (03) A ascensão das lendárias cobras roxas.
+42140 45520 (03) Com meus grandes amigos Fencas, Debbie e André Trapani.
+46400 50020 (00) O Realidades Paralelos do Gostinim usa o sistema Gostinim de Cambiarras.
+50980 55620 (00) Nele, cada jogador possui apenas um único atributo, que vai de 2 a 5.
+56100 59620 (00) Quanto maior o atributo, mais atlético é o personagem.
+60000 63440 (00) Quanto menor, mais inteligente e carismático.
+63900 68960 (00) Sempre que o jogador faz alguma coisa com uma chance de errar, ele joga dois dados.
+69340 74160 (00) E precisa tirar seu atributo ou menos para ataques e ações físicas.
+74460 78560 (00) E seu atributo ou mais para ações intelectuais ou sociais.
+79320 85220 (00) Quando a jogada for fácil, ou tiver o auxílio de algum jogador, um dado a mais.
+86040 89360 (00) E se o jogador for difícil, rola-se um dado a menos.
+89360 93220 (00) Eu sou a Ana B. E sou a Marlinha do RP Guaxa.
+93540 99960 (00) Porque aqui, em todos os lugares, tem os lógicos e os bichinhos mais legais de todo o mundo.
+100680 101180 (00) É isso.
+102800 104300 (03) Não deixe de seguir nas redes sociais.
+104400 105820 (03) É uma salva a chininha, arroba a RP Guaxa.
+105960 107200 (03) Tanto no Twitter quanto no Instagram.
+107480 110340 (03) Considere também nos apoiar no PicPay ou no Padrim.
+110500 111320 (03) E boa aventura.
+119360 122240 (09) Sete realidades paralelas.
+122720 125120 (09) Uma infinidade de possibilidades.
+125860 128520 (09) Três jogadores e um guaxinim.
+129500 134820 (09) Já estão todos no campo e aguardando o apito para o início a mais uma aventura.
+138240 139280 (11) Cinco.
+141200 142240 (01, 11) Quatro.
+144100 145140 (01) Três.
+147140 147780 (07) Dois.
+149360 150360 (unknown) Três.
+152360 153000 (01) RPG.
+153580 155320 (01) Realidades paralelas do guaxinim.
+155680 158120 (01) Sua aventura de bolso na forma de podcast.
+158500 161020 (01) Uma jornada completa a cada episódio.
+175760 179000 (03) Após um governo conturbado, os Estados Unidos do Brasil,
+179360 182020 (03) passou por uma série de proibições absurdas.
+182440 183660 (03) A maioria envolvendo lazer.
+184180 188200 (03) Proibiu estilos musicais, danças, exceto o sertanejo e o vaneirão.
+188840 189920 (03) Esportes e etc.
+190360 196140 (03) Do dia para a noite, os esportes mais populares dos estados brasilenses se tornaram crime.
+196400 197820 (03) Futebol, mesmo de botão.
+198280 199180 (03) Vôlei de quadra.
+199560 200120 (03) Basquete.
+200120 205580 (03) Na verdade, todos os esportes com cestas, no geral, por conta do seu cunho sexual.
+206080 206880 (03) É o que testa na lei.
+207060 208900 (03) Skate, surf, esqui na neve.
+208900 211420 (03) Embora não seja praticado em nenhum estado.
+211980 213220 (03) Boccia, entre outros.
+213420 214900 (03) O povo viveu momentos de tristeza.
+216120 217300 (03) Só que a tristeza durou pouco.
+217660 222740 (03) Porque maior que a incapacidade do cidadão médio em julgar a índole de um ser humano branco vestido um terno,
+223120 225280 (03) é a sua capacidade de achar brechas na lei.
+225760 229080 (03) E a queimada, antes relegada a professores de educação física,
+229480 231600 (03) que queriam ver sangue no nariz dos gordinhos,
+232060 233400 (03) se tornou um esporte nacional.
+233680 235200 (03) Hoje, com a paz voltando a reinar,
+235200 238200 (03) e os esportes normais voltando a serem as grandes estrelas,
+238900 241320 (03) a queimada está perdendo sua chama.
+241560 242480 (03) Queimada? Chama?
+242880 245400 (03) O último torneio vai ser realizado esse ano.
+245780 247000 (03) E precisa ser épico.
+247420 249020 (03) Ou será esquecido ano que vem.
+249620 252060 (03) Para esse torneio, 38 times se inscreveram.
+252480 255180 (03) E 36 foram selecionados para a disputa.
+255620 257300 (03) Que já começou com uma grande perda.
+257680 259900 (03) Com o menino Ney voltando a jogar futebol,
+260320 262420 (03) o time Toys saiu da competição,
+262820 267480 (03) dando lugar ao time que ficou classificado na 37ª posição.
+267480 267660 (03) Esse é o time que ficou classificado na 37ª posição.
+268400 268880 (03) Esse é o time que ficou classificado na 37ª posição.
+268880 270820 (03) Esse é o time dos nossos jogadores, que são...
+270820 273420 (03) André, fala sobre seu personagem, aparência e atributo.
+273520 277140 (06) O menino Ney Souza é um menino magro, baixinho, de 17 anos,
+277540 280440 (06) que sempre teve o defeito de não saber falar não para as outras pessoas.
+280840 282620 (06) Mesmo para os pedidos mais absurdos.
+283040 286120 (06) Ele não conseguia evitar, porque sempre queria tentar agradar as pessoas.
+286320 289620 (06) O que não ajudou muito, já que por ter nascido numa sexta-feira,
+289780 293340 (06) às 18h57, as pessoas nunca lembravam o nome dele
+293340 296940 (06) e costumavam contar a história sobre ele em que ele estava presente.
+296940 298360 (06) Porque esqueciam que ele estava lá.
+298360 301320 (06) Por causa do bullying, das pessoas jogando coisas nele o tempo inteiro,
+301540 304360 (06) e também porque ele sempre se meteu em algumas situações malucas
+304940 307460 (06) quando ele ia ajudar a fazer o que os outros pediam,
+307760 309220 (06) ele desenvolveu uma habilidade incrível,
+309740 312240 (06) a de desviar de qualquer coisa que estivesse indo na sua direção.
+312540 314500 (06) Um dia na escola, o professor de Educação Física
+314500 317360 (06) estava descendo com as bolas queimadas de uma escada
+317360 320160 (06) e quando um aluno esbarrou nele, ele deixou cair tudo.
+320500 322700 (06) Tudo estava indo em direção ao Irineu,
+322900 324580 (06) que vinha subindo na direção contrária.
+324820 326560 (06) Ele achou que o menino, que era familiar,
+326560 328120 (06) mas ele não conseguia lembrar o nome,
+328360 330960 (06) ia ser acertado, rolar a escada abaixo e se machucar bastante.
+331080 334500 (06) Mas se surpreendeu ao ver ele desviando desastrosamente de todas as bolas.
+335100 337520 (06) Com isso, ele pediu para o Irineu entrar no time de queimada.
+337720 341580 (06) Ele não queria, porque o único interesse era acompanhar a história de quadrinhos
+341580 342820 (06) sobre seus heróis favoritos,
+342960 345760 (06) uns cavaleiros que usavam armadura de animais para combater o mal.
+346160 347320 (06) Mas não conseguiu falar não.
+347600 350600 (06) Ele foi seguindo, sempre preocupado de estar nos jogos,
+350820 352320 (06) tanto com medo de levar a bolada,
+352460 356160 (06) quanto porque quanto mais ele aparece, parece que mais as pessoas pedem coisas para ele
+356160 358140 (06) e menos tempo ele tem para suas revistas.
+358680 360040 (06) Mas até hoje não conseguiu falar não
+360040 363420 (06) e acabou se vendo tendo que participar de um torneio.
+363820 364760 (06) O atributo dele é 2.
+365200 367940 (15, 03) Debbie, fala sobre o seu personagem, a aparência e o atributo.
+367960 372780 (15, 03) Minha personagem é a Regina, ou Regis, como ela é conhecida quando ela está em quadra.
+373500 379360 (15) Ela tem 17 anos, cabelo liso, escuro, muito longo,
+379800 382180 (15) mas os cabelos são sempre presos num coque.
+382180 387680 (15) Tem atributo 5, ela é muito forte, ela vai para a academia direto,
+388360 389200 (15) via globo.
+389880 392220 (15) E quando tudo foi para o espaço,
+392380 394340 (15) quando todas as formas de lazer foram para o espaço,
+394800 398040 (15) ela resolveu que ela ia ter que fazer alguma coisa
+398040 402300 (15) e terminou caindo na queimada.
+402860 406140 (15) E a queimada para ela virou tudo na vida.
+406620 409040 (15) Porque ela sabe, ela tem certeza,
+409160 410740 (15) porque a família dela é muito religiosa,
+411320 414000 (15) ela tem certeza que o dia que ela parar de jogar a queimada,
+414000 416340 (15) vão querer que ela case,
+416680 418000 (15) que ela fique dona de casa,
+418360 420320 (15) e ela não quer isso de jeito nenhum.
+420820 423320 (15) Então ela precisa ganhar esse jogo.
+423760 426280 (03) E Fênix fala sobre o personagem, a aparência e o atributo.
+426560 428700 (04) Olá, serei Pejamim Branco,
+429040 431340 (04) mas é popularmente conhecido como o Bacana.
+431580 434300 (04) Pejamim, ele cresceu com um garoto bem gordinho,
+434360 435720 (04) que sofria bullying na escola.
+436500 438640 (04) E aí quando ficou adulto, ele continuou gordinho,
+438740 439780 (04) continuou sofrendo bullying.
+440020 441340 (04) Até que um dia ele disse chega,
+441340 443380 (04) e aí ele encontrou o seu melhor amigo,
+443520 445600 (04) que virou o personal trainer, o Michel,
+446180 447340 (04) e entrou numa dieta rigorosa,
+447340 449340 (04) aliada a exercícios físicos,
+449340 451340 (04) que o fez ficar forte,
+451340 453340 (04) e de certa forma esbelto.
+453340 455340 (04) E aí a partir dessa história,
+455340 457340 (04) ele teve a ideia de vender esse método de emagrecer,
+457340 460340 (04) usando ele como grande inspiração,
+460340 462340 (04) e construiu uma academia.
+462340 464340 (04) E a academia fez tanto sucesso,
+464340 466340 (04) que virou uma rede de academias,
+466340 468340 (04) em todo o bairro da cidade,
+468340 471340 (04) de repente havia mais uma Academia Globo.
+471340 474340 (04) E aí o Bacana foi ficando cada vez mais famoso.
+474340 476840 (04) Hoje, ele continua baixinho, como sempre,
+476840 478840 (04) atarracado, forte,
+478840 482840 (04) mas aquele forte a uma rosquinha de começar a ficar gordo.
+482840 485840 (04) Mas ele só usa roupas apertadas e um pouco bizarras,
+485840 487840 (00, 04) para mostrar como ele ficou forte.
+487840 490840 (04) E dentre todas as atividades da Academia Globo,
+490840 493840 (00, 04) uma que mais fazia sucesso no início,
+493840 495840 (04) era o clube de queimar.
+495840 498840 (04) Todo mundo queria entrar para virar parte
+498840 500840 (04) dos famosos Cobras Roxas,
+500840 502840 (04) o grande time campeão.
+502840 504840 (04) Por onde já passaram diversas lendas,
+504840 506840 (04) como Blade, Laser,
+506840 507840 (04) Blazer,
+507840 509840 (04) e até a eterna Fran Stalino...
+509840 512840 (04) ...
+512840 514840 (04) Mas, com o declínio da queimada,
+514840 516840 (04) veio também o declínio das Cobras Roxas,
+516840 518840 (04) e do próprio Bacana,
+518840 520840 (04) que ficou cada vez mais isolado.
+520840 522840 (04) Não aguentando essa rejeição,
+522840 524840 (04) ele voltou a se perder nessa compulsão alimentar,
+524840 526840 (04) e engordou novamente,
+526840 528840 (04) quase que afogado nessa tristeza.
+528840 530840 (04) E aí, ele ouviu falar sobre esse tal
+530840 532840 (04) de último grande torneio de queimar,
+532840 534840 (04) e apostou todas as suas fichas
+534840 538840 (04) de retornar as glórias para as Cobras Roxas,
+538840 540840 (04) da Academia Globo e dele próprio.
+540840 544840 (04) Hoje, o Bacana tem o atributo 4.
+558840 560840 (03) Além de vocês três,
+560840 562840 (03) o time precisava ter três jogadores reservas,
+562840 564840 (03) e os três jogadores reservas são adolescentes,
+564840 566840 (03) assim, quase adultos.
+566840 568840 (03) É o Damien,
+568840 570840 (03) que é um menino que só usa preto,
+570840 572840 (03) pinta a ponta dos cabelos e as unhas,
+572840 574840 (03) e está sempre com um ar triste,
+574840 576840 (03) menos quando assiste partidas de queimada,
+576840 578840 (03) mas ele esconde seu sorriso e o brilho nos olhos
+578840 580840 (03) com o cabelo.
+580840 582840 (03) Juliano, é um nerd negro
+582840 584840 (03) que ama basquete e livros,
+584840 586840 (03) tanto que ele costuma ler
+586840 588840 (03) durante as partidas, enquanto está no banco de reserva,
+588840 590840 (03) e não presta muita atenção
+590840 592840 (03) no que está acontecendo.
+592840 594840 (03) Harold Master, um rapaz comum
+594840 596840 (03) que usa calça jeans
+596840 598840 (03) e camiseta.
+598840 600840 (03) Os reservas nunca jogaram oficialmente.
+600840 602840 (03) Todas as partidas foram vencidas por vocês três,
+602840 604840 (03) na verdade, perdidas,
+604840 606840 (03) porque se vocês ficaram em 37
+606840 608840 (03, 17) de 38 possíveis,
+608840 610840 (03) vocês não devem ter ganho muita coisa.
+610840 612840 (03) O fato é que os reservas
+612840 614840 (03) estão no time apenas para completar
+614840 616840 (03) a inscrição mesmo.
+616840 618840 (03) Se isso fosse um videogame, eles seriam NPCs.
+618840 620840 (03) Não esperem nada deles.
+620840 622840 (03) Quando preencheram a inscrição,
+622840 624840 (03) qual era o nome do time de vocês?
+624840 626840 (03) Eu acho que já foi contado,
+626840 628840 (03) mas vamos gravar isso.
+628840 630840 (04, 03) Cobras roxas, claro.
+630840 632840 (04, 03) Como eu falei,
+632840 634840 (03) vocês haviam se classificado em
+634840 636840 (03) 37 de 38,
+636840 638840 (03) mas com a desistência de um dos times,
+638840 640840 (03) vocês foram chamados para jogar.
+640840 642840 (03) O torneio, a primeira partida
+642840 644840 (03) de vocês, é amanhã,
+644840 646840 (03) e será contra o
+646840 648840 (03) Queimada Bar e Motoclube de Jumazinha do Sul.
+648840 650840 (03) O ônibus que vai levar vocês
+650840 652840 (03) até o local da partida,
+652840 654840 (03) onde vão acontecer os jogos.
+654840 656840 (03) Ele já está estacionado lá de uma quadra
+656840 658840 (03) que vocês usam para treinar
+658840 660840 (03) quando não está chovendo.
+660840 662840 (03) Dentro do ônibus já estão o motorista
+662840 664840 (03) e os três reservas.
+664840 666840 (03) E esse é o momento de vocês.
+666840 668840 (03) Vocês estão ali no centro daquela quadra.
+668840 670840 (03) Os três, né?
+670840 672840 (03) Não sei se vão combinar algo,
+672840 674840 (03) se vão dar alguma palavra de motivação entre si.
+674840 676840 (03) Esse é o jogo de vocês.
+676840 678840 (03) Vocês sabem que os reservas estão ali
+678840 680840 (03) e são vocês três.
+680840 682840 (03) Esse torneio é de vocês.
+682840 684840 (03) E aí, vocês vão falar alguma coisa?
+684840 686840 (03) O que vocês vão fazer ali
+686840 688840 (04, 03) antes de entrar no ônibus?
+688840 690840 (04) Eu começo dando palavras de incentivo para o Irineu
+690840 692840 (04) e para a Regis, porque
+692840 694840 (04) é agora, é a última chance
+694840 696840 (04) das cobras-coxas de provarem como
+696840 698840 (15, 04) grandes campeões.
+698840 700840 (15, 04) Você falou que é para a Regis e para quem?
+700840 702840 (15) Para o Irineu.
+702840 704840 (15, 06) Quem? Ah, é. Desculpa.
+704840 706840 (06) Eu estou coçando a cabeça com uma gota gigante
+706840 708840 (06) na minha testa, parada,
+708840 710840 (06) nada.
+712840 714840 (04) Desculpa. Mas eu já chego...
+714840 716840 (04) Gente, agora
+716840 718840 (04) é a nossa hora. Agora é a hora
+718840 720840 (04) da gente se provar.
+720840 722840 (15, 04, 06) Agora é a hora de mostrar do que a gente
+722840 724840 (15, 04, 06) é feito. Bora!
+724840 726840 (06) O Irineu está tremendo num canto, assim,
+726840 728840 (15, 06) envolvendo com a cabeça baixa.
+728840 730840 (15) A Regis está espumando.
+730840 732840 (15, 04, 06) A gente está no ônibus
+732840 734840 (04) para ir para o jogo. Não está para começar o jogo agora, não.
+734840 736840 (04, 03) Não, vocês estão na quadra
+736840 738840 (03) ao lado do ônibus.
+738840 740840 (03) O ônibus que espera vocês para levar,
+740840 742840 (05, 03) porque o jogo é amanhã. Ah, tá. Beleza.
+742840 744840 (05, 03) Mas vocês vão viajar daqui a pouco.
+744840 746840 (05, 03) Beleza. E está tudo pronto para a viagem, né?
+746840 748840 (05, 03) Tudo pronto. Vocês vão me dizer,
+748840 750840 (15, 03) entramos no ônibus, algo vai acontecer.
+750840 752840 (15) Beleza. Mochilinha com as barras, assim,
+752840 754840 (15) de cereal, né?
+754840 756840 (15) Com um desodorantezinho básico
+756840 758840 (15, 04) e é isso.
+758840 760840 (04) Informe já tudo arrumado ali.
+760840 762840 (04) A minha roupa,
+762840 764840 (04) que é um maiô masculino
+764840 766840 (04) que eu uso, que eu acho bem bacana,
+766840 768840 (07, 04) mostra todo dia de noite
+768840 770840 (07, 04) e eu estou pronto.
+770840 772840 (07, 06) Não! Eu estou indo atrás
+772840 774840 (06) com uma mochila enorme,
+774840 776840 (06) porque eu estou levando coisa para um monte de gente que pediu.
+776840 778840 (06) Tipo, para os reservas.
+778840 780840 (06) Então eu estou levando muito mais
+780840 782840 (03, 06) coisa do que eu deveria.
+782840 784840 (03) Vocês começam a dirigir para o ônibus.
+784840 786840 (03) Quando uma bola é atirada
+786840 788840 (03) contra ele, o ônibus balança com impacto.
+788840 790840 (03) E vocês olham para trás.
+790840 792840 (03) Do outro lado da quadra estão os
+792840 794840 (03) garotos do Flipper. São um grupo de
+794840 796840 (03) delinquentes que costumavam agir em casas de
+796840 798840 (03) arcade, os famosos flipperamas,
+798840 800840 (03) onde roubavam ficha dos menores,
+800840 802840 (03) tentavam usar o lacre do refrigerante para habilitar
+802840 804840 (03) créditos e faziam um bully
+804840 806840 (03) com quem fosse menor do que eles.
+806840 808840 (03) Com o fim dessas lojas, esses garotos que só
+808840 810840 (03) precisavam de abraços quando eram mais jovens
+810840 812840 (03) encontraram na queimada a oportunidade
+812840 814840 (03) perfeita para continuarem a ser escrotos
+814840 816840 (03) com os mais jovens e descontar a raiva
+816840 818840 (03) que sentem contra um mundo politicamente
+818840 820840 (03) correto que tenta inserir personagens
+820840 822840 (03) femininas não sexualizadas nos jogos de luta,
+822840 824840 (03) estragando assim suas experiências
+824840 826840 (03) e os fazendo refletir sobre o papel da mulher.
+826840 828840 (12, 03) Na sociedade. Os garotos do Flipper
+828840 830840 (03) eles foram o time que ficou
+830840 832840 (03) em último lugar. Vocês são 37
+832840 834840 (03) mas existiu um 38
+834840 836840 (03) e eles estão ali.
+836840 838840 (03) Um deles toma a frente e diz
+838840 840840 (08, 03) É injusto!
+840840 842840 (08) Deveria haver uma competição entre os dois
+842840 844840 (08) times que estavam de fora para ver quem ficaria
+844840 846840 (08) com a vaga. Por isso estamos aqui
+846840 848840 (08) para desafiar vocês.
+848840 850840 (08) E quem vencer vai para o campeonato.
+850840 852840 (08, 04) Ah, cala a boca!
+852840 854840 (04) Você sabe com quem você está falando? Eu só olho ele assim
+854840 856840 (04) de baixo. Na verdade, de baixo literalmente
+856840 858840 (04) porque eu sou baixinho, mas só de campo
+858840 860840 (04, 06) de olho assim, não dando tanta atenção.
+860840 862840 (06) Eu estava pronto para levantar o dedo e falar
+862840 864840 (06) que eles podem ficar com a vaga, mas aí
+864840 866840 (06) a Regis falou, cala a boca, eu fiquei quieto.
+868840 870840 (08) Os titulares estão no ônibus?
+870840 872840 (08) Que?
+872840 874840 (04) Eu não entendi a provocação deles, eu só falei
+874840 876840 (04) Vocês sabem com quem vocês estão falando?
+876840 878840 (15, 04) Como se eu não tivesse ouvido nada.
+878840 880840 (15) E aí? Vão aceitar a disputa ou não?
+880840 882840 (15) A gente não tem que aceitar a disputa de vocês
+882840 884840 (15) não, bandimané.
+884840 886840 (15, 03) A gente já ganhou.
+886840 888840 (15, 03) É?
+888840 890840 (03) Um dos rapazes estava do lado
+890840 892840 (03) do que parece ser o líder, ele chega mais
+892840 894840 (03) perto do bacana
+894840 896840 (07, 05, 03) ele põe as mãozinhas assim do lado do corpo
+900840 902840 (04, 03) Meu bril, é isso mesmo, né?
+904840 906840 (04) Tem que saber que eu me fiz
+906840 908840 (04) eu me fiz para ficar assim
+908840 910840 (04) vamos aceitar agora, ele e eu, Regis, é agora
+910840 912840 (15, 04) nós três contra eles três
+912840 914840 (15, 07, 04) Você vai cair nessa pilha errada, rapaz
+914840 916840 (15, 04) A gente é muito melhor do que todos
+916840 918840 (15) Não, eu até acho que a gente
+918840 920840 (15) ganha bacana, mas
+920840 922840 (15) você acha mesmo? A gente já ganhou
+922840 924840 (15) a gente só precisa entrar no ônibus e ir embora, cara
+924840 926840 (15, 04) Eu tenho um plano infalível
+926840 928840 (04) a gente vai ganhar deles muito fácil
+928840 930840 (15, 04) vem comigo
+930840 932840 (15, 03) Regis, só segue
+932840 934840 (03) Eles pegam a bola que estava lá
+934840 936840 (03) perto do ônibus com uma amassada assim
+936840 938840 (03) em formato da bola na parede
+938840 940840 (03) do ônibus
+940840 942840 (03) e eles se posicionam na quadra
+942840 944840 (03, 06) O ônibus já está na quadra também
+944840 946840 (04, 06) eles estão dormindo mais do que eu estava antes
+946840 948840 (04) É, aquele minuto metálico estava
+948840 950840 (04) eu estou com o meu uniforme oficial
+950840 952840 (04) com o meu maiô
+952840 954840 (04) já estou me aquecendo aqui
+954840 956840 (04) e flexionando os músculos
+956840 958840 (15, 04) e olhando para eles com o meu olhar compenetrante
+958840 960840 (15, 04) Eu só quero dizer que a Regis não usa o maiô
+960840 962840 (15) ela acha um absurdo
+962840 964840 (15) esse maiô
+964840 966840 (15) ela se recusa
+966840 968840 (15) a usar o maiô
+968840 970840 (03) A grande pergunta é
+970840 972840 (03, 06) o Irineu usa o maiô?
+972840 974840 (06) O maiô eu uso
+974840 976840 (06) Então eu uso
+976840 978840 (06) Eu estou ali com o maiô
+978840 980840 (06) eu fiquei meio para trás na quadra
+980840 982840 (06) e estou meio tremendo, nervoso
+982840 984840 (06) porque afinal de contas
+984840 986840 (03, 06) a gente mais perde do que ganha
+986840 988840 (03) O rapaz joga a bola para o Bacana
+988840 990840 (04, 03, 08) e diz
+990840 992840 (04, 03) As crianças começam
+992840 994840 (04) e eles se posicionam
+994840 996840 (04) Não sem antes o nosso cântico inicial
+996840 998840 (04) Irineu, é agora
+998840 1000840 (04) eu fico perto dele
+1000840 1002840 (04) eu viro para ele
+1002840 1004840 (04) e ele começa a fazer
+1004840 1006840 (04) a bater duas vezes palmas
+1006840 1008840 (04) e fazer o barulhinho da cobra
+1008840 1010840 (04) então fica o
+1014840 1016840 (04) com o olhar
+1016840 1018840 (04) e aí a gente se vira para eles
+1018840 1020840 (04) com o olhar amedrontador
+1020840 1022840 (04) eu comecei a fazer isso
+1022840 1024840 (04) espero muito que Regis e Irineu façam isso
+1024840 1026840 (15, 06) senão vai ser mais ridículo do que já é
+1026840 1028840 (06) Eu estou fazendo também
+1028840 1030840 (15, 06) só que meu olhar não está tão amedrontador
+1030840 1032840 (15) mas eu estou tentando
+1032840 1034840 (03) Ah tá
+1034840 1036840 (03) O problema é só que é indumentário
+1036840 1038840 (03) o resto tu comprou
+1038840 1040840 (03) Beleza
+1040840 1042840 (03) Vamos lá
+1042840 1044840 (03) Rola dois dados Bacana
+1044840 1046840 (03) 3x1
+1046840 1048840 (03) A ideia é ameaçar o teu oponente
+1048840 1050840 (04, 03) É colocar já
+1050840 1052840 (04) os pratos limpos desde o início
+1052840 1054840 (04) para eles saberem o que eles estão falando
+1054840 1056840 (03) O medo irracional toma conta deles
+1056840 1058840 (03) porque todos eles dão um passo para trás
+1058840 1060840 (03) meio inconsciente do que está acontecendo
+1060840 1062840 (03) Naturalmente
+1062840 1064840 (03) O rapaz que passou a bola para ti
+1064840 1066840 (03) está meio arrependido de ter deixado de começar
+1066840 1068840 (03) Mas vamos lá
+1068840 1070840 (03) Tutorial
+1070840 1072840 (03) Primeira pessoa que fazer a rodada
+1072840 1074840 (03) é o ataque, vai tirar seu atributo ou menos
+1074840 1076840 (03) Aí depois se o oponente
+1076840 1078840 (03) for acertado
+1078840 1080840 (03) ele está fora
+1080840 1082840 (03) Se ele desviar, nada acontece
+1082840 1084840 (03) E daí outro time vai jogar a bola
+1084840 1086840 (03) Um de vocês que ainda não jogou
+1086840 1088840 (03) Ou seja, se o Fenkers der o ataque agora
+1088840 1090840 (03) o Irineu ou a Regis
+1090840 1092840 (03) vai desviar ou segurar a bola
+1092840 1094840 (03) Quando a gente chegar nesse momento eu explico para vocês
+1094840 1096840 (03) Se isso fosse um videogame
+1096840 1098840 (03) os personagens teriam perguntado
+1098840 1100840 (00, 07, 03) Vocês querem tutorial?
+1100840 1102840 (07, 00, 03) E o Fenkers disse sim
+1102840 1104840 (03) E daí vocês entraram nessa partida
+1104840 1106840 (03) Mas então a primeira rodada para todo mundo entender
+1106840 1108840 (03) É um ataque, tem que tirar o atributo ou menos
+1108840 1110840 (03) Dois dados
+1110840 1112840 (03) Futuramente vai ter uma outra regra
+1112840 1114840 (03) Por enquanto é isso, é um ataque, são dois dados
+1114840 1116840 (03) A bola está com o Bacana
+1116840 1118840 (03) Ele que vai fazer a primeira jogada para tentar eliminar alguém
+1118840 1120840 (05, 03) É uma bola para o jogo
+1120840 1122840 (04, 03) Não, é uma bola para o jogo
+1122840 1124840 (04) Sim, e eu vou mirar
+1124840 1126840 (04) no que fez o somzinho de galinha ali para mim
+1126840 1128840 (04, 03) Tá, ok
+1128840 1130840 (03) Dois dados de atributo ou menos
+1130840 1132840 (04, 03) Bacana, ele
+1132840 1134840 (04) continua o movimento
+1134840 1136840 (04) das palminhas
+1136840 1138840 (04) E aí já se abaixa
+1138840 1140840 (04) já pega a bola, sai correndo e joga
+1140840 1142840 (04) E seis e dois
+1142840 1144840 (04, 03) Dois é um acerto simples
+1144840 1146840 (03) Tu acerta
+1146840 1148840 (03) Esse rapaz que tinha imitado a galinha
+1148840 1150840 (03) Ele tentou se jogar de lado
+1150840 1152840 (03) Mas pegou assim, do ladinho
+1152840 1154840 (03) Um pouquinho abaixo da costela
+1154840 1156840 (03) Ele se entortou um pouquinho
+1158840 1160840 (07, 03) E caiu
+1160840 1162840 (03) E o líder
+1162840 1164840 (03) Dos garotos do Flipper fica puto
+1164840 1166840 (03) Ele pega a bola
+1166840 1168840 (03) Ele se posiciona, ele corre
+1168840 1170840 (03) Ele atira ela com toda a força dele
+1170840 1172840 (03) Quem vai tentar defender
+1172840 1174840 (03) O Irineu ou a Regis?
+1174840 1176840 (03) Acho que eu
+1176840 1178840 (03) E o turno de vocês agora sempre vai ser essa ordem
+1178840 1180840 (03, 06) Beleza
+1180840 1182840 (03) Depois lá no futuro tu vai ter que atacar
+1182840 1184840 (03) Se chegar a tanto
+1184840 1186840 (03) Tu tem duas opções
+1186840 1188840 (03) Desviar da bola, são dois dados
+1188840 1190840 (03) O que acontece é, tu não morreu
+1190840 1192840 (03) Próxima rodada de ataque
+1192840 1194840 (03) Se tu quiser segurar a bola
+1194840 1196840 (03) Tu elimina um atacante
+1196840 1198840 (03) Mas é um dado só
+1198840 1200840 (03) Então é dois dados para desviar
+1200840 1202840 (03) Se tu garantir que tu vai ter um acerto ali
+1202840 1204840 (03) Ou se tu quiser segurar a bola
+1204840 1206840 (03) É um dado só
+1206840 1208840 (03) Caso tu passe, tu elimina o teu oponente
+1208840 1210840 (03) O que tu pretende fazer?
+1210840 1212840 (03) Tu vai desviar, que é a tua especialidade
+1212840 1214840 (03, 06) Ou tu vai tentar segurar a bola
+1214840 1216840 (06) O Irineu tem medo da bola, então ele vai desviar
+1216840 1218840 (03, 06) Perfeito, dois dados
+1218840 1220840 (03) Teu atributo é dois, tu tem que tirar qualquer coisa que não seja um
+1220840 1222840 (03, 06) Um e quatro
+1224840 1226840 (03) Um acerto simples, o primeiro dado foi um inclusive
+1226840 1228840 (03) Foi uma boa escolha
+1228840 1230840 (03) A bola vem com toda a força
+1230840 1232840 (03) E no último segundo, como é que tu desvida essa bola?
+1232840 1234840 (03, 06) Tu vai pro lado, tu te joga no chão
+1234840 1236840 (06) A bola vem em direção ao meu peito
+1236840 1238840 (06) Eu faço aquela arqueada no peito
+1238840 1240840 (03, 06) Meio que um arco
+1240840 1242840 (06) A bola quase que pega
+1242840 1244840 (06) Mas não passa um pouquinho longe
+1244840 1246840 (06) Consegui fazer desviar certinho o espaço da bola
+1246840 1248840 (03, 06) Quem viu
+1248840 1250840 (03) Pensou em Matrix
+1250840 1252840 (03) Achou que foi uma jogada realmente ensaiada
+1252840 1254840 (15, 03) E não só medo e instinto
+1254840 1256840 (15) A Regi já pega a bola
+1256840 1258840 (15) Porque sabe que o Irineu não é bom pra atacar
+1258840 1260840 (15) E já pega a bola pra atacar
+1260840 1262840 (15, 03) Dois dados
+1262840 1264840 (15) Caraca
+1264840 1266840 (15) Um e quatro, meu atributo é cinco
+1266840 1268840 (03) Um acerto simples, tu vai eliminar um jogador do outro time
+1268840 1270840 (03) Tu tentou jogar no líder deles
+1270840 1272840 (03) Foi
+1272840 1274840 (03) Tu ia acertar o líder deles
+1274840 1276840 (03) Mas o comparsa dele
+1276840 1278840 (03) Se joga na frente
+1278840 1280840 (03) Como um guarda costas
+1280840 1282840 (03) Num filme desse de presidente
+1282840 1284840 (03) E ele se atira na frente da bola
+1284840 1286840 (03) Ele é acertado
+1286840 1288840 (03) E ele cai nos braços do amigo
+1288840 1290840 (03) Um dia eles vão se descobrir
+1290840 1292840 (03) Serão felizes e vão parar de incomodar os outros
+1292840 1294840 (03) Mas enquanto eles estão nessa negativa
+1294840 1296840 (03) Eles continuam ali
+1296840 1298840 (03) Naquele clima de maldade
+1298840 1300840 (03) Ele pega a bola
+1300840 1302840 (03) E ele joga com força contra
+1302840 1304840 (03) O Bacana
+1304840 1306840 (03) Bacana, tu quer segurar essa bola e eliminar
+1306840 1308840 (03) E resolver essa partida
+1308840 1310840 (05, 03) Ou tu vai desviar
+1310840 1312840 (05) Um dado
+1312840 1314840 (03) E eu tiro dois
+1314840 1316840 (03) Tu sente a bola assim entre teus dedos
+1316840 1318840 (03) A bola então passa
+1318840 1320840 (03) Acerta o teu peito
+1320840 1322840 (03) Sente o ar deixando teu corpo
+1322840 1324840 (03) A bola cai e você está eliminado
+1324840 1326840 (07, 03) Não
+1326840 1328840 (07, 03) Vingue-me
+1328840 1330840 (03) A bola cai ali nos pés do Irineu
+1330840 1332840 (03) E todos ficam olhando pra ele
+1332840 1334840 (03, 06) É uma rodada de ataque
+1334840 1336840 (06) Eu fico olhando, tremendo
+1336840 1338840 (06) Mas o Bacana falou pra vingar ele
+1338840 1340840 (06) Então eu pego a bola ali
+1340840 1342840 (06) Tremendo mesmo
+1342840 1344840 (03, 06) Vou bem pertinho do meio
+1344840 1346840 (06) E jogo no líder
+1346840 1348840 (06) Bora Irineu
+1348840 1350840 (03, 06) Um e dois
+1350840 1352840 (03) E dois é meu atributo
+1352840 1354840 (03) Dois é um acerto crítico
+1354840 1356840 (03) Foi no saco, foi no saco
+1356840 1358840 (03) Quando acontece alguma coisa assim
+1358840 1360840 (03) Se tivesse mais jogadores
+1360840 1362840 (03) Podia ter eliminado até mais de um jogador
+1362840 1364840 (03) Mas só tem um jogador
+1364840 1366840 (03) Então por sugestão do Bacana
+1366840 1368840 (03) O Irineu então pega a bola
+1368840 1370840 (03) E joga de qualquer jeito
+1370840 1372840 (03) O rapaz confiante ele ergue as mãos pra segurar
+1372840 1374840 (03) Naquela altura normal
+1374840 1376840 (03) Que a bola costuma vir
+1376840 1378840 (03) Quando ela vem um pouco mais baixa que o normal
+1378840 1380840 (03) Acertando
+1380840 1382840 (03) As partes íntimas daquele garoto
+1382840 1384840 (03) Fazendo ele cair sobre o joelho
+1384840 1386840 (03) Repensar sobre sua vida
+1386840 1388840 (03) Uma lágrima escorre
+1388840 1390840 (03) Dos olhos dele
+1390840 1392840 (03, 06) Dos colegas dele
+1392840 1394840 (13, 15, 03, 06) E ele então cai
+1394840 1396840 (15, 06) Cai no chão assim meio que com a cabeça baixa
+1396840 1398840 (15, 06) Desculpa, desculpa, desculpa
+1398840 1400840 (15) A Regi está ignorando
+1400840 1402840 (15) A reação dele
+1402840 1404840 (15) E ela abraça ele com um braço só
+1404840 1406840 (15) Porque ele é mais alto que ele
+1406840 1408840 (15) E ela está quase enforcando ele
+1408840 1410840 (15) Pulando, segurando ele
+1410840 1412840 (15, 04) Pela cabeça
+1412840 1414840 (04) Isso é fantástico
+1414840 1416840 (04) Tsss
+1416840 1418840 (07, 04) Tsss
+1418840 1420840 (07, 04) É agora ganhamos
+1420840 1422840 (04) Palminha
+1422840 1424840 (07, 04) Tsss
+1424840 1426840 (04, 03) Vamos lá então
+1426840 1428840 (03) Estamos na felicidade
+1428840 1430840 (03) Perfeito
+1430840 1432840 (03) O pessoal dentro do ônibus
+1432840 1434840 (07, 03) O Damien viu tudo empolgado
+1434840 1436840 (03) Vocês não estão vendo isso por causa do cabelo
+1436840 1438840 (03) Ele esconde o rosto dele
+1438840 1440840 (03) E os outros dois estavam lá bem diferentes
+1440840 1442840 (15, 03) Com tudo que aconteceu
+1442840 1444940 (15) entrar logo nesse ônibus e chegar
+1444940 1446540 (15) logo, porque agora eu tô quente.
+1447000 1449000 (04) Os encartadinhos vão falar mais alguma coisa
+1449000 1450540 (04) ou eles estão mortos?
+1450540 1452520 (04, 03) É, estão mortos de vergonha ali.
+1453040 1454540 (06) Nem olho pra trás, nem tô voltando
+1454540 1456560 (06) pra esse ônibus. Eu pego minha big mochila
+1456560 1458640 (03, 06) e tô entrando. Vocês entram no ônibus,
+1458700 1459800 (03) né? O motorista
+1459800 1462400 (03) se chama Luig. Ele é
+1462400 1464640 (03) alto, magro, assim, ele usa um boné verde.
+1466040 1466440 (03) É...
+1466440 1468540 (03) Vocês vão ali pro ônibus,
+1468600 1469840 (03) né? Ele vai seguir pra
+1469840 1472160 (03) São Paulo, que é a...
+1472160 1474320 (03) São Paulo capital, né? Tem o São Paulo
+1474320 1475740 (03) Estado que vocês estão.
+1476360 1478440 (03) Onde o torneio vai acontecer.
+1478440 1480280 (03) A viagem é agradável, né?
+1480400 1482360 (03) É um ônibus de viagem,
+1482500 1484140 (03) não é um ônibus de linha. Então,
+1484320 1486140 (03) só o motorista, vocês três
+1486140 1488420 (03) e os reservas, famílias
+1488420 1490720 (03) e amigos de vocês. Achou que era muito caro
+1490720 1492680 (03) ir até lá pra ver uma partida
+1492680 1494340 (03) e então voltar, já que o torneio
+1494340 1496020 (03) é de eliminação simples, né?
+1496500 1498740 (03) O que vocês estão fazendo no ônibus
+1498740 1500220 (03) ali? Tá no meio da viagem?
+1500360 1501760 (03) Ele tá pegando uma parte mais de
+1501760 1504440 (03) serra. Irineu, tu tá
+1504440 1506280 (03, 06) fazendo o que no ônibus? Eu tô lendo
+1506280 1508020 (06) meus quadrinhos de...
+1508020 1510520 (06) dos Cavaleiros. Tô mostrando pro...
+1510520 1511760 (06) Como que chama o da Franja?
+1512060 1514300 (03, 06) Damien. Damien. Tô lendo meus quadrinhos,
+1514400 1516140 (06) tô mostrando pro Damien. Olha aqui,
+1516140 1517380 (06) esse aqui, o...
+1517380 1520040 (06) o de cachorro. Olha só que legal.
+1520300 1522360 (03) Ok. A Regis tá fazendo
+1522360 1523980 (15, 03) o que? A Regis tá só
+1523980 1526300 (15) de olho fechado, assim, fingindo que tá dormindo,
+1526400 1528200 (15) mas tá ouvindo o que tá acontecendo
+1528200 1529920 (15, 03) em volta. Perfeito, perfeito.
+1530040 1531740 (03) Vou te dar uma informação depois.
+1531760 1533340 (04, 03) É... bacana.
+1533600 1535600 (04) É, o bacana tá bem compenetrado,
+1535660 1538140 (04) na frente dele tem um prato com um arrozquinho.
+1538620 1539680 (04) Ele tá olhando,
+1539940 1541660 (04) assim, tá quase comendo, e
+1541660 1543840 (04) toda hora que ele quase come, ele mesmo
+1543840 1545880 (04) belisca o próprio mamilo pra aprender
+1545880 1548000 (04) a não comer, porque ele não pode engordar mais.
+1551200 1551720 (07) Não!
+1552780 1553060 (07, 03) Não!
+1554140 1555320 (03) É... o...
+1555320 1557020 (03) o maior facilidade... vamos continuar.
+1557020 1557500 (07, 03) O...
+1557500 1560840 (07, 03) Tu tá lá, assim,
+1560940 1561740 (03) tu não tá vendo,
+1561760 1563680 (03) mas mesmo de olho fechado
+1563680 1565720 (03) tu sabe a loucura que tá acontecendo próxima
+1565720 1567760 (03) a você. Quando um pensamento
+1568300 1569760 (03) toma a sua cabeça,
+1570320 1571760 (03) assim, uma... sabe aquela...
+1572340 1573900 (03) quase um sexto
+1573900 1575840 (15, 07, 03) sentido? A pergunta que
+1575840 1577820 (03) surge na tua cabeça? Onde estavam
+1577820 1580000 (03) as reservas dos garotos do Flipper?
+1580380 1581680 (15) Eu tento lembrar.
+1581920 1583420 (15) Eu vi alguém
+1583420 1584940 (15) além dos três?
+1585420 1587220 (03) Tu não viu eles chegando, né?
+1587660 1589240 (03) Tu não viu eles
+1589240 1591040 (03) durante a partida,
+1591160 1591240 (03) mas...
+1591760 1593960 (03) durante a... o jogo de vocês?
+1594520 1596160 (03) Mas quando o ônibus tava indo embora,
+1596320 1598180 (03) tinha mais três garotos ajudando
+1598180 1599380 (03) os outros três que estavam
+1599380 1601820 (03) caídos. E nisso,
+1602080 1604100 (03) o ônibus começa a fazer uma curva
+1604100 1606340 (03) muito grande na beirada de um precipício.
+1606720 1607800 (03) Tudo é muito rápido, assim,
+1607820 1610020 (03) um solavanco, verde das árvores, um clarão...
+1611420 1611960 (03) E vocês
+1611960 1614040 (03) observam o ônibus se prender em algumas árvores
+1614040 1615860 (03) lá embaixo. Sim, vocês
+1615860 1617440 (03) observam porque estão em pé,
+1617440 1618880 (03) na beira da estrada,
+1619400 1621520 (03) na curva, olhando pra baixo.
+1621760 1623700 (03) E uma voz atrás de vocês, antes que vocês
+1623700 1625000 (03) pudessem entender o que aconteceu, diz
+1625000 1627660 (03) Cuidado! Se caírem aí, vocês vão morrer!
+1628080 1629840 (15) Eu viro pra ver quem é que falou isso.
+1630020 1631640 (03) Um esqueleto, usando roupão
+1631640 1633660 (03) preto, bordado em dourado no bolso
+1633660 1635740 (03) Morte. E segurando uma caneca
+1635740 1637620 (03) escrito. Essa caneca é para uso
+1637620 1639140 (03) exclusivo do melhor chefe do mundo.
+1639240 1641740 (03) Eu tô zoando. Vocês já morreram.
+1641840 1643000 (02, 03) Podem ficar tranquilos.
+1644020 1645580 (06) Eu ainda não entendi direito
+1645580 1647740 (06) o que tá acontecendo. Eu tô falando, meu Deus, a gente tem
+1647740 1649440 (06) que ajudar. Eles caíram. Vamos ajudar.
+1649440 1651640 (05, 06) Eu tô em choque. Eu vejo,
+1651640 1653320 (05) e eu continuo segurando a minha rosquinha.
+1653400 1655800 (03) Não, a rosquinha não morreu com você.
+1656200 1657640 (06) Na hora que eu olho pra trás e vejo
+1657640 1659420 (02, 06) o esqueleto, eu simplesmente congelo.
+1659460 1661460 (02, 06) Não se preocupem. A árvore segurou
+1661460 1663400 (02) aquele ônibus. É um milagre.
+1663860 1665040 (02) Todos sobreviveram.
+1665400 1667480 (02) Até porque todos estavam distintos, sabe?
+1667780 1669140 (02) Fica a dica pra vocês.
+1670680 1671600 (02) É por isso
+1671600 1673400 (02) que estou aqui. Normalmente,
+1673500 1675500 (02) mando meus funcionários virem buscar.
+1675680 1677000 (02) É mais simples, sabe como é?
+1677640 1679400 (02) Só que não era a vez
+1679400 1680940 (02) de vocês dois terem morrido.
+1681640 1683780 (02) Sim, vocês dois não deveriam
+1683780 1685620 (02) ter morrido. Ficamos sem vagas
+1685620 1687700 (02) pra vocês. Não sei pra onde levar,
+1687840 1689800 (02) sabe? A ficha de pecados de vocês
+1689800 1691760 (02) está incompleta. Mas fiquem
+1691760 1693620 (02) tranquilos. Vou deixar vocês no
+1693620 1695860 (02) inferno até dar a data de vocês morrerem.
+1696740 1697760 (02) Daí julgamos
+1697760 1698400 (02) depois.
+1700080 1701260 (02) Mas relaxem.
+1701620 1703840 (02) Aqui é na parte suave do inferno.
+1704320 1705560 (02) Pessoal da música, sabe?
+1705880 1707780 (02) Vai ser tranquilo. Vamos?
+1708200 1709660 (15) Pera, tem muita informação
+1709660 1710900 (15, 02, 03) acontecendo ao mesmo tempo.
+1710900 1712680 (15, 02, 03) Ele toma o café dele.
+1713120 1715160 (15) Você é a morte.
+1715400 1715740 (15, 03) Isso.
+1716420 1718740 (15) A gente morreu.
+1718880 1719320 (15, 07) Isso.
+1719620 1722820 (15) Mas somos três pessoas aqui.
+1723420 1725200 (15) Eu olho pros dois lados
+1725200 1726920 (15) e vejo se eu estou vendo
+1726920 1729380 (15) o bacana e o outro menino.
+1729720 1731420 (03) Tu olha, está os três ali.
+1731920 1732300 (03) Ele
+1732300 1735160 (03) aperta os olhos que ele não tem.
+1735480 1736620 (03) São dois globos
+1736620 1737800 (03) oculares vazios.
+1738300 1739960 (03) Ah, um terceiro.
+1740180 1740800 (03) Ele pega...
+1740900 1742380 (03) as anotações e começa a olhar.
+1742500 1743780 (02, 03) Hum, deixe-me ver.
+1745460 1747280 (02) Não tenho nada sobre você aqui.
+1748020 1749480 (02, 03) Me dê isso um minutinho, sim?
+1749480 1750140 (02, 03) E ele desaparece.
+1750720 1751760 (06) E ele está valendo pra quem?
+1752000 1752700 (03) Pra ti.
+1752940 1754180 (06) Eu estou congelado.
+1755200 1755760 (06) E eu?
+1756420 1757480 (06) Ele desapareceu?
+1757740 1760000 (03) Ele desapareceu. Vocês estão na beira do precipício.
+1760420 1762440 (03) No meio da serra de São Paolo ali.
+1763000 1764360 (03) E lá embaixo está o ônibus.
+1764540 1766720 (15) Menino, talvez isso tenha sido positivo pra você.
+1766860 1769320 (15) Pensa aí. Porque se a gente estiver aqui pro inferno,
+1769420 1770720 (15) cara, pelo menos tu não vai pro inferno.
+1770720 1773080 (15) Se você sair de fininho,
+1773500 1775260 (15) de repente ele até nem te acha.
+1775640 1776440 (15, 02) A morte volta.
+1776660 1777080 (02) Droga.
+1777300 1781180 (02) Ah, aqui. Você nasceu numa sexta?
+1781260 1781900 (02) É, foi.
+1782040 1783700 (02) Ah, aí é complicado.
+1784760 1786360 (02) Pessoal que trabalha com o nascimento
+1786360 1788580 (02) faz um turno de 168 horas.
+1789020 1792200 (02) Trabalham 168 e descansam 168.
+1792300 1793220 (02) E a mudança de turno
+1793220 1795320 (02) é na sexta-feira às 19 horas.
+1795720 1796520 (02) Aí já viu, né?
+1797240 1799000 (02) Geral cansado, má vontade.
+1799000 1800000 (02) Hi, hi, hi.
+1800720 1801780 (02) Acontece, sabe?
+1802900 1804540 (02) Relaxa, você não é o único.
+1805420 1807420 (02) Você nasceu sem registro de alma.
+1807940 1810560 (02) Então não temos seus pecados computados, sabe?
+1810980 1813760 (02) E talvez as pessoas nem notem que você existe.
+1814780 1817340 (02) Tecnicamente, no papel você não existe.
+1817760 1818580 (02) Mas fica tranquilo.
+1819180 1822360 (02) Como você não tem lugar nem no céu e nem no inferno,
+1822800 1824720 (02) eu te coloco pra trabalhar comigo.
+1824940 1826420 (02) Com os anjos da morte, que tal?
+1826780 1827680 (02) É super de boa.
+1827680 1829760 (02) Só não empresta dinheiro pra eles.
+1830060 1830540 (unknown) Hi, hi, hi.
+1830720 1833320 (06) Eu fico preto, assim, de terror.
+1834280 1836600 (06) Com as pretas descendo a testa, assim,
+1836660 1837300 (06) o olho branco.
+1838220 1838980 (06) Tá, tá.
+1839400 1840500 (02, 06) Então, vamos?
+1841220 1843540 (02, 04, 06) Os dois pro inferno e você pra trabalhar?
+1843540 1843800 (02, 04) Não, não, não.
+1843880 1844660 (07, 02, 04) Peraí, peraí.
+1845340 1847720 (04) Senhor, eu chamo de senhor morte?
+1847840 1848480 (04) Senhora morte?
+1848740 1850460 (04) Como me dirijo?
+1850720 1851720 (02, 04) A vossa...
+1851720 1852960 (02) É senhor morte.
+1853540 1856060 (02) Mas, bom, eu sou um esqueleto, né?
+1856220 1856820 (02) Vai saber.
+1857260 1859020 (02, 05) Você é um esqueleto, é verdade.
+1859020 1860700 (02, 05) Como assim a gente morreu?
+1860720 1864060 (02, 05, 04) Eu tô aqui, eu tava com a minha rosquinha na mão.
+1864400 1867840 (05, 04) E agora você fala que eu morri.
+1868340 1869520 (05, 04) Mas como que eu morri?
+1869640 1871140 (04) Tá lá o ônibus ali embaixo.
+1871900 1872500 (04) Tá todo mundo...
+1872500 1873540 (04) Eu tava usando o cinto.
+1873660 1874580 (04) Sempre uso o cinto.
+1874680 1876840 (02) O certo do ônibus é estar lá embaixo.
+1877480 1877660 (04) Não.
+1878240 1879500 (02, 04) Realmente não, mas o ônibus tá inteiro.
+1879500 1881220 (02, 04) Temos um ponto, então, não é?
+1881240 1882120 (04) O ônibus tá inteiro.
+1882200 1882960 (04) Eu tô vendo aqui.
+1883700 1884860 (04) Como que isso aconteceu?
+1884980 1885800 (04) Como assim morremos?
+1886040 1887280 (04, 03) Vamos rever aqui.
+1887780 1889500 (03) Faz surgir uma tela, né?
+1889500 1890060 (03) E...
+1890060 1894620 (03) A hora que o ônibus dá aquele tranco de segurar das árvores, né?
+1894840 1898900 (03) A rosquinha bate contra o banco, volta na tua boca e tu te engasga.
+1898940 1899720 (02, 03) Foi aqui, ó.
+1899820 1902700 (02, 04) Eu morri engasgado por uma rosquinha?
+1902900 1903880 (02) Assim, repito.
+1904500 1905780 (02) Não era pra ter morrido.
+1906620 1907840 (02) Mas acontece.
+1910120 1912080 (15, 07) Mas nada disso faz sentido.
+1912520 1913580 (15) Nada disso faz sentido.
+1913980 1916560 (15) Porque, olha só, minha família é muito religiosa, sabe?
+1916560 1918220 (15) Então, a gente...
+1918220 1919060 (15) Eu sei.
+1919340 1920040 (15) Eu sei.
+1920060 1923180 (15) Eu sei que eu não mereço ir pro inferno.
+1923380 1925700 (15) Eu não tenho esses pecados, assim, pra ir pro inferno.
+1925920 1927060 (02) Eu sei, mas calma.
+1927980 1930560 (02) Vai ser, tipo, um cercadinho.
+1930860 1931640 (02) É bem de boa.
+1932680 1934320 (02) Não vai ter os malucos lá.
+1934700 1936040 (02) A paisagem é...
+1936040 1940480 (02) Digamos que é só não olhar pela janelinha que vai ficar tudo bem.
+1941980 1945260 (02) É só até dar o tempo da sua vaga aparecer, sabe?
+1945580 1947140 (02) O julgamento vai ser depois.
+1948500 1949100 (02) Mas...
+1949100 1949900 (02) Família religiosa...
+1950060 1953060 (02) Nos Estados Unidos do Brasil...
+1953880 1956100 (02) Talvez você fique por lá, não é?
+1958340 1960160 (15, 02) Bom, podemos ir agora?
+1960680 1961880 (15) Não, seu morte.
+1961980 1962180 (15) Não.
+1962560 1963540 (02) Vamos conversar um pouquinho.
+1963820 1964500 (02) Veja bem.
+1964640 1965500 (02) Isso é definitivo?
+1965560 1966360 (02) Ele volta e toma o café.
+1967760 1970060 (02) A morte é uma das poucas coisas definitivas.
+1971220 1971700 (02) Entendo.
+1971820 1972220 (02) Entendo.
+1972320 1973940 (02, 04) Mas, digamos, a nossa situação.
+1974240 1976380 (04) O senhor mesmo disse que não era pra gente ter morrido.
+1976740 1978380 (04) Que tal se a gente voltasse, então?
+1978380 1979280 (04) Ninguém vai saber.
+1979460 1980040 (04) Só a gente.
+1980060 1981220 (04) A gente fica de boa.
+1981580 1982560 (04) Acorda lá embaixo.
+1982660 1984280 (04) Opa, estamos aqui no meio da árvore.
+1984360 1985140 (04) Nossa, que acidente.
+1985280 1985920 (04) Estamos vivos.
+1986580 1987380 (04) Por que não?
+1987700 1990160 (06) Eu levanto a mãozinha tremendo assim.
+1990320 1991500 (02) Ah, desculpa, garoto.
+1991560 1993040 (02) Esqueci que você existia.
+1994020 1994940 (02) Pode falar.
+1995340 1996880 (02) É que eu estava de cinto.
+1996940 1997560 (02, 06) Olha, garoto.
+1997660 1999060 (02) O fato é que vocês morreram.
+1999960 2000880 (02) Não importa como.
+2001240 2002560 (02) O que importa é o que aconteceu.
+2002740 2004520 (02) Com cinto ou sem cinto.
+2005120 2007760 (02) E bem, eu tenho todo o tempo do mundo, sabe?
+2007760 2009760 (02) Mas se pudermos resolver isso rápido...
+2010060 2013060 (02) Eu nem consegui me trocar pra vir pra cá, sabe?
+2013060 2015060 (02) Como podem ver, eu ainda estou de roupão.
+2015060 2017060 (02) E hoje é a minha folga.
+2017060 2019060 (02) Vamos fazer rapidinho, sim?
+2019060 2021060 (02, 04) Pra eu voltar pra minha folga.
+2021060 2023060 (04) Aí, pra que mais burocracia?
+2023060 2025060 (04) Você não concorda comigo, Regis Irineu?
+2025060 2027060 (04) A gente volta.
+2027060 2029060 (04) Você resolve isso.
+2029060 2033060 (04) A gente não precisa ir pra nenhum lugar do inferno.
+2033060 2035060 (04) O Irineu fica de boa aqui com a gente.
+2035060 2037060 (15, 04) E tá tudo bem. Ninguém vai ficar sabendo.
+2037060 2039060 (15) Pois é, e se você voltar...
+2039060 2042060 (15) pro seu dia de folga...
+2042060 2044060 (15) e a gente não for pro inferno...
+2044060 2046060 (15) o que que acontece?
+2046060 2048060 (15, 02) A gente fica por aqui?
+2048060 2050060 (02) Sim. Sei lá. Uns caça-fantasmas...
+2050060 2052060 (02) vão começar a caçar vocês.
+2052060 2054060 (02) Embora assombrar uma curva...
+2054060 2056060 (02) sem construções...
+2056060 2058060 (02, 04) deve ser bem chato.
+2058060 2060060 (04) Mas talvez seja melhor que ir pro inferno.
+2060060 2062060 (04) Volto então à minha proposta original.
+2062060 2064060 (04) Não morremos, estamos de boa ali no meio do ano.
+2064060 2066060 (04, 03) Fala dos dados.
+2066060 2068060 (03) É bacana.
+2068060 2070060 (04, 03) Um e quatro.
+2070060 2072060 (03) Sendo quatro o atributo.
+2072060 2074060 (03) Ele dá aquela coçadinha no queixo...
+2074060 2076060 (03) que ele não tem, né?
+2076060 2078060 (03) Só o ossinho ali.
+2078060 2080060 (03) Existe um jeito. É uma lei antiga...
+2080060 2082060 (03) que pouca gente desafia.
+2082060 2084060 (03) Ele põe a mão no roupão e tira um tabuleiro de xadrez.
+2084060 2086060 (02, 03) Podem ser cartas...
+2086060 2088060 (02) ou qualquer jogo que vocês queiram.
+2088060 2090060 (02) Como morreram fora da hora...
+2090060 2092060 (02) vocês podem me desafiar para uma partida...
+2092060 2094060 (02) e se vencerem...
+2094060 2096060 (07, 02, 04) voltarão à vida.
+2096060 2098060 (07, 02, 04) Qualquer jogo.
+2098060 2100060 (02) Menos Magic.
+2100060 2102060 (02) A Wizard processou a gente da última vez.
+2102060 2104060 (02) Mas tirando isso...
+2106060 2108060 (04) Ok.
+2108060 2110060 (04) Deixa eu fazer então uma pergunta adicional.
+2110060 2112060 (04) Já tenho aqui uma ideia.
+2112060 2114060 (04) Só quero incrementar um pouquinho essa ideia, Senhor Morte.
+2114060 2116060 (04) Esse jogo nosso...
+2116060 2118060 (04) vai ser um jogo...
+2118060 2120060 (04) que só a gente vai presentear.
+2120060 2122060 (04) Ou será que a gente pode de alguma forma...
+2122060 2124060 (04) televisionar esse jogo para mais gente ver?
+2124060 2126060 (02) Televisionar a morte...
+2126060 2128060 (02) e os espíritos numa partida?
+2128060 2130060 (02, 04) Não, não.
+2130060 2132060 (02, 04) Não seria só entre a gente.
+2132060 2134060 (04) Era só uma ideia.
+2134060 2136060 (04) Mas fica aqui a minha sugestão então...
+2136060 2138060 (04) de um jogo bem interessante.
+2138060 2140060 (04) Chamado Queimado.
+2140060 2142060 (04) É um jogo que eu tenho certeza que o senhor é muito bom.
+2142060 2144060 (04) Vai ser muito difícil a gente ganhar.
+2144060 2146060 (04) A gente quase não jogou.
+2146060 2148060 (04) A gente é o penúltimo time de uma liga.
+2148060 2150060 (04) Mas ainda assim...
+2150060 2152060 (04) a gente quer ser justo com a morte.
+2152060 2154060 (04) E vai ser um jogo muito divertido...
+2154060 2156060 (15, 04) para o senhor.
+2156060 2158060 (15, 03) Eu também.
+2158060 2160060 (03) Ele guarda o tabuleiro de xadrez.
+2160060 2162060 (03) Essa é nova.
+2162060 2164060 (02, 03) Deixa eu ver aqui.
+2164060 2166060 (02) Eu já ganhei...
+2166060 2168060 (02) daquele menino das perninhas tortas aqui.
+2168060 2170060 (02) Vamos ver vocês...
+2170060 2172060 (02) Ah, queimada.
+2172060 2174060 (02) Achei.
+2174060 2176060 (02) Tenho que chamar duas pessoas e a gente resolve em uma partida só.
+2176060 2178060 (02) Perdendo...
+2178060 2180060 (02) vocês vão para o inferno sem reclamar.
+2180060 2182060 (02) Até o tempo do julgamento.
+2182060 2184060 (02) É claro.
+2184060 2186060 (02) E se ganharem, vocês voltam...
+2186060 2188060 (15, 02) para a vida.
+2188060 2190060 (15, 02, 06) Ótimo.
+2190060 2192060 (06) Por mim, está combinado.
+2192060 2194060 (06) Por mim, acho muito justo.
+2194060 2196060 (03, 06) Eu balanço a cabeça para cima e para baixo.
+2196060 2198060 (03) Ele bate uma palminha.
+2198060 2200060 (03) Tudo fica escuro, tudo fica preto.
+2200060 2202060 (03) A luz então surge de lugar nenhum.
+2202060 2204060 (03) Não há um sol lá em cima.
+2204060 2206060 (03) É uma luz que vem...
+2206060 2208060 (03) Vocês veem uma quadra...
+2208060 2210060 (03) pintada no chão agora.
+2210060 2212060 (03) Parece ser uma quadra muito parecida...
+2212060 2214060 (03) com aquela que vocês treinavam.
+2214060 2216060 (03) Parece ser tomada aquela como base.
+2216060 2218060 (03) O esqueleto...
+2218060 2220060 (03) que tinha desaparecido por um momento.
+2220060 2222060 (03) Ele está só usando...
+2222060 2224060 (03) um shortinho desse de malha...
+2224060 2226060 (03) para fazer esporte.
+2226060 2228060 (03) Tem uma faixa na cabeça.
+2228060 2230060 (03) Mas ele está sem camisa.
+2230060 2232060 (03) E ele é um esqueleto.
+2232060 2234060 (03) O que torna tudo mais estranho.
+2234060 2236060 (03) A bermuda está mega amarrada...
+2236060 2238060 (03) só na espinha.
+2238060 2240060 (03) Para não cair e ele ficar...
+2240060 2242060 (03) sem bermuda ali.
+2242060 2244060 (03) Ele parece ser alguém simples de ser vencido.
+2244060 2246060 (02, 03) Embora seja um esqueleto.
+2246060 2248060 (02) Eu vou chamar aqui duas pessoas.
+2248060 2250060 (02) Embora não conheça nenhum grande jogador...
+2250060 2252060 (02) de queimada que esteja disponível no momento.
+2252060 2254060 (02) Tenho dois amigos que jogam comigo...
+2254060 2256060 (02) outro esporte que eu gosto.
+2258060 2260060 (03) Surgem atrás dele dois homens.
+2260060 2262060 (03) Negros.
+2262060 2264060 (03) Muito altos.
+2264060 2266060 (03) Um fencas e meio mais ou menos.
+2266060 2268060 (03) Um fencas ali.
+2268060 2270060 (03) Dois e dezesseis tem um.
+2270060 2272060 (03) É um fencas e um pouquinho.
+2272060 2274060 (03) O outro é um fencas.
+2274060 2276060 (03) O com bigode...
+2276060 2278060 (03) tem dois e dezesseis.
+2278060 2280060 (03) O sem bigode...
+2280060 2282060 (02, 03) tem só um e noventa e oito.
+2282060 2284060 (02) Não sei se conheceram...
+2284060 2286060 (02) mas este aqui é Kobe Bryant.
+2286060 2288060 (02) O melhor jogador que a NBA já teve.
+2288060 2290060 (02) E este outro aqui é o Wilt Chamberlain.
+2290060 2292060 (02) O único homem a fazer cem pontos...
+2292060 2294060 (02) em uma partida só.
+2294060 2296060 (02) Basquete é outro esporte é claro.
+2296060 2298060 (02) Mas acho que pelo menos...
+2298060 2300060 (15, 02) jogar bola eles sabem.
+2300060 2302060 (15) A Regis...
+2302060 2303960 (15) O queixo cai no chão
+2303960 2304560 (15) Pá
+2304560 2308560 (15, 04) Mantenha a tranquilidade
+2308560 2310740 (04) Mas já começa o meu ritual de aquecimento
+2310740 2313000 (04) A gente tá corpóreo
+2313000 2314040 (04) Nisso aqui?
+2314460 2316840 (04, 03) Ou é só a alma e a corpórea?
+2317220 2320060 (03) Se tentarem interagir com o mundo material
+2320060 2320960 (03) Vocês estariam corpóreos
+2320960 2322500 (03) Mas vocês não conseguem fazer isso no momento
+2322500 2325080 (15, 03) A Regis vai e cumprimenta
+2325080 2326160 (15) Os jogadores
+2326160 2327520 (15) Que ela é fã
+2327520 2329580 (15) E aí ela só fala
+2329580 2331160 (15) Nossa, que prazer
+2331160 2334380 (15) Que honra estar aqui jogando com vocês
+2334380 2336200 (15, 03) Eles sorrirem
+2336200 2337840 (03) Eu não vou dar voz de NPC pra eles
+2337840 2339300 (03) Eles sorrirem
+2339300 2341940 (03) Eles trocam alguma ideia contigo
+2341940 2342880 (03) Seja lá qual for
+2342880 2344340 (03) Não é interessante agora
+2344340 2346800 (03) São gente boa
+2346800 2348200 (03) Os dois são bem gente boa
+2348200 2350620 (03) Mas eles são competitivos
+2350620 2352220 (03) Eles não chegaram ao topo da NBA
+2352220 2353760 (03) Não jogando pra ganhar
+2353760 2357160 (03) E após uma rápida confraternização
+2357160 2358560 (03) Ele se posiciona na quadra
+2358560 2360000 (03) A bola está com amor
+2360000 2360980 (03, 06) Quando eu tô
+2360980 2361880 (06) Todo mundo arrumando
+2361880 2363840 (06) Eu cutuco o bacana assim
+2363840 2365480 (06) Aí eu falo bem baixinho
+2365480 2367980 (06) Você não vai fazer a dancinha?
+2368340 2370140 (04) Claro, eu tava esperando aqui
+2370140 2372060 (04) E a gente tá compenetrado
+2372060 2373020 (04) Porque afinal
+2373020 2374240 (04) Esse é um jogo de
+2374240 2375520 (04) Eu viro pra eles assim
+2375520 2377360 (04) Morte súbita
+2377360 2379180 (04, 06) Eu dou aquela tremida assim
+2379180 2381240 (04) Gente, vamos lá
+2381240 2382180 (04) Agora é a hora
+2382180 2384860 (04) Aí eu viro pra eles
+2384860 2386160 (04) Me abaixo
+2386160 2388180 (04) E faço o mesmo ritual do jogo
+2388180 2390260 (04) Contra o maluquinho lá do peterão
+2390260 2390960 (04, 03) Escreva no vídeo
+2390980 2391360 (03) Novamente
+2391360 2392000 (04, 03) Ah, claro
+2392000 2393260 (04, 03) Sem dúvida
+2393260 2394560 (04, 03) A gente se abaixa
+2394560 2395700 (04) Fica meio de cócoras
+2395700 2397640 (04) Bate duas vezes a mão no joelho
+2397640 2399420 (04) E aí no terceiro ponto
+2399420 2401380 (04) A gente volta a ficar ereto
+2401380 2402660 (04) Coloca a mãozinha pra trás
+2402660 2403120 (04) E faz um
+2403120 2404300 (04) De cobra
+2404300 2405820 (04) Fazendo uma cara amedrontadora
+2405820 2407660 (04) E fica fazendo isso em seguida
+2407660 2408260 (04) Então fica
+2408260 2412100 (04) Olhando
+2412100 2414040 (04) E aí a gente começa a fazer isso pra gente
+2414040 2416660 (04) Depois se vira contra o adversário
+2416660 2419440 (04, 03) Pra colocar medo na mão
+2419440 2420040 (04, 03) Na mão
+2420040 2420860 (04, 03) Você olha
+2420860 2422620 (04, 03) A amedrontadora mesmo pra morte
+2422620 2423560 (04, 03) Que não funciona
+2423560 2425740 (03) Eles não são garotos do fliperama, né
+2425740 2427260 (03) São jogadores profissionais
+2427260 2428160 (03) E a morte
+2428160 2430180 (03) Eles só encaram vocês de volta
+2430180 2430880 (03) E a morte
+2430880 2432720 (03) Ela ergue a bola
+2432720 2433660 (03) E ela lança
+2433660 2435220 (03) Quem de vocês tá defendendo
+2435220 2436220 (03) Que é o atributo ou mais
+2436220 2437160 (03) Lembrando agora
+2437160 2438720 (03, 06) Temos um advogado em campo
+2438720 2441320 (03, 06) A defesa é o atributo ou mais
+2441320 2442260 (06) Eu...
+2442260 2444100 (06) Eu tava meio...
+2444100 2445120 (06) Fiquei meio na frente
+2445120 2446620 (06) Enquanto estavam fazendo a dancinha
+2446620 2447780 (06) Então talvez seja eu
+2447780 2448660 (03, 06) Beleza
+2448660 2450700 (03) A morte lança a bola
+2450700 2451300 (03) Contra o atributo
+2451300 2452580 (03) Vê a bola
+2452580 2453320 (03) Em torno dela
+2453320 2455260 (03) Surge uma aura assim
+2455260 2456720 (03) Formando quase uma
+2456720 2458800 (03) Uma caveira meio arrocheada
+2458800 2460020 (03) Assustadora
+2460020 2461200 (03) Um grito de morte
+2461200 2462140 (03) Vem com aquela bola
+2462140 2463640 (03) E ela tá indo na tua direção
+2463640 2464920 (03) Tu vai desviar ou segurar?
+2465240 2466060 (06) Eu vou meio que
+2466060 2467700 (06) Eu tomo um susto
+2468400 2469420 (06) Com essa bola
+2469420 2471460 (06) E meio que vou caindo pra trás
+2471460 2471920 (06) Como se
+2471920 2474940 (06) Poderia parecer que eu tava fazendo um Matrix
+2474940 2476180 (06) Realmente aqui agora
+2476180 2477160 (06) Pra trás
+2477160 2478000 (06) Mas eu tô caindo
+2478000 2480380 (03, 06) Então tu vai rolar dois dados, né?
+2480700 2481440 (03) A morte
+2481440 2482800 (03) Ela não sabe jogar esse jogo
+2482800 2484380 (03) Então ela te dá um dado a mais
+2484380 2485260 (03) Pode rolar três dados
+2485260 2486820 (03, 06) Um
+2486820 2487480 (06) De novo
+2487480 2488760 (03, 06) Quatro e dois
+2488760 2490320 (03) Tu tirou um, quatro e dois, né?
+2490440 2491240 (03) Um é uma falha
+2491240 2492160 (03) O quatro é um acerto
+2492160 2493120 (03) Esse atributo ou mais
+2493120 2494760 (03) E dois é um acerto crítico
+2494760 2495340 (03) Então tu conseguiu
+2495340 2496160 (03) O acerto crítico
+2496160 2496840 (03) Quanto como dois
+2496840 2498080 (03) Três sucessos
+2498080 2499760 (03) Mesmo que tu não quis desviar
+2499760 2500260 (03) A bola
+2500260 2500680 (03) Tu nota
+2500680 2501860 (03) Que tá ali meio caído
+2501860 2503300 (03) A bola tá muito fácil
+2503300 2504200 (03) Tu pode
+2504200 2505400 (03) Pra cena
+2505400 2506240 (03) Tu pode descrever ela
+2506240 2507300 (03) Como tu pegou a bola
+2507300 2508640 (03) Ou ela tá tão fácil
+2508640 2509200 (03) Que tu pode dizer
+2509200 2509900 (03) Que um dos teus colegas
+2509900 2510680 (03) Só botou a mão pro lado
+2510700 2511480 (03) E segurou a bola
+2511480 2512720 (03) E eliminou a morte
+2512720 2513500 (03) Como é que tu prefere
+2513500 2514080 (03) Que seja essa
+2514080 2515260 (03, 06) Eu tava caindo
+2515260 2516220 (06) Tipo, meio que
+2516220 2517780 (06) Querendo fugir da bola
+2517780 2519120 (06) Meio sem querer, né?
+2519160 2519660 (06) Eu assustei
+2519660 2520300 (06) Fui pra trás
+2520300 2520980 (06) Tava caindo
+2520980 2521740 (06) E aí
+2521740 2522740 (06) No que eu tava caindo
+2522740 2523920 (06) Eu meio que levantei o braço
+2523920 2524840 (06) Assim, sabe?
+2524880 2525640 (06) De reflexo
+2525640 2526920 (06) E eu caí com a bola
+2526920 2527400 (06) Na minha mão
+2527400 2528740 (03, 06) Os teus pés
+2528740 2529720 (03) Estão no chão, né?
+2529740 2530680 (03, 06) Tua cabeça bate
+2530680 2531860 (03, 06) Fazendo aquela ponte, assim
+2531860 2533500 (03) Teu corpo fica quase
+2533500 2534520 (03) Um U por um momento
+2534520 2536260 (03) Mas as tuas mãos erguidas
+2536260 2537120 (03) Segurando a bola
+2537120 2538700 (03) Os dois jogadores de basquete
+2538700 2540040 (03) Eles batem palma
+2540040 2540680 (03) Pra ti
+2540680 2542860 (03) E a morte
+2542860 2543860 (03) Tá saindo da quadra
+2543860 2544460 (03) Desanimada
+2544460 2545860 (04, 03) Ah, nessa hora
+2545860 2547680 (04) Eu levanto os dois braços
+2547680 2548240 (04) E grito
+2548240 2549000 (04) Irineu!
+2549440 2550180 (04) O menino
+2550180 2551760 (04) Que eliminou a morte
+2551760 2552740 (04, 03) Eu falo
+2552740 2554320 (03) Desculpa, desculpa, desculpa
+2554320 2556620 (03) A bola tá do lado de vocês
+2556620 2558020 (03) Pode o Bacana
+2558020 2559180 (03) Ou a Regis
+2559180 2560000 (03) Catar essa bola
+2560000 2561420 (03) E tentar eliminar
+2561420 2562680 (03) Kobe Bryant
+2562680 2564220 (03) Ou o Chamberlain
+2564220 2565240 (03) Chamberlain
+2565240 2566140 (15) Beleza
+2566140 2567220 (15) Então lá vou eu
+2567220 2568300 (15) Dois dados
+2568300 2570660 (15) Três e seis
+2570680 2572660 (15, 03) Um acerto simples
+2572660 2573740 (03) Pra eliminar um ataque
+2573740 2575020 (03) Que só precisa de um mesmo
+2575020 2576320 (03) Quem tu eliminou e como?
+2576700 2577420 (15) É...
+2577420 2578880 (15) Eu eliminei o
+2578880 2579400 (15) E Colby
+2579400 2580080 (15) É Colby, né?
+2580520 2581140 (15, 03) É Colby e Bryant
+2581140 2581880 (15, 03) Colby e Bryant
+2581880 2582600 (15) É...
+2582600 2584500 (15) Eu joguei nas pernas
+2584500 2586360 (15) Mas joguei muito forte
+2586360 2586700 (15) Que ele
+2586700 2587060 (15) Ele
+2587060 2588340 (15) Perdeu o equilíbrio
+2588340 2589020 (15) E puf, caiu
+2589020 2590120 (15, 03) Ele tava muito tempo
+2590120 2592140 (03) Fora das quadras, né?
+2592720 2593680 (03) Embora no tempo atual
+2593680 2594820 (03) Tenha sido recente
+2594820 2595840 (03) Que ele se foi
+2595840 2597120 (03) Esse é o sabedor
+2597120 2598000 (03) Se passa alguns anos
+2598000 2598420 (03) No futuro
+2598420 2599280 (03) Em uma outra realidade
+2599280 2599920 (03) É...
+2599920 2600440 (03) Então ele tá meio
+2600440 2601540 (03) Destreinado ali
+2601540 2602940 (03) Ele não conseguiu
+2602940 2603820 (03) Abaixar a tempo
+2603820 2604800 (03) Pra segurar a bola
+2604800 2605800 (03) Ele foi pego
+2605800 2606560 (03) Meio de surpresa
+2606560 2607500 (03) Meio chocado
+2607500 2608060 (03) Com a morte
+2608060 2608780 (03) Sendo eliminada
+2608780 2609540 (03) Tão facilmente
+2609540 2610660 (03) E a bola
+2610660 2611760 (03) Acaba acertando ele
+2611760 2612540 (03) E ele cai
+2612540 2614220 (03) E ele está eliminado
+2614220 2616200 (03) Ele sai da quadra
+2616200 2616900 (03) Ele pega a bola
+2616900 2617560 (03) Joga pro
+2617560 2618940 (03) Pro Chamberlain
+2618940 2620640 (03) E ele sai da quadra
+2620640 2621820 (03) O Chamberlain é muito maior
+2621820 2623400 (03) Tem dois e dezesseis de altura
+2623400 2624780 (03) Ele bate a bola no chão
+2624780 2625500 (03) Algumas vezes
+2625500 2627220 (03) Ele dá aquela ajeitada
+2627220 2627920 (03) No bigode
+2627920 2629220 (03) Ele olha
+2629220 2629820 (03) Vê que o
+2629820 2630420 (03) O...
+2630440 2630880 (03) Líder
+2630880 2631840 (03) Daquele grupo
+2631840 2632920 (03) É o
+2632920 2633480 (03) Bacana
+2633480 2634440 (03) E ele sabe
+2634440 2635840 (03) Que se ele derrubar o líder
+2635840 2637280 (03) A moral do time
+2637280 2638200 (03) Vai pra baixo
+2638200 2639160 (03) Ele
+2639160 2640520 (03) Joga a bola
+2640520 2642040 (03) Com muita força
+2642040 2643060 (03) Na direção
+2643060 2644100 (03) Do Bacana
+2644100 2644960 (03) Bacana
+2644960 2645620 (03) Tu vai desviar
+2645620 2646620 (03) Ou tu vai segurar essa bola?
+2647000 2648460 (15, 04, 03) Eu vou segurar a bola
+2648460 2649020 (15, 04) Não
+2649020 2649780 (15) Não
+2649780 2651060 (15) Você vai desviar
+2651060 2654580 (15) Você vai desviar
+2654580 2655800 (15, 07, 04, 06) Que são dois dados
+2655800 2656740 (04, 06) Tudo pra manter
+2656740 2657660 (06) A personalidade
+2657660 2659220 (04, 06) Do personagem
+2659220 2660200 (04) Eu sou cabeça dura
+2660200 2660420 (04) Eu sei que
+2660420 2661480 (04) Eu deveria desviar
+2661480 2662380 (04) Mas não
+2662380 2663220 (04) Eu vou eliminar
+2663220 2664320 (04) O Chamberlain agora
+2664320 2664580 (04) Não
+2664580 2665500 (04, 03) Um dado
+2665500 2667040 (04, 03) Teu atributo ou mais
+2667040 2667640 (03) Um dado
+2667640 2668600 (04, 03) Olha só
+2668600 2669880 (04) Eu quero descrever
+2669880 2670760 (04) Bem antes de jogar
+2670760 2672060 (04, 03) Quando eu vejo a bola
+2672060 2673180 (04) Na minha direção
+2673180 2675280 (04) Eu abro os braços
+2675280 2676600 (04) Pra realmente
+2676600 2678260 (04) Aumentar a minha área
+2678260 2679660 (04) Afim de que a bola
+2679660 2680940 (04) Venha de alguma forma
+2680940 2682100 (04) Pra minha direção
+2682100 2683680 (04) Aí eu vejo
+2683680 2684920 (04) Eu vejo que ela
+2684920 2685660 (04) Tava indo um pouquinho
+2685660 2686520 (04) Pra esquerda
+2686520 2687620 (04) Eu posiciono
+2687620 2688120 (04) O meu corpo
+2688120 2688760 (04) Pra esquerda
+2688760 2689300 (04) Pra ela bater
+2689300 2689940 (04) De frente ao meu corpo
+2689940 2690300 (04) De frente ao meu corpo
+2690300 2690380 (04) De frente ao meu corpo
+2690380 2691060 (04) De frente ao meu tronco
+2691060 2691840 (04) E eu segurar
+2691840 2692980 (04) Tal qual um goleiro
+2692980 2695280 (04) Faço toda essa preparação
+2695280 2696620 (04) Seis
+2696620 2697960 (04) Que é o suficiente
+2697960 2698620 (04) Porque é mais
+2698620 2699120 (04, 06) Seis é bom
+2699120 2699740 (04) Seis é bom
+2699740 2701720 (04, 03) Agora
+2701720 2703240 (03) Tu não segurou
+2703240 2704380 (03) A bola de um pivete
+2704380 2706020 (03) Mas de um jogador
+2706020 2707500 (15, 03) Profissional de basquete
+2707500 2709140 (15, 03) Tu segurou essa bola
+2709140 2711960 (15, 03) A rede está lá
+2711960 2715400 (04) Cobras roxas
+2715400 2716200 (04) Até a morte
+2716200 2717100 (04) Depois dela
+2717100 2719620 (04, 03) Os dois jogadores
+2719620 2720020 (03) Profissionais
+2720020 2720260 (03) Batem bem
+2720260 2720760 (03) Batem palma
+2720760 2721580 (03) Pra vocês
+2721580 2724120 (03) Eles fazem um joinha
+2724120 2725320 (03) Enquanto desaparecem
+2725320 2727540 (03) A morte volta ali
+2727540 2728320 (03) Pra quadra
+2728320 2728620 (02, 03) É
+2728620 2729560 (02) É raro
+2729560 2731880 (02) Mas vocês me venceram
+2731880 2732220 (15, 02) Ah é
+2732220 2732860 (15) Já acabou né
+2732860 2733760 (15) Porque na hora que pegou
+2733760 2734500 (15) Ela eliminou o último
+2734500 2735740 (15, 02) Sim vocês venceram
+2735740 2736660 (15, 02) Foi o que eu disse
+2736660 2737080 (15, 02) Gente
+2737080 2737560 (15) Gente
+2737560 2738240 (15) Gente
+2738240 2740120 (15) A gente vai voltar à vida
+2740120 2741740 (15) A gente deixou de morrer
+2741740 2743200 (15) Eu não acredito
+2743200 2745140 (02, 04) Tô olhando esperançoso
+2745140 2745640 (02, 04) Pra morte
+2745640 2746320 (02) Eu cumpro
+2746320 2747840 (02) Tudo o que prometo
+2747840 2749260 (02, 03) Então vocês vão voltar
+2749260 2750140 (03) Em três minutos
+2750260 2751880 (03) Ela levanta os dedos
+2751880 2752880 (03) Pra estar lá
+2752880 2753640 (03) Dois
+2753640 2754840 (03) E uma voz feminina
+2754840 2755060 (03) Diz
+2755060 2756340 (14, 03) Olha só quem tá aqui
+2756340 2758260 (14) Você não ia me ligar?
+2758440 2759000 (14, 03) Gabs?
+2759440 2760680 (14, 03) Oi Gabs
+2760680 2761700 (14, 03) Ele se vira
+2761700 2762180 (03) E vocês vê
+2762180 2763060 (03) Um anjo
+2763060 2763920 (03) Loiro assim
+2763920 2765460 (03) Com as asas brancas né
+2765460 2765800 (03) Então
+2765800 2766820 (02, 03) Eu não tenho pele
+2766820 2767220 (02) Não é?
+2767340 2768460 (02) Fica difícil digitar
+2768460 2769300 (02) Com o celular
+2769300 2770840 (02) Com os dedos esqueléticos
+2770840 2772180 (02) A sensor de calor
+2772180 2773040 (02) Sabe como é
+2773040 2777800 (02, 14) Basta
+2777800 2779200 (14) Não quero desculpas
+2779200 2780240 (14) Vim saber que eu não tenho
+2780260 2782020 (14) Por que está liberando uma alma
+2782020 2783100 (14) Que pertence aos céus
+2783100 2784360 (02, 14) O quê?
+2785020 2786240 (14) Sim, Regina
+2786240 2788800 (14) Sua avó quando soube do acidente
+2788800 2791280 (14) Pediu que você fosse guiada direto para os céus
+2791280 2794140 (14) E o grandão lá em cima gosta muito da sua avó
+2794140 2794980 (14) Eu falei!
+2795140 2797880 (14) Você sabe que ela está proibida de ir em bingos de igreja, né?
+2798580 2801960 (14) Então, como ela pediu para que você fosse guiada até os céus
+2801960 2803320 (14) Não posso te liberar
+2803320 2804520 (14) É ordem do grandão
+2804520 2806240 (14) Então, você vem comigo
+2810260 2812920 (15) Que terrível isso
+2812920 2815140 (15) Tá bom
+2815140 2816060 (15) Ela vai
+2816060 2816820 (15) Não
+2816820 2818020 (15) Mas não
+2818020 2819240 (15, 04) Veja bem
+2819240 2820140 (04) Gabs
+2820140 2822060 (04) Já me aproximo ao Gabs
+2822060 2822640 (14, 04) Gabriel
+2822640 2823920 (14, 04) Gabriel, senhor
+2823920 2825220 (04) Gabriel
+2825220 2826540 (04) Veja bem
+2826540 2828360 (04) A gente fez
+2828360 2830240 (04) Assinou um contrato
+2830240 2832640 (04) Com o senhor morte aqui
+2832640 2835200 (04) Nós ganhamos justamente
+2835200 2838360 (04) Um jogo mortal contra ele
+2838360 2840020 (04) E dois ex-jogadores
+2840260 2841640 (04) Profissionais
+2841640 2843820 (04) E agora queremos somente
+2843820 2845180 (04) O que nos é de direito
+2845180 2847300 (14, 04) Voltar à vida como foi assim condenado
+2847300 2849000 (14) Você me parece um homem sensato
+2849000 2852220 (14) Se você me vende uma casa que não é sua
+2852220 2853640 (14) Eu sou o dono da casa?
+2853980 2854920 (14, 04) Pois então
+2854920 2856100 (14, 04) Mas veja bem
+2856100 2858800 (04) Em momento algum
+2858800 2861640 (04) A posse da nobre alma
+2861640 2863800 (04) Da minha companheira Regis
+2863800 2865720 (04) Havia de fato
+2865720 2868000 (04) Passado ao senhor criador
+2868000 2869920 (04) A gente estava aqui no limbo
+2870260 2872700 (04) E nesse momento de disputa
+2872700 2874720 (04) Houve então assim um acordo
+2874720 2878060 (04) Com esse que é o atravessador
+2878060 2880120 (04) Final da nossa vida
+2880120 2880940 (04) O senhor morte
+2880940 2882700 (04) E daí nós vencemos
+2882700 2884620 (04) Então na prática
+2884620 2887160 (04) A casa nunca chegou
+2887160 2888340 (04) A não ser da Regis
+2888340 2889440 (04) Sempre foi da Regis
+2889440 2892800 (04, 06) Eu levanto a minha mãozinha assim tremendo
+2892800 2894600 (06) Eu tô tremendo ali com a mãozinha pra cima
+2894600 2896620 (14, 06) O anjo se assusta
+2896620 2898460 (14) Nossa, desculpa rapaz
+2898460 2899500 (14, 06) Eu não tinha te visto
+2899500 2899800 (06) É
+2899800 2899900 (06) É
+2899900 2900240 (06) É
+2900260 2902600 (06) , é que eu tive que ajudar uma vez
+2902600 2904720 (06) O meu tio que é advogado
+2904720 2905900 (06) Mas a casa
+2905900 2907740 (06) Ela pode ir assim
+2907740 2909800 (06) Desculpa sim, mas se
+2909800 2911160 (06) A pessoa tiver
+2911160 2913720 (06) De boa fé, ela passa
+2913720 2916440 (06) Pode passar pra pessoa se ela não souber
+2916440 2917220 (06) Então
+2917220 2920000 (06) Eu tive que estudar isso pra fazer
+2920000 2921500 (06) Uns cinquenta processos pra ele
+2921500 2924140 (14, 06) Nem seu tio, nem nenhum outro advogado
+2924140 2925000 (14) Estão no céu
+2925000 2926800 (14) Então fica tranquilo
+2926800 2928820 (14, 06) Mas uma coisa é certa
+2928820 2930140 (14) A casa é da Regis
+2930260 2930560 (14) Regina
+2930560 2933620 (14) Embora não exista uma casa
+2933620 2934680 (14) E sim a alma
+2934680 2936920 (14) Regina, você quer vir pro céu, certo?
+2937080 2937800 (14) Então vamos
+2937800 2941540 (14) Eu preferia voltar pra vida
+2941540 2943640 (15, 14) Mas...
+2943640 2945400 (15) É...
+2945400 2946000 (15, 14) Tem essa opção?
+2946100 2948040 (15, 14) Eu não posso te obrigar a ir pro céu
+2948040 2949820 (14) Afinal é o céu, né?
+2949960 2950800 (14) Não é o inferno
+2950800 2952580 (14) Mas posso te liberar também
+2952580 2953780 (15, 14) Porque sua avó pediu
+2953780 2956840 (15, 14) Mas e se eu falar que eu não vou agora
+2956840 2958960 (15, 14) Eu depois nunca mais eu volto?
+2958960 2959680 (14) Ela pediu
+2959680 2961320 (14) Direto para o céu
+2961320 2963220 (14, 04) E somos bem literais com isso
+2963220 2966160 (14, 04) E se ela voltar e falar com a avó dela
+2966160 2967280 (14, 04) Pra mudar esse pedido?
+2967300 2969400 (14, 04) Aí, mas é que...
+2969400 2972000 (14) Olha, se ela voltar e falar com a avó dela
+2972000 2974900 (14) E a avó dela descobrir que a fé dela é verdadeira
+2974900 2977140 (14) E que ela pode pedir qualquer coisa
+2977140 2979040 (14) Ela não vai se perder nesse caminho?
+2980040 2982380 (00, 14) Tenho certeza que a avó dela vai...
+2982380 2982880 (14) Ah, vai
+2982880 2987300 (14, 03) Ela aponta pra Regina
+2987300 2988160 (14, 03) Tá vendo?
+2988560 2988960 (03) Droga
+2989680 2994360 (14, 05, 03) Ela ganhou todos os prêmios do bingo da igreja
+2994360 2995260 (14) E foi banida
+2995260 2997360 (14) Foi feita a CPI do bingo
+2997360 2999180 (14) O milho dela tá apreendido
+2999180 3001180 (14) Sacristia da igreja até hoje
+3001180 3004740 (14, 04) Suja bem
+3004740 3005940 (04) Então
+3005940 3007960 (04) A fé dela
+3007960 3010440 (04) É inabalável, eu não tenho dúvida
+3010440 3013140 (04) Ela vai ficar um pouquinho mexida agora
+3013140 3014760 (15, 04) Vai ganhar o próximo jogo do bingo
+3014760 3015760 (15) E vai ficar tudo bem
+3015760 3016860 (15) Não, mas olha só
+3016860 3018820 (15) Vamos fazer um outro combinado então
+3018820 3019240 (15) Diga
+3019680 3020960 (15) Eu volto
+3020960 3023160 (15) A gente joga
+3023160 3025880 (15) Porque ganhar esse jogo agora
+3025880 3028180 (15) Esse campeonato que a gente vai participar
+3028180 3029800 (15) É muito importante
+3029800 3032260 (15) E aí, eu tô fazendo isso
+3032260 3035280 (15) Pelo bem dos meus amigos aqui, entendeu?
+3035760 3037600 (15) É uma coisa boa, é uma boa ação
+3037600 3040220 (15, 14) E aí, você me leva depois do jogo
+3040220 3043260 (14) Então, vencer torneio não é boa ação
+3043260 3046520 (14) Quando o jogador coloca 100% Jesus
+3046520 3048360 (15, 14) Te garanto que não é verdade
+3048360 3049660 (15) Mas é uma boa ação?
+3049680 3050800 (15) Porque veja bem
+3050800 3052700 (15) Veja o nosso amigo bacana aqui
+3052700 3055380 (15) A vida dele mudou
+3055380 3057000 (15) Por conta do jogo
+3057000 3059120 (15) E ele depende
+3059120 3061320 (15) A saúde mental dele depende
+3061320 3063100 (15) De ganhar esse torneio
+3063100 3064940 (15) Esse menino aqui
+3064940 3067760 (15) Que eu não lembro o nome dele
+3067760 3070540 (15) Ele pode ficar finalmente conhecido
+3070540 3072740 (15) As pessoas podem realmente ver que ele existe
+3072740 3074620 (15) Se ele ganhar o jogo
+3074620 3076420 (15) Ele precisa desse jogo
+3076420 3079000 (15) As pessoas precisam ver que ele existe
+3079000 3079660 (15, 14) E se você não ganhar o jogo
+3079680 3080580 (14) Você ficar comigo
+3080580 3082700 (14) E eu pagar a terapia do seu amigo
+3082700 3083820 (14) E o outro coitado?
+3083880 3085360 (14, 04) Meu caso é perdido
+3085360 3087620 (04) É só a queimada que vai ajudar
+3087620 3089400 (04) Eu sou um cara que fica
+3089400 3091660 (04) Peliscando o próprio maninho no lugar
+3091660 3093740 (14, 04) Eu sei pra onde isso vai
+3093740 3095980 (14) Eu não posso te obrigar a ir
+3095980 3097680 (14) E eu não posso te liberar
+3098340 3099440 (14) Você quer ser liberada
+3099440 3101120 (14) E eu quero que você vá de livre
+3101120 3102340 (14) E espontane a vontade
+3102340 3104560 (14) Isso, estamos no impasse
+3104560 3105580 (14) Tive uma ideia
+3105580 3107720 (14) Qual foi o jogo que vocês jogaram?
+3107960 3108560 (14) Queimada
+3108560 3109400 (14) Meu time
+3109400 3110220 (14) Contra o seu
+3110220 3111880 (14) Se vocês perderem
+3111880 3113840 (14) Você vai de bom grado para o céu
+3113840 3115160 (14) Se ganhar
+3115160 3117660 (14) Você e seus amigos podem voltar à vida
+3117660 3118740 (15, 14) Perfeito
+3118740 3119740 (15) Vocês topam?
+3119920 3120640 (04) Antes de topar
+3120640 3122540 (04) Eu olho para a câmera e falo
+3122540 3124520 (04) Estou começando a ver algum padrão aqui
+3124520 3126740 (04, 06) E topo
+3126740 3127660 (06) Sim, claro
+3127660 3129780 (06) Você não é o paper, Finca
+3129780 3130960 (06) Você trocou o personagem
+3130960 3136600 (14) É um acordo
+3136600 3138580 (14) Não vamos jogar dentro do céu
+3138580 3139260 (14) Mas na entrada do jogo
+3139260 3140260 (14) A entrada
+3140260 3142500 (03) Ele bate a asa
+3142500 3145300 (03) E a quadra que antes era de cimento
+3145300 3146520 (03) Ela se torna nuvem
+3146520 3148580 (03) Embora seja sólida para vocês pisarem
+3148580 3150240 (03) E mais plana
+3150240 3152980 (03) Para não fazer vocês tropeçarem o tempo todo
+3152980 3155420 (03) Tem plateia em volta de vocês agora
+3155420 3156940 (03) Muitas arquibancadas
+3156940 3158280 (03) Muita gente por ali
+3158280 3159380 (03) Gente famosa
+3159380 3160760 (03) Gente famosa que iria para o céu
+3160760 3162040 (03) Está por ali
+3162040 3164200 (03) Sentada nas arquibancadas
+3164200 3166920 (03) Tem a poltrona mais alta
+3166920 3167780 (03) Ela está vazia
+3167780 3169140 (03) Ele é ocupado
+3169140 3173820 (03) Está ali a quadra montadinha
+3173820 3176760 (03) A morte está sentadinha
+3176760 3178820 (03) Lá na arquibancada
+3178820 3179620 (03) Comendo pipoca
+3179620 3181140 (03) Ela agora está vestindo
+3181140 3184260 (03) Uma camiseta dos cobras roxas
+3184260 3189620 (03) Gabriel, então
+3189620 3190840 (03) Continua
+3190840 3194360 (14, 03) Certo, temos uns rapazes muito bons aqui
+3194360 3196660 (14) Que estão sempre nas disputas com a gente
+3196660 3198140 (14) Vocês devem conhecê-los
+3199140 3202540 (03) Surgem três homens na quadra
+3202540 3204720 (03) Um deles, assim, um cabelo meio
+3204720 3206320 (03) Um corte meio antigo
+3206320 3207680 (03) E um bigode
+3207680 3208900 (03) Está mais ao fundo
+3208900 3212200 (03) E dois, assim, um de cada lado mais à frente
+3212200 3214920 (03) São cabeludos, assim, barbudos
+3214920 3216360 (03) Um com a pele branca
+3216360 3217720 (03) E um óculos redondo
+3217720 3219520 (03) O outro com uma pele mais escura
+3219520 3221720 (03) Vocês reconhecem
+3221720 3224640 (03) O branco de cabelo comprido
+3224640 3225720 (03) Que é o John Lennon
+3225720 3228920 (03) O mais no fundo é o George Harrison
+3229140 3231380 (03) E não fazem ideia de quem é o terceiro
+3231380 3232420 (03) Gabriel, então, fala
+3232420 3234240 (14, 03) Eu acho que vocês os conhecem
+3234240 3236520 (14) Só temos dois aqui conosco
+3236520 3238280 (14) O Pooh uma vez veio
+3238280 3240020 (14) Mas venceu a morte no
+3240020 3241400 (14, 03) A morte grita da arquibancada
+3241400 3244900 (14, 03) Venceu no karaokê e voltou
+3244900 3246580 (14) Mas esses dois
+3246580 3249120 (14, 03) Ela aponta pro terceiro
+3249120 3250680 (14, 03) Vocês sabem quem é, né?
+3252220 3254560 (03) O John Lennon começa a rir
+3254560 3256560 (03) A arquibancada começa a rir
+3256560 3258280 (03) E o cara com a pele mais escura
+3258280 3258780 (03) Fica puto
+3259140 3263900 (15) Tem como fazer, tipo, um teste de memória
+3263900 3266560 (15, 03) E saber quem é essa figura?
+3267180 3268840 (03) Não, porque todas as fotos dele
+3268840 3269580 (03) Estão erradas
+3269580 3272460 (03, 06) Eu tô olhando, assim, tentando saber
+3272460 3274000 (06) Quem que é essa pessoa
+3274000 3276780 (03, 06) O Gabriel, então, se posiciona no meio da quadra
+3276780 3277780 (15) Calma, calma, para tudo
+3277780 3280280 (15) Vocês têm quatro pessoas e a gente só tem três
+3280280 3281760 (15) Eu não vou jogar
+3281760 3282980 (15, 14) Eu sou só um anjo
+3282980 3284700 (15, 14) Ah, tá, tá
+3284700 3285740 (15) Mais alguma dúvida?
+3286280 3288440 (15) Não, não, eu só queria saber o nome
+3288440 3290060 (15) Dessa pessoa que a gente não conhece
+3290060 3292880 (15) Mas se for demais, tá valendo também
+3292880 3293640 (15) Não tem problema, não
+3293640 3296860 (15, 03) Tu viu o sangue subindo, assim, na bochecha
+3296860 3297560 (03) Do Gabriel?
+3298040 3299740 (03) Ele fica muito ofendido
+3299740 3302960 (15) Perdão, desculpa, mil desculpas
+3302960 3304360 (15) É claro que eu sei quem é
+3304360 3306840 (15) Pessoal, porque me fugiu da mente
+3306840 3308040 (15, 03) Assim, tá aqui na ponta da língua
+3308040 3310520 (15, 03) O anjo, então, joga a bola pro Lennon
+3310520 3311720 (03) E ele vai atacar
+3311720 3314820 (04) Peraí, eu levanto o dedinho, assim
+3314820 3316660 (04) Um minuto, senhor Lennon, um minuto
+3316660 3318400 (04) Gabriel, um minuto
+3318440 3319580 (04) Pessoa que eu não conheço
+3319580 3321640 (04) Eles param, é o céu, né, de respeito
+3321640 3322380 (04) Ah, muito obrigado
+3322380 3325120 (04) E aí eu me viro pros meus colegas
+3325120 3327820 (04, 03) Ao contrário de vocês, pelo visto, né
+3327820 3328220 (03) Vamos lá
+3328220 3331400 (04) Viro pros meus colegas
+3331400 3333500 (04) Agora é hora, gente, mais uma vez
+3333500 3335540 (04) Bócoras, palminhas
+3335540 3339560 (04) Vamos lá, vamos assustar
+3339560 3341440 (05, 04, 03) Metade dos Beatles e a pessoa que eu não conheço
+3341440 3343680 (03) Lennon, então, ele faz uma pose
+3343680 3346100 (03) Assim, uma perna no chão
+3346100 3347700 (03) Ele abre bem os braços
+3347700 3349240 (03) Um desses braços com a bola
+3349240 3351040 (03) E ele joga a bola, assim
+3351040 3352860 (03) Cheia de amor
+3352860 3355880 (03) A bola vem com flores saindo dela
+3355880 3358140 (03) O ambiente fica meio psicodélico
+3358140 3360200 (03) Começa a girar umas cores, assim
+3360200 3361840 (03) E essa bola tá indo na direção de quem?
+3362340 3363360 (15) Pode ser na minha?
+3363700 3365800 (03) Pode, tu vai segurar ou desviar
+3365800 3367840 (15, 03) Eu vou desviar, porque eu tenho
+3367840 3368740 (15) Né?
+3369600 3370780 (15, 03) Um mínimo de noção
+3370780 3372780 (15, 03) Dois dados
+3372780 3376100 (15, 03) Dois dados, eu tenho que tirar cinco ou seis
+3376100 3376640 (15) É isso?
+3376640 3377580 (15, 03) E um deles?
+3377700 3378180 (03) Pelo menos
+3378180 3379080 (03) Isso
+3379080 3380660 (03) Se tu tirar dois cincos
+3380660 3382360 (03) E um cinco ou um sexto, tu elimina ele
+3382360 3384880 (15, 03) Três e dois
+3384880 3387540 (15, 03) A bola te acerta
+3387540 3390780 (03) Tu sente paz e tranquilidade
+3390780 3392180 (03) Enquanto cai na quadra
+3392180 3394540 (03) A nuvem é mais fofinha quando tu bate
+3394540 3395380 (03) E tu tá fora
+3395380 3398560 (05, 03) Eliminada pelo John Lennon
+3398560 3399140 (05, 03, 04) Tudo bem
+3399140 3402180 (05, 03, 04) Essa era uma frase que eu não imaginei que falaria hoje
+3402180 3404340 (04) Mas eu já perdi a bola
+3404340 3405780 (04) E falarei
+3405780 3407340 (04) Vingarei a Regis
+3407700 3409580 (04) Saio correndo
+3409580 3410760 (04) E pulo
+3410760 3412740 (04) Já que é um negócio meio
+3412740 3414840 (04) Mangá que a gente tá fazendo assim
+3414840 3417580 (04) E dou um salto, mas dou um salto de dois metros
+3417580 3419780 (04) E quando eu tô no ar
+3419780 3420740 (04) No pico
+3420740 3422680 (04) Eu miro no próprio John Lennon
+3422680 3425060 (04) Como uma forma de vingança
+3425060 3426060 (04) E grito
+3426060 3428220 (07, 04) VINGANÇA
+3428220 3432220 (07, 03) O pessoal da arquibancada fica meio
+3432220 3433220 (03) Com exceção da morte
+3433220 3435880 (03) O pessoal da arquibancada fica meio chocado com isso
+3435880 3437680 (14, 03) Eu gostaria que a morte
+3437700 3439020 (03) Fizesse com a gente
+3439020 3439680 (03) Mas tudo bem
+3439680 3441320 (14, 03) Ela tá com uma blusa
+3441320 3443860 (14, 03) Dois e quatro
+3443860 3444760 (03) Meu atributo
+3444760 3445900 (03) Um acerto simples
+3445900 3447600 (03) Um acerto crítico
+3447600 3448400 (03) Como eu falei
+3448400 3449740 (03) Quando passa de dois acertos
+3449740 3451040 (03) O crítico conta como dois
+3451040 3453080 (03) Tu vai eliminar duas pessoas
+3453080 3456260 (03) A bola acerta a cabeça do Lennon
+3456260 3458680 (03) E vai assim pro lado
+3458680 3461040 (03) O óculos dele cai no chão
+3461040 3461680 (03) Se quebrando
+3461680 3463960 (03) E a bola quica na cabeça dele
+3463960 3466020 (03) E acerta o George Harrison
+3466020 3467120 (03) Que tava lá no fundo
+3467120 3467680 (03) Na casa dele
+3467700 3468420 (03) Na testa
+3468420 3470120 (03) E tu eliminou duas pessoas
+3470120 3471240 (03) Com uma bola só
+3471240 3471880 (04, 03) Então ó
+3471880 3472940 (04) Eu não vi nada disso
+3472940 3474800 (04) Porque assim que eu soltei a bola
+3474800 3476520 (04) Eu já caí no chão
+3476520 3477580 (04) Virado de costas
+3477580 3478480 (04) E agachado
+3478480 3479880 (04) Com o braço pra cima
+3479880 3481520 (04) Sabendo que eu ia fazer um estrago
+3481520 3483440 (04) Esperando a explosão
+3483440 3484400 (04) Que não seria explosão
+3484400 3485000 (04) Mas ainda assim
+3485000 3485960 (04) A dupla iluminação
+3485960 3487300 (15) A Regis tá vibrando
+3487300 3489600 (15) Do lado de fora da quadra
+3489600 3494140 (03) Obrigado Regis
+3494140 3495860 (03) Do lado de anjos
+3495860 3496500 (07, 03) Gente
+3496500 3496860 (07, 03) Gente
+3496860 3496900 (03) Gente
+3496900 3496920 (03) Gente
+3496920 3497480 (03) Gente
+3497480 3497680 (unknown) Gente
+3497680 3499820 (03) Fala que a morte também tá fazendo isso
+3499820 3500220 (03) Por favor
+3500220 3501280 (03) A morte tá fazendo mesmo
+3501280 3502240 (03) Ah, obrigado
+3502240 3503720 (07, 03) Olha aí a condição da morte
+3503720 3508020 (07, 03) Olhos de reprovação de Gabs, inclusive
+3508020 3511820 (07, 03) Temos duas pessoas em quadra de um lado
+3511820 3514380 (03) Temos o Irineu e o Bacana
+3514380 3515620 (03) E do outro apenas
+3515620 3517580 (03) Aquele que ainda não foi nomeado
+3517580 3519560 (03) A bola tá do lado deles
+3519560 3520360 (03) Este homem
+3520360 3522480 (03) Pega a bola assim
+3522480 3523760 (03) Ele olha pra ela
+3523760 3525500 (03) Olha pros amigos eliminados
+3525500 3527160 (03) Ele olha pra vocês assim com uma
+3527160 3527460 (03) Com uma
+3527460 3530000 (03) Você sentem uma paz vindo dele
+3530000 3530980 (03) Ele consegue
+3530980 3532340 (03) Ao contrário de todos ali
+3532340 3534840 (03) Ele olha nos olhos do Irineu
+3534840 3536460 (03) Ele está vendo o Irineu
+3536460 3537780 (03) Ele reconhece aquele homem
+3537780 3539320 (03) E ele joga a bola na cara dele
+3539320 3542580 (03) Irineu
+3542580 3543960 (03) Uma coisa assim
+3543960 3545260 (03) Por algum motivo
+3545260 3546700 (03) Por ter descoberto
+3546700 3549260 (03) Que tá fora da linha das almas
+3549260 3550480 (03) Por ter contato com a morte
+3550480 3552680 (03) Ou por uma coincidência absurda
+3552680 3553480 (03) Tu agora
+3553480 3554500 (03) Tu tem um poder
+3554500 3556520 (03) Ser esquecido agora
+3556520 3557000 (03) É mais controlado
+3557000 3558220 (03) É mais controlável por você
+3558220 3559200 (03) Quando tu for
+3559200 3559960 (03) Te esconder
+3559960 3560740 (03) Alguma coisa assim
+3560740 3561940 (03) Tu consegue
+3561940 3563700 (03) Fazer coisas
+3563700 3564480 (03) Quase
+3564480 3566280 (03) Sobrenaturais ali
+3566280 3567400 (03) Em termos de regra
+3567400 3568980 (03) Quando tu quer
+3568980 3570540 (03) Tu joga um dado a mais
+3570540 3571420 (03) Pra qualquer teste
+3571420 3572800 (03) E tu só vai poder
+3572800 3574440 (03) Isso por partida
+3574440 3575240 (03) Então se a partida acabar
+3575240 3576440 (03) Tu recupera isso pra próxima
+3576440 3578340 (03) Ou se tu tirar um acerto crítico
+3578340 3579480 (03) Aí tu recupera
+3579480 3580940 (03) Esse uso de poder
+3580940 3582480 (03) Então se tu ficar tirando crítico
+3582480 3583060 (03) Tu vai poder sempre
+3583060 3585020 (03) Então nessa defesa agora
+3585020 3586280 (03) Tu tem um dado a mais
+3586280 3587180 (03) Pro que tu escolhesse
+3587180 3588060 (03) Tu descrever assim
+3588060 3588640 (03) Alguma coisa
+3588640 3589800 (03) Um sobrenatural
+3589800 3591040 (03) A morte
+3591040 3592280 (03) Um dia tu vai ter que trabalhar
+3592280 3592840 (03) Pra morte
+3592840 3594820 (03) E isso agora faz parte
+3594820 3596140 (03) Do teu ser ali
+3596140 3598920 (03) Então a bola foi atirada
+3598920 3599420 (03) Pra você
+3599420 3600800 (03) O que que tu vai fazer?
+3601140 3601800 (06) Na hora que ele tá
+3601800 3603920 (06) A pessoa tá olhando
+3603920 3604720 (06) Pro meu olho
+3604720 3607700 (06) Eu tava pensando assim
+3607700 3608720 (06) Quem que era essa pessoa
+3608720 3610240 (06) E eu viro
+3610240 3611820 (06) Pra falar com o bacana
+3611820 3612600 (06) Tipo
+3612600 3613620 (06) Esse não é o baterista?
+3614000 3614400 (06) E tipo
+3614400 3615800 (06) Eu não sei se eu virar
+3615800 3616260 (06) Eu desligo
+3616280 3617140 (06) Eu não dou bola
+3617140 3618680 (06) Mas foi isso que eu fiz
+3618680 3619200 (03, 06) Ok
+3619200 3620500 (03) Tu não quer usar o teu poder
+3620500 3621400 (03) Então são só dois dados
+3621400 3622680 (03, 06) Eu não consegui pensar nada
+3622680 3623980 (03, 06) Então dois dados
+3623980 3626260 (03, 06) Quatro e um
+3626260 3627980 (03, 06) É um acerto simples
+3627980 3629220 (03) Tu desvia da bola
+3629220 3630160 (03) Sem querer
+3630160 3631580 (03) O bacana
+3631580 3632160 (03) Tu vai responder
+3632160 3632920 (03) Sobre o baterista
+3632920 3634200 (03) Não sei quanto tu conhece
+3634200 3634660 (03) Da banda
+3634660 3635620 (04, 03) Na hora
+3635620 3636700 (04) Eu volto e desvio pra ele
+3636700 3637960 (04) Claramente é o baterista
+3637960 3639260 (04) Você não tinha reconhecido
+3639260 3640160 (04) Eu vou pegar a bola
+3640160 3641880 (04, 03) É o Beatle negro
+3641880 3643360 (03) Todo mundo lembra dele
+3643360 3644340 (09, 04, 03) Ok
+3644340 3645460 (09, 04) Vou pegar a bola
+3645460 3646260 (04) Eu vou pegar a bola
+3646280 3647120 (04) Eu ofereço a bola
+3647120 3648080 (04) Irineu
+3648080 3650780 (04) Você quer essa onça?
+3651160 3652320 (04) Derrotar o baterista?
+3652680 3654680 (06) Eu abro o olho assim
+3654680 3655620 (06) Arregalo os olhos
+3655620 3657820 (06) Fico paralisado assim
+3657820 3659240 (06) Começo a tremer
+3659240 3660280 (04, 06) Ok, não
+3660280 3662400 (04) Eu derroco a bola de volta
+3662400 3664480 (04) E saio correndo
+3664480 3667540 (04) Mirando
+3667540 3669680 (04) No rosto calmo do baterista
+3669680 3671100 (04, 03) Ok
+3671100 3673060 (03) Dois dados
+3673060 3675840 (04, 03) Toda paz que me é dada
+3675840 3676140 (04) Eu vou pegar a bola
+3676140 3678140 (04) Eu tiro três de dois
+3678140 3678900 (04, 03) Coisa
+3678900 3680100 (03) Tu tira dois acertos
+3680100 3681500 (03) O homem
+3681500 3684220 (03) Ele tenta segurar a bola
+3684220 3685200 (03) Mas
+3685200 3686000 (03) Ela
+3686000 3686480 (03) Ela
+3686480 3687360 (03) Dá uma
+3687360 3688320 (03) Uma desvinhadinha
+3688320 3689080 (03) De último segundo
+3689080 3690720 (03) Ou ele não segura direito
+3690720 3692100 (03) A bola o acerta
+3692100 3692840 (03) Ele
+3692840 3694740 (03) Sorri pra vocês
+3694740 3696160 (03) Eu aponto pra ele e falo
+3696160 3698360 (04, 03) Foi por isso que os Beatles não te fizeram
+3698360 3699300 (04) E aí eu fico
+3699300 3703120 (04) Mais uma vitória
+3703120 3705340 (04, 03) O pessoal da plateia se levanta
+3705340 3706020 (03) Meio revoltado
+3706020 3706620 (03) Ele faz só
+3706620 3707580 (03) Com a mão assim
+3707580 3708800 (03) Pra todo mundo se acalmar
+3708800 3711560 (03) Ele estende a mão pra vocês
+3711560 3712980 (03) E sobra só vocês
+3712980 3713640 (03) A morte
+3713640 3714280 (03) E
+3714280 3715500 (03) Gabs
+3715500 3716740 (15, 03) A gente ganhou, né?
+3716820 3717980 (15) Então a gente vai voltar
+3717980 3718480 (15) É isso
+3718480 3719760 (15, 14) É o céu, né, querida?
+3720160 3721600 (14) Eu não posso mentir pra vocês
+3721600 3722140 (14, 04, 03) Beleza
+3722140 3723500 (04) Já tô com aquela cabeça ansiosa
+3723500 3724700 (15, 14, 04) É, então
+3724700 3725720 (14) Eu e o morte
+3725720 3726860 (14) Temos que conversar
+3726860 3727520 (02, 14) Mas
+3727520 3729680 (02) Eu ia com eles pra torcer
+3729680 3730900 (02, 14) Não, você vai ficar
+3730900 3731440 (02, 14, 03) Então, a morte
+3731440 3733400 (02, 03) Abraça cada um de vocês
+3733400 3735160 (03) Vocês sentem aqueles ossos assim
+3735160 3736000 (03) Abraçam-se
+3736020 3737660 (03) Abraçando vocês ali
+3737660 3739360 (03) Sente um vazio existencial
+3739360 3740220 (04, 03) Te abraçando
+3740220 3740960 (07, 04, 03) É, a vida
+3740960 3744880 (03) A vida passa na frente dos olhos de vocês
+3744880 3746020 (03) Quando ela abraça
+3746020 3747620 (03) Mas ela tá ali
+3747620 3748640 (02, 03) Obrigado pela torcida
+3748640 3750000 (02, 03) Estarei onde estiverem
+3750000 3750880 (02, 03) Quer dizer
+3750880 3752840 (02, 03) Se me libertarem, né?
+3754100 3755680 (02) Eu vou estar torcendo por vocês
+3755680 3756800 (02) Assim que der
+3756800 3758940 (02) Na final eu prometo estar presente
+3758940 3760420 (02) Tentem chegar na final
+3760420 3761980 (02) E, rapaz, quando morrer
+3761980 3764180 (02, 03) Já sabe que tem emprego garantido
+3764180 3765660 (03) Um vagão
+3766020 3766900 (03) De trem
+3766900 3767960 (03) Branco, assim
+3767960 3769000 (03) Com detalhes dourados
+3769000 3769500 (03) E sujos
+3769500 3770560 (14, 03) É só entrarem
+3770560 3771620 (14) Ele leva vocês
+3771620 3772860 (14) Até o lugar do ônibus
+3772860 3773400 (14) E fechou
+3773400 3774400 (14, 05) Obrigado, Gabriel
+3774400 3775960 (05, 03) Ah, vocês entram
+3775960 3776340 (03) É um
+3776340 3778620 (03) Não há uma maquinária puxando, né?
+3778680 3779480 (03) Só um vagão do trem
+3779480 3781380 (03) Mas assim que todos estão acomodados
+3781380 3782740 (03) Ele começa a andar sozinho
+3782740 3784060 (03) Quem olhou pra trás
+3784060 3785200 (03) Viu um beijo
+3785200 3786120 (03) Sem lábios
+3786120 3787400 (03) A morte não tem lábios, né?
+3787600 3787720 (03) Então
+3787720 3790380 (03) É bizarro, assim
+3790380 3791280 (03) Vai dar um pesadelo
+3791280 3791920 (03) Pra quem viu isso
+3791920 3793160 (03) Mas teve um beijo
+3793160 3795480 (03) Parece que se acertaram lá atrás
+3795480 3797500 (03) E o vagão começa a ir
+3797500 3798720 (03) Pelas nuvens
+3798720 3799920 (03) Vocês veem, assim
+3799920 3802280 (03) Outros lugares do céu
+3802280 3803600 (03) Vocês veem o paraíso
+3803600 3805560 (03) O negócio começa a descer devagar
+3805560 3806860 (03) Vocês veem a terra
+3806860 3808340 (03) Cada vez mais perto
+3808340 3809140 (03) Vocês estão vendo
+3809140 3811340 (03) Acho que dá pra ver a casa de vocês aqui de cima
+3811340 3812440 (03) Porque deve estar bem alto
+3812440 3814760 (03) O negócio vai indo até que ele acelera
+3814760 3816880 (03) Ele atravessa o chão
+3816880 3818500 (03) O lugar começa a ficar quente
+3818500 3819440 (03) A vermelho
+3819440 3823440 (15, 07, 03) Coisas começam a passar diante de vocês
+3823440 3824360 (15, 07, 03) Gente sofrendo
+3824360 3829920 (15, 07, 03) Aperta o botão de parar do treino
+3829920 3830680 (15) Tem um botão
+3830680 3831480 (15) Um freio
+3831480 3833520 (15, 03) Tem a cordinha só
+3833520 3834840 (03) Faz um sininho
+3834840 3836380 (15, 03) Tô pulando na cordinha
+3836380 3839080 (15, 03) E o negócio para
+3839080 3840080 (03) Parece um
+3840080 3842040 (03) A porta se abre
+3842040 3842880 (03) Num escritório
+3842880 3843980 (03) No inferno
+3843980 3845860 (03) E lá tem uma mulher
+3845860 3848660 (07, 03, 16) Ah, bem-vindos ao inferno
+3848660 3851460 (16) Eu tenho uma pergunta pra vocês
+3851460 3854080 (16, 04) Tenho várias pra você agora, amor
+3854360 3857020 (16) Eu prometo responder a elas
+3857020 3858740 (16) Assim que me responderem, né?
+3859340 3862000 (16, 03) Numa mão surge o boneco de esqueleto do He-Man
+3862000 3863600 (03) Na outra surge uma Barbie
+3863600 3864640 (03) Pelada
+3864640 3866380 (16, 03) Tipo, o Mort
+3866380 3867860 (16, 03) Ele é um esqueleto, né?
+3868580 3870980 (16) E o Gabriel é uma Barbie pelada
+3870980 3872640 (16) Como é que eles namoram?
+3873440 3874880 (03) Ela começa a bater assim
+3874880 3875620 (03) Os dois bonitinhos
+3875620 3878840 (16, 03) Eu não julgo, moço
+3878840 3880380 (16) Eu só quero voltar pra casa
+3880380 3882240 (16) Ah, então, aí que tá
+3882240 3884280 (16) Se eu for vender uma alma dele
+3884360 3885780 (16) E todos os descendentes
+3885780 3887300 (16) E dos descendentes
+3887300 3888540 (16) Dos descendentes
+3888540 3890740 (16) Sua alma não pertence ao céu
+3890740 3891780 (16) Nem à morte
+3891780 3892740 (16) Tu tá comigo
+3892740 3894420 (15, 16) Ai, meu Deus
+3894420 3895760 (15) Here we go again
+3895760 3897560 (15) Vamos lá de novo
+3897560 3898580 (15) Olha só
+3898580 3900740 (15) Vamos pular toda a discussão
+3900740 3902720 (15) E a gente já combina
+3902720 3904180 (15) Um jogo de queimado
+3904180 3906880 (15, 16) Você sabe que aqui no inferno
+3906880 3908780 (16, 04) Queimado é uma especialidade, né?
+3910480 3912420 (04) O que a Regina tá falando lá?
+3912620 3913960 (04) Eu só olho pra câmera
+3913960 3914340 (04) Fazendo um jogo de queimado
+3914360 3915180 (04) Fazendo uma cara de
+3915180 3915800 (04) Então
+3915800 3917220 (07, 04) Enquanto a claque tá vindo
+3917220 3918400 (04) Atrás
+3918400 3924200 (15, 05, 04) Vamos pro jogo?
+3926240 3927340 (04) Três contra três
+3927340 3928520 (04) Se a gente ganhar, a gente volta
+3928520 3929420 (04) Se a gente perder
+3929420 3931920 (04) Eu realmente não gostaria de ficar aqui
+3931920 3933800 (16, 04) Ok, acho que entendi
+3933800 3936200 (16) E eu sou muito justo
+3936200 3938660 (16) Aqui temos melhores advogados
+3938660 3940420 (16, 03) Na verdade, todos os advogados estão aqui
+3940420 3942820 (16, 03) Ela pega assim
+3942820 3944200 (03) Uns contratos
+3944200 3944860 (16, 03) Olha aqui
+3944860 3945760 (16) Sua alma
+3945760 3946880 (16) Ela é nossa
+3946880 3948880 (16) Seu avô vendeu
+3948880 3950540 (16) A alma deles eu não tenho
+3950540 3951800 (16) Então vamos deixar uma regra
+3951800 3953160 (16) Que beneficie nós dois
+3953160 3953780 (16) Tá bom?
+3954600 3955080 (16) Se eu perder
+3955080 3957200 (16) Eu perco a alma de um rapaz parrudo
+3957200 3959060 (16) Que provavelmente vai vir pra casa
+3959060 3960040 (16) E eu vou morrer de novo
+3960040 3961780 (16) Se eu ganhar
+3961780 3963520 (15, 16, 07) Eu fico com sua alma
+3963520 3964700 (16) E com os dois amigos
+3964700 3966880 (15, 16) Epa, epa, epa, epa, epa
+3966880 3967640 (15) Calma aí
+3967640 3969180 (15) Calma aí
+3969180 3970440 (15, 16) Ok, ok
+3970440 3971520 (16) Ele fica aqui sofrendo
+3971520 3972680 (15, 16) E vocês dois podem voltar aqui
+3972680 3974260 (15, 16) Não, não, não, não, não, não, não, não, não
+3974260 3975920 (15, 16, 06) Eu olho com uma cara de desespero
+3975920 3981740 (07, 06) Eu vejo a cara de desespero do bacana
+3981740 3982680 (06) E eu falo
+3982680 3985540 (06) Eu te ajudo
+3985540 3986280 (06) Eu te ajudo
+3986280 3987960 (03) É uma mulher assim
+3987960 3989320 (03) Com pele vermelha
+3989320 3990360 (03) Asas assim
+3990360 3993380 (03) Usando um terninho rosa
+3993380 3995000 (03) Ela leva o contrato pro Inê
+3995000 3996020 (16, 03, 06) Assina aqui, ó
+3996020 3997840 (06) Eu tô tremendo
+3997840 3998920 (06) Eu pego a caneta
+3998920 4001940 (06) Tem que sair muito tremida a assinatura
+4001940 4002480 (06) Mas tá assinado
+4002680 4004380 (16, 06) Obrigado
+4004380 4006200 (16) E você assina aqui
+4006200 4007540 (16) Não esquece da rúbrica
+4007540 4008220 (15, 16) Ai
+4008220 4009120 (15) A Regis
+4009120 4010920 (15) A Regis faz um sinal da cruz
+4010920 4013820 (15) E assina
+4013820 4014680 (15, 16) Que fácil
+4014680 4016760 (16) Eu achei que vocês iam ler
+4016760 4017700 (15, 16) Eu aguardo
+4017700 4019240 (16) Um negócio na gaveta
+4019240 4019960 (15, 16) Não, calma
+4019960 4020980 (15) Deixa, volta, volta
+4020980 4022580 (15) Deixa eu ler o que eu assinei
+4022580 4024620 (16) Vai fazer diferença, querida
+4024620 4026000 (15, 16, 04) Já foi assinada
+4026000 4026380 (16) Ai, meu Deus
+4026380 4027580 (16) Mas, vamos lá
+4027580 4029140 (16) É um jogo de queimada
+4029140 4029980 (16) Quem vencer
+4029980 4031100 (16) Leva o pote de almoço
+4031100 4032480 (04) É, acho que sim, né
+4032480 4034120 (04) É o que vocês assinaram agora, né
+4034120 4035620 (16, 04) Me acompanhe por aqui, então
+4035620 4037520 (15, 16, 04) A gente acompanha
+4037520 4038720 (04) Tô acompanhando
+4038720 4041740 (16, 03) Ela passa por uma porta
+4041740 4043920 (03) Assim, ela vai levando vocês
+4043920 4047580 (03) Vocês veem uma cidade meio desorganizada
+4047580 4049500 (03) Papéis pra todo lado
+4049500 4050700 (03) Gente andando de um lado pro outro
+4050700 4052500 (03) Carregando papéis
+4052500 4053720 (03) Gente carimbando
+4053720 4056440 (03) Armários de documentos gigantescos
+4056440 4057680 (03) Burocracia, né
+4057680 4059860 (16, 03) Mas não serve pra nada
+4059860 4061260 (16) É só um castigo mesmo
+4061260 4062460 (16, 11) Quer dizer?
+4062480 4064460 (16) Era pra ser um castigo
+4064460 4066340 (16) Mas parece que é o normal
+4066340 4067700 (16) Pra muita gente que tá chegando
+4067700 4070600 (16) Estamos pensando em inovar o método, sabe?
+4071040 4072280 (16, 03) Vamos continuar por aqui
+4072280 4074340 (03) Ela é até uma quadra muito parecida
+4074340 4076760 (03) Com a que vocês jogaram lá da...
+4076760 4079520 (03) No início deste episódio, né?
+4080400 4082300 (03) Tem arquibancadas também
+4082300 4085620 (03) Gente malvada pra todo lado e tal
+4085620 4088160 (03) Vocês vão até o lado de vocês da quadra, né?
+4088700 4089980 (04) Eu levanto meu dedinho de novo
+4089980 4091060 (04) Antes de começar
+4091060 4092240 (04) Eu queria só...
+4092240 4093500 (04) Fazer dois pedidos
+4093500 4094620 (04) Ó, Beuzebú
+4094620 4095680 (16, 04) Não, não
+4095680 4096940 (16) Sou apenas um proletária
+4096940 4098820 (16, 04) Ó, serva de Beuzebú
+4098820 4099680 (04) Primeiro
+4099680 4101440 (04) A gente pode fazer o nosso aquecimento?
+4102660 4105580 (16) Acho que no inferno estão todos bem aquecidos, não é?
+4107640 4108700 (04) Pô, piadinha
+4108700 4109500 (04) Segundo
+4109500 4112920 (04) A gente precisa do nosso novo mascote
+4112920 4114200 (04) Quem é o novo mascote?
+4114880 4115360 (04) Morte!
+4115660 4117060 (04) Venha torcer por nós!
+4117500 4118360 (04) Nada acontece
+4118360 4121060 (04) A morte não pode entrar aqui?
+4121320 4121640 (04) Pode
+4121640 4121720 (04) É o que?
+4121720 4121780 (04) É o que?
+4121780 4121800 (04) É o que?
+4121800 4121820 (04) É o que?
+4121820 4121840 (04) É o que?
+4121840 4121860 (04) É o que?
+4121860 4121880 (04) É o que?
+4121880 4121940 (04) É o que?
+4121940 4121960 (04) É o que?
+4121960 4121980 (04, 03) É o que?
+4121980 4122020 (03) É o que?
+4122020 4122040 (07, 03) É o que?
+4122040 4122100 (07, 03) É o que?
+4122100 4122220 (07, 03) É o que?
+4122240 4122500 (07, 03) É o que?
+4122500 4122520 (07, 03) É o que?
+4122520 4123020 (07, 03) É o que?
+4123020 4123080 (07, 03) É o que?
+4123080 4123100 (07, 03) É o que?
+4123100 4123120 (07, 03) É o que?
+4123120 4123180 (07, 03) É o que?
+4123180 4123240 (07, 03) É o que?
+4123240 4123280 (07, 03) É o que?
+4123280 4123300 (07, 03) É o que?
+4123300 4123340 (07, 03) É o que?
+4123340 4123400 (07, 03) É o que?
+4123400 4123440 (07, 03) É o que?
+4123440 4123500 (07, 03) É o que?
+4126420 4127960 (03) A serva ali
+4127960 4130040 (03) Ela levanta as duas mãos
+4130040 4132480 (03) Numa surge o esqueleto rimem
+4132480 4133720 (03) Na outra a barba entelada
+4133720 4135220 (03) Ela começa a bater um no outro
+4135220 4136960 (03) E te olhar nos olhos assim
+4136960 4139720 (07, 03) Ok?
+4140300 4140740 (07, 04) Maravilhoso
+4140740 4141440 (07, 04) Eu entendi
+4141440 4142480 (04) Ok, cara
+4142480 4150940 (07, 04) Ok
+4150940 4152200 (04) Eu voltarei a...
+4152200 4152660 (04) A minha vida
+4152660 4154380 (04) Mas com muitos danos mentais
+4154380 4158900 (04) Eu pensei que era um pouco perturbado
+4158900 4160520 (04) Mas depois eu pensei
+4160520 4163240 (04) Eu ainda meio perturbado
+4163240 4164360 (04) Viro pros meus amigos
+4164360 4165420 (05, 04) Agora já é isso
+4165420 4167200 (05, 04) Será a nossa partida mais difícil
+4167200 4169100 (15, 04) Mas é literalmente
+4169100 4169940 (04) Por nossas almas
+4169940 4171260 (15, 04) Pela sua, né?
+4171360 4172240 (15) Por sua casa
+4172240 4172740 (15) Que a gente tá aqui
+4172740 4173640 (15) Por seu avô
+4173640 4174540 (15) O que você vai fazer
+4174540 4175060 (15) Com seu avô
+4175060 4175800 (15) Quando a gente voltar?
+4175920 4177480 (15, 04) Ah, vocês assinaram também
+4177480 4179680 (04) Ele já foi dessa pra melhor
+4179680 4181060 (04) Ou pra pior, no caso
+4181060 4182180 (04) Há muito tempo
+4182180 4183040 (04) Então assim
+4183040 4184380 (04) É pela gente mesmo
+4184380 4185320 (15, 04) Vamos lá
+4185320 4187660 (15, 07, 04) Cobra as rochas no inferno
+4187660 4188220 (04) Vambora
+4188220 4189340 (15, 04) Cobra as rochas
+4189340 4193300 (15, 00, 03) Então a advogada
+4193300 4195000 (03) Que cuida dos contratos
+4195000 4198580 (03) Pelo menos da família do Bacana
+4198580 4200000 (03) E agora de vocês também
+4200000 4202480 (03) Ela se posiciona na quadra
+4202480 4203640 (03) Um homem
+4203640 4206020 (03) Tava sentado assim na plateia
+4206020 4207900 (03) Ele anda até a posição dele
+4207900 4209460 (03) É um homem assim
+4209460 4210640 (03) Meio hippie, né?
+4211200 4212160 (03) Um outro hippie
+4212180 4214900 (03) Não é o Lennon daquele lugar
+4214900 4216040 (03) A advogada então fala
+4216040 4219240 (16, 03) Esse é o nosso querido visitante
+4219240 4221140 (16) Não tá aqui pagando por crime nenhum
+4221140 4222340 (16) E é o único habitante
+4222340 4223400 (16) Que tá aqui porque realmente quer
+4223400 4225980 (16) Ah, o pessoal bate palma pra ele
+4225980 4230440 (16) Já que estamos apostando
+4230440 4232780 (16) Uma alma muito valiosa pra igreja
+4232780 4234320 (16) E a sua avó
+4234320 4236680 (16) Tem nos trazido muitos problemas
+4236680 4237800 (16) Senhorita Regina
+4237800 4239220 (16) O meu chefe quis vir
+4239220 4240300 (16) Pessoalmente aqui chegar
+4240300 4241840 (16, 03) E surge um
+4241840 4244140 (16, 03) Gigantesco
+4244140 4246580 (03) Uns 4 metros de altura
+4246580 4247920 (03) Com as pernas muito pequenas
+4247920 4249500 (03) Ele é meio fininho embaixo
+4249500 4251260 (03) Pra poder caber ali na quadra
+4251260 4252800 (03) Ele é todo vermelho
+4252800 4254680 (03) Usando uma tanga peluda
+4254680 4257720 (03) Ele tem garras muito grandes
+4257720 4259180 (03) Ele tem chifres
+4259180 4261480 (03) Uma coroa de fogo
+4261480 4262540 (03) Sobre a cabeça dele
+4262540 4265020 (03) Ele encara vocês assim de cima
+4265020 4267060 (03) Ele bate o pé no chão
+4267060 4270000 (03) As linhas que marcam a saída da quadra
+4270000 4271160 (03) Elas racham
+4271160 4271820 (03) E tudo isso
+4271840 4272460 (03) Tudo em volta
+4272460 4275560 (03) Desaba num precipício gigantesco de fogo
+4275560 4276640 (07, 03) Socorro
+4276640 4279600 (07, 03) Todas as pessoas na arquibancada
+4279600 4280440 (03) Morrem
+4280440 4281940 (03) Vocês escutam elas gritando na queda
+4281940 4284020 (07, 03) E depois quando sobra a labareda de fogo
+4284020 4285180 (03) Quando elas tocaram lá embaixo
+4285180 4287340 (03) Vocês escutam o último suspiro dela
+4287340 4289860 (03, 06) E agora a saída da quadra é a morte
+4289860 4292120 (03, 06) A advogada que trabalha pra vocês
+4292120 4293200 (03) Ela pega a bola
+4293200 4294680 (03, 06) Eu vou começar, tudo bem?
+4294740 4296840 (06) Tem fogo assim na quadra, é isso?
+4297580 4299660 (03) Lá embaixo é uma queda muito alta
+4299660 4300820 (03) Lá embaixo tem um rio de lava
+4300820 4301660 (03) Mas quando...
+4301840 4304000 (03) Quando o pessoal da arquibancada bateu lá
+4304000 4305200 (03) O fogo subiu, sabe?
+4305220 4306220 (03) Deu aquela alimentada
+4306220 4308700 (03, 06) E daí agora o fogo deu uma diminuída
+4308700 4310760 (03, 06) Quando o diabo apareceu
+4310760 4311920 (06) Eu caí no chão assim
+4311920 4313320 (06) De bunda
+4313320 4315580 (06) E fui andando de costa pra trás
+4315580 4317520 (06) Quando veio o fogo assim
+4317520 4319920 (06) Que eu dou aquela esquentadinha
+4319920 4321480 (06) Sem parar, assim, congelada
+4321480 4323440 (06) Embora com calor
+4323440 4324300 (06) É isso
+4324300 4327740 (15, 05, 06) A gente não tem medo de você, anjo mau
+4327740 4329660 (05) Tinhoso, canhoto
+4329660 4331180 (05) Chicru, porru
+4331180 4333360 (05, 04) Demônios, perpentes
+4333360 4335600 (04) Sete férias, satanás
+4335600 4337860 (15) Talvez um pouquinho de medo
+4337860 4338600 (15) Só assim
+4338600 4342700 (15, 16, 04) Os silas de criança
+4342700 4344360 (15, 16, 04) Obrigado
+4344360 4346080 (04) Cão
+4346080 4349000 (04) Mapa rica, maldito
+4349000 4350580 (04, 03) Príncipe das trevas
+4350580 4352780 (03) Aquela criatura gigantesca
+4352780 4353840 (03) Ela ergue o braço
+4353840 4356620 (03) Só de ele erguer o braço já dá aquela corrente de arco
+4356620 4357780 (03) Quase em cima de vocês
+4357780 4360860 (03) Ela leva um dedo assim, embaixo do olho
+4361180 4362520 (03) Ela cata uma lágrima
+4362520 4364560 (03) E ela se prepara pra luta
+4364560 4366340 (16, 07, 03) Ela é emotiva, gente
+4366340 4368760 (07, 03) Abre o fio
+4368760 4370820 (07, 03) Onde é que tá a bola?
+4371000 4371940 (03) Tá com a advogada
+4371940 4374980 (03) E ela vai atirar, a menos que vocês impeçam pra fazer alguma coisa
+4374980 4376540 (15, 03) Não, vamos fazer a docinha
+4376540 4379400 (15, 04) A gente já fez a docinha
+4379400 4380700 (03, 04, 06) Valeu, bom
+4380700 4382760 (04, 03, 06) Não fez, não fez
+4382760 4383140 (03, 06) Não fez?
+4383220 4386320 (04, 03, 06) Vocês fizeram numa quadra
+4386320 4388280 (03) Vocês fizeram isso no limbo
+4388280 4390360 (03) Vocês fizeram no céu, no inferno, nunca
+4390360 4390960 (04, 03) Ok
+4391180 4392880 (07, 04, 03) Então agora é hora de fazer
+4392880 4394040 (04) Já era advogada
+4394040 4396300 (04) Um instante, o contrato diz que nós temos
+4396300 4398960 (04) A permissão de fazer o nosso aquecimento
+4398960 4399800 (04) E o nosso canto de guerra
+4399800 4401980 (16, 04, 06) Não diz, mas vai lá
+4401980 4403620 (06) Eu vou muito
+4403620 4407140 (06) Arrastado assim, quase que eu não consigo chegar
+4407140 4408520 (06) Mas como ele chamou
+4408520 4410720 (04, 06) Então eu consegui não ir também
+4410720 4412840 (04, 06) Pira, cócoras
+4412840 4413680 (04) Batidinha
+4413680 4416180 (04) Mesma coisa, rítmico
+4416180 4418840 (04) A gente olha pra eles com um olhar ameaçador
+4418840 4421020 (04) Porque é claro que a gente vai conseguir amedrontar o demônio
+4421180 4422540 (04) O... rola dois dados
+4422540 4424180 (04) Seis e quatro
+4424180 4425700 (04) É o meu atributo
+4425700 4428960 (03) Raul não, que é um homem vivido
+4428960 4430700 (03) Mas a advogada
+4430700 4432100 (03) E o mochila de criança
+4432100 4434260 (03) Eles dão um passo atrás meio assustado
+4434260 4436880 (15, 03) Então na verdade quando a advogada jogar
+4436880 4439340 (15) A bola, ela vai jogar um dado só e não dois
+4439340 4440020 (15, 03) Isso
+4440020 4441920 (03) E ela vai jogar em quem?
+4442520 4444400 (03) Quer dizer, ela não joga dados
+4444400 4447060 (03) Quem for segurar ou desviar
+4447060 4448820 (03) Dela, tem um dado a mais
+4448820 4449420 (03) Perfeito
+4449420 4451020 (03) E ela vai atirar em vocês
+4451020 4452200 (03) Em quem que ela atirou essa bola?
+4452400 4452740 (03, 06) Em mim
+4452740 4453720 (03, 06) E o Irineu
+4453720 4456300 (03, 06) Irineu, a bola vem em chamas
+4456300 4458520 (03) O fogo queime esta bola
+4458520 4459900 (03) Vem na tua direção
+4459900 4462000 (03) É a morte certa se aproximando
+4462000 4462580 (03) O que é que tu faz?
+4462800 4464680 (06) Eu saio correndo na direção contrária
+4464680 4466760 (03, 06) Tipo, meio que na...
+4466760 4468380 (06) Na mesma direção da bola
+4468380 4471160 (06) Só que, tipo, no mesmo sentido também
+4471160 4472480 (07, 06) E...
+4472480 4473740 (06) Tu vai de encontro na bola?
+4473820 4474580 (06) Não, contrário
+4474580 4475420 (06) Tipo, fugindo da bola
+4475420 4477000 (07, 06) Só que fugindo em linha reta
+4477000 4477940 (15, 06) Tropeça e cai
+4477940 4480220 (15, 06) Em algum momento tropeça e cai
+4481020 4484120 (07, 03, 06) Tu não continua ignorando
+4484120 4485440 (03) Nenhum poder especial
+4485440 4487200 (03, 06) Eu já tenho três dados, né?
+4487240 4488600 (06) Porque ela tá intimidada
+4488600 4490040 (03, 06) Ok, vamos lá, três dados
+4490040 4492880 (03, 06) Dois, quatro e seis
+4492880 4494560 (03, 06) Tu precisa tirar teu atributo a mais, certo?
+4495240 4495600 (03, 06) Sim
+4495600 4498660 (03) Tu tirou um acerto crítico e dois acertos normais
+4498660 4499760 (06) Posso descrever acerto?
+4500080 4500820 (03) Pode, por favor
+4500820 4502460 (03, 06) Eu tava correndo
+4502460 4504740 (06) A bola acertou
+4504740 4506080 (06) Foi pra cima
+4506080 4506800 (06) Eu caí
+4506800 4507720 (06) Virei
+4507720 4509120 (06) E a bola caiu na minha mão
+4509120 4510200 (03, 06) Perfeito
+4510200 4510720 (03) Ah...
+4511020 4513680 (03) Tu sente o queimar daquela bola
+4513680 4515580 (03) Mas tu tá morto, né?
+4515640 4516480 (03) Que diferença faz?
+4516880 4519240 (03) Uma força desconhecida
+4519240 4522720 (03) Simplesmente atira a advogada ao fogo
+4522720 4523100 (07, 03) Ah!
+4524700 4525740 (03) A labirinta sobe
+4525740 4526720 (03) Queimando
+4526720 4528500 (03) E então abaixa novamente
+4528500 4531160 (03, 06) Eu tô congelado segurando a bola pra cima
+4531160 4533800 (03, 06) É, o Irineu tá congelado com a bola na mão
+4533800 4535280 (03) Ele não vai conseguir atirar essa bola
+4535280 4537380 (03) Quem vai pegar essa bola e continuar essa partida?
+4537480 4538900 (15) Eu pego a bola e continuo
+4538900 4540900 (15) Eu vou jogar a bola no diabo
+4541020 4544480 (15, 03) Você descobriu que a fé realmente funciona
+4544480 4547160 (03) Tudo aquilo que a sua família te ensinou
+4547160 4549200 (03) Embora não funcione da maneira que eles acreditam
+4549200 4550220 (03) Pode funcionar
+4550220 4553180 (03) Então tem um poder meio divino em você
+4553180 4555120 (03) Sabendo que Deus pode não olhar a todos
+4555120 4556020 (03) Por causa da sua avó
+4556020 4556500 (03) Ele olha
+4556500 4560520 (03) Então se tu quiser qualquer efeito assim
+4560520 4561980 (03) De ver ao divino
+4561980 4563860 (03) Se tu conseguir colocar isso na tua descrição
+4563860 4564800 (03) Tu rola um dado a mais
+4564800 4568400 (15, 03) Então a Regis pega a bola
+4568400 4570900 (15) Faz uma cruz na coluna
+4571020 4571640 (15) Na bola
+4571640 4572720 (15, 03) Contra o diabo, ok
+4572720 4573780 (03) Não, tô achando incrível
+4573780 4577900 (15) Ela faz uma cruz na bola
+4577900 4580580 (15) Dá um beijo
+4580580 4583960 (15) E pede pra Deus
+4583960 4584980 (15) Ajudar ela
+4584980 4586200 (15) Nesse momento
+4586200 4587440 (15) Que ela precisa muito
+4587440 4590200 (15) De acertar o diabo
+4590200 4591340 (15) E aí ela vai jogar a bola
+4591340 4592300 (15) Posso jogar 3?
+4592560 4593360 (03) 3 dados
+4593360 4596780 (15) 3, 6 e 5
+4596780 4598580 (15) Eu precisava tirar
+4598580 4600200 (15) Meu ou menos, não é isso?
+4600200 4600820 (15) Eu aceito o diabo, né?
+4600820 4600880 (15) Eu aceito o diabo, né?
+4600880 4600900 (15) Eu aceito o diabo, né?
+4600900 4600920 (15) Eu aceito o diabo, né?
+4600920 4600940 (15) Eu aceito o diabo, né?
+4600940 4600960 (15) Eu aceito o diabo, né?
+4600960 4601000 (15) Eu aceito o diabo, né?
+4601000 4601020 (15) Eu aceito o diabo, né?
+4601020 4603200 (15) Eu acertei uma normal
+4603200 4604560 (15) Errei uma
+4604560 4606400 (15) E acertei crítico no outro
+4606400 4608720 (15, 03) A bola então, ela cria uma
+4608720 4611420 (03) Um feixe de luz
+4611420 4612460 (03) Em volta dela
+4612460 4614620 (03) E vai na direção
+4614620 4616180 (03) Daquela criatura gigantesca
+4616180 4617520 (03) É só uma bola
+4617520 4620920 (03) Ele só coloca a mão pra frente pra segurar essa bola
+4620920 4623320 (03) Mas a bola começa a empurrar ele
+4623320 4624880 (03) Ele começa a se assustar
+4624880 4626980 (03) Ele coloca as duas mãos ali
+4626980 4628540 (03) Ele tenta segurar
+4628540 4630740 (03) Mas uma energia muito forte ali
+4630740 4630920 (03) Ele tenta segurar
+4630920 4632980 (03) Ele vai andando pra trás
+4632980 4633860 (03) Enquanto segura
+4633860 4636360 (03) Ele finalmente está dominando a bola
+4636360 4638360 (03) Quando não tem chão atrás dele
+4638360 4639440 (03) E ele cai
+4639440 4640800 (03) O Raul levanta a mão
+4640800 4642080 (03) Ai, eu desisto
+4642080 4648980 (15, 03) Ele já desistiu
+4648980 4650540 (15) Então a gente...
+4650540 4651000 (15) E agora?
+4651380 4652400 (15) Como é que a gente volta?
+4652620 4654000 (15) Tem um trem pra cima?
+4655980 4656820 (04) Cadê a advogada?
+4656840 4657700 (04) A advogada morreu
+4657700 4658960 (04) A gente matou o demônio
+4658960 4660260 (04) Matou a cabeça
+4660260 4660900 (04) Com o...
+4660900 4661460 (04) Não vai queimar
+4661460 4662160 (04) Que beleza
+4662160 4663680 (15, 04) Raul, Raul
+4663680 4665860 (15) Dá uma mãozinha pra nós aí, cara
+4665860 4667340 (15) Como é que a gente sabe que é isso?
+4667560 4668220 (15, 03) Deixa comigo
+4668220 4669760 (15, 03) Ele estala o dedo
+4669760 4671320 (03) Tudo fica escuro
+4671320 4672380 (03) Tudo fica branco
+4672380 4674860 (03) E vocês acordam no hospital
+4674860 4678780 (03) Sentado ali numa das poltronas
+4678780 4679960 (03) Tá...
+4679960 4681840 (03) Qual das reservas é mais ligado em vocês?
+4682140 4682960 (03) O amigo dele, Nil
+4682960 4684960 (15, 03) É, eu acho que o Damien
+4684960 4685520 (15, 03) O Damien?
+4685540 4685860 (15, 03) O Damien
+4685860 4686200 (15, 03) Ok
+4686200 4690580 (03) O Emo é a pessoa que a gente quer ver quando acorda
+4690580 4690740 (03) E o Emo é a pessoa que a gente quer ver quando acorda
+4690740 4690880 (03) E o Emo é a pessoa que a gente quer ver quando acorda
+4690900 4692580 (03) O Damien, ele...
+4692580 4694540 (03) Vocês acordam os três ao mesmo tempo
+4694540 4696900 (03) O Damien então se assusta
+4696900 4697820 (03) Numa...
+4697820 4699060 (03) Na poltrona
+4699060 4699680 (03) Ele acorda
+4699680 4701860 (03) Vocês notam que ele tá com o braço engessado
+4701860 4702920 (03) E uma das pernas
+4702920 4704100 (03) Ele fala
+4704100 4705080 (15, 03) É um milagre
+4705080 4706660 (15, 10) Vocês acordaram
+4706660 4709020 (15) Damien, você não tem ideia
+4709020 4709800 (15, 10) Não, não, não
+4709800 4711760 (10) Vocês não tem ideia
+4711760 4713220 (10) Enquanto dormiam
+4713220 4714600 (10) Tivemos que jogar as partidas
+4714600 4717360 (10) E a semifinal foi devastadora
+4717360 4718760 (10) Nós vamos perder
+4718760 4720640 (10) Porque todo mundo se machucou
+4720640 4721720 (10) E não vão poder jogar na final
+4721720 4723160 (15, 10) Não, vamos sim
+4723160 4724600 (15) Tamo aqui
+4724600 4725380 (15) Acordando
+4725380 4726060 (15, 10) Vamos jogar
+4726060 4726800 (10) Vocês tão loucos
+4726800 4727980 (10) Acabaram de acordar
+4727980 4729960 (10) Vocês tão há meses com o corpo parado
+4729960 4731960 (10) Não tão prontos ou treinados pra jogar
+4731960 4732640 (15, 10) Tamo sim
+4732640 4733360 (15) Tamo pronto
+4733360 4735080 (15, 10) Quanto tempo se passou desde o acidente, Damien?
+4735120 4736020 (10) Uns dois meses
+4736020 4737000 (15, 10) Não, eu tenho fé
+4737000 4739600 (15) Eu tenho fé que a gente vai conseguir
+4739600 4742760 (15, 06) Eu olho pra Regis e faço um sim com a cabeça
+4742760 4745660 (04, 06) Os cobras roxas já venceram Deus
+4745660 4747280 (04) Já venceram o demônio
+4747280 4749200 (04) Nós agora conquistaremos a Terra
+4749200 4750480 (15, 04) Damien, eu tô muito orgulhoso
+4750480 4751780 (15) De vocês, cara
+4751780 4753080 (15) Vocês chegaram na semifinal
+4753080 4754120 (15) Que coisa linda
+4754120 4757440 (15, 10) Sim, aparentemente éramos melhores do que vocês
+4757440 4759900 (07, 10) Descobrimos isso só quando fomos jogar
+4759900 4762420 (07, 10) É sério
+4762420 4763540 (10) Não é piada
+4763540 4766300 (10) Enquanto estavam aí, vencemos todas as partidas
+4766300 4767160 (10) E chegamos na final
+4767160 4769180 (10) Mas a partida anterior foi devastadora
+4769180 4771840 (10) O nível dos competidores é gigantesco
+4771840 4772980 (15, 10) Tá tudo certo
+4772980 4776160 (15, 10) Depois do que a gente passou, a gente fez qualquer um
+4776160 4778580 (15, 10, 06) Bater cabeça em um acidente de ônibus?
+4778580 4780320 (10, 06) Eu tô com a cabeça pra baixo
+4780320 4780960 (06) Vai ser assim
+4780960 4782720 (06) Eles vão achar que a gente é louco
+4782720 4784800 (10, 17) Talvez seja, né?
+4785660 4787640 (05) Qual foi o primeiro ensinamento
+4787640 4789760 (05) Que a gente passou quando você entrou no Cobra-C
+4789760 4792180 (05, 10) Que eu não podia comer chocolate?
+4793020 4793900 (10) Qual era o segundo?
+4796960 4797600 (05) Macarrão?
+4797940 4799800 (05) Cobras roxas nunca desistem
+4799800 4801960 (04) Nós já enfrentamos
+4801960 4802840 (04) O céu
+4802840 4805180 (04) Nós já enfrentamos o inferno
+4805180 4806840 (04) Nós já passamos pelo purgatório
+4806840 4809060 (04) Você pode achar que nós somos loucos
+4809060 4810160 (04) Talvez sejamos
+4810320 4811360 (04) Mas ainda assim
+4811360 4814080 (04) Nós faremos o maior espetáculo
+4814080 4815820 (04) Que o mundo já viu
+4815820 4817040 (04) Sobre uma quadra
+4817040 4821080 (04) Eu consigo levantar ou eu tô muito bizarro ainda?
+4821540 4823680 (03) Não, vocês estão 100%
+4823680 4825480 (03) Ao contrário do que a lógica diria
+4825480 4826240 (05, 07, 04, 03) Bora, bora
+4826240 4827800 (05, 04) Eu já começo a me levantar
+4827800 4830800 (04) E olho pros meus dois colegas e falo
+4830800 4833800 (04) O que uma cobra roxa faz sempre no início
+4833800 4835720 (04) De qualquer partida, meus amigos?
+4835940 4836340 (04) Passou
+4836340 4838960 (04) Isso
+4838960 4839080 (04) Isso
+4839080 4839760 (04) É isso
+4839760 4840900 (04) Já vai embalado
+4840900 4842900 (04) E agora o jogo já é pra ir pra quadra?
+4843300 4844700 (04, 03) Outras coisas acontecem
+4844700 4846620 (03) Tem toda a burocracia de poder sair do hospital
+4846620 4850140 (03) O psicólogo do hospital quase não libera vocês
+4850140 4851140 (07, 03) Mas
+4851140 4853800 (07, 03) Vocês estão na grande final
+4853800 4854720 (03) No grande estádio
+4854720 4857480 (03) Não tá tão lotado quanto deveria
+4857480 4859600 (03) As semifinais foram lotadas
+4859600 4861540 (03) O pessoal empolgadíssimo
+4861540 4864660 (03) Foram realmente batalhas incríveis
+4864660 4866700 (03) As pessoas não estão acreditando
+4866700 4868900 (03) Que a queimada seja tão legal
+4868900 4869740 (03) Provavelmente não vai ser tão legal
+4869760 4870960 (03) Provavelmente o esporte está salvo
+4870960 4872440 (03) Até o ano que vem
+4872440 4875160 (03) Afinal, vocês chegaram contra
+4875160 4878180 (03) O grupo de capoeira do Binimbal Platinado
+4878180 4879860 (03) E as pessoas estão
+4879860 4881620 (03) Sabem que o time
+4881620 4882860 (03) Que eles realmente queriam ver
+4882860 4884400 (03) Que eram as reservas
+4884400 4885660 (03) Estão fora de jogo
+4885660 4888440 (03) Porque as bolas foram muito fortes
+4888440 4890040 (03) Eles acabaram quebrando braço e perna
+4890040 4894220 (03) Eles se sacrificaram pra vencer a partida anterior
+4894220 4896220 (03) E vocês acabaram de vir do hospital
+4896220 4898060 (03) Após dois meses
+4898060 4899160 (03) Em coma
+4899160 4899740 (03) E vocês acabaram de vir do hospital
+4899760 4901280 (03) Então, todo mundo sabe
+4901280 4903040 (03) Que vocês não tem nenhum preparo físico
+4903040 4905020 (03) E que vocês eram péssimos
+4905020 4907080 (03) Até não foram classificados de primeira
+4907080 4908300 (03) Pra esse campeonato
+4908300 4910540 (03) Então as casas de aposta estão
+4910540 4913040 (03) Pagando, vocês são a zebra
+4913040 4915000 (03) Pagando muito pouco pra quem aposta
+4915000 4916520 (03) No grupo de capoeira
+4916520 4918260 (03) Do Binimbal Platinado
+4918260 4921420 (03) E vocês estão entrando como azara
+4921420 4923800 (03) Embora o time de vocês chegou até a final
+4923800 4926180 (03) Como os grandes favoritos
+4926180 4927060 (03) Agora
+4927060 4929060 (03) Com o time reserva
+4929760 4932160 (03) Porque foi o que vocês foram durante este campeonato
+4932160 4934220 (03) Ninguém leva muita fé em vocês
+4934220 4935060 (03) Mas tá lá
+4935060 4937160 (03) O mundo inteiro está assistindo
+4937160 4938720 (04, 03) Eu viro pra Regis
+4938720 4941240 (04) Regis, você consegue ligar pra sua avó?
+4941740 4942740 (15) Acho que consigo
+4942740 4944400 (15, 04) Consegue?
+4944520 4945840 (15) Eu ligo pra minha avó
+4945840 4948480 (15, 04) Eu recomendo que você fale com ela duas coisas
+4948480 4950700 (04) Primeiro, que ela reze pra gente
+4950700 4952500 (04) Que já deu pra ver que a reza dela é forte
+4952500 4955480 (04) Segundo, que ela pegue parte
+4955480 4957740 (04) Do que ela ganhou nesses bingos dela
+4957740 4959040 (04) E aposte na gente
+4959040 4960300 (04) Que a gente vai ficar milionário hoje
+4960300 4962460 (15, 04) Eu ligo
+4962460 4964280 (13, 15, 04) Vózinha, benção
+4964280 4966180 (13, 15) Bença, minha netinha
+4966180 4969400 (13) Eu fiquei muito feliz que você acordou
+4969400 4971100 (13, 15) Foram as minhas rezas
+4971100 4972620 (13) Eu tenho certeza
+4972620 4975900 (13, 15) Vózinha, você não tem noção de como sua reza é boa
+4975900 4980120 (15) Então, tô te ligando pra poder te dar essa dica
+4980120 4982980 (15) De botar um dinheirinho aqui na gente
+4982980 4985340 (15) E fazer um pedidozinho aí pra Deus
+4985340 4987800 (15) Que a gente consiga ganhar esse jogo
+4987800 4988680 (15, 12) Aposta?
+4989040 4990280 (12) Minha filha
+4990280 4992820 (12) Tirando o bingo e o jogo do bicho
+4992820 4994500 (15, 12) Aposta não é de Deus
+4994500 4996460 (15, 12) Não, é só uma contribuição
+4996460 4998740 (15, 12) É pra apostar em vocês?
+4999000 4999500 (15) Isso
+4999500 5003380 (15, 03) Rola dois dados, vai que eu atributo mais pra convencê-la
+5003380 5009980 (12, 03, 11) Eu tirei seis e seis
+5009980 5011680 (12) Ah, minha filha
+5011680 5015000 (12) Eu tenho guardado a pensão que seu avô deixou pra mim
+5015000 5017200 (12) É um dinheiro muito bom, viu?
+5017200 5018660 (12) Eu vou apostar tudo
+5019040 5020040 (12) Eu tenho fé
+5020040 5021280 (15, 12) Ai, meu Deus
+5021280 5022360 (15, 04) Ai, meu Deus
+5022360 5025140 (15, 04) Eu vou acabar com a pensão do meu avô
+5025140 5027640 (04) A gente já apostou coisas maiores
+5027640 5029300 (07, 04) Fica tranquila, que a gente vai ganhar
+5029300 5032060 (07, 04) Ai, meu Deus, que dedico
+5032060 5035880 (07) Ai, socorro
+5035880 5039220 (07, 03) Assim que tu desliga, passa pela tua cabeça
+5039220 5040280 (03) A possibilidade de tudo
+5040280 5041580 (03) Foi a alucinação do Coman
+5041580 5042820 (07, 03) Exatamente
+5042820 5048440 (07, 06) Eu já tô pensando nela perder o poder
+5048440 5048840 (06) Porque ela possui o poder do Coman
+5048840 5048980 (06) Ela possui o poder do Coman
+5048980 5050940 (04, 06) Eu sou um cara perturbado
+5050940 5053160 (04) Mas eu nunca pensaria no esqueleto e a barra
+5053160 5053920 (04, 03) Nunca
+5053920 5054940 (04, 03) Isso não pode ser feito
+5054940 5057080 (07, 04, 03) Tu tá dizendo que quem tem esse vídeo
+5057080 5058360 (03) É uma pessoa perturbada
+5058360 5059080 (03) Ou você é um cara normal?
+5059620 5060740 (04) Tô dizendo nada, velho
+5060740 5063940 (04, 03) Ok, vamos continuar
+5063940 5065700 (03) Vocês estão em campo, então
+5065700 5068100 (03) O grupo da Capoeira entra jogando, né?
+5068160 5070120 (03) Tocando berimbau
+5070120 5071440 (03) Eles são muito fortes, né?
+5071860 5073820 (03) São duas meninas e um rapaz
+5073820 5075400 (03) Muito carismáticos, assim
+5075400 5078780 (03) Eles já estão cheios de patrocinadores
+5078980 5080360 (03) Na roupa deles
+5080360 5082780 (03) Inclusive, eles costumavam lutar
+5082780 5084640 (03) O rapaz costumava lutar só de calça
+5084640 5086580 (03) Ele tá de camisa, assim como as meninas
+5086580 5088120 (03) Pra caber mais patrocínio
+5088120 5089880 (03) O patrocínio dos Cobras Roxas
+5089880 5091980 (03) Ninguém quis vincular a marca
+5091980 5094300 (03) A esse time que tá entrando em campo
+5094300 5096400 (03) Pessoal que recém saiu do hospital
+5096400 5098920 (03) Teve gente entrando com recurso
+5098920 5101280 (03) Pela saúde de vocês
+5101280 5102720 (03) Pra que essa partida
+5102720 5104260 (03) Não acontecesse
+5104260 5105920 (03) Mas ela vai acontecer
+5105920 5107380 (03) E vocês estão ali
+5107380 5108580 (03) E tá lá o pessoal dançando
+5108980 5110640 (03) O Paranauê
+5110640 5112340 (15, 03) A gente vai pra nossa
+5112340 5115920 (15) Dancinha de começo de aquecimento
+5115920 5117420 (15, 04, 03) Eu tenho certeza
+5117420 5118920 (04, 03) Que os nossos colegas
+5118920 5120920 (04) Fizeram as dancinhas antes, né?
+5121020 5123320 (04, 03) Não sei, pode fazer a dancinha?
+5123760 5125560 (06) Ele tá falando das reservas
+5125560 5128120 (03, 04, 06) Tu não tava aqui, né?
+5128180 5128820 (04) Tu não sabe
+5128820 5130680 (04) Eu tô pressupondo que sim
+5130680 5132720 (04, 06) Se não for uma grande...
+5132720 5134140 (04, 06) Vocês vão ser expulsos do time
+5134140 5135700 (03, 04, 06) Certamente
+5135700 5138500 (03, 04, 06) Eles levaram vocês até a final
+5138980 5140740 (04, 03) E vão ser expulsos do time
+5140740 5141120 (04) Ok?
+5142300 5144880 (04) Seria uma quebra de confiança inacreditável
+5144880 5146360 (04, 03) Primeiro
+5146360 5149160 (03) A arquibancada
+5149160 5151600 (03) Tá incrédula olhando pra vocês dançando
+5151600 5155120 (15, 03) Não sei porquê
+5155120 5157500 (03) Segundo
+5157500 5159860 (03) Entre as pessoas
+5159860 5161240 (03) Tu vê
+5161240 5163360 (03) Ele tá usando uma máscara
+5163360 5165180 (03) Como se fosse essa cirúrgica
+5165180 5167180 (03) Tá usando um capuz
+5167180 5168420 (03) Um óculos escuro
+5168980 5170180 (03) Mas ninguém é tão branco
+5170180 5171880 (03) Quanto aquele branco ali
+5171880 5173780 (03) E nem tão magro
+5173780 5175320 (03) Ele tá lá
+5175320 5176860 (03) Tu tem quase certeza
+5176860 5178340 (03) Que é ele disfarçado ali
+5178340 5179940 (04, 03) Eu tenho certeza
+5179940 5180720 (04) Que eu vi a morte
+5180720 5183300 (04) E eu faço um positivo assim pra plateia
+5183300 5184940 (04) Ele sabe que é pra ele
+5184940 5186800 (03) Ele bate palma
+5186800 5188080 (03) Só ele bate palma
+5188080 5190340 (03) E vocês estão posicionados ali
+5190340 5192180 (03) O pessoal da capoeira sabe
+5192180 5193520 (03) Que vocês vieram do hospital
+5193520 5195900 (03) E eles deixam vocês começarem
+5195900 5196600 (03) Tá bom
+5196600 5197560 (15, 03) Bacana
+5197560 5198360 (15) Começa você
+5198360 5200100 (15, 03) Eles tão bem incomodados
+5200100 5202880 (03) Em lutar com gente debilitada
+5202880 5204820 (03) E que não joga tão bem numa final
+5204820 5208160 (07, 04, 03) Nós vencemos do demônio
+5208160 5212080 (07, 04, 03) Nós vencemos do baterista oculto dos Beatles
+5212080 5214000 (04) Nós derrotamos a morte
+5214000 5215520 (04) Quem são vocês meus caros?
+5215900 5217780 (04, 03) Saio correndo e miro
+5217780 5219800 (04, 03) Antes disso, desculpa interromper
+5219800 5221520 (03) Tu não tinha ganho poder ainda
+5221520 5224900 (04, 03) Mas agora tu sabe que a tua alma tá vendida
+5224900 5226840 (03) Tá vinculado pra sempre ao inferno
+5226840 5227240 (03) Tá vinculado pra sempre ao inferno
+5227240 5227360 (03) Tá vinculado pra sempre ao inferno
+5227360 5227480 (03) Tá vinculado pra sempre ao inferno
+5227480 5227700 (03) Tá vinculado pra sempre ao inferno
+5227700 5228200 (03) Tá vinculado pra sempre ao inferno
+5228200 5228340 (03) Tá vinculado pra sempre ao inferno
+5228360 5228880 (03) Sente
+5228880 5230400 (03) Então se tu conseguir, sei lá
+5230400 5234020 (03) Qualquer coisa ligada ao mudo lá de baixo
+5234020 5235540 (03) Tu roda um dado a mais
+5235540 5236440 (04, 03) Ok
+5236440 5239600 (04) Não vou usar o poder ainda não
+5239600 5240900 (04) Eu sinto que tenho o poder
+5240900 5245240 (04) Mas só miro no cara que tá no meio
+5245240 5248580 (04, 03) Eles tão gingando pra poder desviar melhor da bola
+5248580 5249640 (04, 03) Claro, imagino
+5249640 5253320 (04, 03) Mas eu acompanho a ginga e miro no tempo futuro
+5253320 5254800 (04) Na testa dele
+5254800 5257940 (04) Tiro um e três e acerto as duas
+5257940 5258200 (04, 03) Tiro um e três e acerto as duas
+5258200 5259000 (03) São dois acertos
+5259000 5262200 (03) Tu acerta um dos...
+5262200 5263900 (03) São duas mulheres e um rapaz
+5263900 5264440 (03) Primeiro em quem?
+5264900 5265360 (03) No rapaz
+5265360 5268980 (03) O rapaz é muito rápido no gingado dele
+5268980 5271080 (03) E a bola não ia acertar ele
+5271080 5275520 (03) Ele fez a jogada pra gingar pro outro lado
+5275520 5277700 (03) Se tornando o alvo da bola
+5277700 5279960 (03) Mas foi mais rápido que ele
+5279960 5281760 (03) E ele acertado e ele cai
+5281760 5284240 (03) Tu elimina um deles
+5284240 5287440 (03) A plateia, em choque, começa a gritar
+5287440 5287520 (03) A plateia, em choque, começa a gritar
+5287520 5287540 (03) A plateia, em choque, começa a gritar
+5287540 5289080 (03) Parece que teremos jogo
+5289080 5293640 (03) Parece que realmente esse time reserva
+5293640 5296720 (15, 03) Ele é tão bom, talvez, quanto o primeiro
+5296720 5299660 (15, 03) Mas agora é a vez das duas meninas capoeiristas
+5299660 5301600 (15) Regis faz solo
+5301600 5306960 (15, 03) Ela dá uma gingadinha de um lado pro outro
+5306960 5307800 (03) Segurando a bola
+5307800 5309620 (03) Ela joga a bola pra cima
+5309620 5311500 (03) Ela apoia uma mão no chão
+5311500 5314700 (03) Como se tivesse uma voadora invertida ali, né?
+5314920 5316260 (03) Se apoiando numa das mãos
+5316260 5317340 (03) Ela com o pé solto
+5317340 5319420 (03) Dá um golpe na...
+5319420 5320380 (03) Chuta a bola
+5320380 5323240 (03) E voa em velocidade na direção de...
+5323240 5325000 (03) Depois do Fenka sou eu, geralmente
+5325000 5328340 (03) Então a bola tá indo muito rápida na direção do Irineu
+5328340 5329660 (03) A Sam Irineu
+5329660 5332080 (03, 06) Quando eu cheguei, eu tava confiante
+5332080 5335560 (06) Porque a gente enfrentou a morte, né?
+5335660 5337160 (06) Enfrentou os Beatles
+5337160 5338580 (06) Enfrentou o diabo
+5338580 5341560 (06) Só que chegando lá e vendo aquele monte de gente
+5341560 5343020 (06) Eu comecei a ficar com muita vergonha
+5343020 5344840 (06) E eu quis meio que sumir ali
+5344840 5346380 (06) Ficar sumido ali
+5346380 5347180 (06) Eu meio que...
+5347340 5348060 (06) Que eu abaixei
+5348060 5349900 (06) Querendo ficar invisível
+5349900 5352840 (06) Porque eu tava muito nervoso ali com o pessoal
+5352840 5354380 (03, 06) Então tu vai rodar três dados
+5354380 5357960 (06) Eu tirei um, seis e dois
+5357960 5358880 (03, 06) Um é um erro
+5358880 5360120 (03) Mais seis é um acerto
+5360120 5362040 (03) Dois é um acerto crítico
+5362040 5364020 (03) Então...
+5364020 5365460 (03) A lutadora lá, a capoeirista
+5365460 5366500 (03) Ela jogou a bola pra cima
+5366500 5368020 (03) Ela botou uma mão no chão
+5368020 5369160 (03) Ela deu aquela olhadinha pra frente
+5369160 5370760 (03) Pra mirar onde o chute dela ia
+5370760 5372860 (03) E daí ela chutou numa direção
+5372860 5374460 (03) Mas ela se assustou porque
+5374460 5376240 (03) Ela não tava vendo mais ninguém
+5376240 5377300 (03) Onde ela tinha mirado
+5377340 5378440 (03) Então a bola
+5378440 5381580 (03) Ela acaba se acertando meio de lado
+5381580 5383320 (03) A bola vai meio sem efeito
+5383320 5385360 (03) Ela não vai tão rápida quanto
+5385360 5386920 (03) Deveria
+5386920 5389180 (03) E o Irineu tá lá abaixado
+5389180 5391220 (03) Com as mãos na cabeça
+5391220 5393640 (03) E sente alguma coisa
+5393640 5394600 (03) Bater na cabeça dele
+5394600 5396580 (03) E quando tu abre o olho, Irineu
+5396580 5397780 (03) Tu tem a bola na mão
+5397780 5400860 (06) Eu fico olhando espantado aquela bola na minha mão
+5400860 5402840 (06) Sem entender o que aconteceu
+5402840 5403680 (06) Porque eu não tava olhando
+5403680 5406760 (03, 06) A plateia, o pessoal vai à loucura
+5407340 5409440 (03) O pessoal das apostas começa a rasgar o bilhete
+5409440 5409880 (03) E gritar
+5409880 5413020 (03, 06) Mas a torcida
+5413020 5415520 (03) Tem gente já batendo no joelho
+5415520 5417440 (03) E fazendo o som da cobrinha
+5417440 5418500 (03) O pessoal tá dançando
+5418500 5421000 (03) A morte tá lá no meio, já tá abraçada com dois também
+5421000 5422300 (07, 03) Dançando todo mundo
+5422300 5424460 (07, 03) Sabe aquele um do lado do outro abraçando o ombro
+5424460 5427900 (07, 03, 06) Estico o braço tremendo assim
+5427900 5429240 (06) Pra Regis pegar a bola
+5429240 5431540 (06) Porque eu não vou dar conta de jogar essa bola
+5431540 5432260 (06) De jeito nenhum
+5432260 5434900 (15, 04, 06) As pessoas gritando
+5434900 5436640 (06) Eu tô só ficando mais nervoso
+5436640 5438960 (04, 06) E eu tô virado pra torcida
+5438960 5441160 (04) Fazendo o somzinho da cobra
+5441160 5443580 (04) E levantando o braço, assim, animando todo mundo
+5443580 5445820 (04) Só vendo o mundo
+5445820 5447200 (04) Sendo tomado pelas cobras roxas
+5447200 5449400 (15, 04) Ela pega a bola
+5449400 5451360 (15) Faz a mesma coisa que ela fez da outra vez
+5451360 5452100 (15) Com o diabo
+5452100 5453900 (15) Faz uma cruz na bola
+5453900 5457700 (15) Dá um beijo e corre e joga a bola
+5457700 5458660 (03) Três dados
+5458660 5461200 (15) Quatro, quatro e dois
+5461200 5462920 (15) Então são três acertos simples
+5462920 5464260 (03) Três acertos
+5464260 5466300 (03) As pessoas que estavam ao vivo
+5466640 5467680 (03) Naquele dia
+5467680 5469920 (03) Contam como se um anjo
+5469920 5472740 (03) Tivesse saltado e atirado aquela bola
+5472740 5475120 (03) Todos ali sentiram paz
+5475120 5475760 (03) Muitos
+5475760 5478540 (03) Ligaram pros seus familiares
+5478540 5480080 (03) Pra amigos que tinham brigado
+5480080 5482720 (03) Muita gente se entregou pra polícia
+5482720 5484180 (03) Porque tinha mandado de busca e apreensão
+5484180 5485200 (03) Que tava ali escondido
+5485200 5488480 (03) As pessoas foram tomadas por uma paz
+5488480 5490060 (03) Essa paz também
+5490060 5492260 (03) Tomou conta da oponente
+5492260 5494560 (03) Que estava apavorada, ela não tava entendendo
+5494560 5496560 (03) Como chegou tão fácil até a finalidade
+5496640 5498300 (03) Eliminando times fortíssimos
+5498300 5501200 (03) E agora viu seus amigos caírem um por um
+5501200 5503360 (03) Então quando ela está de pé
+5503360 5504340 (03) E a bola o acerta
+5504340 5507780 (03) Acerta uma pessoa em paz consigo mesma
+5507780 5509660 (03, 17) E que se aceita e entende
+5509660 5511640 (17) Que vencer não é tudo
+5511640 5519360 (03, 17) A torcida invade o campo pra levantar vocês
+5519360 5520900 (03) Todo mundo gritando
+5520900 5523040 (03) O pessoal tá à loucura
+5523040 5525280 (03) Vocês são os campeões
+5525280 5526020 (03) Os campeões
+5526020 5526620 (03) Na torcida
+5526640 5528420 (03) Nacionais de queimada
+5528420 5535840 (03) Não tem o que falar, só sentir
+5535840 5537180 (03) O amor do público
+5537180 5540020 (03) Um troféu gigantesco é levado até vocês
+5540020 5542600 (03) Tem um prêmio em dinheiro que vocês ganham também
+5542600 5545060 (03) A família da Rezes
+5545060 5545680 (03) Pelo menos
+5545680 5548600 (03) Está mais rica que a família do
+5548600 5549220 (03) Do Bacana
+5549220 5552480 (03) Sem precisar fazer um pacto com nenhuma entidade maligna
+5552480 5554380 (03) Embora a terça da judaia
+5554380 5555740 (03) Sabe se dá por quê
+5555740 5556620 (03) Por um entidade maligna
+5556640 5557580 (03) Uma entidade benigna
+5557580 5560040 (03) E vocês são os grandes campeões
+5560040 5560920 (03) Vocês conseguiram
+5560920 5564780 (03) As pessoas agora conhecem os cobras rostas
+5564780 5566800 (03) As pessoas lembram do Bacana
+5566800 5568040 (03) Da Rezes
+5568040 5570120 (03) Daquele outro cara que estava em campo
+5570120 5572040 (04, 03) Fez uma bela defesa, Irineu
+5572040 5572660 (15, 04) Grande Irineu
+5572660 5574220 (15, 04) Várias belas defesas
+5574220 5575900 (15) Eu até lembro o nome dele agora
+5575900 5577400 (15) Iruma, não é isso?
+5579420 5580420 (06) Pode ser
+5580420 5581940 (06) O Irineu agora ele tá
+5581940 5583300 (06) Ninguém lembra o nome dele
+5583300 5584980 (06) Mas ele tá um pouquinho mais famoso
+5584980 5586020 (06) Então
+5586020 5588460 (06) Ele não consegue dizer não
+5588460 5590760 (06) Quando as pessoas pedem pra assinar alguma coisa
+5590760 5591460 (06) Alguma bola
+5591460 5594140 (06) E ele mal consegue andar na rua direito
+5594140 5595040 (15, 06) A Rezes
+5595040 5598140 (15) Ela lutava um pouco contra
+5598140 5600380 (15) A religião da família
+5600380 5603380 (15) Ela começa a aceitar aquilo um pouco mais
+5603380 5605440 (15) E vai todo domingo pra igreja
+5605440 5608200 (06) Você já tem um passe livre pro céu
+5608200 5610060 (15, 03, 06) É verdade
+5610060 5612460 (03) Como o Bacana tem um passe livre
+5612460 5613800 (03) Não é pro céu
+5613800 5615420 (04, 03) Ok, obrigado
+5615420 5616640 (04) Mas o Bacana
+5616640 5618300 (04) Ele aproveita toda a situação
+5618300 5620960 (04) E emenda uma nova carreira
+5620960 5622300 (04) Ele escreve um livro
+5622300 5624320 (04) Chamado Pandemônio
+5624320 5627920 (04) Como a queimada venceu o céu e o inferno
+5627920 5629080 (15, 04) Um livro de autoajuda
+5629080 5630820 (15, 04) Claro
+5630820 5631420 (15, 04) Claro
+5631940 5633600 (15) E a foto é ele de maiô
+5633600 5638240 (15, 04) Não teria com outra capa
+5645420 5653620 (00) Escudo do Mestre
+5653620 5655980 (00, 03) O Escudo do Mestre é uma estrutura de papelão e madeira
+5655980 5657900 (03) que o mestre usa para condicionar notações e lançamentos de dados
+5657900 5659940 (03) mas aqui a gente baixa
+5659940 5662000 (03) essa estrutura e conta pra vocês tudo o que aconteceu
+5662000 5662840 (03) no episódio
+5662840 5666360 (03) esse episódio imagino que não tenha grandes teorias
+5666360 5668020 (03) mas quero muito
+5668020 5670260 (03) ler os comentários de vocês, deixem lá no post
+5670260 5671120 (03) no Portal do Aviante
+5671120 5673720 (03) que eu vou ler em live, espero
+5673720 5676020 (03) no último episódio a gente só conseguiu ler
+5676020 5678160 (03) parte dos comentários por conta
+5678160 5680060 (03) da internet que caiu, todos os comentários
+5680060 5682260 (03) foram lidos, pelo menos até segunda-feira
+5682260 5684000 (03) só que alguns foram feitos
+5684000 5685960 (03) de forma offline, espero que na próxima
+5685960 5687920 (03) Guaxa Verso eu consiga ler
+5687920 5689520 (03) todos os comentários online
+5689520 5692060 (03) com a participação de alguns dos jogadores aqui
+5692060 5694140 (03) esses três que jogaram, além de grandes amigos
+5694140 5696300 (03) meus, que conheci graças
+5696300 5697900 (03) ao SciCast e ao Portal do Aviante
+5697900 5699780 (03) eles também são nossos padrinhos
+5699780 5701840 (03) você pode ser nosso padrinho também
+5701840 5703640 (03) procura lá no PicPay ou no Padrim
+5703640 5706040 (03) por RPG Guax, a partir de um real você está ajudando
+5706040 5708220 (03) a partir de R$10 você faz parte do grupo do Telegram
+5708220 5710180 (03) lá você recebe o episódio antes
+5710180 5711780 (03) você joga
+5711780 5713740 (03) vários jogos, não só RPG
+5713740 5715800 (03) eu estava em uma partida de Gartic Fone
+5715800 5718080 (03) agora há pouco, antes de voltar a gravar
+5718080 5720300 (03) aqui, mas tem sempre gente jogando
+5720300 5721900 (03) RPG lá, tem vários
+5721900 5723280 (03) mestres disponíveis
+5723280 5725500 (03) você pode gravar voz de NPC
+5725500 5728360 (03) você pode gravar as regras lá no começo
+5728360 5730020 (03) você pode discutir comigo, com outros
+5730020 5731980 (03) jogadores, pode apresentar suas teorias
+5731980 5733620 (03) e principalmente, conhecer muitas
+5733620 5735640 (03) gente bacana, ter novos
+5735640 5737860 (03) amigos. Outra forma de ajudar
+5737860 5739760 (03) a gente, embora eu prefira a forma que
+5739760 5741380 (03) você nos patrocina financeiramente
+5741380 5742460 (03) é nos seguir nas redes sociais
+5742460 5745880 (03) lá no Twitter ou no Instagram
+5745880 5747340 (03) os jogadores que eu vou falar são
+5747340 5749700 (03) Fencas, são a Debbie e o André Trapani
+5749700 5751940 (03) conheçam lá o Portal do Aviante
+5751940 5753580 (03) tem textos, tem podcasts
+5753580 5755300 (03) tem muita coisa bacana e
+5755300 5757720 (03) sigam essas pessoas maravilhosas lá nas redes sociais
+5757720 5759280 (03) e fale o quanto você gostou
+5759280 5761620 (03) esse episódio teve a revisão da Ju, da Ju Leiva
+5761620 5763580 (03) e a edição maravilhosa do Rafael
+5763620 5766040 (03) Zorzal, precisou de edição? Fala com o Zorzal
+5766040 5768100 (03) quer aprender a editar? Fala com o Zorzal
+5768100 5769700 (03) e o Zorzal também edita o
+5769700 5771540 (03) Arquivos da Patrulha, que já chegou ao seu fim
+5771540 5773940 (03) então se você quer um audiodrama completinho
+5773940 5775640 (03) com todos os episódios lá, procura
+5775640 5778020 (03) Arquivos da Patrulha, você não vai se arrepender
+5778020 5779880 (03) a ideia desse episódio surgiu
+5779880 5781680 (03) quando no grupo de padrinhos
+5781680 5783840 (03) do Psycast, alguém postou
+5783840 5785680 (03) um gif do filme Dodgeball
+5785680 5787500 (03) A True Underdog Story
+5787500 5789360 (03) que em português ficou como
+5789360 5791160 (03) Com a Bola Toda
+5791160 5793460 (03) e em português de Portugal foi Uma Questão
+5793620 5795280 (03) Três Pontos de Bolas
+5795280 5797980 (03) é isso, é um filme de comédia
+5797980 5799660 (03) de 2004, que tem
+5799660 5801780 (03) o nosso best-seller
+5801780 5803920 (03) e é um filme que o Malta
+5803920 5806080 (03) é muito fã, então quando postaram
+5806080 5807720 (03) o gif e o Malta elogiou
+5807720 5809900 (03) eu pensei, porra, é isso, vamos brincar
+5809900 5811240 (03) com o Dodgeball
+5811240 5813560 (03) e as referências, cobras roxas
+5813560 5815520 (03) nomes que o personagem fala
+5815520 5816780 (03) o próprio personagem do Fencas
+5816780 5819280 (03) ele totalmente inspirou
+5819280 5821700 (03) neste filme, o personagem
+5821700 5823520 (03) do André é inspirado num anime
+5823620 5825000 (03) chamado Irumacu
+5825000 5826980 (03) sobre a criação de personagens, eu só expliquei
+5826980 5828660 (03) para os jogadores que seria Dodgeball
+5828660 5831420 (03) que eles tinham se classificado como o último time a entrar
+5831420 5833280 (03) e pedi que um deles
+5833280 5835360 (03) fosse de uma família religiosa
+5835360 5837220 (03) mas que o personagem não precisava ser
+5837220 5838640 (03) que um deles tinha um avô muito rico
+5838640 5841180 (03) que não tinha contato com a família e que todos odiavam
+5841180 5843520 (03) e que o terceiro tenha nascido numa sexta-feira
+5843520 5845100 (03) às 18h57
+5845100 5847640 (03) por conta disso, as pessoas nunca lembravam seu nome
+5847640 5850000 (03) e daí o André pegou esse último
+5850000 5852280 (03) a Debbie pegou a família religiosa
+5852280 5853400 (03) o avô rico sobrou
+5853400 5855700 (03) para o Fencas, o resto do personagem foi ele que montou
+5855700 5857960 (03) e acho que essas são as referências básicas
+5857960 5859120 (03) você deve ter pego mais coisas
+5859120 5861100 (03) deixando nos comentários que a gente discute
+5861100 5862380 (03) no Guaxavers
+5862380 5865060 (03) é pra gostar das lojas parceiras, dá uma olhada aqui no post
+5865060 5866880 (03) e esse episódio, assim como eu falei antes
+5866880 5869460 (03) tiveram padrinhos que gravaram vozes
+5869460 5871220 (03) para ele, os NPCs
+5871220 5872940 (03) tivemos a Agatha Sofia que fez a
+5872940 5874940 (03) Advogada do Inferno, o Anjo Gabriel
+5874940 5876900 (03) que foi feito pela Rebelbia, o Raul
+5876900 5879440 (03) papel repetido pelo Danilo Batistini
+5879440 5881520 (03) a morte pelo Adriano Trota
+5881520 5883240 (03) a vovó foi feita pela
+5883240 5884960 (03) Mel, pela Jéssica
+5884960 5886860 (03) o Damian foi feito pelo
+5886860 5889000 (03) João Queiroz, o líder dos Garotos do Flip
+5889000 5890460 (03) foi feito pelo Gê Macedo
+5890460 5892960 (03) e o Garoto Flip que imita uma galinha foi feito pelo
+5892960 5894640 (03) Felipe Xavier, você reconheceu o Felipe Xavier?
+5894920 5897380 (03) Pois é, lembrem sempre, rola em 6, rola em 20
+5897380 5898840 (03) mas tudo errado rola no chão
+5898840 5900600 (03) que apaga o fogo, diverte
+5900600 5902460 (03) e desvia de bolas de queimada
+5913240 5918240 (11) Muitos são os números que regem o multiverso
+5918240 5921740 (11) sete realidades paralelas que já foram três
+5921740 5923440 (11) quatro linhas sagradas
+5923440 5924960 (11) uma linha vazia
+5924960 5927800 (11) e duas preenchidas de escuridão
+5927800 5930200 (11) um guaxinim representando um
+5930200 5932720 (11) três meninas segurando um seis
+5932720 5936280 (11) e uma infinidade de possibilidades entre eles
+5936280 5937840 (11) e você
+5937840 5938920 (11) qual o seu número?
+5943240 5948360 (unknown) e aí

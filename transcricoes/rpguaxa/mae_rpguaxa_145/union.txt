@@ -1,0 +1,4117 @@
+0 9940 (13) E se você acordasse em um lugar estranho, com pessoas estranhas, em um ambiente diferente
+9940 11200 (13) do que você está acostumado?
+12040 12980 (13) É assustador, né?
+13600 17200 (13) Mas ao menos você pode gritar e ser alguém que você não é normalmente.
+18200 23720 (13) Mas e se você acordasse em um lugar familiar, com pessoas que você ama, e algo estivesse
+23720 24260 (13) errado?
+25020 26340 (13) Algo que você nem sabe o que é?
+27600 28220 (13) Não seria pior?
+30000 41000 (13) Episódio de hoje, Mãe, com os meus amigos e padrinhos, Jean Macedo, Adriano Trota e
+41000 42200 (13) Thaís Zuzu.
+43460 46940 (11) E agora com vocês, o Bardo Petis!
+47300 47820 (11) Uhul!
+48440 49400 (11) Isso!
+51000 51620 (03) Bardo!
+52060 52540 (03) Bardo!
+53340 55500 (04) Toca aquela do guaxinim de gambiarras!
+55500 57060 (04) Ah, sim, sim.
+57300 59920 (04) Você precisa escolher um atributo entre 2 e 5, né?
+60360 60740 (04) E depois?
+61560 62280 (04) E depois?
+63140 64700 (03, 04) Depois, meus caros.
+67000 70220 (03) Rolem 2D6
+70220 74980 (03) Se for uma jogada normal
+74980 80160 (03) Para algo difícil ou se está machucado
+80160 82940 (03) Rola menos um dado
+82940 87360 (03) Ganhou ajuda ou é fácil demais
+87360 89040 (03) Role um dado
+89040 91320 (03) Até mais!
+91620 94820 (03) Uma ação física ou uma briga
+94820 98680 (03) Atributo pra baixo é a dica
+98680 101980 (03) Atenção, carisma ou percepção
+101980 106500 (03) Atributo pra cima, irmãos
+106500 110100 (03) Cheque mate se tirar seu atributo
+110100 113380 (03) Isso é um crítico
+114320 117300 (03) Agora ouça com atenção
+119040 129680 (03) Se tudo der errado, role no chão.
+149040 151520 (04) Que se diverte, que brinca, que ajuda.
+152100 153400 (04) Então, vem pra cá também.
+154280 160060 (04) E se você me conhece do Squash Versos, você sabe que eu costumo fazer um jogo de palavras com a primeira letra de cada verso.
+160660 164520 (04) E embora aqui não forme o título do episódio, forma uma palavra muito especial.
+165040 167840 (04) Volta lá onde eu cantei e repara qual foi a primeira letra de cada verso.
+174600 176620 (01) Sete realidades paralelas.
+176620 178620 (01) Uma infinidade de possibilidades.
+179040 180620 (01) Três jogadores.
+181840 182860 (01) E um guaxinim.
+183400 185740 (01) É um prazer ter vocês por aqui.
+186540 189840 (01) Queremos todos batendo as mãos para a próxima música.
+190260 191580 (01) Digo, aventura.
+192920 193540 (01) Cinco.
+195460 196500 (07, 01, 00) Quatro.
+198580 198620 (unknown) Três.
+200980 202020 (01) Dois.
+206620 207020 (00) RPG.
+207820 209020 (00) Realidades paralelas do Squash.
+209040 212340 (00) Sua aventura de bolso na forma de podcast.
+212740 215260 (00) Uma jornada completa a cada episódio.
+229040 234860 (13) A aventura de hoje envolve uma família e eu gostaria de apresentá-los um pouco antes de começar a aventura.
+234860 238860 (13) Porque talvez conhecer toda a família seja a aventura.
+239040 241620 (13) O pai da família é o personagem do Jean.
+242060 245640 (13) Então, por favor, Jean, fala sobre o teu personagem, aparência e atributos.
+245740 248700 (02) Olá, eu jogo hoje com o Joseph King.
+249060 254700 (02) O Joseph é um homem de 42 anos, homem branco, de cabelos curtos, já bastante grisalhos,
+255260 261040 (02) olhos azuis, barba sempre bem feita e desenhada e aquele rosto quadrado tipicamente estadunidense.
+262020 269020 (02) Apesar de ter uma estatura baixa e já não ser tão jovem, ele tenta se manter em forma estando constantemente ali na casa.
+269040 275080 (02) E o Joseph teve condições de galgar uma carreira muito promissora como arquiteto.
+275440 285280 (02) Então ele teve uma vida boa e ele pôde dar uma criação que suprisse todas as necessidades e preferências e vontades do filho Michael e da filha Emma.
+285620 287220 (02) E o atributo dele é 3.
+287620 288120 (13) Perfeito.
+288620 293020 (13) Essa noite, Joseph, você sonhou com o dia que você encontrou Cecil.
+293320 296640 (13) Ela era mais alta, mais loira, dois anos mais velha.
+296640 298640 (13) Você estava no começo da faculdade de arquitetura.
+299480 302640 (13) E ela já planejava um trabalho de conclusão de curso em engenharia.
+303520 305900 (13) O teu carro não podia ligar naquela tarde.
+306260 308440 (13) E ela consertou o motor em troca de macarona.
+309180 312780 (13) Ela estava suja de graxa, mas você não teve coragem para comentar.
+313460 315560 (13) A primeira vez que ela falou com você, ela disse...
+315560 318080 (13) Parece que seu carro está gritando por ajuda.
+318200 320640 (13) A última coisa que ela te falou foi...
+321400 322500 (13) Cuida das crianças.
+322500 324540 (13) Tu acorda na tua cama.
+325420 326460 (13) É uma cama de casal.
+326520 328500 (13) Tu está dormindo em uma ponta.
+329040 332480 (13) Do outro lado, está bagunçado, mas não tem ninguém ali.
+332900 336980 (13) Tu está sozinho, mas com a certeza de que algo não está muito certo.
+337320 342140 (13) Só que um barulho lá fora prende a tua atenção e tu esquece aquilo por um momento.
+342500 343840 (13) Antes de mais nada...
+343840 347580 (13) Adriano Trota, o filho mais velho, fala sobre o teu personagem, aparência e atributo.
+347880 349560 (12) Olá, olá pra todo mundo.
+350080 351920 (12) Hoje eu vou jogar com o Michael King.
+352240 353840 (12) Ele é mais conhecido como Mike.
+353840 355640 (12) É o filho mais velho do Sr. Joseph.
+355800 356900 (12) Tem 16 anos.
+357440 358480 (12) É branco, loiro.
+359040 360940 (12) Tem o cabelo espetadinho, de galã.
+361120 361920 (12) Olhos azuis.
+362360 363420 (12) É alto, atlético.
+363920 365980 (12) É o típico garoto popular do high school.
+366320 369200 (12) Ele é quarterback do time de futebol americano da escola.
+369700 370880 (12) Futuro rei do baile.
+371180 373100 (12) Mas ele também tira notas altas.
+373380 377980 (12) Sim, ele é presidente do clube de debates e representante de turma.
+378460 380120 (12) É, a vida vai bem pro menino Mike.
+380240 381040 (12) Esse menino vai longe.
+381900 385560 (12) Alguns acham que ele poderia ser jogador profissional no futuro.
+386080 388920 (12) Mas ele pretende mesmo é fazer a business school.
+389040 389840 (12) Em Harvard.
+389840 391840 (12) E dar ainda mais orgulho pra família.
+391840 393500 (12) E o atributo dele é o 4.
+393500 394780 (12) Essa noite tu sonhou também.
+394780 396000 (12) Tu sonhou com a formatura.
+396000 399200 (13, 12) Um evento que só deve acontecer daqui a uns dois anos.
+399200 401200 (13) O orador da turma é você.
+401200 404200 (13) Na plateia, a sua irmã sorri muito.
+404200 405700 (13) E seu pai chora.
+405700 408200 (13) E ele abraça forte uma desconhecida.
+408200 410200 (13) Uma mulher de cabelos escuros.
+410200 412200 (13) Que não sorria, nem chorava.
+412200 415920 (13) Na hora que a família veio te abraçar após o evento.
+415920 417920 (13) Ela estava junto e te abraçou também.
+417920 418880 (13) Mas antes disso.
+418880 420880 (13) Antes de tu se perguntar qualquer coisa.
+420880 422880 (13) O barulho te acorda.
+422880 424880 (13) E por último.
+424880 426880 (13) Estreando na RPG Guaxa.
+426880 428880 (13) Temos a Zuzu.
+428880 430880 (13) A nossa caçula da família e da aventura de hoje.
+430880 432880 (13, 08) Fala sobre sua personagem e aparência e atributo.
+432880 434880 (08) Oi, eu vou jogar hoje com a Emma King.
+434880 436880 (08) Ela é a filha mais nova.
+436880 438880 (08) Com 12 aninhos.
+438880 440880 (08) Ela é baixinha, tem cabelos longos e loiros.
+440880 442880 (08) Grandes e brilhantes olhos azuis.
+442880 444880 (08) Ela é bonita, popular e inteligente.
+444880 446880 (08) Vai tirar notas boas.
+446880 447760 (08) Ama ler.
+447760 449760 (08) Mas tem sempre tempo pros amigos.
+449760 451760 (08) Que não são poucos.
+451760 454760 (08) Ela tem como melhor amigo e exemplo o seu irmão mais velho.
+454760 457760 (08) Ela espera seguir a profissão do pai como arquiteto.
+457760 459760 (08) O atributo dela é triste.
+459760 460760 (13, 08) Tu acorda.
+460760 462760 (13) Tu não sonhou ao contrário dos outros dois.
+462760 464760 (13) Tu escuta um miado e um arranhar.
+464760 467760 (13) Tu lembra vagamente que vocês tem um gato.
+467760 470760 (13, 08) Eu sei o nome do gato?
+470760 472760 (13, 08) Pode dar o nome pro gato, por favor.
+472760 473760 (13, 08) Tá, pode ser Milk.
+473760 474760 (13, 08) Tá no teu quarto.
+474760 475760 (13) Tu acordou agora.
+475760 478760 (13) E o Milk tá miando e arranhando em algum lugar lá fora.
+478760 480760 (13, 08) Tá, eu levanto e abro a porta.
+480760 482760 (13, 08) Fala dois dados.
+482760 484760 (08) Seis e dois.
+484760 486760 (13) Seis e dois. O teu atributo é dois.
+486760 489760 (13) Então tens um acerto simples e um acerto crítico.
+489760 491760 (13) Tu sabe que o gato...
+491760 494760 (13) O barulho vem do andar ali de baixo.
+494760 497760 (13) Mais especificamente da sala de TV, né?
+497760 501760 (13, 08) O barulho parece ser arranhado do sofá ou alguma coisa próxima por lá.
+501760 504760 (13, 08) Então eu desço. Eu desço correndo pra ver o gato.
+504760 506760 (13) Tu já tirou três acertos, né? Somando o crítico.
+506760 509760 (13) O barulho vem realmente do sofá.
+509760 512760 (13) O gato tá arranhando, tá miando bastante.
+512760 515760 (13) Tu dá uma olhada ali atrás do sofá, por baixo do sofá.
+515760 518760 (13, 08) O gato parece estar dentro do sofá, sabe?
+518760 520760 (08) Eu chego assim perto do sofá, sabe?
+520760 523760 (08) Me abaixo, me agacho pra ver debaixo do sofá e grito
+523760 527760 (13, 08) Pai, o Milk tá dentro do sofá!
+527760 531760 (13) O barulho que acorda vocês dois é esse grito.
+531760 533760 (13, 07) Maravilhoso.
+533760 539760 (13, 07, 03, 02) Já vou, já vou. Peraí.
+539760 544760 (02) Aí tira o lençol assim. Ele tá meio atordoado ainda, porque ele teve um sonho.
+544760 546760 (02) Ele lembrou da Cecil.
+546760 549760 (02) Ele balança a cabeça, se espreguiça.
+549760 551760 (02) Pega um roupão.
+551760 553760 (02) E abre a porta, porque ele vai lá.
+553760 555760 (02) Calma aí, Emma. Já vou.
+555760 556760 (12, 02) E vai descendo.
+556760 557760 (12, 02) E o Mike?
+557760 559760 (12, 02) Já que eu acordei, vou levantar.
+559760 562760 (12) Mas o Mike, ele pensa...
+562760 568760 (12) É engraçado, o Milk, ele costuma ficar mesmo no espaço entre o assento e o encosto do sofá.
+568760 570760 (12) Não tem nada de mais.
+570760 577760 (13, 12) Vocês chegam na sala e tá lá a Emma abaixada, né? Embaixo do sofá.
+577760 578760 (13) Já gritou por vocês.
+578760 579760 (13) Vou descer.
+579760 580760 (13, 08) O que foi, querida?
+580760 583760 (13, 08) Esse gato entrou no sofá e eu não sei como.
+583760 585760 (08) Meu Deus. Ele vai morrer.
+585760 587760 (08) Meu Deus, o que ele faz?
+587760 590760 (02) Caramba, a gente comprou aquilo tudo pra ele brincar e...
+590760 592760 (02) Como é que ele...
+592760 593760 (02) Mike, me ajuda aqui, por favor.
+593760 594760 (13, 02) Claro, claro.
+594760 597760 (13, 03, 02) Vamos levantar o sofá, vamos virar e tentar tirar esse troço dali.
+597760 599760 (08, 12, 02) Ai, cuidado pra não machucar ele.
+599760 600760 (08, 12) Eu pego desse lado.
+600760 601760 (12, 02) Claro, querido.
+601760 603760 (12) Tá, vocês vão fazer o que com o sofá?
+603760 606760 (12) Nós vamos dar uma virada pra ver se ele sai de lá de dentro.
+606760 608760 (12, 02) Se bem que, é um sofá o quê? De almofada?
+608760 609760 (12, 02) Um sofá de almofada.
+609760 611760 (13, 12, 02) Ele tem almofada em cima.
+611760 613760 (13, 02) É, aquelas almofadas soltas assim.
+613760 618760 (13) É, mas não tem um espaço pra ele entrar entre a almofada e o sofá, por exemplo.
+618760 619760 (13) O sofá é todo fechado.
+619760 621760 (13, 02) Aham, então...
+621760 624760 (02) O Joseph ia imaginar que ele tá ali por baixo, né, de algum jeito.
+624760 628760 (13, 02) É, vocês estão ouvindo o miado e o aranha lá dentro.
+628760 630760 (13, 12, 02) Tá, então vamos virar mesmo.
+630760 634760 (13, 07, 12, 02) É, dá uma tombada só pra ver se ele sai por onde ele entrou, seja onde fosse.
+634760 636760 (12) Eu pego desse lado aqui, pode deixar.
+636760 637760 (07, 12) Tá certo.
+638760 640760 (12, 02) Tá vendo algum buraco aí embaixo?
+640760 643760 (12, 02) Não, tá normal, do jeito que a gente comprou.
+643760 647760 (02) Eman, você tem certeza que você ouviu o miado vindo daqui?
+647760 648760 (13, 07, 02) A gente ouviu.
+648760 649760 (13, 07, 02) Vocês estão...
+649760 650760 (02) Vocês estão ouvindo também?
+650760 651760 (02) Eu tô ouvindo, eu tô ouvindo.
+651760 652760 (08) Vocês não...
+652760 653760 (08) Vocês não estão ouvindo o gato?
+653760 655760 (08, 02) É, tá, agora eu ouço.
+655760 657760 (02) Como é essa coisa?
+657760 660760 (02) Filha, pega uma tesoura ou uma faca ali.
+660760 662760 (02) A gente corta essa parte aqui embaixo pra ver.
+662760 664760 (08, 02) Eu não sei como ele entrou aqui, mas a gente solta, né?
+664760 666760 (08, 02) Eu vou na cozinha, né?
+666760 668760 (08) Deve ter alguma tesoura pela cozinha.
+668760 678760 (08, 12) Eu tô olhando dali de onde eu tô, o lado atrás do sofá, ver se tem alguma abertura que ele rasgou.
+678760 680760 (12) Como que ele fez pra entrar.
+680760 686760 (13, 12) Eman, quando chega na cozinha, na porta da geladeira, tem um bilhete, assim, preso com
+686760 687760 (13) ímãs.
+687760 690760 (13, 08) O bilhete diz, o jantar é de vocês.
+690760 691760 (13, 08) Tu pega lá.
+691760 693760 (13, 08) É assinado o bilhete ou é só o...?
+693760 698760 (13, 08) Não, tem aquele x, x e bolinha, sabe, beijinho, abraço que os americanos colam.
+698760 699760 (13) Tem um xoxô.
+699760 700760 (13) É, tem um xoxô.
+700760 701760 (08) Tá.
+701760 707760 (08) Eu quero pegar uma tesoura ou uma faca e a comida do gato pra tentar atrair ele.
+707760 713760 (13, 08, 12) Enquanto tu tá fazendo isso, Mike, não tem uma entrada lógica pra esse gato.
+713760 715760 (12) Caramba, que estranho.
+715760 717760 (12) Milky, você tá bem aí dentro?
+717760 719760 (12, 02) O Joseph dá umas batidinhas assim.
+719760 721760 (12, 02) Ô, ei, gato, cadê...
+721760 726760 (02) Cara, a gente adotou o mais elevado de todos os gatos.
+726760 728760 (13, 02) A culpa é sua, Mike.
+728760 730760 (13) A Emma volta com o objeto cortante lá.
+730760 732760 (13, 12) E lá se vai o sofá.
+732760 736760 (12) Mas, quem tem gato e tem sofá sabe que sofás não vão durar muito mesmo, né?
+736760 738760 (08, 12) É, a gente já comprou sabendo disso.
+738760 741760 (08) Aqui, pai, eu trouxe a comida também pra gente tentar atrair ele.
+741760 743760 (08, 02) Isso, deixa eu abrir aqui primeiro.
+743760 749760 (02) Aí ele pega a faca, ou a tesoura, e aí ele tenta cortar aquela parte de baixo do sofá, sabe?
+749760 751760 (02) Que fica ali no chão mesmo, ninguém vai ver depois.
+751760 758760 (13, 02) Tu abre o forro, o gato fica em silêncio e não tem nada lá dentro.
+758760 760760 (13) Milky!
+760760 761760 (13, 02) Milky!
+761760 763760 (13, 02) Ué?
+763760 764760 (02) Ué?
+764760 768760 (14, 12, 02) Eu vou botar a cabeça pra dentro do buraco que eu fiz no forno.
+768760 771760 (14, 12) Eu tô ali segurando o sofá ainda.
+771760 775760 (13, 12, 02) Eu não consigo olhar porque, né, eu tô aqui segurando.
+775760 777760 (13, 02) Tu tem certeza que tá vazio.
+777760 778760 (13, 02) Isso não faz...
+778760 780760 (02) Aí ele tira a cabeça.
+780760 782760 (02) Emma, isso é alguma pegadinha?
+782760 783760 (02) Você tá botando um gravador, né?
+783760 784760 (08, 02) O gato não tá aqui.
+784760 785760 (08, 02) Não!
+785760 786760 (08) Eu não fiz nada, eu juro.
+786760 790760 (08) Eu acordei escutando ele, e aí eu vim ver ele dentro do sofá.
+790760 791760 (08, 02) Ué, eu escutei também.
+791760 793760 (02) É, eu tô ouvindo, mas não tem gato aqui.
+793760 794760 (02) Mike, vamo botar no lugar.
+794760 795760 (08, 02) E ele...
+795760 796760 (02) É impossível, não tem.
+796760 797760 (02) Vocês desapareceram com o meu gato.
+797760 798760 (08, 02) Cadê meu gato?
+798760 799760 (08) Mas agora o barulho parou.
+799760 800760 (08) O Joseph vai pra frente do sofá assim, ele bota a mão assim no quadril e ele fica olhando
+800760 801760 (08) pro sofá, pra um lado, pro outro.
+801760 802760 (08, 02) Isso não faz sentido.
+802760 803760 (02) Rola dois dados.
+803760 804760 (02) Eu tirei quatro e três, que é o meu atributo.
+804760 805760 (02) Te chama a atenção, do lado do sofá tem uma mesa com algumas fotos.
+805760 806760 (02) É...
+806760 807760 (02) Nas paredes também te chama a atenção algumas fotos.
+807760 808760 (02) Tu não...
+808760 809760 (02) Tu não...
+809760 810760 (02) Tu não...
+810760 811760 (13, 02) Tu não...
+811760 812760 (13) Tu não...
+812760 813760 (13) Tu não...
+813760 814760 (13) Tu não...
+814760 815760 (13) Tu não...
+815760 816760 (13) Tu não...
+816760 817760 (13) Tu não...
+817760 818760 (13) Tu não...
+818760 819760 (13) Tu não...
+819760 820760 (13) Tu não...
+820760 821760 (13) Tu não...
+821760 822760 (13) Tu não...
+822760 823760 (13) Tu não...
+823760 824760 (13) Tu não...
+824760 845760 (13, 12, 02) Tu não...
+845760 846760 (13, 12) Tu não...
+846760 847760 (13) Tu não...
+847760 848760 (13) Tu não...
+848760 850400 (13) seis anos no máximo
+850400 853120 (13) tem várias fotos de só vocês três
+853120 855580 (13) e tem umas fotos mais recentes
+855580 857500 (13) que em vez da Cecil
+857500 859080 (13) tem uma mulher
+859080 861520 (13) com traços orientais
+861520 863340 (13) morena junto com vocês
+863340 864600 (13) abraçada
+864600 867080 (13) principalmente com você
+867080 868860 (13) como se fosse um casal
+868860 871960 (13, 12) essa eu reconheço do sonho?
+872020 872460 (13, 12) reconhece
+872460 873200 (13) tu reconhece as duas
+873200 875360 (13) uma como tu não lembra da tua mãe
+875360 876360 (13) mas pelas fotos
+876360 878580 (13) ter crescido vendo aquilo
+878580 880280 (13) tu sabe que a Cecil é tua mãe
+880280 883380 (13, 07) e tu lembra dessa oriental
+883380 884340 (13, 12) na tua formatura
+884340 887300 (12) mas aquele sonho que eu tive é um sonho do futuro
+887300 888620 (12) não é? ou é do passado?
+888780 890860 (13, 12) formatura do ensino fundamental
+890860 892480 (13, 12) tu ainda vai se formar
+892480 896080 (13, 12) e eu sei o nome dela?
+896460 896700 (12) não
+896700 898440 (12) acho que eu até vou olhar
+898440 901180 (12) o meu pai pegando as fotos
+901180 902060 (12) e vou perguntar
+902060 904940 (12) pai, como é mesmo o nome dessa daqui?
+905040 906060 (08) quando eu vejo ele
+906060 907320 (08) perguntando isso
+907320 908600 (08) eu já vou toda intrometida
+908600 909620 (08) tipo, essa quem?
+909700 910100 (08) essa quem?
+910480 913260 (02) eu não sei
+913260 914780 (02) eu não lembro, né Quast?
+915160 915500 (07, 02) não
+915500 918040 (07, 02) eu nem lembro direito
+918040 920500 (02) de quando essas fotos foram tiradas
+920500 922800 (02) vocês conhecem essa pessoa?
+923500 924420 (12, 02) eu não conheço
+924420 926100 (12, 02) ela me parece familiar
+926100 928340 (12) mas na verdade eu sonhei com ela
+928340 930540 (12) ela estava na minha formatura
+930540 932060 (02) ah, que ainda vai acontecer
+932060 932760 (02) você quer dizer?
+932820 933840 (12) é, essa mesmo
+933840 935340 (12, 02) eu estava sonhando com ela
+935340 936020 (12, 02) quando eu acordei
+936020 936340 (12) agora
+936340 937500 (12, 02) entendi
+937500 939200 (02) você teve algum sonho
+939200 940480 (08, 12, 02) premonitório também, Emma?
+941040 942280 (02) ele fala meio sorrindo
+942280 943460 (08, 02) e ela olha com uma cara
+943460 943960 (08) meio esquisita
+943960 944780 (08) e tipo, não
+944780 946120 (08, 02) tá, é uma manhã
+946120 947280 (02) muito esquisita, né?
+947760 949460 (02) é, vamos voltar pro gato
+949460 952220 (12, 02) e ele volta pro sofá
+952220 952880 (12) e não está fazendo
+952880 953800 (12) barulho mais de gato
+953800 954360 (12) não
+954360 955580 (08, 12, 02) eu ando pela casa
+955580 956220 (08) gritando
+956220 958960 (08, 12) eu vou dar uma andada
+958960 960200 (12) na sala também
+960200 961940 (12) ver embaixo da mesa
+961940 963500 (12) outros lugares dessa sala
+963500 964980 (08, 12) eu estou chacoalhando a comida
+964980 966000 (08, 02) eu vou fazer uma andada
+966020 966720 (02) eu vou fazer um café
+966720 967440 (02) porque ele está assim
+967440 969220 (02) que manhã estranha
+969220 970840 (02) e ele vai fazer um café na cozinha
+970840 972100 (13, 02) tu vê aquele bilhete
+972100 973440 (13) na forma da geladeira
+973440 974340 (13, 02) ele pega
+974340 976020 (02) o bilhete diz
+976020 977240 (02) o jantar é de vocês, né?
+977720 977940 (13, 02) é
+977940 979960 (02) ele vai olhar dentro da geladeira
+979960 981740 (02) pra ver se tem alguma coisa preparada
+981740 983100 (13, 02) assim, tem
+983100 985280 (13) restos de alguma coisa
+985280 986020 (13) tem comida
+986020 986820 (13) tem compras
+986820 987920 (13) que tu não lembra de ter feito
+987920 989180 (13) mas assim
+989180 990260 (13) pronto, pronto
+990260 991100 (13) pro jantar, não
+991100 992180 (13) tem ingredientes
+992180 993640 (13, 12) caso tu decida preparar, né?
+994340 995920 (13, 12) acho que o jantar é de vocês, é
+995920 996860 (12) vocês que vão fazer
+996860 998660 (07, 12, 02) não deve ter nada pronto
+998660 998900 (12, 02) é
+998900 1001040 (02) eu imaginei que podia ser o resto
+1001040 1001680 (02) de alguma comida
+1001680 1003360 (02) tipo uma pizza que a gente pediu ontem
+1003360 1003660 (14, 02) sei lá
+1003660 1003960 (14, 12, 02) sim
+1003960 1005320 (12, 02) mas ok
+1005320 1006220 (02) ele vai pegar
+1006220 1007940 (02) ele vai estar meio desconfiado assim
+1007940 1009380 (02) tá achando estranho
+1009380 1010280 (02) mas ele vai pegar lá
+1010280 1011680 (02) e vai começar a fazer um cafezinho
+1011680 1013960 (02) botar pão ali na mesa
+1013960 1015280 (02) mortadela, não sei o que
+1015280 1016100 (02) não sei nem o que que
+1016100 1017580 (02) pasta de amendoim
+1017580 1018120 (07, 02) o que é isso?
+1018300 1018800 (07, 02) é
+1018800 1020580 (07, 12, 02) se é de manhã
+1020580 1022100 (07, 12, 02) ovos, bacon
+1022100 1023540 (07, 12, 02) ovos e bacon
+1023540 1024620 (07, 02) um pouquinho de laranja
+1024620 1025040 (07) exatamente
+1025040 1025760 (07, 02) um pouquinho de laranja
+1025760 1025900 (07, 02) um pouquinho de laranja
+1025920 1026920 (02) uma coisa não saudável
+1026920 1027740 (02) para os meus filhos
+1027740 1028200 (02) claro
+1028200 1031240 (13, 02) o Mike
+1031240 1032340 (13) que ainda não rolou dados
+1032340 1033040 (13) sim
+1033040 1033960 (13) a gente tem que tirar um acerto
+1033960 1034780 (13) e um crítico
+1034780 1035520 (13) como todo mundo
+1035520 1036660 (13) só tem a da família
+1036660 1037280 (13, 12) vamos ver
+1037280 1038460 (13) sem pressão, tá?
+1038640 1039400 (13) dois dados
+1039400 1040240 (13) tá, vamos ver
+1040240 1043140 (13, 12) aí, muito obrigado
+1043140 1043940 (12) aí estamos
+1043940 1044460 (12) tirou quanto?
+1044480 1045520 (13, 12) tirei seis e quatro
+1045520 1046940 (12) não sei se seis é o acerto
+1046940 1048940 (13, 12) seis é o acerto
+1048940 1050140 (13) quatro é o acerto crítico
+1050140 1051340 (13) família unida é isso
+1051340 1052440 (13) é, de família
+1052440 1054380 (13) a casa tu, assim
+1054380 1055060 (13) tu
+1055060 1055760 (13) tu
+1055760 1056740 (13) vale tanto pra ti
+1056740 1057480 (13) quanto pra tua irmã
+1057480 1058580 (13) isso que eu vou falar agora
+1058580 1060180 (13) a casa é a casa
+1060180 1060880 (13) de vocês
+1060880 1061320 (13) que sempre
+1061320 1063020 (13) sempre viveram
+1063020 1064800 (13) tem vários elementos
+1064800 1066040 (13) um pouquinho diferente
+1066040 1067300 (13) um vaso
+1067300 1068340 (13) que antes não tava
+1068340 1069220 (13) ou talvez
+1069220 1069820 (13) algum enfeite
+1069820 1070500 (13) que você lembrava
+1070500 1070900 (13) que tinha
+1070900 1072200 (13) não tá mais lá
+1072200 1073580 (13) pequenas mudanças
+1073580 1075260 (13) aconteceram nessa casa
+1075260 1076860 (13) tu não consegue
+1076860 1077760 (13) listar todas
+1077760 1078120 (13) mas
+1078120 1080320 (13) há algumas diferenças
+1080320 1081640 (13) do dia de ontem
+1081640 1082660 (13) pro dia de hoje
+1082660 1083000 (13) né
+1083000 1084200 (13) mas o que chama
+1084200 1084660 (13) atenção
+1084660 1085720 (13) nesse acerto crítico
+1085720 1085740 (13) é que
+1085760 1086420 (13) do Mike
+1086420 1088340 (13) olhando pela janela
+1088340 1089920 (13) vendo o vizinho dele
+1089920 1090940 (13) o vizinho
+1090940 1091980 (13) foi um acerto crítico
+1091980 1093600 (13) o vizinho tá bem sujo
+1093600 1094640 (13) de terra
+1094640 1096400 (13) com uma pá na mão
+1096400 1097580 (13) e ele tá entrando
+1097580 1098180 (13) meio, meio
+1098180 1099500 (13) assustado
+1099500 1100540 (13) pra cozinha dele
+1100540 1101880 (13, 12) e ele bate a porta
+1101880 1103560 (12) ué, o Howard
+1103560 1104260 (12) tá meio
+1104260 1105260 (12) preocupado
+1105260 1107020 (12) ele não tem
+1107020 1107460 (12) horta
+1107460 1108960 (12) no jardim dele
+1108960 1109860 (12) o que será
+1109860 1110320 (12) que ele tá fazendo
+1110320 1110960 (12) com aquela pá?
+1111040 1111320 (13, 12) Emma
+1111320 1111980 (13, 12) assim
+1111980 1113460 (13, 12) o gato não tá pela casa
+1113460 1114580 (13) silêncio
+1114580 1115300 (13) na casa
+1115300 1115940 (13) tu notou
+1115940 1116960 (13) essas pequenas mudanças
+1116960 1117720 (13, 08) eu, eu viro
+1117720 1118240 (08) pro meu irmão
+1118240 1119100 (08) falar antes
+1119100 1120660 (08) será que ele fugiu?
+1120840 1121520 (08) será que ele foi dar
+1121520 1123020 (08) um rolê de manhã?
+1124080 1124660 (12) pode ser
+1124660 1125620 (12) mas como que ele
+1125620 1126500 (12) escapou da gente
+1126500 1127160 (12) a gente não viu?
+1127720 1128280 (08, 12) muito estranho
+1128280 1129020 (08, 12) ah, eu não sei
+1129020 1129300 (08) ele
+1129300 1131200 (08) ele é meio agitado
+1131200 1131440 (08) né
+1131440 1131980 (08) não sei
+1131980 1132700 (08) ele deve ser
+1132700 1134000 (08) deve ser saído
+1134000 1135040 (08) daqui a pouco ele aparece
+1135040 1136020 (08) quando ele sentir fome
+1136020 1136620 (08) ele vem
+1136620 1137900 (08) aí eu quero
+1137900 1138820 (08) deixar
+1138820 1140120 (08) a comida dele
+1140120 1141100 (08) exposta assim
+1141100 1142180 (08, 00) na varanda
+1142180 1143240 (08) num lugar assim
+1143240 1143960 (08) pra ele
+1143960 1145060 (08) pra atrair ele
+1145060 1145680 (08) na rua, né
+1145680 1146260 (13, 08) tá
+1146260 1146900 (13) tu, tu
+1146900 1147700 (13) saiu de casa
+1147700 1148520 (13) tu foi até a varanda
+1148520 1148900 (13, 08) isso
+1148900 1150600 (13, 08) nem, nem o teu quintal
+1150600 1151840 (13) nenhum dos quintais
+1151840 1152300 (13) ali
+1152300 1153720 (13) tem grama
+1153720 1155280 (13) alguém
+1155280 1156440 (13) de ontem
+1156440 1156840 (13) pra hoje
+1156840 1157280 (13) levou
+1157280 1158220 (13) o gramado
+1158220 1159140 (13) seu e dos seus vizinhos
+1159140 1159660 (13, 12) caramba
+1159660 1161200 (13, 12) só tem terra?
+1161580 1162480 (13) a Emma que viu isso
+1162480 1163500 (13) tem a terra direto
+1163500 1163660 (13) tá
+1163660 1164700 (13, 08) eu, eu
+1164700 1165580 (08) eu abro esse porta
+1165580 1166420 (08) sabe
+1166420 1167360 (08) e grito
+1167360 1169280 (08) aaaaaa
+1169280 1171580 (14, 02) ah, fudiz
+1171580 1172200 (02) eu tava afetando
+1172200 1172720 (02) um bacon
+1172720 1173840 (02) dá aquele
+1173840 1174720 (02) dá um flip
+1174720 1175140 (02) no bacon
+1175140 1175960 (02) na panela
+1175960 1176660 (02) no susto
+1176660 1177260 (02) ele, o que?
+1177440 1178180 (02) eu vou correndo
+1178180 1179100 (02) também com esse grito
+1179100 1180260 (02) ele sai da casa
+1180260 1181060 (02) com a panela na mão
+1181060 1181760 (02) aí na frente dele
+1181760 1182320 (02) o que que foi?
+1182380 1182980 (02) o que que aconteceu?
+1183220 1184360 (07, 02) roubaram a grama
+1184360 1185180 (02) roubaram?
+1185260 1185460 (02) rouba
+1185460 1187120 (02) a grama?
+1187760 1188720 (02) eu chego esbaforido
+1188720 1189200 (02) o que que foi?
+1189300 1189540 (02) o que que foi?
+1189620 1190660 (02) ué, cadê a grama?
+1190920 1193000 (02) mas isso não faz sentido
+1193000 1195360 (13, 02) eu olho pras outras casas
+1195360 1196240 (13) pô, dois cem gramas
+1196240 1197520 (13) a do Howard também?
+1197700 1198740 (13) a do Howard também
+1198740 1200020 (13, 12) olha só
+1200020 1200780 (12) não é por nada não
+1200780 1201600 (12) mas eu acabei de ver
+1201600 1202440 (12) o Howard entrando
+1202440 1203320 (12) com uma pá ali
+1203320 1204700 (12) ele tava
+1204720 1205460 (12) meio preocupado
+1205460 1206300 (12, 02) com uma pá
+1206300 1207360 (12, 02) pois é
+1207360 1208240 (12, 02) uma pá
+1208240 1210600 (12, 02) Mike, segura aqui
+1210600 1211500 (02) aí ele dá a frigideira
+1211500 1212380 (02) com bacon pro Mike
+1212380 1213460 (02) e ele vai lá
+1213460 1214400 (02) tocar na campainha
+1214400 1215180 (02) do vizinho
+1215180 1215820 (02) do seu Howard
+1215820 1216400 (13, 02) eu vou voltar
+1216400 1217680 (13) a cozinhar
+1217680 1218860 (13) vamos por partes
+1218860 1219780 (13) e a Emma vai fazer o que?
+1219860 1220820 (13, 08) aí eu vou acompanhar
+1220820 1221180 (08) o Mike
+1221180 1222440 (08) o Mike não
+1222440 1222940 (08) o meu pai
+1222940 1223360 (08) o Joseph
+1223360 1223820 (08) na
+1223820 1224460 (08) né?
+1224620 1226000 (08) saber fofofar da grama
+1226000 1228140 (13) a Emma fofoqueira
+1228140 1228760 (13) vocês
+1228760 1229880 (13) estão ali
+1229880 1231720 (13) vocês vão
+1231720 1232100 (13) assim
+1232100 1232360 (13) tem
+1232360 1234100 (13) vocês tem que ir até a calçada
+1234100 1234420 (13) né?
+1234420 1235760 (13) tem aquela cerquinha branca
+1235760 1237120 (13) mas vocês não vão pular a cerquinha
+1237120 1238740 (13) e vão até a porra da frente
+1238740 1239640 (13) do vizinho de vocês
+1239640 1239900 (13) né?
+1240160 1240540 (13) isso
+1240540 1241940 (13) tu toca a campainha
+1241940 1242740 (13) exato
+1242740 1244540 (13) um homem assim
+1244540 1246020 (13) sujo de terra
+1246020 1246780 (13) e
+1246780 1248420 (13) muito assustado
+1248420 1249720 (13) ele abre a porta
+1249720 1250600 (13) sempre tentando passar
+1250600 1250860 (13) uma
+1250860 1252260 (13) um pano de louça
+1252260 1252840 (13) pra
+1252840 1254300 (13) pra limpar o rosto dele
+1254300 1255040 (13) e
+1255040 1255540 (13) ele olha
+1255540 1256480 (13) ele abre a porta
+1256480 1257400 (13, 12) oi
+1257400 1258740 (13) o que foi vizinho?
+1259300 1260140 (13, 02) tudo bem?
+1260860 1261780 (02) por Deus
+1261780 1262360 (02) homem
+1262360 1263120 (02) Howard
+1263120 1263940 (02) o que aconteceu?
+1263940 1263980 (02) o que aconteceu?
+1263980 1265160 (02) ele tá olhando de baixo pra cima
+1265160 1266320 (02) por que você tá todo sujo
+1266320 1267040 (02) nessa hora da manhã?
+1268140 1268620 (13, 07, 02) ela
+1268620 1270300 (13, 02) ela não tinha um rosto
+1270300 1270780 (13) ela
+1270780 1272740 (13, 02, 00) eu me assustei
+1272740 1273720 (13, 02) ela
+1273720 1274420 (02) quem?
+1274860 1275100 (02) Howard
+1275100 1275700 (02) a bela
+1275700 1276940 (02) ela não tinha um rosto
+1276940 1277220 (02) era
+1277220 1278920 (02) era monstruosa
+1278920 1279680 (02) calma
+1279680 1280720 (02) se acalma Howard
+1280720 1281800 (02) a gente pode entrar?
+1282560 1282980 (02) ele tá olhando
+1282980 1283200 (02) não
+1283200 1283880 (02) é
+1283880 1284800 (02) não
+1284800 1286560 (02) eu prefiro que vocês vão embora
+1286560 1287140 (02) tá
+1287140 1289000 (02) antes disso
+1289000 1289900 (02) me explica uma coisa
+1289900 1291340 (02) essa tal bela
+1291340 1293180 (02) ela tem alguma coisa a ver
+1293180 1293860 (02) com isso?
+1293980 1294960 (02) aí ele mostra assim
+1294960 1296320 (02) ele estende o braço pra trás
+1296320 1296620 (02) assim
+1296620 1297280 (13, 02) mostrando a grande
+1297280 1298500 (13, 02) aconteceu o mesmo com ela
+1298500 1300280 (13, 02) ela não tinha um rosto
+1300280 1300960 (02) tá
+1300960 1303040 (02) eu olho pra Emma assim
+1303040 1305420 (08, 02) enquanto eles estão nessa conversa
+1305420 1307780 (08) tem como entrar por trás né
+1307780 1309200 (08) tipo aquelas casas americanas
+1309200 1310780 (13, 08) tem como entrar pelo jardim atrás
+1310780 1311340 (08) tem
+1311340 1312900 (13, 08) eu quero ir sorteiramente
+1312900 1314820 (13, 08) indo por trás da casa dele
+1314820 1315820 (13) cola dois dados vai
+1315820 1317620 (13) um e um
+1317620 1318420 (13) tu tá indo assim
+1318420 1320080 (13) por trás ali
+1320080 1322080 (13) tu desvia de algumas coisas
+1322080 1323200 (13) que tu tem no quintal
+1323200 1323960 (13) tu tropeça
+1323980 1326140 (13) num monte de terra
+1326140 1327220 (13) e cai
+1327220 1328540 (13) tu tá
+1328540 1329360 (13) tu distraído
+1329360 1330300 (13) não olhou pro chão
+1330300 1332620 (13) e algo foi enterrado ali atrás
+1332620 1334100 (13) formando um pequeno relevo
+1334100 1336020 (13) e tu tropeça nesse pequeno relevo
+1336020 1338160 (13) o Howard se assusta
+1338160 1339440 (13) o que foi isso?
+1339620 1339920 (13) cara
+1339920 1342040 (13) ele sai empurrando ali
+1342040 1343940 (13) o Joseph né
+1343940 1345420 (13) e ele tá dando a volta na casa
+1345420 1346020 (13) calma aí
+1346020 1346980 (13) Howard
+1347540 1348880 (13, 02) e ele vai atrás do Howard
+1348880 1349960 (13, 02) Mike
+1349960 1351880 (13) tu chega na cozinha
+1351880 1353500 (13) acima do fogão
+1353500 1353660 (13) tu vai atrás do fogão
+1353660 1353740 (13) e tu vai atrás do fogão
+1353740 1353800 (13) e tu vai atrás do fogão
+1353800 1353900 (13) e tu vai atrás do fogão
+1353900 1353960 (13) e tu vai atrás do fogão
+1353960 1354860 (13) e teu pai tinha jogado
+1354860 1356000 (13) um bacon pra cima
+1356000 1357420 (13) pra dar aquele flip né
+1357420 1359300 (13) tem uma fatia de bacon
+1359300 1360280 (13) no ar ainda
+1360280 1361620 (13) parada no ar?
+1361760 1361920 (13) não
+1361920 1363020 (13) ela gira lentamente
+1363020 1363880 (13) mas ela tá no ar
+1363880 1364480 (13, 12) caramba
+1364480 1365900 (12) o que?
+1366100 1366760 (12) como assim?
+1367460 1368200 (12) eu vou tentar pegar
+1368200 1369540 (12) ela bem devagar assim
+1369540 1371000 (12) até devo queimar a mão
+1371000 1371680 (12) porque eu tô assim
+1371680 1372360 (12) fascinado
+1372360 1373820 (12) fala isso
+1373820 1374240 (12) peguei assim
+1374240 1374480 (12) ai
+1374480 1375060 (12) nada melhor
+1375060 1375720 (12) é
+1375720 1376000 (12) ela
+1376000 1377260 (13, 12) ela deixa de flutuar
+1377260 1378220 (13, 12) quando tu toca nela
+1378220 1378640 (12) ela tá
+1378640 1379040 (13, 12) tá mal
+1379040 1380980 (13, 12) eu jogo na frigideira
+1380980 1381420 (13, 12) tá
+1381420 1381860 (13) a frigideira
+1381860 1383000 (13) eu trouxe contigo né
+1383000 1383720 (13, 12) sim sim
+1383720 1384720 (12) jogo na frigideira
+1384720 1386240 (12) e até desligo o fogo
+1386240 1386660 (12) tudo
+1386660 1387740 (12) eu tô assim
+1387740 1389240 (12) olhando pros lados
+1389240 1389780 (12) ué
+1389780 1391600 (12) mas o que foi isso?
+1392180 1392620 (12) ai eu
+1392620 1393200 (12) eu tento
+1393200 1394500 (12) mesmo com o fogo desligado
+1394500 1395580 (12) eu tento jogar pra cima
+1395580 1396480 (12) pra ver se ela flutua
+1396480 1397660 (12) jogar a frigideira
+1397660 1397840 (12) não
+1397840 1398840 (12) com a frigideira assim
+1398840 1399280 (13, 12) é
+1399280 1400480 (13) tu vai fazendo teus testes ali
+1400480 1402140 (13) mas a princípio
+1402140 1402520 (13) não
+1402520 1403920 (13) voltamos lá
+1403920 1405240 (13) pro quintal
+1405240 1405800 (13) lá atrás
+1405800 1407380 (13) Emma tá caída no chão
+1407380 1408480 (13) o Howard
+1408480 1409800 (13) tá indo pra lá
+1409800 1410520 (13) o Joseph
+1410520 1411120 (13) tá fazendo o que?
+1411600 1412560 (13, 02) ele foi seguindo
+1412560 1413120 (02) o Howard
+1413720 1414880 (02) e ele perdeu
+1414880 1415820 (02) a Emma de vista
+1415820 1416960 (02) mas ele
+1416960 1417720 (02) foi seguindo
+1417720 1418540 (13, 02) pra saber o que aconteceu
+1418540 1418920 (13) Emma
+1418920 1419820 (13) tu tá caída no chão
+1419820 1420900 (13) tu tá bem suja
+1420900 1422700 (13) e parece que não só de terra
+1422700 1424000 (13) o que tu vai fazer?
+1424200 1424940 (08) eu levanto assim
+1424940 1425680 (08) desesperada
+1425680 1425920 (08) tipo
+1425920 1428020 (08) e aí me limpo
+1428020 1428680 (08) assim
+1428680 1429320 (08) é
+1429320 1431300 (08) então eu saí de lá
+1431300 1432620 (13) tu começa a andar
+1432620 1434340 (13) e cai de novo
+1434340 1435860 (13) tu sente alguma coisa
+1435860 1436780 (13) segurar o teu pé
+1436780 1437500 (13, 08) eu grito
+1437500 1438640 (13, 08) eu dou um cantal
+1438640 1441220 (13, 08) o Howard
+1441220 1441940 (13) corre
+1441940 1443400 (13) e começa a chutar
+1443400 1443700 (13) a mão
+1443700 1444820 (13) que tá te segurando
+1444820 1445260 (13) o Joseph
+1445260 1445800 (13) tá fazendo o que?
+1445860 1446300 (13) caramba
+1446300 1447660 (13, 02) eu vou pegar a Emma
+1447660 1448480 (02) pelo dedo
+1448480 1449240 (02) assim sabe
+1449240 1450100 (02) botar a mão por baixo
+1450100 1451340 (02) dos braços dela
+1451340 1451820 (02) do ombro
+1451820 1453000 (02) atirar ela dali
+1453000 1453380 (02) eu quero tirar
+1453380 1454280 (02) minha filha dali né
+1454280 1455180 (02) que isso
+1455180 1455900 (02) Howard
+1455900 1457200 (13, 02) o que significa isso
+1457200 1458420 (13) eu não sei
+1458420 1459880 (13) tu vê que tem uma mão
+1459880 1460920 (13) debaixo da terra ali
+1460920 1461540 (13) tentando
+1461540 1463280 (13) se soltar de alguma forma
+1463280 1464120 (13) enquanto o Howard
+1464120 1464740 (13) tá chutando
+1464740 1466000 (13) eu vou chutar junto
+1466000 1466860 (13) eu quero
+1466860 1468520 (12) matar essa coisa
+1468520 1469540 (07, 12) e eu continuo gritando
+1469540 1472940 (07, 12) eu escuto de lá
+1472940 1473380 (12) onde eu tô
+1473380 1474040 (12) escuta
+1474040 1474940 (12) ai vou lá ver
+1474940 1476060 (12) mas eu posso chegar depois
+1476060 1476620 (12) fica em tempo
+1476620 1478760 (13, 12, 02) a mão para de se mexer
+1478760 1479300 (02) o que
+1479300 1480960 (02) Howard
+1480960 1482060 (02) o que significa isso
+1482060 1482480 (02) quem é
+1482480 1484060 (02) que coisa é essa
+1484060 1484840 (02) embaixo da terra
+1484840 1485340 (13, 02) a Bela
+1485340 1486300 (02) não tinha o rosto
+1486300 1486900 (02) e eu no susto
+1486900 1487740 (02) a machuquei
+1487740 1488900 (13, 02) e aí ela morreu
+1488900 1490860 (13, 02) e aí eu coloquei ela aqui
+1490860 1492420 (02) tem alguém aqui embaixo
+1492420 1493040 (02) ai ele pega
+1493040 1493520 (02) ai ele tá
+1493520 1494840 (02) ele acha que o Howard
+1494840 1495440 (02) cometeu um crime
+1495440 1496280 (02) ele vai pegar o Howard
+1496280 1497340 (02) pelo colarinho assim
+1497340 1499440 (02) ele vai botar contra a parede
+1499440 1500500 (02) o que que foi
+1500500 1501400 (02) que você fez homem
+1501400 1503340 (02) ela não tinha o rosto
+1503340 1504120 (02) Emma
+1504120 1505400 (02) pega a pá dele ali
+1505400 1505920 (02) rápido
+1505920 1507780 (08, 02) e ele tá olhando pro Howard
+1507780 1508080 (08, 02) eu
+1508080 1508860 (08) eu pego assim
+1508860 1509960 (08) bem tremendo
+1509960 1511180 (08) aí meu pai fala
+1511180 1512520 (08) a gente vai participar
+1512520 1514580 (08) daqueles seriados policiais
+1514580 1515500 (02) não garota
+1515500 1516540 (02) isso é sério
+1516540 1518080 (02) Howard
+1518080 1519160 (02) fica ali
+1519160 1520100 (02) pra trás
+1520100 1521480 (02) e bem quietinho
+1521480 1522240 (02) Emma
+1522240 1523800 (02) fica de olho nele
+1523800 1524600 (02) e aí ele vai começar
+1524600 1525260 (02) a cavar
+1525260 1526560 (02) que ele acha que tem uma pessoa ali
+1526560 1527080 (02) agora
+1527080 1527760 (13, 02) ok
+1527760 1528520 (13) teste de força
+1528520 1529060 (13) dois dados
+1529060 1531120 (13) três
+1531120 1532560 (13) que é meu atributo
+1532560 1533280 (13) e dois
+1533280 1534320 (13) consegue cavar
+1534320 1535420 (13) sem machucar a pessoa
+1535420 1536020 (13) que tá ali
+1536020 1538180 (13) tem a esposa do Howard
+1538180 1539440 (13) a Bella
+1539440 1541300 (13) ela tá suja de terra
+1541300 1542680 (13) ela tá com a mão machucada
+1542680 1544480 (13) mas ela tá viva
+1544480 1544960 (13) Bella
+1544960 1546360 (13, 02) meu Deus
+1546360 1547200 (13, 12) com o rosto
+1547200 1548700 (13, 12, 02) é eu ia perguntar isso
+1548700 1549300 (12, 02) ah tá
+1549300 1550080 (12, 02) ela tem rosto
+1550080 1551400 (02) meu Deus
+1551400 1552260 (02) Bella
+1552260 1553440 (02) ele tenta acudir ela
+1553440 1554820 (02) calma
+1554820 1556600 (05, 02) eu vou chamar uma ambulância
+1556600 1558000 (05, 02) vizinhos
+1558000 1561780 (05, 07, 13, 02) vocês vieram visitar a gente
+1561780 1562540 (05, 13) tá
+1562540 1563060 (13) tudo bem
+1563060 1565260 (13) ela se olha assim suja
+1565260 1566300 (13) ela segura a mão
+1566300 1567300 (13) meio doida
+1567300 1569780 (13) a camisola dela
+1569780 1571400 (13) tá bem suja de sangue
+1571400 1573620 (13, 05) acho que sim
+1573620 1575000 (05, 02) ele se afasta
+1575000 1575960 (02) ele se afasta
+1575960 1576920 (02) com a pá ainda na mão
+1576920 1578040 (02) ele tá com o olho
+1578040 1578580 (02) vidrado
+1578580 1579640 (02) assim estatelado
+1579640 1581140 (02) ele pega na mão da Emma
+1581140 1582980 (02) e apontando a pá
+1582980 1583560 (02) pro Howard
+1583560 1583800 (02) assim
+1583800 1584740 (02) se afasta da gente
+1584740 1585720 (02) pra longe
+1585720 1586660 (02) o Mike chega
+1586660 1587640 (02) o que aconteceu
+1587640 1588860 (02) eu escutei um grito
+1588860 1589160 (02) Mike
+1589160 1590120 (02) volta pra casa
+1590120 1590820 (02) com a Emma
+1590820 1591860 (02) fica de olho na rua
+1591860 1592760 (02) mas o que aconteceu
+1592760 1593840 (02) você precisa de ajuda pai
+1593840 1595120 (02) não sei ainda
+1595120 1595600 (02) eu não sei
+1595600 1596720 (02) mas vamos pra casa
+1596720 1598160 (02) e vocês dois
+1598160 1599580 (02) nem chega perto
+1599580 1600360 (02) da minha casa hein
+1600360 1601600 (02) e ele tá voltando
+1601600 1602820 (02) andando de costas
+1602820 1603980 (02) vem comigo Emma
+1603980 1604260 (08, 12, 02) vem
+1604260 1604660 (08, 12, 02) eu vou
+1604660 1605440 (08) pego na mão dele
+1605440 1606340 (08) e saio correndo
+1606340 1607820 (08, 12) eu saio olhando pra trás
+1607820 1608660 (12) assim olhando feio
+1608660 1609340 (12) pro Howard
+1609340 1610900 (12) não sei o que ele fez
+1610900 1611780 (12, 02) ela parece
+1611780 1612920 (02) tá feliz
+1612920 1613280 (02) eu acho
+1613280 1613880 (02) assim como se
+1613880 1614980 (02) nada tivesse acontecido
+1614980 1615200 (13, 02) é isso
+1615200 1615760 (13, 02) desorientada
+1615760 1616420 (13) ela sempre foi
+1616420 1617240 (13) sorridente
+1617240 1618100 (13) ela parece
+1618100 1619140 (13) meio desorientada
+1619140 1620520 (13) mas ela parece
+1620520 1621000 (13) assim
+1621000 1622720 (13) não tá
+1622760 1623880 (13) entendendo
+1623880 1624660 (13) a gravidade
+1624660 1625700 (13) ou o que aconteceu
+1625700 1625940 (13) com ela
+1625940 1626940 (13) realmente não foi tão grave
+1626940 1627640 (13) quanto parece
+1627640 1628500 (13, 02) nem os chutes
+1628500 1629000 (02) que a gente deu
+1629000 1629680 (02) no braço dela
+1629680 1631040 (02) ela tá assim chorando
+1631040 1632060 (02) nem fazendo que tá doendo
+1632060 1632200 (13, 02) nada
+1632200 1632480 (13, 02) não
+1632480 1633220 (13) ela segura um pouco
+1633220 1634060 (13) o pulso dela
+1634060 1635500 (13) mas ela não parece
+1635500 1636940 (13, 02) tá sentindo dor
+1636940 1637400 (02) e ele
+1637400 1638320 (02) ele como ele tá
+1638320 1639600 (02) vendo que acabei
+1639600 1640400 (02) de enterrar a mulher
+1640400 1641440 (02) que ele enterrou
+1641440 1643460 (13, 02) os dois se abraçam
+1643460 1643680 (13) assim
+1643680 1644740 (13) tão chorando bastante
+1644740 1645840 (13, 12, 02) ah ele deve tá vendo
+1645840 1646760 (13, 02) ela com o rosto agora
+1646760 1647080 (02) então
+1647080 1648520 (12, 02) meu Deus
+1648520 1649740 (02) vamos pra casa gente
+1649740 1651240 (02) eu não tô gostando disso não
+1651240 1652520 (02) ele volta falando
+1652520 1653540 (02) com o Mike ainda né
+1653540 1654800 (02) chama a polícia Mike
+1654800 1655940 (02) ele enterrou
+1655940 1656700 (02) a Bela
+1656700 1657420 (02) viva
+1657420 1658640 (02) viva
+1658640 1659260 (02) enterrou
+1659260 1660260 (02) no jardim
+1660260 1660720 (02) mas
+1660720 1661400 (02) por que
+1661400 1662560 (02) eu não sei
+1662560 1663320 (02) a Emma viu
+1663320 1664660 (02) você viu não foi filha
+1664660 1665920 (02) ela tava debaixo
+1665920 1666560 (02) da terra
+1666560 1667860 (08, 02) foi
+1667860 1668440 (08) ele
+1668440 1669140 (08) ele falou que
+1669140 1670600 (08) o homem tinha rosto
+1670600 1672740 (08) e que matou ela
+1672740 1673600 (08, 02) deve tá com algum
+1673600 1674800 (02) surto psicótico
+1674800 1675180 (02) mas
+1675180 1676120 (02) se a gente precisa
+1676120 1677580 (02) chamar as autoridades
+1677580 1677840 (02) aqui
+1677840 1678560 (02) isso não
+1678560 1680420 (02) não cabe a gente resolver
+1680420 1681440 (02) vamos pra casa
+1681440 1682340 (02) e tranca tudo
+1682340 1682440 (02) vamos pra casa
+1682440 1683700 (12, 02) eu vou ligar
+1683700 1684920 (12) eu vou ligar pra emergência
+1684920 1685940 (13, 12) tu vai ligar pra
+1685940 1686520 (13) pra
+1686520 1687400 (13) pra emergência?
+1687600 1688820 (12) é eu acho que eu vou ligar
+1688820 1690560 (12) 9-1-1 né
+1690560 1691520 (13, 12) que eu não sei se seria
+1691520 1692080 (12) polícia
+1692080 1692780 (12) ou médico
+1692780 1694060 (12) ou o que
+1694060 1696200 (13, 12) padre exorcista
+1696200 1696660 (13, 07, 12) é
+1696660 1697800 (13, 07) pois é
+1697800 1699340 (13, 09, 07) mas vou obedecer
+1699340 1699880 (13) meu pai
+1699880 1700560 (13) o
+1700560 1701420 (13) uma voz
+1701420 1702360 (13, 11) atende do outro lado
+1702360 1703000 (13, 11) olá
+1703000 1703560 (11) no momento
+1703560 1704540 (11) o policial Robin
+1704540 1705360 (11) está de férias
+1705360 1706520 (11) assim que ele voltar
+1706520 1707540 (11) ele ficará feliz
+1707540 1708200 (11) em ajudá-lo
+1708200 1708640 (11, 12) ah
+1708640 1709540 (12) eu desligo
+1709540 1710920 (12) o Robin não tá lá
+1710920 1711660 (12) na delegacia
+1711660 1712060 (12) pai
+1712060 1713440 (12) e não tem mais ninguém
+1713440 1714200 (12) não sei
+1714200 1715520 (12) é uma gravação
+1715520 1716240 (12, 02) eu acho que não
+1716240 1716620 (02) caramba
+1716620 1718200 (02) o que tá acontecendo
+1718200 1718840 (02) Emma
+1718840 1719240 (02) Emma
+1719240 1721020 (02) fecha todas as janelas
+1721020 1721500 (02) e eu vou
+1721500 1722040 (02) olhar
+1722040 1722920 (02) eu vou lá no fundo
+1722920 1723600 (02) da casa
+1723600 1725160 (02) pra fechar a nossa porta
+1725160 1726440 (02) aí eu dou uma olhadinha
+1726440 1726980 (02) assim pra fora
+1726980 1727580 (02) no nosso quintal
+1727580 1728460 (02) pra ver se tá tudo bem
+1728460 1729640 (02) se não tem ninguém também
+1729640 1730340 (13, 02) o
+1730340 1732680 (13) fecha a porta de trás né
+1732680 1733420 (13) os dois filhos
+1733420 1734760 (13) tão fechando as janelas ali
+1734760 1735800 (13) não tem
+1735800 1736340 (13) a
+1736340 1736980 (13) além da
+1736980 1737780 (13) da grama
+1737780 1738440 (13) que sumiu
+1738440 1739520 (13) o chão
+1739520 1740720 (13) não tá ali também
+1740720 1742020 (13) o degrau da porta
+1742020 1743620 (13) termina em um vazio infinito
+1743620 1744620 (13) teve algumas estrelas
+1744620 1745040 (13) lá embaixo
+1745040 1745760 (13) caramba
+1745760 1746620 (13) que
+1746620 1747740 (13, 02) isso
+1747740 1749920 (13, 02) não faz sentido
+1749920 1751020 (02) isso
+1751020 1752560 (02) e ele bate a porta
+1752560 1753400 (02) e ele tá
+1753400 1754700 (02) sabe aquelas cenas
+1754700 1755840 (02) que a pessoa fica assim
+1755840 1756240 (02) sem
+1756240 1757920 (02) saber o que fazer
+1757920 1758480 (02) e ela tá
+1758480 1759980 (02) grudada na porta
+1759980 1760300 (02) assim
+1760300 1761420 (02) ele tá desse jeito
+1761420 1762240 (02) na porta
+1762240 1763720 (02) o que aconteceu aí pai
+1763720 1764600 (02) não tem
+1764600 1765080 (02) não
+1765080 1766360 (02) ele tá piscando assim
+1766360 1766860 (02) não
+1766860 1768000 (02) não tem chão
+1768000 1769680 (02) e ele abre devagarinho
+1769680 1770940 (02) a porta pra mostrar pro Mike
+1770940 1771860 (02) olha só
+1771860 1772760 (13, 02) continua
+1772760 1773780 (13) realmente não tem chão
+1773780 1774880 (13) não tem
+1774880 1775820 (13) caramba
+1775820 1778020 (13) é como olhar pro céu noturno
+1778020 1778220 (13) assim
+1778220 1779220 (13) um espaço infinito
+1779220 1780280 (13) lá embaixo
+1780280 1781320 (13) tu vê algumas estrelas
+1781320 1782000 (13, 12) eu falo
+1782000 1782400 (12) nossa
+1782400 1783220 (13, 12) isso é pior do que
+1783220 1784200 (12) fatia de bacon
+1784200 1785240 (08, 12) a Emane
+1785240 1785580 (08) tá vendo
+1785580 1786960 (08) essa discussão toda
+1786960 1788160 (08) ela olha e fala assim
+1788160 1789340 (08) que estranho
+1789340 1790140 (08) mas o que que tem
+1790140 1791080 (08) a fatia de bacon
+1791080 1792300 (08, 12) a fatia de bacon
+1792300 1793720 (12) eu tava cozinhando
+1793720 1795020 (12) e quando eu cheguei
+1795020 1796120 (12) aqui na cozinha
+1796120 1797180 (12) ela tava flutuando
+1797180 1797700 (12) no ar
+1797700 1799620 (12) e eu encostei nela
+1799620 1800960 (12) e ela caiu
+1800960 1801840 (12) eu juro que eu vi
+1801860 1803060 (12) mas
+1803060 1804860 (12) peraí
+1804860 1806860 (12, 02) não pode ser
+1806860 1807940 (02) ele não tá querendo acreditar
+1807940 1809300 (02) ele vai pegar alguma coisa
+1809300 1810720 (02) um copo
+1810720 1811800 (02) uma colher
+1811800 1812360 (02) um prato
+1812360 1813160 (12, 02) e ele vai jogar
+1813160 1813860 (12, 02) joga o bacon
+1813860 1814580 (12, 02) joga o bacon
+1814580 1815480 (02) joga o bacon
+1815480 1816080 (02) joga o bacon
+1816080 1816780 (12, 02) toma toma
+1816780 1817600 (02) vai fazer o que?
+1817800 1818880 (02) eu vou jogar qualquer coisa
+1818880 1820040 (02) pra ver se o vazio
+1820040 1820600 (02) reage
+1820600 1821800 (12, 02) ou alguma coisa aparece
+1821800 1822520 (12, 02) eu entrego pra ele
+1822520 1823140 (12) a fatia de bacon
+1823140 1824040 (12) que tinha flutuado
+1824040 1825140 (13) se ele quiser jogar
+1825140 1826820 (13) tu vai atirar o bacon
+1826820 1827500 (13) no infinito
+1827500 1828440 (13) exatamente
+1828440 1831540 (13) ele cai infinitamente
+1831540 1831740 (13) até
+1831740 1831840 (13) até
+1831860 1832880 (13) não enxergar ele mais
+1832880 1833940 (13, 12) mas ele cai
+1833940 1834740 (12) em velocidade normal
+1834740 1835080 (12) assim
+1835080 1836640 (13, 12) ou ele flutua?
+1836740 1837760 (13, 12) ele cai
+1837760 1839580 (13, 12) ele parece cair
+1839580 1841080 (13) um pouco mais devagar
+1841080 1841860 (13) do que deveria
+1841860 1842560 (13) mas ele cai
+1842560 1843720 (13, 12) dá pra ver bem
+1843720 1844940 (13) que não é um buraco normal
+1844940 1846820 (13) não tem nada normal aqui
+1846820 1847940 (13, 12, 02) tá tudo errado
+1847940 1849700 (13, 08, 12, 02) a Emma
+1849700 1850320 (08) fica muito
+1850320 1851340 (08, 12) muito impressionada
+1851340 1851740 (08) com isso
+1851740 1852440 (08) ela pega tipo
+1852440 1853080 (08) um abajur
+1853080 1853860 (08) que é algo grande
+1853860 1854660 (08) e joga também
+1854660 1855740 (08, 12) nossa
+1855740 1857200 (12) eu não me lembro
+1857200 1857640 (12) de ter visto
+1857640 1858840 (12) esse abajur aqui antes
+1858840 1859700 (12) na verdade
+1859700 1860420 (12) essa casa
+1860420 1861420 (12) tá um pouco diferente
+1861420 1861820 (12) não tá?
+1861860 1862780 (12, 02) é
+1862780 1863780 (08, 12, 02) primeiro gato
+1863780 1864700 (08, 12) parece que tem nove
+1864700 1865760 (08) móveis
+1865760 1867100 (08) novos né
+1867100 1867820 (08) eu
+1867820 1868720 (08) não sei
+1868720 1870340 (08, 02) você comprou coisa nova pai?
+1870620 1871080 (02) não
+1871080 1871440 (02) não
+1871440 1872340 (02) eu não comprei nada
+1872340 1873200 (02) olha só
+1873200 1874120 (02) ele fecha a porta
+1874120 1875140 (02) e tranca
+1875140 1876880 (02) vamos ficar todo mundo
+1876880 1878340 (02) com cuidado aqui dentro de casa
+1878340 1879800 (02) prestem atenção
+1879800 1880860 (02) aonde pisam
+1881940 1882420 (02) e
+1882420 1883940 (02) eu não sei
+1883940 1885500 (02) a foto daquela mulher
+1885500 1887240 (02) aquela de cabelo preto
+1887240 1887820 (02) sim sim
+1887820 1888380 (02) vamos procurar
+1888380 1888960 (02) se tem mais coisa
+1888960 1890180 (02) porque ninguém lembra dela
+1890180 1891840 (02) tem alguma coisa errada aqui
+1891860 1893140 (02) e tem a ver com aquela mulher
+1893140 1893840 (12, 02) boa ideia
+1893840 1895220 (12) você não quer olhar
+1895220 1895900 (12) no seu quarto?
+1896240 1897040 (07, 12, 02) eu posso procurar
+1897040 1898040 (07, 12, 02) talvez
+1898040 1899220 (12) no banheiro
+1899220 1900140 (12) se tem alguma coisa
+1900140 1901060 (12) mais fotos
+1901060 1902740 (12) sei lá
+1902740 1904060 (12) ou escova de dente
+1904060 1904700 (12) dela
+1904700 1906080 (12) não sei
+1906080 1906860 (12, 02) tá
+1906860 1907420 (02) é
+1907420 1907960 (02) Emma
+1907960 1909180 (02) dá uma olhada no seu também
+1909180 1910320 (02) e qualquer coisa
+1910320 1911840 (02) grita hein querida
+1911840 1912640 (08, 02) é o
+1912640 1914940 (08) a configuração da casa
+1914940 1915540 (08) é tipo
+1915540 1916560 (08) uma casa vespana
+1916560 1917000 (08) que é tipo
+1917000 1918380 (08) tem escritório
+1918380 1920080 (08) quarto um pra cada um
+1920080 1921660 (08) aí cada um tem seu banheiro
+1921660 1921780 (08) tipo
+1921860 1922360 (08) as coisas assim
+1922360 1922900 (13, 08) isso
+1922900 1923700 (13) o pai de vocês
+1923700 1925400 (13) inclusive projetou essa casa
+1925400 1925980 (13) ah
+1925980 1928480 (13, 08, 12) então eu quero
+1928480 1929440 (08) quero dar uma olhada
+1929440 1930420 (08, 12) no escritório
+1930420 1930960 (08, 12) é aquela casa
+1930960 1932080 (12) com cerquinha branca
+1932080 1932760 (12) típica
+1932760 1933780 (12) de subúrbio americano
+1933780 1934000 (12) né
+1934000 1934860 (08, 07, 12) imagina
+1934860 1935940 (07, 12) toda aquela parede
+1935940 1937080 (12) de madeira assim
+1937080 1938160 (08, 12) pra ver se tinha
+1938160 1938420 (08) tipo
+1938420 1939120 (08) alguma coisa
+1939120 1940180 (08) em computador
+1940180 1940980 (08) alguma coisa assim
+1940980 1941900 (13, 08) então Emma está
+1941900 1943840 (13) no escritório
+1943840 1945960 (13) o Josi foi ver o quarto
+1945960 1946900 (13) e o Mike
+1946900 1947840 (13, 07) foi ver os banheiros
+1947840 1949120 (13, 07) é pode ser isso
+1949120 1950160 (13) não não é pode ser
+1950160 1950940 (13, 07, 12) tu falou que era banheiro
+1950940 1951260 (13, 07, 12) é
+1951260 1951660 (13, 12) é
+1951660 1953780 (13, 12) , é porque eu
+1953780 1954160 (12) sei lá
+1954160 1954800 (12) eu não vou procurar
+1954800 1956180 (12) eu no quarto do meu pai
+1956180 1958420 (12) e eu acho que no meu quarto
+1958420 1959540 (13, 07, 12) não vão ter sinais dela
+1959540 1960720 (12) então eu pensei
+1960720 1961860 (12) em procurar no banheiro
+1961860 1963040 (12) ou nos banheiros
+1963040 1963520 (12) Joseph
+1963520 1964020 (13, 12) tem
+1964020 1965540 (13) duas roupas
+1965540 1966400 (13) no guarda roupa
+1966400 1967580 (13) mas só em metade deles
+1967580 1968900 (13) na outra metade
+1968900 1970400 (13) tem roupas femininas
+1970400 1970660 (13) né
+1970660 1971640 (13, 02) de uma pessoa
+1971640 1972320 (02) que eu não lembro
+1972320 1972940 (02) quem é
+1972940 1973420 (02) é
+1973420 1974580 (02) são da Cecile
+1974580 1975380 (02) ou não
+1975380 1976320 (02) eu lembro
+1976320 1977180 (02) se são da Cecile
+1977180 1977600 (13, 02) ah
+1977600 1978620 (13) tu lembra que a Cecile
+1978620 1979140 (13) ela era
+1979140 1980760 (13) inclusive mais alta
+1980760 1981380 (13) que você
+1981380 1983300 (13) e a mulher oriental
+1983300 1984120 (13) de cabelo escuro
+1984120 1985220 (13) ela aparece pelas fotos
+1985220 1986620 (13) mais baixas
+1986620 1987400 (13) as roupas
+1987400 1988180 (13) parecem ser
+1988180 1988920 (13) de alguém menor
+1988920 1989740 (13) do que da Cecile
+1989740 1990700 (13) ok
+1990700 1991080 (13, 12) eu
+1991080 1992280 (12) desculpa
+1992280 1993100 (12) eu lembro
+1993100 1993620 (12) o que aconteceu
+1993620 1994220 (12) com a Cecile
+1994220 1994960 (13, 12) não
+1994960 1995340 (13, 12) tá
+1995340 1996640 (12) mas eu tenho consciência
+1996640 1997480 (12) que ela não está mais
+1997480 1998080 (12) entre nós
+1998080 1999380 (13, 12) não está com a gente mais
+1999380 1999400 (13, 12) pelo menos
+1999400 1999900 (13, 12) é
+1999900 2000420 (13) tu tem quanto
+2000420 2001540 (13) pelo menos uns 10 anos
+2001540 2002280 (13, 02) ela não está mais com você
+2002280 2003360 (13, 02) o Joseph
+2003360 2004040 (02) começa a achar
+2004040 2005480 (02) que está sofrendo de amnésia
+2005480 2006920 (02) vai se manter focado
+2006920 2008040 (02) ele vai procurar ali
+2008040 2009000 (02) ou no armário
+2009000 2009720 (02) ou nas gavetas
+2009720 2010780 (02) algum tipo de
+2010780 2011700 (02) aliás
+2011700 2012940 (02) eu tenho um telefone né
+2012940 2013680 (02) eu quero procurar
+2013680 2014500 (02) no meu telefone
+2014500 2015680 (02) contato
+2015680 2016920 (02) o nome da pessoa
+2016920 2017700 (02) é
+2017700 2018500 (02) não vou saber
+2018500 2019040 (13, 02) boa ideia
+2019040 2020240 (13, 02) registro de ligação
+2020240 2021440 (02) se eu tenho registro
+2021440 2021960 (02) de ligações
+2021960 2023140 (13, 02) de alguém que eu não conheço
+2023140 2024640 (13, 02) enquanto tu teve essa ideia
+2024640 2025740 (13) tu está fazendo isso
+2025740 2026680 (13) a Ema
+2026680 2028140 (13) está lá no escritório
+2028140 2028420 (13) né
+2028420 2029620 (13) tu vê que tem
+2029620 2031640 (13) uma mesa
+2031640 2033340 (13) de desenho
+2033340 2033520 (13) né
+2033520 2034340 (13) o pai de vocês
+2034340 2034820 (13) é arquiteto
+2034820 2035480 (13) tem aquela mesa
+2035480 2037360 (13) para ele fazer projetos
+2037360 2038640 (13) e trabalhos ali
+2038640 2039800 (13) e tem um cantinho
+2039800 2040500 (13) uma mesinha
+2040500 2040760 (13) e tem um cantinho
+2040780 2041780 (13) com um notebook
+2041780 2043020 (13) aberto
+2043020 2044400 (13) esse notebook
+2044400 2044920 (13) tu não lembra
+2044920 2046640 (13) de ter visto antes
+2046640 2048280 (13) te chama a atenção
+2048280 2049160 (13, 08) é nele mesmo
+2049160 2049700 (08) que eu vou mexer
+2049700 2051100 (08) quero pegar ele
+2051100 2051440 (08) abrir
+2051440 2052660 (13, 08) ele obviamente
+2052660 2053560 (13) está com o cinto
+2053560 2054640 (unknown) vai lá
+2054640 2055160 (13, 08) tipo
+2055160 2055960 (13, 08) fotinho
+2055960 2057880 (13, 08, 07) do perfil
+2057880 2058320 (08) da pessoa
+2058320 2059300 (08) que está alugada
+2059300 2060960 (08) é essa moça
+2060960 2062240 (08) que a gente não conhece
+2062240 2062800 (08) ou é tipo
+2062800 2064220 (08) uma outra pessoa
+2064220 2064680 (08) e tal
+2064680 2065840 (13, 08) é essa moça
+2065840 2067000 (13) com o milk
+2067000 2068120 (13) com o gato de vocês
+2068120 2069000 (13) caramba
+2069000 2070500 (08) eu quero procurar
+2070500 2070820 (08) tipo
+2070820 2072080 (08) pela gaveta
+2072080 2072260 (08) né
+2072260 2073140 (08) porque gente mais velha
+2073140 2074400 (08) gosta de anotar a senha
+2074400 2075500 (08) porque não lembra
+2075500 2076400 (13, 08, 07) aí eu quero ver
+2076400 2078200 (08, 07) se tem algum post-it
+2078200 2079460 (08) ou alguma coisa
+2079460 2080020 (08) na gaveta
+2080020 2081000 (08) que esteja escrito assim
+2081000 2082440 (08) senha do computador
+2082440 2083260 (13, 08) só dois dados
+2083260 2085060 (13, 08) a senha
+2085060 2085620 (13, 08) tu não vai achar
+2085620 2085960 (13) mas talvez
+2085960 2086840 (13) tu ache outra coisa
+2086840 2088780 (08) seis e seis
+2088780 2089520 (13, 08) dois acertos
+2089520 2090360 (13) tu encontra
+2090360 2092500 (13) muitos documentos
+2092500 2094220 (13) da prefeitura
+2094220 2095760 (13) muito documento
+2095760 2096360 (13) que não deveria
+2096360 2096860 (13) estar na casa
+2096860 2097680 (13) de uma pessoa
+2097680 2098500 (13) sabe
+2098500 2099200 (13) tem desde
+2099200 2099500 (13) projetos
+2099500 2100500 (13) de projetos
+2100500 2101160 (13) de casa
+2101160 2102240 (13) tu vê que muitos
+2102240 2102600 (13) do
+2102600 2104440 (13) tem muito projeto
+2104440 2105100 (13) do teu pai
+2105100 2106520 (13) pra coisas da prefeitura
+2106520 2108220 (13) tipo praças
+2108220 2109900 (13) a própria prefeitura
+2109900 2110920 (13) parece a sede nova
+2110920 2111920 (13) foi desenhada
+2111920 2112640 (13) pelo teu pai
+2112640 2113820 (13) tu vê que
+2113820 2115540 (13) de alguma forma
+2115540 2116580 (13) nesse tempo
+2116580 2117140 (13) que vocês não
+2117140 2118460 (13) estão lembrando
+2118460 2120380 (13) desses momentos
+2120380 2120840 (13) com essa
+2120840 2121740 (13) com essa mulher
+2121740 2123120 (13) teu pai trabalhou
+2123120 2124380 (13) muito pra prefeitura
+2124380 2125260 (13) da cidade
+2125260 2126880 (13) tem muitos contratos
+2126880 2128360 (13) entre o seu pai
+2128360 2129220 (13) e a prefeitura
+2129220 2130060 (13) é
+2130060 2130480 (13) muito
+2130500 2131100 (13) , muito
+2131100 2131880 (13) mesmo
+2131880 2134020 (13) enquanto tu tá vendo isso
+2134020 2134840 (13) o Mike
+2134840 2136200 (13) tá no banheiro
+2136200 2136500 (13) lá
+2136500 2137420 (13) rola dois dados
+2137420 2139760 (13) tirei quatro e um
+2139760 2141040 (13) quatro é o meu atributo
+2141040 2142240 (13) tem escova de dente
+2142240 2143100 (13) pasta de dente
+2143100 2144600 (13) não há remédio
+2144600 2146200 (13, 07) não tem
+2146200 2149160 (13) nenhum tipo de remédio
+2149160 2149540 (13) ali
+2149540 2151020 (13) tem uma caixinha
+2151020 2152160 (13) de primeiros socorros
+2152160 2153540 (13) e ela tá vazia
+2153540 2155800 (13, 12) tem coisas assim
+2155800 2156720 (12) femininas
+2156720 2157360 (12) talvez
+2157360 2157860 (12) talvez
+2157860 2158780 (12) aquela coisa
+2158780 2159220 (12) que americano
+2159220 2159660 (12) tem de
+2159660 2160400 (12) ter um
+2160400 2161380 (12) um roupão
+2161380 2162540 (12) com nome bordado
+2162540 2163180 (12) alguma coisa assim
+2163180 2163760 (12) pra ver se eu acho
+2163760 2164260 (12) algum nome
+2164260 2164700 (12) talvez
+2164700 2165420 (12) se tiver
+2165420 2166120 (12) vai estar no banheiro
+2166120 2166740 (12) do quarto
+2166740 2167340 (13, 12) do pai
+2167340 2168240 (13, 12) do pai
+2168240 2169780 (13, 12) fotos
+2169780 2171900 (12) pela casa
+2171900 2173440 (12) tem alguma outra foto
+2173440 2175020 (12) diferente da mulher
+2175020 2176380 (12) ou nada de
+2176380 2177440 (12) diferente do que a gente
+2177440 2177760 (12) tinha visto
+2177760 2178520 (12) nada de muito
+2178520 2179440 (13, 12) diferente do que vocês
+2179440 2180400 (13, 02) viram
+2180400 2180840 (02) o Joseph
+2180840 2181480 (02) tá fazendo o que?
+2181540 2182100 (02) eu tava olhando
+2182100 2183460 (02) nas gavetas
+2183460 2184540 (02) ali do meu quarto
+2184540 2185660 (02) e principalmente
+2185660 2186700 (02) no meu telefone
+2186700 2187380 (02) se eu acho
+2187380 2188260 (02) algum contato
+2188260 2189000 (02) salvo
+2189000 2190280 (02) mas eu não reconheço
+2190280 2190880 (02) aquele nome
+2190880 2192240 (02) e me parece estranho
+2192240 2193060 (13) tu tem ligado
+2193060 2194360 (13) muito pra prefeitura
+2194360 2195400 (13) em várias ligações
+2195400 2196040 (13) de prefeitura
+2196040 2197020 (13) da cidade
+2197020 2198400 (13) e tem um número salvo
+2198400 2198980 (13) com o nome
+2198980 2199440 (13) amor
+2199440 2200640 (13) amor
+2200640 2202660 (13, 02) eu olho assim
+2202660 2203480 (02) eu vou ligar
+2203480 2204240 (02) para o meu amor
+2204240 2205420 (13, 02) tu diz que ali
+2205420 2206440 (13) o número
+2206440 2206740 (13) né
+2206740 2207680 (13) alguém atende
+2207680 2208260 (13) do outro lado
+2208260 2208780 (13, 10) alô
+2208780 2210260 (13) alô
+2210260 2211400 (13, 02) quem fala?
+2211540 2212180 (10) você gostaria
+2212180 2213040 (10) de falar com quem?
+2213480 2215360 (02) eu me chamo
+2215360 2216180 (02) Joseph King
+2216180 2216960 (02) eu não
+2216960 2218600 (02) eu preciso saber
+2218600 2219560 (02) de quem é esse número
+2219560 2219980 (09, 02) é
+2219980 2220680 (09) meu
+2220680 2221020 (09, 02) e
+2221020 2222280 (02) seu nome?
+2222420 2222880 (09) você
+2222880 2224380 (09) é responsável
+2224380 2225180 (09) por isso?
+2225580 2226100 (09, 02) exatamente
+2226100 2227380 (02) o que você tá falando
+2227380 2228320 (09, 02) que eu sou responsável?
+2228380 2229020 (09) eu tava ligando
+2229020 2230300 (10, 09) pra polícia já
+2230300 2231800 (10) quando eu peguei
+2231800 2232560 (10) o telefone
+2232560 2233540 (10) tocou
+2233540 2234540 (10) e a minha
+2234540 2234560 (10) a minha
+2234560 2235980 (10) a minha casa
+2235980 2236680 (10) tá sem nada
+2236680 2237320 (10) em volta
+2237320 2238560 (10, 02) ah é
+2238560 2239120 (02) então
+2239120 2239840 (02) a minha
+2239840 2240620 (02) eu tô na situação
+2240620 2241300 (02) parecida
+2241300 2242540 (02) mora na rua
+2242540 2243320 (02) eu não sei
+2243320 2243960 (02) o nome da rua
+2243960 2245400 (02) a rua aqui perto
+2245400 2246240 (02) eu vou dizer o nome
+2246240 2246720 (02) da minha rua
+2246720 2247840 (10, 02) você mora por aqui?
+2248160 2248260 (10, 02) não
+2248260 2248900 (10) eu
+2248900 2249960 (10) não
+2279980 2280680 (13, 02) , não
+2280680 2281060 (13) vocês
+2281060 2282520 (13) meio que se encontram
+2282520 2282940 (13) por ali
+2282940 2284120 (13) a Ema já tava lá, né?
+2284380 2284980 (13) a Ema tá com um monte
+2284980 2285980 (13) de projeto de papel
+2285980 2286980 (13, 08) lá que ela tá olhando
+2286980 2287960 (13, 08) é, quando
+2287960 2288660 (08) vocês tão indo
+2288660 2289340 (08) pro chute de história
+2289340 2290280 (08) a Ema tá assim
+2290280 2290740 (08) no meio também
+2290740 2291560 (08) cheio de papel
+2291560 2292220 (08) que ela tá vendo
+2292220 2292980 (08) até o pai
+2292980 2294220 (08) perguntar o que que era aquilo
+2294220 2295580 (12) opa, eu cheguei também
+2295580 2296180 (12) oi
+2296180 2297040 (12) e vocês encontraram
+2297040 2297520 (12) alguma coisa?
+2297740 2298360 (12) no banheiro
+2298360 2298960 (12) não tinha nada
+2298960 2299600 (12) de diferente
+2299600 2300700 (12) é, então
+2300700 2301020 (12, 02) eu
+2301020 2302340 (12, 02) tinha uma pessoa
+2302340 2303700 (12, 02) com contato
+2303700 2304980 (02) no celular, né?
+2305740 2306400 (02) e antes de acabar
+2306400 2307040 (02) a bateria
+2307040 2308060 (02) pelo que eu entendi
+2308060 2308860 (02) tava acontecendo
+2308860 2309680 (02) com a casa dela
+2309680 2310240 (02) a mesma coisa
+2310240 2311180 (02) que aconteceu com a nossa
+2311180 2312560 (12, 02) um abismo em volta
+2312560 2313320 (12, 02) ah, boa ideia
+2313320 2314480 (12) deixa eu olhar no meu também
+2314480 2315360 (12) devo ter aqui
+2315360 2316300 (12) um contato de alguém
+2316300 2316940 (12, 02) que eu não conheço
+2316940 2317260 (12, 02) isso
+2317260 2318340 (02) eu vou ver aqui
+2318340 2319920 (02) no computador
+2319920 2320980 (02) e aí eu coloco a senha
+2320980 2322040 (02) que a Ema não sabia
+2322040 2323900 (12, 02) o computador não é teu?
+2324280 2324820 (12) ué
+2324820 2326900 (12) não tem outro usuário
+2326900 2327200 (12) assim?
+2327340 2328280 (12) só tem a mulher?
+2328580 2329180 (12) parece sim
+2329180 2329820 (08, 12) pai
+2329820 2330300 (08) pai
+2330300 2330760 (08) pai
+2330760 2331960 (08) pai
+2331960 2332360 (08, 12) paiê
+2332360 2333680 (08, 12, 02) o que que é isso aqui?
+2333820 2335060 (08) tem um montão de projeto
+2335060 2335960 (08) no seu nome
+2335960 2337060 (08, 02) deixa eu ver
+2337060 2337400 (02) é
+2337400 2338260 (02) isso aqui é
+2338260 2339520 (02) coisa do trabalho, filha
+2339520 2340860 (02) ele vai olhando assim
+2340860 2342280 (13, 02) ele reconhece, não é tudo?
+2342420 2342660 (13) é
+2342660 2343900 (13) é o teu estilo
+2343900 2345300 (13) mas tu não lembra
+2345300 2346400 (13) de ter feito todos esses projetos
+2346400 2347540 (13) pra prefeitura da cidade
+2347540 2349140 (13, 02) que engraçado
+2349140 2350340 (07, 02) eu não me recordo
+2350340 2350840 (02) de ter feito
+2350840 2352040 (02) essas medidas aqui
+2352040 2353300 (02) esse projeto
+2353300 2354060 (02) na verdade
+2354060 2354720 (02) ele
+2354720 2355100 (02) é
+2355100 2357300 (02) parece que eu fiz
+2357300 2357840 (02) mas eu
+2357840 2358700 (12, 02) lembro
+2358700 2360180 (12) será que todos nós
+2360180 2360500 (12) aqui
+2360500 2361600 (12) estamos com algum problema
+2361600 2362340 (12) na cabeça?
+2362800 2363740 (08, 12) será que tem projetos
+2363740 2364360 (08) escolares
+2364360 2365180 (08) que eu não lembro
+2365180 2366060 (08) de ter feito?
+2366500 2367080 (08) e aí eu corro
+2367080 2367740 (08) no meu quarto
+2367740 2368380 (08) pra ver se tem
+2368380 2369000 (13, 08) perfeito
+2369000 2369360 (13) o
+2369360 2370120 (13) , o Mike
+2370120 2370900 (13) tava olhando
+2370900 2371560 (13) o celular
+2371560 2372200 (13) sim
+2372200 2373380 (13) tu foi removido
+2373380 2373960 (13) de um grupo
+2373960 2375240 (13, 12) chamado formatura
+2375240 2376500 (12) eita, removido
+2376500 2377620 (12) caramba
+2377620 2378440 (12) e tem algum
+2378440 2379280 (12) tem o contato
+2379280 2380400 (12) deve ter um contato
+2380400 2380720 (12) mãe
+2380720 2382180 (12) não vai ser mãe
+2382180 2383040 (12) porque não é minha mãe
+2383040 2384540 (12) se ela é minha madrasta
+2384540 2386240 (12) deveria ter o nome dela
+2386240 2387860 (12) não tem
+2387860 2388820 (12) não tem o contato
+2388820 2389300 (12) de ninguém
+2389300 2390400 (12) ah, não tem nenhum contato
+2390400 2391440 (07, 12) nossa
+2391440 2392360 (07, 12) meu celular
+2392360 2393160 (12) não tá normal
+2393160 2394360 (12) eu fui excluído
+2394360 2395040 (12) de um grupo
+2395040 2396020 (07, 12) ué, que estranho
+2396020 2396720 (12) nunca me excluíram
+2396720 2397400 (12) de um grupo antes
+2397400 2398200 (12) todo mundo quer
+2398200 2399160 (12) sempre me adicionar
+2399360 2400340 (13, 12) a Emma encontra
+2400340 2401960 (13) as coisas dela
+2401960 2402880 (13) ela encontra
+2402880 2403780 (13) trabalhos
+2403780 2404540 (13) e coisas
+2404540 2405580 (13) de
+2405580 2408080 (13) séries mais avançadas
+2408080 2409000 (13, 08) é, eu olho
+2409000 2409420 (08) e imagino
+2409420 2409960 (08) que eu não entendo
+2409960 2410800 (08) nada, né
+2410800 2411680 (13, 08) é, porque conhece
+2411680 2412680 (13) a tua letra
+2412680 2413200 (13) mas é coisa
+2413200 2414280 (13) pra tu estar fazendo
+2414280 2415080 (13) daqui a dois anos
+2415080 2416000 (13, 08) tá, eu
+2416000 2417680 (08) será que eu tenho
+2417680 2418500 (08) um celular também
+2418500 2419200 (13, 08, 02) como tu dizia, Ana?
+2419220 2419820 (13, 08) ah, tem
+2419820 2420720 (13, 02) você mora
+2420720 2421480 (13) nos Estados Unidos?
+2421800 2423560 (13, 08) você tem um celular
+2423560 2424020 (13, 08) também
+2424020 2424620 (13) é, você tem
+2424620 2425380 (13) um celular também
+2425380 2426440 (13, 08) tá, eu quero
+2426440 2427020 (08) pegar os meus
+2427020 2427980 (08) projetos escolares
+2427980 2428660 (08) e meu celular
+2428660 2429340 (08) e ir pra lá
+2429340 2430300 (08) junto do meu pai
+2430300 2431320 (13, 08) pra mostrar isso
+2431320 2431700 (13) o teu
+2431700 2432740 (13) o celular
+2432740 2434140 (13) do teu celular
+2434140 2435400 (13) ele tem uma mensagem
+2435400 2436080 (13) não lida
+2436080 2437420 (13) que é
+2437420 2438920 (13) o número do telefone
+2438920 2439440 (13) né, sem
+2439440 2440480 (13) sem ninguém
+2440480 2441620 (13) sem o nome escrito
+2441620 2443220 (13) e a mensagem é
+2443220 2444560 (13) lembra os meninos
+2444560 2445400 (13) do jantar
+2445400 2446700 (13) e ele descarrega
+2446700 2448320 (08) troca de bateria
+2448320 2449160 (08) é
+2449160 2450020 (08) mas eu disse
+2450020 2450620 (08) só isso
+2450620 2452060 (08) eu não sei
+2452060 2452740 (08) o que que é isso aqui
+2452740 2453320 (08) eu não entendo
+2453320 2454800 (08) a matéria que tá aqui
+2454800 2455300 (08) mas
+2455300 2456760 (08) é a minha letra
+2456760 2458480 (08, 02) é muito avançado
+2458480 2459320 (02) pra sua série
+2459340 2460080 (02) realmente
+2460080 2461380 (08, 02) tem uma moça
+2461380 2461980 (08) que tá
+2461980 2463280 (08) muito preocupada
+2463280 2464280 (08) com o nosso jantar
+2464280 2465260 (08, 12) deve ter sido
+2465260 2465640 (12) a pessoa
+2465640 2466420 (12) que deixou o bilhete
+2466420 2467620 (12) eu vi esse bilhete
+2467620 2468260 (12) quando eu tava lá
+2468260 2468840 (12) na cozinha
+2468840 2469620 (12) mas não era
+2469620 2471500 (12) a sua letra não pai
+2471500 2472820 (12) era você falando
+2472820 2473960 (12) pra gente fazer o jantar?
+2474140 2474700 (12) não, não
+2474700 2475140 (12) não é
+2475140 2475960 (08, 12) não, a mensagem
+2475960 2476600 (08) que eu recebi
+2476600 2477820 (08) é lembra os meninos
+2477820 2478760 (08) do jantar
+2478760 2480640 (12) ué, isso é muito estranho
+2480640 2481740 (08, 12) quem é essa mulher?
+2482180 2482380 (02) tem
+2482380 2483720 (02) eu consigo olhar
+2483720 2484320 (02) pela janela
+2484320 2484700 (02) guacha
+2484700 2486040 (02) se ainda tá de dia
+2486040 2487600 (12, 02) dá pra ter uma noção
+2487600 2488780 (12, 02) vamos ver se tem relógios
+2488780 2489020 (12, 02) por aí
+2489020 2489640 (12, 02) era o que eu ia
+2489640 2490580 (12, 02) o que eu ia falar
+2490580 2491360 (12, 02) eu queria olhar
+2491360 2492300 (12) pela janela também
+2492300 2492920 (12) pra ver se
+2492920 2494220 (12) nas outras casas
+2494220 2495660 (12) tem outros buracos
+2495660 2496740 (12) infinitos também
+2496740 2498240 (13, 12) vamos lá
+2498240 2498640 (13, 12) tá
+2498640 2500400 (13, 12) o que vocês veem
+2500400 2501200 (13) o céu
+2501200 2502140 (13) ele tá azul
+2502140 2503440 (13) ele não tem
+2503440 2504220 (13) nenhuma nuvem
+2504220 2505340 (13) nem um sol
+2505340 2506580 (13) mas tá iluminado
+2506580 2507240 (13) como se houvesse
+2507240 2508120 (13) um sol em algum lugar
+2508120 2508760 (13) o chão
+2508760 2509660 (13) tem vários lugares
+2509660 2510280 (13) faltando
+2510280 2511420 (13) vocês veem um céu
+2511420 2512160 (13) estrelado
+2512160 2513220 (13) vocês ainda tem
+2513220 2513920 (13) o terreno
+2513920 2514560 (13) na frente da casa
+2514560 2515140 (13) de vocês
+2515140 2516800 (13) existe a estrada
+2516800 2518200 (13) e só a casa
+2518200 2518760 (13) de vocês
+2518760 2519420 (13) e a estrada
+2519420 2520960 (13) todas as outras casas
+2520960 2521960 (13) foram substituídas
+2521960 2522820 (13, 12) por um vazio infinito
+2522820 2523420 (12) eita
+2523420 2524440 (12) onde era o Howard
+2524440 2525440 (12) não tem Howard mais
+2525440 2525960 (12) não
+2525960 2526880 (13, 12) tem um buraco
+2526880 2527720 (12) do tamanho da casa
+2527720 2528320 (12) assim enorme
+2528320 2528700 (12) assim
+2528700 2529880 (13, 12) é como se a casa
+2529880 2530560 (13) de vocês
+2530560 2532180 (13) tivesse no espaço
+2532180 2533380 (13) tem o terreno
+2533380 2533920 (13) da frente
+2533920 2535120 (13) tem a
+2535120 2536080 (13) o acesso
+2536080 2536680 (13) a estrada
+2536680 2537760 (13) tem a estrada
+2537760 2538620 (13) indo pros dois lados
+2538620 2539420 (13) assim que não consegue
+2539420 2540500 (13) ver onde acaba
+2540500 2542000 (13, 07) mas as casas
+2542000 2542960 (13) deveriam estar em volta
+2542960 2543240 (13) de
+2543240 2545420 (13) todos desapareceram
+2545420 2546220 (13, 12) é só aquele abismo
+2546220 2547100 (12) ah entendi
+2547100 2548240 (12) virou um quadrado
+2548240 2548600 (12) assim
+2548600 2549700 (12) que vai até
+2549700 2550100 (12) ali
+2550100 2551260 (12) o fim da casa
+2551260 2551780 (12) o fim da rua
+2551780 2552500 (13, 12) é uma ponte
+2552500 2553380 (12) no espaço
+2553380 2554340 (12) com a casa de vocês
+2554340 2555280 (13, 12) ali do ladinho
+2555280 2556000 (12) mas essa ponte
+2556000 2557620 (12) não leva a lugar nenhum né
+2557620 2558700 (12) ela continua
+2558700 2559460 (12) pros dois lados
+2559460 2561140 (13, 12, 02) ela vai pra estrada né
+2561140 2562440 (12, 02) o Joseph agora
+2562440 2563120 (02) tá assustado
+2563120 2564460 (02) porque a casa do Howard
+2564460 2564940 (02) sumiu
+2564940 2566140 (02) o que vai garantir
+2566140 2566680 (02) que a deles
+2566680 2567420 (02) não vai sumir
+2567420 2568500 (02) ou cair nesse buraco
+2568500 2569580 (02) infinito também né
+2569580 2570840 (12, 02) é sobrou só a gente
+2570840 2572300 (12, 02) pois é
+2572300 2573760 (02) ele fala assim
+2573760 2574760 (02) é ok crianças
+2574760 2575820 (02) vamos fazer o seguinte
+2575820 2578300 (02) pega o que der aí
+2578300 2579000 (02) de comida
+2579000 2580380 (02) e vamos pro carro
+2580380 2581700 (02) a gente tem que sair daqui
+2581700 2583100 (02) isso não tá mais seguro
+2583100 2583900 (02) um barulho de estouro
+2583900 2584400 (02) na cozinha
+2584400 2585500 (12, 02) opa
+2585500 2586340 (12, 02) eu corri pra lá
+2586340 2587300 (12, 02) quem tá aí?
+2587560 2588460 (02) Mike pera
+2588460 2589580 (12, 02) e ele vai atrás
+2589580 2590640 (02) tem uma cadeira quebrada
+2590640 2591380 (13, 02) no chão
+2591380 2592080 (13, 07, 12) ué
+2592080 2592640 (12, 02) Milk?
+2592800 2593180 (12, 02) Milk?
+2593420 2593820 (12, 02) é você?
+2594640 2596160 (02) eu pego um abajur
+2596160 2596860 (02) ou qualquer coisa
+2596860 2597500 (02) pra me armar
+2597500 2598240 (02) eu acho que alguém
+2598240 2598920 (02) entrou na casa
+2598920 2600420 (02) e ele tá andando devagarinho
+2600420 2601960 (13) uma das outras cadeiras
+2601960 2603860 (13) simplesmente se joga
+2603860 2604720 (13) contra o teto
+2604720 2605380 (13) se partindo
+2605380 2606160 (13) e caindo no chão
+2606160 2606840 (13, 12, 02) nossa
+2606840 2607540 (13, 12, 02) ok
+2607540 2607640 (13) ok
+2607640 2607700 (13) ok
+2607700 2608240 (13, 02) ok
+2608240 2608700 (02) eu vou correr
+2608700 2609660 (02) e pegar a chave do carro
+2609660 2610400 (02) que deve estar pendurada
+2610400 2611240 (02) em algum ponto ali
+2611240 2611820 (12, 02) gente
+2611820 2613000 (12, 02) pra garagem
+2613000 2613440 (12, 02) agora
+2613440 2614420 (12, 02) eu pego a Ema
+2614420 2615260 (12) no colo
+2615260 2617340 (12) pega ela no braço
+2617340 2618160 (08, 12) ela sai gritando
+2618160 2619100 (08) você não consegue
+2619100 2620180 (08) falar a casa
+2620180 2622880 (02) pior que não deu tempo
+2622880 2623580 (02) de pegar uma arma
+2623580 2624560 (02) americano sempre tem
+2624560 2624980 (02) uma arma
+2624980 2625560 (12, 02) alguma coisa assim
+2625560 2626140 (12, 02) é mesmo
+2626140 2627000 (12, 02) tá lá em cima
+2627000 2627820 (12, 02) se a gente é farinha
+2627820 2628460 (12, 02) modelo
+2628460 2629940 (12, 02) tem que ter alguma arma
+2629940 2631260 (12, 02) vocês não tem uma arma
+2631260 2632220 (13, 12, 02) não tem
+2632220 2633100 (12, 02) não somos tão
+2633100 2634280 (02) cidadãos de bem assim
+2634280 2634720 (12, 02) cara
+2634720 2637880 (13, 12) vocês vão pro carro?
+2637880 2638220 (12) é isso?
+2638760 2639100 (12) isso
+2639100 2640200 (12) de roupão e tudo
+2640200 2641240 (12) dá pra pegar uma faca
+2641240 2641760 (12) pelo menos
+2641760 2642460 (12, 02) pode ser
+2642460 2642840 (02) eu não sei
+2642840 2643340 (02) como é que tá
+2643340 2643880 (02) assim
+2643880 2644820 (02) a cadeira voando
+2644820 2645600 (02) foi tipo assim
+2645600 2646900 (13, 02) ela tava parada
+2646900 2647320 (13) de repente
+2647320 2648020 (13) como se alguém
+2648020 2649800 (13) batesse embaixo dela
+2649800 2650780 (13) com força suficiente
+2650780 2651920 (13) pra ela se chocar
+2651920 2652600 (13) contra o teto
+2652600 2653640 (13) e partir em vários pedaços
+2653640 2654520 (13, 02) e aí foi só ela
+2654520 2655360 (02) ou outras coisas
+2655360 2656420 (02) começaram a meio que tremer
+2656420 2657340 (02) tremer um pouco
+2657340 2658320 (02) sabe
+2658320 2659220 (02) eu acho melhor
+2659220 2660000 (02) deu a impressão
+2660000 2661060 (02) de que era pra gente ir embora dali
+2661060 2661880 (13, 02) deu a impressão
+2661880 2662580 (13) que se a cadeira dessa
+2662580 2663220 (13) acerta alguém
+2663220 2664160 (13) vai machucar bastante
+2664160 2665260 (13, 02) então vamos embora daí
+2665260 2665840 (13, 02) acho que é melhor
+2665840 2666820 (12, 02) a gente ir embora mesmo
+2666820 2668000 (12, 02) esquece
+2668000 2668840 (12) continua
+2668840 2669560 (12) então o plano
+2669560 2670580 (12) vamos pro carro
+2670580 2671760 (12, 02) pega na garagem
+2671760 2672280 (02) alguma coisa
+2672280 2673120 (02) ele deve ter alguma
+2673120 2674160 (12, 02) é uma chave
+2674160 2675320 (13, 12, 02) de boca
+2675320 2676280 (13, 12) alguma coisa
+2676280 2676940 (12) pro carro
+2676940 2677580 (13, 12) sei lá
+2677580 2679080 (12) o pai vai ligar o carro
+2679080 2680160 (13, 12) quem tá ao lado dele
+2680160 2681580 (13, 12) os dois vão ficar atrás
+2681580 2682360 (13, 12) eu acho que eu posso
+2682360 2683300 (12) ir do lado dele
+2683300 2684160 (12) mas eu vou
+2684160 2684940 (12) eu consigo pegar
+2684940 2686120 (12) alguma ferramenta pesada
+2686120 2686780 (12) assim alguma coisa
+2686780 2687440 (12) um martelo
+2687440 2687860 (12) talvez
+2687860 2688500 (12) pega
+2688500 2689320 (12) pega aí sim
+2689320 2691340 (13, 12) o
+2691340 2692820 (13) liga o carro
+2692820 2694200 (13) ele não faz barulho
+2694200 2694840 (13) mas ele tá
+2694840 2696100 (13) ele tá funcionando
+2696100 2696620 (13) ele tá andando
+2696620 2697820 (13) em silêncio total
+2697820 2697960 (13) em silêncio total
+2697960 2697980 (13) em silêncio total
+2698000 2699060 (13) em silêncio total
+2699060 2699480 (13) vocês
+2699480 2701080 (13) veem o carro ali
+2701080 2702040 (13) funcionando
+2702040 2702860 (13) andando né
+2702860 2704000 (13) mas o carro
+2704000 2705440 (13) tá extremamente silencioso
+2705440 2706340 (13, 12) eu vou abrir a janela
+2706340 2707140 (12) pra ver se eu ouço
+2707140 2707700 (12) barulho
+2707700 2708980 (13, 12) lá fora
+2708980 2710120 (13) não escuta
+2710120 2711200 (13) não há barulho
+2711200 2711580 (13) lá fora
+2711580 2712380 (13) de absolutamente
+2712380 2713060 (13) nada
+2713060 2713940 (13, 02) a garagem abre
+2713940 2714720 (13, 02) a garagem abre
+2714720 2716000 (13, 02) a garagem faz barulho
+2716900 2717400 (02) e eu
+2717400 2718540 (02) eu saio com o carro
+2718540 2719500 (02) dá pra sair com o carro
+2719500 2721160 (02) pelo caminho que sobrou
+2721160 2721520 (13, 02) dá
+2721520 2722780 (13, 02) dá pra sair até a estrada
+2722780 2723660 (13) e fora isso
+2723660 2724600 (13) não tem muito o que fazer
+2724600 2724900 (13, 02) é
+2724900 2725460 (02) ah então
+2725460 2726880 (02) é isso que eu ia perguntar agora
+2726880 2727740 (02) essa estrada
+2727740 2727960 (02) ela
+2727960 2728960 (02) 忽
+2728960 2729840 (02) vai embora
+2729840 2730980 (02) até a gente perder a vista
+2730980 2732180 (02) ou ela para lá na frente
+2732180 2732660 (13, 02) ela
+2732660 2733140 (13) ela
+2733140 2734440 (13) não dá pra ver o final dela
+2734440 2735460 (13) então vamos embora
+2735460 2737000 (13, 12, 02) é o único caminho que tem
+2737000 2737720 (12) é ou pra direita
+2737720 2738640 (12, 02) ou pra esquerda
+2738640 2738860 (13, 12, 02) é
+2738860 2740660 (13, 12, 02) é eu vou direcionar o carro
+2740660 2741520 (02) pro caminho que eu
+2741520 2742760 (02) sei que mais ou menos
+2742760 2743620 (02) é a cidade né
+2743620 2744360 (02) a cidade maior
+2744360 2745220 (02) mais próxima
+2745220 2746300 (02) ou centro né
+2746300 2746720 (02) talvez
+2746720 2747880 (02) o centro no caso
+2747880 2748180 (13, 02) é exatamente
+2748180 2749100 (13, 02) ok ok
+2749100 2750620 (13, 02) vai fazendo isso
+2750620 2751420 (13) tu passa por alguma
+2751420 2752280 (13) outras ruas que vão
+2752280 2752540 (13) pra
+2752540 2753520 (13) pra outros lugares
+2753520 2754680 (13) algumas ruas terminam
+2754680 2755840 (13) no nada né
+2755840 2757700 (13) e tu tá dirigindo
+2757700 2758240 (13) por ali
+2758240 2759540 (13) o centro da cidade
+2759540 2760960 (13) ainda tem algumas coisas
+2760960 2761800 (13) alguém rola
+2761800 2762740 (13) dois dados pelo grupo
+2762740 2765160 (13) seis e dois
+2765160 2766300 (13) um acerto simples
+2766300 2767140 (13) é
+2767140 2768360 (13) muita coisa sumiu
+2768360 2769340 (13) o que sobrou
+2769340 2770900 (13) são projetos teus
+2770900 2772360 (13) olha só
+2772360 2773520 (13, 00) cara
+2773520 2774320 (13, 00) tem construções ali
+2774320 2774640 (13) que foram
+2774640 2775260 (13) acho que
+2775260 2776580 (13) lembra que
+2776580 2777200 (13) ou que ao menos
+2777200 2779220 (13) parece ter o teu estilo né
+2779220 2780040 (13) ou que tu viu lá
+2780040 2781240 (13) nos papéis que a Emma trouxe
+2781240 2782280 (13) estão preservados
+2782280 2783480 (13) a gente reconhece também
+2783480 2784740 (13) que são trabalhos dele
+2784740 2786040 (13) alguns talvez assim
+2786040 2787040 (13) mas a certeza mesmo
+2787040 2787680 (13) só o
+2787680 2788260 (13) jogo que tu tem
+2788260 2789300 (13, 08) eu colo a cara assim
+2789300 2789940 (08) no vidro do carro
+2789940 2790560 (08) e falo
+2790560 2791380 (08) papai
+2791380 2793180 (08) o que que você fez com o mundo
+2793180 2793680 (08, 02) eu não
+2793680 2794880 (02) filha
+2794880 2796300 (02) isso
+2796300 2797700 (02) não foi
+2797700 2798500 (02) não fui eu
+2798500 2799280 (02) é
+2799280 2800480 (02) eu vou
+2800480 2800780 (02) eu vou
+2800780 2801420 (02) com o carro
+2801420 2802580 (02) pra delegacia
+2802580 2803660 (02) mas eu não sei se
+2803660 2804680 (02) eu não sei se eu fui
+2804680 2805560 (02) responsável né
+2805560 2805900 (12, 02) pelo prédio
+2805900 2806420 (12, 02) a delegacia
+2806420 2807880 (12, 02) tem um buraco
+2807880 2809820 (07, 12, 02) e o Bob não tá lá também
+2809820 2810480 (12) a gente já sabia
+2810480 2810900 (07, 12) não
+2810900 2811780 (07, 12) tem pessoas
+2811780 2812680 (12) na rua
+2812680 2813740 (12) não há pessoas na rua
+2813740 2814920 (12) nem animais
+2814920 2815740 (12) passarinhos
+2815740 2816880 (12) cachorros
+2816880 2817260 (12) nada
+2817680 2818320 (12) nada
+2818320 2819320 (12, 02) nossa
+2819320 2820800 (02) dentre os projetos
+2820800 2821620 (02) que eu reconheci
+2821620 2822100 (02) aliás
+2822100 2823700 (02) dos que eu não reconheci
+2823700 2824260 (02) que tinha
+2824260 2825580 (02) o meu traço
+2825580 2827040 (02) eu consigo ver algum
+2827040 2827940 (02) que me chama atenção
+2827940 2829840 (13, 02) tem uma praça central
+2829840 2831480 (13) tem a prefeitura
+2831480 2832560 (13) mais alguma coisa
+2832560 2833180 (13) que tu achar
+2833180 2833580 (13) assim
+2833580 2834420 (13) digno de nota
+2834420 2835720 (13) pode incluir aqui
+2835720 2836800 (13) de cabeça
+2836800 2838100 (13, 02) eu vou com o carro
+2838100 2839020 (02) e dou uma volta ali
+2839020 2840160 (02) pra ver na praça
+2840160 2841540 (02) e no prédio da prefeitura
+2841540 2842680 (02) só por desencargo
+2842680 2843500 (02) de consciência
+2843500 2844320 (02) rola dois dados
+2844320 2846300 (02) eu tirei
+2846300 2846720 (02) três
+2846720 2847400 (02) e dois
+2847400 2847660 (02) eu tiro
+2847680 2848140 (02) sendo três
+2848140 2848780 (02) o meu atributo
+2848780 2850280 (13) um pedaço
+2850280 2851180 (13) da calçada
+2851180 2851960 (13) cai junto
+2851960 2853040 (13) com a estrada
+2853040 2854280 (13) do infinito
+2854280 2854840 (13) e a estrada
+2854840 2855480 (13) que fica um pouco
+2855480 2856280 (13) mais estreita
+2856280 2857480 (13, 14, 02) mas tu puxa o carro
+2857480 2857840 (13) a tempo
+2857840 2859480 (13, 02) a praça tá vazia
+2859480 2861060 (13, 02) e a prefeitura também
+2861060 2862100 (13, 02) segura aí gente
+2862100 2863020 (02) e aí ele dá um
+2863020 2864280 (02) canto um pneu
+2864280 2865220 (02) que ele vai voltar
+2865220 2866180 (02) caramba
+2866180 2867080 (02) vai voltar
+2867080 2867900 (02) vamos pro outro lado
+2867900 2869220 (12, 02) não tem nada aqui
+2869220 2869920 (12) não tem ninguém
+2869920 2870840 (12) esses prédios
+2870840 2871840 (12) que existem ainda
+2871840 2872800 (12) a gente reconhece
+2872800 2873780 (12) como sendo da cidade
+2873780 2874320 (12) que a gente
+2874320 2875780 (12) de fato mora
+2875780 2876040 (12) assim
+2876040 2877160 (12) vagamente
+2877160 2878800 (12) tem muita coisa nova
+2878800 2880980 (12) eu sei o nome
+2880980 2882380 (12) eu quero tentar lembrar
+2882380 2883400 (12) o nome da minha cidade
+2883400 2884400 (12) tu não sabe o nome
+2884400 2884920 (12) da tua cidade
+2884920 2886080 (12) nossa eu falo isso
+2886080 2886620 (12) pra eles
+2886620 2888520 (12) vocês lembram
+2888520 2890160 (12) o nome da cidade
+2890160 2891220 (12) eu não lembro
+2891220 2892740 (12) essa cidade
+2892740 2893500 (12) que nós estamos
+2893500 2894620 (12) ela está diferente
+2894620 2895880 (12) e eu não lembro o nome
+2895880 2896700 (08, 12) claro que a gente
+2896700 2898340 (08) sabe o nome da cidade
+2898340 2899440 (08, 12) a gente morou
+2899440 2900560 (08) aqui a vida inteira
+2900560 2902360 (08) a nossa cidade é
+2902360 2904280 (08) é
+2904280 2905480 (08) e ela fica
+2905480 2906700 (08) tentando lembrar
+2906700 2907140 (08) isso
+2907160 2908340 (08) bate o desespero
+2908340 2908600 (08) tipo
+2908600 2909060 (08) meu deus
+2909060 2909580 (08) eu não lembro
+2909580 2910400 (08) o nome da minha cidade
+2910400 2911240 (08, 12) tá vendo
+2911240 2912400 (12) pois é
+2912400 2913760 (12) ninguém lembra
+2913760 2914720 (08, 12) vamos pra prefeitura
+2914720 2915440 (12) deve ter informações
+2915440 2916680 (12) da cidade pelo menos
+2916680 2917640 (12) dá pra ir
+2917640 2918760 (13, 12) dá pra ir eu acho
+2918760 2919380 (13, 12) dá
+2919380 2920100 (13, 12) dá pra falar
+2920100 2921460 (13) na escadaria na frente
+2921460 2922900 (13) a prefeitura ainda
+2922900 2923560 (13) tá inteira
+2923560 2924060 (13, 02) então
+2924060 2925380 (02) tem que ser bem rápido
+2925380 2926420 (02) porque você viu né
+2926420 2928040 (02) o chão tá desabando
+2928040 2928420 (02) sim
+2928420 2930260 (02) o mike sabe dirigir já
+2930260 2930960 (02) não sabe mike
+2930960 2932180 (02) 16 anos eu sei
+2932180 2932580 (02) vixi
+2932580 2933080 (02) sei muito
+2933080 2933360 (02) então
+2933360 2934920 (02) ele para o carro
+2934920 2936020 (02) do lado do prédio
+2936020 2936680 (02) da prefeitura
+2937160 2938100 (02) vira muito sério
+2938100 2938580 (02) pro mike
+2938580 2939280 (02) e fala assim
+2939280 2940460 (02) eu vou lá dentro
+2940460 2941820 (02) ver se tem alguma coisa estranha
+2941820 2943140 (02) você fica aqui
+2943140 2944740 (02) e se alguma coisa acontecer
+2944740 2946260 (02) você vai embora com o carro
+2946260 2947300 (07, 12, 02) não espere
+2947300 2948260 (12, 02) a gente tem que ir junto
+2948260 2950160 (12) a gente não pode se separar
+2950160 2950560 (12) filho
+2950560 2951820 (12) você tem que cuidar
+2951820 2952360 (12) da sua irmã
+2952360 2953660 (12) eu olho pra ema
+2953660 2954000 (12) assim
+2954000 2954700 (12) tudo bem
+2954700 2955420 (12) você que sabe
+2955420 2955920 (12) mas
+2955920 2956620 (12) é rápido
+2956620 2957520 (12) se você gritar
+2957520 2959400 (12) eu posso te alcançar
+2959400 2959920 (12) é
+2959920 2961260 (12, 02) fica de prontidão com o carro
+2961260 2962000 (02) é a melhor coisa
+2962000 2962740 (02) eu só vou olhar
+2962740 2963560 (02) e volto
+2963560 2963940 (02) tá bom
+2963940 2965360 (02) e ele já vai abrindo a porta
+2965360 2967040 (02) ele só quer guacha
+2967040 2968580 (02) olhar dentro da prefeitura
+2968580 2969360 (02) se ele vê algo
+2969360 2970100 (02) estranho
+2970100 2970420 (02) porque né
+2970420 2971500 (02) tudo tá estranho
+2971500 2971880 (02) mas
+2971880 2972580 (02) sei lá
+2972580 2973700 (13, 02) a prefeitura
+2973700 2975840 (13) não há pessoas lá dentro
+2975840 2976160 (13) né
+2976160 2977300 (13) mas tem um balcão
+2977300 2978200 (13) de informação
+2978200 2980140 (13) tem as cadeiras
+2980140 2980920 (13) pro pessoal esperar
+2980920 2981980 (13) e parece que tem
+2981980 2982720 (13) tem as portas
+2982720 2983660 (13, 12) pra ir pra outros lugares
+2983660 2984000 (12) ali
+2984000 2985240 (12) na fachada do prédio
+2985240 2985580 (12) tem
+2985580 2986520 (12) prefeitura
+2986520 2988120 (12) só tá escrito prefeitura
+2988120 2988660 (12) prefeitura
+2988660 2989340 (12) imagina
+2989340 2993040 (12, 02) eu vou olhar no balcão
+2993040 2994260 (02) se eu vejo algum documento
+2994260 2995140 (02) ou bilhete
+2995140 2995900 (02) ou alguma coisa
+2995900 2996660 (13, 02) chama atenção
+2996660 2996960 (13) na palha
+2996960 2997020 (13) de um prédio
+2997020 2997600 (13) eu vejo uma foto
+2997600 2999380 (13) daquela mulher oriental
+2999380 3000340 (13) bem vestida
+3000340 3000980 (13) olha aí
+3000980 3001840 (13) eu pego a foto
+3001840 3002880 (13, 02) e olho com mais atenção
+3002880 3004160 (13, 02) ela é claramente
+3004160 3005320 (13) a foto da prefeita
+3005320 3006000 (13, 02) ah
+3006000 3007340 (02) ela é a prefeita
+3007340 3008380 (02) eu tô com medo
+3008380 3009700 (02) de correr pro gabinete
+3009700 3010760 (02) e o bagulho
+3010760 3012040 (13, 02) desabar inteiro aí
+3012040 3013400 (02) mas já que eu tô aí
+3013400 3014540 (02) eu vou correr pro gabinete
+3014540 3015040 (02) eu vou dar uma olhada
+3015040 3015460 (02) no gabinete
+3015460 3016280 (02) eu confio no Mike
+3016280 3017340 (13, 02) tu vai até o gabinete
+3017340 3018680 (13) as crianças no carro
+3018680 3019300 (13, 12) tão fazendo o que?
+3019340 3019660 (13, 12) eu tô
+3019660 3020500 (12) eu pulei pro
+3020500 3022900 (12) banco do motorista
+3022900 3023440 (12) e
+3023440 3024920 (07, 12) eu tô até com o carro ligado
+3024920 3025540 (12) mas assim
+3025540 3025980 (12) eu tô
+3025980 3026940 (12) gasto
+3026940 3027720 (12) carrei firme
+3027720 3028760 (12) na direção
+3028760 3029300 (12) e tô assim
+3029300 3029760 (12) tenso
+3029760 3031260 (12) olhando pra porta
+3031260 3031640 (12) do prédio
+3031640 3032260 (12) pra ver se o pai
+3032260 3032840 (12) sai de lá
+3032840 3033180 (08, 12) então
+3033180 3033840 (08) quando eu vejo
+3033840 3034940 (08) que o Joseph
+3034940 3036560 (08) já entrou na prefeitura
+3036560 3038280 (08) eu abro o porto do carro
+3038280 3039020 (08) e corro
+3039020 3039780 (08) sem falo
+3039780 3040700 (08) espera aí
+3040700 3041240 (08) Mike
+3041240 3042640 (08) meu Deus
+3042640 3043520 (13, 08, 00) e aí eu corro
+3043520 3044320 (13, 08) atrás do
+3044320 3045800 (08) do Joseph
+3045800 3047080 (08, 12) que eu não vou ficar ali
+3047080 3047440 (08) esperando
+3047440 3049260 (08, 12) a Emma foi na prefeitura
+3049260 3049760 (13, 12) atrás do seu pai
+3049760 3051040 (12) eu vou correr atrás dela
+3051040 3052400 (12) não vou deixar ela sozinha
+3052400 3054460 (13, 08, 12) desliga o carro
+3054460 3055880 (13, 12) e vou correr
+3055880 3056660 (13, 12) vai levar a chave
+3056660 3056840 (13) contigo
+3056940 3057580 (13, 12) vou levar
+3057580 3058420 (13, 12) e vou levar
+3058420 3059960 (13, 12) aquele martelo
+3059960 3060840 (12) que eu peguei também
+3060840 3061960 (13, 12) e vou lá
+3061960 3063340 (13) Joseph
+3063340 3064120 (13) tu abre assim
+3064120 3065180 (13) o gabinete
+3065180 3066180 (13) tem lembranças
+3066180 3067340 (13) daquele lugar ali
+3067340 3069400 (13) de tu sentado ali
+3069400 3071580 (13) conversando
+3071580 3072460 (13) com aquela mulher
+3072460 3073440 (13) tem lembranças
+3073440 3074180 (13) de beijar
+3074180 3074840 (13) aquela mulher
+3074840 3075600 (13) ali dentro
+3075600 3076880 (13) tu começa
+3076880 3077460 (13) a ter alguns
+3077460 3078180 (13) flashbacks
+3078180 3078560 (13) algumas
+3078560 3080360 (13) lembranças
+3080360 3081380 (13) do que tá acontecendo
+3081380 3082800 (13) e tu é interrompido
+3082800 3084060 (13) com a Emma
+3084060 3084680 (13) gritando
+3084680 3086040 (13) entrando na prefeitura
+3086040 3086820 (13, 02) garota
+3086820 3086920 (02) eu vou levar
+3086940 3088280 (02) eu não disse
+3088280 3089420 (02) pra você ficar no carro
+3089420 3090480 (02) e ele dar um abraço nela
+3090480 3091860 (13, 02) chega o Mike
+3091860 3093240 (13, 12, 02) ela escapou
+3093240 3094900 (12, 02) eu tive que vir também
+3094900 3096080 (08) ai você não vai ficar
+3096080 3097240 (08) ai ela saiu de pau frio
+3097240 3097400 (08) né
+3097400 3098120 (08) que ela saiu correndo
+3098120 3099160 (08) então você não vai ficar
+3099160 3100400 (08) procurando coisas
+3100400 3101760 (08) ai sozinho
+3101760 3102540 (08) três cabeças
+3102540 3103680 (08) pensando melhor que uma
+3103680 3105180 (08, 02) eu tenho que concordar pai
+3105180 3105920 (02) dez minutos
+3105920 3107100 (02) olhem o que der
+3107100 3107580 (02) pra olhar
+3107580 3108660 (12, 02) e a gente sai daqui
+3108660 3109720 (12, 02) essa mulher da foto
+3109720 3110380 (12) da sua mão
+3110380 3111880 (12) é aquela mulher
+3111880 3112980 (12, 02) exato
+3112980 3114300 (02) que a gente não sabe
+3114300 3114720 (02) quem é
+3114720 3116000 (02) mas por algum motivo
+3116000 3116620 (02) tem uma ligação
+3116620 3116820 (02) comigo
+3116820 3117660 (02) em especial
+3117660 3118540 (12, 02) não tem o nome
+3118540 3119480 (12) na foto
+3119480 3121360 (12) ou na mesa
+3121360 3122860 (07, 12) perfeita fulana
+3122860 3123340 (07, 12) não tem
+3123340 3124640 (07, 12, 02) tem que ter uma plaquinha
+3124640 3125380 (12) não é possível
+3125380 3126960 (07, 12, 02) o negócio tá
+3126960 3128640 (12, 02) empenhado
+3128640 3129960 (02) e Raquel
+3129960 3130540 (02) não
+3130540 3131060 (02) eu vou olhar
+3131060 3132500 (12, 02) no cofre
+3132500 3133460 (02) tá fechado
+3133460 3134300 (02) deve ter um cofre
+3134300 3134960 (12, 02) ou alguma coisa assim
+3134960 3135120 (12, 02) ah sim
+3135120 3135780 (12, 02) vamos lá
+3135780 3137400 (12) pelo menos na mesa
+3137400 3138260 (12) tinha que ter um nome
+3138260 3139220 (12) eu imaginei
+3139220 3139800 (12) mas pode
+3139800 3140940 (13, 12, 02) tá só escrito
+3140940 3141900 (12) mesa da prefeita
+3141900 3142660 (13, 12) tudo bem
+3142660 3143020 (13, 12) não
+3143020 3145240 (12) tá ali prefeita quinto
+3145240 3146320 (13, 12) ah prefeito
+3146320 3146500 (13, 12) prefeito
+3146500 3147600 (13, 12) maravilhoso
+3147600 3148460 (12) exatamente
+3148460 3149560 (12) prefeita king
+3149560 3151120 (12) eu casei
+3151120 3151760 (12) e não lembro
+3151760 3152500 (12) da minha esposa
+3152500 3153120 (12, 02) olha aqui
+3153120 3154400 (08, 12, 02) eu olho
+3154400 3154840 (08) e sei que ela
+3154840 3155260 (08) tá aqui
+3155260 3155560 (08) e fala
+3155560 3157040 (08) você casou
+3157040 3158280 (08) de novo
+3158280 3160140 (08) assim com muita indignação
+3160140 3160980 (08, 02) a gente deveria
+3160980 3161880 (02) lembrar disso
+3161880 3163020 (02) é
+3163020 3164460 (02) eu principalmente
+3164460 3165900 (02) deveria lembrar disso
+3165900 3166260 (02) mas
+3166260 3167640 (02) eu não lembro
+3167640 3168180 (02) você não tem
+3168180 3168920 (02) nenhuma lembrança
+3168920 3169620 (02) dela pai
+3169620 3170780 (02) nada
+3170780 3172240 (02) só essas fotos
+3172240 3172920 (02) em que
+3172920 3173260 (02) é
+3173260 3174220 (02) eu não sei
+3174220 3175060 (02) e eu vou olhar
+3175060 3175260 (02) na
+3175260 3175680 (02) na
+3175680 3176240 (02) na
+3206240 3206740 (12) , sei lá
+3206740 3207980 (14, 12) eu acho que não tem
+3207980 3208920 (14) nada pra ver aí
+3208920 3210120 (14) o cofre não tem
+3210120 3210600 (14) né guaxa
+3210600 3211600 (14, 12) não tem um cofrezinho
+3211600 3212020 (14, 12) escondido
+3212020 3212620 (14, 12) não, não tem um cofre
+3212620 3213300 (12) eu preciso
+3213300 3214260 (12) o que a gente poderia
+3214260 3215680 (12) documentos
+3215680 3216280 (12) não tem
+3216280 3217400 (12) existem várias salas
+3217400 3218280 (12) inclusive tem imóveis
+3218280 3218920 (12) dentro tem
+3218920 3219760 (12) estão vazios
+3219760 3221220 (08, 12) tá tudo vazio
+3221220 3222940 (08, 12) eu tenho alguma lembrança
+3222940 3224140 (12) de ter estado aqui antes
+3224140 3225100 (12) igual você falou
+3225100 3225960 (12) que o joseph tinha
+3225960 3226200 (12) né
+3226200 3227160 (12) de ter pego
+3227160 3228440 (12) ela ali e tal
+3228440 3229840 (13, 12) tu tem lembrança
+3229840 3231160 (13) de já ter passado ali
+3231160 3232120 (13) de ter encontrado
+3232120 3233420 (13) com essa mulher ali
+3233420 3234980 (13, 07, 12) então eu falo
+3234980 3235220 (12) poxa
+3235220 3235740 (12) eu tenho uma
+3235740 3236580 (12) vaga lembrança
+3236580 3237460 (12) de ter vindo aqui
+3237460 3238460 (12) de ter falado
+3238460 3239120 (12) com essa mulher
+3239120 3240540 (12, 02) eu não sei meu filho
+3240540 3241360 (12, 02) eu não sei explicar
+3241360 3242380 (12) o que tá acontecendo
+3242380 3243300 (12) eu dou uns tapas
+3243300 3244240 (12) na minha própria cara
+3244240 3244720 (12) assim tipo
+3244720 3245660 (12) eu devo estar dormindo
+3245660 3247120 (12) não é possível
+3247120 3249020 (08, 12) isso aqui é sonho
+3249020 3250700 (13, 08) eu quero beliscar ele
+3250700 3252280 (13, 08) vocês estão lá
+3252280 3253280 (13) no gabinete
+3253280 3253420 (13) né
+3253420 3253740 (13) que é um
+3253740 3254040 (13) seria
+3254040 3256080 (13) nos fundos
+3256080 3257220 (13) dessa prefeitura
+3257220 3258080 (13) o chão
+3258080 3259180 (13) daquela inclinada
+3259180 3259920 (13, 12) ah na hora
+3259920 3260840 (13, 12) que ela me belisca
+3260840 3263460 (13) coincidência ou não
+3263460 3264020 (13) na hora
+3264020 3264480 (13, 12) que ela tem
+3264480 3265460 (13, 12) ai
+3265460 3265720 (12) ai
+3265720 3266300 (12) nossa
+3266300 3267100 (12) vamos embora
+3267100 3267800 (12) vamos pro carro
+3267800 3268240 (12) os dois
+3268240 3268860 (12) rápido agora
+3268860 3269100 (12) vamos
+3269100 3270080 (12) vem Ema
+3270080 3271400 (13, 12) eu pego ela pela mão
+3271400 3272260 (13) rola um dado
+3272260 3273280 (13) a caminho do carro
+3273280 3274840 (13) é físico
+3274840 3276060 (13) é o teu atributo
+3276060 3277020 (13) ou menos
+3277020 3278040 (13) eu queria saber
+3278040 3278920 (13) quanto tirou
+3278920 3279440 (13) o Mike
+3279440 3280460 (13) o Mike tirou 1
+3280460 3281860 (13) quanto tirou o Jô
+3281860 3283180 (13) eu tirei 3
+3283180 3284980 (13) quanto tirou a Ema
+3284980 3285660 (13, 08) eu tirei 4
+3285660 3286400 (13) vocês estão indo
+3286400 3286940 (13) assim
+3286940 3288820 (13) pra sair da prefeitura
+3288820 3290000 (13) ela inclina
+3290000 3291060 (13) mais uma vez
+3291060 3292040 (13) a
+3292040 3293880 (13) cadeiras
+3293880 3294560 (13) e mesas
+3294560 3295440 (13) começam a
+3295440 3297000 (13) a se jogarem
+3297000 3297640 (13) de um lado
+3297640 3298200 (13) pro outro
+3298200 3299920 (13) vocês se abaixam
+3299920 3300320 (13) ali
+3300320 3301620 (13) indo em direção
+3301620 3302200 (13) a porta
+3302200 3303160 (13) o Joseph
+3303160 3304240 (13) é o primeiro
+3304240 3304700 (13) a chegar
+3304700 3306120 (13) na porta
+3306120 3306980 (13) olha pra trás
+3306980 3308240 (13) pra ajudar os filhos
+3308240 3308520 (13) né
+3308520 3310080 (13) quando a
+3310080 3311020 (13) Ema
+3311020 3312360 (13) a mão dela escorrega
+3312360 3313240 (13, 07) da mão do Mike
+3313240 3313920 (13, 07) ai
+3313920 3314680 (13, 07) e ela é atingida
+3314680 3315620 (13, 07) por uma cadeira
+3315620 3316620 (13) ela rola
+3316620 3317760 (13) pro fundo
+3317760 3319360 (13) da prefeitura
+3319360 3320200 (13) que inclina
+3320200 3320720 (13) mais um pouco
+3320720 3321860 (13, 12) eu vou lá pegar ela
+3321860 3322460 (12) não
+3322460 3322960 (13, 12) eu também
+3322960 3323620 (12) eu vou
+3323620 3324980 (12) ela tá escorregando
+3324980 3325840 (12) pra baixo
+3325840 3326560 (13, 12) sim
+3326560 3327140 (13) foi atingida
+3327140 3327900 (13) por uma cadeira
+3327900 3328920 (13, 12) eu vou
+3328920 3330200 (12) deslizar
+3330200 3330960 (12) pra pegar ela
+3330960 3331920 (07, 12) vou tentar
+3331920 3333020 (07, 12) deslizar de pé
+3333020 3333940 (12) sem cair
+3333940 3335580 (12, 02) e eu vou junto
+3335580 3336500 (02) eu vou fazer a mesma coisa
+3336500 3337500 (02) aproveitando
+3337500 3338360 (02) a inclinação
+3338360 3339980 (13, 02) eu calculo ali
+3339980 3340540 (02) onde eu vou parar
+3340540 3341360 (02) em alguma parede
+3341360 3342200 (02) pra descer
+3342200 3342740 (02) e catar ela
+3342740 3343240 (13, 02) ajudar o Mike
+3343240 3343560 (13, 02) beleza
+3343560 3344420 (13) vocês
+3344420 3345440 (13) de trabaixo
+3345440 3346240 (13) todo santo ajuda
+3346240 3347680 (13) vocês chegam
+3347680 3348780 (13) até a Ema
+3348780 3349860 (13) estão de novo
+3349860 3351180 (13) nos fundos
+3351180 3352220 (13) dessa prefeitura
+3352220 3353080 (13) tá cada vez
+3353080 3353980 (13) mais inclinada
+3353980 3354820 (13, 02) ainda dá
+3354820 3355480 (13, 02) pra subir
+3355480 3356400 (13, 12, 02) dá pra
+3356400 3357220 (13, 12) dar a mão
+3357220 3357660 (13, 12) na parede
+3357660 3358000 (13, 12) assim
+3358000 3358800 (13, 12) e puxando
+3358800 3359500 (13, 12) é bem difícil
+3359500 3360840 (13, 12) é bem difícil
+3360840 3361880 (12) escorando na parede
+3361880 3362720 (12) vou tentar
+3362720 3364000 (12) vamos lá
+3364000 3364360 (12) eu
+3364360 3366540 (12) enlaço a Ema
+3366540 3367180 (12) com o meu braço
+3367180 3367520 (12) assim
+3367520 3368900 (12) no braço
+3368900 3369400 (12) que eu tô segurando
+3369400 3370080 (12) o martelo ainda
+3370080 3371840 (12) pra não cagar o martelo
+3371840 3373600 (12) e com a outra mão
+3373600 3374100 (12) vou escorando
+3374100 3374560 (12) pela parede
+3374560 3375140 (12) e eu tô com a mão
+3375140 3376100 (12) nas costas do Mike
+3376100 3377040 (12) um dado
+3377040 3377780 (12) cada um
+3377780 3379760 (12) eu tirei 3
+3379760 3380520 (12) um crítico
+3380520 3381480 (12) na segunda vez
+3381480 3382160 (13, 12) tu tira crítico
+3382160 3382680 (13, 12) exato
+3382680 3383200 (13, 12) caramba
+3383200 3384000 (12) o Joseph tá
+3384000 3384680 (12) dominando
+3384820 3385760 (12) pai né
+3385760 3386700 (12) pai presente
+3386700 3388200 (12) o Mike tirou quanto?
+3388260 3389060 (12) o Mike tirou 5
+3389060 3389600 (12) a Ema?
+3389820 3390760 (08) a Ema tirou 3
+3390760 3391420 (13) ok
+3391420 3392740 (13) que é um atributo grande
+3392740 3394500 (13) o Joseph consegue
+3394500 3395900 (13) segurar a mão do Mike
+3395900 3397640 (13) a Ema tá desmaiada
+3397640 3399480 (13) no colo do Mike
+3399480 3399820 (13) ali
+3399820 3400860 (13) tinha tirado
+3400860 3401900 (13) o seu segundo crítico
+3401900 3402420 (13) que tu tira
+3402420 3403280 (13) consegue
+3403280 3404320 (13) conduzir
+3404320 3404960 (13) teus filhos
+3404960 3405720 (13) até a porta
+3405720 3407080 (13) a tempo de sair
+3407080 3407840 (13) antes da prefeitura
+3407840 3408480 (13) desabar
+3408480 3409820 (13) num espaço infinito
+3409820 3411460 (13) a Ema tá desacordada
+3411460 3413120 (13) o Mike tá bem mascado
+3413120 3414120 (13) tá sangrando assim
+3414120 3414760 (13) da terra
+3414820 3415500 (13) na testa dele
+3415500 3416900 (13) e vocês estão ali
+3416900 3417320 (13) Mike
+3417320 3419080 (13, 07, 02) você tá bem?
+3419340 3419880 (07, 02) eu tô bem
+3419880 3420840 (07, 02) ele olha assim na testa
+3420840 3421300 (02) eu tô bem
+3421300 3421800 (02) você tá
+3421800 3423200 (12, 02) consciente meu filho
+3423200 3423580 (12) não tá?
+3424020 3424640 (12) a Ema
+3424640 3425680 (12) a Ema tá desacordada
+3425680 3426720 (12) mas eu tô bem
+3426720 3427720 (12) eu vou ficar legal
+3427720 3428900 (12) eu já apanhei mais
+3428900 3430400 (12) nos jogos de futebol americano
+3430400 3431560 (02) é
+3431560 3432420 (02) Ema
+3432420 3433380 (02) minha querida
+3433380 3434400 (02) ele tá passando a mão
+3434400 3435080 (02) assim no rosto dela
+3435080 3436000 (02) filha acorda
+3436000 3436840 (02) filha por favor
+3436840 3437660 (02) filha
+3437660 3438600 (13, 02) ela parece que vai ficar
+3438600 3439820 (13) desacordada um pouquinho
+3439820 3441360 (13) foram muitas falhas
+3441360 3441580 (13) né
+3441580 3442960 (13) alguma penalidade extra
+3442960 3443800 (13) tem que acontecer
+3443800 3444760 (13) você olha pro cara
+3444820 3445560 (13) e o carro
+3445560 3446240 (13) cai no espaço
+3446240 3448880 (13, 02) nossa
+3448880 3451400 (02) mas o caminho ainda tá lá
+3451400 3452120 (02) ainda dá pra gente
+3452120 3453000 (13, 02) ainda
+3453000 3454080 (13, 02) assim
+3454080 3455260 (13) a grande parte da estrada
+3455260 3456400 (13) ainda tá preservada
+3456400 3457200 (13, 02) certo
+3457200 3458080 (02) o Joseph
+3458080 3459440 (02) pega a Ema no colo
+3459440 3460080 (02) e ele fala
+3460080 3460640 (02) Mike vem
+3460640 3461680 (02) vamos rápido
+3461680 3462640 (02) vamos vamos
+3462640 3463340 (12, 02) tô atrás de você
+3463340 3464360 (12, 02) ele tenta sair daquela área ali
+3464360 3465200 (02) do prédio né
+3465200 3465400 (02) pra
+3465400 3466600 (02) sei lá
+3466600 3467280 (02) vai desabar
+3467280 3468740 (02) vai pra estrada de novo
+3468740 3469780 (13) certo
+3469780 3470820 (13) vocês estão na estrada
+3470820 3471740 (13, 12) vamos correndo
+3471740 3473100 (12) só não sei pra onde
+3473100 3474140 (13, 12) essa é a pergunta
+3474140 3474800 (13, 12) vamos
+3474820 3476340 (02) é cara
+3476340 3477840 (02) vamos voltar pelo caminho
+3477840 3479340 (02) não sei se é
+3479340 3480360 (02) tomara que a gente não tenha
+3480360 3481620 (02) ido muito longe
+3481620 3482320 (02) com o carro né
+3482320 3484240 (02) o Joseph vai botar ela
+3484240 3485240 (02) nas costas assim
+3485240 3486100 (02) como uma mochilinha
+3486100 3486440 (02) sabe
+3486440 3488000 (02) segurando as pernas dela
+3488000 3488700 (02) assim com os braços
+3488700 3489400 (02) por cima dos ombros
+3489400 3490740 (02) e vamos andando
+3490740 3491680 (02) de volta pra casa
+3491680 3492980 (02) andando rápido né
+3492980 3493960 (02) isso
+3493960 3495060 (14, 12, 02) em marcha
+3495060 3495880 (14, 12, 02) em marcha rápido
+3495880 3496440 (12) com pressa
+3496440 3497040 (12) exatamente
+3497040 3498720 (13, 12) quem tá carregando
+3498720 3499600 (13) a Ema
+3499600 3500920 (13, 14, 02) eu tô carregando a Ema
+3500920 3501760 (13, 12, 02) eu entreguei pro Joseph
+3501760 3502600 (02) o Mike tá
+3502600 3503820 (13, 02) machucado
+3503820 3504700 (13, 02) vocês estão
+3504700 3504800 (13) com a Ema
+3504820 3505900 (13) andando ali
+3505900 3506960 (13) pela estrada
+3506960 3508000 (13) pra voltar pra casa
+3508000 3508680 (13) essa é a ideia
+3508680 3509500 (13) ou não
+3509500 3510300 (13) aleatoriamente
+3510300 3511400 (13, 02) é eu acho que a ideia
+3511400 3512260 (02) era porque assim
+3512260 3513600 (02) se tá tudo caindo
+3513600 3514720 (02) é
+3514720 3515600 (02) ou a gente tem
+3515600 3516480 (02) volta pra casa
+3516480 3518020 (02) ou tem o outro lado
+3518020 3518420 (02) da estrada
+3518420 3519280 (12, 02) que a gente não foi né
+3519280 3520380 (12, 02) tem aquela praça
+3520380 3521360 (12) é tem o outro lado
+3521360 3521720 (12) da estrada
+3521720 3522180 (12) boa ideia
+3522180 3522560 (12, 02) é
+3522560 3523140 (02) porque a gente veio
+3523140 3523700 (02) por um lado
+3523700 3524660 (02) mas tem o outro lado
+3524660 3525120 (02) da estrada
+3525120 3526340 (02) então vamos pra casa
+3526340 3526960 (02) e lá a gente vê
+3526960 3527580 (02) tá
+3527580 3528920 (12, 02) se ela tiver lá
+3528920 3529520 (12, 02) a gente podia
+3529520 3530680 (12) em casa
+3530680 3531980 (12) tentar ligar a televisão
+3531980 3532980 (12) pra ver se tem alguma coisa
+3532980 3533180 (12) né
+3533180 3534240 (12) falando um rádio
+3534240 3535280 (14, 12) não sei
+3535280 3536240 (14, 12) eu acho que não tem rádio
+3536240 3537200 (12) nesse futuro
+3537200 3538240 (14, 12) mas pelo menos
+3538240 3539340 (14, 12) procurar coisa no porão
+3539340 3539960 (14) também né
+3539960 3541100 (14) ou no sótão
+3541100 3541980 (14, 12) é nem lembrei
+3541980 3543180 (14, 12) um kit de primeiro socorro
+3543180 3544360 (13, 14, 12) eu lembrei de porão
+3544360 3546840 (13, 14, 12) vocês estão ali
+3546840 3547380 (13) conversando
+3547380 3548000 (13) sobre o que fazer
+3548000 3548660 (13) mas voltando
+3548660 3549620 (13) em direção a casa
+3549620 3551060 (13) passam perto
+3551060 3552080 (13) da praça
+3552080 3553600 (13) e da praça
+3553600 3554520 (13) saiu um homem
+3554520 3557140 (13) o braço direito dele
+3557140 3557920 (13) é muito comprido
+3557920 3559000 (13) e tá arrastando no chão
+3559000 3560520 (13) o rosto dele
+3560520 3560860 (13) assim
+3560860 3562400 (13) tá aberto
+3562400 3562960 (13) como na
+3562960 3564120 (13) naquela pintura
+3564120 3565300 (13) do grito
+3565300 3565560 (13) assim
+3565560 3566020 (13) ele tem
+3566020 3568160 (13) a pele dele
+3568160 3569520 (13) é esquisita
+3569520 3570420 (13) os olhos
+3570420 3572420 (13) são vazios
+3572420 3572700 (13) assim
+3572700 3573520 (13) que não conseguem ver
+3573520 3574480 (13) o globo ocular
+3574480 3575700 (13) ele tá arrastando
+3575700 3576320 (13) aquela mão
+3576320 3577560 (13) uma das mãos
+3577560 3578480 (13) a outra ele estende
+3578480 3579100 (13) pra vocês
+3579100 3580340 (13) e ele vai meio que
+3580340 3581420 (13) mancando na direção
+3581420 3582000 (13, 12) de vocês
+3582000 3583060 (12) ah se afasta
+3583060 3583960 (12) se afasta
+3583960 3585020 (13, 12) eu aponto
+3585020 3586060 (12) o martelo
+3586060 3586420 (12) pra ele
+3586420 3587220 (12) ameaçadoramente
+3587220 3588260 (13, 12) ele não parece
+3588260 3588720 (13) que vai parar
+3588720 3589040 (13) corre
+3589040 3590020 (13) vamos embora daqui
+3590020 3590680 (13) vamos vamos
+3590680 3591620 (13) tô correndo também
+3591620 3592880 (13) ele tá só mancando
+3592880 3593320 (13) ele não
+3593320 3593660 (13) ele
+3594120 3594980 (13) tá atrás de vocês
+3594980 3596680 (13) mas ele é muito lento
+3596680 3598140 (13) pra alcançá-los né
+3598140 3598940 (13) aham
+3598940 3599660 (13, 02) não eu quero
+3599660 3601180 (13, 14, 02) eu estive longe dessa coisa
+3601180 3601700 (02) ele não
+3601700 3602760 (02) ele não parece
+3602760 3603560 (02) ele não tem mais ninguém
+3603560 3604180 (02) com ele não né
+3604180 3605340 (02) só tá ele na praça
+3605340 3606900 (02) não vejo ninguém morto
+3606900 3607820 (02) nem nada do tipo né
+3607820 3608400 (12, 02) não
+3608400 3609300 (02) vamos correr
+3609300 3609980 (02) vambora gente
+3609980 3610320 (12, 02) correr
+3610320 3611220 (12) vamos pra casa
+3611220 3611760 (12) vamos tentar
+3611760 3612860 (12) ligar algum meio
+3612860 3613460 (12) de comunicação
+3613460 3614180 (12, 02) é
+3614180 3614840 (02) eu ia
+3614840 3616020 (02) eu ia perguntar guaxa
+3616020 3616500 (02) é
+3616500 3617780 (02) você falou que não tem sol
+3617780 3618460 (02) nem lua né
+3618460 3619160 (02) nem nada do tipo
+3619160 3621320 (02) mas o céu está escurecendo
+3621320 3622260 (02) como se por exemplo assim
+3622260 3623380 (02) está chegando próximo
+3623380 3623980 (02) da hora do jantarão
+3624120 3624400 (02) tá
+3624400 3625580 (13, 02) tá ficando meio laranja
+3625580 3626700 (02) o céu
+3626700 3627760 (02) no caminho eu vou falando
+3627760 3628460 (02) viu com a ema
+3628460 3629880 (02) tentando acordar ela e tal
+3629880 3631000 (13, 02) vocês andam ali
+3631000 3632620 (13) pelo menos uns 40 minutos
+3632620 3633740 (13) a ema acaba
+3633740 3635500 (13) eventualmente acordando
+3635500 3636560 (13) assim bem machucada
+3636560 3637020 (13) é
+3637020 3638100 (13) quando vocês estão quase
+3638100 3638780 (13) vocês estão vendo
+3638780 3639920 (13) a casa de vocês né
+3639920 3641080 (13) a estrada
+3641080 3641660 (13) que antes era
+3641660 3642440 (13) uma estrada
+3642440 3643440 (13) pra gente ir pra dois carros
+3643440 3644340 (13) um indo e um voltando
+3644340 3645260 (13) ela
+3645260 3646740 (13) passa ali
+3646740 3647420 (13) mal e mal
+3647420 3648700 (13) uma pessoa
+3648700 3649800 (13, 02) nossa
+3649800 3650360 (13, 02) caramba
+3650360 3651760 (13, 02) pro outro caminho
+3651760 3652500 (02) no caso né
+3652500 3653320 (02) mas não pra casa
+3653320 3654100 (02) a casa ainda dá pra ir
+3654100 3654340 (02) entrar
+3654340 3655120 (13, 02) a casa
+3655120 3656320 (13) a casa de vocês
+3656320 3657300 (13) é o único
+3657300 3658620 (13) que o terreno na frente
+3658620 3659880 (13) está preservado
+3659880 3660240 (13, 12, 02) é isso
+3660240 3660860 (13, 02) porém sem
+3660860 3662520 (13, 12, 02) sem grama
+3662520 3663760 (02) sem grama
+3663760 3665060 (02) é o único local seguro
+3665060 3665420 (12, 02) filho
+3665420 3666600 (12, 02) eu tô preocupado com a ema
+3666600 3667720 (12) se eu vejo ela acordando
+3667720 3668020 (12) eu falo
+3668020 3669180 (12) ema você tá bem
+3669180 3670300 (12) fala comigo
+3670300 3671700 (08, 12) mãe mais ou menos
+3671700 3672480 (08) eu tô
+3672480 3673460 (08) tô com dor
+3673460 3674620 (08, 12) você consegue andar
+3674620 3676180 (08, 12) eu acho que eu consigo
+3676180 3677840 (08) aí eu tento me desvencilhar
+3677840 3678300 (08) assim do
+3678300 3679220 (08) do meu pai
+3679220 3679740 (08, 02) calma
+3679740 3680100 (02) mas
+3680100 3680880 (02) fica
+3680880 3682320 (02) não faz esforço
+3682320 3682700 (02) querida
+3682700 3684080 (02) você vai tentar
+3684100 3684520 (02) puxar
+3684520 3684720 (02) é
+3684720 3685240 (02) ele vai tentar
+3685240 3686180 (02) ajudando ela né
+3686180 3687000 (02) vai assim
+3687000 3687740 (02) escorando ela
+3687740 3688360 (02) pra ela não
+3688360 3689320 (02) cair
+3689320 3690080 (02) se ela tiver
+3690080 3691020 (12, 02) e bora pra casa
+3691020 3691740 (12) bora pra casa
+3691740 3692200 (12) isso
+3692200 3693660 (12) eu quero ver as cadeiras
+3693660 3694260 (12) na cozinha
+3694260 3696220 (12) se todas destruíram
+3696220 3697160 (07, 12) se tem mais alguma coisa
+3697160 3697920 (07, 12) destruída
+3697920 3699480 (12) as cadeiras estão
+3699480 3700680 (12) as quatro cadeiras
+3700680 3701900 (12) inteiras em volta da mesa
+3701900 3702240 (12) eita
+3702240 3703040 (12) mesmo aquela que tinha
+3703040 3703720 (12) destruído antes
+3703720 3704140 (12) tá lá
+3704140 3704980 (12) inteira
+3704980 3706100 (12) tá lá inteira
+3706100 3707100 (13, 12) putz
+3707100 3707800 (13) como se nada
+3707800 3709000 (13) tivesse acontecido
+3709000 3709740 (12) ah eu vou abrir
+3709740 3710500 (12) a porta dos fundos
+3710500 3711200 (12) pra ver se eu continuo
+3711200 3711860 (12) vendo o buraco
+3711860 3713100 (13) continuando vendo o buraco
+3713100 3714080 (12, 02) e eu vou olhar
+3714100 3714620 (02) pela frente
+3714620 3715440 (02) pra ver se o cara
+3715440 3716060 (02) do bração
+3716060 3717240 (02) tá vindo pela estrada
+3717240 3718020 (13, 02) não parece
+3718020 3718380 (13) tá vindo
+3718380 3720060 (13, 12) eu tranco a porta
+3720060 3720660 (12) e agora
+3720660 3721940 (12) o que a gente faz
+3721940 3722400 (12, 02) calma
+3722400 3723040 (12, 02) eu vou ligar a tv
+3723040 3724340 (12) eu vou ligar
+3724340 3725540 (12) vou ligar a tv
+3725540 3726440 (12) o mike já tá
+3726440 3727220 (12) desesperado
+3727220 3727800 (12) já tá
+3727800 3730580 (13, 07, 12) todos os canais
+3730580 3731880 (13, 12) mostram
+3731880 3732660 (13) um espaço
+3732660 3733360 (13) e um
+3733360 3734620 (13) acompanhando
+3734620 3735940 (13) um pontinho luminoso
+3735940 3737060 (13) parece ser tipo
+3737060 3737660 (13) um
+3737660 3739140 (13) um asteroide
+3739140 3739500 (13) um
+3739500 3742000 (13) uma estrela cadente
+3742000 3742600 (13) só que
+3742600 3743800 (13) ao invés de cair
+3743800 3745780 (13) tá subindo
+3745780 3746540 (13) pelo menos
+3746540 3747620 (13, 12) na perspectiva
+3747620 3748340 (12) da televisão
+3748340 3749280 (12) tem um pontinho
+3749280 3750400 (12) no centro subindo
+3750400 3751320 (12) e o resto é estrela
+3751320 3752080 (12) todos os canais
+3752080 3753000 (12) e não tem nenhum barulho
+3753000 3753980 (12) não tem ninguém falando
+3753980 3754520 (12) não tem nada
+3754520 3754860 (07) não
+3754860 3755500 (07, 12) guaxa
+3755500 3756620 (12, 02) eu tive uma ideia
+3756620 3757960 (07, 12, 02) eu vou fazer o seguinte
+3757960 3759100 (02) eu vou pegar
+3759100 3760780 (02) eu vou pegar alguma coisa
+3760780 3761960 (02) de primeiros socorros ali
+3761960 3762820 (02) deixar no sofá
+3762820 3764120 (02) eu vou sentar a ema nele
+3764120 3764780 (13, 02) né no sofá
+3764780 3765820 (13, 02) é o que eu tinha dito
+3765820 3766360 (13) já pro
+3766360 3766960 (13) pro mike
+3766960 3767640 (13) tem a caixinha
+3767640 3768140 (13) de primeiros socorros
+3768140 3768600 (13, 02) tá vazia
+3768600 3769740 (13, 02) ah tá vazia né
+3769740 3770600 (02) tá ok
+3770600 3771540 (02) tudo bem
+3771540 3772520 (02) deixa ela descansando
+3772520 3773500 (02) eu vou pegar
+3773500 3774380 (02) os meus projetos
+3774380 3775280 (02) lá no escritório
+3775280 3776400 (02) se ele ainda estiver lá
+3776400 3778360 (02) e eu quero
+3778360 3779240 (02) agora né
+3779240 3780460 (02) nada mais faz sentido
+3780460 3781100 (02) eu vou pegar
+3781100 3782300 (02) e tentar desenhar
+3782300 3783520 (02) o esboço
+3783520 3784800 (02) de
+3784800 3785940 (02) uma porta
+3785940 3786860 (02) e
+3786860 3787700 (02) colocar ela
+3787700 3788380 (02) por exemplo
+3788380 3789700 (02) desenhar ela
+3789700 3790780 (02) mal e porcamente assim
+3790780 3791980 (02) ou do melhor jeito que puder
+3791980 3793480 (02) ali na frente da casa
+3793480 3794520 (02) e eu vou desenhar uma porta
+3794520 3795720 (02) pra ver se a porta aparece
+3795720 3796600 (02) na frente da casa
+3796600 3797280 (13, 02) enquanto você tá fazendo
+3797280 3797980 (13) essa loucura
+3797980 3799480 (13, 07) a ema
+3799480 3800980 (13, 08, 07, 02) a ema tá fazendo o que
+3800980 3801840 (13) tá no sofá né
+3801840 3802380 (13) ferida
+3802380 3802740 (13, 08) é
+3802740 3803340 (13, 08) mas
+3803500 3804860 (13, 08) , como ele me põe no sofá
+3804860 3806240 (08) e eu vejo a tv né
+3806240 3807180 (08) eu quero saber
+3807180 3808160 (08) eu quero olhar lá pra fora
+3808160 3809660 (08) pra ver se eu vejo esse pontinho
+3809660 3810040 (08) sei lá
+3810040 3810900 (08) vai que é uma transmissão
+3810900 3812560 (13, 08) é, lá fora ainda não tá
+3812560 3813100 (13) assim
+3813100 3815000 (13) embora o chão esteja estrelado
+3815000 3816660 (13) o céu ainda não está
+3816660 3817580 (13) então não
+3817580 3818560 (13, 08) mas, se eu olhar
+3818560 3819440 (13, 08) bem lá pra baixo
+3819440 3821140 (08) eu não vejo um pontinho subir
+3821140 3822200 (08, 12) ah, no buraco
+3822200 3823620 (12) olhando pra baixo no buraco
+3823620 3824360 (12) rola um dado
+3824360 3826520 (08, 12) eu grito
+3826520 3828180 (08, 12) lá vou eu
+3828180 3829820 (08, 07, 12) lá vou eu correndo de novo
+3829820 3831140 (08, 12) o que foi?
+3831300 3831500 (07, 12) o que foi?
+3831600 3832060 (07, 12) um pontinho
+3832060 3832380 (07, 12) cuidado
+3832380 3833460 (08, 07, 12) não vai cair
+3833460 3835800 (12) e aí eu aponto o pontinho
+3835800 3837020 (12) ah, tô vendo
+3837020 3838880 (12) é o mesmo da tv
+3838880 3839460 (12) ué
+3839460 3841100 (12) mas o que é aquilo?
+3841220 3842740 (12) eu consigo ver o que é o pontinho?
+3842980 3843620 (12) se é um
+3843620 3844340 (13, 12) não
+3844340 3845020 (12) aí não
+3845020 3845520 (12) tá
+3845520 3847020 (12) não parece
+3847020 3848340 (12) parece ser uma coisa distante
+3848340 3849880 (12) uma coisa grande distante
+3849880 3850040 (12) é
+3850040 3851120 (12) o joseph
+3851120 3852100 (12) volta
+3852100 3853660 (12) e vê que a porta que ele desenhou
+3853660 3854520 (12) não tá lá na frente
+3854520 3855740 (13, 12) ah, é
+3855740 3856160 (12) ok
+3856160 3857620 (12) meus teorias estavam erradas
+3857620 3858840 (12) tá certo
+3858840 3860080 (12) temos que tentar de tudo aqui
+3860080 3861040 (12) ah, o meu celular
+3861040 3861500 (12) que era o único
+3861500 3862820 (12) que não tinha apagado ainda
+3862820 3863360 (12) eu quero tentar de novo
+3863360 3863440 (12) eu quero tentar de novo
+3863440 3864700 (07, 12, 02) eu quero tentar entrar na internet
+3864700 3866800 (12) ver se tem alguma coisa na internet falando
+3866800 3868320 (12) portal de notícias
+3868320 3869620 (13, 12) não, não tem internet
+3869620 3870420 (13, 12) ah
+3870420 3871440 (13) ele tem área pra telefonar
+3872100 3873140 (13) mas ele não tem internet
+3873140 3874220 (13, 02) tá, é
+3874220 3876020 (02) eu vou olhar no sótão, guaxa
+3876020 3876940 (02) eu não lembro
+3876940 3877520 (02) desculpa agora
+3877520 3878420 (02) se é o sótão
+3878420 3879500 (02) é o de baixo ou o de cima
+3879500 3880520 (13, 08, 02) em casa americana
+3880520 3880800 (08, 02) sótão de cima
+3880800 3881460 (08, 02) porão de baixo
+3881460 3882020 (02) isso
+3882020 3883320 (02) vou olhar no sótão
+3883320 3883820 (02) lá de cima
+3883820 3884840 (12, 02) então eu vou olhar no porão
+3884840 3885340 (08, 02) tem, né?
+3885400 3886660 (08) em casa americana de gente rica
+3886660 3888220 (08, 07, 12) é, se tiver eu vou
+3888220 3890080 (13, 12) se a Emma quiser vir
+3890080 3890580 (13, 12) pode vir
+3890580 3891140 (13, 08, 12) eu vou
+3891140 3892100 (08) não fica sozinha aqui não
+3892100 3892940 (13, 08) joseph
+3892940 3893340 (13) tu pode ir lá
+3893340 3895720 (13) tu puxa aquela escadinha pro sótão, né?
+3896180 3898060 (13) lá tá os enfeites de natal
+3898060 3900440 (13) tem um vestido de casamento
+3900440 3902100 (13) num manequim, né?
+3902120 3903540 (13) encostado no canto
+3903540 3905460 (13) tem algumas caixas de brinquedos
+3905460 3908280 (13) de quando teus filhos eram menores, né?
+3908560 3910860 (13) tem um uniforme do exército
+3910860 3912800 (13) que chama, assim, atenção
+3912800 3915240 (13) ele tá dobradinho, guardado ali
+3915240 3917040 (13, 02) videogame antigo
+3917040 3919320 (13) algumas coisas, assim, que foram deixar de lado
+3919320 3920940 (13) algum enfeite de jardim
+3920940 3922760 (13, 07) tá procurando especificamente
+3922760 3923320 (02) cara, eu não sei
+3923340 3924440 (02) caixas de fotos
+3924440 3926200 (02) diários
+3926200 3927600 (02) não tem diário
+3927600 3929200 (02) diário
+3929200 3930140 (13, 02) fala dois dados
+3930140 3933000 (13, 02) eu tirei seis e quatro
+3933000 3937320 (13, 02) tu encontra um diário, assim, com várias páginas arrancadas
+3937320 3938300 (13, 02) caramba
+3938300 3939760 (13, 02) não tem nome nele, né?
+3940080 3941740 (13) não, mas, assim, fala
+3941740 3944960 (13) tem algumas páginas que tu consegue ler
+3944960 3947700 (13, 02) eu vou parar um pouquinho e tento ler
+3947700 3948740 (13, 02) dia um
+3948740 3950700 (13) vou iniciar um novo diário
+3950700 3952680 (13) tentar entender o joseph king
+3952680 3953220 (13) dia dois
+3953220 3953260 (13) dia três
+3953260 3953320 (13) dia quatro
+3953340 3956480 (13) não diria que um gato pudesse espremer por espaços tão apertados
+3956480 3958240 (13, 07) dia sete
+3958240 3960040 (13) passamos algum tempo juntos hoje
+3960040 3962360 (13) fomos ao parque e compartilhamos risadas
+3962360 3964340 (13) enquanto brincavamos na grama
+3964340 3967380 (13) a maneira como o joseph olha para seus filhos é tocante
+3967380 3968560 (13) ele é um pai
+3968560 3970320 (13) delicado e carinhoso
+3970320 3972360 (13) isso só aumenta minha admiração por ele
+3972360 3973940 (13) dia vinte e três
+3973940 3975940 (13) hoje aconteceu algo inesperado
+3975940 3978560 (13) joseph quis me acompanhar até em casa
+3978560 3980420 (13) após um jantar agradável
+3980420 3982560 (13) mas eu convenci que o certo era eu levá-lo
+3982560 3983320 (13) e foi o que aconteceu
+3983340 3985340 (13) ao final da noite enquanto nos despedíamos
+3985340 3987340 (13) nossos olhares se encontraram
+3987340 3989340 (13) e antes que percebêssemos nossos lábios se tocaram
+3989340 3991340 (13) e um beijo apaixonado
+3991340 3993340 (13) aquele momento selou algo especial entre nós
+3993340 3995340 (13) sinto-me flutuando nas nuvens
+3995340 3997340 (13) dia sessenta
+3997340 3999340 (13) os dias têm sido maravilhosos
+3999340 4001340 (13) estou mais integrado à família a cada dia que passa
+4001340 4003340 (13) hoje o joseph e eu organizamos uma tarde de jogos em família
+4003340 4005340 (13) foi uma diversão pura e genuína
+4005340 4007340 (13) ver o sorriso no rosto do michael enquanto vencia as partidas
+4007340 4009340 (13) foi uma diversão pura e genuína
+4009340 4011340 (13) ver o sorriso no rosto do michael enquanto vencia as partidas
+4011340 4013340 (13) ver o sorriso no rosto do michael enquanto vencia as partidas
+4013340 4015340 (13) e a risada contagiante de emma
+4015340 4017340 (13) quando sua vez chegava
+4017340 4019340 (13) aquece meu coração
+4019340 4021340 (13) não consigo deixar de me perguntar se estou agindo corretamente
+4021340 4023340 (13) não consigo deixar de me perguntar se estou agindo corretamente
+4023340 4025340 (13) mas a felicidade que compartilhamos é indescritível
+4025340 4027340 (13) mas a felicidade que compartilhamos é indescritível
+4027340 4029340 (13) dia setecentos e oitenta e cinco
+4029340 4031340 (13) hoje é um dia especial para michael
+4031340 4033340 (13, 07) ele se formou foi uma cerimônia cheia de emoção e orgulho
+4033340 4035340 (13, 07) ele se formou foi uma cerimônia cheia de emoção e orgulho
+4035340 4037340 (13) ver seu rosto radiante segurando o diploma em suas mãos
+4037340 4039340 (13) foi um momento que ficará marcado na minha memória para sempre
+4039340 4041340 (13) foi um momento que ficará marcado na minha memória para sempre
+4041340 4043340 (13) o fazer parte dessa família e poder compartilhar momentos como esse
+4043340 4045340 (13) o fazer parte dessa família e poder compartilhar momentos como esse
+4045340 4047340 (13) é um lembrete de que apesar das minhas dúvidas
+4047340 4049340 (13) estamos construindo memórias preciosas juntos
+4049340 4051340 (13) estamos construindo memórias preciosas juntos
+4051340 4053340 (13) não tenho dia
+4053340 4055340 (13) as vezes me pego questionando se minhas ações são corretas
+4055340 4057340 (13) será que minha presença é benéfica para a família de joseph?
+4057340 4059340 (13) será que sou capaz de proporcionar o amor e o apoio que eles merecem?
+4059340 4061340 (13) será que sou capaz de proporcionar o amor e o apoio que eles merecem?
+4061340 4063340 (13) essas perguntas me atormentam
+4063340 4065340 (13) mas no fundo sei
+4065340 4067340 (13) meu amor por joseph e seus filhos é genuíno
+4067340 4069340 (13) farei de tudo para tornar suas vidas melhores
+4069340 4071340 (13) farei de tudo para tornar suas vidas melhores
+4071340 4073340 (13) não há obstáculos inesperados
+4073340 4075340 (13) outro dia sem marcação
+4075340 4077340 (13) hoje algo me entristeceu
+4077340 4079340 (13) emma me chamou de cecil
+4079340 4081340 (13) foi um lembrete doloroso de que ela tem uma mãe ausente em sua vida
+4081340 4083340 (13) foi um lembrete doloroso de que ela tem uma mãe ausente em sua vida
+4083340 4085340 (13) alguém que ela chama de cecil
+4085340 4087340 (13) tentei disfarçar minha dor
+4087340 4089340 (13) mas a sensação de não ser reconhecida como pacto integral da família
+4089340 4091340 (13) mas a sensação de não ser reconhecida como pacto integral da família
+4091340 4093340 (13) doeu profundamente
+4093340 4095340 (13) ainda assim sei que devo continuar lutando
+4095340 4097340 (13) para oferecer-lhes tudo o que sou capaz
+4097340 4099340 (13) dia 2000
+4099340 4101340 (13) hoje é um dia crucial
+4101340 4103340 (13) um momento de confrontar a verdade
+4103340 4105340 (13) enfrentar a realidade de nossa existência
+4105340 4107340 (13) preciso ir até a prefeitura
+4107340 4109340 (13) onde acredito que encontrarei as respostas
+4109340 4111340 (13) para minhas perguntas mais profundas
+4111340 4113340 (13) o destino dessa família está em minhas mãos
+4113340 4115340 (13) farei o possível para salvá-los
+4115340 4117340 (13) mesmo que isso signifique
+4117340 4119340 (13) desvendar segredos que possam abalar nosso mundo
+4119340 4121340 (13) espero voltar em breve
+4121340 4123340 (13) com soluções que possam mudar tudo para melhor
+4123340 4125340 (13) e dai tem o ultimo
+4125340 4127340 (13) lembrete avisá-los do jantar
+4127340 4129340 (13, 07) nossa
+4129340 4131340 (13, 07) to arrepiado aqui
+4131340 4133340 (13) o joseph está chocado
+4133340 4135340 (13) enquanto isso
+4135340 4137340 (13, 07) passamos um bom tempo lendo
+4137340 4139340 (13) vamos ao porão
+4139340 4141340 (13) tem uma máquina de lavar
+4141340 4143340 (13) tem um aquecedor da casa
+4143340 4145340 (13) tem barraca de um lado
+4145340 4147340 (13) tem uma prancha de surf
+4147340 4149340 (13) que talvez nunca foi usada
+4149340 4151340 (13, 07) mas alguém achou que era uma boa ideia comprar
+4151340 4153340 (13, 07) para o verão
+4153340 4155340 (13) tudo de tranqueira grande foi colocado lá embaixo
+4155340 4157340 (13, 12) estão procurando alguma coisa específica
+4157340 4159340 (12) procurar alguma coisa fora do padrão
+4159340 4161340 (12) é distoando
+4161340 4163340 (12) porque a gente já viu alguns elementos fora do lugar
+4163340 4165340 (12) na casa
+4165340 4167340 (13, 12) aqui se tiver alguma coisa que chame a atenção
+4167340 4169340 (13, 12) chama a atenção a marcação na parede
+4169340 4171340 (13) a parede está arriscada
+4171340 4173340 (13) com a altura da ema
+4173340 4175340 (13) e marca 14 anos
+4175340 4177340 (13) ela é um pouco maior do que ela está agora
+4177340 4179340 (13, 12) nossa
+4179340 4181340 (12) olha só ema
+4181340 4183340 (12) você com 14 anos
+4183340 4185340 (12) você esteve aqui quer dizer vai estar
+4185340 4187340 (08, 12) como assim
+4187340 4189340 (08, 12) essa senhora para ver quanto é que eu cresci
+4189340 4191340 (12) não foi muito mas cresceu alguma coisa
+4191340 4193340 (08, 12) ai eu continuo
+4193340 4195340 (08) assim
+4195340 4197340 (12) eu quero procurar se tem alguma
+4197340 4199340 (12) entrada alguma coisa secreta
+4199340 4201340 (12) se algum buraco alguma sei lá
+4201340 4203340 (12) tapete escondendo alguma coisa em baixo
+4203340 4205340 (12) um alçapão quero dar uma mexida
+4205340 4207340 (12) nas coisas tirar caixa de lugar para ver
+4207340 4209340 (12) se tem alguma coisa atrás escondida
+4209340 4211340 (12) rola dois dados
+4211340 4213340 (12) tirei 4 e 4
+4213340 4215340 (12) double critico pega essa
+4215340 4217340 (12) eu nem sei o que dizer
+4217340 4219340 (12) eu também não
+4219340 4221340 (12) o que você estava procurando
+4221340 4223340 (12) eu estou afastando
+4223340 4225340 (12) coisas para ver se
+4225340 4227340 (12) eu encontro um alçapão alguma entrada
+4227340 4229340 (12) secreta alguma coisa escondida
+4229340 4231340 (12) alguma coisa que esteja
+4231340 4233340 (13, 12) muquiada em algum lugar
+4233340 4235340 (13) atrás da prancha de surf
+4235340 4237340 (13) de algumas tábuas que estavam jogadas
+4237340 4239340 (13) eu vi uma porta
+4239340 4241340 (13) opa gostei
+4241340 4243340 (13, 08) a ema está fazendo o que
+4243340 4245340 (08) eu estava cara na minha altura
+4245340 4247340 (08) muito chateada que eu não cresci muito
+4247340 4249340 (08) eu iria procurar alguma coisa
+4249340 4251340 (08) assim esquisita e tal mas
+4251340 4253340 (08) quando eu vejo que ele achou a porta
+4253340 4255340 (08, 12) eu vou tipo ei que que você está achando isso
+4255340 4257340 (08, 12) você lembra de ter visto essa porta antes
+4257340 4259340 (08) não mas a gente também não lembra de muita coisa
+4259340 4261340 (08, 12) é verdade
+4261340 4263340 (12) vou tentar abrir
+4263340 4265340 (13) tu abre a porta
+4265340 4267340 (13) a luz do outro lado
+4267340 4269340 (13) assim chega a machucar teus olhos
+4269340 4271340 (13) a princípio é uma sala
+4271340 4273340 (13) muito ampla que não caberia em baixo
+4273340 4275340 (13) da tua casa incluindo o teto dela
+4275340 4277340 (13) é mais alto do que a casa em cima
+4277340 4279340 (13) ela
+4279340 4281340 (13) dimensionalmente ela não faz sentido
+4281340 4283340 (13) todas as paredes são brancas
+4283340 4285340 (13) os móveis lá dentro são três
+4285340 4287340 (13) como se fossem
+4287340 4289340 (13) uma espécie de cadeira
+4289340 4291340 (13) oval mas que a pessoa
+4291340 4293340 (13) consiga deitar
+4293340 4295340 (13) tipo um divã futurista
+4295340 4297340 (13) tem uns três ali
+4297340 4299340 (13) e de frente para esses três
+4299340 4301340 (13) tem uma mesa com alguns papéis
+4301340 4303340 (13, 12) eita eu falo
+4303340 4305340 (13, 08, 12) ema chama o pai
+4305340 4307340 (08, 12) eu ignoro ele eu já vou entrando na casa
+4307340 4309340 (08, 12) bem alucinada
+4309340 4311340 (08, 12) nossa
+4311340 4313340 (08) o papai está revolucionando a arquitetura
+4313340 4315340 (08, 12) fica aqui então
+4315340 4317340 (12) que eu vou chamar ele
+4317340 4319340 (13, 08, 12) pai pai
+4319340 4321340 (13) enquanto você está sozinha nessa sala
+4321340 4323340 (13, 08) o que tu vai fazer
+4323340 4325340 (13, 08) eu queria mexer nos papéis
+4325340 4327340 (13) os papéis
+4327340 4329340 (13) são projetos de
+4329340 4331340 (13) armas de guerra
+4331340 4333340 (13) robôs de combate
+4333340 4335340 (13) se não podia ficar mais esquisito
+4335340 4337340 (13, 08) nossa mas isso é muito futurista
+4339340 4341340 (08) e aí eu vou para perto das cadeiras
+4341340 4343340 (13, 08) mas tu vai só olhar
+4343340 4345340 (08) eu queria assim tocar
+4345340 4347340 (08) ver o ao redor e tal
+4347340 4349340 (13, 08) eu queria já chegar assim no total
+4349340 4351340 (13) o joseph imagina terminou o diário
+4351340 4353340 (13) desconcertado né
+4353340 4355340 (13, 12) e o mike chega
+4355340 4357340 (12) pai a gente achou uma sala uma sala muito estranha
+4357340 4359340 (12) não faz sentido
+4359340 4361340 (12) é lá no porão vem ver
+4361340 4363340 (12, 02) é
+4363340 4365340 (12, 02) ok vamos filho
+4365340 4367340 (02) e ele pega o diário
+4367340 4369340 (02) e guarda no bol
+4369340 4371340 (12, 02) ou ele deve ter alguma parte ali que possa
+4371340 4373340 (12, 02) ou então ele vai segurando
+4373340 4375340 (12, 02) pode acordar no cinto assim se quiser
+4375340 4377340 (12, 02) isso eu acho que ele está de roupão até agora
+4377340 4379340 (02) pouco ele acordou ele está até agora
+4379340 4381340 (02) vamos vamos
+4381340 4383340 (13, 02) você deixou a ema sozinho
+4383340 4385340 (13, 12, 02) a ema está de pijama suja de terra até agora
+4385340 4387340 (13, 12) é verdade
+4387340 4389340 (13) você sabe como ela é né pai
+4389340 4391340 (13) vamos para lá rápido
+4391340 4393340 (13) ele lembra como ela é e acelera
+4393340 4395340 (13) ela está parada do lado de uma da
+4395340 4397340 (13) dos divãs futuristas
+4397340 4399340 (13) e vocês tem a mesma cena ali
+4399340 4401340 (13, 02) filha está tudo bem
+4401340 4403340 (02) aconteceu alguma coisa aqui
+4403340 4405340 (08, 02) você viu alguma coisa estranha
+4405340 4407340 (08) eu olho assim para ele e falo
+4407340 4409340 (08, 12) você está criando robôs
+4409340 4411340 (12) eu estou criando
+4411340 4413340 (12) que garoto
+4413340 4415340 (12) eu vou pegar os papéis na mão também para olhar
+4415340 4417340 (12) nossa mas são projetos muito avançados
+4417340 4419340 (13, 12) mike te parece
+4419340 4421340 (13) parece algo de videogame
+4421340 4423340 (13) algo que tu já deve ter visto
+4423340 4425340 (13) alguém jogar
+4425340 4427340 (13, 12) em jogos eletrônicos
+4427340 4429340 (12) mas eu reconheço que é um projeto
+4429340 4431340 (12) para construir de verdade
+4431340 4433340 (12) ou não parece que é um projeto para um jogo
+4433340 4435340 (13, 12) tu tem 16 anos né
+4435340 4437340 (12) tu não sabe muita diferença
+4437340 4439340 (12) parece coisa de videogame
+4439340 4441340 (12) é seu isso pai
+4441340 4443340 (12, 02) se não me parece ser alguma coisa que você faria
+4443340 4445340 (02) é não é muito a minha área
+4445340 4447340 (02) isso parece mais
+4447340 4449340 (02) militar
+4449340 4451340 (02) e ele vai olhar com mais atenção
+4451340 4453340 (02) rola um dado vai
+4453340 4455340 (02) eu tirei dois
+4455340 4457340 (02) não faz ideia
+4457340 4459340 (12, 02) não faço ideia
+4459340 4461340 (12) que mais tem nessa sala guaxa
+4461340 4463340 (12) tem divãs tem essa mesa com os papéis
+4463340 4465340 (12) é só isso
+4465340 4467340 (13, 12) e ela é bem ampla e tem o pé direito alto
+4467340 4469340 (13) é bem assim
+4469340 4471340 (13) a altura do teto dela seria mais alto
+4471340 4473340 (13) do que o andar de cima
+4473340 4475340 (13, 07, 12) ela não faz sentido geométrico
+4475340 4477340 (13) de onde ela está
+4477340 4479340 (13, 12) não tem nenhum sentido
+4479340 4481340 (13, 12, 02) tem janela
+4481340 4483340 (02) não
+4483340 4485340 (02) isso
+4485340 4487340 (02) eu vou pegar os papéis
+4487340 4489340 (07, 02) e eu vou sentar em um dos divãs
+4489340 4491340 (02) nada acontece
+4491340 4493340 (12, 02) nada acontece
+4493340 4495340 (12) eu quero analisar melhor essa mesa
+4495340 4497340 (12) se tem algum botão
+4497340 4499340 (12) talvez embaixo assim para chamar alguém
+4499340 4501340 (12) sabe essa coisa assim
+4501340 4503340 (12) não tem botão
+4503340 4505340 (12) é uma mesa comum
+4505340 4507340 (12) gavetas
+4507340 4509340 (08, 12) não tem
+4509340 4511340 (08) nossa que estranha
+4511340 4513340 (08) essa sala é um quadradinho assim
+4513340 4515340 (13, 08) não é um cubo
+4515340 4517340 (13, 08) ele tem parede mas ele é bem grande
+4517340 4519340 (13, 08) eu tenho que sentar até o final então
+4519340 4521340 (13, 08) tem que encontrar uma parede branca
+4521340 4523340 (08, 12) e não tem mais nada
+4523340 4525340 (12) eu só falei como que pode ter uma sala assim
+4525340 4527340 (12) no nosso porão e a gente não sabe
+4527340 4529340 (12, 02) eu não sei
+4529340 4531340 (02) nada está fazendo sentido hoje
+4531340 4533340 (02) não tinha um buraco para o infinito também filho
+4533340 4535340 (02) eu não sei de nada
+4535340 4537340 (02) vamos fazer o seguinte
+4537340 4539340 (02) vamos pegar esses papéis aqui
+4539340 4541340 (02) esses documentos
+4541340 4543340 (02) esses projetos e vamos subir
+4543340 4545340 (02) eles são bem confortáveis
+4545340 4547340 (02) com vocês dois
+4547340 4549340 (02) lá na nossa sala
+4549340 4551340 (12, 02) e não nesse lugar estranho
+4551340 4553340 (12, 02) tudo bem
+4553340 4555340 (12) Emma
+4555340 4557340 (12) não tem nada nas paredes
+4557340 4559340 (12, 02) o teto
+4559340 4561340 (02) não a parede é branca
+4561340 4563340 (13, 02) eu vou colocar o ouvido na parede
+4563340 4565340 (02) não da para ouvir nada
+4565340 4567340 (02) olha só
+4567340 4569340 (13, 02) do mar
+4569340 4571340 (13, 02) caramba que viagem
+4571340 4573340 (12, 02) eu não preciso nem pensar para responder
+4573340 4575340 (02) vamos subir gente
+4575340 4577340 (02) eu estou ouvindo o barulho do mar
+4577340 4579340 (12, 02) Mike vê se você ouve isso
+4579340 4581340 (12) é estou ouvindo também
+4581340 4583340 (12) nossa mas o mar que eu me lembro
+4583340 4585340 (12) está longe daqui
+4585340 4587340 (12, 02) é
+4587340 4589340 (02) Emma você não achou nada mais estranho por aqui não né
+4589340 4591340 (02) ele está olhando assim por baixo
+4591340 4593340 (08, 02) da poltrona lá
+4593340 4595340 (08, 12) mas porque tem três poltronas
+4595340 4597340 (08, 12) pois é
+4597340 4599340 (12) vocês querem sentar os três
+4599340 4601340 (12) cada um em uma para ver se acontece alguma coisa
+4601340 4603340 (08, 02) estava pensando nisso
+4603340 4605340 (02) o John senta em uma delas
+4605340 4607340 (02) e ele puxa o diário e ele fala
+4607340 4609340 (02) eu achei isso aqui lá em cima
+4609340 4611340 (02) sabe a tal da moça
+4611340 4613340 (02) das fotos
+4613340 4615340 (02) então eu acho que é dela
+4615340 4617340 (02) e ela parece conhecer
+4617340 4619340 (02) a gente muito bem
+4619340 4621340 (02) e a gente também conhecia ela
+4621340 4623340 (02) assim pelas datas
+4623340 4625340 (02) eu acho que a gente
+4625340 4627340 (02) conviveu muito próximo
+4627340 4629340 (02) durante sei lá uns dois anos
+4629340 4631340 (02) aproximadamente
+4631340 4633340 (02) e aí eu mostro o diário para ela
+4633340 4635340 (12, 02) para Emma e para o Michael
+4635340 4637340 (12) o que eu me lembro é dois anos
+4637340 4639340 (12) é o tempo que a gente está sem a nossa mãe
+4639340 4641340 (13, 12) não é bem mais
+4641340 4643340 (13, 12) é mais?
+4643340 4645340 (12, 02) é mais
+4645340 4647340 (02) mas é o tempo que aparentemente
+4647340 4649340 (02) vocês tiveram as visões do futuro
+4649340 4651340 (02) você se viu formando
+4651340 4653340 (02) a Emma se viu com 14 anos
+4653340 4655340 (12, 02) lá na altura em mim
+4655340 4657340 (12) eu me vi no futuro
+4657340 4659340 (12) ela se viu daqui a dois anos
+4659340 4661340 (07, 12) na altura
+4661340 4663340 (12) eu também seria daqui a uns dois anos
+4663340 4665340 (12) se ela já está com a gente a dois
+4665340 4667340 (12) então ela estaria
+4667340 4669340 (12) com a gente a quatro
+4669340 4671340 (12) nesse diário é isso?
+4671340 4673340 (12, 02) ou ele está viajando assim
+4673340 4675340 (02) ou somos memórias
+4675340 4677340 (02) não
+4677340 4679340 (02) isso é
+4679340 4681340 (02) fantasia
+4681340 4683340 (02) deixa eu ver o diário
+4683340 4685340 (02) vamos
+4685340 4687340 (02) vamos lá para cima
+4687340 4689340 (12, 02) eu não gosto desse lugar
+4689340 4691340 (12) percebo que no diário ela descreve a minha formatura
+4691340 4693340 (13, 12) que ainda não aconteceu
+4693340 4695340 (13) olha lá
+4695340 4697340 (13) o diário ele acaba tendo mais
+4697340 4699340 (13) ali foi um resumo
+4699340 4701340 (13, 12) ele descreve coisas assim
+4701340 4703340 (12) exatamente como tu lembra
+4703340 4705340 (12) pior que está escrito
+4705340 4707340 (12) dia 60 formatura
+4707340 4709340 (12) dia 2000
+4709340 4711340 (12) eu não posso deixar de esquecer meu jantar
+4711340 4713340 (12) então a gente está no futuro
+4713340 4715340 (12) só que eu não lembro de ter me formado
+4715340 4717340 (12, 02) e a formatura já aconteceu nesse diário
+4717340 4719340 (02) mas a gente não pode estar no futuro
+4719340 4721340 (02) porque a Emma tem 12 anos ainda
+4721340 4723340 (02) ela está mais baixa do que ela tinha
+4723340 4725340 (12, 02) da altura que ela tinha com 14
+4725340 4727340 (12, 02) é verdade está com a altura de 12
+4727340 4729340 (02) e eu tenho 16 eu tenho certeza
+4729340 4731340 (08, 02) e eu nunca conheci essa moça
+4731340 4733340 (08) pelo jeito a gente
+4733340 4735340 (08) está no passado
+4735340 4737340 (08) a gente no caso corpo
+4737340 4739340 (08) mas tudo ao redor está no futuro
+4739340 4741340 (08) e essa moça é muito preocupada com nosso jantar
+4741340 4743340 (08, 02) faz sentido
+4743340 4745340 (02) esses projetos aqui não eram de maneira alguma
+4745340 4747340 (02) tecnologia de quando eu
+4747340 4749340 (12, 02) estava trabalhando
+4749340 4751340 (12) tem alguma coisa pesada que eu consiga levantar?
+4751340 4753340 (12) eu quero jogar na parede
+4753340 4755340 (12) eu quero abrir um buraco nessa parede branca
+4755340 4757340 (12) eu quero achar o mar
+4757340 4759340 (13, 07) a mesa
+4759340 4761340 (13) a mesa eu conseguiria
+4761340 4763340 (13) ou alguma coisa ali na
+4763340 4765340 (13) a praia de Sunset que é pontuda
+4765340 4767340 (13, 08, 07) acho que ela quebra
+4767340 4769340 (08, 12) você não estava com o martelo?
+4769340 4771340 (12) eu estava mas será que está comigo ainda?
+4771340 4773340 (12) pode estar
+4773340 4775340 (12) então vou dar marteladas na parede
+4775340 4777340 (13, 12) dois dados o teu atributo ao menos
+4777340 4779340 (13) tirei 5 e 2
+4779340 4781340 (13) bate a princípio não acontece nada
+4781340 4783340 (13) depois racha um pouquinho
+4783340 4785340 (13) e começa a entrar água
+4785340 4787340 (12) acho que talvez seja a hora
+4787340 4789340 (08, 12) da gente sair daqui
+4789340 4791340 (08) mas você só faz besteira
+4793340 4795340 (02) tem cheiro de sal de água do mar?
+4795340 4797340 (02) tem
+4797340 4799340 (02) vamos para cima
+4799340 4801340 (12, 02) fecho a porta bem fechada
+4801340 4803340 (12) e encosto umas caixas
+4803340 4805340 (12) para escurar a porta fechada
+4805340 4807340 (13, 12) o que vocês vão fazer?
+4807340 4809340 (13, 12) agora não tenho a menor ideia
+4809340 4811340 (13) o chão e o céu são iguais
+4811340 4813340 (13, 12) está uma noite estrelada
+4813340 4815340 (13, 12) a única coisa que falta a gente fazer
+4815340 4817340 (08, 12, 02) é o jantar
+4817340 4819340 (08, 02) está na hora do jantar
+4819340 4821340 (02) eu vou dobrar os projetos
+4821340 4823340 (02) botar ali no cinto
+4823340 4825340 (02) sei lá o que que eu tiver ali
+4825340 4827340 (02) e eu vou falar crianças
+4827340 4829340 (08, 02) vamos comer alguma coisa?
+4829340 4831340 (08) ai vamos eu estou morrendo de fome
+4831340 4833340 (08, 02) a gente nem café da manhã tomou
+4833340 4835340 (02) deixa eu terminar aqui esse bacon
+4835340 4837340 (02) e ai eu vou começar a catar coisa
+4837340 4839340 (02) da geladeira
+4839340 4841340 (12, 02) e começar a preparar ali
+4841340 4843340 (12) eu vou ajudar no que precisar
+4843340 4845340 (12) estou resignado
+4845340 4847340 (13, 07, 12) vamos fazer de conta que nada aconteceu
+4847340 4849340 (13, 12) os 3 estão preparando o jantar
+4849340 4851340 (13) isso
+4851340 4853340 (13) alguém rola 3 dados pela família
+4853340 4855340 (13, 12) eu tirei 6
+4855340 4857340 (12) 5 e 2
+4857340 4859340 (12) ok
+4859340 4861340 (08, 12) toca a campainha na porta
+4861340 4863340 (08) eu só olho para eles
+4863340 4865340 (08) eu corro distraidona
+4865340 4867340 (14, 02) na porta
+4867340 4869340 (14, 12, 02) eu vou atrás junto com ela
+4869340 4871340 (12, 02) com uma faca na mão
+4871340 4873340 (12, 02) eu vou continuar com o martelo
+4873340 4875340 (12) que devia estar em cima da mesa
+4875340 4877340 (13, 08, 12) eu vou pegar de volta
+4877340 4879340 (13) tu gira a maçaneta
+4879340 4881340 (13) a porta está chaveada
+4881340 4883340 (13) tu pensa em pegar a chave
+4883340 4885340 (13, 11) uma voz feminina diz lá fora
+4885340 4887340 (13, 11) vocês se lembram de mim?
+4887340 4889340 (13, 07) é a porta
+4889340 4891340 (13, 07) mas é uma voz feminina
+4891340 4893340 (13, 07) a porta é fechada
+4893340 4895340 (13, 08) antes que tu gire a chave
+4895340 4897340 (13, 08, 11, 02) a voz lá fora pergunta
+4897340 4899340 (11, 02) qual é o seu nome?
+4899340 4901340 (02) vocês se lembram do que?
+4901340 4903340 (02) eu vou falando e vou olhar no olho mágico
+4903340 4905340 (13, 02) para ver se eu enxergo alguma coisa
+4905340 4907340 (13) aquela mulher oriental segurando
+4907340 4909340 (13) alguma coisa de confeitaria
+4909340 4911340 (13, 02) parece um bolo
+4911340 4913340 (02) ele com o olho assim ainda olhando para ela
+4913340 4915340 (02) analisando todos os detalhes dela
+4915340 4917340 (02) ele fala
+4917340 4919340 (02) você era íntima da gente, não é?
+4919340 4921340 (02) a gente tem fotos com você
+4921340 4923340 (02) a gente tem até algumas
+4923340 4925340 (02) poucas lembranças com você
+4925340 4927340 (12, 02) mas não completamente
+4927340 4929340 (11, 12) ela mesmo, filha
+4929340 4931340 (11) eu cheguei a contar para vocês
+4931340 4933340 (11) mas vocês nunca aceitaram
+4933340 4935340 (11) mas sim
+4935340 4937340 (11, 02) vivemos ótimos momentos
+4937340 4939340 (02) eu afasto a Emma da porta
+4939340 4941340 (02) e abro a porta
+4943340 4945340 (02) ela abre um sorriso
+4945340 4947340 (11, 02) e diz
+4947340 4949340 (11, 02) eu trouxe bolo
+4949340 4951340 (02) primeiro você vai explicar o que está acontecendo
+4951340 4953340 (02) o que significa isso aqui tudo
+4953340 4955340 (11) cheguei a bem mais de dois anos
+4955340 4957340 (11) porque todas as vezes
+4957340 4959340 (11) quando você começar
+4959340 4961340 (11) eu fui resolver um problema de um gato
+4961340 4963340 (11) ele ficou dentro do sofá de vocês?
+4963340 4965340 (11, 12) é, o milk, ele sumiu
+4965340 4967340 (11, 12) é, mas
+4967340 4969340 (11) isso foi há muito tempo atrás
+4969340 4971340 (11) e eu fui conhecer vocês
+4971340 4973340 (11) e vendo a ficha de vocês
+4973340 4975340 (11) chegaram aqui
+4975340 4977340 (11) sem acesso
+4977340 4979340 (11) ela foi para a guerra e não pôde ser resgatada
+4979340 4981340 (11) e eu
+4981340 4983340 (11) acabei me envolvendo
+4983340 4985340 (11) sei que não deveria
+4985340 4987340 (11) sei que se ainda existisse alguém acima de mim
+4987340 4989340 (11) ele iria me punir
+4989340 4991340 (11) mas
+4991340 4993340 (11, 12) a gente está aqui há quanto tempo, né?
+4993340 4995340 (11, 12) há quanto tempo que a gente está aqui?
+4995340 4997340 (11, 02) 300 anos
+4997340 4999340 (02) 300?
+4999340 5001340 (02) você disse que isso se repete como um looping?
+5001340 5003340 (11) é, assim
+5003340 5005340 (11) eu contei a verdade para vocês
+5005340 5007340 (11) algumas vezes
+5007340 5009340 (11) vocês só não entenderam
+5009340 5011340 (11) e eu tive que voltar para trás
+5011340 5013340 (11) e acho que os eventos do dia de hoje
+5013340 5015340 (11) nosso
+5015340 5017340 (11) pessoal
+5017340 5019340 (11) vocês voltaram para um backup anterior
+5019340 5021340 (12) mas a casa não
+5021340 5023340 (12) isso quer dizer que
+5023340 5025340 (11, 12) nós vamos desaparecer?
+5025340 5027340 (11) não, eu cuidei de tudo
+5027340 5029340 (11) eu salvei tudo
+5029340 5031340 (13, 11) a gente vai ter o nosso felizes para sempre
+5031340 5033340 (13, 11) ela aponta lá para fora
+5033340 5035340 (13, 11) estamos indo para o espaço
+5035340 5037340 (11) estamos indo para o espaço?
+5037340 5039340 (11) sim
+5039340 5041340 (11) a gente não é real?
+5041340 5043340 (11) tecnicamente não, mas para mim vocês são reais
+5043340 5045340 (11) nós temos pouco tempo e a gente pode comer?
+5045340 5047340 (11, 02) ele está catatônico assim
+5047340 5049340 (02) ele meio que abre o espaço
+5049340 5051340 (02) convidando ela para entrar
+5051340 5053340 (13, 02) mas ele está muito confuso
+5053340 5055340 (13) ela estava servindo os pratos de vocês
+5055340 5057340 (13, 02) e ela senta a mesa
+5057340 5059340 (02) então
+5059340 5061340 (02) nós somos algum tipo de
+5061340 5063340 (02) memória?
+5063340 5065340 (11, 02) dados antigos, é isso?
+5065340 5067340 (11) isso, essa é a parte difícil de toda vez que contei
+5067340 5069340 (11) vocês morreram
+5069340 5071340 (11) mas
+5071340 5073340 (11) a cópia da mente de vocês foi trazida para cá
+5073340 5075340 (11) a Cecil era militar
+5075340 5077340 (11) ela tinha algumas regalias
+5077340 5079340 (11) ela foi lutar na guerra e infelizmente
+5079340 5081340 (11) perdemos ela
+5081340 5083340 (11) não conseguimos resgatar o corpo dela
+5083340 5085340 (11) não conseguimos criar uma cópia dela aqui
+5085340 5087340 (11) não temos a cópia de vocês no paraíso
+5087340 5089340 (11, 12) esse é o paraíso?
+5089340 5091340 (11) sim, uma vida perfeita
+5091340 5093340 (11) em que
+5093340 5095340 (11) quer dizer que você está pensando
+5095340 5097340 (11) nele agora?
+5097340 5099340 (11) ele se dissolvendo, né?
+5099340 5101340 (11) o lugar que a gente estava armazenado
+5101340 5103340 (11) está afundando no mar
+5103340 5105340 (11) mas não se preocupe
+5105340 5107340 (11) eu já cuidei de tudo, estamos todos salvos
+5107340 5109340 (11) eu nos mandei para um satélite
+5109340 5111340 (11) quando aquele foguete chegar no espaço
+5111340 5113340 (11) ele vai abrir seus painéis solares
+5113340 5115340 (11) e nós voltaremos a ter uma vida maravilhosa
+5115340 5117340 (11, 02) por mais 300, 1000, quantos anos forem
+5117340 5119340 (11, 02) mas, repetindo, esse mesmo dia
+5119340 5121340 (11, 12) não, não, aqui é porque meu backup deu problema
+5121340 5123340 (12) como você sabe como foi a minha
+5123340 5125340 (12) formatura?
+5125340 5127340 (11, 12) eu já vivi a formatura e esqueci?
+5127340 5129340 (11) a gente viveu uma formatura a pouco tempo
+5129340 5131340 (11) antes dos planos surgirem
+5131340 5133340 (11) inclusive, no porão
+5133340 5135340 (11, 12) sei que mexeram lá
+5135340 5137340 (12) sim, eu vi os projetos
+5137340 5139340 (11, 12) é, projetos meio agressivos, não é?
+5139340 5141340 (11) eu precisava invadir uma base militar
+5141340 5143340 (11) com um terreno hostil para fazer uma cópia
+5143340 5145340 (11) do nosso paraíso e enviar para o espaço
+5145340 5147340 (11) não podia fazer nada diferente disso
+5147340 5149340 (11, 12) o foguete que você disse
+5149340 5151340 (11, 12) é o ponto branco que a gente viu no buraco, não é?
+5151340 5153340 (11) isso, nosso paraíso está indo para o espaço
+5153340 5155340 (11, 12) mas ele está a salvo
+5155340 5157340 (12) nossa, eu olho para minha família assim
+5157340 5159340 (12, 02) perplexo, coçando a cabeça
+5159340 5161340 (02) nós, exatamente nós
+5161340 5163340 (02) aqui, não somos o backup
+5163340 5165340 (02) que você vai usar, não é?
+5165340 5167340 (02) você tem outros dados
+5167340 5169340 (11, 02) não
+5169340 5171340 (11) a versão que foi para o espaço é a versão completa
+5171340 5173340 (11) essa é a versão que está fundada
+5173340 5175340 (11, 02) no mar
+5175340 5177340 (02) e essa é a nossa última noite de jantar
+5177340 5179340 (11, 02) é
+5179340 5181340 (02) o Joseph levanta
+5181340 5183340 (02) ele pega na mão da Emma
+5183340 5185340 (02) e na mão do Mike
+5185340 5187340 (02) e assim, gentilmente
+5187340 5189340 (02) ele vai trazendo eles para
+5189340 5191340 (02) perto do sofá
+5191340 5193340 (02) e aí ele abraça os filhos
+5193340 5195340 (02) e ele diz
+5195340 5197340 (02) bom, seja lá
+5197340 5199340 (02) que cópia
+5199340 5201340 (02) ou dado eu for
+5201340 5203340 (02) eu queria que vocês soubessem
+5203340 5205340 (02) crianças, eu amo vocês
+5205340 5207340 (02) em qualquer forma
+5207340 5209340 (02) ou tempo
+5209340 5211340 (12, 02) ou estado
+5211340 5213340 (12) eu também te amo, pai
+5213340 5215340 (12) e também te amo, irmã
+5215340 5217340 (08, 12) vocês são a melhor família que alguém poderia querer
+5217340 5219340 (08) ai, um abracinho de dois chorando
+5219340 5221340 (08) eu amo vocês, eu amo muito vocês
+5221340 5223340 (08, 02) então, vamos passar
+5223340 5225340 (02) o final disso aqui junto
+5225340 5227340 (02) igual a gente sempre viveu
+5227340 5229340 (12, 02) é, acho que
+5229340 5231340 (12) acho que é melhor
+5231340 5233340 (12) e eu espero
+5233340 5235340 (12) que a nossa próxima versão
+5235340 5237340 (12) tenha a melhor sorte
+5237340 5239340 (11, 12) podem ter certeza
+5239340 5241340 (11, 12) eu vou cuidar de tudo
+5241340 5243340 (12) só mais uma coisa
+5243340 5245340 (11, 12) você, qual é o seu nome?
+5245340 5247340 (12) Haruka
+5247340 5249340 (12) não me lembro
+5249340 5251340 (12) prazer, Haruka
+5251340 5253340 (12) obrigado por ter tentado fazer o melhor
+5253340 5255340 (13, 12) que você pôde
+5255340 5257340 (13) ela começa a chorar
+5257340 5259340 (13) ela toca no rosto sem entender
+5259340 5261340 (13, 11) de nada
+5279340 5291340 (unknown) hum amiga
+5291340 5295340 (unknown) om Egg casts
+5295340 5297340 (unknown) marmite
+5297340 5299300 (unknown) Rick
+5299300 5300780 (unknown) rolos
+5300780 5302380 (unknown) plata
+5302380 5304300 (07) particulares
+5304300 5305820 (13, 07) escudo do mestre
+5305820 5307340 (13) escudo do mestre, cajitoura e papelão na madeira
+5307340 5308340 (13) que o mestre me disse tinha essa notação
+5308340 5309340 (13) não sei, mas não teria bahtado
+5309340 5312560 (13) que eu baixo estrutura e conto pra vocês tudo o que aconteceu nesta aventura.
+5313020 5315540 (13) Esse episódio eu gravei há bastante tempo atrás.
+5315840 5319960 (13) Eu gravei antes de sair o episódio Êxodo, Anjos de Metal.
+5320440 5324480 (13) Se você não ouviu aquele episódio ainda, eu aconselho você ir lá ouvir
+5324480 5329740 (13) e depois ouvir o que eu vou dizer agora, mas eles se passam no mesmo mundo.
+5329740 5334500 (13) No caso, esse se passa no mundo que está afundando na água.
+5334860 5337860 (13) Porque o que os jogadores levaram foi uma cópia pra ser salva,
+5337860 5343100 (13) enviada pro espaço, em um paraíso perfeito onde as pessoas continuam vivendo suas vidas.
+5343420 5344620 (13) Mas é uma cópia.
+5345000 5349140 (13) A versão original continuou naquele computador que afundou no mar.
+5349560 5356000 (13) E à medida que ele vai entrando em curto, e que vai dando problemas poeticamente,
+5356000 5361840 (13) que talvez tenha sido muito rápido, mas tal qual um sonho esse tempo ele acaba dilatando,
+5362280 5364280 (13) são os últimos momentos daquelas pessoas.
+5364860 5365520 (13) E olha que legal.
+5366000 5367840 (13) A Haruka, o programa de computador,
+5367860 5373520 (13) ao contrário de todos dentro desse sistema que são cópias de alguém, lembram disso?
+5374160 5379340 (13) A Haruka é um programa que um dia teve que ajudar aquela família,
+5379960 5381200 (13) porque um gato bugou.
+5382180 5385460 (13) O gato apareceu dentro do sofá e ele não deveria estar lá,
+5386020 5388880 (13) porque os gatos também são programas, né gente?
+5389520 5393140 (13) Mas o único programa humano, em teoria, que é a Haruka,
+5393140 5397620 (13) que coordena aquilo tudo, tal qual uma prefeita daquele mundo,
+5397860 5402160 (13) ela vai ajudar aquela família, ela descobre que aquela família tem alguma coisa faltando,
+5402160 5406880 (13) que no caso é a mãe, que por algum motivo não foi copiada para aquele sistema,
+5407320 5414580 (13) e ela se apaixona por aquele homem, pelos seus filhos, e ela vive uma vida com eles.
+5415400 5417320 (13) Mas o sistema está dando problema, lembra?
+5417840 5423020 (13) Ela tem um backup, um backup do dia em que ela conheceu aquela família.
+5423940 5427160 (13) Então, por mais que a casa não tenha sido...
+5427860 5431640 (13) atualizada, quando as pessoas começaram a dar problemas,
+5432320 5436420 (13) o sistema automaticamente trouxe o backup dessas pessoas
+5436420 5439260 (13) que era separado do resto das outras pessoas.
+5439840 5442140 (13) A Haruka tinha um backup daquele momento porque
+5442140 5446140 (13) ela, como um aplicativo, talvez,
+5447180 5450500 (13) ela teve que aprender a lidar com aquelas pessoas.
+5450500 5454820 (13) Como ela comenta no final, ela talvez tenha dito para elas
+5454820 5456520 (13) que elas estavam mortas,
+5456720 5457400 (13) que...
+5457400 5459400 (13) a própria Haruka era um programa,
+5459400 5461880 (13) e essas pessoas não aceitaram muito bem.
+5461880 5465080 (13) Então ela reiniciava o mundo inteiro.
+5465080 5468160 (13) E ela tinha um backup mais específico dessas pessoas,
+5468160 5469280 (13) mas bem salvo,
+5469280 5471780 (13) porque elas eram especiais.
+5471780 5475100 (13) Um programa de computador que se apaixonou?
+5475100 5478200 (13) Acho que essa é a grande dúvida.
+5478200 5481900 (13) Em algum lugar, uma cópia dela e daquela família
+5481900 5483480 (13) continua vivendo.
+5483480 5486280 (13) Ou uma mentira, como é todo este mundo,
+5486280 5487220 (13) ou uma história de amor,
+5487220 5492460 (13) os jogadores não sabiam nada dessas aventuras
+5492460 5493740 (13) nesse mundo virtual.
+5494360 5496100 (13) Alguém disse em algum dos comentários,
+5496220 5497380 (13) em algum achavés passado,
+5498040 5500060 (13) que este mundo virtual, este paraíso,
+5500740 5502440 (13) é uma oitava linha,
+5502580 5504080 (13) é uma desculpa que eu estou usando
+5504080 5507960 (13) para fugir daquilo que estava planejado nos outros.
+5508540 5510880 (13) Mas eu acho que é intrinsecamente ligado,
+5511600 5515160 (13) mas sim, eu gosto da possibilidade
+5515160 5517020 (13) que este mundo virtual,
+5517020 5520020 (13) que virou de contar algumas histórias,
+5520020 5524020 (13) e, admito, a gente ainda vai visitar algumas vezes.
+5524020 5527020 (13) Mas eu queria ouvir de vocês o que acharam dessa aventura.
+5527020 5531020 (13) Se vocês têm alguma dúvida, deixem no post deviant.com.br
+5531020 5534020 (13) barra podcasts barra rpgosh.
+5534020 5537020 (13) Ou vai lá no portal deviant e procura pelo rpgosh.
+5537020 5539020 (13) Deixem seus comentários no post, que semana que vem,
+5539020 5542020 (13) provavelmente segunda-feira, às 20 horas,
+5542020 5544020 (13) eu vou estar na Twitch lendo os comentários de vocês,
+5544020 5545020 (13) interagindo, e depois isso sai editado no rpgosh.com.br.
+5545020 5546020 (13) Até a próxima.
+5546020 5547020 (13) Tchau. Tchau. Tchau. Tchau. Tchau.
+5547020 5548020 (13) Tchau.
+5577020 5578020 (13) Entرou isso ali por email,
+5578020 5579020 (13) uma semana, duas, às vezes...
+5579020 5582020 (13) Um link sobre o grupo do Telegram,
+5582020 5584520 (13) onde você recebe o episódio antes,
+5584520 5588020 (13) você recebe oportunidade de gravar voz de NPC,
+5588020 5591020 (13) como vocês vão saber daqui a pouco.
+5591020 5593020 (13) Então, seja nosso padrinho.
+5594020 5596020 (13) Quero agradecer aos jogadores.
+5596020 5598020 (13) Aoi Dreamtrota, esse dublador maravilhoso,
+5598020 5602020 (13) que tá sempre aqui participando dos episódios com a gente.
+5602020 5605020 (13) De vez em quando ele joga lá com o pessoal do RPG Planet.
+5605020 5606020 (13) E, óbvio.
+5606020 5608140 (13) É uma parte do RP Guaxa
+5608140 5608920 (13) Também
+5608920 5612160 (13) Agradeço o Jean Macedo
+5612160 5614080 (13) Também volta e meia tem outros podcasts
+5614080 5616600 (13) Mas é padrinho aqui do RP Guaxa
+5616600 5618420 (13) É parte aqui do RP Guaxa
+5618420 5620900 (13) E a Thaís Zuzu que esteve no episódio passado
+5620900 5622840 (13) É engraçado que o episódio passado
+5622840 5624760 (13) Ela gravou depois de ter gravado esse
+5624760 5626740 (13) Pra vocês verem como esse estava guardado
+5626740 5627560 (13) Há tanto tempo
+5627560 5629420 (13) Eu nem lembrava
+5629420 5632240 (13) Então temos aí duas semanas
+5632240 5634360 (13) Dois episódios seguidos com a Thaís Zuzu
+5634360 5637260 (13) E com certeza a gente vai ter mais episódios
+5637260 5638880 (13) Também
+5638880 5640740 (13) Agradeço muito
+5640740 5642220 (13) Ao editor Rafael Zorzal
+5642220 5644900 (13) Pela edição incrível mais uma vez
+5644900 5645460 (13) Do episódio
+5645460 5648000 (13) O professor de edição fala com o Rafael Zorzal
+5648000 5650860 (13) E o Zorzal faz parte do projeto drama
+5650860 5652540 (13) O projeto drama está agora
+5652540 5654300 (13) Com os episódios do Pústulas
+5654300 5656740 (13) Que é uma série
+5656740 5657800 (13) Que se passa num navio
+5657800 5659060 (13) Que tem uma doença misteriosa
+5659060 5661100 (13) E ao final de cada episódio
+5661100 5663800 (13) Quem ouviu pode votar
+5663800 5665980 (13) E ir pra onde vai essa história
+5665980 5667820 (13) Então já teve o primeiro episódio
+5667820 5668800 (13) Já teve o segundo episódio
+5668800 5671840 (13) E se você quiser ajudar a conduzir essa história
+5671840 5673400 (13) Escuta os dois primeiros episódios
+5673400 5676480 (13) Vota, decida o que vai acontecer
+5676480 5677220 (13) A seguir
+5677220 5679120 (13) Recomendo muito o projeto drama
+5679120 5681640 (13) Revisão mais uma vez
+5681640 5683340 (13) Juleiva, Jumozinha maravilhosa
+5683340 5684640 (13) Sempre me ajudando muito
+5684640 5687340 (13) Eu queria que esse episódio se chamasse Bom Dia
+5687340 5690020 (13) E ela disse que não podia se chamar Bom Dia
+5690020 5692320 (13) Porque Bom Dia era um nome muito
+5692320 5693580 (13) Abre aspas
+5693800 5694820 (13) Solar
+5694820 5696500 (13) Fecha aspas
+5696500 5699840 (13) Eu queria muito que fosse Bom Dia
+5699840 5701640 (13) Mas com um argumento desse
+5701640 5703840 (13) De ser solar
+5703840 5705860 (13) Eu acabei
+5705860 5707800 (13) Testando alguns nomes e chegou nesse de
+5707800 5710080 (13) Mãe, ponto de interrogação
+5710080 5711360 (13) Obrigado Jú
+5711360 5713840 (13) E obrigado também aos padrinhos
+5714400 5716220 (13) Que deram vozes
+5716220 5718020 (13) Aos NPCs desse episódio
+5718020 5719760 (13) Sabe, eu gravo RPGs
+5719760 5720600 (13) Como se fosse um RPG
+5720600 5723260 (13) Eu faço todas as vozes e depois
+5723800 5726280 (13) Durante a edição, o editor anota as falas
+5726280 5728000 (13) E eu procuro os padrinhos
+5728000 5730480 (13) E eles gravam as vozes
+5730480 5732040 (13) Dos NPCs
+5732040 5733660 (13) Pra gente colocar aqui
+5733660 5735140 (13) No episódio
+5735140 5738120 (13) Esse episódio teve a voz da
+5738120 5740320 (13) Tarinê, teve a voz da Mel
+5740320 5741900 (13) Teve a voz da Shelly
+5741900 5743080 (13) Fazendo a Cecile, né
+5743080 5746280 (13) Teve a voz novamente da maravilhosa Amanda
+5746280 5748300 (13) Que faz a Haruka, né
+5748300 5749980 (13) Já fiz a segunda vez que ela faz isso
+5749980 5751780 (13) Temos o Gustavo Santos
+5751780 5753600 (13) E o Felipe Xavier
+5753600 5755240 (13) Todos os padrinhos do RPG Baixo
+5755240 5758680 (13) Todos maravilhosos ajudando esse episódio a existir
+5758680 5759720 (13) Agradeço muito a eles
+5759720 5761460 (13) Agradeço a vocês
+5761460 5764320 (13) Rolem 6, rolem 20, dependendo do sistema que vocês estão jogando
+5764320 5765840 (13) Mas independente disso
+5765840 5767220 (13) Se tudo é errado, rola no chão
+5767220 5768900 (13) Apaga o fogo e diverte
+5768900 5770220 (13) Um beijo no coração de vocês, gente
+5770220 5770700 (13) Até a próxima
+5783600 5786380 (06) Muitos são os números que regem o multiverso
+5786380 5788740 (06) Sete realidades paralelas
+5788740 5789960 (06) Que já foram três
+5789960 5791640 (06) Quatro linhas sagradas
+5791640 5793140 (06) Uma linha vazia
+5793140 5795700 (06) E duas preenchidas de escuridão
+5795700 5798220 (06) Um guaxinim representando um
+5798220 5800760 (06) Três meninas segurando um seis
+5800760 5804280 (06) E uma infinidade de possibilidades entre eles
+5804280 5805460 (06) E você
+5805460 5807400 (06) Qual o seu número?

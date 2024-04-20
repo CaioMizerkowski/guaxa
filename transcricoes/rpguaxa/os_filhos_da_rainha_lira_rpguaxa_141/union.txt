@@ -1,0 +1,2294 @@
+0 9100 (02) Uma tribo onde todos são uma grande família está para testar seus jovens.
+9460 15240 (02) Três crianças, filhos da rainha, mas que nunca tiveram tratamento especial até agora.
+15760 20220 (02) Pois um deles irá suceder na liderança dessa tribo.
+20920 23460 (02) O que será que Floresta tem para testar esses três jovens?
+25140 28060 (02) Episódio de hoje, os filhos da rainha Lyra.
+28060 34480 (02) Com os padrinhos Adriano Trocta, Lucas Sasaki e com a Sarah.
+58060 61360 (01) Se formação intelectual, social, seu atributo ou mais.
+61540 66220 (01) Se a ação for fácil, como pedir um copo d'água a um de nossos comissários de bordo, rola-se um dado a mais.
+66700 72480 (01) Se for difícil, como convencer um de nossos comissários de bordo a dançar uma carena, um dado a menos.
+72800 76620 (01) Aperte os cintos e boa viagem aqui ao Capitão Icebone.
+77280 79620 (01) Obrigado por voar, Guaxan.
+79980 81100 (01) Olá, passageiros.
+81180 82060 (01) Olá, passageiros.
+82060 88040 (01) Olá, passageiros.
+88060 91660 (01, 02) Não deixe de seguir nas redes sociais, arroba o Marcelo Guaxaninho, arroba a RP Guaxa.
+91820 93200 (02) Tanto no Twitter quanto no Instagram.
+93520 95260 (02) E por que não no Blue Sky?
+95520 98100 (02) Talvez o Twitter realmente vá de base.
+98560 101600 (02) Pense também com carinho em apoiar este projeto e boa aventura.
+114140 116060 (05) Sete realidades paralelas.
+116400 117600 (05) Uma infinidade de possibilidades.
+118060 120720 (05) Três jogadores e um guaxinim.
+121140 124600 (05) Se vocês olharem à sua esquerda, verão um corvo sob uma maceira.
+125760 129020 (05) À sua direita, a aventura está prestes a começar.
+130940 131740 (00, 05) Cinco.
+133800 134680 (00) Quatro.
+136780 137560 (07, 00) Três.
+139300 139600 (unknown) Dois.
+139600 140240 (07, 00) Dois.
+144820 147800 (06) RPG. Realidades paralelas do guaxinim.
+148060 150560 (06) Sua aventura de bolso na forma de podcast.
+150560 153500 (06) Uma jornada completa a cada episódio.
+167780 173280 (02) A tribo dos Anima fica no meio da floresta mais densa e inacessível da ilha de Nima.
+173280 177280 (02) Um lugar inexplorado e misterioso, além dos reinos civilizados.
+178560 182620 (02) Os Anima são uma tribo vegetariana que se funde na natureza sem agredi-la.
+182780 185440 (02) Eles vivem em harmonia com os animais que habitam a floresta.
+185880 190980 (02) Mesmo que são normalmente agressivos em outros lugares, aqui são dóceis e amigáveis.
+191440 195420 (02) A maioria dos habitantes possuem um ou dois animais que são praticamente da família.
+195640 201240 (02) Alguns humanos, inclusive, possuem um vínculo tão forte com um animal que conseguem se comunicar com ele.
+201240 207600 (02) A tribo é liderada por uma rainha chamada Lyra, uma mulher sábia e bondosa que tem o poder
+207600 213280 (02) de transferir sua vida para qualquer animal, assumindo o seu controle o tempo que desejar.
+213640 219980 (02) Seu animal familiar é uma tigresa branca chamada Zara, que é sua fiel companheira e protetora.
+220220 225880 (02) A rainha tem três filhos, que possuem um meio termo entre os poderes dela e da tribo.
+226220 233300 (02) Eles podem falar e transferir sua essência para um animal específico, aquele que é o seu familiar.
+233480 237400 (02) Um dia um dos três irá liderar a tribo e aprenderá o segredo de Zara.
+237400 237420 (02) Um dia um dos três irá liderar a tribo e aprenderá o segredo de Zara.
+237420 237580 (02) Um dia um dos três irá liderar a tribo e aprenderá o segredo de Zara.
+237580 245040 (02) Esses três filhos são os personagens jogadores, então antes de mais nada, vamos conhecê-los.
+245280 249120 (02) Trota, fala sobre seu personagem, aparência, atributo e seu animal familiar.
+249200 253600 (02, 03) Olá todo mundo, eu vou jogar hoje com o Raji.
+254040 260980 (03) O Raji é um garoto de 18 anos, alto e atlético, de pele escura, cabelos um pouco longos e bagunçados,
+261540 267080 (03) olhos expressivos e determinados, em contraste com um rosto de traços suaves,
+267080 270040 (03) que ainda mostram que ele é só um menino.
+270380 274300 (03) O familiar dele é uma cobra naja de um metro e meio, chamada Kalia,
+274580 278880 (03) aquela que tem um pescoço mais largo, que se abre quando ela está em perigo, sabe?
+278980 281620 (03) Para aparentar ser maior e afugentar os predadores.
+282260 287260 (03) Essa é aquela cobra que é comumente usada em espetáculos de encantadores de serpentes na Índia,
+287740 291800 (03) onde um encantador toca uma flauta para supostamente hipnotizar a cobra.
+292140 296400 (03) O Raji é um menino corajoso, muito ligado à família,
+296400 299680 (03) bastante protetor em relação aos irmãos,
+299860 306640 (03) e está bem ansioso para passar pela aprovação final aí e poder finalmente ser considerado um homem feito.
+306900 308560 (02, 03) E o atributo dele é o 4.
+308680 309080 (02) Perfeito.
+309640 313920 (02, 11) Lucão Avatar, fala sobre seu personagem, aparência, atributo e o familiar dele.
+314180 315160 (11) Salve, salve turma.
+315480 317020 (11) Hoje eu vou jogar como o Lucuki.
+317260 318520 (11) Alguns me chamam de Kuki.
+319140 325420 (11) Eu tenho 16 anos, sou bem novinho, mas, rapaz, não mexe comigo não que eu sou brabão, hein?
+325420 325860 (11) Não.
+326400 334580 (11) Tenho 1,82m, uma linda pele pretona, olhos puxadinhos, cabelo raspadinho bem curtinho, estilo militar.
+335020 341220 (11) Bom, apesar de ser o caçula, meu irmão mais novinho, eu já me sinto forte o bastante para enfrentar qualquer coisa, entendeu?
+341480 342660 (11) Não tenho medo de nada.
+342980 344180 (11) Ou pelo menos acho que não, né?
+344360 345800 (11) E estou bem ansioso para essa aventura aí.
+345860 346820 (11) Vamos ver o que está por vir, né?
+347280 355420 (11) Eu amo meus irmãos, tanto o Raji quanto o Oasis, mas só não gosto que eles ficam me dando ordens, entende?
+355420 355480 (11) Entende?
+355480 360400 (11) Meu atributo é 5 e eu vou falar um pouco sobre o meu familiar, meu animal.
+361060 370380 (11) Meu familiar é uma pantera negra e a nossa conexão é tão forte que eu dei o nome para ela de Kuluk, bem parecido com o meu, só inverti ali umas coisinhas.
+370600 375180 (11) Kuluk é uma pantera um pouco maior do que o comum, ela de pé chega a medir uns 2 metros.
+375620 383980 (11) Minhas principais ferramentas como Kuluk são as garras cetráteis, forte o bastante para me carregar para eu poder subir em qualquer árvore.
+383980 385400 (11) Uma longa cauda.
+385480 388140 (11) Também que vai me ajudar bastante nessa aventura, eu creio.
+388180 391820 (02, 11) Sarah, fala sobre seu personagem, aparência, atributo e seu animal familiar.
+391920 396960 (09, 02) Oi pessoal, vou apresentar a minha personagem, estou jogando hoje com a Oasis.
+397760 402880 (09) Ela tem 20 anos, ela não é alta nem baixa, tem uma estatura mediana, né?
+403160 410900 (09) Ela é magra, porém apresenta alguns músculos e uma certa agilidade devido ao estilo de vida que ela leva na tribo dela.
+410900 413360 (09) O rosto dela tem um formato oval.
+413640 414900 (09) Seu cabelo é... tem aquele...
+415480 417660 (09) Pouco volume, né? Nem muito volumoso.
+417960 425520 (09) Ele é... mas ele é cortado assim, bem batidinho na nuca, tendo as laterais bem mais baixas, o famoso corte pixie, né?
+425760 428140 (09) A tonalidade da pele dela é um parda.
+428420 433800 (09) Seus olhos são bem amendoados, levemente puxados e tem uma coloração de um castanho bem escuro.
+434060 439340 (09) Mas o seu olhar sempre transmite uma certa leveza e bastante segurança, principalmente para os irmãos dela.
+439340 444260 (09) Ela tem mania de sempre sorrir com aquele sorriso bem caloroso e verdadeiro, né?
+445480 448700 (09) E aí aparecem covinhas e os seus olhos sempre fecham juntos.
+448820 453480 (09) A Oasis tem por familiar um animal, que é o Ratel, e ela nomeou por Mel.
+453780 457540 (09) Até porque, né? Ratels são texugos do mel e eles adoram mel.
+457760 464140 (09) A Mel tem 28 centímetros de altura e mesmo sendo pequena, é reconhecida por sua grande valentia,
+464140 472900 (09) podendo enfrentar grandes felinos, cobras e abelhas, sem contar com a sua interência em utilizar pedras, gravetos ou lama para fugir de armadilhas.
+473600 475140 (09) A pelagem da Mel...
+475480 478060 (09) Ela é bem distinta, e ela é dividida em duas cores.
+478480 485720 (09) Ela... No dorso dela é acinzentado, e os membros, ventre, laterais do corpo e a face são negras.
+485980 489280 (09) Só que a Oasis não almeja a liderança de sua tribo.
+489280 494720 (09) Ela prefere uma vida bem calma, sem responsabilidades extras de uma rainha, igual a mãe dela,
+495240 499240 (09) mas ela ama de todo o coração seus irmãos e faria qualquer coisa por eles.
+499640 502860 (09) Ela ficou bem feliz com o ritual de passagem para a vida adulta,
+503360 504860 (09) mas o que mais alegra mesmo,
+504860 506240 (09) o coração da Oasis,
+506240 509240 (09) é poder passar esse tempo de provação lá dos irmãos dela,
+509240 511240 (09) que ela mais ama e confia, e...
+511240 513240 (09) não mexa com os meus irmãozinhos,
+513240 514620 (09) ou com a minha família.
+514620 519620 (09) É bem melhor aproveitar um paraíso de paz, do que mergulhar em uma tempestade de areia.
+519620 521620 (09) O atributo da Oasis é 3.
+534860 543620 (02) Os filhos da rainha não possuem o mesmo pai, a tribo em si não tem o conceito de casamento.
+544240 550240 (02) Alguns indivíduos, de tempos em tempos, decidem ficar próximos e depois cada um segue a sua vida na tribo.
+550700 555840 (02) As crianças são criadas por todos, e embora os três jogadores sejam filhos da líder da tribo,
+555840 563360 (02) e potencialmente um deles, o seu sucessor, eles nunca receberam tratamento especial por isso.
+563820 564780 (02) Mas isso vai mudar hoje.
+564860 570860 (02) Pois os três vão passar por um rito, que vai expandir ainda mais sua conexão com a natureza.
+570860 577860 (02) Esse rito de passagem, dependendo do seu resultado, talvez já comece a demonstrar
+577860 583860 (02) qual dos três vai herdar a responsabilidade de guiar esta tribo.
+583860 589860 (02) Vocês acordam no dia dessa provação, vocês dormem numa mesma...
+589860 593820 (02) Não é que vocês morem junto, é que muita gente mora junto, existem grandes casas,
+593820 600340 (02) vocês três moram numa dessas grandes casas ali, são casas feitas de madeira, palha, folha,
+600520 607060 (02) elas em sua maioria ficam na parte alta das árvores, as roupas típicas do lugar costumam ser simples e coloridas,
+607660 611880 (02) feitas com tecidos naturais, adornados com penas, flores e pedras.
+611880 618720 (02) A tribo está preparando uma festa, um café da manhã único, com tudo de mais gostoso que a tribo tem a oferecer,
+618920 621280 (02) porque hoje é o dia de vocês três.
+621660 622060 (11) Opa!
+622940 623800 (11) Hoje é o dia!
+623820 624800 (11) Hoje é o dia, meus amigos!
+626660 634640 (03, 11) Eu já acordo disposto, eu quero ver se eu posso ajudar as preparações desse café da manhã de alguma forma,
+635360 640160 (03) eu não sei se alguém está cozinhando, está precisando de ajuda na cozinha, talvez...
+640160 641640 (03) Consegue ajudar em alguma coisa?
+641720 646140 (03, 11) Eu já dou um pulo e quero caçar comida, não quero ajudar não, quero comer, preciso estar forte com a aventura.
+646640 647180 (02) Tem algo aí?
+647320 649580 (02) Tem, tem, tem, tem coisas já preparadas nas mesas.
+649720 652040 (11) Ah, então já vou beliscando, já vou beliscando as coisinhas.
+652220 652940 (02) E a oásis?
+652940 653800 (09, 02) A oásis?
+653820 660620 (09) A oásis, ela é assim que a gente se levanta, ela passa assim pelo culto, dá um esbarro nele e fala assim,
+660720 663840 (09) nossa, eu tive um sonho bem estranho, você viu, o oásis?
+664080 665560 (09) Eita, que sonho?
+665940 669080 (09) Eu sonhei que éramos todos formigas, sabe?
+669600 669640 (09, 11) Formigas?
+669640 671220 (09, 11) E a gente estava num grande formigueiro.
+671400 671880 (09, 11) Aham.
+671980 673260 (09, 11) A gente viaja é essa oásis?
+673600 675120 (09) Abaixa aqui, bem na altura do meu rosto.
+675620 677040 (09) Ela vai pedir pra eu abaixar.
+677100 678700 (11) Ah, eu abaixo, eu abaixo.
+679060 680140 (09) Você sabe o que eu vi?
+680360 681000 (11) O que que você viu?
+681300 682520 (09) Um grande tamanduá.
+683180 683660 (11) Tamanduá?
+684080 685120 (09) Sabe o que que ele fez?
+685560 691400 (09, 11) Ele colocou a língua pra fora, e estavam andando as famílias desse jeito, e elas começam a ver a cara dele.
+691400 692020 (09, 11) Eita, nós.
+692560 694720 (11) E você acha que isso aí tem algum significado?
+694860 697120 (09, 11) Ela parece que o Cunha não reclamou, ela.
+697440 697760 (09) Não.
+698380 699940 (09, 10) E olha pra cara dele e diz, ah.
+700320 704760 (11) Vamos ver, talvez isso signifique que a gente vai ter uma longa e bela aventura hoje.
+705020 706880 (09) Ah, espero que sim, cadê o rádio?
+707000 708880 (09, 11) Mas se você sentir medo, você fala comigo, tá bom?
+709260 710020 (09, 11) Eu te protejo.
+710020 712920 (09, 11) Ah, você também não tem medo de nada.
+712920 719240 (09, 02) Ah, o Aziz, tu vê que o Raj, ele tá lá ajudando o pessoal a preparar a comida, né?
+719700 726760 (02) Ajudando a organizar as mesas, enquanto o Louc, ele já tá com alguma coisa ali na mão, já pegou alguma coisa pra comer.
+727480 728180 (02) Tu vai fazer o quê?
+728300 730480 (02, 10) Ah, eu vou tentar ajudar também, pessoal.
+730860 734760 (02, 03, 11) Ô Aziz, Louc, vocês podem ajudar também, né? Seria bom.
+734780 737780 (03, 11) Ô Raj, deixa eu comer aqui, Raj, quietinho, por favor.
+738160 740840 (11) Ô Raj, nem me deu bom dia e já tá ele dando ordem pra isso?
+740840 742100 (03, 11) Calma, né?
+742920 747580 (03) A celebração vai ser muito grande hoje, precisamos deixar tudo muito bonito.
+747760 748160 (07) Eu vou.
+748340 752600 (11) Aí eu vou lá pegar uma, sei lá, ajudar uma coisinha, assim, enquanto como.
+752600 757460 (09, 03, 11) Ô Raj, tá com a cabeça cheia, já acorda já na pegada de missão.
+757680 759520 (03) Tô aqui fazendo o que precisa ser feito.
+760340 761300 (09, 03) Muito responsável.
+762180 764600 (09) Raj, você deveria descansar mais.
+765000 766760 (09) Você se importa demais, Raj.
+766960 767620 (09) E você, mãe?
+768380 768880 (09) Como eu?
+769500 769980 (03) Tranquilão.
+770000 770600 (03) Ah, eu queria...
+770600 773400 (03) Queria conseguir relaxar como você, ô Aziz.
+773780 774860 (03) Às vezes faz falta.
+775220 777400 (11) Eu não tô pensando em nada, só tô comendo mesmo.
+777880 782500 (02, 11) À medida que a tribo vai acordando, todo mundo vai fazendo os preparativos.
+782840 787540 (02) Aos poucos, cada um vai sentando ali, vão partilhando os pratos, vão comendo alguma coisa.
+788280 791540 (02) Pela mesa, pelo chão, pelo ombro de algumas pessoas.
+792240 796660 (02) Todo mundo tem o seu animalzinho ali por perto, né?
+796660 800160 (02) E vocês vão partilhando com os animais, comendo.
+800600 805800 (02) E amanhã, o café da manhã, ele é bem tranquilo.
+806340 809740 (02) Sentado numa cadeira mais alta, tá a rainha, né?
+809800 811000 (02) A mãe de vocês.
+811420 816600 (02) Ela troca algumas palavras, assim, que vocês não conseguem ouvir pelo barulho da movimentação.
+816880 819080 (02) Com o xamã da tribo, que é o Nuru.
+819840 823580 (02) Que é um senhor, assim, meio curvado já pelo tempo.
+824220 827360 (02) Ele tem o nariz, as orelhas grandes já.
+827760 828900 (02) As unhas também.
+828900 829900 (02) Ele usa um...
+830600 836320 (02) Ele usa um cajado que, na ponta, ele faz quase como um triângulo invertido.
+836940 840420 (02) Que serve como o puleiro pro animal dele, que é um corvo.
+841480 846580 (02) Aos pés da rainha, tá a tigresa branca, né?
+846640 847360 (02) A Zara.
+847900 850680 (02) Que é o animal que ela tem mais vínculo ali.
+851000 854500 (02) Além de vocês três, é o que ela considera a família, né?
+854600 859180 (02) A família dela são vocês quatro, a tigresa branca e vocês três.
+859180 859420 (02) É...
+859420 865500 (02) Ela conversa, assim, com o xamã, talvez preparando alguma coisa pro dia de hoje.
+866100 868800 (02) Volta e meia ela olha pra vocês e sorri.
+869300 877580 (02) E assim que a comilança acaba, ela levanta e faz um sinal que vocês, os três, a acompanhem
+877580 881960 (02) até a casa dela, que é a única...
+881960 885820 (02) Tem um lugar individual, o próprio xamã, né?
+886320 887800 (02) E a rainha.
+887800 889140 (02, 03) Se riva com ela.
+889140 889660 (02) Com certeza.
+890080 893100 (02, 03) Vou junto com a minha animalzinha de estimação, a calinha.
+893120 893700 (02, 03) Ela vai como?
+893940 897700 (02, 03) Ela vai enrolada no braço, no pescoço, no chão, na cintura?
+897720 900220 (02, 03) Não, ela vai no chão mesmo, no serpentinhozinho.
+900620 903480 (02, 03) Ela vai sempre com a cabeça, assim, meio alta, assim, levantada.
+903580 907120 (03, 10) Às vezes eu até apoio alguma coisa em cima, assim, e ela leva pra mim.
+907700 913200 (10) Pego a Mel no colo e vou em direção ao Raj e a mamãe.
+913280 913820 (02) A oásis.
+913900 915040 (02) Como é que o...
+915040 915940 (02) Como é o nome do Ratel?
+916040 916400 (02, 10) A Mel.
+916820 917540 (02, 10) Ela tá no colo.
+917540 918880 (09, 02, 10) A Mel se desloca contigo.
+918880 922860 (09, 02, 10) É, e a Mel, geralmente, ela sempre tá andando do meu lado, mas...
+922860 928180 (09) Quando a gente tá perto da mamãe, por causa do tigre, por respeito, a Mel sempre tá aí de frente.
+928640 930280 (09) Ela tem um certo medo do tigre da minha mãe.
+930980 931740 (02) E o...
+931740 932840 (02) O Luluque?
+933320 933720 (02) Bom...
+933720 935040 (02) O Lukuki, né?
+935240 935880 (02) O Lukuki...
+936620 943020 (11) Então, a Pantera, minha Pantera, ela me acompanha sempre, mas não muito próxima de mim.
+943440 947520 (11) Ela tá próxima e sempre me observando, caso eu precise de ajuda dela para algo, sabe?
+948000 948520 (11) Mas...
+948880 954100 (11) Conforme eu vou me movimentando, ela vai se deslocando também, do jeitinho dela, mas não necessariamente coladinha comigo, sabe?
+954560 956460 (11) Mas sempre me observando, sempre atenta a mim.
+956840 958640 (11) E aí eu vou lá, minha mãe me chamou, né?
+958640 961340 (02, 11) Quero dar um abracinho nela, mandar um salve pro xamã.
+961540 966040 (02) Vocês vão até a tenda da rainha, né?
+966560 971360 (02) Ela abre um sorriso quando vê vocês e ela pergunta...
+971360 973100 (09) Estão prontos para o dia de hoje?
+973400 975100 (09, 03, 11) Sim, sim, sim, sim, sim.
+975460 976120 (11) Muito ansioso.
+976660 977400 (09, 11) Já está na hora?
+977400 977920 (09) Não.
+977920 979040 (09) Estão com medo?
+979240 979640 (09) Medo?
+979800 981480 (09, 11) Eu já fico na postura da Pantera, assim, ó.
+981740 983160 (11) Vai, vai, vai, mãe. Vai, vai, vai.
+984300 985520 (03, 11) Não, nem um pouco.
+985980 988020 (03) Eu estou ansioso há muito tempo.
+988300 990200 (09) O medo que deveria ter medo de nós.
+990520 991040 (02) Ela...
+991040 993860 (02) Ninguém falou que tinha medo, né?
+993960 994940 (02) O Trota também não.
+995060 996020 (02, 03) Eu também não.
+996360 997200 (02, 03) Eu conheço essa palavra.
+997260 1000040 (02, 03) Eu estou ansioso para esse momento já há muitos anos.
+1000060 1001820 (02, 03) Ela chega, assim, mais perto de vocês.
+1002240 1006300 (02) Ela nunca disse que amava vocês, não com palavras.
+1006300 1007880 (02) Ela sempre se comportou.
+1007920 1010420 (02) Mais como um bicho do que como gente.
+1010980 1013120 (02) Mas ela dá um abraço em cada um de vocês.
+1013620 1016080 (02) Encostando a testa na testa de vocês.
+1016560 1018000 (02) Olhando bem no fundo dos olhos.
+1018440 1020540 (02) E vocês sabem, desde que vocês eram muito pequenos,
+1020760 1025480 (02) que essa é a maneira de ela dizer que eu te amo para cada um dos filhos, né?
+1025920 1028720 (02) Então ela faz isso com cada um de vocês.
+1029360 1033660 (02) Tem aquele momento ali de mãe e filha com cada um de vocês.
+1033660 1037660 (02) Que é muito rápido, mas parece passar uma eternidade.
+1037920 1039660 (02) Junto com ela.
+1040380 1041320 (02) Ela então diz.
+1041620 1047860 (09) Eu posso ser qualquer animal, mas vocês sabem de um medo que eu nunca contei para ninguém?
+1047960 1049000 (09, 02) A senhora com medo?
+1049160 1050320 (02) Ela olha pela janela.
+1050580 1052580 (09) Eu tenho medo de altura.
+1052800 1054020 (09) Medo de altura?
+1054160 1054880 (09, 11) Não acredito.
+1054960 1055900 (11) Eu estou sem palavras.
+1056220 1057100 (11) Eu estou sem palavras.
+1057220 1058460 (11) Só estou refletindo, pensando.
+1058820 1060020 (03, 11) Mas mãe.
+1060660 1061160 (03) A senhora é um gato?
+1061160 1063940 (03) Nós moramos em casas em cima das árvores há tanto tempo.
+1063940 1066980 (09, 03) Ah, mas as árvores foi onde eu cresci.
+1066980 1068600 (09) Esse é o meu chão.
+1069260 1072740 (09) Agora, o vento, eu nunca me acostumei.
+1072960 1073800 (03) Ah, entendo.
+1074160 1075220 (09, 03) Não tem porque ter medo, mãe.
+1075560 1076040 (09) Eu sei.
+1076680 1078560 (09) E é isso que estou dizendo para vocês.
+1079260 1084320 (09) Caso surja o medo, vocês não serão reis ou rainhas piores do que eu.
+1084740 1088420 (09) Se eu, com medo tão bobo, trouxe o nosso povo até aqui,
+1089300 1093320 (09) tenho certeza que qualquer um de vocês poderá trazer ainda mais paz à nossa floresta.
+1093340 1094020 (09, 07, 03) Ah, entendi.
+1094380 1095760 (09, 03) Valorosa lição, mãe.
+1096020 1096500 (03) Obrigado.
+1096500 1096940 (03) Obrigado.
+1096940 1099980 (03) Eu rajo até abaixo a cabeça, assim, em reverência.
+1100300 1102380 (03) Afinal de contas, é mãe, mas é a rainha, né?
+1102520 1104300 (09) Nossa, mãe sempre tem um ensinamento.
+1104780 1107640 (09) O velho Norúdia deve estar impaciente na tenda dele.
+1108340 1109980 (09) Vamos até lá para começar os ritos.
+1110260 1110680 (09, 03) Vamos embora.
+1110820 1111180 (03) Vamos sim.
+1111640 1117760 (09) A Oasis, antes de ir, ela se curva para a mãe dela e dá aquele sorriso de orelha a orelha
+1117760 1119620 (09) com as covinhas.
+1119720 1121860 (09) Ela apareceu, tipo, fiquei feliz de saber.
+1122360 1123340 (09) A senhora também tem medo.
+1123340 1126340 (09) E ela solta a mel no chão, tipo...
+1126940 1130400 (09, 10) Não precisa mais ter medo da mamãe e vem andando com a mel.
+1130760 1133100 (03) É, a mel tem medo da Zara, né?
+1133260 1133660 (03) Uhum.
+1134280 1136320 (03) A Oasis não tem, mas a mel tem.
+1136580 1137040 (03, 07, 10) Uhum.
+1137420 1142780 (03) O Raje observa os irmãos, assim, todos empolgados também, indo para o Norú, assim, indo lá
+1142780 1150220 (03) na cabana do Norú e fica olhando orgulhoso, assim, feliz por esse momento estar chegando
+1150220 1151600 (03) junto com os irmãos, sabe?
+1151760 1152900 (02, 11) A mãe vai junto para a cabana?
+1153040 1153300 (02) Não.
+1153740 1155680 (02) Só agora são vocês.
+1155680 1156160 (02, 11) Tá.
+1156940 1161140 (11) E, antes de ir, quero pegar na mão da minha mãe, nas duas mãos dela, olhar no fundo
+1161140 1162800 (11) do olho dela e só isso.
+1163440 1165520 (11) Eu quero olhar no fundo do olho dela, entendeu?
+1166240 1166520 (07, 11) Perfeito.
+1166580 1169400 (07, 11) No fundo da alma, no fundo da alma, dizendo eu te amo, sabe?
+1169960 1172100 (07, 11) Uma última vez, porque eu não sei o que tá por vir.
+1172760 1177060 (11) E aí, quando eu fico ali uns um minuto, mais ou menos, encarando ela, ela me encarando,
+1177200 1178140 (11) solta a mão dela e vou.
+1178340 1183740 (02, 11) A tenda do xamã, do Norú, ela é, assim, é o lugar mais fedido da floresta.
+1183740 1186740 (02) Ele tem muitos potes e...
+1186940 1191920 (02) Obviamente, vocês já viram pessoas entrarem feridas ali porque caíram de uma árvore
+1191920 1194200 (02) ou porque tiveram problemas.
+1194780 1198240 (02) Por mais que os animais sejam amigos, amigos às vezes brigam, né?
+1198860 1205880 (02) E lá dentro saírem completamente curados ou pelo menos, assim, muito melhores do que
+1205880 1206500 (02) entraram.
+1206980 1214120 (02) Então, o xamã já se provou mais de uma vez e, por isso, ele tem o respeito da tribo.
+1214120 1215120 (02) É óbvio que...
+1216940 1223220 (02) Ele assusta um pouco, porque ele diz que é jovem pra ter um aprendiz e todo mundo sabe
+1223220 1229160 (02) que ele já tá bem velho e que alguém, pelo menos, já deveria saber um pouco do que ele
+1229160 1231820 (02) sabe e ele não fez isso, né?
+1232120 1236300 (07, 02) Ele recebe vocês com um sorriso, assim, faltando alguns dentes.
+1236500 1237820 (00) Entrem, entrem.
+1239300 1241000 (02, 03) Olá, já é hora?
+1241000 1242260 (00, 03) Sim, sim.
+1242880 1245340 (00) Esses potes aqui são tintas.
+1245720 1246920 (00) Tintas naturais.
+1246940 1254160 (00) Os animais que eu separei pintem seus rostos como se fossem seus animais e depois escrevam
+1254160 1256340 (00) seus nomes nos animais também.
+1256640 1259260 (00) Vamos fortalecer este vínculo.
+1259380 1260220 (03) Ah, que legal.
+1260540 1264820 (03) Vou pegar, então, minha tinta, vou fazer listras, assim, no pescoço, como se fosse
+1264820 1271760 (03) um pescoço de cobra e fazer um olho mais fundo, assim, fazer ao redor dos olhos, assim,
+1271760 1275900 (03) uma coisa mais escura pra meio que ampliar os olhos também.
+1276940 1284980 (03) E fazer o desenho atrás, na nuca, o desenho que a Naja tem, também, nas costas, assim,
+1285140 1287780 (03) que se assemelha a, tipo, dois olhos.
+1288260 1290360 (09) Não, a Naja vai pegar a tinta branca, né?
+1290740 1293980 (09) Vai olhar aqui, toda felicidade, olhar os irmãos dela se pintando.
+1294680 1295940 (09) É o nosso momento.
+1296380 1297760 (09) Estou tão feliz por isso.
+1298180 1299900 (09) Passa a tinta branca no cabelo, né?
+1299900 1306900 (09) Uma parte no nariz, no rosto e o restante do rosto, ela põe o restante de preto, de
+1306900 1308980 (09, 10) braço, de preto, tal qual, né, ó.
+1309160 1313720 (11) É, eu com a tinta preta, eu vou, eu vou desenhar nos meus bíceps, nos meus dois
+1313720 1318320 (07, 11) braços, tipo aquele, aquela listra da Fendi, não sei se vocês sabem, aquele tribal.
+1319040 1324040 (07, 11) Então, vou fazer uns tribal daqueles ali, do meu corpo e na Pantera também.
+1324120 1325700 (11) Nossa, vocês ficaram muito legais.
+1325900 1326520 (09, 11) Você também, irmão.
+1326620 1327480 (09, 07, 11) Você tá lindão, vai.
+1327480 1327640 (09, 07) É incrível.
+1327640 1332860 (09, 07, 11) A Wally olha, assim, toda orgulhosa com os irmãos dela, ela começa a dar uma choradinha
+1332860 1336620 (09) e fala, eu nunca pensei que ia ver esse momento com vocês.
+1336900 1339420 (11) Ô, Aziz, ô, Aziz, vamos parar de drama aí, por favor?
+1340400 1340840 (09) Desculpa.
+1341540 1342300 (09) Ela enxuga assim.
+1342480 1343140 (09) É, é verdade.
+1343540 1345100 (09) Ah, não, tirei minha tinta.
+1345240 1347380 (09) Ela pinta o rosto de novo, porque ela esfregou a mão.
+1348800 1352140 (02) A tenda, ela tem bastante fumaça, né?
+1353160 1356040 (02) Algumas ervas aromáticas foram queimadas ali.
+1357040 1359540 (02) Vocês, aos poucos, adormecem.
+1360160 1365480 (02) O xamã posiciona o corpo de vocês sobre peles e tal, pra ficarem bem descansados,
+1365480 1368220 (02) porque vocês não se fundem ao animal, né?
+1368660 1374360 (02) O corpo de vocês simplesmente dorme e vocês agora estão sobre os olhos,
+1375100 1378780 (02) estão sobre o controle de seus respectivos animais.
+1379480 1384920 (02, 03) O xamã faz um movimento com a mão, como eu ia indicando pra vocês.
+1385780 1391160 (02) O caminho, a tenda dele não é tão alta quanto as outras.
+1391700 1394540 (02) A parte de trás, ela tem como se fosse uma rampa já pra floresta.
+1394540 1395320 (02) E ele indica...
+1395320 1396900 (02) Ele indica o caminho pra vocês ali.
+1396960 1398220 (02) Só uma pergunta, só uma perguntinha.
+1398460 1400940 (02, 11) A nossa comunicação com os humanos, como que é agora?
+1401380 1402200 (02, 11) Com o xamã, por exemplo.
+1402220 1403060 (02, 11) E entre si também.
+1403560 1404440 (02, 11) É, e entre si também.
+1404440 1409400 (02, 11) Vocês três conseguem se comunicar entre si, mas não conseguem falar com as pessoas.
+1409800 1410880 (02, 11) Tá, tá bom, tá bom.
+1411180 1414420 (02) Vocês conseguem se comunicar com outros animais, se precisar.
+1414620 1415660 (11) Ah, ótimo, tá.
+1415800 1419860 (11) Então, vocês querem descrever como foi a sensação de acordar como um animal, primeiro?
+1420040 1423140 (09, 11) Um arrepio, da nuca, até a cauda.
+1423380 1424980 (09) O alice balança a caudinha assim.
+1425320 1429760 (09) Ela fica sobre as duas patinhas e vai tateando o corpinho dela assim, igual um desenho.
+1430060 1432880 (09, 07) Tipo, eu virei mesmo um peixugo.
+1433420 1435120 (09) Aí ela olha pros irmãos e fica pulando assim.
+1435220 1436180 (09) Eu sou um peixugo.
+1437100 1437700 (09) Eu sou a Mel.
+1440460 1444660 (03) Eu dou risada e dou uma serpenteada pra esquerda e pra direita, zigue-zagueando.
+1445160 1449400 (03) Pra sentir meio que a cócega do chão no meu corpo.
+1450100 1451900 (03, 11) Nossa, a sensação é muito legal.
+1452160 1455000 (11) Eu acordo ouvindo muito mais coisas do que eu tava acostumado.
+1455320 1457720 (11) Tô acostumado a ouvir, porque minha audição tá muito melhor agora.
+1458320 1461320 (11) E sentindo muito mais cheiros do que antes também.
+1462040 1465080 (11) E isso aí eu já acho meio estranho e um pouco confuso na minha cabeça.
+1465320 1467700 (07, 02, 11) Nossa, então é assim que os felinos se sentem?
+1467800 1469480 (07, 02, 03, 11) Ainda mais na tenda do xamã, né?
+1470140 1470580 (02, 03) Isso.
+1470800 1473020 (07, 02, 03) É o lugar mais fedido da ilha.
+1473260 1473520 (02, 03) Isso.
+1474080 1476440 (03) Ué, eu não estou sentindo esse cheiro tão difícil.
+1476540 1477180 (03) Ah, espera um pouco.
+1477280 1478740 (03) Aí eu coloco a língua pra fora.
+1478840 1480440 (07, 02, 03) Ah, agora eu tô sentindo.
+1480900 1481820 (07, 09, 03) Ah, tá realmente bem difícil.
+1481820 1484320 (09, 03) Como assim você não tá sentindo esse cheiro?
+1484320 1485320 (09) Ela tá com...
+1485320 1486640 (09) Os dedinhos no nariz.
+1487600 1490020 (11) Então, aí eu observo meus irmãos reclamando do cheiro.
+1490140 1493720 (11) Só que eu, no corpo da Pantera, já não considero esse cheiro tão estranho.
+1493820 1495320 (11) Pra mim já é algo meio diferente.
+1495420 1497880 (11) Então eu fico meio curioso, assim, reparando o cheiro.
+1498580 1500280 (11) E a minha visão tá muito melhor.
+1500600 1503240 (11) Só que agora eu tô de um ponto de vista mais baixo, né?
+1503600 1506600 (11) E eu tô explorando esses novos sentidos.
+1507040 1508220 (11) Olhando as minhas garras.
+1509100 1510300 (11) Conhecendo a minha cauda.
+1510700 1511420 (11) Me alongando.
+1511840 1512440 (11) Me preparando.
+1512440 1514600 (09, 11) Ou às vezes pega as patinhas, assim.
+1515320 1516400 (09) Olhar maligno.
+1516560 1518240 (09) Então, vocês querem ver o que é cheiro?
+1518400 1521120 (09) Vocês esperem só quando eu soltar o meu cheiro.
+1521700 1523620 (09) Deixa eu mostrar aí aquela glândula...
+1523620 1525440 (09, 07, 11) Nem brinca, nem brinca, nem brinca.
+1525900 1527800 (09) Só estou falando, só estou falando.
+1527920 1529480 (09) É brincadeira, brincadeira.
+1529620 1530420 (03) Eu já me afastei.
+1531540 1534740 (03) Eu me afastei junto com o Lukuk e me enrolei nele, assim.
+1534800 1535400 (03, 11) Tô em cima dele.
+1536220 1537180 (03, 11) Enrolado em...
+1537180 1538220 (03, 11) Ah, mano.
+1538400 1538920 (03, 11) Ah, mano.
+1538960 1540860 (07, 03, 11) Eu já fico querendo me desviar dele.
+1540860 1542980 (11) Ele já ficou querendo sair de perto da cobra.
+1545320 1547600 (11) Mas a gente está se vendo deitado no chão?
+1547700 1547920 (11) Sim.
+1548200 1549140 (11) Ah, então eu vou lá.
+1549260 1551420 (11) Vou dar umas lambidas em mim e ficar me observando, assim.
+1551520 1552400 (11) Nossa, eu sou assim.
+1552700 1554620 (02, 11) O xamã senta na cadeira.
+1555220 1558720 (02) Ele encosta, assim, o rosto, o queixo no peito, né?
+1559280 1561620 (02) O corvo, então, voa até o chão, pousa.
+1561780 1563220 (02) Olha pra você e diz...
+1563220 1565780 (07, 02) Vocês têm que ir pra floresta, cara!
+1566120 1566960 (07, 02, 09, 03) Ih, é mesmo.
+1567400 1568760 (02, 03) A gente está perdendo tempo, gente.
+1569060 1569640 (09, 03) Vamos, vamos.
+1569640 1570000 (09, 03) Vamos, vamos.
+1570000 1572500 (09) A oásis está correndo com as duas patinhas, assim, cabalhando.
+1572640 1573000 (09) Ela lembra.
+1573080 1574180 (09) Ah, são quatro patas.
+1574280 1575000 (09) Ela bota as outras duas.
+1575320 1577700 (09) Duas no chão e vai correr atrás dos irmãos dela.
+1579960 1581540 (03) É, eu me desenrolo e vou.
+1582000 1582900 (03) Estou rastejando ali.
+1583000 1584600 (11) É uma rampa que dá pra floresta, né?
+1585100 1585460 (11) Isso.
+1585860 1588920 (11) Então eu vou lá pra beirada da rampa e a gente está bem alto, né?
+1589180 1589400 (11) Sim.
+1589600 1591440 (11) E já dá um friozinho na barriga, velho.
+1591500 1592760 (11) Eu olho pra baixo e olho várias...
+1592760 1596080 (11) Tem umas árvores bem largas aí ao redor?
+1596280 1596520 (11) Tem.
+1596840 1598820 (11) Tem, pra segurar as casas, né?
+1598820 1603520 (11) Então eu vou lá, observo e a primeira coisa que eu quero fazer é já querer escalar uma árvore.
+1603660 1604560 (11) Pular numa árvore.
+1604560 1605540 (11) Dois dados.
+1605980 1610140 (11) Eu estou tipo aqueles gatinhos filhotinhos que estão na beira da mesa, pensando se pula ou não.
+1610920 1612240 (11) Eu estou daquele jeitinho, assim.
+1612360 1614240 (03, 11) Você está descendo pela árvore, é isso?
+1614400 1616080 (11) É, eu quero agarrar numa árvore e descer.
+1617120 1618620 (02) Pode descrever como é que você fez isso.
+1618720 1620180 (02) Tirou quatro e três, perfeito.
+1620460 1625800 (11) Então, eu estou lá meio em choque, mas eu paro, concentro um pouco e lembro do que eu sempre falo,
+1625860 1626840 (11) que eu não tenho medo de nada.
+1627120 1631060 (11) E lembro que minha mãe também tinha medo da altura, então isso é um dos medos que eu quero já enfrentar de cara.
+1631900 1634060 (11) Então, eu primeiro concentro em...
+1634560 1639880 (11) nas minhas garras, deixo elas bem firmes já e eu só pulo.
+1640060 1642520 (11) Eu só sigo o meu instinto, porque agora eu sou uma pantera, né?
+1642640 1644820 (11) Esvazio a minha mente e só pulo.
+1645380 1646760 (11) E aí acontece de forma natural.
+1647420 1653940 (11) Eu pulo, agarro na árvore, paro uma vez e vou descendo assim, soltando a árvore e agarrando um pouquinho, sabe?
+1654100 1656580 (02, 11) Um pouco quadrado, um pouco quadrado, mas estou descendo.
+1656820 1660320 (02) A oásis ou o raje, como é que vocês vão fazer?
+1660320 1661900 (02) Eu vou descer pela rampa mesmo.
+1662660 1663380 (02, 03) Normal, né?
+1663780 1664320 (02, 03) Mas eu quero...
+1664560 1666620 (03) Eu quero, Mico, fazer...
+1666620 1667340 (03) Fazer um...
+1667340 1669800 (03) Como se fosse um bambolê, fazer um círculo e descer rodando.
+1671380 1673100 (11) Quer fazer charme, quer fazer charme.
+1675300 1675740 (02, 11) Bambolê?
+1676280 1678840 (07, 02, 03, 11) Isso não é atípico da tua cobra.
+1679080 1679340 (02, 11) Não é.
+1679340 1680040 (02, 11) Fala um dado só.
+1682400 1683000 (02) Tirei um.
+1683500 1684100 (02) Tu conseguiu.
+1684380 1686620 (02) Assim, não ficou perfeito, mas tu conseguiu.
+1686620 1690440 (09, 02) O raje desceu igual um bambolê, né?
+1690960 1691980 (09) Rolando a escada.
+1692700 1694460 (09) A oásis a levantar e fui empurrando ele.
+1694560 1696980 (09) Vai, vai, vai.
+1698880 1700560 (09) Pegar o gravetinho no chão.
+1701260 1701860 (09) Eita, hein?
+1701900 1702920 (09) Orgulho, orgulho.
+1703660 1705280 (09) Vocês estão enchendo de orgulho?
+1706300 1707400 (02) Virei brinquedinho.
+1707620 1712920 (02) Quando vocês chegam lá embaixo, assim, chegam rindo ao solo da floresta,
+1713500 1718020 (02) vocês dão aquela olhada pra trás, a tribo inteira, assim, tá nas plataformas, nas janelas,
+1718520 1721840 (02) olhando aquela cena de vocês três descendo.
+1722080 1723100 (02, 11) Os filhos da rainha.
+1724560 1727920 (03) Eu daria um tchau pra eles, mas eu não tenho braços.
+1728360 1735020 (03) Então eu só levanto a cabeça, assim, fico com a cabeça de pé, assim, e faço uma reverência com a cabeça, assim, pra tribo.
+1735020 1736980 (09, 03) E como a oásis é bem desleixada, né?
+1737060 1738880 (09) Ela quase não se preocupa com isso.
+1738960 1741780 (09) Ela vê o raje, ela fala assim, nossa, é, é verdade.
+1741960 1747880 (09) Ela vira o pessoal, abaixa com uma mãozinha na frente, outra atrás, uma patinha na frente, outra atrás, dá tchauzinho.
+1748040 1750940 (11) Quando eu observo o raje descendo desse jeito, eu penso, meu Deus, velho.
+1751040 1752900 (11) Isso vai demorar pra se acostumar, não pode ser.
+1753300 1754520 (00, 11) Porque na minha cabeça ele fez aquilo sem...
+1754560 1755120 (11) Sem querer, entendeu?
+1755300 1756200 (11) Não foi intencional.
+1756620 1760100 (11) Aí eu chego nele e falo assim, ô, ô, ô, raje, você não quer escolher outro animal, não, mano?
+1760380 1761820 (11) Tem certeza vai ser de cobra mesmo?
+1762100 1762920 (11) Com certeza.
+1763400 1763860 (11) Então bora.
+1763860 1768420 (09, 11) A oásis só vai olhar pra eles daquela risadinha e fala assim pra eles, assim, bem sério.
+1768900 1772840 (09) Uma noção que faz com os irmãos dela, assim, a partir de agora, somos nós três.
+1773420 1775860 (09) Os três juntos, é difícil de pegarem a gente.
+1776180 1778360 (09) Então nada de querer morder o raje.
+1778720 1781340 (09) E raje, nada de querer morder o mucu.
+1781720 1782780 (09) Ela olha pro mucu.
+1783120 1784420 (09) Estou de olho em vocês dois.
+1784560 1789520 (09) Bata os dois dedinhos assim, aí vai fazendo assim, ó, olhando pra eles e vai andando.
+1789860 1795640 (11) Aí eu já saio do lado dele e fico do lado da oásis, já, pra não dar conflito.
+1796460 1797640 (11) Pode ficar tranquilo.
+1809220 1812900 (02) Vocês vão até a floresta, começam a explorar ali.
+1814000 1814400 (02) Provavelmente...
+1814400 1814420 (02) Provavelmente...
+1814420 1819000 (02) Provavelmente quando criança, né, que não foi há muito tempo atrás, vocês deram
+1819000 1825120 (02) algumas voltas e brincaram pela floresta, mas agora tudo é diferente, né, a maneira
+1825120 1831820 (02) que vocês estão interagindo com a floresta, inclusive, onde cada um de vocês é um animal
+1831820 1839000 (02) ali, tudo parece muito diferente, vocês vão se afastando cada vez mais da tribo, né,
+1839000 1844260 (02) vocês sabem que terão que passar um mês como animais pra poder...
+1844260 1850520 (02) Poder voltarem adultos pra tribo de vocês, prontos pra uma nova fase.
+1850860 1854120 (02) O início, assim, a primeira semana, a segunda semana é até tranquilo.
+1854420 1858640 (02) Eu vou pedir pra cada um de vocês rolar três dados, eu vou chamando, você fala o resultado
+1858640 1861640 (02) e eu vou descrevendo uma coisinha pra vocês.
+1862960 1864260 (02) Oásis, tirou quanto?
+1864580 1865620 (09) Quatro, três e um.
+1865840 1866960 (09, 02) Três atributos da oásis.
+1866960 1872640 (02) E é o atributo ou mais, tanto consigo um acerto simples e um acerto crítico.
+1873300 1873960 (02) Essas semanas...
+1874260 1878300 (02) Essas semanas que se passaram, essas duas semanas e pouco, pra ti foram extremamente
+1878300 1879060 (02) tranquilas.
+1879600 1886320 (02) Tu conseguiu viver tranquilamente ali com os teus irmãos, se divertiu, tá sendo uma
+1886320 1887280 (02) aventura pra ti.
+1887580 1888540 (02) Raj, tirou quanto?
+1888720 1890660 (02) Eu tirei cinco, cinco e três.
+1890900 1897700 (02) Dois acertos simples, não tá tão passei no parque quanto tá pra oásis, mas tá bem
+1897700 1903900 (02) tranquilo, assim, pra uma cobra, a floresta ali, os teus irmãos acabam sendo um pouco
+1903900 1913760 (07, 02) mais rápidos que você, né, braços ou pelo menos extensões, né, patas como tem a
+1913760 1916920 (02) pantera, costuma ajudar pra algumas atividades, né, na floresta.
+1916920 1924020 (02) É meio chato, de repente, tu não ter mais opções para interagir com o mundo que tu
+1924020 1927300 (07, 02) tinha antes, mas, assim, tá sendo tranquilo pra ti.
+1927900 1929160 (02) Luluque, quanto é que tu tirou?
+1929480 1930460 (02) Quatro, dois, dois.
+1930880 1932920 (02) Três falhas, ou seja...
+1933900 1940160 (02) Por mais que tu começou sendo mais empolgado ali, tu é o que menos se adaptou àquela
+1940160 1949060 (02) situação, como tu mesmo falou antes, o cheiro é diferente, a maneira, tu é muito mais
+1949060 1953120 (02) rápido do que o teu raciocínio tá acostumado, então, às vezes dá uma embolada, às vezes
+1953120 1957900 (02) tu esbarra em alguma coisa, tu não tá te adaptando tão bem a essa situação que
+1957900 1959020 (02) tu tá passando por ali.
+1959180 1962660 (09, 02, 03) Mas a gente te ajuda a caçar, não tem problema, nós estamos sempre juntos aqui.
+1962960 1963780 (09, 03, 11) Somos uma família.
+1963900 1966520 (09, 03, 11) Já fico, assim, meio sério, já, com essas piadas aí, ó.
+1966840 1968360 (03, 11) Já fico querendo dar uma rosa na Ásia.
+1968920 1972340 (03) Não, não é piada não, estamos ajudando aqui, somos uma família, a gente sempre
+1972340 1973120 (03) trabalha em equipe.
+1973160 1974260 (09, 03) A Amanda te ama muito.
+1974400 1975680 (03) Pra mim é difícil aceitar isso.
+1975800 1976380 (09) Você quer mel?
+1977440 1978220 (09) Mostra a partida.
+1978240 1979600 (09, 03) Eu quero estar à frente da aventura.
+1979600 1987800 (03) Eu percebo que você tá querendo se sentir mais independente e, enfim, eu me aproximo
+1987800 1992320 (03) de você e falo, não se preocupe, é tudo muito novo pra todos nós, a gente vai conseguir,
+1992840 1993880 (09, 03) temos um mês pela frente.
+1993900 1995680 (09, 03) É, é tudo realmente muito novo.
+1995880 1999340 (09) A lá de dar aquele ririnho na cabeça dela, tipo assim, gente, isso aqui tá muito fácil,
+1999440 2000320 (09) o que que eu estou falando?
+2000620 2006520 (09) Ela olha pra eles assim, irmãos, eu confio em vocês, eu confio mesmo, a gente vai conseguir.
+2006960 2009320 (09, 07, 11) Ela olha pra eles assim, você tá enjoado ainda?
+2009700 2010700 (09) Qual é aquela fruta?
+2011120 2012320 (09) Tava podre, não tava?
+2012540 2014740 (11) Eu só preciso me acostumar, só preciso de tempo.
+2015080 2015860 (09) Eu confio em você.
+2016040 2017140 (02, 11) Tudo que é bom leva tempo.
+2017300 2022000 (02) A Ásia, que é a mais adaptada, rola dois dados pelo grupo, pelos irmãos.
+2022000 2022440 (02) É.
+2023900 2028820 (09, 02) É pra anotar se eu atributo ou mais, então são dois acertos.
+2029160 2034700 (02) Tu tá ali meio que rindo dos teus irmãos, né, da conversa que eles tão tendo ali.
+2034900 2041380 (02) Tu tá em cima de uma pedra, pra observar eles até mais de cima, quando te chama a
+2041380 2048100 (02) atenção, vindo na área, em direção oposta que tá a tribo, né, onde fica o mar, né,
+2048180 2052460 (09, 02) os limites da ilha, fumaça subindo.
+2052460 2053680 (09, 02) Ela tem que voltar rindo.
+2053900 2057880 (09) Aí ela para, se estica todinha e fica travada por um tempo.
+2058120 2059060 (09) O nariz dela só...
+2059060 2059740 (09, 03) O que foi, Mel?
+2060000 2060840 (03) Tá tudo bem?
+2061240 2061680 (09) Fumaça.
+2062360 2065780 (09, 02) Na direção da nossa tribo, ela aponta por aí.
+2065800 2066640 (09, 02) Não, não, não, desculpa.
+2067080 2068700 (09, 02) Na direção oposta, pro mar.
+2068720 2069880 (09, 02) Na direção oposta, perdão.
+2070080 2071900 (09) Na direção oposta, ela aponta pro mar.
+2072180 2072540 (03) Ali?
+2072940 2073700 (03) Ah, tô vendo.
+2074340 2075440 (03) Nossa, o que será que é isso?
+2075560 2076120 (03) Não sei.
+2076460 2080720 (11) Eu quero tentar usar minha audição e meu olfato na direção da fumaça, pra ver se
+2080720 2082060 (11) eu consigo perceber algo.
+2082440 2083880 (11) Mesmo sendo meio difícil.
+2083900 2086400 (02, 11) Rola dois dados, tens a ajuda da tua irmã.
+2086520 2088120 (02) Um dado teu e mais um dela.
+2089440 2090380 (02) Cinco e quatro.
+2090500 2093140 (02) Cinco é o teu atributo, ou seja, é um acerto crítico.
+2093660 2098900 (02) Escuta uma espécie de idioma que tu não reconhece, né, que é diferente.
+2100060 2104400 (02) Barulhos de coisas grandes sendo derrubadas, né, provavelmente árvores.
+2105680 2107740 (02) E é isso que chama a atenção.
+2108320 2111080 (02, 11) Parece ser um grupo relativamente grande.
+2111080 2113440 (09, 11) Raj, Luaz, tô ouvindo...
+2113440 2115180 (11) Como se fossem árvores sendo derrubadas.
+2115240 2116220 (09, 11) Não tenho certeza disso.
+2116280 2117800 (09, 11) Você disse árvores derrubadas?
+2118100 2118800 (11) É o que parece.
+2119020 2120160 (11) Eu não sei se eu tô confuso.
+2120560 2123680 (09) Raj, vê se você consegue sentir alguma coisa sobre o solo.
+2123780 2127260 (09, 03) Eu consigo sentir uma mudança na temperatura do solo, talvez?
+2127640 2131020 (03) Sentir se está rolando um incêndio muito grande, alguma coisa assim?
+2131160 2133740 (02, 03) Não parece ter nada assim, dessa proporção.
+2134220 2136080 (02) Até pela quantidade de fumaça, parece ser fogueiras.
+2136300 2136680 (03) Ah, tá.
+2136920 2137800 (03) É, então eu falo isso.
+2137800 2141680 (03) Não sinto nada muito grande acontecendo.
+2141940 2143180 (03) Talvez sejam só fogueiras.
+2143180 2145600 (03, 11) Ah, é, eu falo sobre o idioma estranho também.
+2145780 2146620 (09, 11) Idioma estranho?
+2146800 2147040 (03) É.
+2147220 2149980 (03) É, acho que nós não conseguimos entender mais os humanos, né?
+2150080 2150920 (09) Ah, verdade.
+2151040 2153080 (09, 02, 03) Talvez sejam outros tipos de humanos.
+2153420 2157460 (02) É, vocês não conseguem entender os humanos, mas vocês ouviram a voz da tribo de vocês.
+2158000 2159900 (02) É algo diferente de tudo que vocês já ouviram.
+2160160 2161340 (02, 11) Ah, entendeu, entendeu.
+2161660 2163180 (11) É muito diferente, eu nunca ouvi isso antes.
+2163260 2164840 (11) Ah, vamos lá, vamos olhar mais de perto.
+2165000 2166820 (09, 11) Vamos, mas tomem cuidado.
+2167080 2168540 (09, 11) Vamos enxergar sorrateiramente.
+2168600 2170020 (11) Ô, Raj, você não quer ir na frente não?
+2170100 2171840 (11) Você que se camufla melhor?
+2171840 2172700 (11) Pode ser.
+2172700 2174120 (11) Eu vou na frente sim, pode deixar.
+2174160 2174880 (03, 11) Agora tá de dia?
+2175240 2176000 (11) Tá de tarde?
+2176260 2177060 (03) Qual o horário do dia?
+2177260 2178380 (03) É, meio da tarde.
+2178860 2179520 (03) Meio da tarde?
+2179680 2182360 (09, 03) Eu vou pelas folhagens bem devagarzinho, então.
+2182720 2183540 (09, 03) Tentar chegar mais perto.
+2183560 2186600 (09, 03) Vou entre os arbustos que tem, sempre de olho no Raj.
+2186980 2189860 (09) E se acontecer alguma coisa, eu vou pular pra ele pedir no irmão.
+2190380 2194900 (09) E sempre também de olho no nosso caçulinho, no Luke.
+2195320 2198520 (09, 11) Sempre olhando ele pra ele não fazer nenhuma besteira, sabe?
+2198520 2202520 (09, 11) Eu sempre ando perto de uma árvore, pronto pra escalar ela em qualquer emergência.
+2202700 2206520 (11) E sempre atento com o cheiro e com o barulho também.
+2206600 2211100 (02, 11) O caminho até a praia, ele demora um pouco, até porque vocês vão com cuidado, né?
+2211440 2214060 (02) Mas vocês se aproximam, já que o Raj tá na frente.
+2214340 2215340 (02) Fala dois dados.
+2216540 2217340 (02) Três e um.
+2217540 2226100 (02) Tem algumas pessoas, eles parecem um pouco maiores do que humanos normais, mas são humanóis.
+2226400 2229800 (02) A pele verde, assim, vários tons de verde.
+2230160 2230600 (00, 02, 06) Caramba.
+2230600 2232380 (00, 02, 06) A maioria deles tem dentes, assim.
+2232700 2235220 (02) Bem afiados pra fora da...
+2235220 2237080 (02) Como se fossem caninos, sabe?
+2237120 2238880 (02) Pra fora da boca ali.
+2239220 2241180 (02) Vestindo roupas de peles.
+2241700 2247080 (02) Eles usam algumas argolas na orelha.
+2247660 2251320 (02) Alguns colares diferentes, até com ossos.
+2251600 2254680 (02) Tu consegue ver que tem alguns animais que foram abatidos ali.
+2255260 2257340 (02) Tem fogueiras e árvores derrubadas.
+2257340 2258960 (02) Tu falhou no teste, tá?
+2259080 2260660 (02, 03) Isso é só o óbvio.
+2261640 2262120 (02, 03) Certo.
+2262700 2267860 (07, 02, 03) Mas são criaturas que eu já vi alguma vez ou já ouvi falar?
+2267860 2268140 (07, 02, 03) Não.
+2268840 2269880 (07, 03) Não faço ideia.
+2270520 2271000 (07, 03) Caramba.
+2271080 2272800 (07, 03) Vocês estão vendo mesmo o que eu tô vendo?
+2273440 2274300 (03) São monstros.
+2274860 2277640 (03, 11) Será que são entidades malignas da floresta?
+2277680 2278520 (11) Eu nunca vi algo assim.
+2278520 2283460 (11) Na hora que eu vejo toda essa destruição, já me sobe uma coisa, uma raiva, sabe?
+2283900 2288400 (00, 11) As unhas já automaticamente saem pra fora e eu já quero avançar, na verdade.
+2288680 2290020 (09, 11) Eu tô me controlando muito.
+2290380 2291260 (11) Tô me controlando muito.
+2291340 2292540 (11) Eu acho que meus irmãos perceberam.
+2292700 2294520 (09, 11) Eu também tô com a mesma raiva no cu que eles.
+2294700 2295720 (09) Se controla, por favor.
+2296180 2297220 (09) A gente precisa saber o que eles são.
+2297480 2298780 (11) São quantos, mais ou menos, Guai?
+2298920 2303560 (02, 11) Assim, de onde vocês estão e com a falha do irmão de vocês...
+2303560 2306160 (07, 02, 11) Eu rolei pelo grupo, então todo mundo falhou junto comigo.
+2307680 2309980 (02) Dá pra ver que tem pelo menos uns 10 ali.
+2310200 2311040 (02) Talvez tenham mais.
+2311320 2312020 (09, 02) Nossa, é muito.
+2312020 2313120 (09, 02) Eu queria ver se eu consigo...
+2313120 2314500 (09, 02) A gente não vai conseguir dar conta.
+2314500 2318580 (09, 02) Se eu consigo subir em cima de uma árvore pra tentar observar um pouco melhor...
+2318580 2319360 (02) Vai subir numa árvore?
+2319500 2319900 (09, 02) Aham.
+2320180 2321200 (02) Teste de força, dois dados.
+2322360 2322500 (09, 02) 3...
+2322980 2325780 (02) 3 é um acerto crítico, 1 é um acerto simples.
+2325920 2328500 (02) Tu sobe muito facilmente, assim, na árvore.
+2329380 2332920 (02) Lá de cima, tu consegue ver o que parecia 10.
+2333000 2334560 (02) Na verdade, são pelo menos 20.
+2335220 2338800 (07, 02) Existe uma grande construção de madeira no mar.
+2339360 2342680 (07, 02) E construções menores, parece miniaturas daquela construção maior.
+2342920 2344020 (02) Na praia, assim.
+2344100 2347300 (02) Como se fosse, na verdade, um barco muito grande, né?
+2347660 2350400 (02) E canoas menores que trouxeram esses 20 aqui.
+2351020 2352200 (02) Há movimentação.
+2352200 2355760 (02) Na construção de madeira que tá em alto mar.
+2357240 2358300 (02) E tem esses 20 ali.
+2358680 2361860 (02) Eles tão abrindo espaço, cortando árvores, né?
+2362380 2364100 (02) E alguns animais.
+2364220 2368220 (02) Tu vê que tem coelhos abatidos, assim, presos numa vara fincada no chão.
+2368300 2371420 (02) Assim, em cima tem vários coelhos já mortos.
+2372020 2374040 (02) E eles tão organizando alguma coisa ali.
+2374420 2376820 (02) Eu quero observar se eles tão com alguma arma na mão.
+2376980 2378180 (02) Algo ameaçador, assim.
+2378340 2380900 (02) A tribo de vocês não tem um conceito de armas, né?
+2380900 2381580 (02) Vocês...
+2381580 2383780 (02) Nunca entraram em guerra com ninguém.
+2384340 2385740 (02) Eles têm ferramentas com eles.
+2386440 2386880 (02) Machados.
+2387680 2388900 (02) Lâminas muito grandes.
+2389280 2392020 (09) Navios e canoas, a gente tem esse conceito também.
+2392500 2393140 (09, 02) Ou não.
+2393140 2395280 (09, 02) Não, porque vocês nunca saíram da ilha.
+2395500 2398700 (09, 02) Os rios ali são pequenos, né?
+2398700 2399880 (02) Eles não chegam a ser navegáveis.
+2399940 2401080 (02) Não precisam ser navegáveis.
+2401580 2402520 (02) Mas não tem esse conceito.
+2402660 2406000 (09) Tá, o Asis desce rápido da árvore, né?
+2406300 2407580 (09) Não são 10, são 20.
+2407940 2411520 (09) E eles vieram em toras gigantes e toras gigantes.
+2411580 2412240 (09) E menores.
+2412540 2416260 (09) Ela faz, tipo assim, os mãozinhos em toras gigantes e toras menores.
+2416600 2417460 (09) Não sei o que é aquilo.
+2417840 2418740 (09) Nunca vi aquilo.
+2418900 2419360 (09, 11) O Asis.
+2419720 2419980 (11) Rai.
+2420320 2421140 (11) Deixa eu ir ali.
+2421440 2422160 (11) Chegar perto deles.
+2422340 2423440 (11) Eu quero ver como eles vão reagir.
+2423720 2426180 (09) Eles estão segurando coisas estranhas nas mãos.
+2426380 2427120 (11) É perigoso.
+2427220 2427960 (11) Eles são muitos.
+2428300 2429700 (09, 11) Mas eu consigo fugir.
+2429800 2430960 (11) Eu consigo escapar deles.
+2431260 2432560 (11) Eu só quero ver como eles vão reagir.
+2433020 2434320 (11) E quantos deles vão vir atrás de mim?
+2434420 2435000 (09, 11) Não vai.
+2435340 2436740 (09) Eu te aconselho, não vai.
+2436740 2440120 (09, 03) Eu só queria saber se a fumaça que a gente viu era só de fogueiras mesmo.
+2440240 2440740 (03) Ou se eles estão...
+2440740 2442760 (03) Fazendo mais alguma outra coisa.
+2443000 2443440 (02, 03) Fogueiras.
+2443600 2446040 (02) A gente tem fogueiras ali na praia.
+2446180 2446300 (02) Tá.
+2446400 2448620 (02, 03) Eles parecem ter chegado há bastante tempo, então, né?
+2449020 2450000 (02) Rola um dado, vai.
+2451400 2451840 (02) Seis.
+2452020 2452740 (02) Tu raciocina...
+2453640 2458400 (02) Tu tem experiência de fogo e fumaça, principalmente do xamã.
+2458640 2460780 (02) Eles estão abafando esse fogo.
+2461100 2463220 (02) Parece algum tipo de comunicação.
+2463220 2465480 (02) Parece que eles estão...
+2465480 2467980 (00, 02, 07) Eles não estão usando essa fogueira pra cozinhar nada e tal.
+2468520 2470660 (00, 02) Eles parecem que estão querendo produzir bastante fumaça.
+2470740 2473720 (02) Mesmo pra passar algum tipo de recado.
+2474220 2475520 (02) Ou pro barco deles.
+2475880 2477220 (02) Ou talvez pra algo mais longe.
+2477400 2478740 (03) Sinais de fumaça.
+2479280 2483080 (03) Gente, vocês estão vendo ali a fogueira como eles estão fazendo com os panos?
+2483600 2485940 (03) Eles estão transmitindo sinais.
+2486520 2488680 (03) Deve ter muito mais do que 20, então.
+2489360 2491620 (03) Nossa, a gente tem que avisar a nossa tribo.
+2492060 2494440 (03) Eu acho que a gente não pode fazer nada sozinhos.
+2494440 2496280 (03, 11) Eu acho que a gente pode sim, Raio.
+2496420 2497720 (11) Não dá tempo de voltar lá.
+2498220 2499420 (02, 11) A gente tem que fazer algo.
+2499620 2499860 (02, 11) A tribo...
+2499860 2500000 (02) É.
+2500000 2501300 (02) A tribo tá longe, inclusive.
+2501580 2501940 (02) Exato.
+2502420 2505880 (02) Quem tá na vila, se olhar pro horizonte, vai ver a fumaça, né?
+2506220 2508100 (02, 03) A reação deles é que não dá pra saber qual vai ser.
+2508140 2509840 (03) Eles devem ter visto já, então.
+2510100 2510460 (03) Talvez.
+2510660 2511140 (03) Não sabemos.
+2511340 2511480 (03, 11) É.
+2511640 2512340 (11) É possível.
+2513140 2515520 (11) Será que eu consigo me comunicar com algum pássaro?
+2516000 2518500 (11) Algo assim pra pedir pra ele dar um recado ali na tribo?
+2518740 2520340 (11) Que tem algo estranho acontecendo aqui?
+2520340 2522480 (02, 11) Os animais, no geral, fugiram, né?
+2522560 2525120 (02) Por conta do que tá acontecendo ali.
+2526160 2527740 (02) Rola dois dados, vai.
+2529160 2529820 (02) 4 e 2.
+2530000 2530200 (02) É.
+2531260 2534160 (02) Os animais que estavam ali fugiram e estão bem longe agora.
+2534500 2538880 (11) E os animais abatidos estão cercados pelas criaturas estranhas?
+2539080 2540780 (02, 11) Os abatidos estão mortos, sabe?
+2540960 2541500 (02, 11) Ah, então...
+2541500 2542580 (02, 11) Eles não são só presos.
+2542940 2543860 (02, 11) Tem alguns presos, não?
+2543900 2543920 (02, 11) Não, não.
+2543920 2545120 (02, 11) Eles foram abatidos.
+2545260 2546120 (02, 11) Ah, mortos mesmo.
+2546960 2547360 (11) Mortos.
+2547860 2549200 (11) Bom, isso já é bem preocupante, né?
+2549200 2555140 (02, 11) Essas 20 criaturas, elas estão bem espalhadonas ou eles estão tudo concentrados só na praia ali?
+2555300 2555420 (02) Tá.
+2555540 2558780 (02) Tem dois cuidando de uma fogueira, dois cuidando de outra.
+2559280 2559840 (02) Tem um cortando...
+2560000 2562220 (02) Tem um cortando, assim, uma árvore com um machado.
+2562780 2565520 (02) Eles não parecem estar preocupados com nada ali.
+2565880 2566860 (02) Eles não estão no...
+2566860 2568840 (02) Eles não parecem estar esperando um ataque.
+2569480 2570740 (02) Mas são 20.
+2571200 2572200 (02) Tem algum de canto?
+2572340 2573900 (02) Tem um sobrando de canto?
+2574200 2574780 (02) Não tem nenhum.
+2575020 2578760 (02) Deve ter um que volta e meia vai até a floresta, escolhe uma árvore, corta.
+2579420 2579780 (02, 11) Certo.
+2580220 2583540 (02) E puxa o tronco pra mais perto da praia, né?
+2583780 2585260 (02, 11) Então é nesse que eu quero colocar.
+2585260 2589820 (02, 11) Eu quero grudar a visão em algum desses que eu vejo que tá indo sozinho pra floresta.
+2590000 2592600 (02, 11) Focar nele por um tempo e esperar algum vacilo dele.
+2592640 2593540 (02, 11) E quando ele vacilar?
+2594060 2595800 (11) E quando ele vacilar, você já sabe, né?
+2595800 2597160 (11) Vão rolar uns dados aí mesmo.
+2597220 2601140 (02, 11) Os irmãos, algum plano ao tentar impedir ou coisa do tipo?
+2601240 2602860 (09) Quero ficar de olho no Kuki.
+2603080 2604840 (09, 03) É, não sei se a gente percebeu isso.
+2604940 2606800 (03) A gente deve ter percebido que você tá encarando.
+2607020 2609880 (03) O Kuki não vai atacar sozinho, eles são muitos.
+2610320 2612660 (11) Raj, o Asus, eu quero que vocês fiquem aqui.
+2612660 2617320 (11) Eu vou ali na direção daquela criatura, tá bom?
+2617800 2619980 (11) Confie em mim, eu vou subir na árvore, vou ficar de cima.
+2620000 2621700 (11) Estou observando ele, bem de pertinho.
+2621980 2623780 (11) Vocês fiquem aqui, por favor, tá bom?
+2623880 2624680 (09) Por que, Kuki?
+2625060 2626080 (09, 11) A mãe, eu não sei.
+2626100 2626820 (09, 11) Só fica aqui.
+2626880 2627740 (09, 11) Diz muita coisa.
+2627920 2630160 (11) Qualquer coisa, eu vou pra dentro do mato, mano.
+2630180 2630980 (11) Eles não vão me pegar.
+2631260 2632920 (11) Confie em mim, deixa eu ir ali perto daquele.
+2633040 2633680 (11) Ele tá sozinho.
+2633940 2636220 (03, 11) Bom, tudo bem, se você sabe o que está fazendo.
+2636620 2641600 (09) A Asus pega o rosto do Kuki, coxa no rosto dela, igual a mãe e pai.
+2641600 2645820 (09) E fala pra ele assim, não quer dizer que você é grande, que você possa ser tão forte.
+2646000 2647920 (09) Às vezes é preciso a gente pensar junto.
+2648040 2649300 (11) Eu sei, mas eu tenho vocês.
+2649300 2650680 (11) Por isso que eu tenho vocês.
+2650860 2653020 (11) Qualquer coisa, eu quero que vocês distraiam os outros também.
+2653160 2654660 (11) Vamos fazer uma bagunça aqui, boa.
+2654820 2656320 (11) Deixa eu ir lá, vai dar bom.
+2656500 2662940 (03, 11) Eles não parecem ser o tipo de criatura que se afasta com medo de uma pantera.
+2663080 2666460 (11) Mas aqui ele tá sozinho, se eu pular na cabeça dele, ele não vai ter nem tempo.
+2666640 2671740 (09) A Asus pega um graveto, ela bate um gravetinho assim na mão, olha pra ele e fala assim,
+2671920 2674660 (09) se você morrer, eu te trago de volta e te mato de novo.
+2675400 2676200 (09) Olha pra ele.
+2677800 2679100 (11) Eu não vou morrer.
+2679300 2679960 (09, 10, 11) O Asus.
+2680660 2687020 (11) E eu já vou começar indo, subindo as árvores e já vou mais ou menos na direção da onde aquela criatura fica indo direto.
+2687140 2688640 (09, 11) Então, então é promessa.
+2688980 2689920 (09) Patinha na pata.
+2690120 2693100 (09) Ela chega a patinha dela, tenta ele botar a patinha dele.
+2693340 2694660 (11) Olho no olho, olho no olho.
+2694740 2695520 (09, 11) Bota a pata aqui.
+2695740 2696740 (09, 11) Patinha na pata e olho no olho.
+2696760 2698200 (09, 11) Não, é pra fazer nenhuma besteira.
+2698360 2700060 (09, 11) Coloca a pata e o rádio do ovo.
+2700060 2701080 (09, 11) Não, você tem que dizer.
+2701940 2703840 (09) Não vou fazer nenhuma besteira.
+2703840 2706660 (09, 11) Não vou fazer nenhuma besteira.
+2706860 2708700 (09) Rádio, ele cruzou o rabo.
+2709300 2711300 (09, 07, 11) Não vou fazer nenhuma besteira.
+2713700 2719960 (11) Faço essa promessa pra o Asus, dou uma olhadinha pro rádio, dou uma balançadinha de cabeça e já começo a ir.
+2720300 2721280 (07, 03, 11) Quero ficar perto do...
+2721280 2723180 (03, 11) O rádio faz que sim e vamos ficar de olho.
+2723460 2723880 (11) Beleza.
+2724180 2725260 (11) Então, é isso.
+2725580 2731160 (11) Eu vou subir nas árvores e fico de algum lugar que dá pra observar bem de pertinho essa criatura indo e voltando.
+2731580 2734260 (07, 11) E quero observar se alguma outra criatura vai ficar observando ele, sabe?
+2734520 2736500 (11) Se tem alguém de olho nele, de vez em quando ou não.
+2736940 2738540 (11) Lá do alto da árvore, consigo ver isso?
+2738540 2738820 (11) Consegui.
+2739300 2740620 (11) Consegue, consegue, tranquilo.
+2740880 2742220 (02, 11) E ele parece estar sozinhão mesmo.
+2742600 2746380 (02) Ele, em alguns momentos, ele fica sozinho pra pegar uma árvore.
+2746460 2747520 (02) Ninguém parece estar...
+2747520 2749360 (02) Como eu falei, ninguém tá esperando um ataque.
+2749680 2750040 (02) Certo.
+2750480 2755360 (03) Eles estão, assim, agressivos com a floresta, mas eles não estão...
+2755360 2756460 (03) Eles estão tranquilos, né?
+2756660 2757800 (03) Eles não estão de guarda.
+2757840 2760720 (02) Eles não estão agressivos com a floresta porque a floresta não revida, né?
+2761120 2762980 (07, 02, 03) Eles estão cortando...
+2762980 2765520 (02) Eles estão fazendo lenha pra fogueira deles.
+2765900 2768020 (07, 02) Eles estão separando alguma madeira pra fazer alguma outra coisa.
+2768440 2769280 (02) Eles mataram os animais.
+2769300 2770960 (07, 02, 04) Mas, provavelmente, pra comer, né?
+2770960 2771580 (07, 02, 04) Pra comer, uhum.
+2771580 2776020 (07, 02, 04) Os coelhos não devem ter tentado encarar os estrangeiros, né?
+2776060 2777640 (02) Eles estavam no lugar errado.
+2777760 2780080 (09, 02) E eles estão bem desatentos, né?
+2780360 2780920 (09, 02) Estão, estão.
+2781020 2782540 (09, 02) Eles não estão esperando...
+2782540 2785640 (02) Eles não estão esperando ser agredidos ali, aparentemente.
+2785900 2787660 (09) Eu olho pro raio, assim, e falo assim...
+2787660 2789500 (09) Você aposta quanto que ele vai atacar alguém?
+2789620 2791400 (03, 11) Ah, com certeza ele vai atacar alguém.
+2791860 2796800 (11) Então, no que o ogro se aproxima, em algum momento ali da floresta, sozinho,
+2796800 2798800 (09, 03, 11) eu não quero atacar ele, mas eu quero...
+2799300 2802700 (11) De propósito, eu quero que ele me veja pra ver como ele vai reagir, uma vez.
+2802940 2803180 (11) Entendeu?
+2803760 2804580 (11) Eu quero fazer isso.
+2804600 2806700 (11) Tá, tu vai fazer um barulho pra ele te notar.
+2806860 2809560 (02, 11) Como eu tô mais alto, eu quero derrubar algum tronco,
+2809780 2811640 (11) ou algo assim, dar uma balançada na árvore,
+2812100 2814200 (11) mas já pronto pra pular em outras e fugir.
+2814520 2816400 (11) Qualquer coisa, dependendo de como ele vai reagir.
+2816580 2819420 (02, 11) Porque eu não sei se ele vai me atacar, se ele vai ficar curioso...
+2819420 2821700 (02) A tua intenção é intimidar ele,
+2822120 2824780 (02) ou só tô de bobeira aqui por coincidência?
+2825080 2826520 (11) Eu quero que ele me olhe uma vez.
+2826520 2829180 (11) Eu quero que ele me veja pra me saber como que eu vou reagir.
+2829300 2829460 (11) Entendeu?
+2829920 2831440 (11) Não quero intimidar nem nada ainda.
+2831600 2834220 (11) Agora eu quero que ele me perceba, como se fosse um animal distraído.
+2834500 2835580 (02, 11) Me fazendo de bobo.
+2835800 2837640 (02, 11) Uma pantera boba perdida ali na floresta.
+2837720 2837940 (02) Ok.
+2838320 2839780 (02) Dois dados, tu atributou mais.
+2841200 2841800 (02) 4x4.
+2842000 2847380 (02) Tu faz o movimento ali pra fazer barulho, e consegue.
+2848020 2853940 (02) Porque o galho que tu tava, ele acaba não segurando o teu peso quando tu te move.
+2853940 2855420 (02) O galho quebra.
+2855820 2857460 (02) Tu cai em pé no chão, afinal.
+2857920 2858940 (02) Tu é um felino.
+2859300 2864300 (02) De qualquer forma, a criatura olha assustada pra ti,
+2864380 2866960 (02) ela segura o machado com as duas mãos,
+2867360 2871060 (07, 02) ele grita alguma coisa no idioma que tu não entende,
+2871720 2875960 (07, 02) e outros daqueles que estavam na praia começam a correr ali na direção que ele tá.
+2876320 2878340 (02) Mas ele tá parado te encarando com o machado na mão.
+2878780 2879940 (09) Percebemos isso, Guaxa?
+2880020 2880220 (09, 02) Sim.
+2880360 2884660 (09, 02, 11) Mas primeiro vamos ouvir o que o Lukuk tem a fazer com isso tudo.
+2884660 2888360 (02, 11) Minha primeira reação, eu quero ver a velocidade das outras criaturas.
+2888360 2890980 (11) Pra mim saber se eu facilmente fujo deles ou não.
+2891000 2892400 (11) Você facilmente foge deles.
+2892600 2892840 (11) Você.
+2892980 2893220 (02, 11) Entendeu?
+2893340 2896140 (11) E esse que tá na minha frente, ele tá paralisado ou ele já tá avançando?
+2896580 2898640 (02) Ele não tá avançando nem recuando.
+2899000 2900840 (02) Ele segurou o machado, é um machado grande.
+2901300 2903620 (02) Ele tá segurando o machado com as duas mãos.
+2904200 2910840 (02) Ele abriu um pouco as pernas, assim, como quem tá esperando uma investida.
+2911480 2912820 (07, 02) E ele tá só...
+2912820 2915620 (02) Ele tá esperando, ele não tá atacando nem recuando.
+2916220 2917400 (02) O que que tu pretende fazer?
+2917400 2919500 (02) Ele tá em volta de bastante árvores.
+2919860 2921140 (02, 11) Tem umas árvores em volta dele?
+2921280 2921520 (02, 11) Sim.
+2922060 2923420 (11) Algumas já derrubadas, né?
+2923500 2928340 (11) A primeira coisa que eu faço é querer dar uma leve escaladinha nas árvores e pular em cima dele.
+2928740 2929560 (11) Não, não em cima dele.
+2929640 2930120 (11) Não em cima dele.
+2930200 2935500 (11) Eu quero subir em alguma árvore e tentar cair atrás dele, meio que empurrando ele, sabe?
+2935700 2936980 (11) De uma forma que ele não vai esperar.
+2937140 2937280 (11) Tá.
+2937940 2942320 (02) Tu começou a escalar uma árvore, rage e oásis.
+2942660 2943640 (02) Ação de vocês.
+2944280 2945880 (02) Vocês estão um pouco mais pra trás, né?
+2945880 2947380 (02) Vocês estão um pouco mais pra trás.
+2947400 2949960 (02) Mas a vantagem é que vocês não foram vistos ainda.
+2950000 2954160 (02) Existem moradias deles, assim, tipo cabanas, alguma coisa, barracas?
+2954460 2954780 (02) Não.
+2954920 2958020 (02) Eles estão separando algumas torres maiores, assim.
+2958720 2961660 (02) Talvez eles tenham interesse em fazer alguma coisa depois.
+2962120 2964140 (02) Mas eles não parecem estar ali há tempo suficiente pra isso.
+2964240 2965940 (02, 03) Ah, eles acabaram de chegar, então.
+2966160 2969400 (03) Eu queria aproveitar, pelo menos, a distração pra tentar...
+2970480 2971800 (03) Putz, como é que...
+2971800 2975920 (03) Eu não sei, eu ia entrar em alguma cabana, alguma coisa, mas aqui não tem.
+2976600 2977000 (03) Existem...
+2977000 2978760 (03) Eles estão descarregando alguma coisa?
+2979160 2980240 (03) Tem carga?
+2980460 2981380 (03) Não, não tem carga.
+2981580 2983500 (03) Eles estão cortando toras e empilhando.
+2983880 2984280 (02) Isso.
+2984580 2987120 (02) Algumas eles estão separando, provavelmente pra construir alguma coisa.
+2987720 2992720 (02, 03) E há, assim, galhos menores ou árvores, sei lá, meio tortas, que estão transformando em lenha.
+2993020 2996540 (02) E alimentando duas fogueiras, assim, grandes, que eles estão usando pra fazer fumaça.
+2996800 2997060 (03) Tá.
+2997800 2999560 (03) Oásis, eles...
+2999560 3001620 (02, 03) Ele vai atacar o cara.
+3002020 3003280 (02, 03) O que que a gente faz?
+3003600 3006880 (00, 02, 07, 03) Eles, certamente, estão aqui pra...
+3006880 3008960 (03) Pra ficar e...
+3008960 3011600 (03) Não sei, não sabemos se eles são agressivos ou não.
+3011720 3014300 (02, 03) Em defesa do Luluco, quebrou o galho que ele tava pisando.
+3014760 3018460 (07, 02, 09, 03) Não dá pra saber que ele ia fazer bobagem antes das coisas acontecerem.
+3018660 3019020 (02) Mas ok.
+3020480 3022760 (07, 02, 09) Na nossa cabeça, ele pulou o cara.
+3023360 3023560 (09) É.
+3024560 3026100 (09) Irmão, só tem uma coisa.
+3026440 3028580 (09) Pra gente entrar na loucura junto com o Luluco.
+3028580 3031260 (09) Pra tentar todo mundo correr atrás um do outro.
+3031900 3032420 (09) Mas...
+3032420 3036640 (09) Eu posso tentar usar aquele cheirinho específico dos tecidos, entendeu?
+3036880 3037480 (09, 03) Sei.
+3037620 3038300 (03) Vai que funciona.
+3038560 3040040 (03) É, se precisar, é uma boa.
+3040320 3041480 (03) Vamos chegar perto, então.
+3041840 3044000 (03) Eu vou tentar ficar por perto.
+3044740 3045260 (03) Mas...
+3045260 3047080 (03) Eu tô dentro da areia.
+3047460 3049420 (03) Eu tô deslizando por dentro da areia, assim.
+3050020 3051960 (03) E deve tá sendo horrível, porque deve tá super quente.
+3052100 3055280 (09) Oásis vai se movimentando ali...
+3055280 3057980 (09) Entre as folhagens, mas sempre de ouro na areia.
+3058260 3059400 (09) Ele mandando ela saindo.
+3059960 3065060 (09) Tentando manter o foco, mais ou menos, na bagunça que o Luluco tá fazendo ali.
+3065440 3066060 (09, 02) Vocês começaram?
+3066880 3072820 (02) Se mexer, o Luluco escalou uma árvore e pulou pra cair atrás de um orque, né?
+3072820 3075860 (02) De uma criatura verde.
+3076340 3078700 (02) Pra chutar ou atacar ela por trás.
+3079060 3080080 (02) Pra pegá-la de surpresa.
+3080560 3081480 (02) Dois dados, Luluco.
+3082560 3083280 (02) Dois e um.
+3083520 3084020 (02) Dois e um.
+3084200 3085180 (02) Dois acertos.
+3085560 3087140 (02) Tu queria derrubar esse cara.
+3087520 3090380 (11) Mano, eu tenho dois metros, assim, de pé.
+3090600 3092180 (11) Essa criatura é muito maior que eu?
+3092580 3093680 (11) Ou minha altura, mais ou menos?
+3093960 3096700 (02) Ela tem uns dois e trinta, mais ou menos.
+3096700 3097200 (02) Nossa.
+3097420 3098960 (07, 02, 03) Nossa, eles são muito grandes.
+3098960 3101380 (02) E esse é um lenhador, né?
+3101460 3103380 (02, 03) Então imagina que ele tem uns braços...
+3103380 3106440 (07, 02, 03) Não, são cem casas e meio de altura e de largura.
+3108240 3110020 (09) Luluco, que eu acredito em você, irmão.
+3110160 3111020 (09, 02) Você consegue.
+3111440 3112440 (02) Tu tem dois acertos.
+3113000 3113760 (02) Tu conseguiu.
+3114300 3115980 (02) Se tu quiser ter matado esse cara, tu matou.
+3116080 3117540 (02) Se tu quiser ter derrubado ele, tu derrubou.
+3118020 3119900 (02) Tu subjugou ele de alguma forma.
+3120280 3121720 (02) Eu quero que tu descreva pra gente.
+3122160 3123200 (02) Subiu na árvore e pulou.
+3123460 3124360 (02) O que é que tu fez?
+3124680 3125020 (02) Beleza.
+3125040 3126520 (02) E o que aconteceu com esse pobre lenhador?
+3126700 3130740 (02, 11) Então, no que eu caí na frente dele, eu escalei uma árvore que tava do meu lado.
+3131320 3132740 (11) Bem rápido, eu escalei ela.
+3132880 3136180 (11) Eu pulei numa outra, ele ficou meio assim, olhando pra cima, me acompanhando.
+3136260 3137360 (11) E consegui cair atrás dele.
+3137540 3140540 (11) Nisso daí, eu já caí com as duas patas assim, nas costas dele.
+3140720 3143720 (11) E os meus duzentos e poucos quilos, é meio difícil de aguentar, né?
+3144060 3145200 (11) E ele caiu de peito no chão.
+3145300 3147920 (02, 11) A tua pantera deu uma voadura com os dois pés, é isso?
+3148340 3149700 (07, 02, 11) Foi praticamente isso.
+3149760 3150900 (02, 11) Foi praticamente isso.
+3151100 3153920 (02, 11) E daí ele cai, largando o machado assim, cai pra frente.
+3153920 3155140 (02, 11) Cai de bruxo.
+3155140 3156900 (11) E eu já quero abocanhar.
+3157320 3160220 (11) Ah, eu tenho a noção de que isso é uma árvore, que é perigoso pra mim.
+3160520 3163400 (11) Se corta uma árvore, corta um bichinho na natureza, né?
+3163600 3163920 (11) Entendeu.
+3164040 3168860 (11) Então, por instinto, no que ele caiu, assim, com a mão meio desajeitada, eu já quero...
+3168860 3172220 (11) Eu fui agarrar o martelo, mas como eu sou meio desajeitado, acabei agarrando a mão dele.
+3172840 3176140 (11) E a minha mordida é muito mais forte do que eu imaginava, né?
+3176480 3178520 (11) Então, acho que esse cara ficou sem mão.
+3178600 3178800 (11) Ok.
+3179700 3181440 (07, 11) Tá me tomando o cara aí.
+3181440 3184140 (07, 02, 11) Eu catei a mão e o machado junto.
+3185140 3187900 (02) Raj, tu tá fazendo lá, tu tá indo fazer o teu plano.
+3188480 3190480 (02) O teu machado com a mão de um lenhador.
+3190840 3191700 (07, 02) O que tu vai fazer?
+3193920 3198720 (07, 02) Tu vê que da praia, da praia, os orques que a gente tava fazendo, eles pararam.
+3199260 3202940 (02) E tem 19 orques correndo ali na direção de você.
+3204180 3206000 (02, 03) Eu não sei o que que eu faço.
+3206320 3207320 (03) Eu vou...
+3209320 3210520 (03) Eu passo a vez.
+3210600 3211540 (03) O que que você acha, Raj?
+3214400 3214800 (unknown) Tá.
+3214800 3215940 (02, 03) Vai pensando.
+3216080 3216820 (09, 02) Oásis ou ação?
+3216900 3220700 (09, 02) A oásis até então tava tipo, que ele não faça besteira, que ele não faça besteira.
+3220780 3224980 (09, 02) Quando ela viu o irmão dela ter um sucesso, ela dá aquele gritinho, eu sabia, eu sabia.
+3225360 3228120 (09) Tipo, feliz que o irmão dela conseguiu derrubar o cara.
+3228280 3232680 (09) E ao mesmo tempo ela para assim, ela, ah não, ele fez, ele fez, Raj, ele fez.
+3233220 3235780 (07, 03, 11, 09, 00) Aí o Raj fala, eu sabia, eu sabia.
+3236940 3238220 (03, 11) Olha, se lamentando.
+3238980 3242520 (11) Eu só quero deixar claro, eu arranquei a mão do cara, foi sem querer, viu?
+3242720 3243600 (11) Foi sem querer, viu?
+3243920 3244220 (07, 02, 11) É assim, um...
+3244220 3244780 (02, 11) Não tem o que eu posso falar.
+3244800 3246980 (07, 02, 11) Não tem o que me convencer.
+3247340 3249300 (02, 11) Tem que convencer os 19 amigos dele.
+3249700 3250400 (02) Mas vamos lá.
+3251100 3253080 (09, 02) A ação já foi, a ação da oásis.
+3253180 3258640 (09) A oásis corre desesperada na direção de alguém ali, que esteja indo na direção do irmão dela.
+3259020 3260220 (09) Pra poder tentar atacar também.
+3260460 3261940 (09) Pegar ali na...
+3261940 3264160 (09) Fala, tendãozinho, já se viu.
+3264480 3265560 (09, 02) Se alguém ali distrair.
+3265880 3266820 (02) Tu vai derrubar um.
+3267200 3267840 (02) Dois dados.
+3269240 3269780 (09, 02) Três, dois.
+3269840 3271000 (02) Três, acerto crítico.
+3271560 3272320 (07, 02, 09) Dois, acerto crítico.
+3272320 3272940 (09, 02, 07) Nossa, que difícil.
+3273940 3274780 (07, 02, 09) Ninguém me ajuda.
+3274800 3276460 (07, 02) O médico, os meus irmãozinhos.
+3277520 3280540 (02) Esse orc pode ter morrido, desmaiado, o que tu quiser.
+3281020 3282440 (02) O que tu fez.
+3282880 3286260 (02) E o que aconteceu com esse pobre orc viajante.
+3286320 3287040 (09) Pobre orc.
+3287680 3289220 (09) Agarrei no pedaço da equipe dele.
+3289540 3292920 (09) Deu aquela caída, aquela fraquejada, ela já foi na agitular dele.
+3293220 3293780 (09) Finalizado.
+3294620 3295960 (09, 03) Ela levanta assim.
+3295980 3298300 (09, 07, 03) Você também, oásis, você também.
+3299080 3301020 (07, 03) Você era a senhora dos três.
+3301760 3303100 (07, 03) Mas ninguém mexeu com ninguém.
+3303100 3303220 (03) Ninguém.
+3303220 3307860 (07, 09, 03) Ninguém mexeu com seus irmãos.
+3307860 3311800 (09) Aquele ser estranho, levantou um troço estranho para o nosso irmão.
+3311800 3314900 (09, 02) Os coelhinhos mortos na praia discordam.
+3314900 3315400 (02) Vamos lá.
+3317800 3319800 (02, 03) Só falta você, Raj.
+3319800 3325800 (03) Eu surjo de dentro da areia, surge uma cabeça de cobra assim, na frente dos dois e falo
+3325800 3327220 (03) gente, pare com isso.
+3327220 3330980 (03) Não sabemos se eles são malignos ou o que eles estão fazendo.
+3330980 3331980 (03) Vamos sair daqui.
+3331980 3332980 (03) Vamos apenas sair daqui.
+3333220 3335780 (09, 02, 03) Você vê oásis apontando para os coelhos.
+3335800 3339080 (09, 02, 03) Vocês querem matar 18, mais 18 deles.
+3339380 3339740 (02, 03) É isso.
+3339740 3342520 (02, 03) Assim, dois já caíram, não tem como se voltar atrás.
+3342940 3343760 (02, 03) Eu quero a tua ação.
+3343780 3345500 (02, 03) Eu estou falando de fugir, eu estou falando para eles.
+3345580 3348000 (03) Vamos fugir, vamos ir embora daqui, vamos correr daqui.
+3348340 3348820 (09, 03) A minha ação é essa.
+3348820 3351680 (09, 03) Mas a nossa tribo, se a gente fugir, como é que fica os outros?
+3351700 3353060 (09, 03) Não sabemos o que eles vieram fazer.
+3353240 3355500 (03) E a gente não vai conseguir derrubar 18, vai?
+3355760 3356160 (09, 07, 03) Não.
+3356360 3357440 (03) Assim, está tudo muito rápido.
+3357840 3359160 (03) Vocês não têm tempo para debater.
+3359480 3363200 (07, 03) A minha ação é falar para a gente fugir.
+3363220 3364220 (03) Quero saber se alguém...
+3364740 3365600 (03) A gente vai continuar escondido.
+3365720 3367600 (03) Eu saí para falar isso.
+3367740 3369100 (03) Eu levantei a cabeça da areia.
+3369580 3372880 (03) Eu estou com os dois palmos para fora da areia, assim, falando com eles.
+3373580 3378620 (03) E eu quero observar se algum deles faz uma menção de ir para trás.
+3379100 3380580 (03) Ou se eles vão continuar atacando outros.
+3380740 3385340 (09) Eu percebo que a oásis está dividida, porque ela está com medo de deixar o Nukuk ali.
+3385640 3387360 (09) Porque ela sabe que ele vai continuar ali.
+3387600 3389200 (09) Mesmo se a gente gritar para ele não ficar.
+3389200 3393200 (09) Mas ela também está dividida entre vamos embora e tentar avisar.
+3393220 3400780 (09, 03) E você, Nukuk, você vai continuar atacando ou você faz uma menção de ir para trás?
+3400780 3406100 (03, 11) Então, no que eu derrubei o Orc e puxei a mão dele sem querer, eu creio que ele ficou gritando bastante.
+3406220 3407560 (11) Chamou a atenção da maioria, né?
+3407680 3408580 (02, 11) Todos estão indo para lá.
+3408920 3409900 (02, 11) De todos, de todos.
+3410400 3416140 (11) E no que ele está gritando lá, aí, tipo, eu já decorei, assim, que se eu fizer isso é uma reação ruim para eles.
+3416280 3418040 (11) Porque o cara começou a gritar e tal.
+3418440 3421240 (03, 11) É, a mão do outro é uma reação ruim, sim.
+3421240 3422740 (11) Então, mas como...
+3422740 3423720 (03, 11) Como eu nunca tinha feito isso antes.
+3424580 3428020 (11) Então, mas como eu nunca tinha feito isso antes, tipo, foi um bagulho meio...
+3428020 3428820 (11) Estou aprendendo ainda.
+3428920 3430700 (11) Comecei nesse mundo agressivo, entende?
+3430900 3432580 (07, 11) A gente vivia em paz até agora.
+3432740 3433320 (11) Vamos lá.
+3433480 3435020 (07, 02, 11) Não dá tempo de debater filosofia.
+3435280 3435700 (07, 11) Que ação.
+3436240 3436860 (07, 02, 11) Não, então, então.
+3437280 3440220 (07, 11) Então, aí, nisso daí, eu já raciocino assim.
+3440780 3442140 (11) Eu vou distrair os outros.
+3442820 3448460 (11) Eu quero sair correndo, mas de um jeito não muito longe deles para que eles venham para cima de mim mesmo.
+3448460 3450460 (11) Já que eu consigo fugir deles facilmente.
+3450660 3452700 (11) Eu quero começar a distrair eles e gritar.
+3452740 3456900 (03, 11) Para algum dos meus irmãos fazer algo com aquela fumaceira lá, com aquela funeira.
+3456980 3458780 (03) Então, eu vou atacar outro, eu acho.
+3458920 3459720 (07, 03) Eu não tenho o que fazer.
+3460480 3462120 (07, 03) Vou sair atacando, então.
+3462700 3463800 (03) Vou atacar geral.
+3464280 3468400 (02, 03) Vai atacar um orc que vier para cima do meu irmão.
+3468540 3469600 (02) Rola dois dados, vai.
+3470980 3471880 (02, 03) Três e dois.
+3472300 3472980 (02) Dois acertos.
+3473160 3474720 (02, 03) Como é que tu neutralizou um orc?
+3474780 3475620 (03) Eu vou...
+3475620 3476160 (03) Vou morder.
+3476440 3478360 (03) Eu vou morder no calcanhar.
+3478360 3480720 (03) Vou morder na panturrilha de um deles.
+3481040 3482360 (03) Para ver se ele...
+3482740 3485480 (03) Se ele para de correr atrás do meu irmão.
+3485740 3487220 (03) E já vou partir para o próximo.
+3488500 3488780 (02) Ok.
+3489040 3489360 (02) Ok.
+3489980 3492220 (02) Então, tu envenenou e matou um deles, é isso?
+3492440 3492720 (02, 03) É.
+3492960 3493180 (02, 03) Sim.
+3494340 3494660 (02) Ok.
+3494820 3496000 (02) Sobrou só 17.
+3496560 3500840 (07, 02, 11) Eu quero gritar para o oásis.
+3500920 3502100 (02, 11) Eu quero gritar para o oásis.
+3502220 3503460 (11) Eu não quero atacar eles.
+3503520 3506380 (11) Eu quero distrair eles e dar um jeito naquela fogueira por enquanto.
+3506560 3507600 (02, 11) Naquela fumaceira toda.
+3507600 3512240 (02, 11) Esse gritar para o oásis é interpretado pelo Orc como um rugido e uma ameaça.
+3512240 3514860 (00, 02, 11) E os 17 orcs vão atacar.
+3515040 3516160 (02) Vocês vão rolar dois dados.
+3516280 3517940 (02) Vocês vão rolar um dado duas vezes.
+3518880 3520520 (02) Mas aí, podem rolar os dois juntos.
+3520640 3522040 (02) Só que entendo que não é um teste só.
+3522360 3523360 (02) São dois testes.
+3524120 3525080 (02) Luluque, dois dados.
+3525160 3525480 (02) Vamos lá.
+3526620 3527140 (02) Tirou quanto?
+3527620 3528900 (02) Cinco e três.
+3529140 3531020 (02) Um acerto crítico e um acerto simples.
+3531520 3534260 (02) Dos dois que te atacaram, eu já descrevo.
+3534840 3535760 (02) Raj, dois dados.
+3536920 3537700 (02) Dois e um.
+3538120 3541120 (02) Dois acertos também dos orcs que te atacaram.
+3541120 3542120 (02) Tá tranquilo.
+3542920 3543920 (02) Oásis, dois dados.
+3545200 3546240 (09) Quatro e três.
+3546640 3548340 (02) Uma falha e um acerto crítico.
+3548520 3548960 (02) Vamos lá.
+3549280 3551220 (02) Luluque, tu começa a correr.
+3551640 3554860 (02) Alguns orcs sacam uma coisa que tu nunca viu.
+3555140 3556540 (02, 11) Mas que atira lanças, né?
+3556540 3556920 (02, 11) Ih, rapaz.
+3557040 3558960 (02, 11) São arcos que atiram lanças ali.
+3559440 3560980 (02) Eles não jogam as lanças.
+3561060 3562640 (02) Eles põem esse arco, puxam e soltam.
+3563240 3565020 (02) Vários voam assim na tua direção.
+3565260 3568080 (02) Mas tranquilamente tu passa por elas.
+3568640 3570420 (02) Um orc se joga na tua frente.
+3570420 3572080 (02) Como é que tu derrubou esse cara?
+3572240 3572440 (11) Eu?
+3572620 3575140 (11) Passei por baixo da perna dele e dei com a minha cauda.
+3575480 3578400 (11) Eu já enrolei uma perna dele enquanto eu passava por baixo dele.
+3578540 3581180 (11) E já dei aquela puxada se ele caiu de boca no chão.
+3581620 3584040 (11) E já dei uma mordida na batata da perna dele pra ele não levantar.
+3586060 3586460 (02) Ok.
+3586980 3588220 (02, 11) Uma mordida pro rosto.
+3589240 3589640 (02, 03) Sanguinário.
+3589780 3591000 (02, 03) Rodo sanguinário ativado.
+3592240 3592640 (02) Ok.
+3592860 3595100 (02) Ele não vai levantar por enquanto, então.
+3595520 3597160 (02) Estamos com dezesseis oponentes.
+3597760 3599980 (02) Raj, tu tirou dois acertos também.
+3599980 3601980 (02) Te notaram, né?
+3602600 3604500 (02) Flechar uma cobra não é algo muito simples.
+3604780 3606580 (02) E realmente ninguém acerta isso.
+3608000 3612240 (02) Um dos orcs vem com uma rede tentando te prender ali.
+3612780 3616800 (02) Mas como tu vai conseguir passar por ele e talvez fazer alguma coisa, o que você faz?
+3616980 3622440 (03) Eu vou tentar morder pra ele cair, mas sem injetar veneno.
+3622580 3628740 (03) Pra ver se ele para e de repente mostra pros meus irmãos sanguinários
+3628740 3631800 (07, 03) que aquele está fora de combate.
+3632240 3634980 (02, 03) Eu não tô querendo matar ele, eu tô querendo tirar de combate.
+3635000 3638740 (02) Tu aprende que a cobra é tipo um gatilho no dente dela, ela não escolhe.
+3638740 3639740 (02, 03) Não escolhe?
+3639740 3640740 (02, 03) Não escolhe.
+3640740 3645300 (07, 02, 03) Só de morder o veneno sai, ao pressionar o ossinho ele sai.
+3645300 3648580 (02) Derrubou mais um ali, estamos em quinze.
+3648580 3650580 (02) Um acerto crítico e uma falha.
+3650580 3652580 (02) Eu falei que não era o mesmo teste.
+3652580 3654580 (00, 02, 05) São duas situações que a nossa querida Oasis passou.
+3654580 3660580 (09, 02) Um acerto crítico, me diz como é que tu inutilizou mais um orco.
+3660580 3670580 (09) Uma mordida bem entre a axila e o resto da axila, pra nunca mais conseguir lançar o porrete.
+3670580 3672580 (09) E até então, pra gente é uma ameaça.
+3672580 3674580 (09) Ela dá aquela mordida, mas não mata.
+3674580 3678580 (09) Ela não mata ele, ela deixa ele incapacitado ali.
+3678580 3682580 (09) Ela cai e se oriça toda pra ele fazer aquele som assim.
+3682580 3684580 (09) O peixugo pra ele não venha pra cima da gente.
+3684580 3688580 (09) E ela vai se afastando assim, olhando na direção desse orco.
+3688580 3689580 (09, 02) Um outro orco?
+3689580 3690080 (02) Quanto?
+3690080 3692080 (02) Quanto tu avas ali, tendo derrubado esse.
+3692080 3695080 (02) Um outro orco joga uma rede em você.
+3695080 3697080 (02) E ele consegue te pegar.
+3697080 3702080 (02) A rede é presa numa corda e ele tá puxando essa corda em direção à praia ali com velocidade.
+3702080 3703080 (02) Raje!
+3703080 3704080 (02) Raje!
+3704080 3705080 (02, 11) Luluque e Raje, ação.
+3705080 3707080 (11) Mano, eu não quero saber de nada, mano.
+3707080 3709080 (11) O único foco agora é minha irmã.
+3709080 3714080 (11) Eu vou desviar de todos se for preciso, mas eu vou me enfiar no meio deles e vou atrás daquele que tá com a minha irmã.
+3714080 3716080 (02, 11) Se enfiar no meio deles é bem perigoso, rola um dado.
+3716080 3717080 (11) Não, não, não.
+3717080 3719080 (11) Mas assim, por volta, assim, sabe?
+3719080 3721080 (09, 11) Contornando ele, sabe?
+3721080 3724080 (09, 11) Com uma olhadinha, assim, marota.
+3724080 3725080 (09, 02, 11) Um dado, vai lá.
+3725080 3727080 (02) Um dado ainda?
+3727080 3729080 (02) Aí, pô, não tinha como dar errado.
+3729080 3730080 (02) Três.
+3730080 3732080 (02) No caminho tu...
+3732080 3736080 (02) Provavelmente o orco que tu vai derrubar é o que tá segurando a corda que prende o teu inferno, né?
+3736080 3737080 (02, 03) Com certeza.
+3737080 3742080 (02) Eu quero tentar me trançar nos pés desse também e ainda tentar ver se dá pra ajudar pra ele cair.
+3742080 3745080 (02) O teu irmão é muito mais rápido e ele já derrubou esse cara.
+3745080 3747080 (02) Tu tá no meio do caminho, rola um dado.
+3747080 3748080 (03) Dois.
+3748080 3751080 (02, 03) Um outro orco tenta chegar perto de ti.
+3751080 3752080 (02) Vai não morder?
+3752080 3753080 (02, 03) Não morder.
+3753080 3756080 (03) Eu tô tentando só derrubar o que tá carregando a minha irmã.
+3756080 3757080 (03) Eu não tô nem olhando os outros.
+3757080 3759080 (03) É, não, mas é que um ficou no teu caminho ali.
+3759080 3760080 (03) É que sobrou um?
+3760080 3761080 (02, 03) Esse eu vou morder.
+3761080 3762080 (02, 03) Não, sobrou doze.
+3762080 3763080 (02, 03) Doze.
+3763080 3766080 (02, 03) Mas tem um entre você e seu destino ali.
+3766080 3768080 (07, 02, 03) Esse eu vou morder, esse eu vou morder.
+3768080 3774080 (02) Os doze que sobraram começam a tentar se juntar ali numa espécie de formação.
+3774080 3777080 (09, 02, 03) Eu tô torcendo pra eles se assustarem e fugirem em algum momento.
+3777080 3778080 (09, 02) Mas eu acho que...
+3778080 3780080 (09, 02) Eles tão vindo na nossa direção.
+3780080 3783080 (02) Sarah, tu tá te soltando ali da rede, né?
+3783080 3784080 (02) Rola dois dados.
+3784080 3787080 (02) Não pela rede, por uma outra coisa.
+3787080 3789080 (09, 02) Quatro e três.
+3789080 3793080 (02) Um acerto crítico, um acerto simples pra notar.
+3793080 3797080 (02) Tu te solta ali facilmente do que tava te amarrando.
+3797080 3800080 (02) Tu vê que os orcs não tão avançando pra cima de vocês.
+3800080 3803080 (02) Eles tão meio que se organizando pra ficarem juntos.
+3803080 3806080 (02) Agora eles tão se preocupando com uma formação de ataque.
+3806080 3809080 (02) Eles tão dando atenção ao olhar pro mar.
+3809080 3813080 (02) Vários barquinhos, várias miniaturas daquele maior.
+3813080 3819080 (07, 02) Trazendo muito mais desses homens verdes vindo em direção à praia.
+3819080 3820080 (02) Nossa.
+3820080 3821080 (07, 02, 03) Vamos embora, gente.
+3821080 3822080 (07, 03) É agora.
+3822080 3823080 (09, 03) A hora de ir embora é agora.
+3823080 3824080 (09, 03) Eu grito pra eles.
+3824080 3825080 (09) Vamos embora.
+3825080 3826080 (09) Correr pra mata.
+3826080 3827080 (09) Tá vindo muito mais.
+3827080 3828080 (09) Ela olha aqui.
+3828080 3829080 (09) Mas antes disso...
+3829080 3830080 (09) Ela para aqui.
+3830080 3831080 (09) Eu vou soltar esse fedor pra gente poder ir embora.
+3831080 3833080 (09, 03) Ela vai tentar soltar ali na bomba.
+3833080 3834080 (09, 03) O meu rabo...
+3834080 3837080 (03) Eu vou soltar o meu rabo na pata do Lukuk e fico puxando ele.
+3837080 3838080 (03) Vamos embora.
+3838080 3839080 (03) Vamos embora.
+3839080 3840080 (11) Vamos embora.
+3840080 3841080 (11) Mas é isso mesmo.
+3841080 3846080 (11) No que eu notei que a oásis ficou em perigo uma vez, já fiquei com medo e minha intenção
+3846080 3850080 (11) ali já era pegar ela também, se for preciso, pela nuca e sair correndo.
+3850080 3854080 (11) E dar um sinal pro raid também já se enfiar no mato e alasar, mano.
+3854080 3855080 (11) Eu tô te puxando pro mato.
+3855080 3856080 (11) Vamos todos pro mato.
+3856080 3861080 (09, 07, 11) Ele tá assim agarradinho na sua perna e com a cabeceira assim, vambora, vambora.
+3861080 3862080 (09, 11) Vambora, pelo amor de Deus.
+3862080 3864080 (11) Já fizemos um estrago, vamo, vamo, vamo.
+3864080 3869080 (09, 11) Enquanto a gente tá ali agarrado em você, tem como eu soltar aquela bomba de cheiro?
+3869080 3874080 (09, 02, 03) Pra pelo menos os que tiverem ali perto da gente eles ficarem assim desatordoados e não
+3874080 3875080 (09) se virem, velho.
+3875080 3876080 (09, 02, 03) Tem.
+3876080 3877080 (02) Pra não virem atrás, né?
+3877080 3878080 (02) Uhum.
+3878080 3879080 (02) Tem.
+3879080 3880080 (02) Dois dados.
+3880080 3881080 (02) Cinco e dois.
+3881080 3882080 (02) Perfeito.
+3882080 3884080 (02) O cheiro toma conta do ar ali.
+3884080 3887080 (02) É um dano puramente moral, né?
+3887080 3890080 (02) Os óculos ainda dão um passo meio pra trás.
+3890080 3891080 (02) Tu escuta o barulho de dinheiro.
+3891080 3894080 (02) Eu escuto o barulho de muitos bateres de asas, né?
+3894080 3900080 (02) Tem aves indo na direção do pessoal nos barquinhos vindo em direção à praia.
+3900080 3909080 (02) Tem muitos animais saindo da floresta, liderados por uma tigresa branca e os animais começam
+3909080 3912080 (02) a atacar os orques que estavam ali.
+3912080 3915080 (02, 11) Bastante rapidez e força.
+3915080 3916080 (02, 11) A mamãe chegou.
+3916080 3917080 (02, 11) Caramba.
+3917080 3920080 (02, 03, 11) Agora eu não sei se eu volto pro combate ou se vou embora.
+3920080 3921080 (03, 11) Bom que ela veio.
+3921080 3922080 (03) Agora eu vou voltar.
+3922080 3923080 (03) Vou voltar pro combate.
+3923080 3925080 (03) Vou ajudar os outros que estão atacando.
+3925080 3927080 (03) Agora a gente tá em maioria.
+3927080 3929080 (03) Já não precisamos bater em retirada mais.
+3929080 3933080 (03) Podemos dar a volta na nuvem de cheiro e nos juntar ao exército.
+3933080 3935080 (09, 03) Ah, o Alex olha aqui o que o Alex falou assim.
+3935080 3936080 (09) Viu?
+3936080 3939080 (09) Nós três juntos fizemos um bom trabalho aqui.
+3939080 3941080 (09) Derrubamos quase todos.
+3941080 3942080 (09) Ela sabe que não foi tudo.
+3943080 3946080 (09, 02) E pra ele assim com aquele sorriso constrangido.
+3946080 3948080 (02) Os animais estão atacando ali.
+3948080 3949080 (02) Vocês não precisam rolar dados agora.
+3949080 3953080 (02) Os animais têm mais experiência aparentemente.
+3953080 3955080 (02) Ou pelos números mesmo.
+3955080 3959080 (02) Mesmo as criaturas que estavam vindo ali em direção ao mar.
+3959080 3960080 (02) Eles param.
+3960080 3965080 (02) Sacam algumas daqueles arcos e começam a atirar em direção à praia.
+3965080 3968080 (02) Mas não parece ser muito efetivo.
+3968080 3969080 (02) Pássaros atrapalham eles.
+3969080 3973080 (02) O grande navio, a construção maior de madeira que estava no mar,
+3973080 3976080 (02) começa a recolher os sobreviventes ali.
+3976080 3979080 (02) Os orques estavam no mar voltando.
+3979080 3982080 (02) Quem estava na praia, todos morreram.
+3982080 3986080 (02) Alguns animais morreram nesse conflito também.
+3986080 3989080 (02) E esse barco maior, ele começa a se afastar.
+3989080 3994080 (02) A pequena guerra na praia começou a se acalmar.
+3994080 3997080 (02) Os animais estão meio inquietos.
+3997080 3998080 (02) O que vocês vão fazer?
+3998080 4000080 (02) Eu quero falar com a minha mãe.
+4000080 4001080 (07, 02, 03) A rainha Lira.
+4001080 4002080 (07, 09, 03) Aproximá-la.
+4002080 4004080 (03) Vocês não a encontram mais ali.
+4004080 4007080 (03) No meio da batalha ela saiu? Ela foi embora?
+4007080 4010080 (03) Eu quero falar com alguns dos outros animais que chegaram.
+4010080 4013080 (03) E falar, nossa, que bom que vocês vieram.
+4013080 4016080 (07, 03) Que animal? Estamos conversando com que animal?
+4016080 4018080 (07, 03) Eu não sei quais que vieram.
+4018080 4020080 (03) O que tiver...
+4020080 4023080 (03) Tem algum tigre?
+4023080 4025080 (07, 00, 03) Um tigre, pode ser um tigre.
+4025080 4028080 (07, 03) Pode ser um felino, um tigre então.
+4028080 4031080 (03) Poxa, que bom que vocês vieram junto com a rainha Lira.
+4031080 4034080 (03) Vocês vieram da nossa tribo?
+4034080 4036080 (04, 03) Vocês viram a fumaça?
+4036080 4039080 (04) Sim, por esses vezes ele chegou até a tribo.
+4039080 4041080 (04, 03) Chegou até a tribo? E o que ele fez?
+4041080 4044080 (03) O xamã. O xamã foi atacado.
+4044080 4048080 (03) Foi atacado? Caramba, então eles não são do bem mesmo. Ótimo.
+4051080 4052080 (04, 03) Menos uma preocupação.
+4052080 4055080 (04, 03) Eu não cheguei a ver. Ele estava com a rainha.
+4055080 4060080 (04) Logo depois ela saiu no corpo da tigresa e nos chamou para a batalha.
+4060080 4065080 (04) Viemos até aqui e ela deve ter voltado para ver o que aconteceu.
+4066080 4069080 (02) A gente precisa do xamã para voltar para o corpo? Para o nosso corpo normal?
+4069080 4072080 (02, 04) Não. Mas o corpo de vocês estava na cabana do xamã, né?
+4072080 4077080 (02, 03, 11) Talvez tenha sido atacado. A gente sentiria um ataque ao corpo?
+4077080 4078080 (02) Tu não faz ideia.
+4078080 4082080 (11) A gente sabe se morrer como animal o que acontece? A gente sabe?
+4082080 4083080 (11) Morre.
+4083080 4087080 (11) Então provavelmente se o nosso corpo morreu, a gente vai ficar preso nesse corpo para sempre também.
+4087080 4089080 (02, 11) Talvez. É o mais provável.
+4089080 4091080 (11) Então a primeira coisa que eu falo para os irmãos.
+4091080 4094080 (11) Provavelmente a gente vai ficar nesse corpo para sempre. Já dou esse papo.
+4094080 4096080 (11) Falo para eles irem se acostumando.
+4096080 4098080 (09, 11) Pelo menos é um corpo, né?
+4098080 4100080 (09) Ela dá aquele riso assim sem graça para eles.
+4100080 4102080 (09) Eu não quero morrer.
+4102080 4104080 (09, 11) E olha para os irmãos dela assim.
+4104080 4106080 (11) Agora a única coisa que eu quero fazer é ir lá conferir meu corpo.
+4106080 4108080 (02, 11) Mas estamos longe, né?
+4108080 4110080 (02) Os animais estão voltando. Vocês podem estar voltando com eles, né?
+4110080 4112080 (02) Os orcs todos fugiram para o mar.
+4112080 4118080 (02, 03) Os poucos que sobreviveram voltaram para o barco e estão indo embora.
+4118080 4121080 (03) Então acho que dá para a gente voltar para a tribo e ver como é que está.
+4121080 4122080 (03) Porque se eles chegaram até lá...
+4122080 4123080 (02, 03) Depois de algumas horas de caminhada já é noite.
+4123080 4127080 (02) Quando vocês conseguem finalmente voltar para a tribo.
+4127080 4132080 (02) Há algumas construções chamuscadas, né?
+4132080 4133080 (02) Não está mais pegando fogo.
+4133080 4135080 (02) Mas claramente pegou fogo.
+4135080 4139080 (02) Os habitantes estão meio desnorteados, né?
+4139080 4142080 (02) Alguns deles estão levantando ali.
+4142080 4146080 (02) Os animais que atacaram a cidade são familiares.
+4146080 4150080 (02) Não haviam pessoas dentro do corpo desses animais.
+4150080 4152080 (02) Mas a rainha, como rainha, conseguiu conseguir.
+4152080 4156080 (02) Como a rainha conseguiu convocar esses animais para a luta, né?
+4156080 4159080 (02) E os animais estão voltando, encontrando os seus donos.
+4159080 4161080 (02) Os seus donos não, né?
+4161080 4163080 (02) Os seus familiares.
+4163080 4165080 (02) E ficando juntos ali.
+4165080 4168080 (02) Está um clima meio de tristeza.
+4168080 4171080 (02) A rainha está lá em cima.
+4171080 4174080 (02) Ela baixa a cabeça quando vê vocês.
+4174080 4178080 (02) Para poder mostrar a tristeza de que algo ruim aconteceu.
+4178080 4180080 (02) E faz sinal para que vocês subam.
+4180080 4184080 (02, 03, 11) Por aquela rampa da cabana do xamã, né?
+4184080 4186080 (03, 11) Ah, quero subir. Quero ver como estão os corpos.
+4186080 4190080 (11) Já senti o que aconteceu e já estou meio imaginando coisas.
+4190080 4193080 (11) Já preparado para ver eu morto ali.
+4193080 4197080 (09) A oásis sobe com uma expressão bem séria e preocupada.
+4197080 4199080 (09) Mais preocupada com os irmãos do que com ela mesma.
+4199080 4205080 (09, 02) Ao chegarem ali na cabana do xamã, o corpo de vocês está intacto.
+4205080 4208080 (02) Mas o xamã está caído no chão.
+4208080 4212080 (02) Com o machado daqueles cravado no peito.
+4212080 4214080 (02, 03) Caramba, Nuru!
+4214080 4217080 (02) Há muito sangue ali. Ele está morto.
+4217080 4222080 (09, 02) O corvo está também inquieto, pousado no ombro da rainha.
+4222080 4224080 (09) Meus filhos, voltem.
+4224080 4230080 (09, 03) Acho que depois de tudo que passaram hoje, já serve para provar a todos que vocês são capazes.
+4230080 4234080 (03) Sim, sim. Podemos voltar a ser humanos então?
+4234080 4238080 (02, 03) Ela faz um sinal para entrarem no corpo de vocês.
+4238080 4240080 (02, 03) A gente sabe como fazer isso?
+4240080 4243080 (02, 03) Quando você chega perto, parece instintivo e você consegue.
+4243080 4246080 (02, 03) Então vou fazer isso. Vou voltar a ser ágil.
+4247080 4252080 (09) A oásis, antes de voltar, passa pelo corpo de Nuru.
+4252080 4254080 (09) Faz uma certa condolência.
+4254080 4258080 (09) Emposta a cabeça dela no corpo dele.
+4258080 4260080 (09) Mancha um pouco de sangue.
+4260080 4263080 (09) E ela fala. Caminha.
+4263080 4266080 (09) Ela vai em direção ao corpo dela e ela volta.
+4266080 4270080 (02, 03) Eu vou, como humano, vou abraçar o Nuru.
+4270080 4272080 (02, 03) A rainha espera vocês recomporem ali.
+4272080 4277080 (02) Ela então sai da tenda do xamã. O povo está esperando por ela lá fora.
+4277080 4279080 (02) E ela começa a falar.
+4279080 4284080 (09, 02) Hoje, pela primeira vez, estrangeiros chegaram aqui.
+4284080 4286080 (09) E acho que eles vão voltar.
+4286080 4288080 (09, 03) O que vocês acham, meus filhos?
+4288080 4290080 (09, 03) Acredito que sim. Eram muitos.
+4290080 4293080 (09) Com certeza tentaram voltar. Tentar nos pegar de novo.
+4293080 4295080 (03) Nós precisamos ficar preparados para isso.
+4295080 4299080 (09, 03) Hoje, perdemos nosso xamã.
+4299080 4304080 (09) Eu perdi uma criatura muito importante para mim.
+4304080 4307080 (09) A Zara voltou com feridas demais.
+4307080 4310080 (09, 11) Caramba. E a gente vai ficar aqui só esperando?
+4310080 4313080 (09, 11) O que podemos fazer? O mar é gigantesco.
+4313080 4317080 (09) Mesmo que conversássemos com os peixes e os animais do oceano,
+4317080 4320080 (09) não sabemos para onde eles foram e quantos eles são.
+4320080 4322080 (09) Temos que estar prontos.
+4322080 4324080 (09) Quero que todos vocês aprendam com as ferramentas do xamã.
+4324080 4326080 (09) Comecem a se preparar para o pior.
+4326080 4328080 (09) Não sei como eles descobriram a nossa ilha.
+4328080 4330080 (09) Mas não quero que isso se repita.
+4330080 4332080 (09) E vocês, meus filhos, vão descansar.
+4332080 4334080 (09) Passaram por muitas coisas e têm que estar prontos para um futuro combate.
+4334080 4336080 (09) Mãe, desculpa, mas eu não vou conseguir descansar agora.
+4336080 4338080 (09) Não tem como. Depois de ver isso tudo, só descansar.
+4338080 4340080 (09) Mas vou tentar me acalmar um pouco.
+4340080 4342080 (09, 11) Eu queria que tivesse sido diferente.
+4342080 4344080 (11) Eu não sei.
+4344080 4346080 (11) Eu não sei.
+4346080 4348080 (11) Eu não sei.
+4348080 4350080 (11) Eu não sei.
+4350080 4352080 (03, 11) Eu não sei.
+4352080 4354080 (03, 11) De alguma forma, acho que foi culpa nossa.
+4354080 4356080 (03) Eu gostaria de pedir perdão.
+4356080 4358080 (03) Eu não sei.
+4358080 4360080 (09, 03) Eu não sei.
+4360080 4362080 (09, 03) De alguma forma, acho que foi culpa nossa.
+4362080 4364080 (09) Eu gostaria de pedir perdão.
+4364080 4366080 (09) A oásis, ela cai assim, sobre os joelhos e fica parada.
+4366080 4368080 (09) Só caem lágrimas nos olhos dela.
+4368080 4370080 (09) Ela não consegue falar nada.
+4370080 4372080 (09) Ela abaixa e vai se encolhendo e começa a chorar.
+4372080 4374080 (09, 03) Ela abaixa e vai se encolhendo e começa a chorar.
+4374080 4376080 (03) O rádio só abaixa a cabeça, assim.
+4376080 4378080 (03, 11) Talvez a gente não esteja pronto ainda.
+4378080 4380080 (11) Eu falo, a gente não tem culpa nenhuma nisso.
+4380080 4382080 (11) Mas precisamos nos preparar.
+4382080 4384080 (11) Porque se acontecer algo de novo, aí sim a gente vai ter culpa.
+4384080 4386080 (11) Porque se acontecer algo de novo, aí sim a gente vai ter culpa.
+4386080 4388080 (11) Por não ter se preparado.
+4388080 4390080 (03, 11) Então agora não é hora de ficar chorando.
+4390080 4392080 (03) A gente tem que fazer algo.
+4392080 4394080 (03) É, tem razão. Precisamos nos preparar.
+4394080 4396080 (03, 11) Temos que ficar prontos.
+4396080 4398080 (11) Desculpa, a gente consegue voltar para o corpo de animal?
+4398080 4400080 (11) Você consegue voltar, sim.
+4400080 4402080 (07, 11) Mas é bom a gente se preparar como humanos também.
+4402080 4404080 (07, 11) Aprender a usar essas ferramentas e estudar isso para entender eles melhor.
+4404080 4406080 (11) Aprender a usar essas ferramentas e estudar isso para entender eles melhor.
+4406080 4408080 (11) Mas eu acho que somos mais fortes como animais.
+4408080 4410080 (11) Mas eu acho que somos mais fortes como animais.
+4410080 4412080 (11) E conseguimos fazer mais coisas como humanos.
+4412080 4414080 (11) E conseguimos fazer mais coisas como humanos.
+4414080 4416080 (09, 11) Vamos descansar, meus filhos.
+4416080 4418080 (09) Por hoje é só.
+4418080 4420080 (09) Tenho muito orgulho de vocês.
+4420080 4422080 (09) O que fizeram é impensável.
+4422080 4424080 (09) Além de qualquer expectativa.
+4424080 4426080 (09) Vocês não só viveram,
+4426080 4428080 (09) como conseguiram se defender
+4428080 4430080 (09) e atrasaram aquelas criaturas
+4430080 4432080 (09) para quando nós chegamos.
+4432080 4434080 (09) Vocês são os heróis dessa noite.
+4434080 4436080 (09, 03) Eu amo muito vocês.
+4436080 4438080 (07, 03) Eu não me sinto um herói, mãe.
+4438080 4440080 (03, 11) A gente precisa fazer muito mais.
+4440080 4442080 (09, 11) Vamos tentar descansar por enquanto.
+4442080 4444080 (09) É só uma pergunta mesmo.
+4444080 4446080 (09) O Inicius falou que
+4446080 4448080 (09) quando ela falava com a gente
+4448080 4450080 (09) ela nunca falava as palavras assim.
+4450080 4452080 (09) Ela sempre encostava o rosto.
+4452080 4454080 (09) Ela nunca falava as palavras assim.
+4454080 4456080 (09, 02) E agora ela falou.
+4456080 4458080 (09) A oásis gela quando ela vê que a mãe dela falou.
+4458080 4460080 (09) A oásis gela quando ela vê que a mãe dela falou.
+4460080 4462080 (09) E ela arregala os olhos também.
+4462080 4464080 (09) Ela tenta perceber se a mãe dela
+4464080 4466080 (09) demonstra uma preocupação a mais
+4466080 4468080 (09) demonstra uma preocupação a mais
+4468080 4470080 (09, 02, 10) que ela está querendo mostrar para a gente.
+4470080 4472080 (02, 10) Fala dois dados.
+4472080 4474080 (02, 10) Três e dois.
+4474080 4476080 (02) Três e dois. Dois é uma falha.
+4476080 4478080 (02) Mas três é um acerto crítico.
+4478080 4480080 (02) A tua mãe está diferente.
+4480080 4482080 (02) Ela foi resolver outra coisa.
+4482080 4484080 (02) O pessoal já foi lá ajudar ela
+4484080 4486080 (02) a tirar o corpo do xamã.
+4486080 4488080 (02) Mas quando tu deita
+4488080 4490080 (02) no lugar onde tu dorme
+4490080 4492080 (02) está te incomodando.
+4492080 4494080 (02, 10) Tem algo errado.
+4494080 4496080 (10) A oásis passou a noite
+4496080 4498080 (02, 10) pensando nisso.
+4498080 4500080 (02) Mas pelo menos durante a noite
+4500080 4502080 (02) ela não vai falar nada.
+4502080 4504080 (09, 02) Nós dormimos em quartos separados?
+4504080 4506080 (09) Nós dormimos em quartos separados?
+4506080 4508080 (09, 02) Não. Dorme mais ou menos.
+4508080 4510080 (02) Não tem um quarto só para vocês três.
+4510080 4512080 (02) Bastante gente da tribo dorme
+4512080 4514080 (09, 02) no lugar onde vocês dormem.
+4514080 4516080 (09, 10) A oásis vai deitar junto com eles.
+4516080 4518080 (09) Vai tentar ficar perto.
+4518080 4520080 (09) E bem como animais fazem.
+4520080 4522080 (09, 02, 03) Abraçar os irmãos e tentar ficar
+4522080 4524080 (09) o máximo possível apertado.
+4524080 4526080 (09) Não quero acreditar nisso.
+4526080 4528080 (09, 03) O Raj não conseguiu dormir.
+4528080 4530080 (03) O Raj não conseguiu dormir.
+4530080 4532080 (03) Eu vou pegar um
+4532080 4534080 (03) dos arcos e flechas que tem
+4534080 4536080 (03) dos orques e vou ficar estudando
+4536080 4538080 (03) aquilo durante a noite na minha cama mesmo.
+4538080 4540080 (03, 11) Eu passo a noite sem dormir também
+4540080 4542080 (11) olhando a floresta
+4542080 4544080 (11) de frente para alguma janela se tiver.
+4544080 4546080 (11) Esperando algo já.
+4546080 4548080 (10, 11) Mas inquieto também o tempo todo.
+4548080 4550080 (10) Eu fico ali observando os dois inquietos
+4550080 4552080 (10) e fico pensando que
+4552080 4554080 (10) não quero perder mais ninguém.
+4554080 4556080 (10) Principalmente os dois e meia mãe.
+4556080 4558080 (unknown) Eu não quero perder mais ninguém.
+4558080 4560080 (unknown) Eu não quero perder mais ninguém.
+4570080 4572080 (02) Antes do sol nascer
+4572080 4574080 (02) antes de vocês terem que acordar
+4574080 4576080 (02) embora vocês não tenham dormido muito
+4576080 4578080 (02) de direito ali.
+4578080 4580080 (02) Barulho de coisas quebrando e combate lá fora.
+4580080 4582080 (02, 03) Eu vou levantar já com o arco que eu tenho
+4582080 4584080 (02, 03) na mão mesmo. Apesar de não ter flechas.
+4584080 4586080 (02) Eu consigo sair da pantera de novo, né?
+4586080 4588080 (02) Sim, ela está ali do teu lado.
+4588080 4590080 (07, 02, 11) Se tu quiser tu pode deixar o teu corpo ali
+4590080 4592080 (07, 02, 11) e sair só com a pantera.
+4592080 4594080 (02, 11) No que eu ouço isso eu quero tentar achar um local
+4594080 4596080 (11) o mais escondido possível. Eu devo conhecer bem
+4596080 4598080 (07, 11) a cabana. Deve ter algum
+4598080 4600080 (11) partinho, algum lugar bem escondidão
+4600080 4602080 (02, 11) para deixar o meu corpo ali.
+4602080 4604080 (02) Talvez em algum canto
+4604080 4606080 (02) embaixo de uma cama, alguma coisa.
+4606080 4608080 (02, 11) Não tem um parque escondido ali.
+4608080 4610080 (02, 11) Ninguém vai ficar olhando embaixo de uma cama
+4610080 4612080 (11) no combate. Então eu quero
+4612080 4614080 (11) pelo menos deixar o meu corpo seguro
+4614080 4616080 (02, 11) e já pantera mod on.
+4616080 4618080 (02) Enquanto o
+4618080 4620080 (02) louco que está ali tentando ocultar o próprio
+4620080 4622080 (02) corpo, a Raje vai fazer o que?
+4622080 4624080 (02, 03) Eu vou continuar como Raje mesmo ainda.
+4624080 4626080 (02, 03) A serpente
+4626080 4628080 (02, 03) está contigo. Ela anda sempre comigo.
+4628080 4630080 (03) Eu imagino que se precisar
+4630080 4632080 (03) entrar em combate ela até pode obedecer
+4632080 4634080 (09, 02, 03) alguns comandos meus e tal.
+4634080 4636080 (09, 03) Vou ficar como Raje mesmo por enquanto.
+4636080 4638080 (09, 03) E a Oasis? A Oasis
+4638080 4640080 (09) ela está pela primeira vez.
+4640080 4642080 (09) Se o Raje estiver perto dela, eu vou seguir sua
+4642080 4644080 (09) irmã.
+4644080 4646080 (09) Mas ela não está com medo.
+4646080 4648080 (09) O medo dela é diferente.
+4648080 4650080 (09) Ela olha para o Raje
+4650080 4652080 (09) e ela fala, eu quero ficar viva.
+4652080 4654080 (09) Evita o máximo possível essas coisas
+4654080 4656080 (09) e ela pega no arco.
+4656080 4658080 (09) Vamos ficar juntos.
+4658080 4660080 (09) Nada de um para um canto
+4660080 4662080 (09, 03) sem o outro. Você entendeu? Vamos, vamos sim.
+4662080 4664080 (03) Eu entendi. Você tem razão.
+4664080 4666080 (03) Eu abraço a Oasis
+4666080 4668080 (03) e aproximo o rosto também como a nossa mãe
+4668080 4670080 (09, 03) faz com a gente. Vai dar certo.
+4670080 4672080 (09) A mãe estava escondida. Você percebeu que ela
+4672080 4674080 (09, 03) falou, eu amo vocês?
+4674080 4676080 (03) É verdade.
+4676080 4678080 (03) Ela disse mesmo.
+4678080 4680080 (03) Eu estava com a cabeça tão
+4680080 4682080 (03) perdida que eu nem
+4682080 4684080 (03) me dei conta. Você tem razão.
+4684080 4686080 (03) Acho que é bom a gente ver
+4686080 4688080 (03) como ela está e onde ela está.
+4688080 4690080 (09, 03) Por enquanto é melhor nós nos formarmos
+4690080 4692080 (09) animais.
+4692080 4694080 (09, 02) Ela olha assim.
+4694080 4696080 (02) Tem até uma pantela do lado de vocês.
+4696080 4698080 (02) Ele não está entendendo a conversa.
+4700080 4702080 (09, 02) Estou observando e rosnando.
+4702080 4704080 (09) Aquele tapinha satisfatório na tela de tipo
+4704080 4706080 (09) nossa cara.
+4706080 4708080 (09, 03) Continua um barulho lá fora
+4708080 4710080 (03) de algum tipo de combate.
+4710080 4712080 (03) Eu quero ver se eu consigo olhar pela janela
+4712080 4714080 (03) ver se eu consigo vislumbrar onde está
+4714080 4716080 (02, 03) a rainha. Pela janela tu não
+4716080 4718080 (02) consegue ver a rainha, mas tu vê que o pessoal
+4718080 4720080 (02) da tribo
+4720080 4722080 (02) está todo mundo em pé olhando lá
+4722080 4724080 (02) para o chão. Forma tipo um
+4724080 4726080 (02) anel
+4726080 4728080 (02) todas as casas e
+4728080 4730080 (02) as passarelas que ligam uma a outra
+4730080 4732080 (02) pelas árvores. Forma tipo um grande
+4732080 4734080 (02) anel ali. Eles estão olhando para o meio
+4734080 4736080 (02) desse anel lá embaixo para o solo
+4736080 4738080 (02, 03) onde há uma clareira. E como que está lá na clareira?
+4738080 4740080 (03) O que está rolando? São só animais
+4740080 4742080 (03) contra orques ou tem humanos contra
+4742080 4744080 (02, 03) orques também? Então da janela ali tu não
+4744080 4746080 (02) consegue ver. Tu teria que ir para uma dessas
+4746080 4748080 (02, 03) plataformas lá fora. Eu vou
+4748080 4750080 (03) tentar. Vou até puxar
+4750080 4752080 (03) oásis para ela não se afastar de mim.
+4752080 4754080 (03) Vamos para essa passarela. Vamos ver o que
+4754080 4756080 (02, 03) dá para a gente fazer. Vocês
+4756080 4758080 (02) três vão juntos ali
+4758080 4760080 (02) e daí nessa clareira central lá embaixo
+4760080 4762080 (02) dá para ver a rainha
+4762080 4764080 (02) com uma lança na mão
+4764080 4766080 (02) e ela está lutando contra
+4766080 4768080 (02) o tigre branco que
+4768080 4770080 (02) até ontem era o
+4770080 4772080 (02, 03) familiar dela. Nossa, caramba!
+4772080 4774080 (03) Nossa, eu olho
+4774080 4776080 (03) para a minha familiar então.
+4776080 4778080 (02, 03) Olho para a Caria. Como é que ela está?
+4778080 4780080 (02, 03) Ela está bem. Assim, o povo não sabe
+4780080 4782080 (02) o que fazer porque...
+4782080 4784080 (02, 03, 11) Eu como felino consigo
+4784080 4786080 (02, 03, 11) me comunicar com o tigre? Mas só
+4786080 4788080 (03) tem isso. Só tem ela lutando com o tigre.
+4788080 4790080 (02, 03) Não tem orcas?
+4790080 4792080 (02) Nada. A população não sabe de que lado ajudar
+4792080 4794080 (02, 03, 11) então decidiu não ajudar. Ah, entendi.
+4794080 4796080 (11) Caramba!
+4796080 4798080 (02, 11) Tá. O Lukuk está como
+4798080 4800080 (02, 11) pantera. Eu estou como pantera
+4800080 4802080 (11) e quero questionar o tigre porque ele está
+4802080 4804080 (11) atacando a rainha assim
+4804080 4806080 (11) uma rosnada, tá ligado? O que você está fazendo?
+4806080 4808080 (02, 11) Dois dados. Teu atributo é o mais.
+4808080 4810080 (02) Tirei cinco e dois.
+4812080 4814080 (02) Cinco é um acerto crítico.
+4814080 4816080 (02) O tigre branco olha
+4816080 4818080 (02) assustado para cima e
+4818080 4820080 (02) fala... Filho!
+4820080 4822080 (02) Sou eu? E nisso a rainha
+4822080 4824080 (02) acerta ele com a lança perto do
+4824080 4826080 (02, 11) pescoço. Nisso
+4826080 4828080 (11) eu não penso duas vezes e de novo eu quero
+4828080 4830080 (11) pular em cima da tal da rainha.
+4830080 4832080 (11) Dois dados.
+4832080 4834080 (11) Três e seis.
+4834080 4836080 (11) Um acerto simples. Tu vai tentar fazer o que?
+4836080 4838080 (02, 11) Não machucar ela, mas
+4838080 4840080 (02) pular em cima dela desarmando, sabe?
+4840080 4842080 (02, 11) Tu não consegue desarmar ela. Foi só um acerto
+4842080 4844080 (02) simples. Ela tira
+4844080 4846080 (02) a lança do tigre
+4846080 4848080 (02) que cai. Ele não está morto ainda, mas
+4848080 4850080 (02) está saindo bastante sangue.
+4850080 4852080 (09, 02) E ela fala... Filho, por que está fazendo
+4852080 4854080 (09, 02) isso comigo? Começa a apontar a lança
+4854080 4856080 (02) para ti. Tu já fez tua ação.
+4856080 4858080 (02) Oásis, orragem, que não está entendendo
+4858080 4860080 (02) nada. Nossa, putz!
+4860080 4862080 (02, 03) Se eu ver ele pular na
+4862080 4864080 (02, 03) humana, eu vou... Na humana que
+4864080 4866080 (02, 03) é a sua mãe. Respeita sua mãe.
+4866080 4868080 (02, 03) Pois é. É que as duas são, né?
+4868080 4870080 (09, 02, 03) Babai! A humana e
+4870080 4872080 (02, 03) a tigresa supostamente
+4872080 4874080 (03) são minha mãe. Então como eu vi ele
+4874080 4876080 (03) atacando a humana, eu estou presumindo que
+4876080 4878080 (03) é a humana que é maligna.
+4878080 4880080 (03) O meu personagem está presumindo que é essa que é maligna.
+4880080 4882080 (02, 03) E teve a conversa
+4882080 4884080 (02, 03) que tu teve com a Oásis também, né?
+4884080 4886080 (03) Quando ele falou filho, eu ouvi as duas...
+4886080 4888080 (03) O que que eu ouvi? Eu ouvi a humana
+4888080 4890080 (02, 03) falar filho? Sou eu ou não?
+4890080 4892080 (02) Não, não. Porque quem falou filho é... Tu ouviu
+4892080 4894080 (02) a humana falar... Por que você está me atacando,
+4894080 4896080 (07, 02) filho? Ouvi, né? Não ouviu a tigresa...
+4896080 4898080 (02) A humana, sim. A tigresa
+4898080 4900080 (02) branca dizendo que ela na verdade é a
+4900080 4902080 (02, 03) mãe, tu não ouviu. Sim. Só ouviu ela rosnar.
+4902080 4904080 (03) Tá, mas eu estou... É, eu estou presumindo
+4904080 4906080 (03) que a humana é maligna. Eu vou
+4906080 4908080 (03) tentar tirar
+4908080 4910080 (03) de perto dessa luta aí
+4910080 4912080 (03) a tigresa que está caída, que está ferida.
+4912080 4914080 (02, 03) Eu vou tentar acudir a tigresa
+4914080 4916080 (02, 03) branca. Tá no alto de uma
+4916080 4918080 (02) árvore, tu vai descer. Vou descer pra
+4918080 4920080 (02) acudir a Zara. Tá, deve ter algum sistema
+4920080 4922080 (02) de cordas, alguma coisa. Tu está
+4922080 4924080 (02) descendo pra acudir o tiro branco
+4924080 4926080 (09, 02) ou asa a situação? Eu pulo
+4926080 4928080 (09) na humana, que é a minha mãe,
+4928080 4930080 (09) pra tirar a luta
+4930080 4932080 (09, 02) dela. Tu pula como humana. Aham,
+4932080 4934080 (09, 02) como humana, eu não sou humana.
+4934080 4936080 (09, 02) É, lembrando.
+4936080 4938080 (09, 02) É complicado, né?
+4938080 4940080 (09, 02) Vamos lá, um dado. Eu estou preocupada
+4940080 4942080 (09, 02) com o corpo. Tu não é uma pantera.
+4942080 4944080 (09, 02) É. Tu não é um ratel.
+4944080 4946080 (02) Tu é uma humana. Um dado.
+4946080 4948080 (09, 02) Cinco. A oasis
+4948080 4950080 (02) pula pra cima da mãe dela.
+4950080 4952080 (02) Ela viveu semanas
+4952080 4954080 (02) como um ratel. O corpo dela
+4954080 4956080 (02) não está acostumado muito bem a ser uma
+4956080 4958080 (02) humana saltante. E ela pula.
+4958080 4960080 (02) A mãe levanta a lança
+4960080 4962080 (02) e a lança
+4962080 4964080 (02) atravessa a oasis.
+4964080 4966080 (02) Não! Então,
+4966080 4968080 (02) temos caído no chão Zara,
+4968080 4970080 (02) a tigresa branca, sangrando como
+4970080 4972080 (07, 02) estocada de lança.
+4972080 4974080 (02) A oasis, com a lança atravessando
+4974080 4976080 (02) ela.
+4976080 4978080 (02) Ela está viva, perdendo muito sangue.
+4978080 4980080 (02) Com o peso dela na lança,
+4980080 4982080 (02) ela desarmou
+4982080 4984080 (02) a mãe, a rainha.
+4984080 4986080 (02) Mas ela está caída com a lança
+4986080 4988080 (02) literalmente atravessada.
+4988080 4990080 (02) O Raj está descendo
+4990080 4992080 (02) a corda. Ah, eu não cheguei ainda.
+4992080 4994080 (02) Não, tu está descendo do jeito certo.
+4994080 4996080 (07, 02, 03) Sim, sim, sim.
+4996080 4998080 (02) E o Lukuk já está lá embaixo.
+4998080 5000080 (02) Tua ação, Lukuk.
+5000080 5002080 (02) Está desarmada a rainha. Ela atravessou
+5002080 5004080 (02, 11) tua irmã com uma lança. Então, agora
+5004080 5006080 (11) como pantera, eu não posso fazer nada. Eu tenho que
+5006080 5008080 (11) voltar a ser humano. Eu preciso estar perto do
+5008080 5010080 (02, 11) meu corpo, né? Precisa. Ele está lá em cima, embaixo
+5010080 5012080 (02, 11) de uma cama. Então, sem pensar duas vezes, eu já começo
+5012080 5014080 (11) a escalar. Já começo a escalar
+5014080 5016080 (11) porque eu preciso ir lá buscar o corpo pra estancar
+5016080 5018080 (11) o sangue da tigre e também ajudar a minha irmã.
+5018080 5020080 (02, 03, 11) Raj, tu está quase perto do chão. Ação.
+5020080 5022080 (03) Eu vou arrancar a lança
+5022080 5024080 (03) que está na Oasis
+5024080 5026080 (03) pra atacar essa rainha maligna
+5026080 5028080 (03) e vou usar a própria lança dela.
+5028080 5030080 (02, 03) Dois dados.
+5030080 5032080 (02) Tirei seis e dois.
+5032080 5034080 (02) Um acerto simples. Tu arranha
+5034080 5036080 (02) a lança, pega de raspão
+5036080 5038080 (02) no braço da rainha
+5038080 5040080 (02) mas ela desvia ali
+5040080 5042080 (02) e ela começa a correr.
+5042080 5044080 (02, 03) Ah, vou correr atrás dela. Não vai fugir, não.
+5044080 5046080 (03) Eu nunca usei uma lança
+5046080 5048080 (03) antes. Acho que por isso que eu não consegui
+5048080 5050080 (02, 03) machucar muito, mas eu vou tentar. Oasis,
+5050080 5052080 (02) esse corpo está muito ferido. Tu pode continuar
+5052080 5054080 (02) nele lutando pela sua vida. Tem um
+5054080 5056080 (09, 02) ratel desesperado do teu lado.
+5056080 5058080 (09) Eu olho pro meu ratel e eu troco
+5058080 5060080 (09, 02) o lugar. Não, o ratel fez
+5060080 5062080 (09, 02) uma ação. Eu vou tentar socorrer
+5062080 5064080 (09) o meu próprio corpo ali. Tentar estancar
+5064080 5066080 (09) o sangue o máximo possível porque o meu irmão
+5066080 5068080 (09) sai no correio.
+5068080 5070080 (09) Aquele ratelzinho com a mãozinha preocupada
+5070080 5072080 (09, 02) batendo o seu ferimento e rasgando
+5072080 5074080 (09) as roupas e enfiando na ferida.
+5074080 5076080 (09, 02) Um dado. Não é um ratel
+5076080 5078080 (09, 02) enfermeiro. Pobre ratel.
+5080080 5082080 (09, 02) Seis. É a tua tribo tomada?
+5082080 5084080 (07, 02) É, mas tu tem um acerto científico.
+5084080 5086080 (07, 02) Vai conseguir segurar esse sangue dentro do
+5086080 5088080 (02) corpo até o teu irmão
+5088080 5090080 (02) voltar com alguma coisa.
+5090080 5092080 (02) É, Lukuki, tu encontrou o teu corpo
+5092080 5094080 (02) embaixo do...
+5094080 5096080 (02) de uma cama, né?
+5096080 5098080 (02) Tu voltou pro teu corpo, tu saiu debaixo
+5098080 5100080 (02) dessa cama. Tu vai pular lá pra
+5100080 5102080 (02, 11) baixo ou tu vai descer calmamente por uma corda?
+5102080 5104080 (02, 11) Calma, calma, gente. No que eu saio
+5104080 5106080 (11) eu já vou pegando um, sei lá, lençol,
+5106080 5108080 (07, 11) algum pano que tenha ali na cama, entendeu?
+5108080 5110080 (07, 11) Qualquer coisa que eu possa estancar eu jogo lá
+5110080 5112080 (11) abaixo e já vou descendo pela corda.
+5112080 5114080 (02, 11) E a Pantera me acompanhando, né? Isso.
+5114080 5116080 (02, 11) Tá isso. E meus irmãos já vão saber o que fazer
+5116080 5118080 (11) com os panos ali, com as coisas.
+5118080 5120080 (02, 11) E eu já vou descendo junto com eles. Tu vai ajudar
+5120080 5122080 (02, 11) a tua irmã? Não, eu quero ajudar a tigresa
+5122080 5124080 (02, 11) lá. A tigresa tá caída ainda, né?
+5124080 5126080 (02) Ah, tá. Beleza. Tem um ratel cuidando da tua
+5126080 5128080 (02, 11) irmã, tá tudo bem. Vai cuidar da tigresa.
+5128080 5130080 (02, 11) Então, no que eu jogo
+5130080 5132080 (11) o pano, sei lá, as coisas pra eles,
+5132080 5134080 (11) eu já falo. Cuida do tigre aí, a nossa
+5134080 5136080 (11) mãe. Eu não tô lá. Ah, você tá
+5136080 5138080 (02, 11) onde? Ele tá correndo atrás da rainha
+5138080 5140080 (02, 11) com uma lança na mão. Ah, ele foi perseguir a rainha?
+5140080 5142080 (11) Olha...
+5142080 5144080 (11) Então tá bom. Deixa o ratel
+5144080 5146080 (11) lá, joguei o pano e tô descendo pra ajudar a tigresa.
+5146080 5148080 (11) Que a minha única preocupação agora é a mãe, né?
+5148080 5150080 (11) Raja a ação. Rainha tá correndo na tua frente.
+5150080 5152080 (03) Eu quero tentar
+5152080 5154080 (03) alcançar ela. Eu consigo alcançar ela
+5154080 5156080 (03) pra dar uma estocada com a lança
+5156080 5158080 (03) nela? Ou ela tá muito longe?
+5158080 5160080 (02, 03) Eu teria que arremessar a lança.
+5160080 5162080 (02) É uma ação física. Tu pode tanto arremessar
+5162080 5164080 (02) quanto correr pra perto dela e dar uma
+5164080 5166080 (02) estocada. Eu quero estocar. Se tu
+5166080 5168080 (02) correr e dar uma estocada, tu vai rolar um dado só
+5168080 5170080 (02) e tu continua com a lança. Se tu jogar a
+5170080 5172080 (02) lança, são dois dados, mas tu perde a lança.
+5172080 5174080 (02, 03) Eu vou de um dado só, né? Vai correr e dar estocada. Vou, porque
+5174080 5176080 (02, 03) eu não quero perder a lança. Então vai lá.
+5176080 5178080 (02) Um dado só, né? Só não tira
+5178080 5180080 (02) cinco nem seis.
+5182080 5184080 (07, 02) Não pode falar, pô.
+5184080 5186080 (07, 02) Tirou seis.
+5186080 5188080 (02) Tu tropeça ali, cai.
+5188080 5190080 (02) Tu sente o... Uau.
+5190080 5192080 (02) Porque o solo da
+5192080 5194080 (02) floresta ali, as folhas secas,
+5194080 5196080 (02) tu levanta os olhos assim
+5196080 5198080 (02) e a rainha, ela tá
+5198080 5200080 (02, 03) caída mais à frente. Ela cai?
+5200080 5202080 (02, 03) Ela caiu também? Ela caiu. Eu falo
+5202080 5204080 (03) pra Cali... Calia, se enrola
+5204080 5206080 (02, 03) nela. Não deixa ela sair daí.
+5206080 5208080 (02, 03) A Calia se enrola. Beleza.
+5208080 5210080 (03) Eu vou até lá. Ela...
+5210080 5212080 (03) A rainha não...
+5212080 5214080 (03) não tá esboçando nenhuma...
+5214080 5216080 (02, 03) nenhum movimento, nada? Ela não tá tentando se levantar?
+5216080 5218080 (03) Dois dados.
+5218080 5220080 (02, 03) Seis e um. É...
+5220080 5222080 (02) Um acerto simples. O corpo
+5222080 5224080 (02) parece vazio. Ela, no momento
+5224080 5226080 (02) que tu se distraiu, ela pulou pra algum animal.
+5226080 5228080 (03) Caramba!
+5228080 5230080 (03) E agora? Eu tô olhando pros lados então pra ver
+5230080 5232080 (03) se tem algum animal próximo
+5232080 5234080 (03) e se tem algum animal próximo com
+5234080 5236080 (02, 03) algum comportamento estranho.
+5236080 5238080 (02) Aí é que tá o problema. O pessoal começou
+5238080 5240080 (02) a descer, né? Foi lá ajudar
+5240080 5242080 (02) os teus irmãos e...
+5242080 5244080 (02, 03) tem muitos animais por ali. Eu não consigo
+5244080 5246080 (03) identificar nenhum diferente, assim...
+5246080 5248080 (02, 03) Tu tirou um acerto simples. Não dá.
+5248080 5250080 (02, 03) Tu não consegue notar. Não.
+5250080 5252080 (03) Eu falo pras pessoas que tão se
+5252080 5254080 (03) juntando em volta. A impostora!
+5254080 5256080 (03) Ela saiu desse corpo! Ela tá por aqui!
+5256080 5258080 (02, 03) As pessoas se olham assim,
+5258080 5260080 (02) olham em volta. Ninguém parece
+5260080 5262080 (02) saber exatamente o que tá
+5262080 5264080 (02) acontecendo. Mas a
+5264080 5266080 (02) tigresa branca, ela
+5266080 5268080 (02) é... Cuidam dela, né?
+5268080 5270080 (02) Ou da tua irmã
+5270080 5272080 (02) também. A tigresa
+5272080 5274080 (02) volta pro corpo
+5274080 5276080 (02) da mãe. Então a
+5276080 5278080 (02, 03) rainha levanta. Ainda bem
+5278080 5280080 (03) que eu não acertei a lançada, então. Pelo menos
+5280080 5282080 (03) eu não machuquei esse corpo.
+5282080 5284080 (02) Ela te olha
+5284080 5286080 (02) nos olhos, assim, ela encosta a testa em
+5286080 5288080 (02) ti. E tu tem a certeza que essa
+5288080 5290080 (02) é a verdadeira.
+5290080 5292080 (02) Os teus irmãos ali são
+5292080 5294080 (02) ajudados, né? Vocês sabem que um dia
+5294080 5296080 (02) a guerra
+5296080 5298080 (02) deve chegar ali. Aqueles orques vão
+5298080 5300080 (02) voltar. Vocês não
+5300080 5302080 (02) fazem ideia de quem
+5302080 5304080 (02) era aquela pessoa e pra
+5304080 5306080 (02) onde ela foi, mas
+5306080 5308080 (02) vocês venceram.
+5308080 5310080 (02) Salvaram a mãe de vocês, que era
+5310080 5312080 (02) um final que eu não tava esperando, por sinal.
+5312080 5314080 (07, 02) Olha só. Família.
+5314080 5316080 (02) Pelo próximo ano,
+5316080 5318080 (02) pelo menos, nada
+5318080 5320080 (02) vai acontecer de diferente.
+5320080 5322080 (02) Vocês vão só se preparar.
+5322080 5324080 (02) Eu quero saber o que
+5324080 5326080 (02, 11) o Lukurk fez nesse um ano.
+5326080 5328080 (11) Eu, como humano, eu procurei
+5328080 5330080 (11) aprimorar muito mais minhas habilidades
+5330080 5332080 (11) e
+5332080 5334080 (11) observar o corpo dos
+5334080 5336080 (11) orques, a estrutura do corpo deles,
+5336080 5338080 (11) os pontos fracos, as vestimentas
+5338080 5340080 (11) que eles usam, se protege bem
+5340080 5342080 (11) eles e usar
+5342080 5344080 (11) essa tecnologia deles a favor
+5344080 5346080 (11) da gente, sabe? As ferramentas.
+5346080 5348080 (11) Por enquanto é isso.
+5348080 5350080 (11) Eu vou melhorando o meu corpo humano também.
+5350080 5352080 (11) E também
+5352080 5354080 (11) me treinando como uma pantera, conhecendo
+5354080 5356080 (03, 11) melhor o corpo em forma de pantera.
+5356080 5358080 (03, 11) Perfeito. O Raj?
+5358080 5360080 (03) Eu, depois de ter
+5360080 5362080 (03) estudado um pouco o arco e de
+5362080 5364080 (03) ter já uma experiência
+5364080 5366080 (03) com lança, eu quero treinar
+5366080 5368080 (03) agora eu quero ser um guerreiro mesmo.
+5368080 5370080 (03) Como humano mesmo. Eu quero treinar
+5370080 5372080 (03) na medida do possível
+5372080 5374080 (03) com as armas que os orques deixaram pra trás
+5374080 5376080 (03) pra eu me tornar um guerreiro
+5376080 5378080 (03) e quero inclusive ajudar a treinar outros
+5378080 5380080 (03) humanos que queiram também serem
+5380080 5382080 (03) guerreiros pra
+5382080 5384080 (03) a gente conseguir se preparar
+5384080 5386080 (03) pra quando vier a grande guerra depois
+5386080 5388080 (03) e eu quero também treinar
+5388080 5390080 (03) a Kalia pra
+5390080 5392080 (03) junto comigo ter
+5392080 5394080 (03) movimentos de combate e tal, pra gente
+5394080 5396080 (03) conseguir atacar e
+5396080 5398080 (03) se defender quando precisar. A Oasis?
+5398080 5400080 (03, 10) A Oasis vai tentar
+5400080 5402080 (10) pela primeira vez na vida ter mais
+5402080 5404080 (10) responsabilidade, conversar mais
+5404080 5406080 (10) com a mãe dela, tentar aprender mais.
+5406080 5408080 (10) Sobre como é
+5408080 5410080 (10) ser uma líder, pra ela poder ajudar
+5410080 5412080 (09, 10) a mãe dela. Tentar aprender mais
+5412080 5414080 (09) com o próprio ratel dela.
+5414080 5416080 (09, 10) E essa pelagem
+5416080 5418080 (09) faz um coro pra se proteger.
+5418080 5420080 (09) Treinar.
+5420080 5422080 (09) Treinar bastante pra defender não só
+5422080 5424080 (09) os irmãos dela, mas toda
+5424080 5426080 (09, 10) a tribo. Ela aprendeu hoje que
+5426080 5428080 (10) a família não é só
+5428080 5430080 (02, 10) nós quatro, mas é todo mundo.
+5430080 5432080 (02) Muito longe dali, num reino distante
+5432080 5434080 (02) um reino orc, um rei
+5434080 5436080 (02) em seu trono,
+5436080 5438080 (02) recebe o seu conselheiro
+5438080 5440080 (02) um orc
+5440080 5442080 (02) já idoso
+5442080 5444080 (02, 06) o rei então diz
+5444080 5446080 (06) O que você me falou então era verdade
+5446080 5448080 (06) existe mesmo a tal
+5448080 5450080 (06) não conseguimos
+5450080 5452080 (06) encontrar os tesouros que você me
+5452080 5454080 (06) prometeu, mas estou
+5454080 5456080 (06) preparando um exercito grande
+5456080 5458080 (06) e nossa próxima empreitada
+5458080 5460080 (06) será bem
+5460080 5462080 (02, 06) suscetida. O orc
+5462080 5464080 (02) idoso faz uma
+5464080 5466080 (02) reverência, ele faz um
+5466080 5468080 (02) carinho no corvo no ombro
+5468080 5470080 (02) dele e se afasta.
+5494080 5496080 (07, 02) O escudo do mestre. O escudo do mestre é gasto
+5496080 5498080 (02) de papelão e madeira que o mestre usa para
+5498080 5500080 (02) condicionar rotações na nossa medida de dados, mas aqui o
+5500080 5502080 (02) baita estrutura conto pra vocês tudo o que aconteceu nessa
+5502080 5504080 (02) aventura. Primeiramente, gente, convido vocês a
+5504080 5506080 (02) ser padrinhos do rpguacha, a ser
+5506080 5508080 (02) madrinhas do rpguacha. Lá no
+5508080 5510080 (02) picpay ou no padrim, ou mesmo se você quiser
+5510080 5512080 (02) fazer por pix, é
+5512080 5514080 (02) rpguacha arroba gmail ponto com
+5514080 5516080 (02) só manda daí um e-mail pra
+5516080 5518080 (02) esse e-mail mesmo, com um comprovante
+5518080 5520080 (02) direitinho que você quer fazer parte da taverna
+5520080 5522080 (02) que eu te coloco lá, você pode já fazer
+5522080 5524080 (02) isso uma vez por mês, ou então já fazer
+5524080 5526080 (02) vários meses de uma vez, né?
+5526080 5528080 (02) O que for melhor pra você. Ou você vai no picpay
+5528080 5530080 (02) e procura por rpguacha, ou
+5530080 5532080 (02) ainda no padrim rpguacha.
+5532080 5534080 (02) Tem a opção da orelo
+5534080 5536080 (02) também. Tem alguns episódios que acabaram não
+5536080 5538080 (02) entrando lá, mas eles já corrigiram isso, agora
+5538080 5540080 (02) todo episódio novo tá entrando. Eu só tenho
+5540080 5542080 (02) que tirar um tempinho pra pegar os episódios
+5542080 5544080 (02) antigos que não tão lá ainda e adicionar
+5544080 5546080 (02) um por um. Devo fazer isso nas férias
+5546080 5548080 (02) agora, final do mês? Vou ter uma
+5548080 5550080 (02) mini férias, né? Por conta
+5550080 5552080 (02) de que eu trabalho em escola, minha esposa
+5552080 5554080 (02) e minha filha estuda.
+5554080 5556080 (02) Então, vou
+5556080 5558080 (02) ver se eu organizo isso e outras coisinhas
+5558080 5560080 (02) que eu tô devendo pro pessoal que apoia
+5560080 5562080 (02) o patronato. Como eu falei lá no começo,
+5562080 5564080 (02) chega a gente nas redes sociais. Eu sou o Marcelo
+5564080 5566080 (02) Bastianinha e o Roberto P. Guacha. Lá no Twitter,
+5566080 5568080 (02) no Instagram, agora no Blue Sky
+5568080 5570080 (02) também e em outras
+5570080 5572080 (02) redes que surgirem aí.
+5572080 5574080 (02) Até esse mundo de
+5574080 5576080 (02) mídias sociais voltarem
+5576080 5578080 (02) a estabilizar.
+5578080 5580080 (02) Quero agradecer muito aos jogadores, ao
+5580080 5582080 (02) Adriano Trota, que já participou aqui
+5582080 5584080 (02) várias vezes, né? E aos
+5584080 5586080 (02) estreantes Sara e
+5586080 5588080 (02) Sasaki.
+5588080 5590080 (02) A Sara e o Trota não são muito de
+5590080 5592080 (02) redes sociais, falaram apenas que são padrinhos
+5592080 5594080 (02) do RP Guacha. O Trota colocou
+5594080 5596080 (02) que ele é ator, dublador, tradutor
+5596080 5598080 (02) e que também participa aqui. Eu podia
+5598080 5600080 (02) dizer também A Morte, né? Já que é o NPC
+5600080 5602080 (02) famoso desde aqui. A Sara
+5602080 5604080 (02) também é madrinha do RP Guacha.
+5604080 5606080 (02) Ela deixou alguns elogios
+5606080 5608080 (02) aqui, então não preciso...
+5608080 5610080 (02) Ela recomenda que vocês sigam e apadrinhem
+5610080 5612080 (02) o RP Guacha, então agradeço muito
+5612080 5614080 (02) a Sara. O Lucas Sasaki também,
+5614080 5616080 (02) padrinho do RP Guacha. Ele
+5616080 5618080 (02) fez alguma coisa na taberna
+5618080 5620080 (02) e ganhou um Vale Aventura, né? Aquele direito
+5620080 5622080 (02) de jogar uma aventura.
+5622080 5624080 (02) E foi assim que ele
+5624080 5626080 (02) estreou aqui também. Fez uma estreia incrível.
+5626080 5628080 (02) Então agradeço a esses três.
+5628080 5630080 (02) O Lucas Sasaki, eu perguntei muito
+5630080 5632080 (02) em cima da gravação
+5632080 5634080 (02) sobre as... Se ele queria
+5634080 5636080 (02) divulgar alguma coisa. Até
+5636080 5638080 (02) este momento ele não me respondeu ainda.
+5638080 5640080 (02) Mas se tiver alguma coisa, eu falo lá no
+5640080 5642080 (02) Guachaverso. Esse episódio
+5642080 5644080 (02) teve edição do Rafael Zorzal.
+5644080 5646080 (02) Ele edita também
+5646080 5648080 (02) Projeto Drama, que é um podcast
+5648080 5650080 (02) de audiodramas que eu recomendo muito.
+5650080 5652080 (02) Vão lá conhecer. E o episódio teve
+5652080 5654080 (02) também a revisão da Juleiva.
+5654080 5656080 (02) Muito obrigado, querida.
+5656080 5658080 (02) Ser padrinho tem várias vantagens,
+5658080 5660080 (02) como receber o episódio antes, como fazer
+5660080 5662080 (02) parte dos grupos do Telegram. E uma dessas
+5662080 5664080 (02) vantagens, fazer a voz de NPC.
+5664080 5666080 (02) Pra quem não sabe, eu gravo todo o episódio
+5666080 5668080 (02) como se fosse uma partida de
+5668080 5670080 (02) RPG normal, só que na hora de editar
+5670080 5672080 (02) a gente edita pra ficar parecido com o
+5672080 5674080 (02) drama e substitui todos os NPCs
+5674080 5676080 (02) que eu faço por padrinhos.
+5676080 5678080 (02) E no caso desse episódio, tivemos
+5678080 5680080 (02) o Xamã e seu Corvo, feito
+5680080 5682080 (02) pelo Felipe Xavier. Tivemos o Tigre,
+5682080 5684080 (02) feito pelo Patrick. Vocês sacaram porquê
+5684080 5686080 (02) o Patrick? É meio óbvio. Quer dizer,
+5686080 5688080 (02) se você acompanha o RPG Guarchi, deve ser meio óbvio.
+5688080 5690080 (02) A Rainha Lyra, feito pela Rebelbia.
+5690080 5692080 (02) E o Rei Orc foi feito
+5692080 5694080 (02) pelo Gilles.
+5694080 5696080 (02) Muito obrigado a esses queridos
+5696080 5698080 (02) que fizeram as vozes. Muito obrigado a eles por
+5698080 5700080 (02) apoiarem. A você por apoiar.
+5700080 5702080 (02) A todo mundo que pode
+5702080 5704080 (02) apoiar e apoia. A todo mundo que não pode apoiar
+5704080 5706080 (02) e por isso não tá apoiando, eu entendo muito.
+5706080 5708080 (02) Não tá fácil pra ninguém, agradeço muito.
+5708080 5710080 (02) Você que pode apoiar e só não
+5710080 5712080 (02) quer, aí
+5712080 5714080 (02) pega mal, né? Mas assim,
+5714080 5716080 (02) fico muito feliz com todo o carinho que
+5716080 5718080 (02) eu recebo pelo RPG Guarchi. Essa aventura
+5718080 5720080 (02) obviamente é
+5720080 5722080 (02) o fruto do guachaverso
+5722080 5724080 (02) de tanta gente insistindo na volta do
+5724080 5726080 (02) Corvo, a volta do Corvo. E tá aí.
+5726080 5728080 (02) Temos um Corvo.
+5728080 5730080 (02) Espero que tenham gostado do episódio.
+5730080 5732080 (02) Como eu falei, segue a gente nas redes sociais.
+5732080 5734080 (02) Apoia, rola em 6,
+5734080 5736080 (02) rola em 20, dependendo do sistema que
+5736080 5738080 (02) você estiver jogando. Mas dependendo de
+5738080 5740080 (02) tudo isso, se tudo é errado,
+5740080 5742080 (02) rola no chão, apaga o fogo e diverte.
+5742080 5744080 (02) Um beijo no coração de vocês.
+5754080 5756080 (08) Muitos são os números
+5756080 5758080 (08) que regem o multiverso.
+5758080 5760080 (08) Sete realidades paralelas
+5760080 5762080 (08) que já foram três.
+5762080 5764080 (08) Quatro linhas sagradas, uma linha
+5764080 5766080 (08) vazia e duas preenchidas
+5766080 5768080 (08) de escuridão.
+5768080 5770080 (08) Um guaxinim representando um,
+5770080 5772080 (08) três meninas segurando um seis
+5772080 5774080 (08) e uma infinidade de
+5774080 5776080 (08) possibilidades entre eles.
+5776080 5778080 (08) E você?
+5778080 5780080 (08) Qual o seu número?

@@ -1,0 +1,2450 @@
+0 16100 (09) O Charles vai ser homenageado por ter uma equipe de policiais que não dispara tiros, por uma
+16100 18720 (09) cidade sem crimes e por ser um cara legal.
+19140 25140 (09) Sua delegacia recebeu um policial novo e agora eles vão sair para mais um dia calmo de trabalho.
+25580 27280 (09) Ao menos é isso que todos acreditam.
+27280 32340 (09) Episódio de hoje, a medalha do Charles, com o assinário Gabriel Pinheiro aqui da
+32340 36860 (09) RPG Guaxa e com a Ana lá do Projeto Drama e também da RPG Guaxa.
+37720 42420 (09) Como você sabe, desde o início de novembro a Promobit tem apoiado este projeto.
+42420 46700 (09) Quero agradecer muito o pessoal da Promobit, esse apoio foi maravilhoso.
+47000 52140 (09) Obrigado por abraçarem a RPG Guaxa, ainda mais no ano complicado como foi este 2020.
+52560 54280 (09) Vocês me ajudaram muito.
+54620 56820 (09) Para quem não conhece ainda, está meio perdido.
+57280 58680 (09) Eu venho falando disso há muito tempo.
+59100 62160 (09) Mas a Promobit é uma comunidade que reúne ofertas.
+62560 68440 (09) As pessoas vão lá, deixam ofertas para que outras pessoas possam avaliar e aproveitá-las.
+68740 73040 (09) A equipe da Promobit está sempre avaliando para ser sempre ofertas em sites conhecidos
+73040 76740 (09) e que as ofertas sejam ofertas de verdade.
+77160 79140 (09) Essa é a grande vantagem da Promobit.
+79500 83260 (09) Porque oferta, como você sabe, é quando as coisas estão abaixo do preço normalmente
+83260 84120 (09) deste produto.
+84120 87260 (09) Então vai lá, baixa o aplicativo ou procura no site.
+87280 89200 (09) Cria o teu cadastro.
+89460 92180 (09) Vai rolando o feed deles, tem promoção de tudo.
+92540 94520 (09) Tenho certeza que vai encontrar alguma coisa que você queira.
+94860 99400 (09) E caso aconteça de não ter nenhuma promoção daquele item que você busca,
+99860 102920 (09) deixa no filtro, já deixa lá na sua lista de desejos.
+103260 106660 (09) Quando surgir uma promoção, tu vai ser avisado e tu vai comprar.
+107020 110260 (09) Promobit, a melhor forma de fazer o seu dinheiro valer.
+110740 114280 (07) O Realidades Paralelas do Guaxinim usa o sistema Guaxinim e Gambiarras.
+114280 114920 (07) O Guaxinim é um sistema de guaxinimas.
+114920 114940 (07) O Guaxinim é um sistema de guaxinimas.
+114940 114980 (07) O Guaxinim é um sistema de guaxinimas.
+114980 115040 (07) O Guaxinim é um sistema de guaxinimas.
+115040 115060 (07) O Guaxinim é um sistema de guaxinimas.
+115060 120700 (07) Nele, cada jogador possui apenas um único atributo, que vai de 2 a 5.
+121060 123940 (07) Quanto maior, mais atlético é o personagem.
+124300 127800 (07) Quanto menor o atributo, mais inteligente e carismático.
+128180 132880 (07) Sempre que o jogador faz algo com uma chance de errar, ele rola dois dados.
+133160 137940 (07) E precisa tirar seu atributo ou menos para ataques e ações físicas.
+137940 142220 (07) E seu atributo ou mais para ações intelectuais ou sociais.
+142560 144940 (07) Se a jogada for fácil ou tiver algum assunto,
+145060 146700 (07) joga um dado a mais.
+147020 150000 (07) E se for muito difícil, rola-se um dado a menos.
+150520 153580 (07) Eu sou Isabela Fontanella e sou madrinha do RPG Guaxia,
+153700 156140 (07) porque afinal de contas foi no grupo dos padrinhos
+156140 158580 (07) que eu comecei o meu negócio de risadas malignas.
+161220 163680 (09) Tem um resuminho dessas regras lá no nosso Instagram.
+163920 165540 (09) Por sinal, não deixe de nos seguir.
+167440 169920 (09) Tanto no Twitter quanto no Instagram.
+170220 173060 (09) Também considere ser nosso padrinho para gravar vozes para NPCs.
+173940 174880 (09) Gravar essa introdução.
+175060 175600 (09) Você ouviu?
+175940 180600 (09) Opinar sobre a aventura, jogar com outros padrinhos, participar de grupos, etc.
+181120 181840 (09) Boa aventura.
+190020 191880 (13) Aí vocês estão na caverna.
+192380 192980 (10) Rola os dados.
+194040 195580 (10) Bola de fogo!
+197020 197780 (unknown) Chama...
+197780 199440 (10) Chama o clérigo.
+200540 201820 (10) Como assim eu morri?
+203020 203580 (02, 10) Rola iniciativa.
+205060 207260 (10) Então, não tem armadilha.
+207540 208160 (10) Podemos ir.
+208900 210080 (09, 10) O que vocês fazem?
+211460 212140 (00) Tá, tá.
+212360 215480 (00) Eu amarro uma corda nelas e uso como arma.
+215860 216740 (09) Eu ataco.
+217140 221060 (09, 02, 10) O mago lança seu Thunderbolt mais 15 no Ubi Holder.
+221080 223380 (02, 10) Eu quero rolar a percepção, posso?
+224120 225780 (10) Tem algum lugar para se esconder?
+226420 228680 (02) Ah, falha a crítica.
+229240 230060 (02) Ataque de impunidade!
+230060 231300 (02) Ei, arrumando!
+231440 232640 (12, 02) Chama o clérigo!
+235060 238980 (00) RPG, Realidades Paralelas do Guaxinim.
+239360 241940 (00) Sua aventura de bolso na forma de podcast.
+242360 244900 (00) Uma jornada completa a cada episódio.
+244900 246900 (00) Abertura
+265060 270620 (09, 02) A pequena cidade de Ravinica do Norte fica no sul do Brasil.
+270900 273400 (09) Possui algumas praias bonitas, embora pouco famosas.
+273680 278600 (09) Além de um porto que é usado normalmente para despachar produtos derivados de porcos e aves.
+278860 282080 (09) Para portos maiores, que distribui para o resto do Brasil e do mundo.
+282440 287300 (09) Esta cidade, até então desconhecida do resto do país, se tornou famosa nas últimas semanas
+287300 292620 (09) quando um levantamento do IBGE descobriu que além de possuir a menor taxa de criminalidade do país,
+293360 294180 (09) Ravinica do Norte,
+294180 299680 (09) estava há cinco anos sem que um policial tenha disparado uma arma em ação.
+299680 304940 (09) Isso explica porque Charles, o delegado responsável pela região, vai receber uma medalha.
+304940 306940 (09) Mas não explica o motivo de sua preocupação.
+306940 309440 (09) Charles é o cara mais legal que vocês já conheceram.
+309440 314440 (09) Contam as lendas que quando policial, ele fez um grupo cheio de armamento pesado
+314440 319680 (09) que assaltou o banco sem entregar e pedir desculpas ao povo, apenas conversando.
+319680 322480 (09) Todos estão muito felizes pela medalha que o Charles vai receber.
+322480 323980 (09) A medalha será entregue hoje.
+323980 325980 (09) Hoje, no final do dia.
+325980 328980 (09) A aventura vai começar no início da manhã.
+328980 330980 (09) Os jogadores então são policiais, né?
+330980 333980 (09) Hoje pela manhã, a delegacia está recebendo também um novo policial,
+333980 335980 (09) que é o personagem do Gabriel Pinheiro.
+335980 337980 (09) Fala sobre o seu personagem, atributo, aparência.
+337980 341980 (09, 12) Ele é alto, magro, usa óculos e tem uma cicatriz na bochecha.
+341980 345480 (12) Chegou a cursar faculdade de biologia na capital, mas largou no último semestre.
+345480 349480 (12) Fez um concurso e foi viver a vida de policial, que era um antigo sonho de infância, no interior.
+349480 353480 (12) Ele não gosta de falar porque ele se mudou, mas toda sua família ainda mora na capital.
+353480 355980 (12) E o primeiro dia de trabalho dele é hoje.
+355980 357980 (09, 12) O atributo dele é 3.
+357980 361480 (09) E tem as duas policiais veteranas dessa delegacia.
+361480 363480 (09, 03) Vamos ouvir então como é o personagem da Sinara.
+363480 365480 (03) Minha personagem é a Natália.
+365480 369480 (03) Ela tem 45 anos, então ela é mais antiga ali.
+369480 372480 (03) E ela está lá há um tempo, já na delegacia.
+372480 375480 (03) E até que ela gostava bem de ser policial, era uma boa policial.
+375480 378480 (03) Mas depois que o Charles começou a...
+378480 383480 (03) Que ele assumiu e o crime diminuiu, ela foi deixando um pouco de lado a polícia.
+383480 388480 (03) E ela resolveu dedicar a vida dela pra dar aula de balé pra crianças carentes.
+388480 393480 (03) E aí, ela tem uma parceira muito legal, que bate ponto pra ela.
+393480 396980 (03) E quando precisa, a parceira dela liga pra ela ir pra delegacia.
+396980 403980 (03) Ela tem atributo 4, é alta, magra, tem os cabelos ruivos e um monte de tatuagem.
+403980 404980 (09) Perfeito.
+404980 409480 (09) E então, a parceira dela, a personagem da Ana.
+409480 410980 (09) Fala pra gente como é que é a personagem.
+410980 412980 (04) Então, minha personagem é a Olga Letivo.
+414480 420480 (04) A Olga já cresceu na cidade, mas ela resolveu tentar a vida na cidade grande um tempo.
+420480 422480 (04) Não deu certo.
+422480 424480 (04) Ela voltou pra Revinica do Norte.
+424480 428480 (04) Passou no concurso público e falou, ah, vou ficar aqui mesmo.
+430480 433480 (04) Ela é parceirona da Natália.
+433480 435480 (04) Gosta muito dela.
+435480 440480 (04) E tá sempre de olho no que tá acontecendo, mesmo quando nada acontece.
+440480 442480 (04) E o atributo dela é 4.
+443480 445480 (unknown) E a reg fitting é 4.
+445480 446480 (unknown) Ela já teve um novo tambor.
+446480 447480 (unknown) Ela pode começar a trabalhar nas ruas por 2 semanas.
+447480 448480 (unknown) Ela pode ir para casa.
+448480 449480 (unknown) Ela já vai tendo roupas de baixa taxa.
+449480 450480 (unknown) Ela precisa de probecar幫os.
+450480 451480 (unknown) O Neon Guerra abaixa mais bem de 3 anos.
+451480 460480 (09) Ela vai precisar estar 4 semanas na praça enquanto ele não há propaganda desci pela
+460480 461480 (09) área.
+461480 464480 (09) Então planeja que você pode fazer unsbug outro próximo ano, pra ser mais responsável,
+464480 465480 (09) né.
+465480 466480 (09) Então eu vou dar aqui um objetivo..
+466480 467480 (09) Queenancry PlayStation.
+467480 471480 (09) Qu路 de不錯 Pastor boil ride polls dos completados Brady fat das
+471480 472480 (09) CABE.
+472480 474520 (09) e tal, o Charles
+474520 476680 (09) ele parece meio preocupado com alguma coisa
+476680 478580 (09) mas ele não te disse exatamente o que
+478580 480080 (09) ainda, Felipe? Certo
+480080 482640 (09) e nisso chega as duas
+482640 483840 (09) meninas, a Natália e a Olga
+483840 486380 (09) quando vocês chegam, tem uma
+486380 488360 (09) uma telefonista que só aponta
+488360 490360 (09) direto pra sala do Charles
+490360 492100 (09, 04) tá com a porta aberta, né? Ok
+492100 494840 (04) acho que a gente vai pra lá, né? É, vamos lá
+494840 496380 (09) vocês vão até a sala
+496380 498640 (09, 08) o Charles fala, ah, fechem a porta
+498640 500460 (08) fechem a porta, aí podem sentar
+500460 502600 (08, 03) Oi, Charles
+502600 504520 (08, 03) tudo bom? Tudo bem, meninas
+504520 506500 (08) olha só, esse aqui é o Felipe
+506500 508600 (08) ele vai começar a trabalhar com a gente hoje
+508600 510420 (08) ele vai fazer parceria com o Elba
+510420 512560 (08) mas como o Elba está de férias, achei que
+512560 514360 (08) vocês podiam mostrar a cidade pra ele
+514360 515680 (08) como funcionam as coisas e tal
+515680 517900 (08) acho que isso não seria um problema, né?
+518300 519780 (03) é, ah não, imagina
+519780 522760 (03) tranquilo, eu só não entendo porque a gente precisa de mais
+522760 524360 (03) um policial aqui, né Charles?
+524820 526600 (08) ah, agora a nossa cidade ficou
+526600 528560 (08) conhecida, né? O pessoal tá
+528560 530400 (08) com medo de como foi divulgado que essa
+530400 532260 (08) cidade com menos crimes pode atrair
+532260 534340 (08) um pessoal mal intencionado, ok, dá pra contar
+534340 535080 (08, 03) ah, sim
+535080 538140 (08, 03) as pessoas podem confundir o fato de não termos sacado armas
+538140 540640 (08) com medo de usá-las caso seja necessário
+540640 542200 (08, 04) ah, mas a gente tá
+542200 543900 (04) sossegada, mas a gente tá preparado
+543900 545540 (04) aí ela dá uma piscadinha, tipo, yeah
+545540 548640 (09, 04) ele dá um sorriso pra vocês
+548640 550240 (09) ele senta-se e vocês notam
+550240 551880 (09) que ele tá com um pouco de olheira
+551880 553780 (09) ele tá um pouco preocupado com alguma coisa ali
+553780 555900 (03) o que foi, Charles? Nunca te vi assim
+555900 557740 (08, 03) eu tô cheio de coisa a resolver
+557740 559540 (08) eu tenho que pegar do terno
+559540 561720 (08) vocês viram que a entrega da medalha ficou macada
+561720 564120 (08) até o final do dia, né? Vocês vão estar lá, né?
+564420 565540 (12, 08, 03) ah, vamos sim, claro
+565540 567720 (12, 08, 03) o senhor quer que eu faça isso pra você?
+567820 569200 (12, 08, 03) que eu busque o terno? Não, obrigado
+569200 572180 (08) na verdade eu estava pensando em pedir uma ajuda pra vocês
+572180 573300 (08) mas com outra coisa
+573300 574660 (08) a Pucca está doente
+574660 576540 (09, 08, 03) a Pucca tá doente? Quem?
+577260 580180 (09) quem já trabalha com ele sabe que a Pucca é uma
+580180 581080 (09) uma poodle
+581080 582400 (09) branquinha, bonitinha
+582400 585700 (09, 08) eu levei ela no veterinário local que ela sempre vai
+585700 588140 (08) mas ele me deu um diagnóstico meio preocupante
+588140 589520 (08) e eu queria ouvir uma segunda
+589540 591700 (08) opinião. Vocês sabem que nosso veterinário
+591700 593680 (08) local cuida mais de animais comuns, né?
+593980 595720 (08) esses vira-latas caramelo e tal
+595720 596940 (08, 03) ah, sim, claro
+596940 598800 (03) a Pucca é super chique
+598800 601100 (03) ela merece o veterinário da cidade
+601100 601780 (03) grande
+601780 605200 (08, 03) não precisa ir tão longe. No porto eu vim falar de um especialista
+605200 606660 (08) em animais de raças exóticas
+606660 609300 (08) ele era um veterinário na capital, mas veio pra cá
+609300 610400 (08) em busca de tranquilidade
+610400 612260 (08) se chama Dr. Manente
+612260 614560 (08) achei que se vocês não tivessem outro compromisso
+614560 617540 (08) seria uma boa levar o Felipe pra lá conhecer nosso porto
+617540 619420 (08) afinal, lá é um dos poucos lugares
+619420 620760 (08) que acontecem alguma coisa
+620760 623060 (08) e aproveitarem pra dar uma paradinha
+623060 624080 (08) do Dr. Manente
+624080 626420 (08, 04) ah, claro, a gente pode fazer isso sim
+626420 629060 (04) e aí ele já conhece a cidade, já vê o pessoal
+629060 630740 (04) e conhece a Pucca, que é uma
+630740 632780 (04) uma cidade exemplar
+632780 634700 (09, 04) obrigado, obrigado
+634700 637280 (09) ele abre o banheiro da sala dele
+637280 639760 (09) a sala dele, como a sala dele tem um banheiro próprio
+639760 641160 (09) lá dentro sai a Pucca
+641160 642780 (09) meio amoadinha, mas é um cachorro lindinho
+642780 644440 (09) com lacinhos na orelha e tal
+644440 646900 (09) ele põe a coleirinha nela
+646900 648840 (09) entrega pra Natália
+649420 652840 (09, 12, 08) eu tenho só umas dúvidas aqui
+652840 655280 (12) você vê ele puxando um caderninho assim pra anotar
+655280 656980 (12) é Dr. Manente que você falou?
+657260 658280 (12, 08) sim, Manente
+658280 660620 (12) Manente, certo, a Pucca
+660620 663440 (12) e só, ela tá assim há quantos dias que ela tá assim?
+663620 664560 (12) mais mal pra anotar aqui?
+664820 666340 (08) eu anotei faz uns 3 dias
+666340 668700 (08) aí nessa correria até sair o resultado
+668700 670780 (08) eu só queria ouvir uma segunda opinião
+670780 673500 (08) provavelmente ela vai continuar com o veterinário dela
+673500 675720 (12) você tem os resultados dos exames aí pra gente levar?
+676280 676760 (08) ah, sim
+676760 679340 (08) bem lembrado, bem lembrado
+679420 681740 (12, 08) exames, pronto
+681740 682960 (12) vou anotar aqui
+682960 685400 (12) senhor, pode deixar que isso vai ser resolvido
+685400 686620 (12) não se preocupe
+686620 688820 (08) é como eu te falei antes das meninas chegarem
+688820 690200 (08) é uma cidade tranquila
+690200 693800 (08) pode ser que dê alguma loucura por conta dessas medalhas e tal
+693800 695920 (08) mas se Deus quiser, nada vai mudar
+695920 697300 (08, 03) vem cá, Pucca, vem
+697300 709260 (09) eu não posso, eu não posso
+709260 710180 (09) ele tá levando a Pucca
+710180 712820 (09) vocês tem as chaves dos carros, né?
+713440 714940 (09) quem vai dirigindo, como é que vocês vão fazer?
+715420 716360 (12, 03) eu vou dirigindo
+716360 719200 (12, 03) o Felipe, ele fez faculdade de biologia na capital
+719200 721920 (12) eu posso dar uma olhada na Pucca pra ver se ele identificou alguma coisa?
+722240 723920 (12) pode sim, rola dois dados
+723920 727240 (09, 12) eu tirei 2 e 1
+727240 728100 (09) teu atributo é 3
+728100 731360 (09) tu não faz a menor ideia do que ela pode ter
+731360 733360 (09, 12) olha gente, eu nunca vi isso não, viu?
+733420 734860 (12) essa cachorra aí tá morrendo, eu acho
+734860 736700 (12) e você é veterinário, por acaso?
+737180 738240 (12, 03) não, mas eu estudei biologia
+738240 738620 (12, 03) ah, estudou biologia, você é veterinário?
+738620 738640 (12, 03) ah, estudou biologia, você é veterinário?
+738640 739240 (12, 03) ah, estudou biologia, você é veterinário?
+739260 741560 (12, 03) eu não tenho nem idade pra ficar analisando cachorro
+741560 743020 (03) vamos gente, vamos levar no médico
+743020 745600 (09, 03) vocês vão seguindo, a cidade realmente
+745600 747500 (09) é bem pequena, ela parece ter
+747500 749820 (09) uma loja de cada tipo
+749820 751580 (09) ninguém parece ter
+751580 753080 (09) muita concorrência por ali
+753080 755440 (09) de um lado vocês veem o mar
+755440 756440 (09) o mar
+756440 758980 (09) tranquilo, as praias ali são
+758980 760500 (09) de areia curta, então
+760500 763100 (09) um terreno mais arenoso, não são muito atrativas
+763100 764920 (09) pro banho, pro lazer
+764920 767600 (09) a região que vocês estão indo é a região onde fica o porto
+767600 769040 (09) o porto mesmo é a parte
+769040 770920 (09) é considerado o centro da cidade
+770920 773280 (09) que é onde concentra mais opções de lojas
+773280 774460 (09) onde concentra mais pessoas
+774460 777120 (09) onde volta e meia tá passando com pessoas diferentes
+777120 779460 (09) porque, como eu falei, o porto ali
+779460 781040 (09) ele não exporta pra fora
+781040 783460 (09) ele normalmente manda pra outros portos
+783460 785340 (09) como do Itajaí, que é um porto maior
+785340 787360 (09) então acaba que o trânsito é mais local
+787360 789740 (09) ou pelo menos do estado naquela região
+789740 791860 (09) você encontra um lugar pra estacionar o carro
+791860 793640 (09) tem vagas marcadas pra polícia
+793640 795560 (09) tem áreas que tu só pode estacionar
+795560 797760 (09) com um cartãozinho, no máximo 2 horas
+797760 799000 (09) mas algumas vagas
+799040 800100 (09) são reservadas pra polícia
+800100 802800 (09) vocês param o carro numa dessas vagas
+802800 805220 (09) tem alguns cafés
+805220 806780 (09) alguns lugares ali que vendem
+806780 809380 (09) carne, coisas derivadas de porco
+809380 811640 (09) e ave, e você sabe que o pet shop
+811640 812160 (09) é por ali
+812160 815420 (09) vocês vão direto pro pet shop, vão tomar um café, vão fazer alguma coisa
+815420 817500 (09, 04) acho que a gente pode ir direto
+817500 819520 (04) e depois que a gente estiver saindo
+819520 821200 (04) de lá, a gente mostra as coisas aqui
+821200 822440 (04) pro Felipe, né
+822440 825700 (04, 03) não tem muito o que mostrar, a gente vai direto e depois a gente volta
+825700 827620 (04, 03) beleza, na volta a gente olha
+827620 828960 (04, 03) a gente pode até parar e tomar um café
+829040 830120 (12, 03) aqui na aula
+830120 832800 (03) e ficar aproveitando a vista
+832800 834420 (03) do porto
+834420 836460 (12) eu tô anotando o nome das lojas e tal
+836460 838420 (09, 12) pra me familiarizar depois
+838420 841100 (09, 12) perfeito, vocês passam do lado de uma loja
+841100 842980 (09) onde tem um cara que tá cortando
+842980 844560 (09) porco, né, a carne
+844560 846000 (09) com um cutelo
+846000 849160 (09) e do lado desse açougue
+849160 850900 (09) tá o pet shop
+850900 853620 (09) pequenininho, bonitinho, tem alguns animais na vitrine
+853620 855460 (09, 03) cachorro, gato, coelho
+855460 856840 (09, 03) que cruel isso, gente
+856840 858440 (03) não sei se eu confio não
+859040 860360 (03) acho que tá certo
+860360 862860 (03) nossa, o pet shop do lado do açougue
+862860 863540 (12, 03) olha
+863540 867540 (12, 03) eu acho que a vigilância sanitária podia passar aqui
+867540 868340 (12) depois, porque
+868340 871340 (12, 03) o que será que acontece com os animais
+871340 872260 (04, 03) que não se salvam?
+872660 873880 (04) eu não quero pensar nisso não
+873880 877760 (04) eu posso entrar, dar uma olhadinha
+877760 879320 (04) sendo pra vocês
+879320 881580 (04) se o lugar aparecer pelo menos limpinho
+881580 883660 (04, 03) que risoga, dá uma olhadinha lá
+883660 885700 (03) porque dependendo do que for a gente nem entra
+885700 887640 (09, 03) tá, o pet shop
+887640 888720 (09) é do lado do açougue
+889040 890340 (09) vocês vão no pet shop, é isso, né
+890340 893820 (09, 03) eu tô anotando questões sanitárias
+893820 894980 (01, 09, 12, 03) só alguém entra, é isso?
+894980 897100 (09, 03) é, eu tô fechando os olhinhos da Pucca
+897100 899060 (03) pra ela não ver o bicho morto
+899060 901260 (04, 03) tem alguma portinha de vidro, alguma coisa assim
+901260 902540 (04) na pet shop?
+903100 905340 (09) tem, tem, tem gente lá dentro
+905340 907960 (09, 04) tem duas pessoas atrás do balcão
+907960 908880 (04) tá, eu vou entrar
+908880 911180 (04) e vou dar uma olhada, ver se tem aqueles acessórios
+911180 913060 (04) pra cachorro, coleirinho
+913060 914540 (09, 04, 00) vou fingir que eu tô dando uma olhada
+914540 917260 (04) e eu quero dar uma olhada no lugar
+917260 918520 (04) ver se parece tudo em ordem
+919040 920280 (09) vocês
+920280 922320 (09) tão de uniforme, né?
+922840 923420 (09, 04, 03) eu não
+923420 924600 (09, 04, 03) eu tô
+924600 928960 (09, 03) tu foi visitar o chale
+928960 931120 (09) só se tu tirou do caminho, né, Natália?
+931300 933060 (03) é, então eu fui de uniforme, é verdade
+933060 935620 (09) tá, assim que algo entra
+935620 936860 (09) rola dois dados
+936860 939560 (09, 04) é, três e um
+939560 941160 (09) era pra anotar, tu tinha que ter
+941160 942720 (09) atributou mais, que é um atributo quatro
+942720 945480 (09) então tu olha, tem duas pessoas atrás do balcão
+945480 946600 (09) uma menina muito baixinha
+946600 948100 (09) e um
+948100 950700 (09) um homem, assim, um pouco mais velho
+950700 952040 (09) ele olha pra ti
+952040 953800 (09) olha pra ela e fala
+953800 955520 (09, 07) Gabs, resolve essa pra mim
+955520 957500 (07, 09) que eu vou ali atrás resolver uma coisa
+957500 959940 (09) e ele sai, a menina olha pra ti
+959940 960800 (09, 04) Oi, tudo bom?
+962100 964400 (04) eu queria saber se o doutor Manente tá aí
+964400 966000 (04) ele, ele
+966000 968000 (13, 04) ele, você
+968000 969560 (13, 09, 04) ela tá suando muito
+969560 972300 (09) ela ficou muito vermelha, depois ela ficou muito branca
+972300 974340 (09) ela não tá sabendo como falar contigo
+974340 976140 (09, 04) é, eu acho que eu
+976140 977940 (04) posso, ah, espera só um minuto
+977940 979100 (04) só um minutinho aqui, já volto
+979100 981140 (04) e aí, vou sair, e eu vou assim, menina
+981140 983900 (04) não sabe me atender, o cara quando eu cheguei
+983900 984760 (04) saiu
+984760 987440 (04) eu tô achando estranho, mas não sei
+987440 988460 (12, 04) ele saiu pra onde?
+989060 991500 (04) saiu pela porta dos fundos, acho que a gente podia dar uma olhada
+991500 993700 (04) ver se tem alguma coisa, vou voltar lá e vou
+993700 994980 (04) falar com a menina de novo
+994980 997700 (12, 04, 03) eu vou pro fundo
+997700 999660 (12, 03) dos prédios pra ver se tem alguma
+999660 1000600 (12, 04, 03) entrada, alguma saída
+1000600 1003540 (09, 12, 04, 03) tá, e a Natália?
+1003540 1005780 (03) eu vou junto com o novato
+1005780 1007780 (03) porque não me viram ainda, né
+1007780 1008560 (03) só viram a Olga
+1008560 1011760 (09, 03) tá, Olga tu voltou ali pra dentro da loja
+1011760 1013460 (09) a menina tá branca assim
+1013460 1015380 (09) que nem papel, suando muito assim
+1015380 1017800 (09) a roupa dela
+1017800 1019480 (09) já tá com uma marca de suor
+1019480 1021860 (09) embaixo do braço, na gola da camisa
+1021860 1024080 (09) e ela olha pra gente, ela abre a boca
+1024080 1025020 (09) e não fala mais nada
+1025020 1026680 (13, 04) é, qual que é o seu nome mesmo?
+1026840 1028360 (13, 04) Gab, Gab, Gab
+1028360 1031360 (13) Gabriela
+1031360 1033280 (13, 04) Gabriela, é, Gabriela
+1033280 1035420 (13, 04) tem banheiro ali atrás?
+1035940 1036760 (13) do, dos
+1036760 1037700 (13) do, dos
+1037780 1039420 (13) funcionários, só
+1039420 1041300 (13) só dos funcionários
+1041300 1042920 (13, 04) ah, é que eu tava passando aqui rapidinho
+1042920 1045220 (04) eu posso ir ali no banheiro rapidinho, por favor?
+1045400 1046380 (04) é que eu tô apertada
+1046380 1048340 (13, 04) sem um mandado
+1048340 1051480 (13) você não pode ir
+1051480 1052140 (13, 04) ah
+1052140 1055420 (04) mas eu só queria ir no banheiro
+1055420 1056520 (04) sabe, eu só queria
+1056520 1058840 (04) sabe, eu preciso fazer um xixizinho
+1058840 1061120 (04) rapidinho, eu tomei muita água
+1061120 1063280 (04) e café, naquela cafeteria
+1063280 1063660 (13, 04) logo ali
+1063660 1066920 (13, 04) café, na cafeteria
+1066920 1067420 (13) tem banheiro
+1067780 1070300 (13) banheiro, você pode ir lá
+1070300 1072500 (13, 04) ai, sabe o que, eu não gostei muito de lá
+1072500 1073600 (04) não parecia muito limpo
+1073600 1075500 (04) não gostei, é
+1075500 1078620 (04) eu vou ficar tentando enrolar ela, vou ficar falando ali com ela
+1078620 1080180 (09) tá
+1080180 1081220 (09) enquanto isso
+1081220 1083780 (09) o Felipe e a Olga foram
+1083780 1085360 (09) pelos fundos, estão passando
+1085360 1087700 (09) entre o açougue e o pet shop
+1087700 1089860 (09) tem um pequeno espaço entre os dois prédios
+1089860 1092380 (09) eles não chegam a se tocar, mas é um lugar assim
+1092380 1094700 (09) bem sujo, tem algum lixo jogado ali
+1094700 1096180 (09) rola dois dados cada um
+1097780 1098580 (09) quanto é que tu tirou, Felipe?
+1098580 1099780 (09) tirei seis e seis
+1099780 1101020 (09) dois acertos, Natália
+1101020 1102020 (09) cinco e cinco
+1102020 1104460 (09) tá, vocês começam a dar alguns passos
+1104460 1107180 (09) em direção ali que tem bastante lixo, bastante papel
+1107180 1109100 (09) mas vocês param quando notam
+1109100 1112600 (09) primeiro um som estranho, depois alguma coisa se mexendo
+1112600 1115680 (09, 03) tem umas três cobras ali, entre os dois prédios
+1115680 1119180 (09, 03) elas estão soltas ou estão dentro de caixas de plástico?
+1119180 1121220 (09) soltas, no chão, assim, andando pelo lixo
+1121220 1122260 (09, 03) Natália, segura a puca
+1122260 1123700 (09, 03) olha a tadinha da cobra
+1123700 1125460 (09, 03) Natália, segura a puca
+1125460 1127260 (03) tô segurando, calma
+1127260 1127980 (12) eu tenho medo de cobra
+1127980 1130100 (12, 03) ah, então segura você a puca
+1130100 1132420 (03) que eu vou procurar um pau pra tirá-las do caminho, né?
+1132800 1133640 (12) tá, me dá a puca
+1133640 1136540 (12, 03) eu entrego a puca pra ele
+1136540 1139560 (03) vou ver se eu encontro alguma coisa ali pra mexer nelas
+1139560 1141280 (09, 03) alguma coisa, tipo uma madeira?
+1141480 1144740 (09, 03) é, alguma coisa longa pra eu não correr risco
+1144740 1146500 (09) um dado, que eu atributo a mais
+1146500 1149520 (09) um
+1149520 1154000 (09) tu dá uma olhada ali, tu não acha nada assim que possa usar
+1154000 1156560 (09) mas tu parece ter irritado uma das cobras
+1156560 1157240 (09) que tá indo na tua casa
+1157260 1158620 (09, 03) eu tenho cacetete?
+1159340 1160440 (09) cacetete é arma, sim
+1160440 1164820 (09, 03) então eu vou pegar meu cacetete e tentar parar ela com o cacetete
+1164820 1168960 (03) tipo assim, não pra bater nela, mas pra desviar o caminho dela
+1168960 1170640 (03) e ver se ela para de vir na minha direção
+1170640 1175760 (09, 03) os fundos das duas lojas é um beco sem saída, né?
+1176080 1177940 (09) ou essas cobras vão pra rua lá fora
+1177940 1180100 (09, 03) ou elas vão ficar por ali
+1180100 1180920 (09, 03) e onde é a porta?
+1181820 1183800 (09) tem uma porta que vai pro açougue ali
+1183800 1185580 (09) uma porta de grade que tá fechada
+1185580 1187240 (09) mas não tem porta pra ir lá fora
+1187260 1188620 (09) não tem porta do pet shop
+1188620 1192040 (03) ué, a Olga disse que ele tinha saído pelos fundos
+1192040 1193340 (03) não tem porta aqui
+1193340 1194820 (09, 03) é, ele foi pros fundos da loja, né?
+1195100 1197200 (03) ah, então vamos voltar
+1197200 1199980 (09, 03) tu vê que tem uma janela ali do pet shop
+1199980 1201060 (09) uma janela mais alta
+1201060 1203680 (09) que se alguém quisesse passar alguma coisa por ali, teria passado
+1203680 1205220 (09, 03) essas cobras, elas são
+1205220 1207520 (03) comuns ali?
+1207740 1209200 (03) ou elas são de fora?
+1209380 1210720 (03) tipo, exóticas
+1210720 1213300 (09, 03) tu não tem muita certeza, mas parecem exóticas
+1213300 1214600 (03) ô Felipe, saca só
+1214600 1217040 (03) eu acho que eles estão traficando animais
+1217260 1219000 (03) porque essa cobra aqui
+1219000 1220580 (03) nunca vi aqui não
+1220580 1223460 (12, 03) a gente pode entrar lá
+1223460 1226180 (03) e já interrogar eles com relação a isso
+1226180 1228700 (03) já que não tem porta aqui pra gente investigar
+1228700 1229920 (12) a gente pode questionar
+1229920 1230780 (12) mas não interrogar
+1230780 1232360 (03) é, questionar
+1232360 1233760 (03) faz tempo que eu não trabalho
+1233760 1235420 (12, 03) eu li o manual todo ontem de noite
+1235420 1237200 (12, 03) novato
+1237200 1238740 (12, 03) tá, mas resolve a cobra
+1238740 1240980 (12, 03) porque eu tô indo pra trás já
+1240980 1243080 (12, 03) vai voltando, vai voltando de costas
+1243080 1244960 (03) fica de olho na cobra e vem vindo
+1244960 1247100 (03) a gente dá um jeito de fechar esse beco
+1247100 1248640 (03) pra elas não poderem sair
+1248640 1250260 (03) se bem que elas escalam, né
+1250260 1251560 (12, 03) era melhor achar um lugar
+1251560 1252200 (12, 03) elas escalam?
+1252380 1252880 (12, 03) oh meu deus
+1252880 1254560 (12, 03) eu dei mais três passos pra trás
+1254560 1256560 (12, 03) tá, procura alguma coisa aqui
+1256560 1258880 (03) que a gente possa colocar essas cobras dentro
+1258880 1259440 (03) não sei
+1259440 1261080 (03) faz o seguinte
+1261080 1262040 (03) vai lá pra dentro
+1262040 1263360 (03) vai ver o que a Olga tá fazendo
+1263360 1265520 (03) eu vou tentar lidar com as cobras aqui
+1265520 1266740 (12) tá
+1266740 1268340 (12) eu vou chamar a Olga
+1268340 1269900 (09, 12) tá, enquanto isso
+1269900 1272580 (09) a Olga tava lá conversando com a menina
+1272580 1273840 (09) até que você escuta
+1273840 1275840 (09) a Olga e a menina escutam um barulho
+1275840 1276980 (09) vindo da sala de trabalho
+1276980 1277080 (09) de trabalho
+1277100 1278460 (09) atrás ali do pet shop
+1278460 1280940 (09) um barulho de algumas coisas assim, caindo
+1280940 1283020 (09, 04) eu escuto esse barulho?
+1283380 1283820 (09) escuta
+1283820 1285260 (13, 09, 04) o que tá acontecendo ali, hein?
+1286480 1288440 (13) deve ter caído uma gaiola
+1288440 1290840 (13) alguma coisa
+1290840 1293560 (13, 04) mas tem muitos animais aí atrás?
+1293980 1294480 (04) como é que é?
+1294560 1296340 (04) esse determinante, ele é muito ocupado?
+1296460 1299480 (13, 04) sim, ele é muito ocupado
+1299480 1301780 (13, 04) mas não tem nenhum animal lá atrás
+1301780 1303060 (13, 04) nossa, e como é que uma gaiola
+1303060 1304180 (13) foi cair sozinha?
+1304180 1306580 (13) uma gaiola vazia?
+1306580 1310020 (13) o manente deve ter esbarrado
+1310020 1310760 (13, 02, 04) ah, então ele tá aí?
+1310800 1311420 (13) chama ele pra mim
+1311420 1315060 (13) ele tá no horário de almoço
+1315060 1316580 (13, 09) é, é o início da manhã
+1316580 1317760 (09, 04) é, mas o horário de almoço
+1317760 1318980 (04) agora
+1318980 1320800 (04) nove horas
+1320800 1321500 (13, 04) ele
+1321500 1325180 (13) ele acorda cedo
+1325180 1326420 (13, 04) menina
+1326420 1328220 (04) Gabriela, né?
+1328700 1329380 (04) quantos anos você tem?
+1329860 1330780 (13) eu tô, eu vou
+1330780 1332460 (13) dezoito
+1332460 1334720 (13) eu vou fazer dezoito
+1334720 1335320 (13, 04) dezoito?
+1335440 1336460 (04) nossa, mas você é muito nova
+1336460 1338660 (04) você tá com
+1338660 1340860 (04) tanto medo, assim, de quê?
+1341540 1342760 (09) rola, rola dois dados
+1342760 1345700 (09, 04) três e um
+1345700 1349700 (13) de nada, de nada, de nada
+1349700 1353180 (13, 09) ela até tá um pouco mais calma ali
+1353180 1354600 (09, 04) ela parece não tá te levando tão
+1354600 1355340 (13, 09, 04) nossa
+1355340 1357680 (09, 04) é porque tem um Felipe na mesa
+1357680 1358780 (09, 04) dá nisso
+1358780 1363820 (09, 04) as duas coisas acontecem mais ou menos ao mesmo tempo
+1363820 1365600 (09) o Felipe entra pela porta
+1365600 1366440 (09) do pet shop
+1366460 1368400 (09) e o manente sai
+1368400 1368920 (09) do
+1368920 1371780 (09) da porta dos fundos ali
+1371780 1373820 (09) ele se apoia no
+1373820 1374960 (09) do balcão
+1374960 1376060 (09) assim, meio
+1376060 1377760 (09) meio cansado
+1377760 1378240 (09) assim, meio
+1378240 1379980 (09) é, meio abatido
+1379980 1380780 (09, 12) certo
+1380780 1381960 (12) é, eu já vou
+1381960 1383280 (12) eu já vou entrar falando
+1383280 1383840 (12) olha
+1383840 1384720 (12) então, Olga
+1384720 1386140 (12) já resolveu o problema aqui dentro
+1386140 1387040 (12) porque eu tô com o mandato aqui
+1387040 1388120 (12) a gente já capturou as cobras
+1388120 1389900 (12) que ele tentou jogar pela janela lá fora
+1389900 1391620 (12) é, cobra exótica mesmo
+1391620 1392060 (12) pelo visto
+1392060 1393200 (12) não é daqui não, viu?
+1393560 1394700 (12, 04) ai, que bom que deu certo
+1394700 1395700 (12, 04) então, lá com a Natália
+1395700 1397980 (09, 12, 04) Olga, dois dados
+1397980 1400940 (09, 04) quatro e dois
+1400940 1401500 (09, 04) pelo menos
+1401500 1403240 (09, 04) quatro é um acerto crítico
+1403240 1404260 (09) dois é um acerto normal
+1404260 1405220 (09) a menina Gabs
+1405220 1406040 (09) ela desmaia
+1406040 1407140 (09) assim que houve
+1407140 1408980 (09) todo o relato do
+1408980 1410020 (09) do Felipe
+1410020 1411780 (09) o doutor manente
+1411780 1413420 (09) ele sobe no balcão
+1413420 1415560 (09) embora fosse bem fácil passar pela lateral
+1415560 1417520 (09) e ele tenta pular em cima de ti
+1417520 1419060 (09) mas tu dá um passo pro lado
+1419060 1421160 (09) ele esbarra assim numa estante
+1421160 1422600 (09) derruba um monte de coisa
+1422600 1425280 (09) e ele tá meio que se debatendo ali no chão
+1425280 1425560 (09, 04) eu vou tentar isso aqui também
+1425560 1426780 (04) eu vou tentar conter ele
+1426780 1430180 (09, 12, 04) tipo, segurar ele mesmo
+1430180 1431740 (09, 12, 04) ajudar ela de alguma maneira?
+1432040 1433040 (12) tu tem um cachorrinho na mão
+1433040 1434340 (09, 12) eu quero só ajudar ela
+1434340 1435640 (12) eu não vou me intrometer
+1435640 1436620 (09, 12) eu não vou fazer a ação
+1436620 1438220 (09, 12) rola três dados então, Olga
+1438220 1441220 (09, 04) quatro, três e um
+1441220 1443100 (09) tá, tu tem uma ação física
+1443100 1444100 (09) tu tá tentando parar ele
+1444100 1444860 (09) que tá se debatendo
+1444860 1448340 (09, 02, 04) tem muita coleira e corrente ali próxima
+1448340 1450660 (09) ou tu tem algema também
+1450660 1453360 (09) tu consegue rapidamente mobilizar ele
+1453360 1455540 (09) mas ele tá se debatendo
+1455560 1455880 (09) ele tá se debatendo ali
+1455880 1459460 (09) ele tá saindo tipo uma baba branca
+1459460 1460660 (09) da boca dele
+1460660 1463100 (09) ele tá com a pele bem branca
+1463100 1464640 (09) ele tá com o olho meio amarelado
+1464640 1465900 (09) ele não tá nada bem
+1465900 1467820 (09, 04) é biólogo, hora de brilhar
+1467820 1469700 (04) o que que tá acontecendo com esse cara aqui?
+1470480 1473240 (12, 04) olha, eu não sei, mas não, deixa ele te morder
+1473240 1474640 (12, 04) não, com certeza não
+1474640 1476820 (04) já que ele já tá algemado
+1476820 1479620 (04) e eu tô conseguindo conter ele com segurança
+1479620 1481160 (04) Felipe
+1481160 1483040 (04) chama uma ambulância
+1483040 1484240 (12, 04) então, a gente tem outro problema
+1484240 1485400 (12) a Natália tá cheia de cobra
+1485400 1485540 (12) ela tá com um pouco de dor, ela tá com um pouco de dor
+1485560 1486000 (12) ela tá atrás
+1486000 1489380 (12, 04) Felipe, tem um cara babando
+1489380 1491360 (04) eu tô segurando ele, ele quer me morder
+1491360 1492920 (12, 04) chama uma ambulância
+1492920 1494880 (12, 04) a parceira é sua, se ela morrer
+1494880 1497520 (12, 04) eu vou pegar o telefone
+1497520 1499520 (12) e vou ligar pra, sei lá
+1499520 1500300 (12) um novezeiro
+1500300 1503120 (12, 04) eu passo um rádio pra Natália
+1503120 1505120 (04) Natália, liga pra sua onove
+1505120 1507520 (04) pede pra eles darem uma olhada
+1507520 1509480 (04) aí na sua cobra e vem pra cá, por favor
+1509480 1511500 (04) que tem um cara babando e querendo me morder
+1511500 1513260 (03) eu posso ligar?
+1513260 1514880 (09, 03) tu recebeu isso pelo rádio?
+1515560 1518020 (03) ah, eu vou ligar, é porque eu tava tentando fazer um bloqueio
+1518020 1519700 (03) aqui pra elas não fugirem
+1519700 1522040 (09) ah tá, rola dois dados pro teu bloqueio
+1522040 1523180 (09) teu atributo a mais
+1523180 1525440 (09, 03) quatro e três
+1525440 1526640 (09, 03) um acerto crítico
+1526640 1530480 (09) tu juntou ali alguma, tu encontrou algumas latas de lixo
+1530480 1531320 (09) algumas coisas ali
+1531320 1533820 (09) tu fez um bloqueio pra elas não estarem passando
+1533820 1536020 (09) não vai resolver por muito tempo
+1536020 1538300 (09) até porque as cobras parecem que tu tá meio tonto
+1538300 1539340 (09) tu tá meio perdida ali
+1539340 1542260 (09) mas, por enquanto, tu resolveu ali
+1542260 1545240 (09, 02) tu vai ligar pro controle de animais?
+1545300 1545400 (09, 02) sim
+1545400 1549520 (12, 09, 02) tá ligando vocês lá dentro, tão fazendo o que?
+1549520 1551120 (09, 12) eu quero ligar pra delegacia
+1551120 1554220 (12) pra avisar que o cara tentou atacar a policial
+1554220 1556060 (12) e que a gente precisa de ajuda pra poder levar ele
+1556060 1558300 (12) porque ele tá agindo de forma muito estranha
+1558300 1560700 (05) então, o pessoal tirou hoje de folga
+1560700 1562160 (05) pra resolver as coisas da festa
+1562160 1564200 (05) não sei se eu vou encontrar alguém
+1564200 1565980 (05) além de vocês três em serviço
+1565980 1566920 (05) mas vou tentar
+1566920 1569280 (12, 05) então tá bom
+1569280 1571440 (12) então separa uma cela aí
+1571440 1572500 (12) que a gente vai levar o cara
+1572500 1574120 (12, 05) pode deixar
+1574120 1575140 (12) bom
+1575140 1575700 (12) não tem o que fazer
+1575700 1576680 (12) a gente vai ter que levar ele então
+1576680 1579000 (12) eu vou jogar uma água na cara da menina desmaiada
+1579000 1581180 (12) pra ver se ela me dá alguma resposta
+1581180 1582220 (12) dois dados
+1582220 1583600 (12, 04) pega leve que ela é de menor
+1583600 1585360 (04) ou pelo menos ela falou que era
+1585360 1588440 (09, 12, 04) eu tirei 3 e 3, meu atributo
+1588440 1589740 (09) dois acertos críticos
+1589740 1590860 (09) tu acorda ela
+1590860 1594480 (09) na melhor forma possível
+1594480 1596160 (09) sem sal, um pouquinho de água
+1596160 1598920 (09) ela acorda e olha pra ti
+1598920 1600840 (13, 09) eu não sabia de nada
+1600840 1602380 (13) quando eu vim trabalhar aqui
+1602380 1604780 (13) eu sabia que ele vendia animais
+1605140 1608680 (13) mas só esses dias que ele me contou
+1608680 1610700 (13) que alguns animais
+1610700 1612840 (13) eram pra ficar escondidos
+1612840 1615900 (13) porque ele não tinha a documentação deles
+1615900 1617220 (13, 12) eu tô gravando tudo com o celular
+1617220 1620320 (13, 12) que ele ia encontrar com um pessoal meio diferente
+1620320 1623020 (13) quando ele vai pra polícia entrar
+1623020 1626740 (13) ele deve ter ido se livrar das cobras
+1626740 1629220 (13) eu sou de menor, eu sou estudante
+1629940 1631360 (12) não, tudo bem, tudo bem
+1631360 1632680 (12) não se preocupe que você
+1632680 1633940 (12) no máximo é uma testemunha
+1633940 1635020 (12) não, não se preocupe
+1635140 1636260 (12) porque você não é dona do lugar
+1636260 1637860 (12) não vai ter nenhum problema com você
+1637860 1639800 (12) agora ele costuma agir sempre assim
+1639800 1640580 (13, 12) ó ponto pra ele
+1640580 1641520 (13, 12) não, não
+1641520 1643800 (13) eu nunca vi ele assim
+1643800 1646940 (13) ele sempre foi um homem muito calmo
+1646940 1648940 (12) deve ter sido a picada de algum bicho
+1648940 1649560 (12) provavelmente
+1649560 1652320 (12) tem algum outro bicho lá atrás
+1652320 1653720 (12) que ele deva se preocupar além das cobras
+1653720 1655380 (13, 12) tem alguns ratos
+1655380 1656860 (13) pras cobras comerem
+1656860 1659480 (13) e deve ter um gato ou outro
+1659480 1661460 (13) mas nada perigoso
+1661460 1663820 (13, 12) faz um favor, fica aqui
+1663820 1665060 (12) não sai daqui
+1665140 1666760 (12) que eu vou ali atrás
+1666760 1667780 (12) dar uma olhada nos bichos
+1667780 1668540 (12, 04) fica o som
+1668540 1669780 (09, 04) a Olga tá fazendo o que?
+1670100 1671500 (09) tá cuidando do cara ali preso, né?
+1671580 1673380 (04) na verdade eu queria
+1673380 1676940 (04) levar ele pro carro
+1676940 1678540 (04) prender ele lá no carro
+1678540 1679280 (04) na parte de trás
+1679280 1681860 (12, 04) mas se for assim eu vou ajudar a Olga primeiro
+1681860 1682980 (12) antes de olhar lá atrás
+1682980 1684180 (09, 12) com os dois juntos levando
+1684180 1685060 (09) não precisa rolar o dado
+1685060 1687300 (09) mas ele tá fazendo muita força
+1687300 1689820 (09, 12) ele se balança bastante
+1689820 1691040 (09, 12) tá todo mundo olhando na rua pra ele?
+1691040 1692440 (09) vocês estão saindo
+1692440 1694040 (09) a Natália tá voltando ali pra...
+1695140 1696300 (09) saindo do beco, né?
+1696720 1697600 (09) Natália, dois dados
+1697600 1699980 (09) um e cinco
+1699980 1700600 (09) um e cinco
+1700600 1704040 (09) aquele homem que tava cortando
+1704040 1705820 (09) carne de porco com o cutelo
+1705820 1707360 (09) ele tá
+1707360 1709220 (09) meio babando assim
+1709220 1711220 (09) ele corre na tua direção com o cutelo
+1711220 1712380 (09) ele corta o ar
+1712380 1715540 (09) mas tu dá um espaço pra trás, tu viu o que ele tentou te cortar
+1715540 1718020 (09, 03) eu quero bater no pescoço dele
+1718020 1720200 (03) com o meu cacetete
+1720200 1721280 (09, 03) dois dados
+1721280 1723660 (03) cinco e dois
+1723660 1724680 (09, 03) teu atributo é quatro
+1724680 1726040 (09) tu dá um acerto assim
+1726040 1728100 (09) ele vai pra trás um pouquinho
+1728100 1730760 (09) mas ele continua avançando pra cima de ti
+1730760 1731700 (09, 03) gente, eu acertei o pescoço
+1731700 1734540 (09, 03) e isso saem de dentro do pet shop
+1734540 1737200 (09) Olga, Felipe e o doutor Manente
+1737200 1738960 (09) algemado
+1738960 1740360 (09) e vocês veem essa cena
+1740360 1742620 (09) tem um cara com o cutelo indo pra cima da amiga de vocês
+1742620 1745580 (09, 04) Felipe, você consegue colocar esse cara no cambrão sozinho?
+1746180 1747960 (12) eu acho que você é mais forte que eu
+1747960 1748700 (12) mas eu posso tentar
+1748700 1751280 (12, 04) é que ou você me ajuda aqui ou você me ajuda lá
+1751280 1752840 (04) com a Natália
+1752840 1754380 (12, 04) tá, vai lá
+1754380 1754400 (12) tá, vai lá
+1754400 1754500 (12) tá, vai lá
+1754680 1755900 (12) eu fico segurando o homem
+1755900 1757260 (12) eu não vou tentar botar ele no cambrão não
+1757260 1758200 (12) pra não ser pior
+1758200 1760180 (12, 04) vai ficar segurando parado ali na rua
+1760180 1760620 (09, 12, 04) não, vou fazer o seguinte
+1760620 1761660 (04) eu vou soltar ele
+1761660 1762680 (04) então deixar ele com o Felipe
+1762680 1764160 (04) vou abrir o porta
+1764160 1765380 (04) abrir o cambrão
+1765380 1767360 (04) e vou sair pra
+1767360 1771000 (09, 04) é porque o carro não tá parado exatamente na frente da loja
+1771000 1772340 (09, 04) vocês tem que passar
+1772340 1774260 (09, 04) lembra que vocês passaram pelo açougue
+1774260 1775180 (09, 04) chegaram no pet shop
+1775180 1777880 (09) então o carro tá depois da situação da cenária
+1777880 1779040 (09) da situação da Natália
+1779040 1779900 (09, 04) oh Jesus, ok
+1779900 1783560 (04) então eu vou fazer o mesmo
+1783560 1784660 (04) que a Natália
+1784680 1785260 (04) a Natália fez
+1785260 1786400 (04) vou pegar a minha cacetete
+1786400 1790100 (04) e vou tentar dar no pescoço do cara
+1790100 1791180 (04) pra ver se ele apaga
+1791180 1792020 (09, 04) dois dados
+1792020 1794320 (04) agora?
+1795320 1796600 (04) seis e cinco
+1796600 1798000 (04) agora que eu não preciso
+1798000 1800440 (09, 04) tu foi pra cima dele
+1800440 1803040 (09) mas acabou se distraindo um pouco
+1803040 1803940 (09) tentou acertar ele
+1803940 1804680 (09) não acertou
+1805320 1807340 (09) mas o cutelo dele te acertou assim
+1807340 1809160 (09) na lateral do braço
+1809160 1812000 (09) um pouco abaixo do ombro ali
+1812000 1813680 (09) tu sente cortar
+1813680 1814080 (09) cortar?
+1814680 1817920 (09) tu sente o sangue molhar o teu uniforme
+1817920 1819720 (09) e tu tá sentindo dor ali
+1819720 1822080 (09) o Felipe tá só parado segurando
+1822080 1823720 (09, 12) eu tô segurando o manente com a mão
+1823720 1825040 (12) e a polca com a outra
+1825040 1827760 (09, 12) tá um pouco difícil aqui a situação
+1827760 1829980 (12) joga dois dados, teste de força
+1829980 1832300 (09, 12) tirei três e dois
+1832300 1833120 (09, 12) meu atributo
+1833120 1835980 (09, 12, 03) o manente tentou sair correndo
+1835980 1837880 (09) mas tu puxou e segurou
+1837880 1839160 (09) ele tá parado ali
+1839160 1842220 (09, 03) o cenário mudou, eu vou puxar minha arma
+1842220 1843880 (03) e atirar no joelho do açougueiro
+1843880 1844520 (09, 03) dois dados
+1844520 1847800 (09, 03) cinco e cinco, droga
+1847800 1849140 (09) o teu tiro acerta
+1849140 1851400 (09) a virilha do homem
+1851400 1852900 (09, 03) sangra bastante e cai
+1852900 1855820 (09, 03) ai, cacete, vou fazer pressão pra não morrer
+1855820 1859000 (09, 03) não era a minha intenção
+1859000 1859660 (09) ok
+1859660 1861740 (09, 03) dois dados
+1861740 1864040 (09, 03) quatro e um
+1864040 1865660 (09, 03) agora, né
+1865660 1869140 (09, 03) enquanto eu estiver estancando o sangue
+1869140 1871060 (09) talvez ele sobreviva
+1871060 1871740 (09) Olga?
+1871740 1874280 (09, 04) passar um rádio pra central de polícia
+1874280 1876480 (04) manda uma ambulância, por favor
+1876480 1878420 (04) pro porto
+1878420 1880020 (04) na clínica do doutor manente
+1880020 1881420 (04) do lado do açougue
+1881420 1882820 (03) Olga, ajuda o Felipe
+1882820 1884880 (03) ele tá sozinho ali com o cachorro
+1884880 1886360 (04, 03) sim, sim, eu vou ajudar
+1886360 1889760 (09, 04, 03) outro açougueiro sai correndo de dentro do açougueiro
+1889760 1891580 (09, 04) quantos açougueiros tem nessa cidade?
+1892260 1895460 (09, 04) ele derruba uma mulher
+1895460 1896520 (09) que tava andando na rua
+1896520 1899160 (09) ele dá uma mordida no braço dela
+1899160 1900720 (09) a mulher tava andando na rua
+1900720 1902780 (09, 12) ela não ficou correndo depois de ver um tiro, não?
+1903160 1903840 (09, 12) meu deus
+1904280 1907340 (09) ela foi correr daquela situação
+1907340 1908660 (09) é porque depois de...
+1908660 1910900 (09) as pessoas correram, aí teve o tiro
+1910900 1913140 (09) aí tudo pareceu se normalizar
+1913140 1915500 (09, 04) as pessoas têm a tendência de vir espiar
+1915500 1917520 (09, 04) essa senhora tava vindo espiar
+1917520 1920140 (09, 04) e foi onde ela foi derrubada pelo açougueiro
+1920140 1921540 (09, 04) a triqueira do cara
+1921540 1923900 (09, 04) ação, Olga
+1923900 1927220 (09, 04) tá, ele derrubou a senhora?
+1927600 1929920 (09, 04) sim, tá mordendo o ombro dela
+1929920 1932820 (09, 04) eu vou tentar atirar na perna dele
+1932820 1933540 (04) igual a...
+1934280 1935940 (04) igual a Natália fez
+1935940 1936920 (09, 04) dois dados
+1936920 1939080 (04) seis e dois
+1939080 1940100 (09, 04) o teu tiro acerta
+1940100 1942420 (09) ele dá um grito de dor
+1942420 1943480 (09) ele levanta a cabeça
+1943480 1944820 (09) e ele começa amancando
+1944820 1945900 (09) correndo na tua direção
+1945900 1947740 (09, 04) é ótimo, maravilha
+1947740 1948480 (04) vou tentar
+1948480 1949560 (04) vou dar outro
+1949560 1950860 (04) pra ver se ele cai no chão
+1950860 1953020 (04) e pra conseguir também algemar ele
+1953020 1953660 (09) dois dados
+1953660 1955720 (09, 04) quatro e três
+1955720 1957480 (09, 04) consegue dar um outro tiro não letal
+1957480 1959400 (09) ele cai no chão
+1959400 1960840 (09) e tu consegue ir lá e render ele
+1960840 1961860 (09) Felipe, ação?
+1962280 1963640 (12) então, eu continuo segurando
+1963640 1964120 (12) os dados
+1964120 1964200 (12) os dados
+1964200 1964240 (12) os dados
+1964240 1964260 (12) os dados
+1964260 1966080 (12) os animais que estão comigo
+1966080 1968980 (12) o doutor e o cachorro
+1968980 1972200 (12, 04) eu tenho qualquer resposta da central
+1972200 1987500 (09, 04) depois de alguns minutos
+1987500 1989380 (09) que parece ser uma eternidade
+1989380 1991160 (09) chega duas ambulâncias
+1991160 1994220 (09) o pessoal da ambulância tenta ajudar você
+1994220 1997820 (09) socorra ali a Natália
+1997820 2000580 (09) pra não precisar mais ficar estancando sangue
+2000580 2001800 (09) também faz curativos
+2001800 2003520 (09) no homem que a Olga tirou
+2003520 2006260 (09) e pega o manente
+2006260 2007800 (09, 03) eu quero falar com eles
+2007800 2009720 (03) o pessoal da ambulância
+2009720 2012280 (12, 03) eu quero que prendam as bocas deles
+2012280 2013980 (12) prendam as bocas de todo mundo aí
+2013980 2015300 (12, 03) amordaça esse povo aí
+2015300 2017920 (03) eu percebi um comportamento estranho
+2017920 2018740 (03) nos suspeitos
+2018740 2021620 (03) inclusive na vítima que foi mordida no ombro
+2021620 2023880 (03) e eles traficavam animais exóticos
+2023880 2024180 (03) e eles traficavam animais exóticos
+2024180 2025780 (03) que não tem nessa região
+2025780 2028480 (03) então provavelmente pode ser alguma contaminação de vírus
+2028480 2029320 (03) alguma coisa assim
+2029320 2030940 (03) coloque-os em quarentena
+2030940 2033200 (03) e não deixe eles terem contato com mais ninguém
+2033200 2035440 (03) além do pessoal apropriado
+2035440 2038100 (11) estamos com as únicas duas ambulâncias da cidade aqui
+2038100 2039460 (11) podemos levar dois deles
+2039460 2040420 (11) qual a prioridade?
+2041120 2043880 (12, 03, 11) leva os dois suspeitos
+2043880 2045380 (12, 03) os dois suspeitos?
+2045620 2047480 (12, 03) não, mas eles podem levar dois
+2047480 2050480 (09, 12, 04, 03) a gente pode seguir eles e levar um no carro
+2050480 2052880 (12, 04, 03) é, a gente coloca um manente no carro
+2052880 2052900 (03) é, vamos levar um manente no carro
+2052900 2053740 (04, 03) isso
+2053740 2056320 (09, 04, 03) a mulher que foi mordida, ela levanta
+2056320 2057500 (09, 03) e ele me mordeu
+2057500 2059640 (09, 03) eu sei senhora, eu sei
+2059640 2062520 (03) senhora, se acalme que a senhora vai receber tratamento médico adequado
+2062520 2063920 (03) ele era um zumbi?
+2064660 2065580 (03) eu vou virar um zumbi?
+2066300 2066840 (03) atire em mim
+2066840 2068840 (12, 03) não senhora, calma
+2068840 2072540 (00, 12, 02, 03) provavelmente é alguma cobra que mordeu ele
+2072540 2074020 (03) eu vi o filme, eu sei
+2074020 2075500 (12, 03) isso aqui é mundo real senhora
+2075500 2077320 (12, 03) respira, respira comigo
+2077320 2080180 (03) isso, respira
+2080180 2082320 (03) se acalme que a enfermeira vai lhe atender
+2082320 2083580 (03) pode ser alguma coisa da cobra
+2083740 2085460 (03) que eles estavam traficando cobras
+2085460 2086340 (03) não zumbi, tá?
+2086820 2087920 (03) não tinha zumbi ali dentro
+2087920 2088160 (03) cobra?
+2088360 2088540 (12, 03) é, cobra
+2088540 2089620 (12, 03) a gente tem que pegar a cobra
+2089620 2091500 (12, 03) eu liguei para o centro de zoonoses
+2091500 2092220 (03) eles estão vindo
+2092220 2094040 (03) eu não sei nem se é centro de zoonoses
+2094040 2095760 (09, 03) é, tem alguém chegando da zoonoses?
+2095760 2096980 (09) agora que vocês perguntaram
+2096980 2098060 (09) vocês viram o pessoal chegando?
+2098360 2099760 (09) são dois rapazes com rede
+2100360 2102820 (09) e aquela vareta com um gancho na ponta, né?
+2102900 2104480 (09, 12) pode deixar que agora eu estou seguro, chifia
+2104480 2106580 (09, 12) antes de ir embora eu quero conferir eles pegando
+2106580 2108460 (12) só para ter certeza que foram pegas
+2108460 2110520 (12) porque aparentemente elas causam um estrago muito grande
+2110520 2113620 (09, 12) eles vão ali até o beco, né?
+2113740 2115880 (09) eles pegam as cobras que estão ali
+2115880 2117980 (09) depois eles vão no pet shop
+2117980 2119260 (09, 12) tem mais algumas cobras lá dentro
+2119260 2120120 (09, 12) deve ter alguma
+2120120 2120700 (09, 12) tem animais?
+2120880 2123280 (09, 12) deve ter alguma na zona também do açougue
+2123280 2124520 (12) porque senão eles não estariam assim
+2124520 2126200 (12) alguma pode ter escapado para lá
+2126200 2127420 (12, 03) ou é tudo junto, né?
+2127460 2128480 (03) uma quadrilha
+2128480 2129200 (12, 03) é, não sei
+2129200 2131800 (12, 03) eles usavam as mesmas lixeiras ali atrás
+2131800 2132380 (12, 03) é isso
+2132380 2134080 (09, 12) é bom dar uma olhada dentro do açougue também
+2134080 2134960 (09) só para garantir, assim
+2134960 2136940 (09, 12, 03) vocês querem dar uma olhada, gente?
+2137100 2138640 (09) tá, as ambulâncias já foram
+2138640 2140080 (09) ficaram vocês, o manente
+2140080 2142700 (09) e o pessoal da zoonoses catando as cobras, é isso?
+2142700 2143700 (09, 03) e a senhora Mordi?
+2143740 2145120 (09, 03) foi com a ambulância
+2145120 2145740 (09) ela tá por ali
+2145740 2146960 (09, 03) não, ela foi com a ambulância
+2146960 2148140 (09, 03) ela tá por ali apavorada
+2148140 2149740 (09, 03) mas não eram dois ambulâncias?
+2150560 2152800 (09) não, são dois açougueiros e o manente
+2152800 2154880 (09, 03) ah, é verdade
+2154880 2157480 (03) eu tinha esquecido o segundo açougueiro
+2157480 2159320 (09, 12, 03) o carro da polícia é tipo um camburão?
+2159720 2161920 (09, 12) é, só que só tem dois lugares na frente
+2161920 2163700 (12) e tu tava atrás nos lugares
+2163700 2165480 (09, 12) é isso, mas então ele tem um espaço ainda atrás
+2165480 2166460 (12) que a gente vai botar o manente
+2166460 2167420 (12) atrás do atrás
+2167420 2168500 (09, 12) ah, é verdade
+2168500 2169980 (09, 12) no Brasil tem isso, né?
+2170000 2170700 (09, 12) tem aquele espaço atrás
+2170700 2171600 (09) tu tem a...
+2171600 2172780 (09, 12) que é quase um porta-malas, né?
+2172780 2173700 (09, 12) tem um espaço
+2173740 2174940 (09, 12) então a senhora vai com a gente
+2174940 2175680 (12) não se preocupe
+2175680 2176700 (12) a gente vai pro hospital também
+2176700 2178680 (12, 03) eu puxo o Felipe de um canto e falo assim
+2178680 2179720 (03) fique esperto com ela
+2179720 2180800 (12, 03) não, eu vou na frente
+2180800 2181940 (12, 03) não, você vai atrás
+2181940 2183320 (03) quem vai na frente sou eu e a Olga
+2183320 2185520 (03) fique esperto com ela
+2185520 2187700 (04, 03) a Paul tá achando mesmo que vai na frente
+2187700 2190480 (02, 12, 04, 03) chegou hoje, tá achando que vai sentar na frente
+2190480 2193680 (12, 04) eu acho que eu vou com o pessoal da zoonoses
+2193680 2196420 (12, 03) não, você vai atrás com ela
+2196420 2198740 (03) de olho nela, controlando
+2198740 2199880 (12, 03) tá bom
+2199880 2200800 (12) que jeito?
+2200800 2202960 (12, 04) se essa mulher suar diferente
+2202960 2203720 (04) se ela respirar
+2203740 2204520 (04) diferente
+2204520 2206020 (04) se ela suspirar diferente
+2206020 2206700 (04) você avisa
+2206700 2208080 (12, 04) ela já tá respirando diferente
+2208080 2209340 (12) ela tá pedindo pra te atirar nela
+2209340 2210300 (12, 03) ela já não tá bem
+2210300 2212440 (12, 04, 03) calma, mas isso é ansiedade dela
+2212440 2213780 (03) vai tranquilo
+2213780 2214340 (12, 03) tranquilo
+2214340 2215760 (12, 03) tenta acalmar ela
+2215760 2217240 (12, 03) tá, eu vou me acalmar
+2217240 2217960 (12) e eu vou acalmar ela
+2217960 2219100 (12) ok, tudo certo
+2219100 2222280 (03) eu vou falar com o pessoal da zoonoses
+2222280 2223780 (03) pra eles olharem o açougue também
+2223780 2225640 (03) então já que a gente não vai poder fazer isso
+2225640 2226820 (12) tá bom
+2226820 2227320 (12) pode deixar
+2227320 2229160 (12) a gente termina o pet shop e passa lá
+2229160 2230440 (12, 03) então tá bom
+2230440 2230940 (12, 03) então vamos lá
+2230940 2231920 (12, 03) e liga qualquer coisa
+2231920 2232860 (12, 03) é, qualquer coisa
+2232860 2233720 (03) a gente volta correndo
+2233740 2235720 (03) se vocês virem alguma coisa estranha
+2235720 2236480 (03) pode ligar
+2236480 2237960 (03) tá aqui meu cartão
+2237960 2239220 (09) ele pega o cartão
+2239220 2241680 (09) ele olha pra ti
+2241680 2242960 (09) ele é um guri bem novo
+2242960 2244400 (09) fica meio roborizado
+2244400 2245360 (09, 03) não, não, não
+2245360 2247720 (03) é só se encontrar alguma coisa
+2247720 2248980 (03) diferente aí, tá?
+2249200 2250640 (03) não me liga à toa, por favor
+2250640 2251460 (09, 03) pode deixar
+2251460 2253620 (09) vocês vão até o carro de vocês
+2253620 2255760 (09) coloca o manente atrás, né?
+2256600 2258160 (04) eu quero falar que eu tô com a Pucca, tá?
+2259820 2260660 (09, 04) Puccazinha linda
+2260660 2261720 (09, 04) a Pucca vai na frente
+2261720 2262460 (09) então com a Olga
+2262460 2263420 (09) a Natália vai dirigindo
+2263420 2263520 (09) e o Felipe vai lá
+2263520 2263580 (09) e o Felipe vai lá
+2263580 2263720 (09) e o Felipe vai lá
+2263720 2266620 (09, 12) eu tô discretamente com a mão na minha arma
+2266620 2268360 (09, 12) sem ela ver
+2268360 2269820 (09, 12) sentado
+2269820 2270940 (12) queria tentar acalmar ela
+2270940 2271840 (12) tu vai acalmar ela como?
+2272280 2273120 (12) não, vou conversar
+2273120 2274260 (12) não, eu fiz biologia
+2274260 2276140 (12) antes de vir pra cá pra polícia
+2276140 2276840 (12) tá tudo bem
+2276840 2277600 (12) não se preocupe não
+2277600 2278720 (12) que dificilmente vai ser algo transmissível
+2279240 2279940 (12) a gente vai fazer os exames
+2279940 2280980 (12) só de rotina só
+2280980 2282500 (12) não tem por que se preocupar
+2282500 2283140 (09) dois dados
+2283140 2285880 (04) tudo vai justificar
+2285880 2287460 (04) com essa faculdade de biologia
+2287460 2289080 (09, 04) tirei seis e cinco
+2289080 2289920 (09) perfeito
+2289920 2292360 (09) ela dá uma respirada fundo assim
+2292360 2293620 (09, 03) tô com fome
+2293620 2293700 (03) eu tô com fome
+2293700 2296000 (03) será que é porque eu não tomei café?
+2296440 2297360 (12) deveria tomar café
+2297360 2297680 (12) tá vendo?
+2297740 2298180 (12) não pode
+2298180 2299000 (12) café da manhã
+2299000 2300220 (12) é a maior refeição do dia
+2300220 2301380 (12) tem que tomar sempre
+2301380 2302440 (12) ó, tá vendo?
+2302540 2303360 (12) já fez errado, senhora
+2303360 2303980 (12) como é o nome da senhora?
+2304940 2305340 (12) Dolores
+2305340 2306840 (12) então, senhora Dolores
+2306840 2307320 (12) é isso
+2307320 2308660 (12) tem que comer direito
+2308660 2309760 (12) tem que tomar seu café
+2309760 2311140 (12) tem que se alimentar
+2311140 2312460 (12) não, vai sentir fraqueza mesmo
+2312460 2313020 (12) não tem jeito
+2313020 2314620 (09, 12) vocês vão primeiro pro hospital, né?
+2315040 2315440 (02) é
+2315440 2316900 (09, 02) no hospital
+2316900 2319080 (09) tem um dos rapazes da ambulância
+2319080 2320480 (09) esperando vocês na entrada do hospital
+2320480 2322420 (09) ele faz sinal pra outra galera
+2322420 2323600 (09) levar o
+2323600 2325040 (09) manente e acompanhar a senhora
+2325040 2325920 (09, 11) policiais
+2325920 2327240 (11) os açougueiros tinham
+2327240 2328500 (11) brotilhas de cobra no pé
+2328500 2329880 (11) eu sabia
+2329880 2331440 (11) parece ser um veneno
+2331440 2332180 (11) que nunca vimos
+2332180 2333760 (11) ele causa algum tipo de raiva
+2333760 2335420 (11) e gera um surto de violência na pessoa
+2335420 2337480 (11) acho que foi isso que aconteceu com eles
+2337480 2340000 (12, 11) deve ser por isso que um atirou no outro
+2340000 2342240 (11) Felipe, fica quieto, por favor
+2342240 2344100 (12, 11) dois dados, Felipe
+2344100 2346540 (12) cinco e quatro
+2346540 2348100 (12, 11) não, mas
+2348100 2350100 (11) o Charles, né?
+2350760 2352320 (11) bem, se ninguém filmou aquilo ali
+2352320 2353140 (11) se ninguém comentar
+2353140 2354680 (11) foi o que eu vi também
+2354680 2355520 (03, 11) como assim?
+2355700 2356520 (03) peraí, peraí, peraí
+2356520 2357160 (03) fica quieto, Felipe
+2357160 2358860 (03) como assim o Charles, né?
+2359000 2360780 (03) se ninguém filmou aquilo ali
+2360780 2362240 (03) comentar foi o que você viu?
+2363020 2363900 (03) me explica isso
+2363900 2365240 (03, 11) ele vai ganhar uma medalha
+2365240 2366940 (03, 11) porque os policiais não atiraram em ninguém
+2366940 2368180 (03, 11) ah, tá, entendi
+2368180 2369500 (03) assim não, realmente, é
+2369500 2370560 (03) faz sentido, ok
+2370560 2371900 (12, 03) de nada, senhora
+2371900 2374860 (03) é, vocês estão preparados pra lidar com essa quarentena?
+2374980 2376300 (03) porque é melhor isolar eles
+2376300 2378420 (03) até a gente descobrir que cobra que foi
+2378420 2380320 (03) fazer o sorofi
+2380320 2381140 (03) antiofítico
+2381780 2382620 (03) e tudo mais
+2382620 2383120 (03, 11) aí, eu vou fazer um vídeo aqui pra vocês ver o que aconteceu com a gente
+2383140 2384460 (11) ainda não temos um soro
+2384460 2386180 (11) precisamos encontrar a cobra
+2386180 2389400 (11) estamos esperando o pessoal da zoonose se manifestar
+2389400 2391580 (11) parece que haviam várias cobras exóticas
+2391580 2392140 (11) no local
+2392140 2394100 (03, 11) mas eles estão isoladinhos, né?
+2394180 2396760 (03, 11) não tá misturando com ninguém, todo mundo preparado
+2396760 2399820 (03, 11) cidade pequena, não temos nem muito espaço pra botar as pessoas
+2399820 2401580 (03, 11) vocês precisam de alguma coisa?
+2401960 2403380 (11) não, tá tudo sob controle
+2403380 2404040 (11) imagina
+2404040 2406700 (11) a gente precisa só descobrir qual era a cobra
+2406700 2409080 (11) mas isso o pessoal da zoonose já tá trabalhando
+2409080 2410040 (03, 11) então tá bom
+2410040 2411640 (03) é isso pessoal, e agora?
+2412020 2413120 (03) a gente tem que ir no pet shop?
+2413140 2414200 (03) né, levar a pulga
+2414200 2415220 (12, 03) em outro, né?
+2416200 2418080 (03) é, em outro
+2418080 2420640 (03, 11) ô moço, você sabe onde tem um pet shop bom aqui?
+2420700 2421820 (03, 11) pet shop bom?
+2422480 2424100 (11) ah, sim, tem um muito bom
+2424100 2426660 (03, 11) então vamos lá, né gente
+2426660 2428540 (03) porque já resolvemos as coisas aqui
+2428540 2430240 (03) não pode nem avisar ninguém
+2430240 2432400 (03) porque tá todo mundo na comemoração do charles
+2432400 2433540 (03) e alguém atirou
+2433540 2434820 (03) sim
+2434820 2437500 (02, 12, 03) atiraram um no outro, que absurdo
+2437500 2440860 (03) ai, ai, Felipe
+2440860 2443100 (03) ai, não se esqueçam que eles são
+2443100 2444120 (03) suspeitos, tá?
+2444280 2446280 (03) então assim, mantenham segurança
+2446280 2448520 (03) eles fechadinhos numa sala
+2448520 2449680 (03) que eles não podem escapar
+2449680 2450340 (12, 03) pode deixar
+2450340 2454080 (12) tecnicamente falando, alguém deveria ficar olhando, né?
+2454500 2455580 (12, 04, 03) pois é
+2455580 2458040 (04, 03) oi, já chegou alguém na delegacia?
+2458420 2459880 (05, 04) sim, chegou um oficial aqui
+2459880 2461640 (04) ah, tá, só um minuto
+2461640 2463900 (04, 03) Natália, você quer que eu fale pra ele vir pra cá?
+2464280 2464740 (03) você quer o que?
+2465020 2467040 (03) isso, isso, fala que a gente teve uma ocorrência
+2467040 2468560 (03) que tem um suspeito hospitalizado
+2468560 2470060 (03) porque é pra ele vir pro hospital
+2470060 2471440 (03) ficar de olho no suspeito
+2471440 2472440 (03) tá ok, tá ok, tá ok
+2473100 2476800 (04) ah, Central, a gente tem um suspeito hospitalizado
+2476800 2478660 (04) e a gente precisa que esse policial
+2478660 2479820 (04) venha aqui e ficar de olho
+2479820 2481740 (04) certo, tô mandando o Henrique aí
+2481740 2484340 (04) ah, tá bom, o Henrique, Natália, aquele chato
+2484340 2485400 (04, 03) tá bom, então
+2485400 2487200 (04, 03) ai, droga, vamos embora antes que ele chegue
+2487200 2488380 (04, 03) tá bom
+2488380 2491760 (04) obrigada, tchau
+2533100 2552380 (08, 04) combinado, a gente tá passando aí então
+2552380 2554820 (04) e já vou voltar lá na pet shop
+2554820 2556560 (04) pra ver se tem alguma coisa
+2556560 2558880 (09, 04) vocês passam na delegacia, deixam a Pucca lá
+2558880 2561460 (09) e vão na pet shop, é isso?
+2561820 2562580 (12) é, isso
+2562580 2564620 (12) antes de sair da delegacia, eu quero ligar pro hospital
+2564620 2566620 (12) saber se tá tudo bem, com o tal do Henrique
+2566620 2568780 (12) se houve mais alguma ocorrência com esse pessoal
+2568780 2569300 (12) tá lá
+2569300 2570480 (12) tu vai ligar pro Henrique
+2570480 2571720 (12) é, né, ele que tá lá, da polícia
+2571720 2574100 (12, 10) oi, você é o Felipe, o novato
+2574100 2575100 (12, 10) oi, oi Henrique, prazer
+2575100 2576760 (12, 10) me falaram muito bem de você
+2576760 2577460 (12, 10) prazer, querido
+2577460 2579600 (10) a gente tem que marcar uma pescaria
+2579600 2582440 (12, 10) não, com certeza, a gente marca, não se preocupe não
+2582440 2584100 (10) aqui tá tudo certo
+2584100 2585680 (10) o pessoal tá sedado
+2585680 2588020 (10) a zoonose ainda não identificou a cobra
+2588020 2590440 (12, 10) sabe se eles acharam mais alguma cobra?
+2590620 2591900 (12) acharam mais alguma dentro do...
+2592580 2594980 (12) dentro do açougue?
+2594980 2597580 (12, 10) parece que acharam uma base de 10 cobras
+2597580 2598440 (10) somando tudo
+2598440 2600880 (10) e foram, levaram tudo pra onde?
+2601260 2602980 (10) pro centro de triagem dos bichinhos
+2602980 2605320 (12, 10) central de zoonoses
+2605320 2606200 (12) 10 cobras, tá
+2606200 2609460 (12) então tá bom, tô com a missão aqui do Charles
+2609460 2611380 (12) valeu, brigadão aí
+2611380 2611960 (12) tchau, tchau
+2611960 2615260 (12) ele já me chamou pra pescar, gente
+2615260 2617240 (03) não vá, não vá
+2617240 2618900 (03) conselho
+2618900 2619720 (12) tá bom
+2622580 2628460 (09) vocês param o carro de novo
+2628460 2630260 (09) na mesma vaga que é reservada, né
+2630260 2632080 (09) o açougue tá fechado
+2632080 2633800 (09) o pet shop também, né, mas
+2633800 2635960 (09) é, o pet shop tá só encostado, ninguém entrou
+2635960 2637360 (09, 04) a Gabriela já não tá mais lá
+2637360 2638740 (09, 12, 04) não tá mais lá
+2638740 2641620 (12, 04) a gente nem pegou o endereço da Gabriela, né
+2641620 2642600 (12, 03) mas alguém deve saber se ela é pequena
+2642600 2645920 (12, 03) nossa, a Gabriela é filha de Mariana
+2645920 2647020 (03) mora ali na esquina
+2647020 2652460 (09, 03) a irmãzinha dela faz balé comigo
+2652580 2656120 (09, 03) perfeito
+2656120 2659100 (09, 04, 03) se quiser a gente pode ir lá falar com ela depois
+2659100 2660020 (09, 04) se a gente precisar
+2660020 2662880 (09, 04) vamos passar o balcão então e olhar
+2662880 2665040 (04, 03) a partir dos fundos da pet shop
+2665040 2666700 (03) se vocês querem ir olhando aí
+2666700 2668320 (03) que eu vou tentar entrar no açougue
+2668320 2670660 (03) e aí ver se eu vejo alguma coisa lá
+2670660 2672400 (09) tá, só cuidado com cobra
+2672400 2674040 (09, 03) tá, pode deixar
+2674040 2675760 (09, 03) tá bom, o grupo se dividiu
+2675760 2678880 (09) a Natália foi pro açougue
+2679620 2680680 (09) Felipe e Olga
+2680680 2681840 (09) ficaram na pet shop, certo?
+2681840 2683520 (09) tem a parte da frente da loja
+2683520 2685320 (09) e tem os fundos onde ficam os animais
+2685320 2687860 (09) cada um vai olhar um lado pra ser mais rápido
+2687860 2688640 (09) como é que vocês vão fazer?
+2688820 2691360 (12) eu vou olhar a papelada da frente, computador e tal
+2691360 2692960 (12) ver se consigo pegar alguma informação
+2692960 2693620 (12) e Olga?
+2693740 2696280 (04) eu vou pra parte dos fundos
+2696280 2698860 (04) atenta pra ver se não tem nada rastejando no chão
+2698860 2700480 (04) ainda que a zoonose tenha deixado pra trás
+2700480 2703020 (09, 04) Felipe, dois dados?
+2704520 2705300 (09) seis e seis
+2705300 2706760 (09) seis e seis, são dois acertos
+2706760 2708620 (09) o que tu consegue no computador de vários clientes
+2708620 2709680 (09) a maior parte deles são
+2709680 2711460 (09) é tudo que tá no computador na verdade
+2711460 2711820 (09) é a parte da frente da loja
+2711820 2712720 (09) é a parte legalizada
+2712720 2715600 (09) mas tu encontra um caderninho com algumas anotações
+2715600 2717800 (09) parece que ele recebia
+2717800 2719260 (09) e repassava
+2719260 2720940 (09) animais exóticos
+2720940 2723680 (09) do mundo inteiro que costumavam passar por ali
+2723680 2725760 (09) ele tinha um esquema pra enviar
+2725760 2726920 (09) e receber esses animais
+2726920 2730160 (09) e ele realmente estava com algumas cobras de regiões diferentes
+2730160 2732100 (09) e tal, e todas com nomes
+2732100 2733840 (09) conhecidos, menos duas
+2733840 2735400 (09) estão marcadas duas cobras
+2735400 2737840 (09) duas cobras de espécie não identificada
+2737840 2739460 (09) que foram encontradas
+2739460 2740820 (09) no coração da Amazônia
+2741820 2742820 (09) e ele tinha
+2742820 2745300 (09) e tá dizendo pra onde vai essa cobra?
+2746000 2747420 (09) tem alguns sites
+2747420 2749840 (09) alguns sites de leilão
+2749840 2751060 (09) ilegal de animais
+2751060 2753340 (09) que ele tava tentando passar esses bichos pra frente
+2753340 2755200 (09) mas não tem um comprador específico
+2755200 2757840 (09) e tem como é que chegou, qual foi o navio que chegou, alguma coisa assim?
+2758280 2759360 (09) não tem essa informação
+2759360 2761700 (09) tu encontra ali
+2761700 2762860 (09) entre as coisas dele
+2762860 2764860 (09) o endereço
+2764860 2767000 (09) desse doutor
+2767000 2769980 (09) é uma chacra mais afastada da cidade
+2771820 2773380 (12) acho que a gente pode dar uma passada lá
+2773380 2776440 (09, 12) eu vou ver o que a Olga achou
+2776440 2778160 (09) a Olga, rola dois dados
+2778160 2780980 (04) seis e três
+2780980 2782340 (09, 04) seis e três
+2782340 2784860 (09) tua tributa é quatro
+2784860 2786040 (09) tu fez um acerto simples
+2786040 2788940 (09) tu vai meio preocupado em ver alguma coisa diferente
+2788940 2789520 (09) mas não acha
+2789520 2791520 (09) todos os animais foram retirados dali
+2791520 2793460 (09) tem um cheiro meio forte
+2793460 2796780 (09) de bicho, de cocô e urina
+2796780 2798620 (09) provavelmente não foi trocado direito
+2798620 2799380 (09) algumas gaiolas
+2799380 2801160 (09, 02) mas assim
+2801160 2803540 (09) tinha bastante gaiola
+2803540 2805000 (09) de animais
+2805000 2806960 (09) tipo um vidro
+2806960 2807820 (09) com buracos pequenos
+2807820 2810040 (09) específicos pra cobra
+2810040 2812580 (09, 02) mas tudo de animal que tinha ali
+2812580 2814080 (09) o pessoal da zona nós levou
+2814080 2815900 (09) e nada chamou muita atenção
+2815900 2816840 (09) Natália
+2816840 2820520 (09, 03) eu vou olhar qualquer coisa que seja diferente
+2820520 2823000 (03) do açougue mesmo
+2823000 2825380 (03) e vou olhando os cantos pra ver
+2825380 2827140 (09, 03) consegui entrar ali pra uma porta lateral
+2827140 2828760 (09) do açougue
+2828760 2829500 (09) rola dois dados
+2831160 2832400 (03) seis e cinco
+2832400 2833660 (09) seis e cinco
+2833660 2835000 (09) tu começa a andar ali
+2835000 2837040 (09) tem bastante carne, bastante coisa
+2837040 2839700 (09) tu nota embaixo assim do
+2839700 2842820 (09) seria aquele freezer grande de carne
+2842820 2845920 (09) tu acha que viu alguma coisa se mexer ali embaixo
+2845920 2848040 (09, 03) daí tu já fica mais pra trás
+2848040 2850040 (03) cacete eles esqueceram uma cobra
+2850040 2851540 (03) eu passo no rádio
+2851540 2854040 (03) Olga, eu acho que tem mais uma cobra aqui
+2854040 2856740 (03) tem algum material aí de mexer com cobra
+2856740 2859280 (03) alguma daquelas lanças com ponta
+2859280 2860920 (03) eu não sei como é o nome daquilo
+2860920 2863040 (03) que o pessoal das zoonoses usa
+2863040 2865460 (03) como é que o veterinário fazia o manejo
+2865460 2867220 (03) procura alguma coisa e vem aqui me ajudar
+2867220 2869340 (03) que eu tô de olho nela pra não sair daqui
+2869340 2871300 (04, 03) tá ok, tá ok, já tô chegando aí
+2871300 2874540 (04) Guaxa, eu vejo
+2874540 2875680 (04) além das
+2875680 2877680 (04) eu vou pegar uma caixa dessas que já
+2877680 2879840 (04) ela já guardava pras cobras
+2879840 2881680 (04) tem os ratos, alguma coisa assim
+2881680 2883840 (04) que usava pra alimentar as cobras que tá por ali
+2883840 2885220 (09, 04) não, os ratos foram levados também
+2885220 2885840 (09, 04) foram levados também
+2885840 2888080 (09, 04) mas tem aquele bastão de
+2888080 2890660 (09, 04) pra o pessoal das zoonoses usava
+2890660 2893200 (09, 04) e tem essas gaiolas fechadas
+2893200 2894520 (09) que você só pode carregar
+2894520 2895360 (09, 04) então vou pegar
+2895360 2898740 (04) tanto o bastão quanto a gaiola
+2898740 2901060 (04) vou passar pela parte da frente
+2901060 2902900 (04) da pet shop e já vou avisar o Felipe
+2902900 2905000 (04) Felipe, a Natália achou mais uma cobra
+2905000 2906640 (04) lá no açougue, então tô indo lá
+2906640 2908180 (12) ô diabo, tá bom
+2908180 2909540 (12, 04) achou alguma coisa aí?
+2910040 2911540 (12) achei, mas daqui a pouco a gente conversa
+2911540 2912720 (12) bora pegar a cobra primeiro
+2912720 2916060 (12) me dá essa caixa que você segura
+2916060 2917500 (12) a cobra e eu seguro a caixa
+2917500 2920420 (04) tá bom
+2920660 2924240 (09, 04) o Felipe então pega a gaiola de cobra
+2924240 2927180 (09) a Olga sai com o bastão
+2927180 2928800 (09) vocês vão ali pela lateral
+2928800 2930720 (09) enquanto isso, Natália, dois dados
+2930720 2932940 (09, 03) três e cinco
+2932940 2934260 (09) a cobra continua ali embaixo
+2934260 2934980 (09) daquele
+2934980 2937960 (09) do freezer de carne
+2937960 2939400 (09) que é pra exposição
+2939400 2941340 (09) que tem a lateral de vida
+2941340 2943760 (09) e teus amigos chegam ali, teus parceiros
+2943760 2945680 (03) empresta o bastão, Olga
+2945680 2947920 (09, 04, 03) tá bom, entrego pra ela
+2947920 2948880 (04) sem problemas nenhum
+2948880 2950300 (09, 12, 04) Natália, senhora
+2950660 2952720 (12, 03) cobra
+2952720 2954660 (09, 03) vem cá
+2954660 2955900 (03) vem cá, bichinho
+2955900 2957580 (03) eu vou te devolver pra sua casa
+2957580 2960680 (09, 03) a Natália não tem muito conhecimento
+2960680 2961760 (09) no assunto, rola um dado
+2961760 2964580 (09) vamos ver se tu consegue pegar
+2964580 2965100 (09) essa cobra
+2965100 2967340 (03) quatro
+2967340 2970040 (09, 03) filho da mãe
+2970040 2971480 (09, 04, 03) nossa
+2971480 2974660 (09, 04) tu tira quatro, que é o teu atributo
+2974660 2976060 (09) é um acerto crítico
+2976060 2978280 (09) tu consegue prender ali ela
+2978280 2979780 (09) com aquele bastãozinho
+2979780 2980620 (09) a cobra tá
+2980660 2981600 (09) tranquila
+2981600 2983640 (09) ela tem uma coloração diferente
+2983640 2985040 (09, 03) meio amarelada
+2985040 2986920 (09) tu leva até o Felipe
+2986920 2987720 (09) que tá com a
+2987720 2991360 (09) galinha aberta e coloca ela dentro
+2991360 2993040 (09, 03) pronto, pronto
+2993040 2994940 (03) eu vou te devolver pra casa, tá bom?
+2995580 2997700 (03) fica calminha aí, não morde a gente não
+2997700 2999320 (03) eu olho em volta
+2999320 3000380 (03) pra ver se tem mais alguma
+3000380 3001280 (09, 03) dois dados
+3001280 3003360 (09, 03) dois e seis
+3003360 3006240 (09, 03) essa era a última mesmo
+3006240 3007980 (03) e aí gente, acharam alguma coisa lá?
+3008820 3010480 (12) então, eu achei um caderno
+3010480 3010640 (12) dele, eu achei um caderno dele
+3010660 3012040 (12) que fala sobre as cobras
+3012040 3014240 (12) e fala que tem duas cobras que ele achou
+3014240 3015860 (12) que eram
+3015860 3017740 (12) não catalogadas
+3017740 3020220 (12) inclusive a reação que ele teve
+3020220 3022400 (12) na minha opinião foi uma reação bem não catalogada
+3022400 3023880 (12) porque eu nunca tinha ouvido falar de nada assim
+3023880 3025580 (12, 03) pode ter a ver com essas cobras
+3025580 3028800 (12, 03) nesse caderno tinha quantidade de cobras que ele tinha lá?
+3028940 3030020 (03) tinha algum controle de número?
+3031060 3032200 (09, 12) tinha controle de número, eu acho
+3032200 3033120 (09) tinham
+3033120 3036300 (09) pelas anotações dele ali
+3036300 3038700 (09) tinham doze cobras diferentes
+3038700 3040640 (09, 12) pelo controle de número
+3040660 3041880 (12) dele aqui das anotações
+3041880 3042860 (12) tinham doze cobras
+3042860 3043840 (12) outra informação
+3043840 3045640 (12) dizia como eram essas cobras
+3045640 3047080 (12) as que foram não catalogadas?
+3047220 3048580 (12) as duas não catalogadas, não
+3048580 3050460 (12) mas não falava nenhum aspecto físico dela?
+3050540 3051140 (12) ele não anotou nada?
+3051480 3053800 (09) numa delas ele coloca a amarela
+3053800 3055320 (09) e na outra ele colocou a grande
+3055320 3057800 (09, 03) uma delas eu acho que é essa aqui
+3057800 3059260 (03) é, então a gente tem um problema
+3059260 3061960 (03) porque se o centro de zoonose achou dez
+3061960 3062800 (12, 03) eu achei mais uma
+3062800 3063740 (12, 03) a gente achou onze?
+3064200 3064480 (12, 03) é
+3064480 3065060 (12, 03) é
+3065060 3066840 (03) tá faltando uma
+3066840 3068020 (03) é
+3068020 3069760 (03) vamos olhar ali atrás no beco
+3069760 3070640 (03) dar uma olhada aqui em cima
+3070660 3071520 (03) de volta porque
+3071520 3073100 (12, 03) tá faltando uma cobra
+3073100 3074220 (12, 04, 03) a gente vai ter que ir a esse porto inteiro
+3074220 3077020 (12, 03) vocês tem algum contato do povo de zoonoses
+3077020 3078620 (12) pra eu mandar uma foto desse caderninho
+3078620 3080080 (12) só pra dar o nome das cobras
+3080080 3082880 (12, 03) e falar que essas não foram catalogadas?
+3083020 3083340 (12, 03) ah, eu tenho
+3083340 3085180 (03) eu devo ter o whatsapp sim
+3085180 3087160 (03) a dona maria trabalha lá, peraí
+3087160 3088840 (09, 12, 03) tá bom, tu tem esse contato
+3088840 3090900 (09, 12, 03) tá aqui ó, manda foto pra ela
+3090900 3092160 (09, 03) eu vou gravar um áudio
+3092160 3093320 (03) ô dona maria
+3093320 3095560 (03) aqui ó, um caderninho do cara das cobras
+3095560 3097700 (03) aí vocês vão fazer uma conferência aí
+3097700 3100100 (03) ver se consegue o antídoto
+3100100 3100560 (03) pro...
+3100560 3101560 (03) pro povo, tá bom?
+3102180 3102540 (03) beijo
+3102540 3104620 (12) avisa que a gente achou mais uma
+3104620 3106500 (03) ah, a gente achou mais uma
+3106500 3107700 (03) mas eu não vou levar agora não
+3107700 3108620 (03) espera só um pouquinho
+3108620 3110340 (03) que a gente vai procurar mais um pouco aqui
+3110340 3112020 (03) ah, e fala pra sua filha
+3112020 3113540 (03) se alongar em casa, hein
+3113540 3115540 (03) beijo
+3115540 3117960 (09) vocês...
+3117960 3119400 (09, 06) manda foto dessa cobra também?
+3119600 3120120 (09) manda foto da cobra
+3120120 3121280 (09) depois de um tempo
+3121280 3122480 (09) vocês recebem um...
+3122480 3123720 (09) um áudio, né?
+3124180 3125540 (06) ah, pode deixar
+3125540 3127500 (06) ela vai se alongar sim
+3127500 3129760 (06) ela tá adorando as aulinhas
+3130560 3132400 (06) então, os meninos aqui
+3132400 3133380 (06) fizeram a contagem
+3133380 3135740 (06) tem todas menos essa tal de grande
+3135740 3137920 (06) já contando a que está com vocês
+3137920 3139260 (03, 06) tá bom
+3139260 3141820 (03) eu mando um...
+3141820 3143560 (03) uma figurinha pra ela
+3143560 3145920 (03) é gente, a cobra grande tá faltando
+3145920 3146640 (03) vamos procurar
+3146640 3150260 (03) vocês acham que a gente devia pedir reforço, alguma coisa assim?
+3151260 3152200 (02, 03) ou é melhor a gente resolver logo?
+3152200 3152740 (02, 03) reforço pro Henrique?
+3153440 3154580 (12, 03) é, reforço pra quem?
+3154600 3155540 (12, 03) ah, só tem o Henrique, né?
+3155680 3158120 (03) não, não, esquece, esquece o que eu falei, bora procurar
+3158120 3160020 (12, 03) agora o povo das zoonoses
+3160020 3161780 (12) depois que terminar de catalogar e prender
+3161780 3162780 (12) podia vir ajudar, né?
+3162840 3164320 (12, 03) eles entendem mais de cobra que a gente
+3164320 3166960 (12, 03) tá, vou mandar mensagem pra dona Maria aqui
+3166960 3169020 (03) aí mandei, tipo, ah, vão desocupar
+3169020 3170360 (03) se puder, vem aqui
+3170360 3172840 (09, 12) vocês vão ficar por ali olhando, procurando?
+3173120 3175400 (09, 12) eu quero dar uma olhada no beco, ver se tem uma entrada de esgoto
+3175400 3177280 (12) alguma coisa assim que a cobra poderia ter se enfiado
+3177280 3178920 (12) e fugido
+3178920 3180720 (04) é, procurando rastros também
+3180720 3183520 (04) qualquer lugar escuro
+3183520 3185800 (04) que pareça, sei lá, um lugar fácil dela se esconder
+3185800 3187960 (12, 04) agora sim, eu vou pegar um cabo de vassoura
+3187960 3190000 (12) e vou cutucar os lugares antes de chegar perto deles
+3190020 3192160 (09, 12) tá, vocês fazem isso por um tempo
+3192160 3193760 (09) depois chega o pessoal
+3193760 3195880 (09) das zoonoses, eles ajudam vocês
+3195880 3197560 (09) a fazer um pente fino na região ali
+3197560 3198760 (09) parece não ter nada
+3198760 3201140 (09, 12) nenhum bicho por ali escondido
+3201140 3203920 (12) então, ele mora num sítio, é mais afastado um pouco
+3203920 3205640 (12) da cidade, será que ele levou pro sítio dele
+3205640 3206900 (12) essa cobra, será que já tá lá?
+3207320 3209640 (03) claro, gente, vamos lá ver, porque você não falou
+3209640 3211740 (12, 03) antes, Felipe, nenhuma informação
+3211740 3213480 (12, 03) dessa a gente compartilha logo
+3213480 3215360 (12, 03) eu não tenho cobra
+3215360 3217900 (12, 03) é, você tem que aprender, vamos então
+3217900 3219700 (03) a gente pode entregar essa amarelinha
+3220020 3221280 (03) pros zoonoses
+3221280 3222500 (03) e a gente vai lá
+3222500 3225860 (12) tá bom, a gente tem o contato do Charles
+3225860 3227620 (12, 03) o Charles tá recebendo medalha
+3227620 3229140 (09, 12, 03) é mais tarde
+3229140 3230920 (09, 12) ele tá na preparação
+3230920 3233660 (12) a gente podia atualizar ele, né, do que tá acontecendo
+3233660 3235680 (12) que a gente vai invadir a casa das pessoas
+3235680 3237680 (12, 03) Olga, você faz isso?
+3238000 3239440 (03) ai meu Deus, faço
+3239440 3240500 (03) obrigado
+3240500 3244740 (04, 03) ligou o rádio
+3244740 3248200 (04, 08) Oi Charlie, oi querida, tudo certinho por aí?
+3248200 3249620 (08, 04) tá tudo indo bem
+3250020 3252900 (04) a gente viu aqui o número de cobras que tinha
+3252900 3254960 (04) e a gente percebeu que tá faltando uma
+3254960 3257540 (04) então a gente vai checar a casa do moço, tá bom?
+3257680 3258820 (08) tá bom, tranquilo
+3258820 3260160 (08) mas vocês tão bem, né?
+3260320 3261240 (04) a gente tá ótimo
+3261240 3263200 (04, 08) ele atirado, não deixou vocês assim
+3263200 3265560 (08) tá tudo certinho, né?
+3265760 3268220 (04, 08) aí, sem responder no rádio, né, pra Natália
+3268220 3270320 (04) ele tá falando que a gente atirou
+3270320 3272600 (04, 03) droga, ele descobriu
+3273340 3274780 (03) Felipe disse pra gente
+3274780 3275120 (03) que
+3275120 3277060 (04, 03) que droga
+3277060 3279860 (04, 03) é melhor falar a verdade logo de uma vez
+3280020 3281600 (03) fala que a gente atirou
+3281600 3283100 (03) e disse que a gente vai pra terapia
+3283100 3284940 (03) sei lá, não sei o que o Charles pensa
+3284940 3286500 (12, 03) que verdade nenhuma, gente
+3286500 3288180 (12) ele vai perder a medalha por nossa causa
+3288180 3290080 (12, 03) é meu primeiro dia, eu não quero ser demitido não, gente
+3290080 3290660 (12, 03) pelo amor de Deus
+3290660 3293220 (12, 03) você não vai ser demitido, você é concursado
+3293220 3295800 (12, 03) cidade interior, cidade interior
+3295800 3296600 (12, 03) não sei como é que funciona
+3296600 3299500 (02, 12, 03) tem estágio probatório, Olga, ele não passou ainda
+3299500 3300720 (02, 03) é verdade
+3300720 3304000 (12, 02, 03) tá vendo, vou ser demitido
+3304000 3305760 (12) meu Deus do céu, é o primeiro dia
+3305760 3307360 (12, 03) fala que você não viu, Olga
+3307360 3309320 (03) fala que você não viu, depois a gente faz o relatório
+3310020 3312580 (04) é, depois a gente te atualiza certinho no relatório
+3312580 3314440 (04) viu, de como que a gente tá, mas
+3314440 3315400 (04) tudo bem
+3315400 3317780 (04) não vou falar mais nada
+3317780 3320380 (04) eu confirmei, não neguei
+3320380 3322080 (09) ok, e agora?
+3323140 3324120 (04) vamos pra delegacia
+3324120 3325380 (09, 12, 04) não, vamos pro sítio
+3325380 3328660 (09, 04) sítio, é verdade, sítio, sítio, sítio
+3328660 3329300 (04) desculpa
+3340020 3343280 (09) vocês seguem, então, por algumas estradazinhas
+3343280 3344840 (09) indo em direção ao sítio, né
+3344840 3346800 (09) vocês vão levar o pessoal da zoonose
+3346800 3347800 (09) ou vão só vocês três?
+3347800 3349320 (09, 02, 04) acho que a gente pode levar a dona Maria
+3349320 3351760 (09, 02, 04) pelo menos algum deles
+3351760 3353440 (09, 12, 02) que saiba mais
+3353440 3354960 (09, 02) são dois
+3354960 3357700 (09) todos os funcionários e aquela senhora que cuida
+3357700 3359840 (09) da central e os dois
+3359840 3362040 (09, 12) um deles precisa levar a cobra
+3362040 3364080 (09, 12) um deles precisa levar a cobra pra zoonose
+3364080 3365160 (09, 12) se bem que a gente pode acompanhar
+3365160 3367000 (09, 12, 02) a cidade é pequena, a gente pode acompanhar
+3367000 3370000 (12) eles levarem e depois modelizarem com a gente
+3370020 3371800 (12, 04) não, a gente pode
+3371800 3374320 (12, 04) ou um deles leva e o outro vem com a gente
+3374320 3376380 (09, 12, 04) mas dois é melhor que um
+3376380 3377120 (04) tá bom
+3377120 3379340 (09, 04) dois é melhor que um
+3379340 3381600 (09) daí eles podem ir no carro deles também, né
+3381600 3383040 (04) ah, tá, bom
+3383040 3386080 (09, 12) senão ele teria que ir com o Felipe do banho de freio
+3386080 3388140 (09, 12, 02) e com equipamento e tudo mais
+3388140 3389960 (09) vocês passam, então, na zoonose
+3389960 3391420 (09) deixam lá a cobra que faltava
+3391420 3394060 (09) e seguem, então, vocês vão na frente
+3394060 3396420 (09) e o outro carro da zoonose vai seguindo vocês
+3396420 3399740 (09) você chega até uma área mais afastada
+3399740 3400000 (09) assim
+3400000 3401940 (09) a rua é uma rua de barro
+3401940 3403420 (09) que só passa um carro por vez
+3403420 3405920 (09) tem alguns pontos na estrada que ela
+3405920 3407820 (09) aumenta um pouquinho pra lateral
+3407820 3410520 (09) provavelmente pra quando dois carros se encontrarem
+3410520 3412680 (09) um deles ter que sair da estrada um pouco
+3412680 3414100 (09) pro outro continuar
+3414100 3416160 (09) até que vocês chegam na entrada
+3416160 3416520 (09) assim
+3416520 3420460 (09) o lugar ele é cercado por arame farpado
+3420460 3422440 (09) tem uma casa simples
+3422440 3424480 (09) do lado dessa casa tem uma estufa
+3424480 3426400 (09) e tem uma garagem
+3426400 3427280 (09) também separada
+3427280 3429100 (09, 03) ó gente, antes da gente descer
+3429100 3432160 (03) eu tenho uma prima que mora lá no Amazonas
+3432160 3433880 (03) e ela fala
+3433880 3436420 (03) às vezes que tem umas cobras bem grandes lá
+3436420 3437900 (03) então tomem cuidado, tá?
+3438500 3440000 (03) porque pode ser um negócio grande
+3440000 3441160 (12, 03) bem grande quanto?
+3441460 3442580 (03) muito grande, tipo
+3442580 3444460 (03) muito grande
+3444460 3446560 (04, 03) ah, mas tudo bem, minha família é do Paraná
+3446560 3448520 (04) e lá também tem umas cobras muito grandes
+3448520 3449540 (04, 03) muito grande
+3449540 3452740 (04, 03) é, então tá bom, vamos só tomando cuidado
+3452740 3454920 (09, 03) é só o povo da zoonose ir na frente
+3454920 3455720 (09, 03) tá tudo bem?
+3456140 3456860 (09, 03) é uma boa ideia
+3456860 3458900 (09, 03) tá, o pessoal da zoonose
+3458900 3459480 (09) vai na frente?
+3459700 3460080 (03) vai
+3460080 3462560 (09, 03) os dois vão direto pra estufa lá
+3462560 3463580 (09) e vocês?
+3463900 3465820 (12, 03) eu vou atrás deles
+3465820 3467880 (12) só que uns passos atrás, assim
+3467880 3469040 (12) de quem odeia cobra
+3469040 3471180 (12) Olga e Natália?
+3471480 3473240 (03) vão na frente do Felipe pra, né?
+3474080 3475420 (03) pra ele não ficar com muito medo
+3475420 3476740 (04, 03) ah, então vamos todos juntos, né?
+3477520 3479100 (12) eu também não quero ser o último, não?
+3479760 3480640 (04) é verdade
+3480640 3482580 (12, 04) tá bom, eu vou atrás do Felipe
+3482580 3484500 (02, 04, 03) os três irmãos engadados, assim
+3484500 3487400 (04) andando junto com medo da cobra
+3487400 3488300 (04) calma, novato
+3488300 3489220 (04) vai ficar tudo certo
+3489220 3491620 (09, 12, 04) vai ficar tudo bem, eu tô segurando a arma
+3491620 3493640 (09) vai ficar tudo ótimo, não se preocupe
+3493640 3496200 (09) os rapazes da zoonose estão chegando por ali
+3496200 3497720 (09) rola dois dados, todo mundo
+3497720 3499820 (09) Olga tirou quanto?
+3500500 3501400 (04) seis e um
+3501400 3502680 (09, 04) um acerto simples
+3502680 3503900 (09) o Felipe?
+3504520 3505320 (09) dois e dois
+3505320 3506020 (09, 04) falhou
+3506020 3507700 (09, 04) e a Natália?
+3508020 3508860 (03) três e seis
+3508860 3510560 (09, 03) um acerto simples também
+3510560 3513920 (09) vocês dois escutam algo batendo, assim
+3513920 3516080 (09) contra a madeira, vindo da casa
+3516080 3518080 (09) por umas batidas, assim, meio ritmadas
+3518300 3520720 (09) o pessoal da zoonose aponta, e daí todo mundo vê isso
+3520720 3522820 (09) a estufa, que é de vidro, né?
+3523120 3524380 (09) eles abrem ali, eles mostram
+3524380 3526020 (09) lá dentro tem espaços que teriam
+3526020 3528160 (09) galinhas de cobra, mas
+3528160 3529740 (09) a estufa tá quebrada
+3529740 3531380 (09) bastante coisa quebrada lá dentro
+3531380 3534460 (09) incluindo um buraco grande na lateral da estufa
+3534460 3535180 (09) grande quanto?
+3535480 3536480 (09) grande um por um
+3536480 3537620 (12, 03) eita peste
+3537620 3541680 (12, 03) viu gente, eu disse que tem cobra grande no Amazonas
+3541680 3544300 (12, 03) como é que ele trouxe isso pra cidade de vocês e vocês nem viram?
+3545040 3545660 (03) veio beber
+3545660 3546960 (03) simples assim
+3546960 3549820 (12, 03) ai meu Deus, esse homem tá vendo muito Harry Potter
+3549820 3552620 (12, 03) ele não tinha noção do que ele tava trazendo pra cá
+3552620 3554400 (12, 03) conhece esse tipo de gente?
+3554440 3555020 (12, 03) é o Hagrid
+3555020 3558480 (12, 04, 03) tá, eu vou um pouco distante
+3558480 3561000 (04) vou até, tipo, distante do buraco
+3561000 3561460 (04) mas
+3561460 3562880 (04) eu tenho uma lanterna?
+3563140 3563840 (04) no carro, talvez?
+3564320 3566360 (09, 04) sim, faz sentido, tem uma lanterna
+3566360 3569180 (04) então tá, eu quero tentar iluminar o buraco, mas meio de longe
+3569180 3570320 (04) não quero chegar muito perto não
+3570320 3572980 (04) só pra ver se tem algo, tem parte da superfície ali
+3572980 3574980 (09, 04) não, assim, nada que chame a atenção
+3574980 3576440 (09) pela entrada do buraco
+3576440 3577820 (09) tem algum rastro do buraco?
+3578460 3579220 (09) nada visível
+3579220 3582140 (09, 04) tá, então vendo que não tem nada ali assim
+3582140 3583880 (04) vou chegando um pouco mais perto pra tentar iluminar
+3583880 3585780 (04) mas no fundo, pra ver se a gente tem
+3585780 3587000 (04) alguma coisa
+3587000 3589400 (09, 04) o pessoal da zoonose abriu ali a estufa
+3589400 3590940 (09) estão lá dentro já mexendo as coisas
+3590940 3592700 (09) povo corajoso
+3592700 3594000 (09, 04) eita
+3594000 3597360 (09, 04) eles assim, ó, tem algumas cobrinhas menores aqui
+3597360 3599160 (09, 02) eles começam a
+3599160 3600540 (09, 02) prender as cobrinhas
+3600540 3602460 (09) algumas já estavam em gaiolas
+3602460 3605640 (09) outras tem gaiolas quebradas, as cobras estão tão soltas
+3605640 3606120 (09) eles estão
+3606440 3609760 (09) juntando ali, botando em gaiolas que estavam mais conservadas
+3609760 3611380 (09) ou até junto com outras cobras
+3611380 3612580 (09) porque eles sabem que não vai ter problema
+3612580 3615860 (09, 12) mas eles estão organizando ali, haviam cobras ali também
+3615860 3618120 (09, 12) encontrou algum papel, alguma coisa dizendo o número de cobras
+3618120 3619800 (12) só pra eles poderem controlar de novo
+3619800 3620920 (09, 12) ali no
+3620920 3622500 (09) na estufa não
+3622500 3624020 (09, 04) e esse som que a gente tava ouvindo
+3624020 3626160 (04) a gente ouviu da casa
+3626160 3630060 (09, 04) continuou ouvindo, é uma batida na madeira assim, ritmado dentro da casa
+3630060 3632020 (09, 04, 00) ritmado, não perdeu o ritmo
+3632020 3632720 (04) nem um momento
+3632720 3634520 (09) não perdeu o ritmo
+3634520 3636320 (04) Natália, tô achando esse barulho muito estranho
+3636440 3638100 (04) também tô achando
+3638100 3640120 (09, 12, 04) que barulho
+3640120 3641680 (09) tu, tu
+3641680 3642840 (09, 12, 04) tu tá ouvindo Felipe?
+3642960 3645260 (09, 12, 04, 03) agora ouço
+3645260 3646980 (12) agora que apontaram
+3646980 3648400 (12) tu escuta, agora tu presta atenção
+3648400 3652000 (12) ou mostrado das onoses
+3652000 3653400 (12) qual é seu nome?
+3653700 3654100 (02, 12) Gabriel
+3654100 3657740 (12) me dá uma ajuda aqui, esse barulho, tá ouvindo esse barulho?
+3657820 3659160 (12) tô ouvindo o barulho
+3659160 3661040 (02, 12) tá vendo o tamanho do buraco?
+3661900 3662940 (12) pode ser uma cobra?
+3663720 3664380 (12) desse tamanho?
+3665220 3665480 (12) não
+3665480 3665520 (12) não?
+3666440 3668740 (12) Tipo, não ou não? Talvez não.
+3669080 3670460 (12) Não. Cobra desse tamanho
+3670460 3672660 (12) só no cinema. Não é não, moço.
+3673740 3674600 (12) A moça ali falou
+3674600 3675860 (12) que tem um primo lá da Amazona.
+3676300 3678480 (09, 12, 03) Ele olha assim. É verdade.
+3679940 3680840 (12, 03) Com certeza.
+3681540 3682760 (12) Mas aqui pro sul não tem disso, não.
+3683440 3685180 (09, 12) Mas as cobras não são daqui, não, moço.
+3686360 3687320 (12) Ele trafica.
+3688900 3691040 (12, 10) Eu já expliquei o caminho todo isso.
+3691040 3692540 (10) Ah, verdade, verdade.
+3693260 3694820 (10) Mas primeiro vamos tirar as cobras
+3694820 3696860 (10) que a gente tá vendo aqui e depois se preocupa com isso.
+3696980 3698780 (12) Tá, mas vocês tem alguma coisa pra capturar uma cobra
+3698780 3701000 (12) desse tamanho, caso seja uma cobra? Só pra saber, assim.
+3701500 3702600 (12) Não que eu esteja nervoso.
+3703620 3704860 (12) Não, se existir
+3704860 3707000 (09, 12) uma cobra desse tamanho...
+3707000 3709080 (09, 12) Não. Tá, tem uma arma maior no carro, moço?
+3709420 3710820 (09) Não, vocês não tem armamento
+3710820 3712040 (09) mais pesado ali com vocês.
+3712220 3715000 (09, 12, 03) A gente não pode matar essa cobra.
+3716300 3717320 (03) Pra começo de história.
+3718480 3719040 (12, 03) A gente pode falar
+3719040 3720640 (12, 03) que uma cobra atirou na outra, sei lá.
+3720820 3722180 (12) Não vai ser problema meu também.
+3723160 3724180 (12) Ou minha senhora.
+3724820 3733780 (03) Mas não pode matar os animais, tá?
+3733980 3735560 (03) A gente vai levar
+3735560 3736760 (03) de volta pra Amazônia.
+3737220 3738120 (03) De alguma forma.
+3738720 3741600 (04, 03) É, com certeza. A gente vai arranjar um jeito
+3741600 3743580 (04, 03) de transportar uma cobra desse
+3743580 3744560 (04) tamanho.
+3744560 3746120 (12, 04, 03) Eu diria que tem um informado
+3746120 3747700 (12, 03) ficado na minha cidade, meu Deus.
+3747820 3750660 (12, 03) Eu só falei que eu tenho um primo que mora
+3750660 3752480 (03) lá que fala essas histórias.
+3752580 3754360 (03) A gente nem sabe. Pode ser o menino
+3754360 3756620 (03) tocando tambor. E a gente tá com medo
+3756620 3756880 (03) aqui.
+3758300 3759700 (04, 03) Tá, tá. Vamos lá, vamos lá, vamos olhar.
+3760280 3760780 (04) Vamos lá.
+3762720 3764280 (04, 03) Então vamos, vamos. Eu vou na frente.
+3764400 3764880 (03) Pode deixar.
+3766460 3767200 (04) Vou tentar
+3767200 3770560 (04) chegar perto de uma janela e ver
+3770560 3771080 (04) se eu consigo
+3771080 3773780 (04) ver alguma coisa lá dentro da casa.
+3774280 3774760 (12) Dois dados.
+3774760 3776580 (12) Pô, dá um segundo antes de você meter a cara
+3776580 3777260 (12) na janela.
+3778140 3779580 (09, 12) O barulho tá vindo de onde?
+3780600 3781520 (09) Dentro da casa, sim.
+3781840 3784340 (09, 12) Mas de que ponto? Da parede? Da porra?
+3784360 3784560 (12) Da porta?
+3785280 3788420 (12) De dentro da casa. Não sabe exatamente. Não é tão perto da porta.
+3788440 3790360 (09, 12) Tenta ver no lado oposto do barulho.
+3792560 3793960 (04) Vamos dar a volta na casa
+3793960 3796360 (04) até achar o lugar onde vem o barulho
+3796360 3798620 (12, 04) e aí a gente dá a volta de novo, pro sentido contrário.
+3798780 3799400 (12, 04) E olha a janela.
+3799860 3802320 (12) É melhor, né, do que meter a cara e dar de cara com a cobra.
+3802380 3804020 (12) Eu vou bater na porta.
+3804220 3806300 (12, 04, 03) Tá. Ai, novato, não tenho tempo
+3806300 3808220 (04) pra você não. Vou olhar na janela
+3808220 3809480 (04) que estiver mais perto mesmo.
+3809760 3811120 (09) Meu Deus do céu. Tá.
+3811580 3813080 (09) A Olga olhou na janela
+3813080 3814120 (09) antes ou depois da...
+3814360 3815540 (09) da Natália bater na porta?
+3816420 3817320 (04) Ao mesmo tempo?
+3817860 3818640 (04) Não pode.
+3820020 3820800 (09, 04) Dois dados.
+3822660 3823600 (04, 03) Cinco e um.
+3824000 3825140 (09) Tá, um acerto simples.
+3825900 3827240 (09) A Natália bateu na porta?
+3827420 3829900 (09, 03) Bati. Eu vi eles discutindo, eu fiquei meio estressada
+3829900 3831560 (03) porque eu que contei a história da cobra
+3831560 3833900 (03) e a gente tava perdendo muito tempo e fui lá bater na porta.
+3834980 3836100 (09) O que a Olga viu?
+3836860 3838140 (09) Lá dentro da casa
+3838140 3839540 (09) tem um homem.
+3839540 3841620 (09) Ele tava parado assim no canto
+3841620 3843380 (09) batendo a cabeça contra a parede.
+3844360 3845480 (09) E era o que fazia o barulho.
+3845720 3847980 (09) Quando alguém bate na porta, ele olha pra trás.
+3848640 3850560 (09) O rosto dele tá todo sujo de sangue.
+3851220 3852300 (09) Ele tá usando uma camiseta
+3852300 3853660 (09) que tem uma tartaruga desenhada.
+3853880 3854980 (09) Aquele projeto da Mar.
+3855980 3858520 (09) Ele então corre em direção à porta.
+3859800 3860240 (09) Natália,
+3860520 3861520 (09) dois dados.
+3862860 3864260 (04) Se eu ouvir ele correndo, eu vou gritar.
+3864400 3865200 (04) Natália, sai daí.
+3865760 3868080 (09, 03) Três e quatro. Um acerto normal,
+3868220 3870000 (09) um acerto crítico em relação à física.
+3870000 3872160 (09) Tu te joga pro lado
+3872160 3873380 (09) quando a tua amiga avisa.
+3874360 3875900 (09) A tartaruga abre a porta
+3875900 3878280 (09) num empurrão, num impulso, né?
+3878400 3880320 (09) E ele cai no chão ali
+3880320 3882200 (09) se debatendo bastante
+3882200 3884040 (09) que ele tá com o olhar meio...
+3884040 3886200 (09) o olho meio amarelo, a pele bem branca.
+3886820 3888380 (09) Ele parece estar sobrefeito
+3888380 3890020 (09) do que aqueles outros passaram.
+3890280 3891080 (09, 12) Ação, Filipe.
+3891320 3894840 (12) Então, eu vou tentar derrubar o homem com o meu cacetete.
+3895340 3896680 (09, 12) O povo nunca quer que atire nessa cidade.
+3896700 3897320 (09, 12) Ele tá no chão já.
+3897320 3899340 (09, 12) Ah, já tá no chão? Então eu vou tentar só prender ele
+3899340 3900760 (09, 12) com a algema só.
+3901620 3902120 (09, 12) Dois dados.
+3902120 3904500 (09) Seis e um.
+3904760 3906400 (09) Tu passa um pouco de trabalho ali,
+3906500 3907820 (09) não é uma cena muito bonita de se ver.
+3908700 3910340 (09) As meninas notam, assim,
+3910360 3911780 (09) realmente, ele é um novato.
+3912200 3914160 (09) Mas tu, depois de um esforço, tu consegue
+3914160 3916620 (09) algemar o cara que se debate bastante.
+3916760 3918640 (03) Toma cuidado, Filipe. Não deixa ele te morder.
+3919820 3920580 (09, 12) Não, tô tranquilo.
+3921500 3922840 (12) Agora, cadê a cobra que mordeu ele?
+3923080 3923580 (03) Pois é.
+3924320 3926560 (03) A gente não sabe, né? Pode ser aquela amarela,
+3926640 3928820 (03) mas agora eu já não sei mais se é amarela ou não.
+3930120 3930940 (04) O Guaxa,
+3930940 3931940 (04) ele parece minimamente amarelo.
+3931940 3932000 (04) Ele parece minimamente amarelo.
+3932000 3932060 (04) Ele parece minimamente amarelo.
+3932060 3932100 (04) Ele parece minimamente amarelo.
+3932120 3934180 (04) Ele parece minimamente lúcido, tipo, ele fala alguma coisa
+3934180 3936520 (04) ou ele só tá se debatendo?
+3937460 3938860 (09) Só se debatendo e babando.
+3940480 3942640 (09, 12, 03) Vamos procurar algum documento na casa?
+3943000 3943940 (03) Alguma coisa assim?
+3944960 3946260 (12) Eu vou amordaçar ele
+3946260 3948280 (12) e ligar pro pessoal do hospital pra avisar que tem mais um.
+3948560 3949960 (12) Pra Jasmim ir trazendo ambulância já.
+3950360 3951620 (09) O pessoal das zoonoses
+3951620 3954140 (09) chamou a atenção deles ali, eles tão lá de fora
+3954140 3955720 (09) da estufa, né?
+3955840 3957120 (09) Eles olham assim, meio preocupados.
+3957380 3959360 (09, 03) Mais um maluco? É outro.
+3960780 3962000 (03) Tomem cuidado, hein, gente.
+3962000 3964300 (03) Fica olhando em volta pra não ficar assim.
+3964680 3966360 (09) Vocês olham pro pessoal
+3966360 3967420 (09) das zoonoses
+3967420 3969280 (09) e de cima da casa
+3969280 3971520 (09) pula uma cobra realmente grande
+3971520 3974180 (09) que morde um dos rapazes, assim.
+3975240 3977340 (09) A cabeça dela, assim, é
+3977340 3980140 (09) metade do torso de um deles.
+3980900 3982080 (09) Então a mordida realmente
+3982080 3984300 (09, 12) é grande. É uma cobra muito, muito grande.
+3984520 3986100 (12) A cabeça dela é metade
+3986100 3987460 (12) do tamanho do torso de uma pessoa?
+3987920 3989480 (09, 12) Isso. Eu puxei minha arma.
+3989480 3991040 (09, 12, 04) Acho que todos puxamos.
+3991040 3991880 (09, 04) O outro rapaz da zona...
+3991880 3994900 (09, 02, 04) O outro rapaz da zoonose tá tentando bater com a...
+3994900 3995680 (09, 02, 04) Meu Deus.
+3995700 3997800 (09, 02) Com o cabo de vassoura, que o gancho tá pronto, tá a ponto.
+3998320 4000160 (09) Mas não tá adiantando. Por que será?
+4000220 4003100 (09) Enquanto o rapaz da zoonose foi morto...
+4003100 4004600 (09) Foi morto. O outro rapaz da zoonose
+4004600 4006820 (09) tá com um olhar vazio, assim, de quem com a mordida
+4006820 4008400 (09) já não tá mais por ali.
+4008540 4010100 (09) Calma, mas ele tá em pé? Ação.
+4010520 4013000 (09) Ele tá em pé por conta que a cobra tá segurando ele com a mordida, né?
+4013260 4013960 (09) Tá ok.
+4014600 4015300 (09) Ação, Olga.
+4015980 4017180 (04) Eu vou tirar na cobra?
+4017180 4019440 (09, 04) Dois dados.
+4019440 4022540 (09, 04, 03) Quatro e dois.
+4023500 4025180 (09) Um acerto normal, um acerto crítico.
+4025260 4026620 (09) Não vale nem pra mim brincar, tadinho de mim.
+4027980 4028420 (09) Natália.
+4028960 4031000 (03) Eu vou correr pra dentro de casa
+4031000 4033300 (03) pra ver se eu encontro alguma coisa mais...
+4033300 4035500 (03) Alguma coisa que eu possa usar
+4035500 4037060 (03) como arma mais potente.
+4037480 4038560 (03) Porque os dois tão armados, né?
+4038600 4041420 (03) Então eu vou tentar achar alguma coisa.
+4041600 4042980 (03) Um botijão de gás, sei lá.
+4043200 4043740 (03) Qualquer coisa.
+4044600 4045500 (12) Botijão de gás.
+4046180 4047400 (12, 03) Vai explodir a cobra.
+4047400 4047660 (12, 03) Tá bom.
+4049440 4051420 (09, 12) Eu vou dar dois tiros também.
+4051760 4052300 (09) Dois dados.
+4054440 4055540 (09, 12) Seis e três.
+4056080 4057720 (09) Um acerto crítico.
+4058520 4060960 (09) Os dois tiros acertam a cobra.
+4061340 4062400 (09) Se debate, assim.
+4063220 4064360 (09) Ela tá sangrando bastante.
+4065000 4066520 (09) O tiro da Olga
+4066520 4069400 (09) chegou a vazar um dos olhos da criatura.
+4070260 4072800 (09) A cobra então pula na direção de vocês.
+4073200 4074560 (09) Um Felipe, dois Olga.
+4075340 4075760 (04) Olga.
+4075760 4076360 (09, 02, 04) Olga.
+4077380 4078120 (09) Dois dados, Olga.
+4079440 4080940 (04) Três e três.
+4082200 4083300 (09) São dois acertos.
+4083440 4084900 (09) A cobra pula na tua direção.
+4085680 4087700 (09) Tu instintivamente cai pra trás
+4087700 4088620 (09) atirando
+4088620 4091020 (09) e acerta a cobra que cai do teu lado.
+4093320 4094680 (09) Natália, tu tá dentro da casa assim.
+4094820 4096220 (09) Meu Deus, um botijão de gás. Pra onde eu vou?
+4096860 4099000 (09) E aí tu olha pra trás e a cobra tá caída assim.
+4099460 4100380 (09, 04) Bela o tiro, Olga.
+4100660 4102380 (04) Eu tô só tremendo, tipo, meu Deus.
+4102620 4103640 (09, 04) O que tá acontecendo?
+4103820 4105080 (04) Uma cobra desse tamanho.
+4105560 4106000 (12) Natália.
+4106000 4107640 (12, 03) Ela tá morta? Ela tá morta, Felipe?
+4108620 4109420 (12) Morta ela tá.
+4109440 4112520 (12) Mas, Natália, esse homem não foi picado por essa cobra desse tamanho,
+4112640 4114080 (12) porque não dava, né, pra ele ficar inteiro,
+4114180 4116120 (12, 03) que nem a gente pode ver ali com o pobre do rapaz.
+4116140 4117320 (12, 03) Não, não, deve ter sido amarela.
+4117340 4119760 (12, 03) Então, deve ter uma amarela dentro da casa, cuidado.
+4119980 4121460 (12) Hã? Mais uma?
+4121960 4123780 (12, 03) Bom, ele foi picado, tava dentro da casa?
+4125320 4127420 (03) Eu vou começar a andar em volta da casa,
+4127540 4129360 (03) olhando o chão, olhando os cantos.
+4129680 4130160 (09) Dois dados.
+4131720 4132720 (03) Um e quatro.
+4135820 4138440 (09) Tu encontra algumas anotações?
+4139440 4144560 (09) Que o doutor Manente tinha feito.
+4145460 4149960 (09) Ele comenta que o auxiliar dele tinha sido picado pela cobra,
+4150760 4152460 (09) mas tinha sido bem de leve no dedo,
+4153140 4155320 (09) e que tinha dado só uma febre no auxiliar,
+4155620 4157800 (09) que o auxiliar tava meio estranho,
+4158720 4161140 (09) mas que ele, depois do expediente,
+4161260 4162860 (09) ele ia dar um jeito de arrumar alguma coisa,
+4162860 4165340 (09) que enquanto ele não resolvesse,
+4165420 4166860 (09) ele ia trancar o ajudante dentro de casa.
+4167400 4168860 (03) Ó, Felipe, esse moço,
+4169440 4170500 (03) não foi mordido aqui, não.
+4170800 4172200 (03) Ele tá trancado aqui, ó.
+4173660 4174260 (12) Ah, calma.
+4174380 4177420 (12, 03) Então, o Manente ainda tem mais uma acusação de, né,
+4177920 4178860 (12, 03) de cárcere privado.
+4179220 4179820 (12, 03) Anota aqui.
+4179900 4180040 (12, 03) Não.
+4180820 4181060 (03) É.
+4181420 4181780 (12, 03) Ok.
+4181960 4182860 (04, 03) Negou atendimento, rapaz.
+4182860 4184400 (04, 03) Se eu ouvir isso, eu falo que ele tem.
+4185920 4188200 (12) Agora, alguém, por favor,
+4188360 4189620 (12) ajuda o moço da Zé Onoses,
+4189700 4191200 (12) que acabou de perder o amigo dele ali,
+4191280 4192420 (12) porque eu não sou bom com essas coisas.
+4193420 4196420 (09) É, ele tá, o outro tá sentado no chão, assim,
+4197120 4198840 (09) é, parece ter feito xixi.
+4199440 4200620 (09, 03) Tá apavorado.
+4200660 4201980 (03) Eu vou lá, bater nas costas dele.
+4202180 4203520 (03) Passou, vamos respirar.
+4204900 4205940 (03) Ensinando ele a respirar.
+4206000 4207460 (09) Chega a ambulância.
+4208720 4209080 (09) Junto,
+4209620 4211400 (09) chega uma equipe de reportagem
+4211400 4212840 (09) de uma cidade maior daqui.
+4213460 4215420 (09) Veio pela reportagem da manhã
+4215420 4217140 (09) e acabou ficando ali.
+4217620 4218420 (09) Até chegar,
+4218920 4221180 (09) chegou a tempo da matéria dessa da tarde.
+4222240 4223500 (09) O pessoal sai
+4223500 4225480 (09) desesperado, filmando a cobra,
+4225580 4226280 (09) filmando as coisas.
+4226940 4228840 (09) A repórter vai até...
+4228840 4229240 (09) Felipe.
+4229440 4230660 (09) Até o Felipe?
+4231680 4232920 (01) Policial, policial,
+4233260 4234420 (01) o que aconteceu aqui?
+4234900 4235860 (01) Que animal é esse?
+4236240 4236800 (01, 12) Não, então,
+4237220 4239260 (12) tinha um veterinário aqui,
+4239360 4241160 (12) aparentemente ele traficava animais,
+4241520 4241980 (12) usando...
+4241980 4244200 (12) Aí teve alguma cobra que ele trouxe
+4244200 4244920 (12) que picava,
+4245040 4245820 (12) que deixava o pessoal doido,
+4245900 4247200 (12) mas já foi capturada essa cobra,
+4247280 4248180 (12) não precisa se preocupar.
+4248560 4249560 (12) O pessoal ficou meio doido,
+4249680 4251200 (12) teve uns caras que atiraram um no outro
+4251200 4252440 (12) mais cedo no porto.
+4252720 4254400 (12) Esse outro cara aqui ficou atirando na cobra,
+4254500 4255640 (12) esse que tá aqui amordaçado.
+4256140 4256820 (12) Então, é uma coisa horrível,
+4256860 4258300 (12) esse pessoal puxando arma pra todo quanto é lado
+4258300 4259020 (12) nessa cidade.
+4259440 4261120 (12) Mas a gente conseguiu prender todo mundo aqui,
+4261360 4261880 (12) na paz,
+4262340 4262780 (12) tranquilo.
+4263140 4264080 (03) Quando ele vai falando isso,
+4264140 4265660 (03) eu vou escondendo minha arma assim atrás.
+4266500 4268060 (04) Eu não sei se eu devia rodar um dado
+4268060 4269600 (04) pra você ver se eu tô segurando a risada.
+4273460 4276140 (09) A notícia da cobra gigantesca é tão grande
+4276140 4278500 (09) que qualquer notícia sobre tiroteio,
+4278600 4278860 (09) coisa,
+4279140 4281100 (09) ficaria apagada em qualquer jornal.
+4282040 4284900 (09) Tem foto de vocês em tudo que é jornal
+4284900 4287100 (09) do lado dessa cobra gigantesca
+4287100 4288160 (09) que foi encontrada ali.
+4288320 4289280 (09) Graças àquela cobra gigantesca,
+4289280 4289380 (09) Graças àquela cobra gigantesca,
+4289380 4289420 (09) Graças àquela cobra gigantesca,
+4289440 4292300 (09) a cobra amarela se cria o soro, né?
+4293020 4294500 (09) Pra essas pessoas.
+4295000 4296720 (09) O manente vai ser julgado,
+4296820 4297540 (09) tá tudo certo.
+4298740 4299380 (09) Final do dia,
+4300680 4304800 (09) vocês vão até a medalha do Charles?
+4305560 4306080 (04) Vamos.
+4306460 4306880 (12, 04) Vamos.
+4306880 4307620 (12, 04) A gente tem que estar lá, né?
+4308180 4310160 (12) Eu vou trocar de uniforme, né?
+4310160 4311480 (12) Porque esse aí tá suado, tá fedendo.
+4311920 4312440 (04) É, vamos...
+4312980 4313880 (02, 04) Tomar um banho.
+4314060 4315020 (04) Tomar um banho, né?
+4315020 4315700 (04) Vamos arrumado.
+4316480 4317660 (12) Não tomei o tal do café,
+4317740 4318540 (12) no fim das contas.
+4318540 4319380 (04) Ah, que bom.
+4319380 4320720 (04) Ah, calma, vai ter dia pra isso ainda.
+4321720 4323520 (09) Bem movimentada aqui essa cidade, viu?
+4323920 4325440 (09) É, vocês comem alguma coisa,
+4325760 4327580 (09) chego lá à noite para o evento,
+4328060 4328920 (09) o evento é bonito,
+4329040 4330180 (09) o Charles é homenageado.
+4331520 4333580 (09, 08) O Charles na hora do discurso falar...
+4333580 4335900 (08) E eu não conseguiria nada disso sem meus homens,
+4336160 4338080 (08) afinal sou apenas o chefe da polícia,
+4338380 4339780 (08) fico o dia todo atrás de uma mesa.
+4340460 4341660 (08) No dia de hoje especial,
+4341940 4343240 (08) dedico a estes três aqui,
+4343680 4345500 (08) Felipe, Natália e Olga.
+4345800 4347260 (08) Se vocês puderem vir ao palco,
+4347260 4348680 (08) eu tenho uma coisa para vocês.
+4349380 4351100 (12, 03) Eu vou, porque eu amo o palco.
+4352460 4354020 (12) Eu subo no cantinho,
+4354160 4355500 (12) eu não gosto muito de palco, não.
+4356680 4358660 (09, 04, 03) Eu vou, porque eu admiro muito a Natália,
+4358720 4359800 (09, 04) então o que ela faz, eu estou fazendo.
+4362300 4363260 (09) O Charles então fala...
+4363960 4372380 (09, 08) Isso mesmo.
+4372500 4374380 (09) Ele faz sinal para o Henrique trazer.
+4375020 4377520 (09) O Henrique traz a cabeça daquela cobra empalhada
+4377520 4379320 (09) para pendurar na parede,
+4379380 4379520 (09) não é?
+4380100 4382060 (08) Vamos colocar isso aqui na delegacia
+4382060 4384220 (08) para lembrar a qualquer um que nessa cidade
+4384220 4385420 (08) existem agentes da lei.
+4385760 4388680 (09, 08, 04) Uma salva de palmas a esses policiais que salvaram o dia.
+4388700 4390680 (09, 08, 04) O pessoal como um levante começa a bater palma para você.
+4390900 4392480 (04) Eu estava até meio torta assim,
+4392580 4394500 (04) mas aí quando eu começo a falar e o discurso é bonito,
+4394580 4395800 (04) eu vou até ajeitando a postura.
+4396120 4396560 (04) Nossa.
+4397520 4400980 (09, 12, 04) Eu continuo tímido e eu estou com nojinho da cobra assim.
+4401420 4401580 (09) Não.
+4402880 4404600 (09) O Charles abraça você
+4404600 4408080 (09, 08) e ele fala para as meninas.
+4408080 4409160 (08) Uma semana.
+4409380 4411080 (08) Suspensão para as duas pelos tiros,
+4411680 4412560 (08) mas muito obrigado.
+4438180 4439360 (13) Escudo do mestre.
+4439360 4439380 (unknown) Escudo do mestre.
+4439380 4441200 (09) E chegamos a mais um Escudo do Mestre,
+4441280 4442780 (09) aquela estrutura de papelão ou madeira
+4442780 4444760 (09) que o mestre usa para esconder suas rolagens de dados,
+4444880 4445680 (09) suas anotações.
+4445980 4448600 (09) Mas aqui eu baixo essa estrutura e conto para vocês
+4448600 4450740 (09) tudo o que aconteceu na aventura.
+4451040 4451680 (09) Na verdade, não.
+4452140 4453860 (09) Você que vem acompanhando sabe que agora
+4453860 4456140 (09) todas as dúvidas e perguntas do programa
+4456140 4458680 (09) são respondidas no Guaxaverso,
+4458980 4460840 (09) aquele programa extra que responde
+4460840 4462260 (09) todos os comentários do post.
+4462340 4464060 (09) Então, tem alguma dúvida, tem alguma teoria,
+4464440 4467080 (09) deixa no post desse episódio lá no portal Deviante,
+4467080 4469120 (09) deviant.com.br.
+4469380 4471780 (09) Vai no post desse episódio,
+4472120 4473520 (09) deixa seu comentário e sua teoria
+4473520 4474760 (09) que eu vou lê-lo.
+4475040 4477700 (09) Por mais que muitas perguntas fiquem para o Guaxaverso,
+4477820 4479040 (09) quero deixar aqui que sim,
+4479120 4480680 (09) esse episódio é uma grande homenagem
+4480680 4483740 (09) a alguns produtores de conteúdo de Magic the Gator
+4483740 4484780 (09) em que eu acompanho,
+4484880 4488200 (09) desde o nome da cidade ao nome dos NPCs.
+4488520 4490240 (09) São homenagens a pessoas maravilhosas
+4490240 4491900 (09) que eu sigo e que me ajudam
+4491900 4494020 (09) a manter a sanidade nessa pandemia.
+4494400 4495480 (09) Então, um beijo muito especial
+4495480 4497080 (09) para o André Manente, para o Charles.
+4497080 4499320 (09) Essa semana foi aniversário do Charles,
+4499380 4501460 (09) inclusive, lá do Magic Nubes.
+4501760 4503280 (09) Quero agradecer de coração o conteúdo
+4503280 4505400 (09) que vocês produzem. Eu vou deixar no post
+4505400 4507420 (09) links dos canais deles, que aqui
+4507420 4509400 (09) me homenagem, e os easter eggs
+4509400 4511800 (09) que quem conseguir pegar, estão aí também.
+4512200 4513560 (09) E não esqueçam de segui-los.
+4514020 4515120 (09) Eu vou tentar na semana que vem
+4515120 4517660 (09) fazer essa leitura do Guaxaverso
+4517660 4519780 (09) ao vivo, lá no canal, na Twitch.
+4520200 4521660 (09) Eu ainda estou tentando
+4521660 4523600 (09) ver direitinho para criar um nome legal
+4523600 4525120 (09) para o canal da Twitch, mas
+4525120 4526680 (09) fica de olho nas minhas redes sociais,
+4526680 4528680 (09) arroba marcelogostininha, arroba rpguaxa,
+4529380 4531500 (09) onde eu vou postar direitinho o horário
+4531500 4533460 (09) e o canal para você entrar e
+4533460 4535380 (09) seguir. Não esquece de deixar as perguntas no post,
+4535720 4537400 (09) mas se quiser acompanhar ao vivo, fazer
+4537400 4539080 (09) alguma pergunta ao vivo que surja,
+4539340 4540900 (09) essa vai ser a sua chance.
+4541200 4542800 (09) Quero agradecer novamente a Promobit,
+4542960 4545260 (09) que está apoiando este episódio, assim como
+4545260 4547320 (09) todos os episódios do mês de
+4547320 4549280 (09) novembro. É uma parceria
+4549280 4551300 (09) muito bacana. Se você não conhece a Promobit,
+4551360 4553160 (09) como eu falei lá no início do programa, é uma
+4553160 4554700 (09) comunidade que reúne ofertas.
+4554700 4556460 (09) Tu pode fazer o teu cadastro lá,
+4556720 4558680 (09) tanto para aproveitar as ofertas que outras pessoas
+4558680 4559260 (09) deixam.
+4559560 4560620 (09) Quanto para indicar
+4560620 4562960 (09) suas próprias ofertas. Tudo com a segurança
+4562960 4564660 (09) que a equipe da Promobit
+4564660 4566800 (09) dá pra você. Então, Promobit,
+4566860 4568880 (09) conheçam, assinem e não esqueçam
+4568880 4570500 (09) nas redes sociais, marcar
+4570500 4573020 (09) arroba do rpguaxa, arroba da Promobit
+4573020 4575000 (09) e agradecer esta parceria.
+4575300 4576180 (09) Como já falei antes,
+4576640 4578680 (09) arroba marcelogostininha, arroba rpguaxa
+4578680 4580760 (09) no Twitter e no Instagram. O Instagram
+4580760 4582760 (09) é a meta do episódio do Corvo. Já foi
+4582760 4584700 (09) batida, mas continuem seguindo
+4584700 4586500 (09) para novas metas que vão surgir.
+4586740 4588640 (09) E no Twitter, ainda estamos um pouco longe
+4588640 4590820 (09) da meta para o episódio no mesmo
+4590820 4592820 (09) mundo do episódio 1, o episódio
+4592820 4594680 (09) das gatas e da bruxa. Então,
+4595060 4596620 (09) se você quer ver uma continuação
+4596620 4598820 (09) daquele mundo, vai até o nosso Twitter
+4598820 4600780 (09) arroba rpguaxa. Segue.
+4601100 4602680 (09) Os jogadores desse episódio foram a
+4602680 4604200 (09) Sinara e o Gabriel Pinheiro.
+4604700 4606640 (09) Ambos são padrinhos de muito tempo
+4606640 4608680 (09) já do rpguaxa. São pessoas que me
+4608680 4610720 (09) ajudam com o Instagram. O Pinheiro está sempre
+4610720 4612640 (09) respondendo o pessoal que manda pergunta lá,
+4612960 4614880 (09) fazendo as postagens. A Sinara
+4614880 4616720 (09) está ajudando ele com as artes. Junto
+4616720 4618620 (09) com os dois também tem o Felipe Xavier, que não participou.
+4618620 4620620 (09) desse episódio. Mas esse trio aqui
+4620620 4622740 (09) me ajuda com as redes sociais. Eu tenho que agradecer
+4622740 4624660 (09) muito a eles e agradecê-los
+4624660 4626640 (09) aqui por essa aventura. Além
+4626640 4628820 (09) dos dois, temos a Ana lá do Projeto Drama.
+4629120 4630760 (09) A Sinara também faz parte do Projeto
+4630760 4633020 (09) Drama, mas aqui temos a Ana representando.
+4633320 4634820 (09) Então, Projeto Drama, para quem não sabe,
+4635200 4636800 (09) são audiodramas
+4636800 4639060 (09) que tu pode e-mail, você decide.
+4639180 4640360 (09) O pessoal que é mais velho deve lembrar.
+4640680 4642720 (09) Ao final de cada episódio, fica no ar
+4642720 4644560 (09) uma decisão que você vota
+4644560 4646180 (09) nas redes sociais do Projeto Drama.
+4646180 4648220 (09) E o próximo episódio é baseado na
+4648220 4649680 (09) decisão mais votada.
+4649920 4652320 (09) Siga ele nas redes sociais, comece a ouvir o Projeto Drama.
+4652640 4654320 (09) Eles estão agora com a segunda temporada.
+4654420 4656400 (09) A primeira já está fechada. Tu pode ouvir
+4656400 4658260 (09) Ficou uma história incrível, mas tu não pode
+4658260 4660340 (09) mais opinar. Já a segunda temporada
+4660340 4662400 (09) está em andamento. Você pode ouvir
+4662400 4664240 (09) e ajudar nas decisões que
+4664240 4666100 (09) surgirem. Esse episódio foi editado
+4666100 4668180 (09) pelo Rafael Zorzal. Rafael Zorzal
+4668180 4670060 (09) tem um podcast dele também de audiodrama
+4670060 4671860 (09) chamado Arquivos da Patrulha.
+4672200 4674180 (09) Ele edita também o Projeto Drama, que eu citei ali
+4674180 4676220 (09) da Ana. E ele edita o projeto próprio
+4676220 4678200 (09) chamado Arquivos da Patrulha.
+4678480 4680120 (09) Eu participei lá do final da
+4680120 4682100 (09) primeira temporada. Minha personagem já teve
+4682100 4684100 (09) uma participação maior na segunda temporada
+4684100 4686100 (09) e tem algumas falas na terceira. Então dá
+4686100 4688040 (09) uma conferida lá. É um negócio mais
+4688040 4690280 (09) espacial, um negócio mais sci-fi.
+4690580 4692400 (09) Um pouco diferente do que é o RPG Guaxa.
+4692560 4694000 (09) Então dá uma conferida lá no trabalho
+4694000 4696220 (09) do Zorzal também. E precisou de edição?
+4696580 4698300 (09) Procura o Rafael Zorzal. O link
+4698300 4700020 (09) do Instagram dele, que é a melhor forma de
+4700020 4701920 (09) contactá-lo, está aqui no post.
+4702380 4704280 (09) Esse episódio teve a revisão da Deb Cabral.
+4704400 4706580 (09) A Deb está lá no Reino Unido e mesmo assim
+4706580 4708000 (09) está ouvindo todo o RPG Guaxa.
+4708400 4710280 (09) Apontando os erros, ajudando a melhorar
+4710280 4712060 (09) cada vez mais. Então muito obrigado
+4712060 4714120 (09) Deb pelo apoio. Muito obrigado pela
+4714120 4715980 (09) revisão. Economia. Se você quer
+4715980 4718180 (09) economizar, temos algumas lojas parceiras lá no
+4718180 4720040 (09) post. Dá uma conferida lá.
+4720380 4722060 (09) Eu não vou ficar citando uma por uma porque
+4722060 4724240 (09) como eu falei, o mês passado
+4724240 4726460 (09) e o episódio de hoje, são dedicados
+4726460 4728280 (09) a Promobit. Mas saibam que
+4728280 4730320 (09) a Representarte, que faz plaquinha, está com
+4730320 4732380 (09) uma promoção maravilhosa agora de fim de ano.
+4732740 4734180 (09) Quer dar um presente de RPG diferente
+4734180 4735940 (09) de uma plaquinha? Tem o desconto deles
+4735940 4738140 (09) e o desconto do RPG Guaxa. Os dois se
+4738220 4740240 (09) somam. Então vai lá. Aproveita
+4740240 4742100 (09) o desconto que está lá. Use o código Guaxa.
+4742160 4744580 (09) Tu aproveita. Vai ver no DM. Tem miniaturas.
+4744920 4746240 (09) Editora Chá. E é
+4746240 4748440 (09) mewrpg.com. Dá uma conferida em cada um
+4748440 4750420 (09) deles com o código Guaxa. Tu consegue
+4750420 4752240 (09) aproveitar. Quero agradecer
+4752240 4754380 (09) a todos que deram vozes a esse episódio.
+4754840 4756300 (09) A Mel, que fez
+4756300 4758100 (09) o personagem da senhorinha no
+4758100 4760180 (09) WhatsApp. A Renata Bruscato, que
+4760180 4762160 (09) fez a Gabs, que trabalha
+4762160 4764200 (09) no Pet Shop. O Rafael Prado, que fez
+4764200 4766020 (09) o socorrista. O Alexandre Uri,
+4766020 4768060 (09) que fez o Gabriel, o rapaz
+4768060 4770240 (09) das zoonoses. O Alen Araújo,
+4770340 4772160 (09) que fez as falas do Henrique. O André
+4772160 4774100 (09) Manente, que fez a voz do doutor
+4774100 4776000 (09) Manente. Sim, ele
+4776000 4778060 (09) fez a voz do personagem que eu homenageia.
+4778360 4780060 (09) Embora o André Manente na
+4780060 4782220 (09) vida real seja um cara muito bacana, nesse episódio
+4782220 4784220 (09) ele foi o vilão. O Rafael Tellerman,
+4784320 4786160 (09) que fez a voz do Charles. A Juliana
+4786160 4788420 (09) Carol Preso, que fez a repórter.
+4788700 4790160 (09) A Agda Cristina,
+4790340 4791600 (09) que fez a Dolores.
+4792080 4793800 (09) A Paula do Caquitas, que fez a
+4793800 4796160 (09) atendente. O que todas as pessoas têm em comum
+4796160 4797960 (09) são padrinhos da RPG Guaxa.
+4798060 4800000 (09) Quer gravar suas vozes pros NPCs?
+4800240 4802280 (09) Quer gravar, como a Isa gravou lá
+4802280 4804500 (09) as regras do RPG Guaxa?
+4804760 4806360 (09) Quer fazer parte de um grupo maravilhoso
+4806360 4808420 (09) no Telegram, que sempre tem mesas rolando,
+4808540 4810140 (09) bate-papo, discussão de
+4810140 4812000 (09) spoiler? Seja nosso
+4812000 4814040 (09) padrinho. A partir de 10 reais, você faz
+4814040 4816060 (09) parte do grupo do Telegram e tem todas
+4816060 4818040 (09) essas vantagens. Você pode ajudar também com
+4818040 4819920 (09) valores menores pra ajudar a pagar o editor
+4819920 4821800 (09) e ganhar a minha eterna gratidão.
+4821980 4823520 (09) É isso. Um beijo no coração de vocês.
+4823860 4825500 (09) Se puderem, fiquem em casa.
+4825500 4828040 (09) Usem máscara, usem álcool gel,
+4828060 4829620 (09) que isso tudo vai passar.
+4830060 4831620 (09) Rola em 6, rola em 20.
+4832020 4833680 (09) Se tudo é errado, rola no chão, porque
+4833680 4835380 (09) apaga o fogo e diverte.
+4858060 4888040 (09, 12, 03, 11) Rola em 6, rola no chão, porque apaga o fogo e diverte.
+4888040 4918020 (04, 03, 12, 02, 09) Rola em 6, rola no chão, porque apaga o fogo e diverte.
+4918020 4948000 (09, 12, 04, 03) Rola em 6, rola no chão, porque apaga o fogo e diverte.
+4948020 4949080 (12, 03) Você chegou alguém, né?
+4949400 4952160 (04, 03) Às vezes eu chego alguém. Tá todo mundo com preguiça aqui, né?
+4952440 4955700 (03) A gente passa um rádio, então...
+4955700 4957040 (12) Eu anoto no caderninho.
+4957120 4958120 (12) Henrique Chato.
+4959580 4961920 (03) Ah, ele fica falando horas e horas e horas.
+4962020 4962540 (03) É um saco.
+4963340 4964580 (03) Você sabe falar do peixe dele.
+4966620 4967920 (03) Droga, eu já tinha pensado em fazer
+4967920 4969440 (03) um uniformezinho pra Pucca.
+4969960 4971120 (03) Pra ir com a gente.
+4971420 4972200 (04, 03) Planos frustrados.
+4973800 4975740 (12) Ela tá dodói. Precisa se curar primeiro.
+4975740 4978000 (12, 04) A Natália achou mais uma cobra lá na delegacia.
+4978020 4979100 (04) Então, tô indo lá.
+4979380 4980980 (09) Não, fala de novo. Ele não tá na delegacia.
+4981140 4982740 (09, 04) Não, na delegacia, desculpa.
+4984360 4986520 (09) Ah, pode deixar. Ela vai se alongar sim.
+4987740 4989660 (09) A minha gata enlouqueceu e correu.
+4990020 4990540 (12) De novo.
+4991380 4992540 (12) A Olga ficou nervosa agora.
+4992900 4994860 (04, 03, 12, 02, 09) Eu tô cismada com delegacia.
+4994960 4996620 (09, 12, 04) Ela vai pro pet shop, é delegacia.
+4996800 4998340 (09, 04) Ela vai pro sítio.
+5000040 5000520 (04, 03) Sítio.
+5000520 5004140 (04, 03) A Olga queria estar presente na medalha do Charles, né?
+5004220 5005820 (02, 04, 03) Ah, eu queria tanto, gente.
+5005820 5007420 (04) Eu tô aqui. Vocês acreditam?
+5007420 5009040 (04) Faz quatro anos que eu tô na polícia.
+5009140 5012180 (04) Se há cinco anos a gente não atira, então eu nunca atirei até agora.
+5013300 5015180 (09) O bom é que eu não preciso nem escrever aventura.
+5015720 5017380 (09, 02) A Sinara vai acompanhar a gente criando as coisas.
+5022260 5023960 (09) Mas, assim, tudo que a Sinara falou
+5023960 5025720 (09, 02) agora é real na aventura.
+5025940 5026160 (09, 02) Vamos embora.
+5028020 5028860 (09, 02) Agora é canoa.
+5031220 5033740 (09, 02) Esses dias eu recebi o áudio do Zorzal lá
+5033740 5035740 (09, 02) o momento que a Sinara ferrou com tudo.
+5036940 5037340 (02) Desculpa.
+5037420 5040040 (09, 02) Mas isso é em episódios futuros.
+5040120 5041440 (09, 02, 03) Vamos lá. Voltando aqui com a tudo isso.
+5043640 5044540 (09) Qual é o seu nome?
+5044920 5045840 (04) Droga, de novo.
+5048640 5049040 (02, 12, 04) Sérgio.
+5049040 5050340 (02, 12, 04) Fazer um meme pro Renato.
+5050380 5050860 (09, 02, 04) Gabriel.
