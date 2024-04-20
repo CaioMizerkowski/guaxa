@@ -1,0 +1,6372 @@
+1
+00:00:00,000 --> 00:00:10,120
+Se eu pegar essa ilha e esse helicóptero, e aí tudo faz sentido, porque aqui tem um zumbi e ali não tinha, e agora...
+
+2
+00:00:10,120 --> 00:00:15,000
+É isso! É isso! Eu sabia! Eu sabia! O Guaxaverso existe!
+
+3
+00:00:15,120 --> 00:00:15,960
+Como assim?
+
+4
+00:00:16,180 --> 00:00:18,000
+Você entendeu a referência do último episódio?
+
+5
+00:00:18,260 --> 00:00:18,980
+Olha só, faz tudo!
+
+6
+00:00:18,980 --> 00:00:20,020
+Não, o Guaxaverso sabe o que faz!
+
+7
+00:00:20,020 --> 00:00:20,960
+Espera, o que é o Guaxaverso?
+
+8
+00:00:21,000 --> 00:00:22,980
+Era só uma questão de tempo.
+
+9
+00:00:23,080 --> 00:00:24,000
+Todos vão conhecer o Guaxaverso!
+
+10
+00:00:24,000 --> 00:00:24,520
+O Guaxaverso sempre existiu!
+
+11
+00:00:24,520 --> 00:00:27,140
+Eu quero entender o Guaxaverso!
+
+12
+00:00:27,220 --> 00:00:28,560
+Alguém me explica o que é o Guaxaverso?
+
+13
+00:00:28,560 --> 00:00:32,020
+É, pessoal, não existe o Guaxaverso.
+
+14
+00:00:32,100 --> 00:00:33,720
+Eu acredito no Guaxaverso!
+
+15
+00:00:33,760 --> 00:00:36,560
+Mas supondo que ele exista...
+
+16
+00:00:37,900 --> 00:00:41,520
+Guaxaverso, onde o que não existe é debatido.
+
+17
+00:00:49,420 --> 00:00:54,560
+Tudo pode ser, se puder gritar.
+
+18
+00:00:54,560 --> 00:00:58,560
+O povo sempre vem de acometimento.
+
+19
+00:00:58,560 --> 00:01:03,400
+Tudo pode ver.
+
+20
+00:01:04,760 --> 00:01:06,600
+O olho do luar.
+
+21
+00:01:08,600 --> 00:01:11,760
+Deixe os dados vão te levar.
+
+22
+00:01:20,600 --> 00:01:23,980
+Olá, eu sou Marcelo Agostinim, narrador, produtor, idealizador, podcast de realidade para a gente do Agostinim.
+
+23
+00:01:24,200 --> 00:01:26,260
+E vai mudar a abertura do RPG Guaxo.
+
+24
+00:01:26,340 --> 00:01:27,880
+Semana que vem, provavelmente. Só assim.
+
+25
+00:01:28,560 --> 00:01:29,940
+Se você não sabe, o Guaxaverso é o nosso antigo escudo-mestre.
+
+26
+00:01:30,020 --> 00:01:33,480
+Aqui vamos ler os seus comentários e discutir as teorias do último episódio.
+
+27
+00:01:33,940 --> 00:01:37,440
+Que, no caso, foi Eco das Estrelas, RPG Guaxa 144.
+
+28
+00:01:38,920 --> 00:01:43,120
+E eu estou aqui hoje com a nossa madrinha, Thaís Uzu.
+
+29
+00:01:43,340 --> 00:01:43,960
+Tudo bem, Thaís?
+
+30
+00:01:44,180 --> 00:01:44,960
+Tudo ótimo.
+
+31
+00:01:45,200 --> 00:01:46,560
+Tranquila pro Guaxaverso?
+
+32
+00:01:46,860 --> 00:01:47,780
+Tranquila, tranquila.
+
+33
+00:01:48,040 --> 00:01:49,540
+Estou pronta para ler muitas teorias.
+
+34
+00:01:51,360 --> 00:01:52,700
+Espero que não muitas, né?
+
+35
+00:01:52,820 --> 00:01:54,160
+Segunda-feira a gente quer descansar.
+
+36
+00:01:54,500 --> 00:01:56,700
+Quero lembrar vocês que estão ouvindo isso ao vivo hoje,
+
+37
+00:01:56,700 --> 00:01:58,160
+que isso vai ser editado no feed.
+
+38
+00:01:58,560 --> 00:01:59,180
+Hoje, fim de semana.
+
+39
+00:01:59,940 --> 00:02:02,300
+E quero convidar você que está ouvindo isso editado,
+
+40
+00:02:02,700 --> 00:02:04,340
+saindo do seu feed,
+
+41
+00:02:04,820 --> 00:02:06,720
+a participar normalmente às segundas-feiras.
+
+42
+00:02:07,120 --> 00:02:08,120
+Segunda sim, segunda não.
+
+43
+00:02:08,140 --> 00:02:09,580
+Na segunda que não tem episódio.
+
+44
+00:02:10,060 --> 00:02:11,420
+A gente grava aqui na Twitch.
+
+45
+00:02:12,020 --> 00:02:13,440
+Normalmente também às 8 horas.
+
+46
+00:02:13,560 --> 00:02:15,520
+twitch.tv.rpguaxa
+
+47
+00:02:15,520 --> 00:02:20,340
+Então convido vocês a virem aqui e ver o que vai ser cortado na edição.
+
+48
+00:02:20,880 --> 00:02:22,640
+E, novamente, o pessoal que está aqui ao vivo,
+
+49
+00:02:23,140 --> 00:02:24,420
+na versão editada,
+
+50
+00:02:24,880 --> 00:02:26,920
+sai também os erros de gravação,
+
+51
+00:02:26,920 --> 00:02:28,420
+as loucuras que não entraram,
+
+52
+00:02:28,560 --> 00:02:32,420
+para o episódio que o Zorzal se repara para a gente colocar, tá?
+
+53
+00:02:32,840 --> 00:02:34,240
+Se você quiser ajudar esse projeto,
+
+54
+00:02:34,240 --> 00:02:36,240
+seja nosso padrinho a partir de R$1,00.
+
+55
+00:02:36,620 --> 00:02:37,980
+Se você está ajudando esse projeto, a partir de R$10,00,
+
+56
+00:02:37,980 --> 00:02:39,320
+você faz parte do nosso grupo do Telegra.
+
+57
+00:02:39,720 --> 00:02:41,400
+Você grava voz de NPC,
+
+58
+00:02:41,740 --> 00:02:43,940
+você recebe episódio antes,
+
+59
+00:02:43,940 --> 00:02:45,560
+bate papo com o pessoal que grava o episódio.
+
+60
+00:02:45,980 --> 00:02:48,100
+Você pode bater um papo com a Zuzu.
+
+61
+00:02:48,520 --> 00:02:49,900
+Você pode bater um papo com a Sara.
+
+62
+00:02:50,280 --> 00:02:52,200
+Não sei porque alguém gostaria de bater um papo com o Andrei,
+
+63
+00:02:52,520 --> 00:02:54,440
+mas você pode bater um papo com o Andrei também.
+
+64
+00:02:54,860 --> 00:02:56,860
+Com o Zorzal, comigo,
+
+65
+00:02:57,220 --> 00:02:58,480
+com a Jumozinha,
+
+66
+00:02:58,480 --> 00:02:59,820
+com o Filipe Xavier,
+
+67
+00:02:59,820 --> 00:03:01,240
+tanta gente maravilhosa.
+
+68
+00:03:01,240 --> 00:03:04,140
+Shelly, hoje, botou lá no grupo de...
+
+69
+00:03:04,140 --> 00:03:06,140
+Spoiler, porque é onde o grupo que ela está, no momento,
+
+70
+00:03:06,140 --> 00:03:08,140
+que ela queria jogar uma aventura
+
+71
+00:03:08,140 --> 00:03:10,140
+estilo chacinado.
+
+72
+00:03:10,140 --> 00:03:12,600
+Já apareceu o mestre, já apareceu gente para jogar com ela.
+
+73
+00:03:12,600 --> 00:03:15,600
+Então, olha essa oportunidade que vocês estão tendo
+
+74
+00:03:15,600 --> 00:03:17,600
+só de ser apoiadores.
+
+75
+00:03:17,600 --> 00:03:20,520
+É óbvio, a Zuzu é a madrinha e está aqui jogando,
+
+76
+00:03:20,520 --> 00:03:23,720
+mas não significa que por ser padrinho você vai jogar também.
+
+77
+00:03:23,720 --> 00:03:25,720
+Embora eu tenha aqui um
+
+78
+00:03:25,720 --> 00:03:28,200
+um prêmio do bolão do futebol feminino,
+
+79
+00:03:28,200 --> 00:03:31,440
+para ver quem foi quem ganhou um Vale Aventura também.
+
+80
+00:03:31,900 --> 00:03:35,160
+Tem o pessoal que me entrou no Guaxadei,
+
+81
+00:03:35,580 --> 00:03:38,860
+que eu vou sortear também um Vale Aventura depois.
+
+82
+00:03:38,860 --> 00:03:41,120
+As pessoas vão jogar em algum episódio futuro.
+
+83
+00:03:41,120 --> 00:03:43,900
+Mas, Zuzu, há quanto tempo você é a madrinha?
+
+84
+00:03:44,620 --> 00:03:46,660
+Vai fazer, que dia é hoje?
+
+85
+00:03:46,660 --> 00:03:48,900
+Hoje é dia 21 e faz um ano.
+
+86
+00:03:48,900 --> 00:03:49,540
+Hoje?
+
+87
+00:03:49,540 --> 00:03:51,620
+Não, dia 16 já fez um ano.
+
+88
+00:03:51,620 --> 00:03:54,200
+Ah, tá. Um ano, um ano de madrinha.
+
+89
+00:03:54,620 --> 00:03:56,960
+O que você está achando de fazer parte desta comunidade?
+
+90
+00:03:56,960 --> 00:03:58,000
+Ah, eu adoro.
+
+91
+00:03:58,200 --> 00:04:03,400
+É um lugar onde as pessoas realmente gostam muito de RPG, sabe?
+
+92
+00:04:03,400 --> 00:04:06,040
+Tipo, não é todo lugar que você encontra assim.
+
+93
+00:04:06,040 --> 00:04:09,780
+É tipo, as pessoas só falam disso e tem muitas mesas.
+
+94
+00:04:09,780 --> 00:04:12,780
+E fora que as pessoas são muito fofas e maravilhosas, né?
+
+95
+00:04:12,780 --> 00:04:16,780
+Tipo, é um lugar muito, muito lindo da internet e bem raro isso.
+
+96
+00:04:16,780 --> 00:04:17,580
+Ok.
+
+97
+00:04:17,580 --> 00:04:20,400
+Com essa propaganda toda, eu não tenho mais nada a falar.
+
+98
+00:04:20,400 --> 00:04:22,160
+Seja nosso padrinho.
+
+99
+00:04:22,160 --> 00:04:24,700
+Não pode apoiar, não quer ou quer ajudar mais ainda,
+
+100
+00:04:24,700 --> 00:04:25,660
+segue-nos nas redes sociais.
+
+101
+00:04:25,660 --> 00:04:27,320
+Arroba o Marcelo Laxminha e o Roberto Pegosa.
+
+102
+00:04:27,320 --> 00:04:30,820
+Tanto no Twitter quanto no Instagram, em especial o Instagram do RPGuaixa.
+
+103
+00:04:30,820 --> 00:04:33,160
+Se procurar lá no BlueSky, acha também.
+
+104
+00:04:33,160 --> 00:04:36,280
+Não sei se aquilo vai realmente firmar, mas tá lá.
+
+105
+00:04:36,280 --> 00:04:38,120
+Volta e meia sempre sobe o convite.
+
+106
+00:04:38,120 --> 00:04:41,080
+Eu mando pros padrinhos lá, deixo no post.
+
+107
+00:04:41,080 --> 00:04:43,200
+Mas não é sobre isso que a gente tá aqui hoje.
+
+108
+00:04:43,200 --> 00:04:45,620
+A gente tá aqui pra ler os comentários do último episódio.
+
+109
+00:04:45,620 --> 00:04:50,240
+E eu vou ler o primeiro, que pra você que tá vendo ao vivo, pode marcar no bingo.
+
+110
+00:04:50,240 --> 00:04:52,980
+É do Jorge Marcos Ante Silva e ele escreve.
+
+111
+00:04:52,980 --> 00:04:56,440
+Olha, jogar Alan Wake já é algo que causa ataque cardíaco.
+
+112
+00:04:56,440 --> 00:04:57,160
+Agora, um RPGuaixa?
+
+113
+00:04:57,160 --> 00:04:58,160
+Vixe.
+
+114
+00:04:58,160 --> 00:04:59,160
+Um bom dia, Sr.
+
+115
+00:04:59,160 --> 00:05:00,160
+Guaxinim.
+
+116
+00:05:00,160 --> 00:05:01,920
+Convidade, que é a Thaís.
+
+117
+00:05:01,920 --> 00:05:03,780
+Ouvintinins e chat, tudo bom comigo?
+
+118
+00:05:03,780 --> 00:05:04,780
+Tudo bom com você, Thaís?
+
+119
+00:05:04,780 --> 00:05:05,780
+Tudo ótimo.
+
+120
+00:05:05,780 --> 00:05:07,780
+O Zuzu é de zumbi, não?
+
+121
+00:05:07,780 --> 00:05:08,780
+Não.
+
+122
+00:05:08,780 --> 00:05:10,780
+É de sobrenome de zumbi.
+
+123
+00:05:10,780 --> 00:05:12,780
+Eu sabia, só pra manter.
+
+124
+00:05:12,780 --> 00:05:13,780
+Spoilers.
+
+125
+00:05:13,780 --> 00:05:16,780
+Era uma infecção como de zumbi?
+
+126
+00:05:16,780 --> 00:05:17,780
+Era.
+
+127
+00:05:17,780 --> 00:05:19,780
+Porque pareceu que eles só viraram devido à ganância da fama.
+
+128
+00:05:19,780 --> 00:05:21,780
+Mas pode ter sido só uma coincidência.
+
+129
+00:05:21,780 --> 00:05:22,780
+Pode ter sido só uma coincidência.
+
+130
+00:05:22,780 --> 00:05:25,280
+Claro que pode não haver conexão com outros episódios.
+
+131
+00:05:25,280 --> 00:05:26,280
+Mas olha, dá um bom início.
+
+132
+00:05:26,280 --> 00:05:29,280
+Olha, dá um bom início pra qualquer episódio com zumbis ou algo assim.
+
+133
+00:05:29,280 --> 00:05:30,280
+É verdade.
+
+134
+00:05:30,280 --> 00:05:34,280
+Talvez o garoto que tava de aniversário e a família dele seja uma família importante.
+
+135
+00:05:34,280 --> 00:05:40,280
+Talvez uma família concorrente a um certo empresário famoso.
+
+136
+00:05:40,280 --> 00:05:41,280
+Não sei.
+
+137
+00:05:41,280 --> 00:05:42,280
+Fica a ideia.
+
+138
+00:05:42,280 --> 00:05:45,280
+E os jogadores só deram azar de estar no lugar errado na hora errada.
+
+139
+00:05:45,280 --> 00:05:49,280
+Existe algo pensado sobre esse cara muito rico, o dono da ilha, que chamou eles?
+
+140
+00:05:49,280 --> 00:05:50,280
+Não.
+
+141
+00:05:50,280 --> 00:05:51,280
+Ficou em aberto, realmente.
+
+142
+00:05:51,280 --> 00:05:55,280
+Um, porque eu, como começou essa infecção...
+
+143
+00:05:55,280 --> 00:05:57,280
+Pimenta de los Mortos, talvez?
+
+144
+00:05:57,280 --> 00:05:58,280
+KKKKJ.
+
+145
+00:05:58,280 --> 00:05:59,280
+Talvez.
+
+146
+00:05:59,280 --> 00:06:00,280
+Acho que por hoje é isso.
+
+147
+00:06:00,280 --> 00:06:04,280
+E gente que não gosta da taberna é tão suspeito quanto quem não gosta de queijo.
+
+148
+00:06:04,280 --> 00:06:06,280
+Ou, pera, quer dizer, batata.
+
+149
+00:06:06,280 --> 00:06:07,280
+Quem não gosta de batata.
+
+150
+00:06:07,280 --> 00:06:08,280
+KKKKJ.
+
+151
+00:06:08,280 --> 00:06:09,280
+É verdade.
+
+152
+00:06:09,280 --> 00:06:10,280
+Eu não gosto de queijo.
+
+153
+00:06:10,280 --> 00:06:12,280
+Tanto que por isso que o André não vai mais jogar.
+
+154
+00:06:12,280 --> 00:06:14,280
+Ele queria botar catupiry na coxinha.
+
+155
+00:06:14,280 --> 00:06:16,280
+Isso é um afronte.
+
+156
+00:06:16,280 --> 00:06:17,280
+Agora eu entendi.
+
+157
+00:06:17,280 --> 00:06:18,280
+Agora faz tudo.
+
+158
+00:06:18,280 --> 00:06:19,280
+Porra.
+
+159
+00:06:19,280 --> 00:06:21,280
+Isso faz parte do lore há muito tempo.
+
+160
+00:06:21,280 --> 00:06:22,280
+É verdade.
+
+161
+00:06:22,280 --> 00:06:24,280
+Mas não tinha ligado catupiry à queijo não.
+
+162
+00:06:24,280 --> 00:06:25,280
+É catupiry a um tipo de queijo.
+
+163
+00:06:25,280 --> 00:06:28,280
+Já aconteceu de eu pedir uma coxinha e ele perguntar, tem queijo?
+
+164
+00:06:28,280 --> 00:06:29,280
+A menina, não.
+
+165
+00:06:29,280 --> 00:06:31,280
+Aí eu mordi assim, porra, catupiry dela.
+
+166
+00:06:31,280 --> 00:06:32,280
+É catupiry.
+
+167
+00:06:32,280 --> 00:06:33,280
+É, não é queijo, é catupiry.
+
+168
+00:06:33,280 --> 00:06:34,280
+Não é catupiry.
+
+169
+00:06:34,280 --> 00:06:35,280
+É a marca, né, querida?
+
+170
+00:06:35,280 --> 00:06:36,280
+Mas ok.
+
+171
+00:06:36,280 --> 00:06:40,280
+Pode até ser que não consiga interagir lá por tempo como eu.
+
+172
+00:06:40,280 --> 00:06:42,280
+Eu também não sou de interagir muito lá.
+
+173
+00:06:42,280 --> 00:06:44,280
+É, eu quase não falo muito lá também.
+
+174
+00:06:44,280 --> 00:06:45,280
+É muita mensagem que eu recebo.
+
+175
+00:06:45,280 --> 00:06:46,280
+É impossível acompanhar.
+
+176
+00:06:46,280 --> 00:06:47,280
+Eles falam bastante.
+
+177
+00:06:47,280 --> 00:06:49,280
+Mas é um pessoal maravilhoso.
+
+178
+00:06:49,280 --> 00:06:50,280
+E vou narrar o Maga Ascensão lá.
+
+179
+00:06:50,280 --> 00:06:51,280
+Olha só.
+
+180
+00:06:51,280 --> 00:06:52,280
+Ó.
+
+181
+00:06:52,280 --> 00:06:53,280
+Vou mesmo.
+
+182
+00:06:53,280 --> 00:06:55,280
+Eu tenho uma mensagem para que a campanha já está feita.
+
+183
+00:06:55,280 --> 00:06:57,280
+Então, quem quer jogar Maga Ascensão, tem uma chance.
+
+184
+00:06:57,280 --> 00:06:59,280
+Seja padrinho, fala com Jorge Matos do Silvio.
+
+185
+00:06:59,280 --> 00:07:00,280
+Me chama.
+
+186
+00:07:00,280 --> 00:07:01,280
+Eu jogo.
+
+187
+00:07:01,280 --> 00:07:03,280
+Ó, já tinha a Zuzu para jogar.
+
+188
+00:07:03,280 --> 00:07:06,280
+Então, assinem e venham fazer parte dessa família maravilhosa.
+
+189
+00:07:06,280 --> 00:07:07,280
+Vou indo nessa.
+
+190
+00:07:07,280 --> 00:07:08,280
+Força e luz para todos nós.
+
+191
+00:07:08,280 --> 00:07:09,280
+E até mais.
+
+192
+00:07:09,280 --> 00:07:10,280
+Até mais, querida.
+
+193
+00:07:10,280 --> 00:07:11,280
+Obrigado pelo comentário.
+
+194
+00:07:11,280 --> 00:07:13,280
+Bom dia, Guaxomus.
+
+195
+00:07:13,280 --> 00:07:14,280
+Nossa, essa é diferente.
+
+196
+00:07:14,280 --> 00:07:15,280
+Nunca tinha ouvido isso.
+
+197
+00:07:15,280 --> 00:07:16,280
+É diferente.
+
+198
+00:07:16,280 --> 00:07:22,280
+É, comecei a ouvir agora e achei curioso o nome do personagem ser Alice Nakamura.
+
+199
+00:07:22,280 --> 00:07:23,280
+Pois o nome é Alice Nakamura.
+
+200
+00:07:23,280 --> 00:07:26,280
+O nome da filha é uma coincidência.
+
+201
+00:07:26,280 --> 00:07:30,280
+Quando termina o episódio, quando terminar o episódio, volta.
+
+202
+00:07:30,280 --> 00:07:31,280
+Olha aí.
+
+203
+00:07:31,280 --> 00:07:34,280
+Ele conhece a menina chamada Alice Nakamura.
+
+204
+00:07:34,280 --> 00:07:37,280
+Deve estar nos extras.
+
+205
+00:07:37,280 --> 00:07:43,280
+Eu pergunto porque o Nakamura, porque eu acho que a dançarina, a ex-dançarina do Faustão,
+
+206
+00:07:43,280 --> 00:07:45,280
+era alguma coisa Nakamura.
+
+207
+00:07:45,280 --> 00:07:46,280
+É, tem.
+
+208
+00:07:46,280 --> 00:07:48,280
+E tem a Nanaka, né?
+
+209
+00:07:48,280 --> 00:07:49,280
+É verdade.
+
+210
+00:07:49,280 --> 00:07:50,280
+Porque a Natália é Nakamura.
+
+211
+00:07:50,280 --> 00:07:51,280
+É verdade.
+
+212
+00:07:51,280 --> 00:07:52,280
+Mas não, a pessoa só escolheu o nome e a letra.
+
+213
+00:07:52,280 --> 00:07:53,280
+Né?
+
+214
+00:07:53,280 --> 00:07:54,280
+É, foi.
+
+215
+00:07:54,280 --> 00:07:55,280
+É a Sarah.
+
+216
+00:07:55,280 --> 00:07:56,280
+A Sarah é meio maluca, né?
+
+217
+00:07:56,280 --> 00:07:57,280
+É verdade.
+
+218
+00:07:57,280 --> 00:07:58,280
+Namora o Andrei.
+
+219
+00:07:58,280 --> 00:07:59,280
+O próximo comentário é do Pedro Peron.
+
+220
+00:07:59,280 --> 00:08:00,280
+Olá, Guaxa e Guaxa Amigos.
+
+221
+00:08:00,280 --> 00:08:01,280
+Jesus amado.
+
+222
+00:08:01,280 --> 00:08:02,280
+Que tensão do caralho.
+
+223
+00:08:02,280 --> 00:08:03,280
+Que foi esse episódio.
+
+224
+00:08:03,280 --> 00:08:04,280
+O Bob estava no camarim batendo ritmicamente.
+
+225
+00:08:04,280 --> 00:08:05,280
+Os zumbis surgiram para o ritual ou algo assim?
+
+226
+00:08:05,280 --> 00:08:06,280
+Não.
+
+227
+00:08:06,280 --> 00:08:07,280
+Ele só estava se transformando e batendo lá.
+
+228
+00:08:07,280 --> 00:08:08,280
+Se o Bob não tem culpa e o milionário fez algo, é, é, tipo, o milionário não iria
+
+229
+00:08:08,280 --> 00:08:09,280
+fazer isso na própria casa.
+
+230
+00:08:09,280 --> 00:08:10,280
+Não.
+
+231
+00:08:10,280 --> 00:08:11,280
+Não.
+
+232
+00:08:11,280 --> 00:08:12,280
+Não.
+
+233
+00:08:12,280 --> 00:08:13,280
+Não.
+
+234
+00:08:13,280 --> 00:08:14,280
+Não.
+
+235
+00:08:14,280 --> 00:08:15,280
+Não.
+
+236
+00:08:15,280 --> 00:08:16,280
+Não.
+
+237
+00:08:16,280 --> 00:08:17,280
+Não.
+
+238
+00:08:17,280 --> 00:08:18,280
+Não.
+
+239
+00:08:18,280 --> 00:08:19,280
+Não.
+
+240
+00:08:19,280 --> 00:08:20,280
+Não.
+
+241
+00:08:20,280 --> 00:08:21,280
+Não.
+
+242
+00:08:21,280 --> 00:08:22,280
+Não.
+
+243
+00:08:22,280 --> 00:08:23,280
+Não.
+
+244
+00:08:23,280 --> 00:08:24,280
+Não.
+
+245
+00:08:24,280 --> 00:08:25,280
+Não.
+
+246
+00:08:25,280 --> 00:08:26,280
+Bom, eu provavelmente ia fazer isso na própria festa, né?
+
+247
+00:08:26,280 --> 00:08:27,280
+É.
+
+248
+00:08:27,280 --> 00:08:28,280
+Provavelmente vingança de um outro milionário.
+
+249
+00:08:28,280 --> 00:08:29,280
+Bilionário, talvez.
+
+250
+00:08:29,280 --> 00:08:30,280
+Eu pensei que o Ger 아니면 morrer antes.
+
+251
+00:08:30,280 --> 00:08:31,280
+Kkkkk Jobatter.
+
+252
+00:08:31,280 --> 00:08:32,280
+Mas fiquei confundindo de esperança de ter ocorrido um milagre.
+
+253
+00:08:32,280 --> 00:08:34,920
+De eles terem se salvado.
+
+254
+00:08:34,920 --> 00:08:38,820
+Na hora que dois caírem e ficarem para trás, o destino deles estava selado.
+
+255
+00:08:38,820 --> 00:08:40,820
+É isso, um beijo para você.
+
+256
+00:08:40,820 --> 00:08:43,300
+Eu adion esperar no final.
+
+257
+00:08:43,300 --> 00:08:44,300
+Não.
+
+258
+00:08:44,300 --> 00:08:45,300
+Ele fiquei meio chateado.
+
+259
+00:08:45,300 --> 00:08:46,300
+Desculpa.
+
+260
+00:08:46,300 --> 00:08:47,300
+Mas a culpa é de vocês.
+
+261
+00:08:47,300 --> 00:08:48,300
+Os dados talvez.
+
+262
+00:08:48,300 --> 00:08:49,300
+A culpa foi do Andrei.
+
+263
+00:08:49,300 --> 00:08:50,300
+Ele ficou para trás.
+
+264
+00:08:50,300 --> 00:08:51,280
+Ah!
+
+265
+00:08:51,280 --> 00:08:52,880
+Tinha que ter deixado pra trás, cara.
+
+266
+00:08:53,180 --> 00:08:55,380
+Vamos pôr a companhia. É isso. Um beijo
+
+267
+00:08:55,380 --> 00:08:57,060
+e um abraço pra vocês. Ah, hoje,
+
+268
+00:08:57,240 --> 00:08:59,280
+17, o dia que ele comentou, é
+
+269
+00:08:59,280 --> 00:09:01,560
+aniversário da minha noiva, Lara Gomes.
+
+270
+00:09:01,720 --> 00:09:03,560
+Ela também, o verbo eu acho, manda um beijo
+
+271
+00:09:03,560 --> 00:09:05,460
+pra ela. Um beijo, Lara Gomes.
+
+272
+00:09:05,720 --> 00:09:07,340
+Feliz aniversário, muitos anos de vida,
+
+273
+00:09:07,460 --> 00:09:08,840
+muitos críticos e
+
+274
+00:09:08,840 --> 00:09:11,280
+que você tire muitas vezes o seu atributo nessa
+
+275
+00:09:11,280 --> 00:09:13,600
+vida. É isso. Beijo.
+
+276
+00:09:13,980 --> 00:09:15,640
+Parabéns. Amanda Costa.
+
+277
+00:09:17,060 --> 00:09:17,460
+Boa
+
+278
+00:09:17,460 --> 00:09:19,760
+hora do dia, Guaxa, e convidado.
+
+279
+00:09:19,760 --> 00:09:21,360
+Obrigada. Obrigado.
+
+280
+00:09:21,620 --> 00:09:23,880
+Guaxa, você me enganou com esse título
+
+281
+00:09:23,880 --> 00:09:25,940
+que tinha tudo pra ser uma aventura
+
+282
+00:09:25,940 --> 00:09:28,200
+especial, mas estava...
+
+283
+00:09:28,200 --> 00:09:29,480
+Espacial. Ah, espacial.
+
+284
+00:09:29,960 --> 00:09:31,360
+Mas estava...
+
+285
+00:09:31,360 --> 00:09:33,280
+Mas está perdoado
+
+286
+00:09:33,280 --> 00:09:35,740
+com esse episódio de Zoom, que é um
+
+287
+00:09:35,740 --> 00:09:37,860
+dos meus temas favoritos. Inclusive,
+
+288
+00:09:38,020 --> 00:09:38,640
+acabei
+
+289
+00:09:38,640 --> 00:09:41,240
+Kim Dong ontem.
+
+290
+00:09:41,480 --> 00:09:44,000
+Que isso? É um seriado, acho que chinês,
+
+291
+00:09:44,460 --> 00:09:45,700
+que é chineses com zumbis.
+
+292
+00:09:45,940 --> 00:09:47,720
+Hum. Então
+
+293
+00:09:47,720 --> 00:09:49,740
+estou super dentro da vibe, é verdade?
+
+294
+00:09:49,760 --> 00:09:51,240
+Esse é o
+
+295
+00:09:51,240 --> 00:09:53,840
+mesmo universo de Pôr do Sol
+
+296
+00:09:53,840 --> 00:09:55,600
+e de Billie Jean, certo?
+
+297
+00:09:55,840 --> 00:09:57,680
+Certo. Ou no universo dos
+
+298
+00:09:57,680 --> 00:09:59,640
+zumbis brasileiros. Eu esqueci...
+
+299
+00:09:59,640 --> 00:10:00,560
+Acho que é tudo junto, né?
+
+300
+00:10:01,100 --> 00:10:03,640
+É, é sentido. Eu esqueci o nome
+
+301
+00:10:03,640 --> 00:10:05,240
+dos EP's. Eu também não lembro.
+
+302
+00:10:05,560 --> 00:10:06,460
+Não, mas é por aí mesmo.
+
+303
+00:10:07,780 --> 00:10:10,100
+Meus parabéns aos jogadores.
+
+304
+00:10:10,520 --> 00:10:12,000
+Obrigada. Que conseguiram
+
+305
+00:10:12,000 --> 00:10:13,720
+desenvolver muito bem os personagens
+
+306
+00:10:13,720 --> 00:10:15,800
+que passaram muito bem a energia
+
+307
+00:10:15,800 --> 00:10:17,760
+adolescente. É porque a gente é meio
+
+308
+00:10:17,760 --> 00:10:19,720
+caótico, né? A gente já tem essa energia.
+
+309
+00:10:19,760 --> 00:10:21,720
+Em si. Eu achei que tu ia dizer porque a gente
+
+310
+00:10:21,720 --> 00:10:22,820
+é adolescente mesmo.
+
+311
+00:10:24,000 --> 00:10:25,860
+Estamos quase lá, né? É que eu sou a mais
+
+312
+00:10:25,860 --> 00:10:27,860
+nova, então... Eu sou
+
+313
+00:10:27,860 --> 00:10:29,540
+a única que está ali mais perto do adolescente.
+
+314
+00:10:29,860 --> 00:10:31,200
+Os outros são velhinhos, são velhinhos.
+
+315
+00:10:31,440 --> 00:10:33,760
+Me perdi. Meus parabéns. Os adolescentes me fizeram
+
+316
+00:10:34,600 --> 00:10:35,740
+até sentir
+
+317
+00:10:35,740 --> 00:10:37,920
+um pouquinho de raiva de alguns momentos.
+
+318
+00:10:38,660 --> 00:10:39,820
+Como esse episódio me fez
+
+319
+00:10:39,820 --> 00:10:41,900
+lembrar de Billie Jean, tenho uma sugestão.
+
+320
+00:10:42,160 --> 00:10:43,740
+Que tal fazer uma aventura
+
+321
+00:10:43,740 --> 00:10:45,660
+naquela... Naquele mundo
+
+322
+00:10:45,660 --> 00:10:47,760
+com personagens que sabem como funciona
+
+323
+00:10:47,760 --> 00:10:49,640
+como funciona a
+
+324
+00:10:49,640 --> 00:10:51,340
+arrebatamento tentando
+
+325
+00:10:51,340 --> 00:10:54,100
+se salvar? Talvez uma espécie
+
+326
+00:10:54,100 --> 00:10:55,520
+de feita
+
+327
+00:10:55,520 --> 00:10:57,240
+pós-apocalíptica, sem
+
+328
+00:10:57,240 --> 00:10:59,940
+ter, inclusive, o personagem
+
+329
+00:10:59,940 --> 00:11:01,640
+que acabou viva, seria
+
+330
+00:11:01,640 --> 00:11:03,900
+incrível. Ok, ok.
+
+331
+00:11:03,980 --> 00:11:05,240
+Vou anotar a sua sugestão.
+
+332
+00:11:05,680 --> 00:11:07,640
+Próximo comentário é... E obrigado por esse comentário, Amanda.
+
+333
+00:11:07,980 --> 00:11:09,420
+Próximo comentário é do Grande Fogado,
+
+334
+00:11:09,520 --> 00:11:12,120
+Sr. Urso. Boa noite, guacha... Guacha...
+
+335
+00:11:12,120 --> 00:11:13,560
+Guacha-lebridade.
+
+336
+00:11:14,080 --> 00:11:15,820
+Você é uma guacha-lebridade agora.
+
+337
+00:11:15,820 --> 00:11:18,080
+Você é uma celebridade do RPG Guacha.
+
+338
+00:11:19,640 --> 00:11:21,020
+E guachual.
+
+339
+00:11:21,340 --> 00:11:23,600
+Hoje, infelizmente, ou felizmente pra você, guacha,
+
+340
+00:11:24,040 --> 00:11:25,040
+não tenho perguntas.
+
+341
+00:11:25,420 --> 00:11:27,440
+Hoje só vou deixar meus biscoitos em forma de
+
+342
+00:11:27,440 --> 00:11:29,120
+urso para os jogadores,
+
+343
+00:11:29,700 --> 00:11:31,280
+guacha e o editor, que são
+
+344
+00:11:31,280 --> 00:11:32,940
+infinito por cento do episódio.
+
+345
+00:11:33,460 --> 00:11:36,120
+Sugestão de anime de hoje é Black Lagoon.
+
+346
+00:11:36,600 --> 00:11:37,720
+Vou, vou, vou dar uma olhada.
+
+347
+00:11:37,980 --> 00:11:38,760
+É sobre o quê, talvez?
+
+348
+00:11:39,660 --> 00:11:41,560
+PS. Só eu penso que esse episódio
+
+349
+00:11:41,560 --> 00:11:43,420
+podia ser o filme dos zumbis dos Trapalhões.
+
+350
+00:11:44,980 --> 00:11:45,460
+Desde
+
+351
+00:11:45,460 --> 00:11:46,920
+Didi tem Zuzu.
+
+352
+00:11:46,920 --> 00:11:49,500
+Ok, ok.
+
+353
+00:11:49,640 --> 00:11:50,680
+Era só isso.
+
+354
+00:11:50,960 --> 00:11:52,800
+Mesmo um abraço do seu amigo Urso.
+
+355
+00:11:52,800 --> 00:11:54,440
+Obrigado pelo seu comentário, querido.
+
+356
+00:11:54,640 --> 00:11:56,600
+E obrigada por os biscoitos, não vou lá, gente.
+
+357
+00:11:57,120 --> 00:11:58,640
+Ok, não vou discutir.
+
+358
+00:11:59,700 --> 00:12:00,420
+Tá bom, gente.
+
+359
+00:12:01,440 --> 00:12:02,640
+Everton Torre.
+
+360
+00:12:03,200 --> 00:12:05,980
+Boa noite, guacha, convidado de todos os guachuns.
+
+361
+00:12:06,220 --> 00:12:07,140
+Eu fui pego
+
+362
+00:12:07,140 --> 00:12:09,060
+de surpresa pelo desenrolar
+
+363
+00:12:09,060 --> 00:12:11,020
+da aventura. Imaginei que seria algo
+
+364
+00:12:11,020 --> 00:12:12,360
+mais fresh.
+
+365
+00:12:12,840 --> 00:12:14,820
+Até terminar, eu estava
+
+366
+00:12:14,820 --> 00:12:17,320
+querendo acreditar que era uma pegadinha
+
+367
+00:12:17,320 --> 00:12:19,620
+de alguma rede de TV ou algo do tipo.
+
+368
+00:12:19,640 --> 00:12:21,700
+E não, não era.
+
+369
+00:12:22,060 --> 00:12:22,900
+Realmente não era.
+
+370
+00:12:23,520 --> 00:12:23,960
+Não era.
+
+371
+00:12:24,440 --> 00:12:27,620
+Acho que por ter mortos-vivos e pela energia boa
+
+372
+00:12:27,620 --> 00:12:29,940
+dos personagens entre si, eu lembrei do episódio
+
+373
+00:12:29,940 --> 00:12:31,800
+Por do Sol, que eu gosto muito.
+
+374
+00:12:31,960 --> 00:12:33,760
+Parabéns a todos que participaram
+
+375
+00:12:33,760 --> 00:12:35,640
+do episódio. Todos foram 100%.
+
+376
+00:12:36,180 --> 00:12:36,920
+Um abraço a todos.
+
+377
+00:12:37,080 --> 00:12:39,120
+Obrigado pelo seu comentário, Everton. Um abraço.
+
+378
+00:12:39,400 --> 00:12:41,640
+O próximo comentário é da Josi Cláudia de Jesus Gomes.
+
+379
+00:12:42,500 --> 00:12:44,100
+Misericórdia, gente. Que episódio foi esse?
+
+380
+00:12:45,320 --> 00:12:45,900
+Bom dia,
+
+381
+00:12:46,060 --> 00:12:47,360
+tarde e noite. Amei o episódio.
+
+382
+00:12:47,360 --> 00:12:49,320
+Rachei quando o Andrei falou.
+
+383
+00:12:49,640 --> 00:12:51,740
+Eu nunca vejo nada pelo visto.
+
+384
+00:12:52,440 --> 00:12:53,620
+Eu morro de medo de zumbi.
+
+385
+00:12:53,760 --> 00:12:54,960
+Graças a Resident Evil.
+
+386
+00:12:55,520 --> 00:12:57,420
+E via meu irmão jogar quando eu era
+
+387
+00:12:57,420 --> 00:12:59,480
+pequeno e tinha um ódio quando
+
+388
+00:12:59,480 --> 00:13:01,520
+ele abria uma porta do jogo, porque ele sempre fazia
+
+389
+00:13:01,520 --> 00:13:02,680
+um barulho de porta velha.
+
+390
+00:13:03,300 --> 00:13:05,400
+E nunca se sabe se tem um zumbi atrás
+
+391
+00:13:05,400 --> 00:13:07,420
+ou não. Então eu sempre fico tensa quando
+
+392
+00:13:07,420 --> 00:13:09,400
+vejo ou ouço algo sobre zumbis.
+
+393
+00:13:09,860 --> 00:13:11,140
+Apesar disso, gosto muito do tema.
+
+394
+00:13:11,680 --> 00:13:12,600
+E a contraditória.
+
+395
+00:13:13,640 --> 00:13:15,520
+E se vivesse em um mundo assim,
+
+396
+00:13:15,520 --> 00:13:17,260
+sairia na porrada com os zumbis.
+
+397
+00:13:17,660 --> 00:13:19,400
+Vai achando que eu seria presa fácil?
+
+398
+00:13:19,640 --> 00:13:21,660
+Sem mais delongas. Parabéns a todos
+
+399
+00:13:21,660 --> 00:13:23,460
+os envolvidos. Beijos. Vocês são incríveis.
+
+400
+00:13:24,040 --> 00:13:25,220
+Muito obrigado pelo seu comentário.
+
+401
+00:13:25,340 --> 00:13:27,600
+Eu acho que se você sair no soco
+
+402
+00:13:27,600 --> 00:13:28,920
+de mão limpa com o zumbi,
+
+403
+00:13:29,360 --> 00:13:30,540
+você é uma presa fácil.
+
+404
+00:13:31,480 --> 00:13:32,880
+Eu acho que não dá muito certo.
+
+405
+00:13:33,500 --> 00:13:34,380
+Boa sorte.
+
+406
+00:13:34,660 --> 00:13:37,820
+Eu seria péssima em Apocalipse 1. Como diz a Carmelita,
+
+407
+00:13:37,920 --> 00:13:39,580
+eu não sou pra briga, eu sou só bonita.
+
+408
+00:13:40,520 --> 00:13:41,780
+Eu morreria fácil.
+
+409
+00:13:42,000 --> 00:13:43,300
+Se eu tivesse que correr, eu morreria fácil.
+
+410
+00:13:43,760 --> 00:13:45,520
+Ela coloca um gif
+
+411
+00:13:45,520 --> 00:13:47,440
+do Porta dos Fundos, que é
+
+412
+00:13:47,440 --> 00:13:49,380
+o Rafael Portugal.
+
+413
+00:13:49,640 --> 00:13:51,280
+E o outro rapaz, que eu não sei quem é.
+
+414
+00:13:51,720 --> 00:13:53,580
+E o Rafael Portugal está se encolhendo,
+
+415
+00:13:53,760 --> 00:13:55,520
+falando Jeová, Jeová, Jeová.
+
+416
+00:13:55,700 --> 00:13:56,060
+É isso.
+
+417
+00:13:56,100 --> 00:13:57,500
+Fernando Lobo.
+
+418
+00:13:57,820 --> 00:14:00,520
+Olá, mestre Guaxa, estrela convidada.
+
+419
+00:14:00,900 --> 00:14:01,860
+Ouvinte Nins.
+
+420
+00:14:02,080 --> 00:14:02,820
+Meu Deus, que isso.
+
+421
+00:14:02,980 --> 00:14:06,440
+Racon, chat. Episódio ótimo,
+
+422
+00:14:06,580 --> 00:14:07,260
+como sempre.
+
+423
+00:14:07,680 --> 00:14:09,400
+Uma pena o
+
+424
+00:14:09,400 --> 00:14:12,060
+revival dos personagens
+
+425
+00:14:12,820 --> 00:14:14,180
+ter morrido na praia.
+
+426
+00:14:14,660 --> 00:14:15,380
+Como sempre,
+
+427
+00:14:15,580 --> 00:14:18,060
+uma horda de
+
+428
+00:14:18,060 --> 00:14:19,440
+dúvidas surgiram.
+
+429
+00:14:19,640 --> 00:14:20,640
+Vamos lá, Elas.
+
+430
+00:14:20,840 --> 00:14:23,200
+1. Em que mundo se passa essa história?
+
+431
+00:14:23,580 --> 00:14:25,500
+Tem a ver com o episódio de reality show?
+
+432
+00:14:25,760 --> 00:14:27,160
+Não tem diretamente a ver com
+
+433
+00:14:27,160 --> 00:14:28,320
+o reality show.
+
+434
+00:14:29,320 --> 00:14:30,820
+Supondo que os episódios tenham ligação,
+
+435
+00:14:31,360 --> 00:14:32,680
+mesmo o mundo, provavelmente.
+
+436
+00:14:33,680 --> 00:14:35,400
+O que era o molho vermelho
+
+437
+00:14:35,400 --> 00:14:36,560
+brilhante e picante?
+
+438
+00:14:37,040 --> 00:14:39,800
+Quem trouxe e o porquê?
+
+439
+00:14:40,200 --> 00:14:41,920
+Era a pimenta,
+
+440
+00:14:42,000 --> 00:14:42,520
+provavelmente.
+
+441
+00:14:42,940 --> 00:14:44,460
+Quem trouxe o cozinheiro do hotel.
+
+442
+00:14:44,920 --> 00:14:47,800
+De onde veio a ideia de vampiro zumbi?
+
+443
+00:14:47,800 --> 00:14:49,620
+Como se cura ou mata isso?
+
+444
+00:14:49,960 --> 00:14:50,840
+Vampiro zumbi?
+
+445
+00:14:51,080 --> 00:14:52,820
+Porque eles mordiam e passavam a doença
+
+446
+00:14:52,820 --> 00:14:54,380
+e não destroçavam?
+
+447
+00:14:54,840 --> 00:14:56,980
+Eu acho que o babado do vampiro
+
+448
+00:14:56,980 --> 00:14:59,380
+é porque eles não podem com a luz, né?
+
+449
+00:14:59,760 --> 00:15:00,320
+Eu acho que é isso.
+
+450
+00:15:00,320 --> 00:15:02,820
+Ah, é verdade, é verdade, é verdade.
+
+451
+00:15:03,160 --> 00:15:05,040
+Como eu falei, a ideia de fugir da luz
+
+452
+00:15:05,040 --> 00:15:05,960
+é por causa de um jogo,
+
+453
+00:15:06,420 --> 00:15:08,960
+que eu não joguei o 1, mas vai sair o 2.
+
+454
+00:15:09,680 --> 00:15:11,400
+Eu só tinha ouvido falar sobre, né?
+
+455
+00:15:11,760 --> 00:15:12,920
+Então eu acho que a ideia é
+
+456
+00:15:12,920 --> 00:15:15,080
+como se cura ou se mata. No caso, ali é fácil.
+
+457
+00:15:16,040 --> 00:15:17,400
+Supondo que ninguém foi mordido
+
+458
+00:15:17,400 --> 00:15:18,580
+pelo barquinho dos três,
+
+459
+00:15:18,580 --> 00:15:20,380
+mas a infecção ficou na ilha, né?
+
+460
+00:15:20,480 --> 00:15:22,300
+Então é só queimar tudo lá dentro.
+
+461
+00:15:22,820 --> 00:15:24,580
+E o que é a...
+
+462
+00:15:25,360 --> 00:15:26,320
+O que é a...
+
+463
+00:15:26,320 --> 00:15:26,800
+Eu não entendi.
+
+464
+00:15:27,200 --> 00:15:29,120
+Ele foi atacado enquanto eu escrevi.
+
+465
+00:15:30,960 --> 00:15:32,440
+Estou bem, acho que preciso
+
+466
+00:15:32,440 --> 00:15:34,660
+me preparar. Boa sorte
+
+467
+00:15:34,660 --> 00:15:36,340
+a todos e até a próxima.
+
+468
+00:15:36,680 --> 00:15:37,400
+Até a próxima.
+
+469
+00:15:38,080 --> 00:15:39,960
+Não vá pra luz, Fernando Lopes.
+
+470
+00:15:40,600 --> 00:15:42,520
+Nunca achei que ia ficar muito feliz de ver o Trota.
+
+471
+00:15:42,640 --> 00:15:42,960
+Vamos lá.
+
+472
+00:15:43,380 --> 00:15:46,580
+Adriano Trota, ei guaxa, por que não faz...
+
+473
+00:15:46,580 --> 00:15:48,260
+Por que não fazer esse episódio se passar?
+
+474
+00:15:48,580 --> 00:15:51,300
+No Brasil. Mas a banda era brasileira, não?
+
+475
+00:15:51,800 --> 00:15:52,160
+Era.
+
+476
+00:15:52,660 --> 00:15:54,700
+É, então. Eles foram tocar lá fora.
+
+477
+00:15:55,020 --> 00:15:56,480
+A banda era brasileira. É isso.
+
+478
+00:15:56,780 --> 00:15:58,240
+Mas obrigado pelo seu comentário curto, Trota.
+
+479
+00:15:58,600 --> 00:16:00,440
+Não, super curtinho. Achei super injusto
+
+480
+00:16:00,440 --> 00:16:02,220
+cair pra vocês. Sou convidada, poxa.
+
+481
+00:16:02,560 --> 00:16:04,040
+Não é assim que funciona. Vai lá.
+
+482
+00:16:05,300 --> 00:16:06,760
+Barman da taberna.
+
+483
+00:16:07,360 --> 00:16:08,200
+Olá a todos.
+
+484
+00:16:08,540 --> 00:16:10,440
+Tanto os que gostam de luz
+
+485
+00:16:10,440 --> 00:16:12,540
+quanto aqueles que preferem as sombras.
+
+486
+00:16:12,940 --> 00:16:14,520
+O drink especial do dia
+
+487
+00:16:14,520 --> 00:16:16,520
+é não alcoólico
+
+488
+00:16:17,040 --> 00:16:18,320
+para possibilitar
+
+489
+00:16:18,320 --> 00:16:20,800
+os astros mirins também aproveitarem.
+
+490
+00:16:21,060 --> 00:16:21,760
+Muito obrigada.
+
+491
+00:16:22,120 --> 00:16:24,120
+Essa é a lanterna forte.
+
+492
+00:16:24,440 --> 00:16:26,520
+Perfeito para te...
+
+493
+00:16:26,520 --> 00:16:28,580
+Para ter na mão enquanto você
+
+494
+00:16:28,580 --> 00:16:30,560
+corre para os seus objetivos.
+
+495
+00:16:30,860 --> 00:16:32,400
+Poxa, eu gostaria de...
+
+496
+00:16:32,400 --> 00:16:33,980
+É uma bebida e uma luz ao mesmo tempo.
+
+497
+00:16:34,100 --> 00:16:36,140
+Exatamente. Era a luz que eu precisava
+
+498
+00:16:36,140 --> 00:16:38,200
+ter a vida. E é sem algo, assim.
+
+499
+00:16:38,660 --> 00:16:40,500
+Como é que ele tem... Como é que ele acende?
+
+500
+00:16:40,560 --> 00:16:41,740
+Eu não faço ideia, mas obrigado.
+
+501
+00:16:42,900 --> 00:16:44,380
+Você é da luz ou das trevas, Zuzu?
+
+502
+00:16:44,780 --> 00:16:45,540
+Eu sou da luz.
+
+503
+00:16:45,540 --> 00:16:47,060
+Da luz, ok.
+
+504
+00:16:48,320 --> 00:16:49,860
+No final do episódio, fui das trevas.
+
+505
+00:16:50,180 --> 00:16:51,960
+Não, mas o teu personagem foi.
+
+506
+00:16:52,280 --> 00:16:53,920
+É. Ele foi com Deus.
+
+507
+00:16:54,360 --> 00:16:55,960
+Você está com orelha de gatinho.
+
+508
+00:16:56,080 --> 00:16:57,520
+Quem não está ouvindo na live,
+
+509
+00:16:58,020 --> 00:17:00,560
+ela obviamente é de luz. Ela tem orelha de gatinho enquanto grava.
+
+510
+00:17:00,600 --> 00:17:01,980
+Óbvio. Todos os gatos são de luz.
+
+511
+00:17:01,980 --> 00:17:04,440
+Não. Pensando agora,
+
+512
+00:17:04,800 --> 00:17:06,300
+nem falo. Mas ok.
+
+513
+00:17:07,160 --> 00:17:08,560
+Não. Todos os gatos são de luz.
+
+514
+00:17:08,640 --> 00:17:09,780
+Que isso. Que absurdo.
+
+515
+00:17:09,860 --> 00:17:12,240
+Não. Eles tanto são de sombra
+
+516
+00:17:12,240 --> 00:17:13,960
+que se eles veem uma luz, eles perseguem a luz.
+
+517
+00:17:13,960 --> 00:17:15,060
+Que é para matar a luz.
+
+518
+00:17:16,100 --> 00:17:17,200
+Próximo comentário é do André.
+
+519
+00:17:17,680 --> 00:17:18,200
+E ele coloca.
+
+520
+00:17:18,320 --> 00:17:19,780
+Eu só queria dizer que quando vi
+
+521
+00:17:19,780 --> 00:17:22,160
+o cara com dor de barriga, eu já sabia que virava
+
+522
+00:17:22,160 --> 00:17:23,880
+um apocalipse zumbi. O que é isso?
+
+523
+00:17:24,140 --> 00:17:25,680
+Dor de barriga e apocalipse zumbi.
+
+524
+00:17:26,000 --> 00:17:28,020
+A parte do vampiro que me surpreendeu.
+
+525
+00:17:28,240 --> 00:17:30,160
+Mais a meio episódio. O biscoito formado de
+
+526
+00:17:30,160 --> 00:17:32,360
+bateria portátil para todos. Obrigado, querido.
+
+527
+00:17:33,140 --> 00:17:34,500
+Pô, eu não...
+
+528
+00:17:34,500 --> 00:17:36,180
+Eu tenho muito medo de perguntar
+
+529
+00:17:36,180 --> 00:17:38,400
+onde dor de barriga tem a ver
+
+530
+00:17:38,400 --> 00:17:40,620
+na tua cabeça com um apocalipse zumbi.
+
+531
+00:17:40,820 --> 00:17:41,020
+Mas ok.
+
+532
+00:17:41,020 --> 00:17:42,400
+Eu também fico um pouquinho de medo.
+
+533
+00:17:42,520 --> 00:17:44,580
+Agora eu vou ficar bem de olho nas pessoas com dor de barriga.
+
+534
+00:17:44,780 --> 00:17:46,920
+Eu vou reclamar. Ah, não. Ver mais. Só para marcar
+
+535
+00:17:46,920 --> 00:17:47,980
+no bingo. Mas estou bem feliz.
+
+536
+00:17:48,320 --> 00:17:50,480
+Ah, não. Ver mais.
+
+537
+00:17:50,920 --> 00:17:52,140
+Zumbis, zumbis.
+
+538
+00:17:52,280 --> 00:17:55,060
+É do Bardo Petis.
+
+539
+00:17:55,320 --> 00:17:56,880
+Zumbis, zumbis, zumbis.
+
+540
+00:17:57,240 --> 00:17:58,880
+Memórias da adolescência onde
+
+541
+00:17:58,880 --> 00:18:01,000
+sempre criava planos de sobrevivência
+
+542
+00:18:01,000 --> 00:18:02,660
+voltado aos montes.
+
+543
+00:18:02,820 --> 00:18:04,700
+Meu Deus. Bom dia, boa tarde,
+
+544
+00:18:04,840 --> 00:18:06,300
+boa noite. Guaxo vim.
+
+545
+00:18:06,720 --> 00:18:08,360
+Ou guaxo munidade.
+
+546
+00:18:08,360 --> 00:18:10,200
+Que episódio divertido.
+
+547
+00:18:10,360 --> 00:18:11,820
+Curti, mas
+
+548
+00:18:11,820 --> 00:18:14,240
+captura suas ações
+
+549
+00:18:14,240 --> 00:18:16,180
+como um zumbi captura
+
+550
+00:18:16,180 --> 00:18:18,280
+um humano. Autoperfeição.
+
+551
+00:18:18,320 --> 00:18:20,320
+Uma pedra desnivelada.
+
+552
+00:18:21,620 --> 00:18:22,720
+Cuidado com as pedras
+
+553
+00:18:22,720 --> 00:18:24,760
+desniveladas na rua
+
+554
+00:18:24,760 --> 00:18:27,120
+na rua de noite, pessoal.
+
+555
+00:18:27,580 --> 00:18:28,200
+Sobre o Guaxa
+
+556
+00:18:28,200 --> 00:18:30,460
+verso anterior, eu adoraria fazer
+
+557
+00:18:30,460 --> 00:18:32,320
+um caderninho
+
+558
+00:18:33,080 --> 00:18:33,860
+de rimas
+
+559
+00:18:33,860 --> 00:18:36,300
+relacionados ao
+
+560
+00:18:36,300 --> 00:18:38,440
+RP Guaxa até dos episódios
+
+561
+00:18:38,440 --> 00:18:40,420
+anteriores ao meu primeiro
+
+562
+00:18:40,420 --> 00:18:41,920
+cinco, tá?
+
+563
+00:18:42,340 --> 00:18:44,240
+Se quiserem
+
+564
+00:18:44,240 --> 00:18:46,260
+minha participação em algo
+
+565
+00:18:46,260 --> 00:18:47,520
+do gênero um dia.
+
+566
+00:18:48,320 --> 00:18:51,320
+Estou sempre de olho
+
+567
+00:18:51,320 --> 00:18:52,680
+na taberna e faço
+
+568
+00:18:52,680 --> 00:18:53,820
+total zero de tempo.
+
+569
+00:18:54,180 --> 00:18:55,260
+Já é hora suficiente
+
+570
+00:18:55,260 --> 00:18:58,540
+de estar presente
+
+571
+00:18:58,540 --> 00:19:00,000
+em algo assim.
+
+572
+00:19:00,240 --> 00:19:02,340
+Menor que três. Já tem muitas palavras
+
+573
+00:19:02,340 --> 00:19:03,560
+nesse comentário. É verdade.
+
+574
+00:19:03,960 --> 00:19:05,560
+Nem comecei meu poema.
+
+575
+00:19:06,040 --> 00:19:08,280
+Agradeço a oportunidade de fazer
+
+576
+00:19:08,280 --> 00:19:09,780
+haikais.
+
+577
+00:19:10,180 --> 00:19:11,720
+Adoro títulos com palavras
+
+578
+00:19:11,720 --> 00:19:13,200
+de três letras.
+
+579
+00:19:13,580 --> 00:19:16,820
+E sem mais longas, segue meu verso.
+
+580
+00:19:16,820 --> 00:19:17,980
+Homem do Inferno.
+
+581
+00:19:18,320 --> 00:19:19,880
+Estrela...
+
+582
+00:19:19,880 --> 00:19:21,220
+Estrela...
+
+583
+00:19:21,220 --> 00:19:24,300
+Entrelaçados com danças
+
+584
+00:19:24,300 --> 00:19:26,920
+e sorrisos. Os esquecidos
+
+585
+00:19:26,920 --> 00:19:28,500
+ó esquecidos
+
+586
+00:19:28,500 --> 00:19:30,000
+desviam a luz.
+
+587
+00:19:30,260 --> 00:19:32,080
+Ataques tão incomuns.
+
+588
+00:19:32,360 --> 00:19:34,200
+Sorte de algum. Eles correm
+
+589
+00:19:34,200 --> 00:19:35,900
+tão rápido quanto vocês.
+
+590
+00:19:36,280 --> 00:19:38,220
+Saibam escolher o que
+
+591
+00:19:38,220 --> 00:19:40,400
+devem fazer. Tem barcos
+
+592
+00:19:40,400 --> 00:19:42,480
+no porto, uma rota
+
+593
+00:19:42,480 --> 00:19:44,380
+de fuga. Raios de luz
+
+594
+00:19:44,380 --> 00:19:45,660
+um homem os puxa.
+
+595
+00:19:45,660 --> 00:19:47,860
+Entre as chaves, esta é a sua
+
+596
+00:19:47,860 --> 00:19:49,560
+saída. Logo mais se
+
+597
+00:19:49,560 --> 00:19:51,840
+prendem. Logo mais
+
+598
+00:19:51,840 --> 00:19:53,820
+se perde mais uma vida. Agora
+
+599
+00:19:53,820 --> 00:19:55,640
+que fugiram, pode
+
+600
+00:19:55,640 --> 00:19:57,640
+sossegar. Suspiros
+
+601
+00:19:57,640 --> 00:19:59,640
+finais sobre a luz do luar.
+
+602
+00:20:00,040 --> 00:20:01,460
+Muito bem, Barca. Muito obrigado
+
+603
+00:20:01,460 --> 00:20:03,800
+pelo seu comentário. Muito obrigado por contar
+
+604
+00:20:03,800 --> 00:20:05,200
+direitinho pra ele não cair pra mim.
+
+605
+00:20:06,140 --> 00:20:07,340
+Pô, seria incrível.
+
+606
+00:20:08,140 --> 00:20:09,820
+Ele começou a fazer essas riminhas
+
+607
+00:20:09,820 --> 00:20:11,040
+a partir do episódio 5.
+
+608
+00:20:11,640 --> 00:20:13,420
+E ele podia voltar
+
+609
+00:20:13,420 --> 00:20:15,200
+desde o primeiro e fazer rima de todos.
+
+610
+00:20:15,600 --> 00:20:17,320
+Vou te pedir pra fazer isso, senão
+
+611
+00:20:17,320 --> 00:20:19,560
+seria muita maldade. Mas, ok.
+
+612
+00:20:20,080 --> 00:20:21,920
+Fica o convite
+
+613
+00:20:21,920 --> 00:20:23,620
+caso tu queira. E o próximo comentário
+
+614
+00:20:23,620 --> 00:20:25,160
+é do nosso amigo incrível.
+
+615
+00:20:26,420 --> 00:20:27,820
+Um dos top 3
+
+616
+00:20:27,820 --> 00:20:29,900
+que mais jogaram RPG no universo.
+
+617
+00:20:30,180 --> 00:20:31,640
+Felipe Xavier. Ele coloca
+
+618
+00:20:31,640 --> 00:20:33,520
+Olá, guarda, meu querido.
+
+619
+00:20:34,240 --> 00:20:34,760
+Guarda.
+
+620
+00:20:38,420 --> 00:20:40,080
+Guarda. Ok, Felipe Xavier.
+
+621
+00:20:42,680 --> 00:20:43,580
+Obrigado pra ti
+
+622
+00:20:43,580 --> 00:20:44,740
+por ter ocorrido todo o autógrafo.
+
+623
+00:20:45,160 --> 00:20:47,280
+Juvidade da vez. Seja
+
+624
+00:20:47,280 --> 00:20:49,460
+muito bem-vindo e aguache a verso que não existe.
+
+625
+00:20:49,800 --> 00:20:51,600
+Olha que legal. Juvidade, o corretor
+
+626
+00:20:51,600 --> 00:20:53,780
+dele aceitou. É, mas guacha não.
+
+627
+00:20:54,680 --> 00:20:55,540
+Já sabemos
+
+628
+00:20:55,540 --> 00:20:56,580
+que ele tem um lado, né?
+
+629
+00:20:57,580 --> 00:20:59,380
+Esse episódio me deixou pensativo.
+
+630
+00:20:59,980 --> 00:21:01,680
+O que fazer numa situação dessas?
+
+631
+00:21:02,080 --> 00:21:03,100
+Que fonte de luz vocês
+
+632
+00:21:03,100 --> 00:21:05,400
+tentarem encontrar ou improvisar?
+
+633
+00:21:05,880 --> 00:21:07,580
+Seja forte o suficiente para o manter
+
+634
+00:21:07,580 --> 00:21:09,460
+seguro e que durasse
+
+635
+00:21:09,460 --> 00:21:11,760
+bastante tempo. Eu tentaria ficar em um hospital.
+
+636
+00:21:11,940 --> 00:21:13,360
+Tem geradores de luz bem forte.
+
+637
+00:21:13,700 --> 00:21:15,440
+Era uma ilha particular? Eu duvido
+
+638
+00:21:15,440 --> 00:21:16,560
+que tivesse um hospital.
+
+639
+00:21:17,280 --> 00:21:19,660
+Máximo em uma enfermariazinha no hotel
+
+640
+00:21:19,660 --> 00:21:21,300
+não funcionaria.
+
+641
+00:21:21,600 --> 00:21:23,440
+Mas assim, óbvio, se eu estivesse aqui no mundo real
+
+642
+00:21:23,440 --> 00:21:25,020
+porra, ir pro hospital...
+
+643
+00:21:25,020 --> 00:21:27,540
+Assim, pode ser. Se bem que é uma
+
+644
+00:21:27,540 --> 00:21:28,440
+infecção, né?
+
+645
+00:21:29,100 --> 00:21:31,200
+Se é uma coisa que passa de uma pessoa pra outra
+
+646
+00:21:31,200 --> 00:21:33,900
+acho que o hospital não seria o local mais seguro.
+
+647
+00:21:34,160 --> 00:21:34,500
+Acho.
+
+648
+00:21:35,300 --> 00:21:37,940
+Pra onde é que tu irias, Luiz? Onde é que tem muita luz pra ti?
+
+649
+00:21:38,160 --> 00:21:38,740
+Olha, eu queria
+
+650
+00:21:38,740 --> 00:21:41,560
+muita luz. Essa é a menor ideia.
+
+651
+00:21:42,060 --> 00:21:43,040
+Podia ser um...
+
+652
+00:21:43,040 --> 00:21:45,600
+Nem eu, Luiz, eu tá aí.
+
+653
+00:21:45,700 --> 00:21:47,040
+Nem ia tentar ir pra algum lugar.
+
+654
+00:21:47,280 --> 00:21:49,660
+Eu ia só desistir. Muito trabalho
+
+655
+00:21:49,660 --> 00:21:50,780
+viver um apocalipse zumbi.
+
+656
+00:21:51,120 --> 00:21:53,560
+Justo. É o certo, gente.
+
+657
+00:21:53,920 --> 00:21:55,480
+Porque, ao contrário, o problema é muito grande
+
+658
+00:21:55,480 --> 00:21:56,880
+de existir. Esse é o ensinamento
+
+659
+00:21:56,880 --> 00:21:58,900
+do episódio de hoje. Mas assim,
+
+660
+00:21:59,200 --> 00:22:01,500
+faria o mesmo. Você vê que eu tô no interior do estado.
+
+661
+00:22:02,000 --> 00:22:02,880
+Tem pouca gente.
+
+662
+00:22:03,660 --> 00:22:05,280
+Tipo, olhar
+
+663
+00:22:05,280 --> 00:22:07,520
+assim, acima do meu monitor tem um lago
+
+664
+00:22:07,520 --> 00:22:09,520
+com patinho. Do outro lado da rua
+
+665
+00:22:09,520 --> 00:22:11,060
+tem vaquinha. Nossa.
+
+666
+00:22:11,240 --> 00:22:13,260
+Então, a menos que afete e criem
+
+667
+00:22:13,260 --> 00:22:15,360
+patinhos zumbis, eu acho que eu tô mais
+
+668
+00:22:15,360 --> 00:22:17,160
+tranquilo. Meu prédio mesmo é...
+
+669
+00:22:17,280 --> 00:22:19,460
+São seis apartamentos só. É um prédio pequenininho.
+
+670
+00:22:19,740 --> 00:22:21,360
+Então, acho que daria
+
+671
+00:22:21,360 --> 00:22:23,640
+pra tentar sobreviver longe de grandes centros.
+
+672
+00:22:23,840 --> 00:22:25,540
+Acho. Acho que daria certo.
+
+673
+00:22:25,720 --> 00:22:27,440
+Se bem que patinhos zumbis ia ser fofinho.
+
+674
+00:22:27,900 --> 00:22:29,620
+Já pensou, pato? Marreco
+
+675
+00:22:29,620 --> 00:22:31,460
+zumbi. Meu Deus. Nossa. Quero nem pensar.
+
+676
+00:22:31,920 --> 00:22:32,760
+Acho que ia ser fofinho.
+
+677
+00:22:33,380 --> 00:22:35,740
+Eu tenho uma criatura que vai matar...
+
+678
+00:22:35,740 --> 00:22:37,720
+Provavelmente vai matar ou machucar
+
+679
+00:22:37,720 --> 00:22:39,660
+jogadores futuramente. Não jogadores,
+
+680
+00:22:39,780 --> 00:22:40,620
+personagens, né?
+
+681
+00:22:41,460 --> 00:22:43,660
+Que é algo mais inusitado
+
+682
+00:22:43,660 --> 00:22:45,300
+que patinhos. Mas guardem isso.
+
+683
+00:22:45,600 --> 00:22:46,100
+Continuando.
+
+684
+00:22:47,280 --> 00:22:49,960
+Os jogadores... Por que ele não falava?
+
+685
+00:22:50,100 --> 00:22:51,860
+Pra economizar NPC. Mentira.
+
+686
+00:22:52,260 --> 00:22:53,960
+É porque ele não falava o idioma
+
+687
+00:22:53,960 --> 00:22:55,840
+português, que era o idioma das pessoas
+
+688
+00:22:55,840 --> 00:22:57,140
+ali. Ele só trabalhava na cozinha.
+
+689
+00:22:57,660 --> 00:22:59,980
+Seria essa mais uma artimanha do Guaxa
+
+690
+00:22:59,980 --> 00:23:01,840
+para não ter voz de NPC? Exatamente isso.
+
+691
+00:23:02,600 --> 00:23:03,900
+Ele tinha algo especial.
+
+692
+00:23:04,120 --> 00:23:05,860
+Ele era um ótimo cozinheiro
+
+693
+00:23:05,860 --> 00:23:07,800
+de frutos do mar. Ele fazia
+
+694
+00:23:07,800 --> 00:23:08,800
+assim um...
+
+695
+00:23:08,800 --> 00:23:11,540
+um camarão, assim...
+
+696
+00:23:11,540 --> 00:23:14,000
+ali óleo, que era maravilhoso.
+
+697
+00:23:14,000 --> 00:23:15,960
+Era famoso em todas as ilhas da região.
+
+698
+00:23:16,400 --> 00:23:17,260
+Era isso que ele tinha de especial.
+
+699
+00:23:17,280 --> 00:23:19,380
+Como o Guaxa não existe, não vou
+
+700
+00:23:19,380 --> 00:23:21,460
+nem relacionar todos os outros episódios do Apocalipse
+
+701
+00:23:21,460 --> 00:23:23,560
+em ilhas. Vimos antes com esse. Obrigado.
+
+702
+00:23:24,240 --> 00:23:25,280
+Beijos e abraços apertados
+
+703
+00:23:25,280 --> 00:23:27,280
+em todos. Se tudo é errado,
+
+704
+00:23:27,380 --> 00:23:29,560
+acenda a luz e rola no chão, porque apaga o fogo
+
+705
+00:23:29,560 --> 00:23:31,540
+e protege. No caso, se estiver perdendo o fogo,
+
+706
+00:23:31,600 --> 00:23:33,320
+o fogo é fonte de luz, gente. Ele não apaga, não.
+
+707
+00:23:33,680 --> 00:23:35,440
+É. Protege mais.
+
+708
+00:23:35,860 --> 00:23:37,520
+Arte Novoa.
+
+709
+00:23:37,900 --> 00:23:38,880
+Olá, Guaxa.
+
+710
+00:23:39,240 --> 00:23:41,700
+Guaxa convidades
+
+711
+00:23:41,700 --> 00:23:43,460
+ouvintes. Tudo certo?
+
+712
+00:23:43,620 --> 00:23:44,660
+Tudo certo.
+
+713
+00:23:45,120 --> 00:23:46,260
+Parabéns pelo episódio.
+
+714
+00:23:46,260 --> 00:23:48,640
+Comentário e perguntas com spoilers.
+
+715
+00:23:48,960 --> 00:23:50,240
+Escutando o episódio,
+
+716
+00:23:50,440 --> 00:23:52,400
+eu entendi que esses zumbis
+
+717
+00:23:52,400 --> 00:23:54,480
+são diferentes. Talvez nem sejam
+
+718
+00:23:54,480 --> 00:23:56,580
+zumbis no estilo clássico, pois
+
+719
+00:23:56,580 --> 00:23:58,580
+ao contaminar eles,
+
+720
+00:23:58,880 --> 00:24:00,380
+param de atacar,
+
+721
+00:24:00,620 --> 00:24:02,240
+não devoram
+
+722
+00:24:02,240 --> 00:24:04,260
+a vítima, inclusive liberam
+
+723
+00:24:04,260 --> 00:24:05,840
+os amiguinhos. É um bom ponto.
+
+724
+00:24:06,480 --> 00:24:08,300
+Contaminados para fugir com a
+
+725
+00:24:08,300 --> 00:24:10,340
+única sobrevivente. Então
+
+726
+00:24:10,340 --> 00:24:12,660
+dei por mim, escutando
+
+727
+00:24:12,660 --> 00:24:14,240
+o episódio 70,
+
+728
+00:24:14,240 --> 00:24:16,240
+A Casa, e lá temos...
+
+729
+00:24:16,260 --> 00:24:18,260
+enfermeiras com problemas
+
+730
+00:24:18,260 --> 00:24:20,260
+com a luz e temos
+
+731
+00:24:20,260 --> 00:24:22,260
+uma entidade que perdeu
+
+732
+00:24:22,260 --> 00:24:24,260
+para uma certa menina que não faz
+
+733
+00:24:24,260 --> 00:24:26,260
+parte das quatro linhas.
+
+734
+00:24:26,260 --> 00:24:28,260
+Enfim, minha teoria
+
+735
+00:24:28,260 --> 00:24:30,260
+é que essa entidade do mal
+
+736
+00:24:30,260 --> 00:24:32,260
+fora as quatro linhas
+
+737
+00:24:32,260 --> 00:24:34,260
+está tentando se
+
+738
+00:24:34,260 --> 00:24:36,260
+fortalecer novamente e consumir
+
+739
+00:24:36,260 --> 00:24:38,260
+todas as almas dessa ilha
+
+740
+00:24:38,260 --> 00:24:40,260
+a partir
+
+741
+00:24:40,260 --> 00:24:42,260
+de cultistas
+
+742
+00:24:42,260 --> 00:24:44,260
+infiltrados que
+
+743
+00:24:44,260 --> 00:24:46,260
+contaminaram a comida e agora estão
+
+744
+00:24:46,260 --> 00:24:48,260
+espalhando, inclusive
+
+745
+00:24:48,260 --> 00:24:50,260
+no barco para continuar
+
+746
+00:24:50,260 --> 00:24:52,260
+a se nutrir e controlar
+
+747
+00:24:52,260 --> 00:24:54,260
+zumbis com problemas com luz.
+
+748
+00:24:54,260 --> 00:24:56,260
+Viajei muito?
+
+749
+00:24:56,260 --> 00:24:58,260
+Não. Assim, é um episódio, como eu falei,
+
+750
+00:24:58,260 --> 00:25:00,260
+eu deixei ele mais
+
+751
+00:25:00,260 --> 00:25:02,260
+em aberto em alguns pontos.
+
+752
+00:25:02,260 --> 00:25:04,260
+Algumas coisas que você falou
+
+753
+00:25:04,260 --> 00:25:06,260
+podem ser exploradas.
+
+754
+00:25:06,260 --> 00:25:08,260
+É óbvio que a ideia da luz sempre existiu
+
+755
+00:25:08,260 --> 00:25:10,260
+como algo
+
+756
+00:25:10,260 --> 00:25:12,260
+que salva as pessoas,
+
+757
+00:25:12,260 --> 00:25:14,260
+que espanta,
+
+758
+00:25:14,260 --> 00:25:16,260
+porque quem nunca com medo no quarto escuro
+
+759
+00:25:16,260 --> 00:25:18,260
+acendeu a luz e descobriu que
+
+760
+00:25:18,260 --> 00:25:20,260
+o monstro que ele achou que era
+
+761
+00:25:20,260 --> 00:25:22,260
+na verdade era uma cadeira e não um monstro.
+
+762
+00:25:22,260 --> 00:25:24,260
+Porque o monstro se desfaz de cadeira.
+
+763
+00:25:24,260 --> 00:25:26,260
+Então a luz sempre tem essa
+
+764
+00:25:26,260 --> 00:25:28,260
+ideia de salvar
+
+765
+00:25:28,260 --> 00:25:30,260
+do mal. Mas assim,
+
+766
+00:25:30,260 --> 00:25:32,260
+é uma teoria.
+
+767
+00:25:32,260 --> 00:25:34,260
+Eu queria reclamar de quem só comenta
+
+768
+00:25:34,260 --> 00:25:36,260
+no episódio que joga, que é o caso
+
+769
+00:25:36,260 --> 00:25:38,260
+da Sarah Barbosa,
+
+770
+00:25:38,260 --> 00:25:40,260
+que coloca... Olá Guaxa, sou eu.
+
+771
+00:25:40,260 --> 00:25:42,260
+Zuzu!
+
+772
+00:25:42,260 --> 00:25:44,260
+Que é Zuzu.
+
+773
+00:25:44,260 --> 00:25:46,260
+Guax Capchat.
+
+774
+00:25:46,260 --> 00:25:48,260
+Não sei, é o chat,
+
+775
+00:25:48,260 --> 00:25:50,260
+a pessoa que tá vendo ao vivo.
+
+776
+00:25:50,260 --> 00:25:52,260
+Não gostei. Eu asmei. Asmei é coisa de jovem.
+
+777
+00:25:52,260 --> 00:25:54,260
+São adolescentes que falam assim.
+
+778
+00:25:54,260 --> 00:25:56,260
+De onde vieram os zumbis?
+
+779
+00:25:56,260 --> 00:25:58,260
+Da plateia do show.
+
+780
+00:25:58,260 --> 00:26:00,260
+O Bob sabia o que aconteceria?
+
+781
+00:26:00,260 --> 00:26:02,260
+Não, senão ele não teria ido.
+
+782
+00:26:02,260 --> 00:26:04,260
+Em que linha do tempo segue
+
+783
+00:26:04,260 --> 00:26:06,260
+esse episódio?
+
+784
+00:26:06,260 --> 00:26:08,260
+Esse episódio é o tempo atual, né?
+
+785
+00:26:08,260 --> 00:26:10,260
+Quer saber em que linha acontece?
+
+786
+00:26:10,260 --> 00:26:12,260
+Aí os episódios não são interligados.
+
+787
+00:26:12,260 --> 00:26:14,260
+Ana Beatriz Ribeiro.
+
+788
+00:26:14,260 --> 00:26:16,260
+A Beatriz Ribeiro.
+
+789
+00:26:16,260 --> 00:26:18,260
+Ana!
+
+790
+00:26:18,260 --> 00:26:20,260
+A Ana querendo me avacalhar aqui.
+
+791
+00:26:20,260 --> 00:26:22,260
+A Oba!
+
+792
+00:26:22,260 --> 00:26:24,260
+Zuzu grita socorro pela saudosa
+
+793
+00:26:24,260 --> 00:26:26,260
+Burriel da Baixada dos Passos.
+
+794
+00:26:26,260 --> 00:26:28,260
+Socorro!
+
+795
+00:26:28,260 --> 00:26:30,260
+Ai meu Deus. E diz
+
+796
+00:26:30,260 --> 00:26:32,260
+Ai Zé da Manga.
+
+797
+00:26:32,260 --> 00:26:34,260
+Ai, tinha que ser a Ana, me avacalhou.
+
+798
+00:26:34,260 --> 00:26:36,260
+Tu não precisava fazer o que ela pediu, tu sabe.
+
+799
+00:26:36,260 --> 00:26:38,260
+Mas é a Ana, tem que fazer as coisas
+
+800
+00:26:38,260 --> 00:26:40,260
+que a Ana pede. Ah, é verdade.
+
+801
+00:26:40,260 --> 00:26:42,260
+Esqueci disso.
+
+802
+00:26:42,260 --> 00:26:44,260
+O Jean comenta alguma coisa ali, mas a gente não
+
+803
+00:26:44,260 --> 00:26:46,260
+viu os agregados. E o próximo comentário então
+
+804
+00:26:46,260 --> 00:26:48,260
+é do Psicopato.
+
+805
+00:26:48,260 --> 00:26:50,260
+Que é o Andrei?
+
+806
+00:26:50,260 --> 00:26:52,260
+Andrei. Ok.
+
+807
+00:26:52,260 --> 00:26:54,260
+Ele se disfarçou, acho que eu não descobriria.
+
+808
+00:26:54,260 --> 00:26:56,260
+Falando em patos zumbis,
+
+809
+00:26:56,260 --> 00:26:58,260
+tá aí o Andrei com
+
+810
+00:26:58,260 --> 00:27:00,260
+um pato no
+
+811
+00:27:00,260 --> 00:27:02,260
+no avatar. Fica a dica.
+
+812
+00:27:02,260 --> 00:27:04,260
+A Obaguacha queria primeiramente
+
+813
+00:27:04,260 --> 00:27:06,260
+agradecer por essa mesa maravilhosa.
+
+814
+00:27:06,260 --> 00:27:08,260
+Segunda vez que joga uma mesa com você.
+
+815
+00:27:08,260 --> 00:27:10,260
+Que você é mestra.
+
+816
+00:27:10,260 --> 00:27:12,260
+Que são com zumbis. É verdade, a outra que ele jogou
+
+817
+00:27:12,260 --> 00:27:14,260
+era o Zumbis do Oeste.
+
+818
+00:27:14,260 --> 00:27:16,260
+Gosto demais.
+
+819
+00:27:16,260 --> 00:27:18,260
+Segunda vez que os dados me deixam na mão
+
+820
+00:27:18,260 --> 00:27:20,260
+na hora que mais preciso deles.
+
+821
+00:27:20,260 --> 00:27:22,260
+Jean, marca o bingo.
+
+822
+00:27:22,260 --> 00:27:24,260
+A Sara já marcou. Pô, só marca uma vez,
+
+823
+00:27:24,260 --> 00:27:26,260
+não dá pra marcar duas, Andrei.
+
+824
+00:27:26,260 --> 00:27:28,260
+Tá atrasado. Muito obrigado pela mesa, Guaxá.
+
+825
+00:27:28,260 --> 00:27:30,260
+De nada, querido.
+
+826
+00:27:30,260 --> 00:27:32,260
+Andrei, tem que estragar meu rolê. Acho incrível.
+
+827
+00:27:32,260 --> 00:27:34,260
+É. Ovelha com chifres.
+
+828
+00:27:36,260 --> 00:27:38,260
+É um bom nick. Eu gostei.
+
+829
+00:27:38,260 --> 00:27:40,260
+Eu achei um bom nome.
+
+830
+00:27:40,260 --> 00:27:42,260
+Olá, Guaxa, convidados
+
+831
+00:27:42,260 --> 00:27:44,260
+e guaxamunidades.
+
+832
+00:27:44,260 --> 00:27:46,260
+Queria deixar meus parabéns
+
+833
+00:27:46,260 --> 00:27:48,260
+a todos os 50% do episódio.
+
+834
+00:27:48,260 --> 00:27:50,260
+Mas especialmente para os jogadores.
+
+835
+00:27:50,260 --> 00:27:52,260
+Geralmente, os jogadores sempre
+
+836
+00:27:52,260 --> 00:27:54,260
+tem uma boa química.
+
+837
+00:27:54,260 --> 00:27:56,260
+Mas esse grupo foi além.
+
+838
+00:27:56,260 --> 00:27:58,260
+Assim que eles começaram a conversar,
+
+839
+00:27:58,260 --> 00:28:00,260
+eu já tava empolgada.
+
+840
+00:28:00,260 --> 00:28:02,260
+E em ver pra onde a história iria.
+
+841
+00:28:02,260 --> 00:28:04,260
+Obrigada.
+
+842
+00:28:04,260 --> 00:28:06,260
+É assim, os três foram escolhidos
+
+843
+00:28:06,260 --> 00:28:08,260
+por serem amigos.
+
+844
+00:28:08,260 --> 00:28:10,260
+Ah, tem que chamar os três porque eles são bem amigos e tal.
+
+845
+00:28:10,260 --> 00:28:12,260
+Então deu esse gostinho especial pro episódio.
+
+846
+00:28:12,260 --> 00:28:14,260
+Só posso agradecer aos jogadores.
+
+847
+00:28:14,260 --> 00:28:16,260
+E a gente é amigo por quê?
+
+848
+00:28:16,260 --> 00:28:18,260
+Porque a gente virou padrinho.
+
+849
+00:28:18,260 --> 00:28:20,260
+Nenhum dos três se conheceu antes de ser padrinho, né?
+
+850
+00:28:20,260 --> 00:28:22,260
+Não. E o pior é que a Sarah
+
+851
+00:28:22,260 --> 00:28:24,260
+ela mora aqui no Rio e eu não conhecia ela.
+
+852
+00:28:24,260 --> 00:28:26,260
+Só fui conhecendo o Guaxa.
+
+853
+00:28:26,260 --> 00:28:28,260
+Tem bastante gente no Rio, eu acho, né?
+
+854
+00:28:28,260 --> 00:28:30,260
+Tem, tem bastante gente.
+
+855
+00:28:30,260 --> 00:28:32,260
+Uma vez eu fui no Rio, na freguesia Jacarepaguá.
+
+856
+00:28:32,260 --> 00:28:34,260
+E na rua,
+
+857
+00:28:34,260 --> 00:28:36,260
+andando na rua, num sábado de manhã
+
+858
+00:28:36,260 --> 00:28:38,260
+tinha mais gente do que tem habitantes na minha cidade.
+
+859
+00:28:38,260 --> 00:28:40,260
+E isso quase
+
+860
+00:28:40,260 --> 00:28:42,260
+é uma piada.
+
+861
+00:28:42,260 --> 00:28:44,260
+Mas quando eu conheci o Andrei,
+
+862
+00:28:44,260 --> 00:28:46,260
+ele me falou a quantidade de moradores que tem na cidade dele, né?
+
+863
+00:28:46,260 --> 00:28:48,260
+E tem mais gente no meu bairro
+
+864
+00:28:48,260 --> 00:28:50,260
+do que pessoas morando na cidade dele.
+
+865
+00:28:50,260 --> 00:28:52,260
+É verdade.
+
+866
+00:28:52,260 --> 00:28:54,260
+É uma loucura. Eu fiquei tipo, meu Deus.
+
+867
+00:28:54,260 --> 00:28:56,260
+Que aventura!
+
+868
+00:28:56,260 --> 00:28:58,260
+Eu amo as suas
+
+869
+00:28:58,260 --> 00:29:00,260
+histórias de zumbi.
+
+870
+00:29:00,260 --> 00:29:02,260
+E essa tá no meu top 5.
+
+871
+00:29:02,260 --> 00:29:04,260
+Por algum motivo me lembrou
+
+872
+00:29:04,260 --> 00:29:06,260
+o primeiro episódio que eu ouvi.
+
+873
+00:29:06,260 --> 00:29:08,260
+O Olho de Deus.
+
+874
+00:29:08,260 --> 00:29:10,260
+Acho que o Guaxa gosta de aventuras em ilhas isoladas.
+
+875
+00:29:10,260 --> 00:29:12,260
+Amei, especialmente
+
+876
+00:29:12,260 --> 00:29:14,260
+a Carmelita. Ah, obrigada!
+
+877
+00:29:14,260 --> 00:29:16,260
+Me identifiquei muito com o
+
+878
+00:29:16,260 --> 00:29:18,260
+Eu não sei lutar, eu sou bonita.
+
+879
+00:29:20,260 --> 00:29:22,260
+Ela...
+
+880
+00:29:22,260 --> 00:29:24,260
+Dela, senti na alma.
+
+881
+00:29:24,260 --> 00:29:26,260
+Acho que é isso. Obrigada mais uma
+
+882
+00:29:26,260 --> 00:29:28,260
+vez por esse episódio incrível.
+
+883
+00:29:28,260 --> 00:29:30,260
+E até a próxima. Até a próxima, querida.
+
+884
+00:29:30,260 --> 00:29:32,260
+Muito obrigado pelo seu comentário.
+
+885
+00:29:32,260 --> 00:29:34,260
+Eu nasci em Florianópolis, que é uma ilha
+
+886
+00:29:34,260 --> 00:29:36,260
+não isolada, né?
+
+887
+00:29:36,260 --> 00:29:38,260
+Na verdade a ilha
+
+888
+00:29:38,260 --> 00:29:40,260
+se chama Ilha de Santa Catarina, né?
+
+889
+00:29:40,260 --> 00:29:42,260
+Florianópolis pega um pedaço do continente também.
+
+890
+00:29:42,260 --> 00:29:44,260
+E é a capital de Santa Catarina, então
+
+891
+00:29:44,260 --> 00:29:46,260
+não é tão isolada assim, mas é quase.
+
+892
+00:29:46,260 --> 00:29:48,260
+O próximo comentário é da querida
+
+893
+00:29:48,260 --> 00:29:50,260
+Iwakika, que me deu
+
+894
+00:29:50,260 --> 00:29:52,260
+um guaxinim maravilhoso. Deixa eu ver aqui o que eu vou pegar pra mostrar
+
+895
+00:29:52,260 --> 00:29:54,260
+na live.
+
+896
+00:29:54,260 --> 00:29:56,260
+Deixa eu ver se vai pegar na câmera.
+
+897
+00:29:56,260 --> 00:29:58,260
+Ela que fez, ela me deu naquele evento que teve em
+
+898
+00:29:58,260 --> 00:30:00,260
+Blumenau. Tem um dadinho assim.
+
+899
+00:30:00,260 --> 00:30:02,260
+Que bonitinho.
+
+900
+00:30:02,260 --> 00:30:04,260
+Agradeço muito a Iwakika e o seu
+
+901
+00:30:04,260 --> 00:30:06,260
+Iwakika. A gente conversou um monte.
+
+902
+00:30:06,260 --> 00:30:08,260
+Eu conversei tanto de anime com
+
+903
+00:30:08,260 --> 00:30:10,260
+o namorido dela
+
+904
+00:30:10,260 --> 00:30:12,260
+que ela teve que sequestrar ele e inventar a desculpa
+
+905
+00:30:12,260 --> 00:30:14,260
+pra levar ele embora. Normalmente
+
+906
+00:30:14,260 --> 00:30:16,260
+quando a gente tá num ambiente desse, tipo,
+
+907
+00:30:16,260 --> 00:30:18,260
+eu tenho que inventar alguma coisa pra poder voltar
+
+908
+00:30:18,260 --> 00:30:20,260
+pra minha família, pra fazer minhas coisas
+
+909
+00:30:20,260 --> 00:30:22,260
+no evento. Lá ela teve que sequestrar ele
+
+910
+00:30:22,260 --> 00:30:24,260
+de mim, senão a gente ficava falando até amanhã.
+
+911
+00:30:24,260 --> 00:30:26,260
+É isso. Aí a Iwakika mata
+
+912
+00:30:26,260 --> 00:30:28,260
+meus pokémons e sequestra minhas conversas.
+
+913
+00:30:28,260 --> 00:30:30,260
+É isso. Mas, vamos continuar
+
+914
+00:30:30,260 --> 00:30:32,260
+o comentário dela. Ela coloca, olá
+
+915
+00:30:32,260 --> 00:30:34,260
+guaxacriatura. O nome é Iwakika.
+
+916
+00:30:34,260 --> 00:30:36,260
+Esses zumbis me fizeram pensar
+
+917
+00:30:36,260 --> 00:30:38,260
+nas mutações de Eu Sou a Lenda
+
+918
+00:30:38,260 --> 00:30:40,260
+no filme. Assim,
+
+919
+00:30:40,260 --> 00:30:42,260
+eu gosto do filme, mas o livro é muito
+
+920
+00:30:42,260 --> 00:30:44,260
+melhor. É, assim,
+
+921
+00:30:44,260 --> 00:30:46,260
+parece babaca, mas nesse caso específico
+
+922
+00:30:46,260 --> 00:30:48,260
+é bem, bem verdade. A história
+
+923
+00:30:48,260 --> 00:30:50,260
+do filme é completamente outra, tá? Fica
+
+924
+00:30:50,260 --> 00:30:52,260
+a recomendação. Mas
+
+925
+00:30:52,260 --> 00:30:54,260
+assim, aquelas mutações
+
+926
+00:30:54,260 --> 00:30:56,260
+que o Will Smith podia
+
+927
+00:30:56,260 --> 00:30:58,260
+fazer o que quisesse durante o dia
+
+928
+00:30:58,260 --> 00:31:00,260
+e à noite ele tinha que se esconder
+
+929
+00:31:00,260 --> 00:31:02,260
+era por conta disso, né?
+
+930
+00:31:02,260 --> 00:31:04,260
+Durante o... O dia era
+
+931
+00:31:04,260 --> 00:31:06,260
+dele, a luz, né? E à noite era das
+
+932
+00:31:06,260 --> 00:31:08,260
+guaxacriaturas. Além de pensar em variações
+
+933
+00:31:08,260 --> 00:31:10,260
+possíveis de zumbis, será que eles
+
+934
+00:31:10,260 --> 00:31:12,260
+estavam só infectados ou já estavam
+
+935
+00:31:12,260 --> 00:31:14,260
+mortos? Boa pergunta.
+
+936
+00:31:14,260 --> 00:31:16,260
+Boa pergunta.
+
+937
+00:31:16,260 --> 00:31:18,260
+Assim, se for um zumbi clássico, já estavam
+
+938
+00:31:18,260 --> 00:31:20,260
+mortos. Isso é tipo uma
+
+939
+00:31:20,260 --> 00:31:22,260
+doença, tipo uma raiva
+
+940
+00:31:22,260 --> 00:31:24,260
+e faz, sei lá...
+
+941
+00:31:24,260 --> 00:31:26,260
+Tem uma doença do rato
+
+942
+00:31:26,260 --> 00:31:28,260
+que é o contrário. Que o rato...
+
+943
+00:31:28,260 --> 00:31:30,260
+Se tu vê um rato andando à luz do dia
+
+944
+00:31:30,260 --> 00:31:32,260
+é porque ele tá bem doente.
+
+945
+00:31:32,260 --> 00:31:34,260
+Porque o rato normalmente tem medo da luz.
+
+946
+00:31:34,260 --> 00:31:36,260
+Então podia ser alguma coisa oposta a isso?
+
+947
+00:31:36,260 --> 00:31:38,260
+É porque daí a doença faz o rato andar na luz
+
+948
+00:31:38,260 --> 00:31:40,260
+pro gato poder comer ele
+
+949
+00:31:40,260 --> 00:31:42,260
+porque o parasita não vive no rato, né? Vive
+
+950
+00:31:42,260 --> 00:31:44,260
+no gato. Uma loucura dessa.
+
+951
+00:31:44,260 --> 00:31:46,260
+Eu não como um rato andando à luz do sol. É isso que eu quero ensinar
+
+952
+00:31:46,260 --> 00:31:48,260
+pra vocês.
+
+953
+00:31:52,260 --> 00:31:54,260
+Bem, grande episódio.
+
+954
+00:31:54,260 --> 00:31:56,260
+Episódios de
+
+955
+00:31:56,260 --> 00:31:58,260
+escapada são sempre tensos. Biscoito com
+
+956
+00:31:58,260 --> 00:32:00,260
+molho de pimenta para todos. Biscoito
+
+957
+00:32:00,260 --> 00:32:02,260
+querido, muito obrigado pelo seu comentário.
+
+958
+00:32:02,260 --> 00:32:04,260
+Se ferrou de novo? Gigante.
+
+959
+00:32:04,260 --> 00:32:06,260
+Thaila Saldi?
+
+960
+00:32:06,260 --> 00:32:08,260
+É isso o nome da menina?
+
+961
+00:32:08,260 --> 00:32:10,260
+Slade, talvez. Pode ser Slade.
+
+962
+00:32:10,260 --> 00:32:12,260
+Então, Thaila Slade.
+
+963
+00:32:12,260 --> 00:32:14,260
+Olá guaxa juvidade
+
+964
+00:32:14,260 --> 00:32:16,260
+e guaxo ouvinte.
+
+965
+00:32:16,260 --> 00:32:18,260
+Eu sou o husky
+
+966
+00:32:18,260 --> 00:32:20,260
+Thaila Slade Leia
+
+967
+00:32:20,260 --> 00:32:22,260
+Thala. Ah, então é Thala.
+
+968
+00:32:22,260 --> 00:32:24,260
+Com a sílaba
+
+969
+00:32:24,260 --> 00:32:26,260
+tônica no A.
+
+970
+00:32:26,260 --> 00:32:28,260
+E se pronuncie... E não se preocupe
+
+971
+00:32:28,260 --> 00:32:30,260
+ninguém nunca acerta de
+
+972
+00:32:30,260 --> 00:32:32,260
+primeira, tá bom?
+
+973
+00:32:32,260 --> 00:32:34,260
+Vamos inventar um nome difícil.
+
+974
+00:32:34,260 --> 00:32:36,260
+Ok.
+
+975
+00:32:36,260 --> 00:32:38,260
+Descobri o RP Guaxa há alguns meses
+
+976
+00:32:38,260 --> 00:32:40,260
+procurando por podcasts
+
+977
+00:32:40,260 --> 00:32:42,260
+com aventuras de RPG
+
+978
+00:32:42,260 --> 00:32:44,260
+para ouvir durante o trabalho.
+
+979
+00:32:44,260 --> 00:32:46,260
+Achei interessante a proposta
+
+980
+00:32:46,260 --> 00:32:48,260
+de um guaxinim mestrando
+
+981
+00:32:48,260 --> 00:32:50,260
+RPG. Comecei
+
+982
+00:32:50,260 --> 00:32:52,260
+pelo primeiro episódio e achei fantástica
+
+983
+00:32:52,260 --> 00:32:54,260
+a ideia de que os jogadores eram
+
+984
+00:32:54,260 --> 00:32:56,260
+gatas. Fiquei um pouco
+
+985
+00:32:56,260 --> 00:32:58,260
+um pouco frustrado quando
+
+986
+00:32:58,260 --> 00:33:00,260
+minutos depois
+
+987
+00:33:00,260 --> 00:33:02,260
+elas foram transformadas em humanas.
+
+988
+00:33:02,260 --> 00:33:04,260
+Mas ainda assim me diverti demais
+
+989
+00:33:04,260 --> 00:33:06,260
+com a história, interpretações
+
+990
+00:33:06,260 --> 00:33:08,260
+além de toda a edição.
+
+991
+00:33:08,260 --> 00:33:10,260
+A partir daí comecei uma grande
+
+992
+00:33:10,260 --> 00:33:12,260
+maratona para ouvir todos.
+
+993
+00:33:12,260 --> 00:33:14,260
+Até que hoje finalmente cheguei no episódio
+
+994
+00:33:14,260 --> 00:33:16,260
+lançado da semana.
+
+995
+00:33:16,260 --> 00:33:18,260
+Nossa, super rápido. Muito.
+
+996
+00:33:18,260 --> 00:33:20,260
+Mas excelente episódio por sinal.
+
+997
+00:33:20,260 --> 00:33:22,260
+Será que tem dedo do Dante
+
+998
+00:33:22,260 --> 00:33:24,260
+nessa ilha? Ou será
+
+999
+00:33:24,260 --> 00:33:26,260
+que alguma guloseima
+
+1000
+00:33:26,260 --> 00:33:28,260
+elfica pode
+
+1001
+00:33:28,260 --> 00:33:30,260
+parar por acidente
+
+1002
+00:33:30,260 --> 00:33:32,260
+no banquete da festa?
+
+1003
+00:33:32,260 --> 00:33:34,260
+Eu apostaria mais no primeiro,
+
+1004
+00:33:34,260 --> 00:33:36,260
+mas é uma teoria também.
+
+1005
+00:33:36,260 --> 00:33:38,260
+Conforme prometi para mim mesmo,
+
+1006
+00:33:38,260 --> 00:33:40,260
+ontem eu também
+
+1007
+00:33:40,260 --> 00:33:42,260
+me tornei padrinho,
+
+1008
+00:33:42,260 --> 00:33:44,260
+já que finalmente alcancei
+
+1009
+00:33:44,260 --> 00:33:46,260
+o episódio atual.
+
+1010
+00:33:46,260 --> 00:33:48,260
+E se minha ansiedade social
+
+1011
+00:33:48,260 --> 00:33:50,260
+permitir, vou conhecer
+
+1012
+00:33:50,260 --> 00:33:52,260
+toda a Guaxa comunidade
+
+1013
+00:33:52,260 --> 00:33:54,260
+e tanto me divertir ao longo
+
+1014
+00:33:54,260 --> 00:33:56,260
+de toda essa jornada.
+
+1015
+00:33:56,260 --> 00:33:58,260
+Antes que eu me esqueça, eu ouço
+
+1016
+00:33:58,260 --> 00:34:00,260
+sempre pelo Google Podcast.
+
+1017
+00:34:00,260 --> 00:34:02,260
+Nunca vi
+
+1018
+00:34:02,260 --> 00:34:04,260
+que alguém escutasse pelo Google, achei interessante.
+
+1019
+00:34:04,260 --> 00:34:06,260
+Eu tentei usar, mas não
+
+1020
+00:34:06,260 --> 00:34:08,260
+me adaptei.
+
+1021
+00:34:08,260 --> 00:34:10,260
+Vou
+
+1022
+00:34:10,260 --> 00:34:12,260
+encerrando meu comentário por aqui,
+
+1023
+00:34:12,260 --> 00:34:14,260
+porque provavelmente já
+
+1024
+00:34:14,260 --> 00:34:16,260
+invoquei o terrível olho
+
+1025
+00:34:16,260 --> 00:34:18,260
+de Deus. Biscoito para todos
+
+1026
+00:34:18,260 --> 00:34:20,260
+e parabéns a todos os 50%
+
+1027
+00:34:20,260 --> 00:34:22,260
+envolvidos. Muito obrigado
+
+1028
+00:34:22,260 --> 00:34:24,260
+pelo comentário husky,
+
+1029
+00:34:24,260 --> 00:34:26,260
+tala.
+
+1030
+00:34:26,260 --> 00:34:28,260
+Obrigado por acreditar
+
+1031
+00:34:28,260 --> 00:34:30,260
+no Guaxinim Mestrando RPG.
+
+1032
+00:34:30,260 --> 00:34:32,260
+Eu espero que o fato de você estar ao vivo na live
+
+1033
+00:34:32,260 --> 00:34:34,260
+vendo minha imagem não atrapalhe
+
+1034
+00:34:34,260 --> 00:34:36,260
+a experiência de achar que eu era um guaxinim mestrando.
+
+1035
+00:34:36,260 --> 00:34:38,260
+Mas é que na verdade isso aqui é CG,
+
+1036
+00:34:38,260 --> 00:34:40,260
+sabe? É um filtro que eu estou
+
+1037
+00:34:40,260 --> 00:34:42,260
+usando. Na verdade eu sou realmente um guaxinim.
+
+1038
+00:34:42,260 --> 00:34:44,260
+E isso é só um filtro.
+
+1039
+00:34:44,260 --> 00:34:46,260
+Por que eu não usei um filtro mais bonito?
+
+1040
+00:34:46,260 --> 00:34:48,260
+Porque esse era o de graça que tinha.
+
+1041
+00:34:48,260 --> 00:34:50,260
+Na...
+
+1042
+00:34:50,260 --> 00:34:52,260
+Na... Depois do
+
+1043
+00:34:52,260 --> 00:34:54,260
+guaxincontro que teve,
+
+1044
+00:34:54,260 --> 00:34:56,260
+eu não sei quem estava em casa, acho que era a Ana
+
+1045
+00:34:56,260 --> 00:34:58,260
+e a Sarah.
+
+1046
+00:34:58,260 --> 00:35:00,260
+Eu sei que a gente fez uma teoria que você
+
+1047
+00:35:00,260 --> 00:35:02,260
+realmente é um guaxinim, que você está sendo controlado.
+
+1048
+00:35:02,260 --> 00:35:04,260
+É só um filtro.
+
+1049
+00:35:04,260 --> 00:35:06,260
+Isso aqui é uma grande marionete.
+
+1050
+00:35:06,260 --> 00:35:08,260
+Eu acho que faz muito sentido.
+
+1051
+00:35:08,260 --> 00:35:10,260
+Eu já fui numa aventura de RPG, um super-herói
+
+1052
+00:35:10,260 --> 00:35:12,260
+que era uma roupa de
+
+1053
+00:35:12,260 --> 00:35:14,260
+risco biológico, sabe?
+
+1054
+00:35:14,260 --> 00:35:16,260
+Toda vedada, cheia de guaxinim.
+
+1055
+00:35:16,260 --> 00:35:18,260
+Nossa!
+
+1056
+00:35:18,260 --> 00:35:20,260
+Tipo, se alguém abrisse a roupa, era um monte de guaxinim lá dentro
+
+1057
+00:35:20,260 --> 00:35:22,260
+assim, um montadinho no outro pra controlar.
+
+1058
+00:35:22,260 --> 00:35:24,260
+Era maravilhoso.
+
+1059
+00:35:24,260 --> 00:35:26,260
+Viu? Então está comprovado a teoria. O guaxa é um guaxinim.
+
+1060
+00:35:26,260 --> 00:35:28,260
+Tudo bem. Eu também não sou o husky.
+
+1061
+00:35:28,260 --> 00:35:30,260
+De verdade. Não conto pra ninguém.
+
+1062
+00:35:30,260 --> 00:35:32,260
+Tá bom, fechou. Fica entre a gente.
+
+1063
+00:35:32,260 --> 00:35:34,260
+Mas pode ser uma roupa cheia de huskies.
+
+1064
+00:35:34,260 --> 00:35:36,260
+Que é mais complicado se...
+
+1065
+00:35:36,260 --> 00:35:38,260
+O guaxinim também não é disso.
+
+1066
+00:35:38,260 --> 00:35:40,260
+Mas devagar, voltando.
+
+1067
+00:35:40,260 --> 00:35:42,260
+O guaxinho comenta.
+
+1068
+00:35:42,260 --> 00:35:44,260
+Minha mãe mandou trazer muitos mais biscoitos gostosos
+
+1069
+00:35:44,260 --> 00:35:46,260
+com chocolate 50% do episódio.
+
+1070
+00:35:46,260 --> 00:35:48,260
+Eu vim aqui mandar um biscoito para a Sarah,
+
+1071
+00:35:48,260 --> 00:35:50,260
+um biscoito para o Andrei,
+
+1072
+00:35:50,260 --> 00:35:52,260
+um biscoito para a Zuzu,
+
+1073
+00:35:52,260 --> 00:35:54,260
+um biscoito para o Rico,
+
+1074
+00:35:54,260 --> 00:35:56,260
+um biscoito para a Glória,
+
+1075
+00:35:56,260 --> 00:35:58,260
+um biscoito para o intestino do empresário,
+
+1076
+00:35:58,260 --> 00:36:00,260
+e um biscoito especial para você, guaxa.
+
+1077
+00:36:00,260 --> 00:36:02,260
+Muito obrigado.
+
+1078
+00:36:02,260 --> 00:36:04,260
+Vamos lá.
+
+1079
+00:36:04,260 --> 00:36:06,260
+E daí ele continua.
+
+1080
+00:36:06,260 --> 00:36:08,260
+Tudo pode ser
+
+1081
+00:36:08,260 --> 00:36:10,260
+Se puder gritar
+
+1082
+00:36:10,260 --> 00:36:12,260
+O corvo sempre vem um dia comentar
+
+1083
+00:36:12,260 --> 00:36:14,260
+Tudo pode ver
+
+1084
+00:36:14,260 --> 00:36:16,260
+O olho do luar
+
+1085
+00:36:16,260 --> 00:36:18,260
+Deixe os dados
+
+1086
+00:36:18,260 --> 00:36:20,260
+Vão te levar
+
+1087
+00:36:20,260 --> 00:36:22,260
+Tudo que eu quiser
+
+1088
+00:36:22,260 --> 00:36:24,260
+O guaxa vai rolar
+
+1089
+00:36:24,260 --> 00:36:26,260
+Feliz no mar
+
+1090
+00:36:26,260 --> 00:36:28,260
+Esteja boba onde estiver
+
+1091
+00:36:28,260 --> 00:36:30,260
+Tenha tua vida
+
+1092
+00:36:30,260 --> 00:36:32,260
+Por um triz
+
+1093
+00:36:32,260 --> 00:36:34,260
+Guaxa de cristal
+
+1094
+00:36:34,260 --> 00:36:36,260
+Que me faz sonhar
+
+1095
+00:36:36,260 --> 00:36:38,260
+Faz dos teens estrela
+
+1096
+00:36:38,260 --> 00:36:40,260
+Quase a brilhar
+
+1097
+00:36:40,260 --> 00:36:42,260
+Guaxa de cristal
+
+1098
+00:36:42,260 --> 00:36:44,260
+Na lata do lixão
+
+1099
+00:36:44,260 --> 00:36:46,260
+Uma partida inteira
+
+1100
+00:36:46,260 --> 00:36:48,260
+Cheia de emoção
+
+1101
+00:36:48,260 --> 00:36:50,260
+PS, guaxinho não é um caso de ratinho.
+
+1102
+00:36:50,260 --> 00:36:52,260
+Obrigado.
+
+1103
+00:36:52,260 --> 00:36:54,260
+Já dizia o Michael Jackson
+
+1104
+00:36:54,260 --> 00:36:56,260
+Tu não é meu filho.
+
+1105
+00:36:56,260 --> 00:36:58,260
+Caona
+
+1106
+00:36:58,260 --> 00:37:00,260
+Caona
+
+1107
+00:37:00,260 --> 00:37:02,260
+Excelente episódio.
+
+1108
+00:37:02,260 --> 00:37:04,260
+Olá guaxonvidade
+
+1109
+00:37:04,260 --> 00:37:06,260
+Guaxa guaxa
+
+1110
+00:37:06,260 --> 00:37:08,260
+E guaxa chual
+
+1111
+00:37:08,260 --> 00:37:10,260
+Para os guaxinins sexuais
+
+1112
+00:37:10,260 --> 00:37:12,260
+E pessoal guaxinim
+
+1113
+00:37:12,260 --> 00:37:14,260
+Nossa, que enrolada.
+
+1114
+00:37:14,260 --> 00:37:16,260
+Sexuais não, sensuais.
+
+1115
+00:37:16,260 --> 00:37:18,260
+Pelo amor de Deus.
+
+1116
+00:37:18,260 --> 00:37:20,260
+Desculpa, sensuais.
+
+1117
+00:37:20,260 --> 00:37:22,260
+Excelente episódio.
+
+1118
+00:37:22,260 --> 00:37:24,260
+Nunca que eu imaginaria
+
+1119
+00:37:24,260 --> 00:37:26,260
+Que ia virar uma aventura sobre os guaxos.
+
+1120
+00:37:26,260 --> 00:37:28,260
+Também não estava esperando por essa.
+
+1121
+00:37:28,260 --> 00:37:30,260
+Coloquei como spoiler
+
+1122
+00:37:30,260 --> 00:37:32,260
+Para dar um ar dramático.
+
+1123
+00:37:32,260 --> 00:37:34,260
+Faz um tempo
+
+1124
+00:37:34,260 --> 00:37:36,260
+Que não apareço aqui
+
+1125
+00:37:36,260 --> 00:37:38,260
+Nos comentários para dar o ar da graça.
+
+1126
+00:37:38,260 --> 00:37:40,260
+Então irei
+
+1127
+00:37:40,260 --> 00:37:42,260
+Começar elogiando
+
+1128
+00:37:42,260 --> 00:37:44,260
+A maravilhosa edição do Sorsal
+
+1129
+00:37:44,260 --> 00:37:46,260
+Que me fez dar uma leve
+
+1130
+00:37:46,260 --> 00:37:48,260
+Uma leve dancadinha
+
+1131
+00:37:48,260 --> 00:37:50,260
+Com a gancho
+
+1132
+00:37:50,260 --> 00:37:52,260
+Sabe o que é riusuzu?
+
+1133
+00:37:52,260 --> 00:37:54,260
+É o restaurante onde é style.
+
+1134
+00:37:54,260 --> 00:37:56,260
+Hummm
+
+1135
+00:37:56,260 --> 00:37:58,260
+Gungstar
+
+1136
+00:37:58,260 --> 00:38:00,260
+Toward dance
+
+1137
+00:38:00,260 --> 00:38:02,260
+É, também
+
+1138
+00:38:02,260 --> 00:38:04,260
+Também irei
+
+1139
+00:38:04,260 --> 00:38:06,260
+Parabenizar os jogadores pela ótima interpretação
+
+1140
+00:38:06,260 --> 00:38:08,260
+De seus personagens
+
+1141
+00:38:08,260 --> 00:38:10,260
+E claro ao guaxa
+
+1142
+00:38:10,260 --> 00:38:12,260
+Pela incrível narração.
+
+1143
+00:38:12,260 --> 00:38:14,260
+Não trouxe minha dúvida
+
+1144
+00:38:14,260 --> 00:38:16,260
+Até porque imagino que já serão
+
+1145
+00:38:16,260 --> 00:38:18,260
+Sanadas com as respostas
+
+1146
+00:38:18,260 --> 00:38:20,260
+Aos comentários anteriores.
+
+1147
+00:38:20,260 --> 00:38:22,260
+Um beijo e um queijo a todos.
+
+1148
+00:38:22,260 --> 00:38:24,260
+Guaxa pode remover o que?
+
+1149
+00:38:24,260 --> 00:38:26,260
+Até mais.
+
+1150
+00:38:26,260 --> 00:38:28,260
+Todo mundo conhece essa lorde
+
+1151
+00:38:28,260 --> 00:38:30,260
+Não ter queijo
+
+1152
+00:38:30,260 --> 00:38:32,260
+É verdade
+
+1153
+00:38:32,260 --> 00:38:34,260
+E esse trio do arroz esqueceu do básico
+
+1154
+00:38:34,260 --> 00:38:36,260
+Mas calma Ana, muito obrigado pelo seu comentário
+
+1155
+00:38:36,260 --> 00:38:38,260
+A música que tu comenta é a do Jojo
+
+1156
+00:38:38,260 --> 00:38:40,260
+Que muita gente foi elogiar o Sorsal
+
+1157
+00:38:40,260 --> 00:38:42,260
+Foi
+
+1158
+00:38:42,260 --> 00:38:44,260
+Vocês elogiam e ele vai se aproveitando
+
+1159
+00:38:44,260 --> 00:38:46,260
+Pelo amor de Deus
+
+1160
+00:38:46,260 --> 00:38:48,260
+O próximo comentário é do Tô Desistindo
+
+1161
+00:38:48,260 --> 00:38:50,260
+Não desista querido, obrigado pelo seu comentário
+
+1162
+00:38:50,260 --> 00:38:52,260
+Fica a dica
+
+1163
+00:38:52,260 --> 00:38:54,260
+Cuidado com epidemias
+
+1164
+00:38:54,260 --> 00:38:56,260
+Dúvidas? Não desliguem o barco
+
+1165
+00:38:56,260 --> 00:38:58,260
+E não desistam
+
+1166
+00:38:58,260 --> 00:39:00,260
+Olá guaxate, guaxa novidade
+
+1167
+00:39:00,260 --> 00:39:02,260
+Do dia e guaxa guaxa
+
+1168
+00:39:02,260 --> 00:39:04,260
+Obrigado todinha
+
+1169
+00:39:04,260 --> 00:39:06,260
+Eu acho que foi o esperto desligar o barco
+
+1170
+00:39:06,260 --> 00:39:08,260
+Porque ai a gente não passa nada pra ninguém
+
+1171
+00:39:08,260 --> 00:39:10,260
+Ok
+
+1172
+00:39:10,260 --> 00:39:12,260
+Zumbi, rafa
+
+1173
+00:39:12,260 --> 00:39:14,260
+Ou girafa
+
+1174
+00:39:14,260 --> 00:39:16,260
+Girafa zumbi
+
+1175
+00:39:16,260 --> 00:39:18,260
+O girafa zumbi
+
+1176
+00:39:18,260 --> 00:39:20,260
+Imagina um pescoção zumbi
+
+1177
+00:39:20,260 --> 00:39:22,260
+Saudações guaxa todos
+
+1178
+00:39:22,260 --> 00:39:24,260
+Tirar algumas dúvidas que foram levadas
+
+1179
+00:39:24,260 --> 00:39:26,260
+Sobre mim
+
+1180
+00:39:26,260 --> 00:39:28,260
+No último guaxa verso
+
+1181
+00:39:28,260 --> 00:39:30,260
+Não, meu pescoço ainda não está
+
+1182
+00:39:30,260 --> 00:39:32,260
+Arrastando no chão
+
+1183
+00:39:32,260 --> 00:39:34,260
+Virei zumbi recentemente
+
+1184
+00:39:34,260 --> 00:39:36,260
+Então meu corpo ainda está bem
+
+1185
+00:39:36,260 --> 00:39:38,260
+Está bem conservado
+
+1186
+00:39:38,260 --> 00:39:40,260
+Mas confesso que gostei da ideia
+
+1187
+00:39:40,260 --> 00:39:42,260
+De ter um pescoço pendurado
+
+1188
+00:39:42,260 --> 00:39:44,260
+Com minha boca
+
+1189
+00:39:44,260 --> 00:39:46,260
+Mais perto do chão
+
+1190
+00:39:46,260 --> 00:39:48,260
+Além de acabar com a minha vertigem
+
+1191
+00:39:48,260 --> 00:39:50,260
+Isso me ajudaria bastante
+
+1192
+00:39:50,260 --> 00:39:52,260
+Com a nova dieta carnívora
+
+1193
+00:39:52,260 --> 00:39:54,260
+Hehehehe
+
+1194
+00:39:54,260 --> 00:39:56,260
+Aliás, a vida era bem fácil
+
+1195
+00:39:56,260 --> 00:39:58,260
+Quando eu era
+
+1196
+00:39:58,260 --> 00:40:00,260
+Quando eu só precisava
+
+1197
+00:40:00,260 --> 00:40:02,260
+Pisotear leões
+
+1198
+00:40:02,260 --> 00:40:04,260
+E comer umas plantinhas
+
+1199
+00:40:04,260 --> 00:40:06,260
+Agora sinto fome constantemente
+
+1200
+00:40:06,260 --> 00:40:08,260
+Preciso aprender
+
+1201
+00:40:08,260 --> 00:40:10,260
+A caçar
+
+1202
+00:40:10,260 --> 00:40:12,260
+E meu estômago está
+
+1203
+00:40:12,260 --> 00:40:14,260
+Envolvendo
+
+1204
+00:40:14,260 --> 00:40:16,260
+Alimentos
+
+1205
+00:40:16,260 --> 00:40:18,260
+Devolvendo
+
+1206
+00:40:18,260 --> 00:40:20,260
+Para eu mastigar
+
+1207
+00:40:20,260 --> 00:40:22,260
+Com muito mais frequência
+
+1208
+00:40:22,260 --> 00:40:24,260
+O que é feito com as plantas
+
+1209
+00:40:24,260 --> 00:40:26,260
+O médico disse que é gastrite
+
+1210
+00:40:26,260 --> 00:40:28,260
+Seu áudio está baixo
+
+1211
+00:40:28,260 --> 00:40:30,260
+É uma girafa
+
+1212
+00:40:30,260 --> 00:40:32,260
+Zumbi que vai ao médico
+
+1213
+00:40:32,260 --> 00:40:34,260
+Que vai ao médico
+
+1214
+00:40:34,260 --> 00:40:36,260
+Ela consegue
+
+1215
+00:40:36,260 --> 00:40:38,260
+O cérebro não foi totalmente consumido
+
+1216
+00:40:38,260 --> 00:40:40,260
+Ela consegue digitar
+
+1217
+00:40:40,260 --> 00:40:42,260
+Como sem dedos eu não sei
+
+1218
+00:40:42,260 --> 00:40:44,260
+Mas ok
+
+1219
+00:40:44,260 --> 00:40:46,260
+Ah
+
+1220
+00:40:46,260 --> 00:40:48,260
+No guaxa verso 88
+
+1221
+00:40:48,260 --> 00:40:50,260
+O arroba chá com bolinho
+
+1222
+00:40:50,260 --> 00:40:52,260
+Que chá de hortelã
+
+1223
+00:40:52,260 --> 00:40:54,260
+Ajuda a aliviar dores no estômago
+
+1224
+00:40:54,260 --> 00:40:56,260
+Vamos conversar senhor chá
+
+1225
+00:40:56,260 --> 00:40:58,260
+Você sabe se
+
+1226
+00:40:58,260 --> 00:41:00,260
+Regenera
+
+1227
+00:41:00,260 --> 00:41:02,260
+Se regenerar
+
+1228
+00:41:02,260 --> 00:41:04,260
+Ok
+
+1229
+00:41:04,260 --> 00:41:06,260
+Deu match ai
+
+1230
+00:41:06,260 --> 00:41:08,260
+Sim eu me identifiquei
+
+1231
+00:41:08,260 --> 00:41:10,260
+Por e-mail
+
+1232
+00:41:10,260 --> 00:41:12,260
+Quando tirei
+
+1233
+00:41:12,260 --> 00:41:14,260
+Virei padrinho
+
+1234
+00:41:14,260 --> 00:41:16,260
+Mas entendo que os guaxinis
+
+1235
+00:41:16,260 --> 00:41:18,260
+Não são famosos
+
+1236
+00:41:18,260 --> 00:41:20,260
+É uma memória extraordinária
+
+1237
+00:41:20,260 --> 00:41:22,260
+E está tudo bem
+
+1238
+00:41:22,260 --> 00:41:24,260
+É verdade
+
+1239
+00:41:24,260 --> 00:41:26,260
+Ainda não tivemos uma girafa zumbi
+
+1240
+00:41:26,260 --> 00:41:28,260
+No rp guaxa
+
+1241
+00:41:28,260 --> 00:41:30,260
+Mas sim
+
+1242
+00:41:30,260 --> 00:41:32,260
+A inspiração veio do episódio sobre
+
+1243
+00:41:32,260 --> 00:41:34,260
+O chapéu do saci
+
+1244
+00:41:34,260 --> 00:41:36,260
+Guaxa rp guaxa 227
+
+1245
+00:41:36,260 --> 00:41:38,260
+227
+
+1246
+00:41:38,260 --> 00:41:40,260
+Não é 127 desculpa
+
+1247
+00:41:40,260 --> 00:41:42,260
+Rp guaxa 227
+
+1248
+00:41:42,260 --> 00:41:44,260
+Não 127
+
+1249
+00:41:44,260 --> 00:41:46,260
+Meu deus
+
+1250
+00:41:46,260 --> 00:41:48,260
+O 200 não sai da minha cabeça
+
+1251
+00:41:48,260 --> 00:41:50,260
+Rp guaxa 227
+
+1252
+00:41:50,260 --> 00:41:52,260
+Vou te chamar para o 227
+
+1253
+00:41:52,260 --> 00:41:54,260
+Por favor
+
+1254
+00:41:54,260 --> 00:41:56,260
+Eu acho que vou jogar no bicho
+
+1255
+00:41:56,260 --> 00:41:58,260
+Quando tiver ali pelo 210 12
+
+1256
+00:41:58,260 --> 00:42:00,260
+Tu me lembra
+
+1257
+00:42:00,260 --> 00:42:02,260
+Lembro pode deixar eu lembro
+
+1258
+00:42:02,260 --> 00:42:04,260
+Tu me lembra inclusive porque eu vou te chamar para ele
+
+1259
+00:42:04,260 --> 00:42:06,260
+Que eu não vou lembrar
+
+1260
+00:42:06,260 --> 00:42:08,260
+227 fechou
+
+1261
+00:42:08,260 --> 00:42:10,260
+Fechou
+
+1262
+00:42:10,260 --> 00:42:12,260
+Era tudo um plano
+
+1263
+00:42:12,260 --> 00:42:14,260
+Rp guaxa 227
+
+1264
+00:42:14,260 --> 00:42:16,260
+O chapéu do mineiro e os zumbis
+
+1265
+00:42:16,260 --> 00:42:18,260
+Onde o guaxi
+
+1266
+00:42:18,260 --> 00:42:20,260
+Onde o guaxinim comentou
+
+1267
+00:42:20,260 --> 00:42:22,260
+Que queria colocar uma girafa zumbi
+
+1268
+00:42:22,260 --> 00:42:24,260
+Em algum episódio
+
+1269
+00:42:24,260 --> 00:42:26,260
+E eu adorei a ideia
+
+1270
+00:42:26,260 --> 00:42:28,260
+De um personagem zumbi
+
+1271
+00:42:28,260 --> 00:42:30,260
+Numa árvore para fugir
+
+1272
+00:42:30,260 --> 00:42:32,260
+Do zumbi
+
+1273
+00:42:32,260 --> 00:42:34,260
+Tendo mastigado por uma
+
+1274
+00:42:34,260 --> 00:42:36,260
+Uma eu
+
+1275
+00:42:36,260 --> 00:42:38,260
+Aliás alguém poderia
+
+1276
+00:42:38,260 --> 00:42:40,260
+Por gentileza subir aqui rapidinho
+
+1277
+00:42:40,260 --> 00:42:42,260
+Para eu contar um segredo
+
+1278
+00:42:42,260 --> 00:42:44,260
+No ouvido
+
+1279
+00:42:44,260 --> 00:42:46,260
+O Andrei está subindo ai
+
+1280
+00:42:46,260 --> 00:42:48,260
+Próximo comentário é do Jean
+
+1281
+00:42:48,260 --> 00:42:50,260
+Passando só para
+
+1282
+00:42:50,260 --> 00:42:52,260
+Parabenizar o Guaxa, o Zorzal
+
+1283
+00:42:52,260 --> 00:42:54,260
+As vozes do episódio e esse trio de jogadores
+
+1284
+00:42:54,260 --> 00:42:56,260
+Pela interação e interpretação desses personagens
+
+1285
+00:42:56,260 --> 00:42:58,260
+Agradeço a César
+
+1286
+00:42:58,260 --> 00:43:00,260
+A homenagem do Dre Lima
+
+1287
+00:43:00,260 --> 00:43:02,260
+Na introdução do menino Milosmar
+
+1288
+00:43:02,260 --> 00:43:04,260
+Tentou a dupla Jean e Johnny
+
+1289
+00:43:04,260 --> 00:43:06,260
+Ah tá porque Jean era tu Jean
+
+1290
+00:43:06,260 --> 00:43:08,260
+E que depois eu vi saber que era minha pessoa
+
+1291
+00:43:08,260 --> 00:43:10,260
+Que bom
+
+1292
+00:43:10,260 --> 00:43:12,260
+Olha só Jean morreu um da tua dupla
+
+1293
+00:43:12,260 --> 00:43:14,260
+É a tua chance de brilhar
+
+1294
+00:43:14,260 --> 00:43:16,260
+O grupo da taverna em que cantamos
+
+1295
+00:43:16,260 --> 00:43:18,260
+E fazemos essas paródias
+
+1296
+00:43:18,260 --> 00:43:20,260
+A padrinha da taverna vem a participar também
+
+1297
+00:43:20,260 --> 00:43:22,260
+Ouvinte Catinha
+
+1298
+00:43:22,260 --> 00:43:24,260
+Parabéns Zuzu
+
+1299
+00:43:24,260 --> 00:43:26,260
+Pelos gritinhos e pela icônica frase
+
+1300
+00:43:26,260 --> 00:43:28,260
+Que pra mim já é uma das melhores
+
+1301
+00:43:28,260 --> 00:43:30,260
+Do R.P. Guaxa
+
+1302
+00:43:30,260 --> 00:43:32,260
+Eu não sei lutar
+
+1303
+00:43:32,260 --> 00:43:34,260
+Eu só sou bonita
+
+1304
+00:43:34,260 --> 00:43:36,260
+Perfeito
+
+1305
+00:43:36,260 --> 00:43:38,260
+E parabenizar a Sarinha
+
+1306
+00:43:38,260 --> 00:43:40,260
+Que nos mostrou que para combater uma horda
+
+1307
+00:43:40,260 --> 00:43:42,260
+É preciso deter gente
+
+1308
+00:43:42,260 --> 00:43:44,260
+Difícil defender
+
+1309
+00:43:44,260 --> 00:43:46,260
+Se o processo tivesse deixado o plano higiênico
+
+1310
+00:43:46,260 --> 00:43:48,260
+Dela acontecer
+
+1311
+00:43:48,260 --> 00:43:50,260
+Orgulho da OMS
+
+1312
+00:43:50,260 --> 00:43:52,260
+Um abraço a todos
+
+1313
+00:43:52,260 --> 00:43:54,260
+E cuidado com a bebida vermelha brilhante
+
+1314
+00:43:54,260 --> 00:43:56,260
+Nem tudo é ponche
+
+1315
+00:43:56,260 --> 00:43:58,260
+Obrigado Jean obrigado pelo seu comentário
+
+1316
+00:43:58,260 --> 00:44:00,260
+Quero agradecer as pessoas que assim como a Zuzu
+
+1317
+00:44:00,260 --> 00:44:02,260
+E o Jean são padrinhos desse projeto
+
+1318
+00:44:02,260 --> 00:44:04,260
+As pessoas que apadrinharam recentemente
+
+1319
+00:44:04,260 --> 00:44:06,260
+Ou só reassinaram porque tinham dado algum problema
+
+1320
+00:44:06,260 --> 00:44:08,260
+Se você é nosso padrinho lembra sempre de checar
+
+1321
+00:44:08,260 --> 00:44:10,260
+Se tá caindo direitinho
+
+1322
+00:44:10,260 --> 00:44:12,260
+Algumas pessoas até pediram pra eu verificar
+
+1323
+00:44:12,260 --> 00:44:14,260
+E eu disse que ia verificar e não verifiquei ainda
+
+1324
+00:44:14,260 --> 00:44:16,260
+Mas você também pode ir lá verificar se tá tudo certo
+
+1325
+00:44:16,260 --> 00:44:18,260
+E quero agradecer ao
+
+1326
+00:44:18,260 --> 00:44:20,260
+Jadson Divino dos Santos
+
+1327
+00:44:20,260 --> 00:44:22,260
+Ao Aledson Corrêa Carvalho
+
+1328
+00:44:22,260 --> 00:44:24,260
+Ao Tiago Kessley
+
+1329
+00:44:24,260 --> 00:44:26,260
+Ao Odeir Santos ao Pedro Silva
+
+1330
+00:44:26,260 --> 00:44:28,260
+Ao Rodrigo Poças Santos
+
+1331
+00:44:28,260 --> 00:44:30,260
+Ao Andrei Andrade Lima
+
+1332
+00:44:30,260 --> 00:44:32,260
+Obrigado Andrei
+
+1333
+00:44:32,260 --> 00:44:34,260
+Ao Paulo Bento Rabelo
+
+1334
+00:44:34,260 --> 00:44:36,260
+E a Thais Juca
+
+1335
+00:44:36,260 --> 00:44:38,260
+Zuzu qual o seu atributo favorito
+
+1336
+00:44:38,260 --> 00:44:40,260
+Meu atributo favorito é 4
+
+1337
+00:44:40,260 --> 00:44:42,260
+Essa foi a primeira vez que você jogou RPG Guaxa
+
+1338
+00:44:42,260 --> 00:44:44,260
+Foi não
+
+1339
+00:44:44,260 --> 00:44:46,260
+Foi foi foi
+
+1340
+00:44:46,260 --> 00:44:48,260
+Em episódio foi né
+
+1341
+00:44:48,260 --> 00:44:50,260
+Por enquanto é esse
+
+1342
+00:44:50,260 --> 00:44:52,260
+Um dia a gente descobre se vai ter outros episódios
+
+1343
+00:44:52,260 --> 00:44:54,260
+Pelo menos o 227 tá marcado
+
+1344
+00:44:54,260 --> 00:44:56,260
+Talvez aconteça algo entre o caminho
+
+1345
+00:44:56,260 --> 00:44:58,260
+Tu já fez alguns NPCs
+
+1346
+00:44:58,260 --> 00:45:00,260
+Mais de um
+
+1347
+00:45:00,260 --> 00:45:02,260
+Não eu só fiz a Lidia
+
+1348
+00:45:02,260 --> 00:45:04,260
+Já começou bem pra caramba
+
+1349
+00:45:04,260 --> 00:45:06,260
+E por ter mandado bem na Lidia
+
+1350
+00:45:06,260 --> 00:45:08,260
+Que você foi da lista das pessoas a chamarem um dia
+
+1351
+00:45:08,260 --> 00:45:10,260
+Foi naquele
+
+1352
+00:45:10,260 --> 00:45:12,260
+Tanto tu e a Sarah
+
+1353
+00:45:12,260 --> 00:45:14,260
+A Jumózinha
+
+1354
+00:45:14,260 --> 00:45:16,260
+Ficar dizendo
+
+1355
+00:45:16,260 --> 00:45:18,260
+Elas tem uma voz bacana elas são legais
+
+1356
+00:45:18,260 --> 00:45:20,260
+Chama elas pra jogar
+
+1357
+00:45:20,260 --> 00:45:22,260
+Aí eu disse beleza vamos tentar dar um NPC difícil pra elas
+
+1358
+00:45:22,260 --> 00:45:24,260
+E ver como é que isso sai
+
+1359
+00:45:24,260 --> 00:45:26,260
+Então muito obrigado foi um NPC incrível
+
+1360
+00:45:26,260 --> 00:45:28,260
+Nossa foi bem
+
+1361
+00:45:28,260 --> 00:45:30,260
+Bem emocionante gravar aquele NPC sabe
+
+1362
+00:45:30,260 --> 00:45:32,260
+Porque eu não sabia que tava acontecendo
+
+1363
+00:45:32,260 --> 00:45:34,260
+Só queria meu franguinho cara
+
+1364
+00:45:34,260 --> 00:45:36,260
+É verdade
+
+1365
+00:45:36,260 --> 00:45:38,260
+Estamos devendo o episódio 227 e frango pra Zuzu
+
+1366
+00:45:38,260 --> 00:45:40,260
+Vamos providenciar
+
+1367
+00:45:40,260 --> 00:45:42,260
+Os personagens jogadores dos outros assim
+
+1368
+00:45:42,260 --> 00:45:44,260
+Que tu já ouviu nesses 144 episódios
+
+1369
+00:45:44,260 --> 00:45:46,260
+Qual foi um personagem
+
+1370
+00:45:46,260 --> 00:45:48,260
+Que tu gostou bastante
+
+1371
+00:45:48,260 --> 00:45:50,260
+Personagem ou NPC?
+
+1372
+00:45:50,260 --> 00:45:52,260
+Personagem primeiro depois NPC
+
+1373
+00:45:52,260 --> 00:45:54,260
+Cara eu gosto muito dos episódios da gata
+
+1374
+00:45:54,260 --> 00:45:56,260
+É tipo um dos meus favoritos
+
+1375
+00:45:56,260 --> 00:45:58,260
+Eu não sei se é porque é o primeiro que eu ouvi
+
+1376
+00:45:58,260 --> 00:46:00,260
+Mas é tipo eu gosto muito
+
+1377
+00:46:00,260 --> 00:46:02,260
+Agora eu não lembro qual era a pessoa que fazia
+
+1378
+00:46:02,260 --> 00:46:04,260
+Mas a Branca de Neve nossa a Branca de Neve me conquista muito
+
+1379
+00:46:04,260 --> 00:46:06,260
+Perfeito
+
+1380
+00:46:06,260 --> 00:46:08,260
+E NPC favorito?
+
+1381
+00:46:08,260 --> 00:46:10,260
+É a Layla do Cuco
+
+1382
+00:46:10,260 --> 00:46:12,260
+Exatamente
+
+1383
+00:46:12,260 --> 00:46:14,260
+Quando eu descobri que foi ela então amei mais ainda
+
+1384
+00:46:14,260 --> 00:46:16,260
+Vamos lá tu já jogou com a Sara
+
+1385
+00:46:16,260 --> 00:46:18,260
+E com o Andrei
+
+1386
+00:46:18,260 --> 00:46:20,260
+Tirando esses dois e só valendo pessoas que já jogaram
+
+1387
+00:46:20,260 --> 00:46:22,260
+RPG Guaxa
+
+1388
+00:46:22,260 --> 00:46:24,260
+Com quem tu gostaria de jogar um episódio?
+
+1389
+00:46:24,260 --> 00:46:26,260
+Com a Rafa maravilhosa
+
+1390
+00:46:26,260 --> 00:46:28,260
+Maravilhosa
+
+1391
+00:46:28,260 --> 00:46:30,260
+E a Ana
+
+1392
+00:46:30,260 --> 00:46:32,260
+Três meninas seria uma aventura sobre o que?
+
+1393
+00:46:32,260 --> 00:46:34,260
+Que
+
+1394
+00:46:34,260 --> 00:46:36,260
+Tinha que ser na fazenda
+
+1395
+00:46:36,260 --> 00:46:38,260
+Aí o enredo
+
+1396
+00:46:38,260 --> 00:46:40,260
+Não sei mas tinha que ser na fazenda
+
+1397
+00:46:40,260 --> 00:46:42,260
+Vocês três na fazenda
+
+1398
+00:46:42,260 --> 00:46:44,260
+A fazenda um lugar com cavalinhos
+
+1399
+00:46:44,260 --> 00:46:46,260
+Ou o programa da Recon?
+
+1400
+00:46:46,260 --> 00:46:48,260
+Não um lugar com cavalinhos e muitas vaquinhas
+
+1401
+00:46:48,260 --> 00:46:50,260
+Beleza
+
+1402
+00:46:50,260 --> 00:46:52,260
+Eu imaginei mas é sempre bom perguntar
+
+1403
+00:46:52,260 --> 00:46:54,260
+Muito obrigado
+
+1404
+00:46:54,260 --> 00:46:56,260
+Como é que as pessoas te acham nas redes sociais?
+
+1405
+00:46:56,260 --> 00:46:58,260
+Me acha
+
+1406
+00:46:58,260 --> 00:47:00,260
+Tenho dois instagrams
+
+1407
+00:47:00,260 --> 00:47:02,260
+Tenho o instagram do meu cachorro
+
+1408
+00:47:02,260 --> 00:47:04,260
+Que é arroba do Zuccheran
+
+1409
+00:47:04,260 --> 00:47:06,260
+E eu tenho o meu instagram pessoal que é
+
+1410
+00:47:06,260 --> 00:47:08,260
+TeZuccheran
+
+1411
+00:47:08,260 --> 00:47:10,260
+É isso por hoje
+
+1412
+00:47:10,260 --> 00:47:12,260
+Obrigado aos velhos padrinhos
+
+1413
+00:47:12,260 --> 00:47:14,260
+Obrigado a quem queria apoiar e não pode
+
+1414
+00:47:14,260 --> 00:47:16,260
+Obrigado a vocês que estão ouvindo isso ao vivo
+
+1415
+00:47:16,260 --> 00:47:18,260
+Obrigado a você que está ouvindo e se é editado
+
+1416
+00:47:18,260 --> 00:47:20,260
+Um beijo no coração de todos vocês
+
+1417
+00:47:20,260 --> 00:47:22,260
+Sabem que o SP Guaxa só existe
+
+1418
+00:47:22,260 --> 00:47:24,260
+Tem pessoas maravilhosas como vocês que apoiam este projeto
+
+1419
+00:47:24,260 --> 00:47:26,260
+Que estão aqui me incentivando
+
+1420
+00:47:26,260 --> 00:47:28,260
+Que estão comentando
+
+1421
+00:47:28,260 --> 00:47:30,260
+Que estão ouvindo o Guaxa Verso
+
+1422
+00:47:30,260 --> 00:47:32,260
+da mesma forma
+
+1423
+00:47:32,260 --> 00:47:34,260
+É bem, o Guaxa Verso
+
+1424
+00:47:34,260 --> 00:47:36,260
+Zuzu o Guaxa Verso existe?
+
+1425
+00:47:36,260 --> 00:47:36,900
+Vai gravar de novo.
+
+1426
+00:48:06,260 --> 00:48:08,020
+Mas a minha vida
+
+1427
+00:48:08,020 --> 00:48:10,140
+Cheia de frutão
+
+1428
+00:48:10,140 --> 00:48:35,020
+Sarah, o Nakamura tem algum motivo específico?
+
+1429
+00:48:35,020 --> 00:48:35,580
+Não, nenhum.
+
+1430
+00:48:36,260 --> 00:48:37,720
+Conhece uma menina chamada Nanaka?
+
+1431
+00:48:38,680 --> 00:48:39,720
+Não, também não.
+
+1432
+00:48:40,380 --> 00:48:42,240
+Ela já gravou o RPG, eu acho.
+
+1433
+00:48:42,320 --> 00:48:43,440
+É a Natália Nakamura.
+
+1434
+00:48:43,640 --> 00:48:47,140
+É isso que eu ia falar. Eu já tinha escutado esse nome, Nanaka, em algum lugar.
+
+1435
+00:48:47,460 --> 00:48:48,580
+Pior que realmente não foi, não.
+
+1436
+00:48:48,700 --> 00:48:49,860
+Quer que eu troque o sobrenome?
+
+1437
+00:48:50,280 --> 00:48:52,900
+Não, não quero, não. Só queria saber se foi com esse texto.
+
+1438
+00:48:52,940 --> 00:48:53,300
+Ah, não.
+
+1439
+00:48:53,920 --> 00:48:56,200
+Eu tinha pensado no sobrenome. Vai ser Silva.
+
+1440
+00:48:57,020 --> 00:48:58,040
+Só mais um Silva.
+
+1441
+00:48:59,740 --> 00:49:00,140
+Perfeito.
+
+1442
+00:49:00,280 --> 00:49:02,140
+Essa banda foi fundada no Brasil.
+
+1443
+00:49:02,140 --> 00:49:04,140
+Foi fundada...
+
+1444
+00:49:04,800 --> 00:49:06,240
+Eles não se conheciam,
+
+1445
+00:49:06,260 --> 00:49:07,340
+não se conheciam previamente, né?
+
+1446
+00:49:07,880 --> 00:49:10,160
+Os produtores que uniram esses três
+
+1447
+00:49:10,160 --> 00:49:11,980
+e deram o nome pra banda.
+
+1448
+00:49:12,060 --> 00:49:13,620
+Vocês pensaram no nome pra banda, ou não?
+
+1449
+00:49:14,120 --> 00:49:16,140
+Não, no momento, realmente não.
+
+1450
+00:49:16,380 --> 00:49:18,040
+A gente pode criar o nome aqui agora.
+
+1451
+00:49:18,920 --> 00:49:20,180
+Eu tava jogando
+
+1452
+00:49:20,180 --> 00:49:20,940
+no GPT.
+
+1453
+00:49:21,400 --> 00:49:24,440
+Eu joguei no GPT, ele me sugeriu Harmonia da Luz,
+
+1454
+00:49:24,520 --> 00:49:25,020
+acho ruim.
+
+1455
+00:49:25,720 --> 00:49:27,340
+Eco das Estrelas, é legal.
+
+1456
+00:49:28,260 --> 00:49:30,300
+Trinado Mágico, mais ou menos.
+
+1457
+00:49:32,840 --> 00:49:34,300
+Gente, enquanto a gente tá vendo
+
+1458
+00:49:34,300 --> 00:49:36,160
+a música, só deixa eu avisar que
+
+1459
+00:49:36,160 --> 00:49:38,260
+o pessoal, rapidinho, que eu comecei a gravar.
+
+1460
+00:49:38,440 --> 00:49:40,240
+Minha mãe pediu pra eu avisar, só pra ela não fazer
+
+1461
+00:49:40,240 --> 00:49:40,720
+muito barulho.
+
+1462
+00:49:42,220 --> 00:49:42,720
+Ah, tá.
+
+1463
+00:49:43,260 --> 00:49:45,840
+Trio Encantado, Sintonia Celeste,
+
+1464
+00:49:45,960 --> 00:49:48,200
+Melodia e Serena, Serenata Brilhante,
+
+1465
+00:49:49,000 --> 00:49:50,920
+Canção dos Sonhos, Acorde Mágico.
+
+1466
+00:49:51,720 --> 00:49:52,400
+Todos horríveis,
+
+1467
+00:49:52,480 --> 00:49:53,120
+acho que todos servem.
+
+1468
+00:49:55,120 --> 00:49:56,160
+Eu também gostei
+
+1469
+00:49:56,160 --> 00:49:57,560
+do Eco das Estrelas.
+
+1470
+00:49:57,880 --> 00:49:59,660
+Eco das Estrelas, ok.
+
+1471
+00:49:59,660 --> 00:50:01,640
+Eu coloquei Banda Anos 2000,
+
+1472
+00:50:01,820 --> 00:50:03,240
+apareceu Rouge e Brosa.
+
+1473
+00:50:03,320 --> 00:50:04,360
+Falei, não, que não existe.
+
+1474
+00:50:04,720 --> 00:50:05,980
+Então, errado não pra ela.
+
+1475
+00:50:06,160 --> 00:50:06,860
+Mas existem mais.
+
+1476
+00:50:10,560 --> 00:50:11,100
+Todos aí?
+
+1477
+00:50:11,120 --> 00:50:12,940
+Só, deixa eu botar aqui o microfone aqui,
+
+1478
+00:50:13,240 --> 00:50:14,200
+no peito de mim.
+
+1479
+00:50:14,940 --> 00:50:16,340
+Tu é microfone tipo do Silvio Santos?
+
+1480
+00:50:16,740 --> 00:50:17,920
+É, exatamente.
+
+1481
+00:50:20,440 --> 00:50:20,840
+Obrigado.
+
+1482
+00:50:21,000 --> 00:50:22,940
+Essa é a imagem mental que eu botei agora.
+
+1483
+00:50:23,500 --> 00:50:25,960
+O Eco das Estrelas é isso então, fechou?
+
+1484
+00:50:26,180 --> 00:50:26,500
+Fechou.
+
+1485
+00:50:26,560 --> 00:50:28,500
+Isso daí ficou show, isso daí ficou muito bom.
+
+1486
+00:50:28,980 --> 00:50:29,720
+Ô Guaxa.
+
+1487
+00:50:29,740 --> 00:50:30,280
+Não, só um pouquinho.
+
+1488
+00:50:30,460 --> 00:50:32,660
+Não, não, é só avisar que caiu o Craig, tá?
+
+1489
+00:50:33,080 --> 00:50:34,240
+Ah, a gente não viu isso.
+
+1490
+00:50:34,340 --> 00:50:34,900
+Quando que caiu?
+
+1491
+00:50:35,040 --> 00:50:35,960
+Eu acho que caiu...
+
+1492
+00:50:36,160 --> 00:50:38,580
+A hora que eu falhei.
+
+1493
+00:50:39,100 --> 00:50:40,080
+Foi decepção, então.
+
+1494
+00:50:41,520 --> 00:50:41,880
+Exatamente.
+
+1495
+00:50:42,180 --> 00:50:42,660
+Foi decepção.
+
+1496
+00:50:43,200 --> 00:50:45,320
+Ô André, você tá respirando muito no microfone.
+
+1497
+00:50:45,720 --> 00:50:45,920
+Eu?
+
+1498
+00:50:46,160 --> 00:50:46,680
+Sou eu?
+
+1499
+00:50:46,800 --> 00:50:47,360
+Desculpa, gente.
+
+1500
+00:50:47,580 --> 00:50:49,080
+Eu vou baixar mais um pouco ele aqui.
+
+1501
+00:50:49,340 --> 00:50:50,580
+Seu episódio não segue, perdoa, André.
+
+1502
+00:50:52,460 --> 00:50:53,320
+Foi mal.
+
+1503
+00:50:54,540 --> 00:50:57,460
+A gente podia largar ele no meio do caminho e matar ele logo.
+
+1504
+00:50:57,700 --> 00:50:59,340
+Deixa ele morrer, deixa ele morrer.
+
+1505
+00:50:59,340 --> 00:51:00,940
+E essa é a Thay.
+
+1506
+00:51:02,240 --> 00:51:05,340
+Pessoal, agora, Johnny, eu quero primeiro...
+
+1507
+00:51:06,160 --> 00:51:07,600
+Aline, tá escorrendo.
+
+1508
+00:51:08,800 --> 00:51:10,000
+Tu viu que teu amigo caiu?
+
+1509
+00:51:10,300 --> 00:51:11,860
+A luz tá ali, tu tá salva.
+
+1510
+00:51:12,340 --> 00:51:13,340
+Tu vai voltar ou tu vai seguir?
+
+1511
+00:51:13,980 --> 00:51:16,620
+O Craig não morreu de vez, assim, a gente tá ferrado.
+
+1512
+00:51:17,560 --> 00:51:19,460
+O aplicativo não respondeu.
+
+1513
+00:51:19,520 --> 00:51:19,880
+Nossa.
+
+1514
+00:51:20,220 --> 00:51:21,540
+E agora, pessoal?
+
+1515
+00:51:22,880 --> 00:51:23,700
+Que merda.
+
+1516
+00:51:25,520 --> 00:51:26,360
+Eita, nós.
+
+1517
+00:51:26,680 --> 00:51:27,220
+Dupla, né?
+
+1518
+00:51:29,180 --> 00:51:30,040
+Opa, voltou.
+
+1519
+00:51:30,440 --> 00:51:32,600
+Agora a reserva foi, vamos ver se ele funciona.
+
+1520
+00:51:32,960 --> 00:51:33,740
+Uma merda.
+
+1521
+00:51:33,960 --> 00:51:36,000
+Porque aí, na pior das hipóteses, a gente se divertiu e eu aprendo a...
+
+1522
+00:51:36,000 --> 00:51:36,100
+Eu aprendo a...
+
+1523
+00:51:36,100 --> 00:51:36,120
+Eu aprendo a...
+
+1524
+00:51:36,120 --> 00:51:36,140
+Eu aprendo a...
+
+1525
+00:51:36,160 --> 00:51:37,540
+Eu aprendo a planejar as coisas com mais tempo.
+
+1526
+00:51:38,120 --> 00:51:38,740
+Vamos seguir.
+
+1527
+00:51:41,700 --> 00:51:42,660
+Você não sabe falar?
+
+1528
+00:51:42,700 --> 00:51:43,620
+Ele fala...
+
+1529
+00:51:43,620 --> 00:51:46,160
+Ele fala alguma coisa no idioma dele, vocês não entendem.
+
+1530
+00:51:46,900 --> 00:51:47,940
+Te vira, Zorzal.
+
+1531
+00:51:47,980 --> 00:51:48,660
+Eu tentei te salvar.
+
+1532
+00:51:56,060 --> 00:51:59,040
+Tentei entender alguma coisa que ele falou, não entendi nada.
+
+1533
+00:51:59,060 --> 00:52:01,740
+Pode ser, inclusive, um pipipi-pupu-pó, que eu acho que é clássico.
+
+1534
+00:52:03,340 --> 00:52:03,780
+Exatamente.
+
+1535
+00:52:04,920 --> 00:52:05,600
+Eu falo...
+
+1536
+00:52:05,600 --> 00:52:06,120
+Eu entendi.
+
+1537
+00:52:06,120 --> 00:52:10,380
+Eu entendi só pipipi-pupu-pó e pipipipi-pupu-pupu-pupu-pó.
+
+1538
+00:52:10,380 --> 00:52:12,000
+Mas eu não sei o que significa isso.
+
+1539
+00:52:12,000 --> 00:52:13,240
+Eu acho que ele quer...
+
+1540
+00:52:13,240 --> 00:52:14,440
+Três e três.
+
+1541
+00:52:14,740 --> 00:52:15,340
+Não ouvi, Johnny.
+
+1542
+00:52:15,680 --> 00:52:15,980
+Alô?
+
+1543
+00:52:16,140 --> 00:52:16,620
+Guaxa?
+
+1544
+00:52:17,220 --> 00:52:17,600
+Agora.
+
+1545
+00:52:18,900 --> 00:52:19,380
+Guaxa?
+
+1546
+00:52:19,420 --> 00:52:19,860
+Vocês estão me ouvindo?
+
+1547
+00:52:19,880 --> 00:52:20,480
+Agora estão.
+
+1548
+00:52:20,520 --> 00:52:21,120
+Agora sim.
+
+1549
+00:52:21,640 --> 00:52:22,580
+Alô, estão me ouvindo?
+
+1550
+00:52:23,140 --> 00:52:24,220
+E se é um não, estão me ouvindo?
+
+1551
+00:52:24,680 --> 00:52:25,660
+Agora não estamos mais.
+
+1552
+00:52:25,860 --> 00:52:25,980
+Guaxa?
+
+1553
+00:52:27,160 --> 00:52:28,620
+O Guaxa foi pego também.
+
+1554
+00:52:28,980 --> 00:52:30,480
+Não, não estou me ouvindo.
+
+1555
+00:52:30,600 --> 00:52:31,380
+Alô, alô, alô.
+
+1556
+00:52:31,640 --> 00:52:32,900
+Aê, voltou.
+
+1557
+00:52:33,120 --> 00:52:33,700
+Foi, ouviram?
+
+1558
+00:52:33,840 --> 00:52:35,060
+Agora a gente está te ouvindo.
+
+1559
+00:52:35,060 --> 00:52:35,920
+Agora pronto.
+
+1560
+00:52:35,920 --> 00:52:36,820
+Alô, estão me ouvindo?
+
+1561
+00:52:37,360 --> 00:52:39,540
+Toda vez que a gente fala que está ouvindo, ele para.
+
+1562
+00:52:40,640 --> 00:52:42,060
+Gente, eu posso voltar a respirar?
+
+1563
+00:52:42,140 --> 00:52:43,040
+Porque eu não estou nem respirando.
+
+1564
+00:52:43,100 --> 00:52:44,160
+Estou nem respirando no microfone direito.
+
+1565
+00:52:45,440 --> 00:52:45,840
+Respira.
+
+1566
+00:52:47,120 --> 00:52:48,100
+Tá, vamos lá.
+
+1567
+00:52:48,820 --> 00:52:50,040
+O que vocês ouviram por último?
+
+1568
+00:52:50,420 --> 00:52:54,980
+Eu perguntando qual o dado do Johnny.
+
+1569
+00:52:55,100 --> 00:52:56,040
+Foi o último que a gente ouviu.
+
+1570
+00:52:56,860 --> 00:52:57,320
+Então vamos lá.
+
+1571
+00:52:57,580 --> 00:52:58,640
+Johnny, quanto é que tu tirou?
+
+1572
+00:52:58,940 --> 00:53:00,300
+Eu tirei três e três.
+
+1573
+00:53:01,120 --> 00:53:02,280
+E ele parou de novo.
+
+1574
+00:53:02,280 --> 00:53:04,980
+A gente vai morrer.
+
+1575
+00:53:05,920 --> 00:53:09,680
+Johnny, você tem que falar.
+
+1576
+00:53:09,780 --> 00:53:10,880
+Meu nome não é Juju.
+
+1577
+00:53:11,280 --> 00:53:12,360
+Meu nome é Mirosma.
+
+1578
+00:53:16,760 --> 00:53:17,600
+Beleza, Guaxa.
+
+1579
+00:53:20,060 --> 00:53:21,840
+Gente, está tendo festa lá de casa.
+
+1580
+00:53:22,020 --> 00:53:23,520
+Não está vazando o som da festa?
+
+1581
+00:53:23,740 --> 00:53:24,020
+Não.
+
+1582
+00:53:24,760 --> 00:53:26,780
+Aqui teve fogos.
+
+1583
+00:53:26,980 --> 00:53:28,280
+Eu acho que está tendo jogo.
+
+1584
+00:53:29,160 --> 00:53:30,400
+Jogo do Flamengo, eu acho.
+
+1585
+00:53:30,440 --> 00:53:31,820
+Mas eu acho que não vazou, não.
+
+1586
+00:53:33,760 --> 00:53:34,480
+Flamengo, Guaxa.
+
+1587
+00:53:34,480 --> 00:53:34,760
+Falhou?
+
+1588
+00:53:35,160 --> 00:53:35,900
+Estão me ouvindo bem agora?
+
+1589
+00:53:35,920 --> 00:53:36,580
+Agora sim.
+
+1590
+00:53:36,900 --> 00:53:37,660
+Agora sim.
+
+1591
+00:53:38,000 --> 00:53:38,720
+Começou a chover.
+
+1592
+00:53:38,820 --> 00:53:40,620
+Eu acho que a internet deu uma variada.
+
+1593
+00:53:40,740 --> 00:53:41,240
+Vamos lá.
+

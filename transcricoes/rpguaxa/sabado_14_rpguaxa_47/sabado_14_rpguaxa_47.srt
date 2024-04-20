@@ -1,0 +1,10280 @@
+1
+00:00:00,000 --> 00:00:23,040
+Quando conseguimos fazer algo bom, como rolar um crítico numa partida de RPG, ou encontramos
+
+2
+00:00:23,040 --> 00:00:26,880
+dinheiro no bolso daquela calça que a gente não usava mais, o nosso cérebro libera um
+
+3
+00:00:26,880 --> 00:00:28,240
+neurotransmissor chamado dopamina.
+
+4
+00:00:28,240 --> 00:00:32,280
+Essa dopamina nos dá prazer, e o nosso cérebro diz que ele quer mais.
+
+5
+00:00:32,600 --> 00:00:37,060
+Os jogos eletrônicos costumam nos dar pequenas vitórias, para sempre recebemos nossa dose
+
+6
+00:00:37,060 --> 00:00:41,900
+de dopamina, que faz a gente querer cada vez mais, e acaba nos prendendo a esses jogos.
+
+7
+00:00:42,320 --> 00:00:45,460
+Será que existem outras formas de fazer com que o jogador se prenda aos jogos?
+
+8
+00:00:46,080 --> 00:00:48,400
+Episódio de hoje, sábado 14.
+
+9
+00:00:48,820 --> 00:00:54,200
+Com os padrinhos Felipe Xavier no papel de Fred, o nerd, Gabriel Pinheiro no papel de
+
+10
+00:00:54,200 --> 00:00:58,000
+Paul, o atleta, e a Sinara como a Luiz, a futura youtuber.
+
+11
+00:00:58,240 --> 00:01:02,140
+Com realidades paralelas ao guaxinim, um sistema chamado guaxinins e gambiarras.
+
+12
+00:01:02,520 --> 00:01:04,920
+Uma variação do sistema leis e sentimentos.
+
+13
+00:01:05,100 --> 00:01:09,280
+Nele, cada jogador possui apenas um único atributo, que vai de 2 a 5.
+
+14
+00:01:09,640 --> 00:01:12,040
+Quanto maior o atributo, mais atlético é o personagem.
+
+15
+00:01:12,420 --> 00:01:15,100
+Quanto menor, mais inteligente e carismático ele é.
+
+16
+00:01:15,380 --> 00:01:19,020
+Sempre que o jogador tenta fazer algo, ele joga dois dados, e precisa tirar seu atributo
+
+17
+00:01:19,020 --> 00:01:22,260
+ou menos, para ações físicas e ataques.
+
+18
+00:01:22,600 --> 00:01:26,600
+E seu atributo ou mais, para ações intelectuais ou sociais.
+
+19
+00:01:26,600 --> 00:01:28,020
+Se a jogada for fácil.
+
+20
+00:01:28,240 --> 00:01:30,600
+Se tiver algum auxílio, joga um dado a mais.
+
+21
+00:01:30,960 --> 00:01:33,320
+Se a jogada for difícil, rola-se um dado a menos.
+
+22
+00:01:33,700 --> 00:01:35,180
+Não esqueça de nos seguir nas redes sociais,
+
+23
+00:01:35,300 --> 00:01:37,920
+arroba marceloguaxinim e arroba rpguaxa.
+
+24
+00:01:38,300 --> 00:01:40,520
+Considere também ser um apoiador deste projeto,
+
+25
+00:01:40,880 --> 00:01:42,540
+lá no PicPay, procura por rpguaxa,
+
+26
+00:01:42,780 --> 00:01:46,340
+ou no Padrim, para receber uma série de vantagens.
+
+27
+00:01:46,920 --> 00:01:49,600
+Maiores informações no Escudo Mestre, ao final deste episódio.
+
+28
+00:01:49,960 --> 00:01:50,440
+Boa aventura.
+
+29
+00:01:58,240 --> 00:02:04,240
+Abertura
+
+30
+00:02:08,240 --> 00:02:10,240
+Aí, vocês estão na caverna.
+
+31
+00:02:10,240 --> 00:02:12,240
+Rola os dados.
+
+32
+00:02:12,240 --> 00:02:14,240
+Bola de fogo!
+
+33
+00:02:14,240 --> 00:02:18,240
+Chama o clérigo.
+
+34
+00:02:18,240 --> 00:02:20,240
+Ah, quase morri.
+
+35
+00:02:20,240 --> 00:02:22,240
+Rola a iniciativa.
+
+36
+00:02:22,240 --> 00:02:24,240
+Então.
+
+37
+00:02:24,240 --> 00:02:26,240
+Não tem armadilha. Podemos ir.
+
+38
+00:02:26,240 --> 00:02:28,240
+O que vocês fazem?
+
+39
+00:02:28,240 --> 00:02:29,240
+O que?
+
+40
+00:02:29,240 --> 00:02:33,240
+Tá, tá. Eu amarro uma corda nelas e uso como arma.
+
+41
+00:02:33,240 --> 00:02:35,240
+Eu ataco.
+
+42
+00:02:35,240 --> 00:02:39,240
+O Magro lança seu Thunderbolt mais 15 no Upholder.
+
+43
+00:02:39,240 --> 00:02:42,240
+Eu quero rolar a percepção, posso?
+
+44
+00:02:42,240 --> 00:02:44,240
+Tem algum lugar para se esconder?
+
+45
+00:02:44,240 --> 00:02:47,240
+Ah, falha a crítica.
+
+46
+00:02:47,240 --> 00:02:48,240
+Ataque de impunidade!
+
+47
+00:02:48,240 --> 00:02:51,240
+Ei, arrumando! Chama o clérigo!
+
+48
+00:02:53,240 --> 00:02:57,240
+RPG, Realidades Paralelas do Guaxinim.
+
+49
+00:02:57,240 --> 00:03:00,240
+Sua aventura de bolso na forma de podcast.
+
+50
+00:03:00,240 --> 00:03:03,240
+Uma jornada completa a cada episódio.
+
+51
+00:03:15,240 --> 00:03:22,240
+No futuro próximo, uma grande empresa de informática voltada a jogos periféricos.
+
+52
+00:03:22,240 --> 00:03:25,240
+A empresa, então, está precisando de gente para testar o novo produto.
+
+53
+00:03:25,240 --> 00:03:28,240
+Para isso, ela está pagando muito bem.
+
+54
+00:03:28,240 --> 00:03:31,240
+Em troca, que assinem um contrato de confidencialidade.
+
+55
+00:03:31,240 --> 00:03:35,240
+Onde vocês não vão revelar nada sobre o produto que vocês vão estar testando.
+
+56
+00:03:35,240 --> 00:03:41,240
+Os jogadores são jovens que foram chamados e selecionados após uma longa triagem
+
+57
+00:03:41,240 --> 00:03:44,240
+para finalmente conhecer este incrível produto.
+
+58
+00:03:44,240 --> 00:03:47,240
+Os jogadores são essas pessoas.
+
+59
+00:03:47,240 --> 00:03:51,240
+Felipe, fale sobre o seu personagem, o nome dele, porque ele está aqui.
+
+60
+00:03:51,240 --> 00:03:54,240
+Eu sou o Fred.
+
+61
+00:03:54,240 --> 00:03:58,240
+Eu sou um rapaz nerd, padrão.
+
+62
+00:03:58,240 --> 00:04:00,240
+Eu tenho um óculos.
+
+63
+00:04:00,240 --> 00:04:03,240
+Eu tenho uma roupa bem geek.
+
+64
+00:04:03,240 --> 00:04:05,240
+Eu estudo bastante.
+
+65
+00:04:05,240 --> 00:04:11,240
+E eu fiquei sabendo que ia ter esse teste desse produto.
+
+66
+00:04:11,240 --> 00:04:16,240
+E prontamente eu me inscrevi, como eu fiz várias outras vezes em outras empresas.
+
+67
+00:04:16,240 --> 00:04:20,240
+E eu estou ansiosíssimo para poder ver o que essa empresa está para me mostrar.
+
+68
+00:04:20,240 --> 00:04:22,240
+E meu atributo é 2.
+
+69
+00:04:22,240 --> 00:04:23,240
+Perfeito.
+
+70
+00:04:23,240 --> 00:04:25,240
+O teu personagem, ele tem família?
+
+71
+00:04:25,240 --> 00:04:26,240
+Ele é casado?
+
+72
+00:04:26,240 --> 00:04:27,240
+Alguma coisa ou não?
+
+73
+00:04:27,240 --> 00:04:28,240
+Não.
+
+74
+00:04:28,240 --> 00:04:30,240
+Eu sou um estudante.
+
+75
+00:04:30,240 --> 00:04:32,240
+Eu estou fazendo faculdade.
+
+76
+00:04:32,240 --> 00:04:33,240
+Sou solteiro.
+
+77
+00:04:33,240 --> 00:04:37,240
+E como todo bom nerd, eu me concentro bastante nos meus estudos.
+
+78
+00:04:37,240 --> 00:04:39,240
+Perfeito.
+
+79
+00:04:39,240 --> 00:04:40,240
+Ah, Sinara.
+
+80
+00:04:40,240 --> 00:04:42,240
+Ah, eu sou a Luiz.
+
+81
+00:04:42,240 --> 00:04:45,240
+Eu sou uma aspirante a Youtuber.
+
+82
+00:04:45,240 --> 00:04:48,240
+E vi esse anúncio de testes.
+
+83
+00:04:48,240 --> 00:04:50,240
+E resolvi me inscrever por causa do dinheiro.
+
+84
+00:04:50,240 --> 00:04:52,240
+Porque eu quero comprar uma câmera.
+
+85
+00:04:52,240 --> 00:04:54,240
+Para começar a fazer vídeos para o Youtube.
+
+86
+00:04:54,240 --> 00:04:58,240
+E eu estou torcendo que seja um teste de alguma coisa de beleza.
+
+87
+00:04:58,240 --> 00:05:00,240
+Para eu correr e fazer um review.
+
+88
+00:05:00,240 --> 00:05:03,240
+E já ganhar meus primeiros inscritos.
+
+89
+00:05:03,240 --> 00:05:05,240
+Meu atributo é 4.
+
+90
+00:05:05,240 --> 00:05:07,240
+E eu tenho 18 anos.
+
+91
+00:05:07,240 --> 00:05:09,240
+Acabei de sair do ensino médio.
+
+92
+00:05:09,240 --> 00:05:11,240
+Não estou fazendo faculdade.
+
+93
+00:05:11,240 --> 00:05:13,240
+E estou querendo ser Youtuber.
+
+94
+00:05:13,240 --> 00:05:15,240
+Ok. Fico pensando como você foi selecionada.
+
+95
+00:05:15,240 --> 00:05:16,240
+Mas vamos continuar.
+
+96
+00:05:16,240 --> 00:05:17,240
+Eu menti.
+
+97
+00:05:17,240 --> 00:05:19,240
+E por último.
+
+98
+00:05:19,240 --> 00:05:22,240
+Gabriel Pinheiro fala sobre o teu personagem.
+
+99
+00:05:22,240 --> 00:05:24,240
+O nome do meu personagem é Paul.
+
+100
+00:05:24,240 --> 00:05:27,240
+Ele fazia parte da equipe de atletismo do colégio.
+
+101
+00:05:27,240 --> 00:05:30,240
+Só que ele não conseguiu ser nenhuma bolsa para nenhuma faculdade.
+
+102
+00:05:30,240 --> 00:05:32,240
+Só que ainda assim ele quer entrar na faculdade.
+
+103
+00:05:32,240 --> 00:05:36,240
+E aí ele viu o teste e pensou que era uma maneira de ganhar dinheiro.
+
+104
+00:05:36,240 --> 00:05:39,240
+O pai dele é um ex-jogador fracassado de futebol americano.
+
+105
+00:05:39,240 --> 00:05:42,240
+Então ele tentou seguir o caminho do pai, mas não funcionou muito bem.
+
+106
+00:05:42,240 --> 00:05:45,240
+Os três então são solteiros e moram com os pais, é isso?
+
+107
+00:05:45,240 --> 00:05:46,240
+Isso.
+
+108
+00:05:46,240 --> 00:05:47,240
+Sim.
+
+109
+00:05:47,240 --> 00:05:49,240
+Perfeito.
+
+110
+00:06:17,240 --> 00:06:21,380
+Vocês três estão lá na empresa, é uma empresa afastada da cidade.
+
+111
+00:06:22,060 --> 00:06:25,660
+Pelo caminho, vocês foram levados de carro do aeroporto.
+
+112
+00:06:25,760 --> 00:06:28,740
+Cada um de vocês é de um lugar dos Estados Unidos, que não vem ao caso agora.
+
+113
+00:06:29,720 --> 00:06:33,180
+Vocês são levados do aeroporto, passam por uma cidade, por uma área industrial,
+
+114
+00:06:33,940 --> 00:06:37,140
+até que entram numa área com bastante pinheiros, né?
+
+115
+00:06:38,000 --> 00:06:38,680
+Olha, Gabriel.
+
+116
+00:06:39,100 --> 00:06:41,740
+Com bastante pinheiros, uma área mais montanhosa.
+
+117
+00:06:41,740 --> 00:06:46,760
+O carro vai subindo essa montanha, até que chega uma grande empresa,
+
+118
+00:06:47,560 --> 00:06:52,180
+toda espelhada, com vidros por fora, um prédio belíssimo, né?
+
+119
+00:06:52,260 --> 00:06:55,720
+O carro para lá, o motorista fala pra vocês.
+
+120
+00:06:56,140 --> 00:07:00,220
+Chegamos. Basta entrar por ali, que na recepção vão entregar o crachá de vocês.
+
+121
+00:07:01,460 --> 00:07:03,060
+Obrigado, senhor. Obrigado pela viagem.
+
+122
+00:07:03,360 --> 00:07:05,600
+Vocês vão... Mais alguém vai falar alguma coisa?
+
+123
+00:07:05,740 --> 00:07:06,640
+Não, só desse.
+
+124
+00:07:06,680 --> 00:07:06,880
+Não.
+
+125
+00:07:07,640 --> 00:07:07,860
+É.
+
+126
+00:07:08,140 --> 00:07:08,460
+Ok.
+
+127
+00:07:08,680 --> 00:07:09,320
+Eu ignoro ele.
+
+128
+00:07:09,320 --> 00:07:11,580
+Os três saem do carro.
+
+129
+00:07:12,400 --> 00:07:13,680
+Vão até a recepção, né?
+
+130
+00:07:14,040 --> 00:07:16,320
+Lá tem uma menina com traços orientais.
+
+131
+00:07:16,440 --> 00:07:18,720
+Ela sorri pra vocês e fala...
+
+132
+00:07:18,720 --> 00:07:21,460
+Muito bem-vindos. Vocês foram os últimos a chegar.
+
+133
+00:07:21,900 --> 00:07:24,080
+Ela entrega crachás pra cada um de vocês.
+
+134
+00:07:24,540 --> 00:07:25,720
+Ah, últimos?
+
+135
+00:07:26,520 --> 00:07:29,300
+Nossa, são muitas pessoas que vão participar desse teste?
+
+136
+00:07:29,720 --> 00:07:33,500
+Dez pessoas foram selecionadas, mas nem todos farão o teste final.
+
+137
+00:07:33,960 --> 00:07:34,880
+Eu viro e falo pra ela.
+
+138
+00:07:35,740 --> 00:07:37,940
+Mas você sabe que eu já sou seu preferido, né?
+
+139
+00:07:37,940 --> 00:07:40,120
+E dou uma piscadinha na hora de pegar meu crachá.
+
+140
+00:07:40,560 --> 00:07:40,960
+Ah...
+
+141
+00:07:40,960 --> 00:07:41,580
+Ela...
+
+142
+00:07:41,580 --> 00:07:43,140
+Eu sorri de volta e falo...
+
+143
+00:07:43,140 --> 00:07:46,940
+Você sabe que eu sou só a recepcionista, né?
+
+144
+00:07:48,380 --> 00:07:50,260
+Eu dou uma olhada no meu crachá.
+
+145
+00:07:51,060 --> 00:07:54,380
+Deve ter meu nome, tem minha foto, tem alguma...
+
+146
+00:07:54,380 --> 00:07:55,540
+Não, não chega...
+
+147
+00:07:55,540 --> 00:07:57,360
+Tem só tester.
+
+148
+00:07:57,960 --> 00:07:58,900
+Não tem nada.
+
+149
+00:07:59,900 --> 00:08:01,460
+Só que você tá ali pra fazer um teste.
+
+150
+00:08:01,600 --> 00:08:02,560
+Não tem...
+
+151
+00:08:02,560 --> 00:08:03,480
+É um crachá padrão.
+
+152
+00:08:04,040 --> 00:08:04,920
+Todos têm um crachá igual.
+
+153
+00:08:05,160 --> 00:08:07,340
+Moça, você disse que...
+
+154
+00:08:07,340 --> 00:08:08,740
+Último teste?
+
+155
+00:08:08,860 --> 00:08:09,800
+São vários testes?
+
+156
+00:08:09,880 --> 00:08:11,080
+Como é que tá funcionando isso?
+
+157
+00:08:11,160 --> 00:08:11,520
+Eu...
+
+158
+00:08:11,520 --> 00:08:12,220
+Eu...
+
+159
+00:08:12,220 --> 00:08:14,600
+Acho que eu não li essa parte no...
+
+160
+00:08:14,600 --> 00:08:15,920
+No termo de compromisso.
+
+161
+00:08:16,320 --> 00:08:17,960
+Tudo será explicado a seu tempo.
+
+162
+00:08:18,220 --> 00:08:20,000
+Apenas se dirijam à sala de espera.
+
+163
+00:08:20,300 --> 00:08:20,980
+Ah, sim.
+
+164
+00:08:21,080 --> 00:08:21,740
+Tá...
+
+165
+00:08:21,740 --> 00:08:22,620
+Tá bom, moça.
+
+166
+00:08:22,620 --> 00:08:22,800
+Obrigado.
+
+167
+00:08:22,800 --> 00:08:24,140
+E quando é que pagam a gente?
+
+168
+00:08:24,300 --> 00:08:29,240
+Ao final, mesmo quem não chegar ao último estágio, recebe o valor total do experimento.
+
+169
+00:08:29,480 --> 00:08:30,500
+Fiquem tranquilos.
+
+170
+00:08:30,920 --> 00:08:31,440
+Então tá bom.
+
+171
+00:08:31,560 --> 00:08:31,980
+Obrigada.
+
+172
+00:08:32,300 --> 00:08:33,140
+Obrigado, docinho.
+
+173
+00:08:33,560 --> 00:08:34,800
+Eu vou andando em direção à sala.
+
+174
+00:08:34,800 --> 00:08:35,800
+Ei, vocês dois.
+
+175
+00:08:36,120 --> 00:08:38,180
+Vocês sabem de que que tá...
+
+176
+00:08:38,180 --> 00:08:39,260
+Que teste é esse?
+
+177
+00:08:39,880 --> 00:08:41,360
+Eu espero que seja algum...
+
+178
+00:08:41,360 --> 00:08:42,000
+Cosmético.
+
+179
+00:08:43,040 --> 00:08:46,480
+Eu procurei na internet, não encontrei nada sobre isso.
+
+180
+00:08:46,960 --> 00:08:47,880
+Ah, eu nem procurei.
+
+181
+00:08:47,920 --> 00:08:50,280
+Achei que eles avisavam, mas eu não li o...
+
+182
+00:08:50,280 --> 00:08:52,460
+Formular, então...
+
+183
+00:08:52,460 --> 00:08:53,020
+Só assinei.
+
+184
+00:08:53,020 --> 00:08:54,920
+Cara, eu só preciso de dinheiro pra comprar o Ei.
+
+185
+00:08:55,660 --> 00:08:56,860
+E eu pra comprar uma câmera.
+
+186
+00:08:57,160 --> 00:08:59,060
+Ah, legal, legal.
+
+187
+00:08:59,360 --> 00:09:02,340
+Mas você leu o contrato que a gente assinou?
+
+188
+00:09:02,560 --> 00:09:03,900
+Eu li?
+
+189
+00:09:04,900 --> 00:09:06,220
+Pergunta pro Nador.
+
+190
+00:09:07,600 --> 00:09:08,360
+Tu leu?
+
+191
+00:09:08,580 --> 00:09:10,220
+O contrato fala só que vocês...
+
+192
+00:09:10,220 --> 00:09:14,440
+Vocês não vão poder revelar nada por seis meses do que vocês virem ali, né?
+
+193
+00:09:14,780 --> 00:09:16,240
+A confidencialidade.
+
+194
+00:09:17,160 --> 00:09:22,440
+E uma multa gigantesca caso vocês quebrem esse termo.
+
+195
+00:09:22,620 --> 00:09:23,200
+Eu acho.
+
+196
+00:09:23,640 --> 00:09:25,780
+Mas não fala exatamente o que vocês vão ver ali.
+
+197
+00:09:25,780 --> 00:09:32,640
+Eu, como um rapaz estudioso e precavido, eu dei uma pesquisada no passado dessa empresa.
+
+198
+00:09:33,260 --> 00:09:35,040
+Do que que ela fez, o que que ela faz.
+
+199
+00:09:35,920 --> 00:09:38,300
+Eu consegui descobrir algo de interessante.
+
+200
+00:09:38,820 --> 00:09:39,780
+Ela trabalha com jogos.
+
+201
+00:09:40,220 --> 00:09:41,580
+Mas ela não desenvolve...
+
+202
+00:09:41,580 --> 00:09:42,780
+Ela não desenvolve jogos.
+
+203
+00:09:43,000 --> 00:09:44,100
+Mas ela trabalha...
+
+204
+00:09:44,100 --> 00:09:50,220
+Ela ajuda a desenvolver novos consoles, controles especiais, realidade virtual...
+
+205
+00:09:51,420 --> 00:09:55,620
+É ligado a games, mas eles não fazem os jogos em si.
+
+206
+00:09:56,140 --> 00:09:56,440
+Eu vi.
+
+207
+00:09:56,540 --> 00:09:56,860
+Então, ok.
+
+208
+00:09:56,940 --> 00:09:57,920
+Eu falo, olha...
+
+209
+00:09:57,920 --> 00:10:02,460
+Até onde eu sei, eu acho que eles vão lançar alguma coisa importante no mundo dos jogos.
+
+210
+00:10:02,800 --> 00:10:03,320
+Jogos?
+
+211
+00:10:04,380 --> 00:10:04,900
+Mas...
+
+212
+00:10:04,900 --> 00:10:05,120
+É.
+
+213
+00:10:05,340 --> 00:10:06,680
+Jogos tipo esportes?
+
+214
+00:10:09,040 --> 00:10:09,940
+Esportes, meu cara.
+
+215
+00:10:10,220 --> 00:10:12,080
+Eu ajeito óculos assim, sabe?
+
+216
+00:10:12,180 --> 00:10:13,500
+Como se eu estivesse sendo especialista.
+
+217
+00:10:14,000 --> 00:10:17,660
+Eu queria ser youtuber de maquiagem, não de jogos.
+
+218
+00:10:18,160 --> 00:10:18,880
+Mas tá bom, né?
+
+219
+00:10:18,980 --> 00:10:20,060
+Porque eu preciso é o dinheiro.
+
+220
+00:10:20,160 --> 00:10:20,520
+Vamos lá.
+
+221
+00:10:20,820 --> 00:10:22,140
+Vocês vão até a sala de espera.
+
+222
+00:10:22,320 --> 00:10:24,000
+Tem mais seis pessoas ali, né?
+
+223
+00:10:24,000 --> 00:10:27,000
+O pessoal tá sentado, algumas pessoas estão conversando.
+
+224
+00:10:28,100 --> 00:10:30,560
+Assim que vocês entram, uma menina levanta e fala...
+
+225
+00:10:30,560 --> 00:10:32,000
+Bem-vindos!
+
+226
+00:10:33,340 --> 00:10:34,580
+Eu me chamo Débora, e vocês?
+
+227
+00:10:34,940 --> 00:10:35,660
+Eu sou a Luísa.
+
+228
+00:10:36,240 --> 00:10:36,640
+Fred?
+
+229
+00:10:37,240 --> 00:10:37,520
+Paul.
+
+230
+00:10:38,040 --> 00:10:38,620
+Dou uma piscadinha.
+
+231
+00:10:39,420 --> 00:10:39,840
+Finalmente!
+
+232
+00:10:39,840 --> 00:10:40,760
+Vocês chegaram.
+
+233
+00:10:41,200 --> 00:10:44,860
+Acho que agora que tá todo mundo aqui, eles não devem demorar pra começar os testes.
+
+234
+00:10:45,300 --> 00:10:47,020
+Ai, eu tô tão empolgada!
+
+235
+00:10:47,640 --> 00:10:48,820
+Vocês tão empolgados?
+
+236
+00:10:49,320 --> 00:10:49,580
+É.
+
+237
+00:10:49,760 --> 00:10:50,080
+Tô.
+
+238
+00:10:50,340 --> 00:10:50,620
+Ok.
+
+239
+00:10:51,500 --> 00:10:52,560
+Na verdade, eu...
+
+240
+00:10:52,560 --> 00:10:56,100
+Eu tava mais empolgada, mas aí ele falou que é jogos, eu tô meio...
+
+241
+00:10:56,100 --> 00:10:58,060
+Sei lá, eu não jogo muito.
+
+242
+00:10:58,220 --> 00:11:00,580
+É, na verdade eu tô ansioso, porque eu não gosto, sabe?
+
+243
+00:11:00,820 --> 00:11:03,560
+De fazer coisas que, bem, eu não sei o que vai acontecer.
+
+244
+00:11:04,040 --> 00:11:06,200
+Ah, eu já fiz vários desses testes.
+
+245
+00:11:06,260 --> 00:11:08,820
+É sempre algo impressionante.
+
+246
+00:11:09,560 --> 00:11:09,760
+Mas...
+
+247
+00:11:09,840 --> 00:11:11,660
+Vai ser bem bacana, vocês vão ver.
+
+248
+00:11:12,000 --> 00:11:12,700
+Ah, espero.
+
+249
+00:11:12,940 --> 00:11:14,180
+Espero, porque...
+
+250
+00:11:14,180 --> 00:11:16,960
+Eu ainda preciso estudar e, bom...
+
+251
+00:11:16,960 --> 00:11:18,400
+A hora já vai avançando, né?
+
+252
+00:11:18,860 --> 00:11:19,940
+Você precisa estudar hoje?
+
+253
+00:11:20,300 --> 00:11:20,840
+Todo dia?
+
+254
+00:11:20,840 --> 00:11:23,160
+Ah, como é que eu vou passar na faculdade?
+
+255
+00:11:23,460 --> 00:11:25,140
+Você nem sabe quanto tempo vai ser aqui.
+
+256
+00:11:26,140 --> 00:11:26,620
+Ele fala...
+
+257
+00:11:26,620 --> 00:11:29,160
+Ela falou que tinha vários testes, eu acho que...
+
+258
+00:11:29,160 --> 00:11:31,700
+Sei lá, eu acho que não vai dar pra você estudar mais hoje, não.
+
+259
+00:11:32,560 --> 00:11:33,620
+Aceita isso e...
+
+260
+00:11:33,620 --> 00:11:33,840
+Eu começo...
+
+261
+00:11:33,840 --> 00:11:37,700
+Eu começo a olhar o relógio de pulso freneticamente, assim.
+
+262
+00:11:37,940 --> 00:11:39,040
+A Débora fala...
+
+263
+00:11:39,040 --> 00:11:39,840
+Vamos, vamos, vamos sentar.
+
+264
+00:11:39,840 --> 00:11:41,840
+Eles já devem estar ali no sofá, eles já devem chamar a gente.
+
+265
+00:11:42,380 --> 00:11:43,980
+Não vamos preocupar com o horário, não.
+
+266
+00:11:44,280 --> 00:11:45,780
+Tá, tá bom, é.
+
+267
+00:11:46,800 --> 00:11:48,140
+E vou sentar.
+
+268
+00:11:48,400 --> 00:11:50,220
+Eu vou ficar em pé pra me manter aquecido.
+
+269
+00:11:50,360 --> 00:11:50,740
+Perfeito.
+
+270
+00:11:51,100 --> 00:11:54,760
+Depois de um tempo, entra uma outra mulher, também oriental.
+
+271
+00:11:55,140 --> 00:11:59,620
+A empresa, embora esteja nos Estados Unidos, a fundação dela foi no Japão, né?
+
+272
+00:11:59,660 --> 00:12:05,520
+Então, muitos dos funcionários ali são nipo-americanos, ou mesmo japoneses que foram pra ali.
+
+273
+00:12:05,880 --> 00:12:06,700
+Bom dia, amigos.
+
+274
+00:12:06,940 --> 00:12:08,520
+Eu estou muito feliz em recebê-los aqui.
+
+275
+00:12:08,720 --> 00:12:09,520
+Teremos um dia bem...
+
+276
+00:12:09,840 --> 00:12:12,960
+Bem agitado, mas tenho certeza que todos sairemos muito satisfeitos.
+
+277
+00:12:13,640 --> 00:12:16,760
+Estamos realmente empolgados para fazer o que vamos fazer aqui.
+
+278
+00:12:17,220 --> 00:12:20,720
+Mas antes, eu gostaria que prestassem atenção nessa televisão.
+
+279
+00:12:20,840 --> 00:12:24,620
+Pega controles de videogame, ele entrega para dois, que não são vocês.
+
+280
+00:12:25,900 --> 00:12:31,220
+Esse jogo aqui é antigo, ele não é um jogo nosso, mas escolhemos ele para começar.
+
+281
+00:12:31,460 --> 00:12:32,280
+É um jogo simples.
+
+282
+00:12:32,820 --> 00:12:35,560
+Você joga com esse rapaz e tem que fugir do Jason.
+
+283
+00:12:40,560 --> 00:12:43,820
+E aí os dois começam a jogar ali e as pessoas estão só olhando os dois jogarem.
+
+284
+00:12:44,080 --> 00:12:45,200
+Eu já conheço esse jogo?
+
+285
+00:12:45,900 --> 00:12:46,560
+Provavelmente, né?
+
+286
+00:12:46,760 --> 00:12:47,300
+Tu é que sabe.
+
+287
+00:12:47,440 --> 00:12:50,700
+É um jogo antigo até, para o tempo que vocês estão, né?
+
+288
+00:12:50,780 --> 00:12:51,500
+Ah, sim, sim.
+
+289
+00:12:51,500 --> 00:12:54,540
+Eu estou tentando entender o que tem de importante naquilo.
+
+290
+00:12:54,660 --> 00:12:56,860
+Que a princípio é um jogo com qualquer um.
+
+291
+00:12:57,380 --> 00:12:59,360
+Tem alguma diferença no controle que eles estão usando?
+
+292
+00:12:59,500 --> 00:13:01,640
+Tem algum console ou é só a televisão que está ali?
+
+293
+00:13:02,060 --> 00:13:05,600
+Não, é um controle de Playstation 5.
+
+294
+00:13:05,840 --> 00:13:08,700
+E ele, depois que os dois jogam, termina, os dois acabam morrendo.
+
+295
+00:13:08,960 --> 00:13:09,200
+Não...
+
+296
+00:13:09,200 --> 00:13:09,500
+Não...
+
+297
+00:13:09,840 --> 00:13:14,480
+Durante a partida, ele pega os controles, passa para outras pessoas e todo mundo vai jogando
+
+298
+00:13:14,480 --> 00:13:17,100
+até que chegam os quatro últimos.
+
+299
+00:13:17,560 --> 00:13:21,880
+Ela entrega um controle para a Débora e fica olhando para vocês para ver quem vai querer jogar com ela.
+
+300
+00:13:22,160 --> 00:13:22,380
+Eu.
+
+301
+00:13:22,480 --> 00:13:22,620
+Eu.
+
+302
+00:13:24,360 --> 00:13:26,240
+Pode ir a moça, pode ir a moça.
+
+303
+00:13:26,660 --> 00:13:27,860
+Eu fico assim meio sem graça.
+
+304
+00:13:28,440 --> 00:13:30,340
+Luiz, em dois dados, o teu atributo é o mais?
+
+305
+00:13:31,840 --> 00:13:32,800
+Três e dois.
+
+306
+00:13:33,860 --> 00:13:35,320
+O teu atributo é quatro.
+
+307
+00:13:36,140 --> 00:13:39,540
+A Luiz morre nos primeiros segundos ali do jogo.
+
+308
+00:13:39,840 --> 00:13:41,760
+A Débora, ela vence o jogo.
+
+309
+00:13:41,980 --> 00:13:43,040
+Ela consegue escapar.
+
+310
+00:13:43,540 --> 00:13:49,040
+O jogo se baseia em tu ter que montar o carro ou um barco ou chamar a polícia e esperar.
+
+311
+00:13:49,940 --> 00:13:56,900
+A Débora, ela conseguiu montar o carro, entrar nele e levar ainda um outro jogador NPC, provavelmente, né?
+
+312
+00:13:57,420 --> 00:13:58,860
+Controlado pela inteligência artificial.
+
+313
+00:13:59,580 --> 00:14:00,740
+Ela conseguiu fugir dali.
+
+314
+00:14:00,840 --> 00:14:01,500
+Ela foi muito bem.
+
+315
+00:14:01,500 --> 00:14:07,360
+A doutora, então, anota na planilha e, então, entrega o controle para os dois últimos jogadores.
+
+316
+00:14:07,940 --> 00:14:09,460
+Para o Fred e para o Paul.
+
+317
+00:14:09,840 --> 00:14:11,020
+Que vão rolar em dois dados também.
+
+318
+00:14:11,140 --> 00:14:12,680
+Agora você vai perder na sua área, Nerd.
+
+319
+00:14:13,360 --> 00:14:14,100
+Uhum, vou.
+
+320
+00:14:15,740 --> 00:14:16,860
+Fred, quanto é que tu tirou?
+
+321
+00:14:17,800 --> 00:14:19,120
+Dois e três.
+
+322
+00:14:19,920 --> 00:14:22,920
+Dois é o teu atributo, três é um acerto.
+
+323
+00:14:23,540 --> 00:14:24,760
+O Paul tirou quanto?
+
+324
+00:14:25,180 --> 00:14:26,020
+Um e dois.
+
+325
+00:14:26,940 --> 00:14:27,720
+Um e dois.
+
+326
+00:14:27,960 --> 00:14:30,800
+O Paul, ele conseguiu perder mais rápido do que a Luiz.
+
+327
+00:14:32,000 --> 00:14:38,480
+O Fred conseguiu vencer a partida e ele acabou fugindo de barco muito mais rápido do que a Débora.
+
+328
+00:14:38,660 --> 00:14:39,020
+Nerd.
+
+329
+00:14:39,840 --> 00:14:43,220
+Falando para a Débora, assim, dando um sorriso, eu falei assim, tenta fazer melhor.
+
+330
+00:14:44,080 --> 00:14:47,740
+Ela estava te olhando, assim, com admiração e, de repente, ela fecha a cara.
+
+331
+00:14:50,740 --> 00:14:53,360
+Aí o Paul falou assim, calma, não fica assim, não.
+
+332
+00:14:53,720 --> 00:14:57,540
+Primeira vez que você está jogando, com certeza, você não sabe como funciona o jogo.
+
+333
+00:14:58,100 --> 00:14:58,960
+Fica assim, não, cara.
+
+334
+00:14:59,060 --> 00:15:00,080
+É, me larga, cara.
+
+335
+00:15:00,740 --> 00:15:01,100
+Levanto.
+
+336
+00:15:01,400 --> 00:15:04,240
+Vocês, então, são divididos em dois grupos?
+
+337
+00:15:04,240 --> 00:15:05,120
+Ah, guacha.
+
+338
+00:15:05,260 --> 00:15:08,180
+Eu achei que você ia pôr a Débora para dar uma surra no Fred agora.
+
+339
+00:15:09,840 --> 00:15:11,520
+Eu estava esperando isso também.
+
+340
+00:15:11,540 --> 00:15:12,040
+Eu fiquei esperando isso.
+
+341
+00:15:13,280 --> 00:15:15,400
+Eu acho que é uma revancha aqui pela Débora.
+
+342
+00:15:19,080 --> 00:15:21,560
+Ela aponta para os dois com o pior resultado e fala.
+
+343
+00:15:21,780 --> 00:15:22,660
+Passem na recepção.
+
+344
+00:15:23,100 --> 00:15:25,740
+A menina está com alguns brindes além do pagamento de vocês.
+
+345
+00:15:26,220 --> 00:15:29,160
+Aí ela aponta para as outras quatro pessoas, que não são vocês.
+
+346
+00:15:29,580 --> 00:15:33,160
+Vocês quatro vão para aquela sala ali continuar o experimento.
+
+347
+00:15:33,700 --> 00:15:35,680
+E, por fim, ela aponta para vocês quatro.
+
+348
+00:15:36,180 --> 00:15:37,540
+Vocês três e a Débora.
+
+349
+00:15:37,540 --> 00:15:39,540
+E vocês aqui, que conseguiram...
+
+350
+00:15:39,840 --> 00:15:41,320
+O melhor desempenho.
+
+351
+00:15:41,960 --> 00:15:44,480
+Mesmo que um lado da dupla tenha puxado o outro.
+
+352
+00:15:44,980 --> 00:15:46,640
+Por favor, me acompanhem.
+
+353
+00:15:47,040 --> 00:15:47,400
+Uhul.
+
+354
+00:15:47,520 --> 00:15:47,820
+Bora.
+
+355
+00:15:47,900 --> 00:15:49,080
+Eu estou mais animado.
+
+356
+00:15:49,420 --> 00:15:50,840
+Eu estou confiante agora.
+
+357
+00:15:51,420 --> 00:15:54,020
+Vocês quatro entram numa sala.
+
+358
+00:15:54,780 --> 00:15:55,840
+É uma sala que ela tem uma...
+
+359
+00:15:56,680 --> 00:15:57,840
+Cadeiras bem confortáveis.
+
+360
+00:15:58,940 --> 00:16:01,800
+É como se fosse uma cadeira dessas gamers da vida.
+
+361
+00:16:02,360 --> 00:16:05,300
+Só que mais confortável e um pouco mais inclinada.
+
+362
+00:16:06,320 --> 00:16:09,280
+E do lado de cada uma delas tem uma mesinha pequena.
+
+363
+00:16:09,280 --> 00:16:13,240
+E nessa mesinha tem um capacete com um visor que cobre os olhos.
+
+364
+00:16:13,320 --> 00:16:14,560
+Cobre a orelha e os olhos, né?
+
+365
+00:16:14,800 --> 00:16:15,700
+Agora é muito simples.
+
+366
+00:16:16,440 --> 00:16:18,060
+Vocês vão jogar novamente aquele jogo.
+
+367
+00:16:18,620 --> 00:16:21,060
+Só que em um ambiente de realidade virtual.
+
+368
+00:16:22,080 --> 00:16:22,520
+Por favor.
+
+369
+00:16:23,540 --> 00:16:26,480
+Sentem da maneira mais confortável que conseguirem.
+
+370
+00:16:26,600 --> 00:16:28,200
+E coloquem os capacetes.
+
+371
+00:16:28,440 --> 00:16:29,660
+É só botar o capacete?
+
+372
+00:16:30,000 --> 00:16:31,480
+É só colocar o capacete.
+
+373
+00:16:32,040 --> 00:16:33,840
+Vocês vão sentir um pouco de sono.
+
+374
+00:16:34,420 --> 00:16:35,200
+Mas não vai doer.
+
+375
+00:16:35,640 --> 00:16:36,480
+Já botei.
+
+376
+00:16:36,480 --> 00:16:38,140
+A gente vai jogar em time?
+
+377
+00:16:38,300 --> 00:16:39,180
+Todo mundo junto?
+
+378
+00:16:39,280 --> 00:16:40,880
+Vai ser como o jogo anterior.
+
+379
+00:16:40,980 --> 00:16:41,440
+Ah, sim.
+
+380
+00:16:41,600 --> 00:16:43,900
+Mas serão quatro pessoas contra o Jason.
+
+381
+00:16:44,060 --> 00:16:44,500
+Tá bom.
+
+382
+00:16:44,960 --> 00:16:45,680
+Tá bom.
+
+383
+00:16:45,820 --> 00:16:46,980
+Eu vou sentar do lado da Débora.
+
+384
+00:16:47,000 --> 00:16:49,260
+A Débora senta empolgadíssima, coloca o capacete.
+
+385
+00:16:49,280 --> 00:16:50,400
+Porque eu saquei que ela é boa.
+
+386
+00:16:51,180 --> 00:16:53,300
+Eu já botei o capacete e tô ali.
+
+387
+00:16:53,980 --> 00:16:54,420
+Nossa!
+
+388
+00:16:55,300 --> 00:16:56,720
+Mas isso é incrível.
+
+389
+00:16:57,320 --> 00:16:58,280
+E tô empolgadaço.
+
+390
+00:16:59,020 --> 00:17:00,100
+É, ele não tá ligado ainda, tá?
+
+391
+00:17:00,340 --> 00:17:04,060
+Eu tô botando o capacete ainda lentamente, tentando entender como é que prende ele na minha cabeça.
+
+392
+00:17:04,340 --> 00:17:04,920
+É só encaixar.
+
+393
+00:17:05,320 --> 00:17:06,040
+Não tem segredo.
+
+394
+00:17:06,100 --> 00:17:07,420
+Vocês sentem uma sonolência?
+
+395
+00:17:07,600 --> 00:17:08,780
+Tudo escuro por um tempo?
+
+396
+00:17:09,280 --> 00:17:14,620
+E vocês estão sentados em volta de uma fogueira.
+
+397
+00:17:14,700 --> 00:17:16,400
+Vocês chegam a sentir o calor dessa fogueira.
+
+398
+00:17:17,040 --> 00:17:18,960
+É o mesmo ambiente que vocês viram lá no jogo.
+
+399
+00:17:19,340 --> 00:17:21,300
+É um acampamento na beira de um lago, né?
+
+400
+00:17:22,360 --> 00:17:24,520
+E vocês estão ali em torno daquela fogueira.
+
+401
+00:17:25,000 --> 00:17:28,820
+E vocês escutam gritos à distância que marcam o início do jogo.
+
+402
+00:17:29,460 --> 00:17:30,180
+O que vocês vão fazer?
+
+403
+00:17:30,180 --> 00:17:31,960
+Nossa, isso é muito real, gente.
+
+404
+00:17:32,040 --> 00:17:32,420
+Meu Deus.
+
+405
+00:17:32,560 --> 00:17:34,340
+Eu olho pro meu corpo.
+
+406
+00:17:34,560 --> 00:17:35,240
+Eu sou eu mesmo?
+
+407
+00:17:35,780 --> 00:17:36,560
+Tipo assim, com...
+
+408
+00:17:36,560 --> 00:17:37,780
+É você...
+
+409
+00:17:37,780 --> 00:17:39,260
+Um pouquinho menos...
+
+410
+00:17:39,280 --> 00:17:40,820
+Um pouquinho menos de polígonos, talvez.
+
+411
+00:17:41,340 --> 00:17:41,900
+Mas é você.
+
+412
+00:17:42,120 --> 00:17:43,280
+Vocês estão sentindo o fogo?
+
+413
+00:17:44,300 --> 00:17:45,960
+Eu parto em direção a uma cabana.
+
+414
+00:17:48,480 --> 00:17:51,380
+Eu vi o Fred correndo, eu vou correr atrás, porque eu sou ruim.
+
+415
+00:17:54,300 --> 00:17:57,120
+Eu vou correr e eu quero ver se eu corro mais do que o Fred.
+
+416
+00:17:57,620 --> 00:17:58,880
+Vocês vão correr.
+
+417
+00:17:59,180 --> 00:17:59,580
+Isso.
+
+418
+00:18:00,180 --> 00:18:02,400
+Todos têm que correr em direção à cabana.
+
+419
+00:18:02,940 --> 00:18:03,820
+Incluindo a Débora.
+
+420
+00:18:04,000 --> 00:18:05,100
+Ela foi atrás de vocês.
+
+421
+00:18:05,720 --> 00:18:07,860
+É um jogo que, em grupo, é melhor, né?
+
+422
+00:18:08,160 --> 00:18:09,260
+Se matar uns outros três.
+
+423
+00:18:09,280 --> 00:18:11,320
+Então, cada um rola dois dados.
+
+424
+00:18:13,320 --> 00:18:13,680
+Fred?
+
+425
+00:18:14,300 --> 00:18:15,380
+Um e seis.
+
+426
+00:18:15,900 --> 00:18:17,400
+Um erro e um acerto, né?
+
+427
+00:18:18,120 --> 00:18:19,580
+Tu tá indo lá em direção à cabana.
+
+428
+00:18:19,660 --> 00:18:20,920
+Tu ainda tá te acostumando um pouco.
+
+429
+00:18:21,400 --> 00:18:23,760
+Teu corpo, ele tá um pouco mais leve que o normal.
+
+430
+00:18:24,040 --> 00:18:28,520
+Talvez os teus movimentos não estão tão perfeitos quanto o teu corpo normalmente estaria.
+
+431
+00:18:28,800 --> 00:18:30,340
+Mas tu tá indo em direção à cabana.
+
+432
+00:18:30,680 --> 00:18:31,080
+Luiz?
+
+433
+00:18:31,480 --> 00:18:32,300
+Quatro e dois.
+
+434
+00:18:32,800 --> 00:18:34,020
+Quatro é o teu atributo.
+
+435
+00:18:34,520 --> 00:18:36,060
+Tu já tá um pouco mais acostumada.
+
+436
+00:18:36,060 --> 00:18:39,060
+Tu quase não vê tanta diferença entre o teu corpo...
+
+437
+00:18:39,280 --> 00:18:40,920
+O corpo real e o corpo virtual.
+
+438
+00:18:41,880 --> 00:18:44,000
+E tu tá indo lá em direção à cabana também.
+
+439
+00:18:44,700 --> 00:18:45,020
+O Paul?
+
+440
+00:18:45,620 --> 00:18:46,380
+Um e três.
+
+441
+00:18:46,700 --> 00:18:47,580
+Um e três.
+
+442
+00:18:48,180 --> 00:18:50,200
+O Paul, ele engachou numa árvore.
+
+443
+00:18:50,300 --> 00:18:51,200
+Ele tá tentando correr.
+
+444
+00:18:51,460 --> 00:18:53,980
+Mas ele tá correndo preso na árvore ali.
+
+445
+00:18:54,040 --> 00:18:55,860
+Ele não consegue muito se desvencilhar.
+
+446
+00:18:56,680 --> 00:18:58,120
+Ele tá meio encrencado.
+
+447
+00:18:58,400 --> 00:18:59,920
+Vou tentar voltar pra ajudar.
+
+448
+00:19:00,080 --> 00:19:00,400
+Bugou.
+
+449
+00:19:00,680 --> 00:19:02,200
+Bugou o cara lá, ó.
+
+450
+00:19:02,520 --> 00:19:03,320
+Ih, rapaz.
+
+451
+00:19:03,500 --> 00:19:05,580
+A Débora tirou seis e dois.
+
+452
+00:19:06,240 --> 00:19:07,460
+Ela teve um acerto só.
+
+453
+00:19:07,460 --> 00:19:08,460
+Ela tá...
+
+454
+00:19:09,280 --> 00:19:10,460
+Assim como o Fred.
+
+455
+00:19:10,560 --> 00:19:11,920
+Os dois tão mais ou menos juntos ali.
+
+456
+00:19:12,520 --> 00:19:12,640
+Tá.
+
+457
+00:19:12,720 --> 00:19:15,060
+A Luiz disse que vai voltar pra ajudar o...
+
+458
+00:19:15,060 --> 00:19:15,580
+O Paul?
+
+459
+00:19:15,640 --> 00:19:15,780
+É.
+
+460
+00:19:16,000 --> 00:19:16,160
+Tá.
+
+461
+00:19:16,520 --> 00:19:19,700
+No que tu tá voltando, tu vê que o Jason já tá bem perto do...
+
+462
+00:19:19,700 --> 00:19:20,420
+Chegando no Paul.
+
+463
+00:19:20,680 --> 00:19:21,320
+Ai, meu Deus.
+
+464
+00:19:21,340 --> 00:19:22,260
+Eu saio correndo...
+
+465
+00:19:22,260 --> 00:19:23,840
+Esqueço que eu ia ajudar ele.
+
+466
+00:19:23,960 --> 00:19:26,360
+Saio correndo em direção à cabana.
+
+467
+00:19:28,000 --> 00:19:30,400
+O primeiro teste não foi um teste físico.
+
+468
+00:19:30,580 --> 00:19:34,440
+Porque é vocês se ajustando mentalmente ao corpo de vocês, tá, gente?
+
+469
+00:19:34,520 --> 00:19:34,740
+Foi...
+
+470
+00:19:34,740 --> 00:19:35,240
+Era...
+
+471
+00:19:35,240 --> 00:19:36,080
+Esqueci de explicar isso.
+
+472
+00:19:36,080 --> 00:19:38,200
+Por isso que foi o teu atributo ao mais todo mundo.
+
+473
+00:19:38,300 --> 00:19:38,480
+Tá.
+
+474
+00:19:38,920 --> 00:19:39,080
+Tem...
+
+475
+00:19:39,540 --> 00:19:40,260
+Agora sim.
+
+476
+00:19:41,600 --> 00:19:41,960
+Ok.
+
+477
+00:19:42,440 --> 00:19:43,540
+Eu vou...
+
+478
+00:19:43,540 --> 00:19:44,220
+Virei pra trás.
+
+479
+00:19:44,320 --> 00:19:46,220
+Eu tô vendo que a Luiz deixou o Paul pra trás.
+
+480
+00:19:46,320 --> 00:19:48,560
+O Paul tá agarrado na árvore ali, como se fosse um bug, né?
+
+481
+00:19:48,660 --> 00:19:48,860
+Tá.
+
+482
+00:19:49,360 --> 00:19:49,640
+Aham.
+
+483
+00:19:50,180 --> 00:19:50,380
+Tá.
+
+484
+00:19:50,600 --> 00:19:51,180
+Eu vou...
+
+485
+00:19:51,180 --> 00:19:54,520
+Tem alguma coisa que possa fazer barulho perto de mim?
+
+486
+00:19:55,220 --> 00:19:56,340
+Tu não consegue...
+
+487
+00:19:56,340 --> 00:19:59,440
+Tu poderia bater na parede, alguma coisa do tipo, mas nada aqui que te...
+
+488
+00:19:59,440 --> 00:20:00,420
+É uma lata, sim.
+
+489
+00:20:00,520 --> 00:20:03,400
+Eu quero chamar a atenção do Jason, talvez.
+
+490
+00:20:03,740 --> 00:20:04,560
+Eu nem sei se é possível.
+
+491
+00:20:04,680 --> 00:20:05,380
+Eu tô improvisando.
+
+492
+00:20:05,720 --> 00:20:05,880
+Tá.
+
+493
+00:20:05,940 --> 00:20:06,340
+Um dado.
+
+494
+00:20:06,660 --> 00:20:07,080
+Um dado?
+
+495
+00:20:07,300 --> 00:20:07,520
+Aham.
+
+496
+00:20:07,520 --> 00:20:09,200
+Meu...
+
+497
+00:20:09,200 --> 00:20:10,000
+Tirei seis.
+
+498
+00:20:10,200 --> 00:20:15,680
+Novamente tá tentando fazer barulho ali, batendo alguma coisa, mas o Jason, ele vai
+
+499
+00:20:15,680 --> 00:20:16,860
+sempre indo mais perto.
+
+500
+00:20:17,560 --> 00:20:18,840
+Ele tá indo pra cima do Paul.
+
+501
+00:20:19,140 --> 00:20:19,920
+Paul, rola um dado.
+
+502
+00:20:20,700 --> 00:20:20,900
+Hum.
+
+503
+00:20:21,620 --> 00:20:22,960
+Agora sim, um teste físico.
+
+504
+00:20:23,180 --> 00:20:25,340
+Tu já tá sincronizado com o teu corpo.
+
+505
+00:20:27,920 --> 00:20:28,360
+Pega.
+
+506
+00:20:29,020 --> 00:20:29,920
+Tá me tirando?
+
+507
+00:20:31,920 --> 00:20:32,980
+É, tirei cinco.
+
+508
+00:20:34,200 --> 00:20:34,640
+Tá.
+
+509
+00:20:34,840 --> 00:20:37,380
+Tu sente uma dor terrível?
+
+510
+00:20:37,520 --> 00:20:38,200
+Por um segundo?
+
+511
+00:20:38,480 --> 00:20:42,820
+E, de repente, tu tá como se estivesse flutuando em cima deles, vendo todo o que seria o mapa,
+
+512
+00:20:42,940 --> 00:20:43,080
+né?
+
+513
+00:20:43,380 --> 00:20:45,120
+E os teus amigos se deslocando por ali.
+
+514
+00:20:45,660 --> 00:20:52,600
+Os jogadores têm uma cena terrível do Jason cravando o facão pelas costas do Paul e saindo
+
+515
+00:20:52,600 --> 00:20:53,220
+pela frente.
+
+516
+00:20:53,520 --> 00:20:54,040
+Meu Deus!
+
+517
+00:20:54,700 --> 00:20:56,480
+É muito realista isso, né?
+
+518
+00:20:57,900 --> 00:20:58,580
+Pois é.
+
+519
+00:20:58,760 --> 00:21:00,760
+Eu tô andando assim de costas, entrando na cabana.
+
+520
+00:21:00,960 --> 00:21:01,640
+Vamos, gente.
+
+521
+00:21:01,760 --> 00:21:02,460
+Vamos, rápido.
+
+522
+00:21:02,860 --> 00:21:06,200
+Fecha a porta e passa o trinco ali, tipo, pra trancar a porta.
+
+523
+00:21:06,800 --> 00:21:07,500
+Antes ou depois?
+
+524
+00:21:07,500 --> 00:21:08,300
+Depois da Louise passar.
+
+525
+00:21:08,920 --> 00:21:09,060
+Não.
+
+526
+00:21:09,380 --> 00:21:11,300
+Com certeza, depois dela passar.
+
+527
+00:21:11,980 --> 00:21:12,500
+Obrigada.
+
+528
+00:21:14,660 --> 00:21:17,040
+Vocês dois estão dentro da cabana, né?
+
+529
+00:21:17,480 --> 00:21:19,460
+A Débora também tá?
+
+530
+00:21:19,740 --> 00:21:24,460
+A Débora, enquanto vocês voltaram pra ver o colega de vocês, ela continuou correndo.
+
+531
+00:21:25,040 --> 00:21:28,220
+Ela foi pra uma outra cabana, mais atrás da que vocês entraram.
+
+532
+00:21:29,100 --> 00:21:29,620
+Beleza.
+
+533
+00:21:30,040 --> 00:21:30,560
+Eu estou...
+
+534
+00:21:30,560 --> 00:21:32,520
+Droga, a gente não podia se separar.
+
+535
+00:21:32,940 --> 00:21:33,580
+Quer dizer, não sei.
+
+536
+00:21:33,780 --> 00:21:34,440
+Chave do carro.
+
+537
+00:21:34,960 --> 00:21:36,060
+Procura a chave do carro.
+
+538
+00:21:36,060 --> 00:21:37,260
+Eu vou ver se eu consigo...
+
+539
+00:21:37,500 --> 00:21:39,220
+Ah, gasolina.
+
+540
+00:21:39,800 --> 00:21:40,760
+Olha nas gavetas.
+
+541
+00:21:41,100 --> 00:21:43,360
+Se você encontrar uma arma, pega que vai ser importante.
+
+542
+00:21:43,440 --> 00:21:44,700
+Tá, mas não me deixe aqui, tá?
+
+543
+00:21:45,020 --> 00:21:46,160
+Eu não sei jogar esse jogo.
+
+544
+00:21:46,240 --> 00:21:46,560
+Não, não.
+
+545
+00:21:46,680 --> 00:21:47,140
+Tá, eu...
+
+546
+00:21:47,140 --> 00:21:49,620
+Procura a chave e eu procuro a gasolina.
+
+547
+00:21:49,920 --> 00:21:50,420
+É...
+
+548
+00:21:50,420 --> 00:21:52,600
+Eu acho que o carro vai ser a opção mais rápida pra gente.
+
+549
+00:21:52,680 --> 00:21:53,960
+Tá, então eu vou procurar lá em cima.
+
+550
+00:21:54,160 --> 00:21:55,460
+Dois dados cada um de vocês.
+
+551
+00:21:57,620 --> 00:21:58,380
+É a Louise?
+
+552
+00:21:58,580 --> 00:21:59,280
+Quatro e quatro.
+
+553
+00:21:59,740 --> 00:22:02,960
+A Louise, ela tirou duas vezes o atributo dela.
+
+554
+00:22:03,920 --> 00:22:05,780
+Louise, tu encontrou...
+
+555
+00:22:05,780 --> 00:22:06,060
+Ali.
+
+556
+00:22:06,060 --> 00:22:06,140
+Ali.
+
+557
+00:22:07,500 --> 00:22:09,880
+Um pé de cabra e a chave do carro.
+
+558
+00:22:10,540 --> 00:22:11,700
+Beleza, eu pego os dois.
+
+559
+00:22:12,120 --> 00:22:13,680
+O Fred tirou quanto?
+
+560
+00:22:14,140 --> 00:22:15,240
+Dois e quatro.
+
+561
+00:22:15,620 --> 00:22:19,320
+O Fred encontrou a gasolina e uma chave de boca.
+
+562
+00:22:19,580 --> 00:22:20,000
+Perfeito.
+
+563
+00:22:20,500 --> 00:22:21,380
+Uma chave grande, né?
+
+564
+00:22:21,520 --> 00:22:24,700
+Agora a gente só precisa tentar encontrar o carro.
+
+565
+00:22:25,140 --> 00:22:26,860
+A gente tinha que chamar a Débora.
+
+566
+00:22:27,480 --> 00:22:29,840
+O Paul tá vendo lá de cima, né?
+
+567
+00:22:30,380 --> 00:22:31,140
+Do mapinha.
+
+568
+00:22:31,740 --> 00:22:35,640
+A Débora, ela tá ligando pra polícia numa outra cabana.
+
+569
+00:22:35,640 --> 00:22:36,940
+Que é outra...
+
+570
+00:22:36,940 --> 00:22:40,580
+Tu pode vencer esperando a polícia chegar ou fugindo de carro ou de barco, né?
+
+571
+00:22:41,140 --> 00:22:42,240
+Ela tá fazendo uma ligação.
+
+572
+00:22:42,740 --> 00:22:46,860
+E isso acaba atraindo o Jason, que para de perseguir vocês e vai em direção à cabana
+
+573
+00:22:46,860 --> 00:22:49,420
+onde a Débora faz a ligação.
+
+574
+00:22:49,580 --> 00:22:51,100
+Vai falar alguma coisa? Fazer alguma coisa?
+
+575
+00:22:51,360 --> 00:22:52,000
+Paul viu isso.
+
+576
+00:22:52,700 --> 00:22:54,860
+Tu lá de cima flutuando, tu viu que a Débora...
+
+577
+00:22:54,860 --> 00:22:56,140
+Eu consigo gritar alguém me ouve?
+
+578
+00:22:56,460 --> 00:22:56,900
+Alô?
+
+579
+00:22:57,420 --> 00:22:57,860
+Alguém?
+
+580
+00:22:58,060 --> 00:22:58,280
+Não.
+
+581
+00:22:58,620 --> 00:22:58,780
+Não?
+
+582
+00:22:59,360 --> 00:22:59,800
+Silêncio.
+
+583
+00:23:00,600 --> 00:23:02,740
+Eu consigo mergulhar estando lá de cima?
+
+584
+00:23:03,980 --> 00:23:04,420
+Consegue.
+
+585
+00:23:04,420 --> 00:23:05,780
+Eu consigo descer?
+
+586
+00:23:06,940 --> 00:23:07,460
+Consegue.
+
+587
+00:23:08,120 --> 00:23:09,460
+Eu vou me jogar pra baixo.
+
+588
+00:23:10,620 --> 00:23:10,820
+Tá.
+
+589
+00:23:11,500 --> 00:23:12,740
+Tu atravessa o chão.
+
+590
+00:23:12,940 --> 00:23:14,860
+O chão fica bem bugado assim, mas tu tá lá.
+
+591
+00:23:15,380 --> 00:23:16,600
+Eu quero subir de volta.
+
+592
+00:23:17,520 --> 00:23:17,800
+Tá.
+
+593
+00:23:20,680 --> 00:23:21,980
+O Paul tá brincando.
+
+594
+00:23:22,120 --> 00:23:22,440
+Vamos lá.
+
+595
+00:23:22,580 --> 00:23:24,020
+Fred e Luiz, vocês vão fazer o quê?
+
+596
+00:23:24,660 --> 00:23:28,440
+Eu vou abrir a porta com cuidado pra ver se o Jason tá ali fora.
+
+597
+00:23:28,620 --> 00:23:31,120
+Caso não esteja, eu tô indo atrás do carro.
+
+598
+00:23:31,480 --> 00:23:32,360
+Rola dois dados.
+
+599
+00:23:33,560 --> 00:23:34,280
+Eu viro assim.
+
+600
+00:23:34,620 --> 00:23:34,960
+Luiz.
+
+601
+00:23:34,960 --> 00:23:35,000
+Luiz.
+
+602
+00:23:35,580 --> 00:23:36,220
+Agora aí.
+
+603
+00:23:36,220 --> 00:23:37,480
+Tenta encontrar o carro, viu?
+
+604
+00:23:37,800 --> 00:23:38,180
+Tá.
+
+605
+00:23:38,520 --> 00:23:43,660
+Eu, eu, eu, eu, eu segura, eu puxo a blusa dele e vou indo atrás dele assim, bem coladinho,
+
+606
+00:23:43,720 --> 00:23:44,780
+com o pé de cabra na mão.
+
+607
+00:23:46,660 --> 00:23:47,660
+Fred tirou quanto?
+
+608
+00:23:48,320 --> 00:23:49,340
+Quatro e cinco.
+
+609
+00:23:50,400 --> 00:23:52,000
+É, o Jason parece que não tá por ali.
+
+610
+00:23:52,660 --> 00:23:56,540
+E tu conhece mais ou menos esse mapa, ele é um jogo, não tem muita variedade.
+
+611
+00:23:56,960 --> 00:23:58,500
+Tu sabe mais ou menos onde deve tá o carro.
+
+612
+00:23:59,140 --> 00:23:59,540
+Beleza.
+
+613
+00:23:59,720 --> 00:24:02,880
+Eu parto em direção pra direção do carro, assim.
+
+614
+00:24:02,880 --> 00:24:05,600
+Tô indo lá colocar gasolina.
+
+615
+00:24:06,220 --> 00:24:06,840
+Eu vou atrás.
+
+616
+00:24:08,640 --> 00:24:10,940
+Vocês rolam um dado cada um pra fazer silêncio.
+
+617
+00:24:15,680 --> 00:24:16,580
+É a hora.
+
+618
+00:24:17,080 --> 00:24:17,880
+Fred tirou quanto?
+
+619
+00:24:18,400 --> 00:24:18,640
+Um.
+
+620
+00:24:19,400 --> 00:24:20,260
+Luiz tirou quanto?
+
+621
+00:24:20,960 --> 00:24:21,480
+Quatro.
+
+622
+00:24:23,160 --> 00:24:26,880
+A Luiz, ela não faz barulho nenhum, ela se move como um gato.
+
+623
+00:24:28,160 --> 00:24:30,740
+O Fred faz creque, creque cada vez que pisa no chão.
+
+624
+00:24:30,880 --> 00:24:33,000
+Porra, Fred, vai, faz silêncio.
+
+625
+00:24:33,000 --> 00:24:35,720
+Não dá, eu, eu, não dá.
+
+626
+00:24:36,220 --> 00:24:37,220
+Pisa devagar.
+
+627
+00:24:38,520 --> 00:24:41,000
+Ah, eu, ah, vou tentar, vou tentar.
+
+628
+00:24:42,080 --> 00:24:43,700
+Nossa, esse jogo é bem diferente.
+
+629
+00:24:44,760 --> 00:24:47,880
+Vocês tão chegando perto do, do carro, rolem um dado.
+
+630
+00:24:49,480 --> 00:24:50,000
+Fred?
+
+631
+00:24:50,780 --> 00:24:51,040
+Um.
+
+632
+00:24:52,500 --> 00:24:52,940
+Luiz?
+
+633
+00:24:53,060 --> 00:24:53,560
+Cinco.
+
+634
+00:24:53,880 --> 00:24:59,340
+Pô, tu tá lá brincando de descer e subir, tu viu que o Fred, ele desistiu da Débora
+
+635
+00:24:59,340 --> 00:25:03,260
+e tá indo em direção ao carro, onde estão teus dois, é, conhecidos?
+
+636
+00:25:03,260 --> 00:25:03,700
+Sim.
+
+637
+00:25:04,320 --> 00:25:04,720
+Sim.
+
+638
+00:25:04,720 --> 00:25:07,960
+Eu quero tentar entrar no corpo do Paul, pra ver se buga ele, do Paul o quê?
+
+639
+00:25:08,520 --> 00:25:10,340
+Do Jason, pra ver se buga ele.
+
+640
+00:25:10,740 --> 00:25:13,100
+Tu atravessa o direto, não acontece nada.
+
+641
+00:25:13,200 --> 00:25:16,000
+Em alguma direção eu vejo alguma coisa que me chame a atenção que eu não conseguia
+
+642
+00:25:16,000 --> 00:25:19,160
+ver quando eu tava jogando realmente?
+
+643
+00:25:20,160 --> 00:25:21,920
+Não, nada me chama muita atenção.
+
+644
+00:25:22,300 --> 00:25:24,440
+E quando eu atravessei o chão eu só vi vazio.
+
+645
+00:25:24,760 --> 00:25:31,140
+O Fred e a Luiz tão lá botando a gasolina no carro, né, fazendo as coisas que tem que
+
+646
+00:25:31,140 --> 00:25:31,480
+fazer.
+
+647
+00:25:31,840 --> 00:25:32,240
+Uhum.
+
+648
+00:25:32,620 --> 00:25:33,600
+Rola um dado cada um.
+
+649
+00:25:33,840 --> 00:25:34,580
+Tá faltando alguma coisa?
+
+650
+00:25:34,580 --> 00:25:35,280
+Alguma coisa?
+
+651
+00:25:35,580 --> 00:25:39,900
+Assim, tem algum indicativo que a gente completou algum achievement?
+
+652
+00:25:40,280 --> 00:25:41,680
+Tipo, tá faltando alguma coisa?
+
+653
+00:25:42,280 --> 00:25:44,800
+Não tem, não tem nenhum número na tela, não tem nada.
+
+654
+00:25:44,980 --> 00:25:46,780
+Assim, não tem uma tela, né, só a tua visão.
+
+655
+00:25:47,400 --> 00:25:47,880
+Uhum, entendi.
+
+656
+00:25:47,880 --> 00:25:48,520
+Luiz, tira quanto?
+
+657
+00:25:48,920 --> 00:25:49,360
+Uhum, entendi.
+
+658
+00:25:50,220 --> 00:25:50,660
+Cinco.
+
+659
+00:25:51,880 --> 00:25:52,420
+E o Fred?
+
+660
+00:25:53,040 --> 00:25:53,480
+Seis.
+
+661
+00:25:54,140 --> 00:25:54,300
+Tá.
+
+662
+00:25:54,780 --> 00:25:57,280
+O Jason tá bem próximo e indo em direção ao Fred.
+
+663
+00:25:57,440 --> 00:25:58,160
+Ah, mas...
+
+664
+00:25:58,160 --> 00:25:58,900
+Os dois viram.
+
+665
+00:25:59,520 --> 00:26:00,440
+Eu, eu, ok.
+
+666
+00:26:01,060 --> 00:26:01,900
+Eu, Luiz.
+
+667
+00:26:02,140 --> 00:26:02,440
+Ah.
+
+668
+00:26:02,440 --> 00:26:03,860
+Luiz, tenta dar partida no carro.
+
+669
+00:26:03,960 --> 00:26:04,380
+Eu vou tentar.
+
+670
+00:26:04,580 --> 00:26:06,380
+Ganhar tempo com o Jason.
+
+671
+00:26:06,440 --> 00:26:07,720
+Não é melhor a gente atacar ele junto?
+
+672
+00:26:07,900 --> 00:26:11,440
+Eu vi que se, se ele, se bater nele, ele some?
+
+673
+00:26:11,580 --> 00:26:12,020
+Não some?
+
+674
+00:26:12,120 --> 00:26:12,800
+Algum negócio assim?
+
+675
+00:26:13,260 --> 00:26:13,700
+Ah, eu não sei.
+
+676
+00:26:13,780 --> 00:26:14,220
+Você que sabe.
+
+677
+00:26:14,320 --> 00:26:15,140
+Como é que a gente faz?
+
+678
+00:26:16,280 --> 00:26:17,360
+Bom, então eu vou fazer o seguinte.
+
+679
+00:26:18,020 --> 00:26:21,800
+Eu vou tentar atraí-lo e você tenta aproveitar e atacá-lo também.
+
+680
+00:26:21,820 --> 00:26:22,620
+Pelas costas, né?
+
+681
+00:26:23,740 --> 00:26:24,100
+Perfeito.
+
+682
+00:26:24,220 --> 00:26:24,320
+Tá.
+
+683
+00:26:24,420 --> 00:26:27,980
+Eu pego minha chave inglesa e...
+
+684
+00:26:27,980 --> 00:26:31,720
+Assim, eu tô indo pra uma direção me afastando do carro pra dar abertura pra ela.
+
+685
+00:26:31,720 --> 00:26:34,560
+Pra eu ficar mais próximo do Jason.
+
+686
+00:26:34,580 --> 00:26:36,320
+Tu vai pra cima do Jason, é isso?
+
+687
+00:26:39,480 --> 00:26:41,760
+Eu estou indo pra cima do Jason.
+
+688
+00:26:42,420 --> 00:26:42,920
+Um dado.
+
+689
+00:26:44,840 --> 00:26:47,420
+Não, é uma coisa muito inteligente de se fazer.
+
+690
+00:26:47,440 --> 00:26:50,120
+Não era bem isso que eu tava planejando, mas tá bom.
+
+691
+00:26:51,240 --> 00:26:51,760
+Tirou quanto?
+
+692
+00:26:52,700 --> 00:26:53,180
+Dois.
+
+693
+00:26:54,100 --> 00:26:55,080
+Que é o teu atributo.
+
+694
+00:26:55,560 --> 00:26:59,420
+Tu bate com força com a chave de boca que tu tinha na mão.
+
+695
+00:27:00,180 --> 00:27:01,980
+Várias vezes no Jason.
+
+696
+00:27:02,520 --> 00:27:04,280
+Ele tá tonto ali alguns segundos.
+
+697
+00:27:04,280 --> 00:27:06,060
+Eu quero bater nele também.
+
+698
+00:27:06,120 --> 00:27:07,680
+Ele não morre, né? Ele só fica tonto.
+
+699
+00:27:07,740 --> 00:27:08,540
+Mas ele não some?
+
+700
+00:27:09,100 --> 00:27:09,820
+Não, ele não some.
+
+701
+00:27:09,840 --> 00:27:10,460
+Ah, então tá bom.
+
+702
+00:27:11,860 --> 00:27:12,040
+Tá.
+
+703
+00:27:12,360 --> 00:27:14,540
+Enquanto isso, a Louise ficou terminando o carro, é isso?
+
+704
+00:27:14,780 --> 00:27:17,940
+É, eu ia ajudar, mas ele não precisou, então eu vou terminar o carro.
+
+705
+00:27:19,020 --> 00:27:19,920
+Tá, rola um dado.
+
+706
+00:27:21,620 --> 00:27:21,940
+Cinco.
+
+707
+00:27:22,100 --> 00:27:24,280
+Tu já tá dentro do carro dando a partida ali, ele tá funcionando.
+
+708
+00:27:25,160 --> 00:27:25,520
+Eu vejo...
+
+709
+00:27:25,520 --> 00:27:25,860
+O Fred vai entrar?
+
+710
+00:27:26,180 --> 00:27:27,340
+Eu vejo algum sinal...
+
+711
+00:27:27,340 --> 00:27:30,840
+Não, eu devo ver algum sinal de sangue no facão, no Jason, né?
+
+712
+00:27:31,680 --> 00:27:31,960
+Aham.
+
+713
+00:27:31,960 --> 00:27:34,100
+Eu consigo perceber se a...
+
+714
+00:27:34,100 --> 00:27:38,640
+Se a Débora tá por ali, se eu escuto algum grito.
+
+715
+00:27:39,040 --> 00:27:39,720
+Rola um dado.
+
+716
+00:27:41,260 --> 00:27:41,740
+Três.
+
+717
+00:27:42,000 --> 00:27:44,100
+Tu não nota nada de...
+
+718
+00:27:44,100 --> 00:27:47,960
+Não escutou grito nenhum, tu não nota nada que chame a atenção em relação a ela.
+
+719
+00:27:48,460 --> 00:27:51,140
+Mas enquanto tu prestava atenção, o Jason tá se movendo.
+
+720
+00:27:51,720 --> 00:27:53,340
+Louise, o Jason voltou a se mover.
+
+721
+00:27:53,700 --> 00:27:54,960
+É, tá na minha...
+
+722
+00:27:54,960 --> 00:27:57,860
+Tu pode arrancar o carro e ir embora ou esperar.
+
+723
+00:27:58,000 --> 00:28:00,800
+Não, eu quero saber se ele tá... se eu consigo dar ré nele.
+
+724
+00:28:02,340 --> 00:28:04,080
+Não, ele tá do lado do carro.
+
+725
+00:28:04,080 --> 00:28:05,080
+Tu não teria como...
+
+726
+00:28:05,860 --> 00:28:07,380
+Não tem muito espaço pra manobrar.
+
+727
+00:28:07,480 --> 00:28:09,520
+É uma estradinha, tu vai acelerar e ir reto pra ir embora.
+
+728
+00:28:09,640 --> 00:28:12,220
+Eu tenho como, de dentro do carro, atacar ele?
+
+729
+00:28:13,500 --> 00:28:13,820
+Não.
+
+730
+00:28:14,120 --> 00:28:16,060
+Droga, então eu grito, bora, Fred!
+
+731
+00:28:16,640 --> 00:28:17,560
+Olha o Jason!
+
+732
+00:28:18,160 --> 00:28:18,560
+Corre!
+
+733
+00:28:19,000 --> 00:28:19,640
+Ação, Fred.
+
+734
+00:28:20,840 --> 00:28:21,880
+Corre como se...
+
+735
+00:28:21,880 --> 00:28:23,160
+Correu, é o que eu posso fazer.
+
+736
+00:28:23,460 --> 00:28:25,260
+Eu vou pular de ponta nesse carro.
+
+737
+00:28:25,580 --> 00:28:26,580
+E eu já vou saindo.
+
+738
+00:28:26,720 --> 00:28:29,140
+Vai dar as costas pro Jason e tentar entrar no carro, é isso, né?
+
+739
+00:28:29,200 --> 00:28:29,540
+Um dado.
+
+740
+00:28:29,820 --> 00:28:32,080
+Exatamente o que eu vou fazer, porque eu...
+
+741
+00:28:32,080 --> 00:28:33,960
+Aparentemente, nesse jogo eu sou muito burro.
+
+742
+00:28:34,080 --> 00:28:35,700
+E é isso que eu vou fazer.
+
+743
+00:28:36,840 --> 00:28:37,240
+E...
+
+744
+00:28:37,240 --> 00:28:39,280
+Eu tirei três.
+
+745
+00:28:39,620 --> 00:28:42,660
+O Fred vira pra correr, o facão atravessa ele.
+
+746
+00:28:43,660 --> 00:28:44,100
+Não!
+
+747
+00:28:44,120 --> 00:28:45,740
+O Jason atravessa o facão do Fred.
+
+748
+00:28:46,320 --> 00:28:47,180
+Luiz, o que tu faz?
+
+749
+00:28:47,380 --> 00:28:49,140
+Eu acelero, porque já era, né?
+
+750
+00:28:51,260 --> 00:28:55,740
+Tu acelera ali o carro, tem que desviar um pouquinho de algumas árvores, tu vai pelo caminho.
+
+751
+00:28:56,280 --> 00:28:58,120
+Até que tu sai daquela fase.
+
+752
+00:28:58,740 --> 00:28:59,800
+Tudo fica preto.
+
+753
+00:29:04,080 --> 00:29:06,920
+Vocês quatro estão na fogueira.
+
+754
+00:29:07,140 --> 00:29:07,680
+O que aconteceu?
+
+755
+00:29:08,460 --> 00:29:10,680
+Um grito ao longe marca o início da partida.
+
+756
+00:29:10,740 --> 00:29:11,220
+O que aconteceu?
+
+757
+00:29:13,220 --> 00:29:13,540
+Ué?
+
+758
+00:29:13,540 --> 00:29:13,580
+Ué?
+
+759
+00:29:16,120 --> 00:29:16,680
+Peraí.
+
+760
+00:29:17,540 --> 00:29:18,440
+Eram duas sessões?
+
+761
+00:29:19,140 --> 00:29:20,160
+Eu não lembro disso.
+
+762
+00:29:20,580 --> 00:29:21,840
+Eu achei que eu já ia ganhar o dinheiro agora.
+
+763
+00:29:22,920 --> 00:29:23,180
+Ué?
+
+764
+00:29:23,880 --> 00:29:24,440
+Débora?
+
+765
+00:29:24,680 --> 00:29:26,060
+Como que acaba esse jogo?
+
+766
+00:29:26,460 --> 00:29:29,200
+A Débora tá ali, ela já tá correndo pra fazer alguma coisa.
+
+767
+00:29:29,360 --> 00:29:29,640
+Ué?
+
+768
+00:29:29,860 --> 00:29:30,260
+Caramba.
+
+769
+00:29:30,280 --> 00:29:31,580
+Essa menina só corre.
+
+770
+00:29:32,160 --> 00:29:33,320
+São várias sessões.
+
+771
+00:29:34,080 --> 00:29:36,140
+Tô correndo dessa vez pra outra direção.
+
+772
+00:29:36,700 --> 00:29:38,840
+Eu vou correr atrás do Fred.
+
+773
+00:29:39,500 --> 00:29:40,780
+Eu vou junto com o Fred.
+
+774
+00:29:41,320 --> 00:29:42,820
+Eu vi que eles ganharam, então.
+
+775
+00:29:45,500 --> 00:29:49,960
+Vocês vão correndo e tentar fazer alguma coisa, né?
+
+776
+00:29:50,420 --> 00:29:51,440
+Rola dois dados cada um.
+
+777
+00:29:53,220 --> 00:29:53,740
+Fred.
+
+778
+00:29:54,420 --> 00:29:55,620
+Seis e quatro.
+
+779
+00:29:55,980 --> 00:29:58,580
+Ok, essa partida tu vai conseguir fugir.
+
+780
+00:29:58,780 --> 00:29:59,640
+Paul, quanto é que tu tirou?
+
+781
+00:30:00,340 --> 00:30:01,180
+Seis e três.
+
+782
+00:30:02,040 --> 00:30:02,540
+Também.
+
+783
+00:30:02,860 --> 00:30:03,380
+Luiz.
+
+784
+00:30:03,380 --> 00:30:04,600
+Quatro e cinco.
+
+785
+00:30:05,660 --> 00:30:06,300
+Teu atributo.
+
+786
+00:30:06,660 --> 00:30:08,240
+Essa partida os três conseguem fugir.
+
+787
+00:30:08,400 --> 00:30:10,180
+Vocês acabam fugindo de carro novamente.
+
+788
+00:30:11,000 --> 00:30:13,800
+A Débora acaba vindo a falecer no meio da partida.
+
+789
+00:30:14,740 --> 00:30:18,200
+Dez outras partidas começam e terminam com resultados variados.
+
+790
+00:30:18,800 --> 00:30:21,180
+Pela décima terceira vez vocês surgem na fogueira.
+
+791
+00:30:21,700 --> 00:30:22,860
+Gente, para de correr.
+
+792
+00:30:23,160 --> 00:30:24,820
+Gente, eu tô um pouco cansada.
+
+793
+00:30:25,360 --> 00:30:26,660
+Eu não aguento mais isso.
+
+794
+00:30:26,860 --> 00:30:29,320
+A gente tem que descobrir como sair disso daqui.
+
+795
+00:30:29,380 --> 00:30:30,400
+Eu não quero mais brincar.
+
+796
+00:30:32,400 --> 00:30:33,360
+Hum, será que...
+
+797
+00:30:33,360 --> 00:30:35,440
+Não, não pode ser.
+
+798
+00:30:35,800 --> 00:30:37,560
+Se a gente só ficar parado, acontece o quê?
+
+799
+00:30:37,760 --> 00:30:40,860
+Vai morrer e vai ficar tendo que esperar a partida acabar lá de cima.
+
+800
+00:30:41,500 --> 00:30:42,220
+Hum...
+
+801
+00:30:42,220 --> 00:30:46,840
+Eu quero tentar, de alguma maneira, tirar o capacete.
+
+802
+00:30:47,280 --> 00:30:52,660
+Tuas mãos tocam a tua cabeça dentro do jogo e tu sente teu cabelo virtual.
+
+803
+00:30:53,120 --> 00:30:57,960
+Eita, eu acho que tem algum problema no sistema e...
+
+804
+00:30:57,960 --> 00:31:00,400
+Débora, vamos ficar junto dessa vez, por favor?
+
+805
+00:31:00,520 --> 00:31:02,280
+Porque você sempre corre, né?
+
+806
+00:31:02,800 --> 00:31:03,340
+Ela tá ali correndo.
+
+807
+00:31:03,360 --> 00:31:04,920
+Eu tô com vocês, assim, me assustada também.
+
+808
+00:31:05,380 --> 00:31:09,700
+Vamos ver se a gente consegue fazer alguma coisa diferente.
+
+809
+00:31:09,840 --> 00:31:11,340
+O que a gente fez até agora?
+
+810
+00:31:12,380 --> 00:31:14,820
+O Jason surge na fogueira, a Débora começa a correr.
+
+811
+00:31:15,260 --> 00:31:15,780
+Droga!
+
+812
+00:31:16,460 --> 00:31:17,760
+De novo isso.
+
+813
+00:31:17,960 --> 00:31:18,560
+Eu corro também.
+
+814
+00:31:18,800 --> 00:31:19,280
+Luizy?
+
+815
+00:31:19,540 --> 00:31:20,420
+Eu corro, né?
+
+816
+00:31:21,600 --> 00:31:22,120
+Fred?
+
+817
+00:31:23,700 --> 00:31:27,360
+Tá, eu quero ir pra onde o...
+
+818
+00:31:28,000 --> 00:31:30,520
+O Paul tinha bugado na árvore.
+
+819
+00:31:30,520 --> 00:31:32,520
+Eu quero aproveitar essas pequenas...
+
+820
+00:31:33,360 --> 00:31:35,080
+Pequenas falhas, assim, que eu tô...
+
+821
+00:31:35,080 --> 00:31:38,520
+Treze vezes deve ter algum bug, assim, mais característico.
+
+822
+00:31:38,640 --> 00:31:39,760
+Eu quero ir pra esse local.
+
+823
+00:31:39,980 --> 00:31:41,600
+Tô cagando pro Jason.
+
+824
+00:31:42,500 --> 00:31:42,700
+Tá.
+
+825
+00:31:43,180 --> 00:31:44,160
+Tu vai até a árvore.
+
+826
+00:31:44,400 --> 00:31:46,640
+Tu vê que ela não é muito diferente das outras árvores.
+
+827
+00:31:47,300 --> 00:31:47,980
+E o Jason te mata.
+
+828
+00:31:48,720 --> 00:31:48,980
+Ok.
+
+829
+00:31:51,800 --> 00:31:53,020
+Já nem dói mais.
+
+830
+00:31:53,440 --> 00:31:53,660
+Oi.
+
+831
+00:31:54,280 --> 00:31:55,880
+E se a gente for pra onde...
+
+832
+00:31:55,880 --> 00:31:56,620
+De onde ele vem?
+
+833
+00:31:56,960 --> 00:31:57,920
+Pra ver de onde é que ele vem?
+
+834
+00:31:57,980 --> 00:31:58,540
+De onde é que ele sai?
+
+835
+00:31:59,100 --> 00:31:59,840
+De onde ele vem?
+
+836
+00:32:00,200 --> 00:32:01,160
+Eu não sei de onde ele vem.
+
+837
+00:32:01,620 --> 00:32:03,140
+De onde vem os gritos?
+
+838
+00:32:03,360 --> 00:32:04,580
+Ah, tá.
+
+839
+00:32:04,860 --> 00:32:05,240
+Mas...
+
+840
+00:32:05,240 --> 00:32:06,500
+Bora tentar driblar ele.
+
+841
+00:32:06,640 --> 00:32:08,720
+Tá, mostra a direção, que eu não faço ideia.
+
+842
+00:32:09,020 --> 00:32:10,400
+Eu consigo identificar de...
+
+843
+00:32:10,400 --> 00:32:10,800
+Caminho?
+
+844
+00:32:11,140 --> 00:32:13,300
+Vocês vão pro local de onde ele sempre vem, né?
+
+845
+00:32:13,460 --> 00:32:13,640
+É.
+
+846
+00:32:14,060 --> 00:32:15,340
+Vocês vão até lá.
+
+847
+00:32:15,580 --> 00:32:16,880
+Vocês não conseguem identificar exatamente.
+
+848
+00:32:17,080 --> 00:32:18,380
+Talvez ele surja só no mapa.
+
+849
+00:32:19,980 --> 00:32:21,460
+Essa é a partida número cem.
+
+850
+00:32:21,820 --> 00:32:23,940
+Vocês já estão ali há cem partidas.
+
+851
+00:32:24,100 --> 00:32:24,440
+O quê?
+
+852
+00:32:24,640 --> 00:32:25,840
+De novo, os quatro na fogueira.
+
+853
+00:32:26,040 --> 00:32:26,180
+Tá.
+
+854
+00:32:26,800 --> 00:32:28,340
+O mapa tem um limite.
+
+855
+00:32:28,760 --> 00:32:31,380
+Tem algum ponto que a gente fica correndo numa parede invisível?
+
+856
+00:32:32,040 --> 00:32:32,340
+Tem.
+
+857
+00:32:32,760 --> 00:32:33,180
+Alguns pontos.
+
+858
+00:32:33,360 --> 00:32:35,060
+E a gente morre.
+
+859
+00:32:35,080 --> 00:32:37,560
+Mas se tu ficar muito tempo por lá, o Jason aparece, né?
+
+860
+00:32:37,720 --> 00:32:38,020
+Ok.
+
+861
+00:32:38,800 --> 00:32:39,760
+Tá, Guaxa.
+
+862
+00:32:39,800 --> 00:32:40,040
+Olha.
+
+863
+00:32:40,380 --> 00:32:43,360
+O mapa é composto de duas cabanas.
+
+864
+00:32:43,820 --> 00:32:43,980
+Não.
+
+865
+00:32:44,360 --> 00:32:49,280
+Várias cabanas, dois carros, um barco, o lago, duas saídas.
+
+866
+00:32:49,640 --> 00:32:51,420
+Que só são abertas se tu tiver de carro.
+
+867
+00:32:51,720 --> 00:32:53,620
+A gente já saiu de todas as maneiras possíveis.
+
+868
+00:32:53,900 --> 00:32:54,120
+Já.
+
+869
+00:32:54,560 --> 00:32:55,320
+Cem partidas, já.
+
+870
+00:32:55,320 --> 00:32:56,680
+Já sobreviveram os quatro?
+
+871
+00:32:57,040 --> 00:32:57,920
+Os quatro juntos?
+
+872
+00:32:57,940 --> 00:32:59,260
+Já aconteceu de sobreviver os quatro.
+
+873
+00:32:59,260 --> 00:32:59,780
+Já morreram os quatro.
+
+874
+00:32:59,780 --> 00:33:01,260
+Já morremos os quatro.
+
+875
+00:33:01,880 --> 00:33:02,760
+Já morreram os quatro.
+
+876
+00:33:02,760 --> 00:33:03,320
+Não.
+
+877
+00:33:03,360 --> 00:33:06,240
+Na minha cabeça, são cem partidas.
+
+878
+00:33:06,520 --> 00:33:08,120
+Cada partida dessa dura o quê, em média?
+
+879
+00:33:08,380 --> 00:33:09,040
+Dez minutos?
+
+880
+00:33:09,140 --> 00:33:10,720
+Então a gente tá aqui há horas e horas.
+
+881
+00:33:11,140 --> 00:33:13,080
+Uns dez minutos cada partida.
+
+882
+00:33:13,360 --> 00:33:14,000
+Eu sinto fome?
+
+883
+00:33:14,660 --> 00:33:14,940
+Sede?
+
+884
+00:33:15,380 --> 00:33:15,640
+Não.
+
+885
+00:33:16,160 --> 00:33:16,380
+Não.
+
+886
+00:33:16,820 --> 00:33:18,100
+Eu já tentei conversar com o Jason?
+
+887
+00:33:18,480 --> 00:33:18,720
+Já.
+
+888
+00:33:18,900 --> 00:33:19,440
+E ele te matou.
+
+889
+00:33:20,520 --> 00:33:21,760
+Eu já me belisquei.
+
+890
+00:33:22,940 --> 00:33:23,420
+Já.
+
+891
+00:33:23,660 --> 00:33:24,300
+E não adiantou.
+
+892
+00:33:24,620 --> 00:33:26,040
+Ah, era pra eu me beliscar?
+
+893
+00:33:26,480 --> 00:33:26,960
+Droga.
+
+894
+00:33:27,900 --> 00:33:28,620
+Poxa vida.
+
+895
+00:33:28,620 --> 00:33:33,120
+Eu com meus conhecimentos, assim, de estudo,
+
+896
+00:33:33,360 --> 00:33:34,200
+de jogos.
+
+897
+00:33:35,140 --> 00:33:39,140
+Eu sei de algum precedente pra esse tipo de situação.
+
+898
+00:33:40,300 --> 00:33:40,600
+Não.
+
+899
+00:33:42,920 --> 00:33:43,440
+Ok.
+
+900
+00:33:43,880 --> 00:33:46,280
+Eu estou abraçado nos joelhos e começo a chorar.
+
+901
+00:33:46,860 --> 00:33:47,380
+Você...
+
+902
+00:33:47,380 --> 00:33:48,540
+O Jason parece que te mata.
+
+903
+00:33:49,100 --> 00:33:49,360
+Não!
+
+904
+00:33:50,460 --> 00:33:51,700
+Eu já corri de novo.
+
+905
+00:33:52,300 --> 00:33:53,760
+Eu já corri também.
+
+906
+00:33:54,760 --> 00:33:55,100
+E se a gente...
+
+907
+00:33:55,100 --> 00:33:57,820
+E se quando vocês morrem, fica aquele período voando pelo mapa,
+
+908
+00:33:57,820 --> 00:34:01,620
+vocês não conseguem identificar nada que chame muita atenção de vocês,
+
+909
+00:34:02,200 --> 00:34:02,980
+vocês estão ali,
+
+910
+00:34:03,360 --> 00:34:06,360
+o número de partidas já não faz mais diferença,
+
+911
+00:34:06,500 --> 00:34:07,740
+vocês não conseguem lembrar?
+
+912
+00:34:08,460 --> 00:34:08,660
+Eu...
+
+913
+00:34:08,660 --> 00:34:09,660
+Eu vou...
+
+914
+00:34:09,660 --> 00:34:10,660
+Eu quero conversar com a Débora.
+
+915
+00:34:10,700 --> 00:34:11,140
+Ô, Débora.
+
+916
+00:34:11,620 --> 00:34:14,020
+Você tem alguma noção, ideia do que está acontecendo?
+
+917
+00:34:14,160 --> 00:34:15,780
+Como é que a gente pode parar esse inferno?
+
+918
+00:34:15,900 --> 00:34:16,840
+Eu não sei!
+
+919
+00:34:17,540 --> 00:34:18,780
+Eu quero sair daqui!
+
+920
+00:34:19,160 --> 00:34:20,300
+Eu não quero mais jogar!
+
+921
+00:34:20,580 --> 00:34:21,700
+Eu também não, mas...
+
+922
+00:34:21,700 --> 00:34:24,220
+Olha, se a gente continuar correndo e...
+
+923
+00:34:24,220 --> 00:34:25,980
+Enfim, tentando completar o jogo,
+
+924
+00:34:26,060 --> 00:34:27,880
+a gente não vai ter resultado.
+
+925
+00:34:28,280 --> 00:34:29,780
+Eu quero tacar fogo nas coisas.
+
+926
+00:34:32,240 --> 00:34:33,180
+Tacar com a fogueira?
+
+927
+00:34:33,360 --> 00:34:34,000
+Com a gasolina.
+
+928
+00:34:35,240 --> 00:34:36,000
+Com a gasolina.
+
+929
+00:34:36,560 --> 00:34:38,460
+Não é inflamável.
+
+930
+00:34:38,720 --> 00:34:40,360
+O jogo não prevê esse tipo de atitude.
+
+931
+00:34:40,400 --> 00:34:40,880
+Droga!
+
+932
+00:34:41,800 --> 00:34:45,320
+Eu não consigo pegar um fogo da fogueira e levar até o carro,
+
+933
+00:34:45,460 --> 00:34:46,380
+explodir o carro.
+
+934
+00:34:46,700 --> 00:34:48,400
+Não, o fogo só fica ali.
+
+935
+00:34:49,080 --> 00:34:49,760
+Meu Deus.
+
+936
+00:34:50,380 --> 00:34:52,100
+Eu quero tentar acessar um menu,
+
+937
+00:34:52,940 --> 00:34:55,180
+opções, alguma coisa assim.
+
+938
+00:34:55,400 --> 00:34:57,120
+Tu não tem um controle, tu não consegue.
+
+939
+00:34:57,600 --> 00:34:59,520
+Tá, mas quando eu mexo,
+
+940
+00:34:59,760 --> 00:35:01,060
+o meu personagem me mexe.
+
+941
+00:35:01,060 --> 00:35:03,320
+Então eu tenho um certo controle do meu personagem.
+
+942
+00:35:03,360 --> 00:35:06,020
+Tu tem total controle do personagem?
+
+943
+00:35:06,680 --> 00:35:09,020
+Tipo, se tu quer mexer a tua mão,
+
+944
+00:35:09,100 --> 00:35:10,460
+tu vai mexer a mão do personagem.
+
+945
+00:35:11,060 --> 00:35:11,500
+Certo.
+
+946
+00:35:13,860 --> 00:35:14,500
+Caramba, hein?
+
+947
+00:35:15,420 --> 00:35:17,800
+No telefone, quando eu vou no telefone,
+
+948
+00:35:18,360 --> 00:35:19,720
+eu só tenho uma opção de número
+
+949
+00:35:19,720 --> 00:35:20,800
+ou eu posso ligar pra outro?
+
+950
+00:35:21,200 --> 00:35:22,720
+Tu pode ligar pra qualquer número,
+
+951
+00:35:23,080 --> 00:35:24,980
+mas a polícia só vem se tu ligar a 9 e 1.
+
+952
+00:35:25,720 --> 00:35:27,360
+Eu quero...
+
+953
+00:35:27,360 --> 00:35:29,360
+Meu personagem deve saber...
+
+954
+00:35:29,360 --> 00:35:30,560
+Nossa, uma coisa, eu quero tentar
+
+955
+00:35:30,560 --> 00:35:33,240
+fazer um SOS ali nas teclas
+
+956
+00:35:33,240 --> 00:35:35,140
+pra ver se, sei lá, eu mando alguma
+
+957
+00:35:35,140 --> 00:35:36,160
+mensagem pra fora.
+
+958
+00:35:38,000 --> 00:35:39,220
+Alguma coisa assim
+
+959
+00:35:39,220 --> 00:35:41,800
+que demonstre um comportamento
+
+960
+00:35:41,800 --> 00:35:43,220
+estranho do
+
+961
+00:35:43,220 --> 00:35:44,540
+personagem.
+
+962
+00:35:44,540 --> 00:35:46,740
+Que não faria sentido
+
+963
+00:35:46,740 --> 00:35:48,640
+se alguém estivesse vendo esse jogo.
+
+964
+00:35:49,020 --> 00:35:50,700
+Tu morre algumas vezes até conseguir
+
+965
+00:35:50,700 --> 00:35:52,540
+fazer isso e não dá em nada.
+
+966
+00:35:53,060 --> 00:35:54,860
+Eu parei de correr e já tenho algumas partidas.
+
+967
+00:35:55,720 --> 00:35:56,960
+Eu só fico esperando o Jason.
+
+968
+00:35:57,460 --> 00:35:58,280
+Tô pensando aqui.
+
+969
+00:35:59,740 --> 00:36:00,920
+Depois de muitas
+
+970
+00:36:00,920 --> 00:36:02,680
+partidas, muitas mesmo,
+
+971
+00:36:02,680 --> 00:36:04,700
+a Débora, ela não aparece
+
+972
+00:36:04,700 --> 00:36:06,160
+na partida.
+
+973
+00:36:06,680 --> 00:36:08,940
+No lugar dela, tem outras três pessoas.
+
+974
+00:36:09,600 --> 00:36:10,500
+Outras três pessoas?
+
+975
+00:36:11,440 --> 00:36:11,620
+Oi?
+
+976
+00:36:12,120 --> 00:36:12,920
+Quem são vocês?
+
+977
+00:36:13,220 --> 00:36:16,360
+A partida começa e eles começam a correr aleatoriamente pra fazer as coisas.
+
+978
+00:36:16,380 --> 00:36:18,720
+Eu vou correr atrás deles. Ei, espera, quem são vocês?
+
+979
+00:36:19,440 --> 00:36:20,640
+Eles não falam, eles só estão
+
+980
+00:36:20,640 --> 00:36:22,640
+fazendo as coisas. O movimento deles é mais
+
+981
+00:36:22,640 --> 00:36:23,860
+duro que o de vocês, inclusive.
+
+982
+00:36:24,500 --> 00:36:25,960
+Fred, o que aconteceu com a Débora?
+
+983
+00:36:27,040 --> 00:36:28,400
+Eu quero pegar um pé de cabra e
+
+984
+00:36:28,400 --> 00:36:29,300
+bater num deles.
+
+985
+00:36:29,300 --> 00:36:30,480
+Pô, o Luiz...
+
+986
+00:36:30,480 --> 00:36:32,460
+Não tem dano a amigos.
+
+987
+00:36:32,680 --> 00:36:34,900
+Então tu bate, mas não acontece nada.
+
+988
+00:36:35,260 --> 00:36:36,680
+Mas ele também não reage, não faz nada.
+
+989
+00:36:37,220 --> 00:36:38,420
+Não se irrita, nada.
+
+990
+00:36:38,420 --> 00:36:40,120
+Ele começa a pular na tua frente.
+
+991
+00:36:40,320 --> 00:36:41,600
+Pular, pular, pular, pular.
+
+992
+00:36:42,860 --> 00:36:44,760
+Depois ele volta a fazer as coisas que ele tem que fazer.
+
+993
+00:36:45,280 --> 00:36:46,120
+A gente tá...
+
+994
+00:36:46,120 --> 00:36:48,240
+A gente tá conectado na internet.
+
+995
+00:36:48,640 --> 00:36:50,120
+Esses são...
+
+996
+00:36:50,120 --> 00:36:53,140
+Outras pessoas jogando em casa.
+
+997
+00:36:54,320 --> 00:36:54,760
+Exato.
+
+998
+00:36:56,420 --> 00:36:57,460
+Esse comportamento
+
+999
+00:36:57,460 --> 00:36:58,560
+de pular é muito comum.
+
+1000
+00:36:58,560 --> 00:37:00,680
+Como o jogo não dá
+
+1001
+00:37:00,680 --> 00:37:02,460
+muitas opções de interação, as pessoas
+
+1002
+00:37:02,460 --> 00:37:04,460
+pulam pra se comunicar.
+
+1003
+00:37:06,020 --> 00:37:08,120
+A gente tá conectado na internet.
+
+1004
+00:37:08,460 --> 00:37:09,880
+Talvez a gente consiga mandar
+
+1005
+00:37:09,880 --> 00:37:11,760
+alguma mensagem pra eles.
+
+1006
+00:37:12,760 --> 00:37:13,140
+Isso.
+
+1007
+00:37:13,520 --> 00:37:16,240
+A gente consegue escrever
+
+1008
+00:37:16,240 --> 00:37:17,340
+num pedaço de papel?
+
+1009
+00:37:19,380 --> 00:37:20,320
+Alterar o cenário
+
+1010
+00:37:20,320 --> 00:37:21,120
+de alguma maneira?
+
+1011
+00:37:22,080 --> 00:37:24,560
+Não. A maior parte dos objetos do cenário são fixos.
+
+1012
+00:37:25,260 --> 00:37:26,100
+Eu posso fazer poses
+
+1013
+00:37:26,100 --> 00:37:28,220
+com a minha mão assim? Eu posso fazer
+
+1014
+00:37:28,220 --> 00:37:29,160
+posições diferentes?
+
+1015
+00:37:29,160 --> 00:37:31,360
+Ou eu tenho um padrão
+
+1016
+00:37:31,360 --> 00:37:32,420
+de movimento do jogo?
+
+1017
+00:37:32,460 --> 00:37:35,300
+Tu pode fazer qualquer movimento com a tua mão, sim.
+
+1018
+00:37:35,760 --> 00:37:37,480
+Eu vou fazer uma coisa muito esquisita
+
+1019
+00:37:37,480 --> 00:37:39,300
+que não tem no jogo, assim, tipo...
+
+1020
+00:37:39,300 --> 00:37:40,280
+Não faz sentido nenhum.
+
+1021
+00:37:40,920 --> 00:37:43,080
+Tipo, eu, você...
+
+1022
+00:37:43,080 --> 00:37:45,100
+Eu faço SOS com a mão.
+
+1023
+00:37:46,280 --> 00:37:47,740
+Como é que tu faz SOS com a mão?
+
+1024
+00:37:47,940 --> 00:37:49,100
+Nerd, você sabe Libras?
+
+1025
+00:37:49,200 --> 00:37:51,240
+Eu faço um S, faço um círculo e faço
+
+1026
+00:37:51,240 --> 00:37:52,840
+outro S, gente. É simples.
+
+1027
+00:37:54,560 --> 00:37:56,040
+Tá, com os dedos assim, né?
+
+1028
+00:37:56,220 --> 00:37:56,780
+É, exato.
+
+1029
+00:37:56,780 --> 00:37:58,140
+Eu desenho no ar, sabe?
+
+1030
+00:37:58,220 --> 00:37:59,460
+S-O-S.
+
+1031
+00:38:01,060 --> 00:38:02,260
+Meu personagem não sabe
+
+1032
+00:38:02,260 --> 00:38:04,180
+Libras. Libras não faria sentido.
+
+1033
+00:38:04,320 --> 00:38:06,180
+Seria linguagem americana de sinais.
+
+1034
+00:38:06,260 --> 00:38:08,000
+Eu não saberia fazer.
+
+1035
+00:38:08,580 --> 00:38:09,960
+Nem sei se a pessoa entenderia também.
+
+1036
+00:38:10,100 --> 00:38:12,260
+Então eu tô fazendo o símbolo internacional de socorro.
+
+1037
+00:38:13,020 --> 00:38:14,720
+Eu tô distraindo o Jason enquanto ele faz isso.
+
+1038
+00:38:15,780 --> 00:38:16,180
+Obrigado.
+
+1039
+00:38:16,400 --> 00:38:18,140
+Ah, Luiz? Tô chorando no chão.
+
+1040
+00:38:19,760 --> 00:38:20,280
+É o símbolo
+
+1041
+00:38:20,280 --> 00:38:22,260
+internacional de, por favor, me ajuda.
+
+1042
+00:38:25,300 --> 00:38:25,700
+Justo.
+
+1043
+00:38:26,260 --> 00:38:27,700
+Eu aponto pra ela, assim, ó.
+
+1044
+00:38:28,740 --> 00:38:30,240
+Essa, essa. Eu aponto pra ela.
+
+1045
+00:38:30,240 --> 00:38:32,240
+Eu aguento mais.
+
+1046
+00:38:32,260 --> 00:38:36,260
+Milhares de partidas
+
+1047
+00:38:36,260 --> 00:38:37,860
+acontecem. Eu não acredito.
+
+1048
+00:38:37,880 --> 00:38:40,260
+Meu Deus. Sempre pessoas diferentes
+
+1049
+00:38:40,260 --> 00:38:42,240
+surgindo como você. Meu Deus. Ninguém vai ajudar
+
+1050
+00:38:42,240 --> 00:38:42,900
+a gente.
+
+1051
+00:38:43,760 --> 00:38:45,240
+Em algumas partidas,
+
+1052
+00:38:45,580 --> 00:38:48,280
+em algumas partidas, vocês estão sozinhos, inclusive.
+
+1053
+00:38:48,920 --> 00:38:50,100
+Sem os outros dois amigos.
+
+1054
+00:38:50,360 --> 00:38:52,240
+Mas a maioria delas tá os três juntos.
+
+1055
+00:38:52,580 --> 00:38:54,320
+Eu acho que eu começo a testar as coisas.
+
+1056
+00:38:54,720 --> 00:38:56,100
+Tipo, procurar cada gaveta,
+
+1057
+00:38:56,360 --> 00:38:57,600
+tentar fazer, sei lá,
+
+1058
+00:38:58,460 --> 00:39:00,520
+coisas diferentes, aleatórias
+
+1059
+00:39:00,520 --> 00:39:02,200
+em cada vez, pra ver se alguma
+
+1060
+00:39:02,200 --> 00:39:03,000
+coisa funciona.
+
+1061
+00:39:04,200 --> 00:39:06,100
+O Fred, que é o mais inteligente
+
+1062
+00:39:06,100 --> 00:39:08,300
+do grupo, acha que pelo menos
+
+1063
+00:39:08,300 --> 00:39:10,380
+umas 10, 20 mil repetições já foram
+
+1064
+00:39:10,380 --> 00:39:12,020
+feitas. E vocês não cansam.
+
+1065
+00:39:12,160 --> 00:39:14,340
+Eu tô, eu tô, eu tô
+
+1066
+00:39:14,340 --> 00:39:15,600
+que nem a Luizy, sabe?
+
+1067
+00:39:15,860 --> 00:39:17,800
+Eu tô deitado na cama,
+
+1068
+00:39:18,220 --> 00:39:19,300
+fingindo que eu tô dormindo.
+
+1069
+00:39:19,800 --> 00:39:22,020
+Depois eu tô, assim, no telhado, brincando,
+
+1070
+00:39:22,180 --> 00:39:24,440
+tentando dar mortal. Eu já tô, tipo,
+
+1071
+00:39:25,180 --> 00:39:26,260
+me acostumando, sabe?
+
+1072
+00:39:26,440 --> 00:39:27,500
+Tô em casa agora.
+
+1073
+00:39:27,500 --> 00:39:28,900
+Não tem perspectiva.
+
+1074
+00:39:29,420 --> 00:39:30,940
+Lê um livro pro Jason.
+
+1075
+00:39:32,200 --> 00:39:33,900
+Os Três Forquinhos.
+
+1076
+00:39:35,200 --> 00:39:36,180
+Pau, morreu.
+
+1077
+00:39:37,320 --> 00:39:38,560
+Quando eles não tão comigo, inclusive,
+
+1078
+00:39:38,640 --> 00:39:40,000
+eu tô atrapalhando quem tá jogando.
+
+1079
+00:39:42,760 --> 00:39:44,160
+Aqui não é meu mundo, já.
+
+1080
+00:39:45,700 --> 00:39:47,980
+Meu Deus, que inferno é esse?
+
+1081
+00:39:48,500 --> 00:39:50,740
+Em algum momento eu quero tentar entrar no lago.
+
+1082
+00:39:51,260 --> 00:39:51,580
+Tu acha?
+
+1083
+00:39:52,100 --> 00:39:52,580
+Perfeito.
+
+1084
+00:39:54,200 --> 00:39:56,180
+Depois de... Tu entra no lago,
+
+1085
+00:39:56,180 --> 00:39:58,380
+depois de um tempo, o Jason aparece no lago
+
+1086
+00:39:58,380 --> 00:39:59,800
+e puxa você, de qualquer forma.
+
+1087
+00:40:00,280 --> 00:40:01,520
+O Jason tá sempre lá presente.
+
+1088
+00:40:02,200 --> 00:40:04,880
+Mas depois de mais algumas, muitas e muitas repetições,
+
+1089
+00:40:05,840 --> 00:40:07,220
+algo diferente acontece.
+
+1090
+00:40:11,660 --> 00:40:12,140
+Opa.
+
+1091
+00:40:12,700 --> 00:40:13,120
+O quê?
+
+1092
+00:40:13,440 --> 00:40:16,640
+Vocês três lá, surgem três pessoas aleatórias
+
+1093
+00:40:16,640 --> 00:40:17,720
+que pulam
+
+1094
+00:40:17,720 --> 00:40:21,060
+e fazem algumas caretas
+
+1095
+00:40:21,060 --> 00:40:23,320
+ali, pré-prontas, né?
+
+1096
+00:40:24,520 --> 00:40:26,540
+O chão, ele,
+
+1097
+00:40:26,540 --> 00:40:28,260
+em vez daquele grito habitual
+
+1098
+00:40:28,260 --> 00:40:30,480
+de começar uma partida, o chão, ele
+
+1099
+00:40:30,480 --> 00:40:31,360
+treme um pouquinho.
+
+1100
+00:40:31,360 --> 00:40:32,520
+O que é isso?
+
+1101
+00:40:32,660 --> 00:40:33,060
+Opa.
+
+1102
+00:40:34,220 --> 00:40:35,680
+Isso não tá na programação.
+
+1103
+00:40:36,220 --> 00:40:37,040
+Um terremoto?
+
+1104
+00:40:37,860 --> 00:40:39,600
+Fred, tu que é nerd, explica.
+
+1105
+00:40:39,860 --> 00:40:40,660
+O que que tá acontecendo?
+
+1106
+00:40:40,920 --> 00:40:42,740
+Pode ser que tenham atualizado o jogo
+
+1107
+00:40:42,740 --> 00:40:45,160
+e tenham mudado o vilão.
+
+1108
+00:40:45,720 --> 00:40:46,760
+Afinal de contas...
+
+1109
+00:40:46,760 --> 00:40:48,000
+Agora botaram um terremoto?
+
+1110
+00:40:48,660 --> 00:40:50,660
+Ou algo pior, vai saber.
+
+1111
+00:40:51,740 --> 00:40:54,360
+Eu tô indo em direção do tremor.
+
+1112
+00:40:55,020 --> 00:40:57,240
+Tô fazendo aspas com os dedos digitais no jogo.
+
+1113
+00:40:57,320 --> 00:40:58,360
+Tu vê o...
+
+1114
+00:40:59,060 --> 00:41:00,760
+Tiranossauro Rex, não muito alto.
+
+1115
+00:41:01,360 --> 00:41:02,700
+Tá correndo na direção de vocês.
+
+1116
+00:41:04,120 --> 00:41:05,060
+Não acredito.
+
+1117
+00:41:06,020 --> 00:41:07,140
+Pô, depois de
+
+1118
+00:41:07,140 --> 00:41:09,640
+cinco zilhões de versões,
+
+1119
+00:41:09,780 --> 00:41:11,880
+vocês pensam em trocar o vilão?
+
+1120
+00:41:11,880 --> 00:41:12,400
+Ah!
+
+1121
+00:41:13,400 --> 00:41:15,260
+Eu já teria colocado
+
+1122
+00:41:15,260 --> 00:41:17,940
+um tanto de vilões, agora de Tiranossauro
+
+1123
+00:41:17,940 --> 00:41:18,120
+isso não faz sentido.
+
+1124
+00:41:18,120 --> 00:41:19,660
+Eu quero montar no Tiranossauro.
+
+1125
+00:41:19,900 --> 00:41:23,720
+O Fred tava lá falando, o Tiranossauro come ele com a bocada.
+
+1126
+00:41:23,800 --> 00:41:25,820
+Eu quero tentar montar no Tiranossauro.
+
+1127
+00:41:27,160 --> 00:41:27,680
+Pode?
+
+1128
+00:41:27,700 --> 00:41:28,840
+Tu é a segunda a morrer.
+
+1129
+00:41:28,920 --> 00:41:29,280
+Droga.
+
+1130
+00:41:30,560 --> 00:41:30,880
+Eu quero...
+
+1131
+00:41:30,880 --> 00:41:31,280
+Eu quero...
+
+1132
+00:41:31,280 --> 00:41:31,340
+Eu quero...
+
+1133
+00:41:31,360 --> 00:41:32,860
+Eu quero entrar na cabana e sentar numa privada.
+
+1134
+00:41:35,580 --> 00:41:36,560
+Ficar esperando.
+
+1135
+00:41:38,320 --> 00:41:38,720
+Perfeito.
+
+1136
+00:41:38,740 --> 00:41:39,180
+Muito bom.
+
+1137
+00:41:39,540 --> 00:41:41,980
+O Tiranossauro é grande demais pra entrar pela porta,
+
+1138
+00:41:42,100 --> 00:41:43,220
+não foi programado pra isso.
+
+1139
+00:41:43,860 --> 00:41:45,400
+O jogo acaba por tempo
+
+1140
+00:41:45,400 --> 00:41:47,620
+e ele não consegue te pegar lá.
+
+1141
+00:41:49,140 --> 00:41:49,480
+Ok.
+
+1142
+00:41:49,820 --> 00:41:50,900
+Ganhar dele é fácil, gente.
+
+1143
+00:41:50,920 --> 00:41:51,700
+É só entrar na cabana.
+
+1144
+00:41:52,100 --> 00:41:54,120
+Eu não quero ganhar dele, eu quero sair daqui.
+
+1145
+00:41:54,680 --> 00:41:55,740
+É um problema de cada vez.
+
+1146
+00:41:55,780 --> 00:41:57,760
+Em algumas partidas de agora em diante
+
+1147
+00:41:57,760 --> 00:42:00,680
+são palhaços, são outros...
+
+1148
+00:42:00,680 --> 00:42:01,280
+Palhaços não são palhaços.
+
+1149
+00:42:01,280 --> 00:42:03,940
+... monstros do cinema, outras criaturas.
+
+1150
+00:42:04,060 --> 00:42:05,300
+Às vezes volta o dinossauro.
+
+1151
+00:42:05,620 --> 00:42:07,380
+E o dinossauro é o mais bugado de todos.
+
+1152
+00:42:08,380 --> 00:42:11,640
+Mas várias e várias repetições acontecem.
+
+1153
+00:42:11,640 --> 00:42:13,640
+Até que numa das vezes...
+
+1154
+00:42:14,460 --> 00:42:19,300
+E que vocês acordam, sentem aquela fogueira.
+
+1155
+00:42:19,760 --> 00:42:22,440
+Já tem aquele desânimo de mais uma vez estar começando.
+
+1156
+00:42:22,880 --> 00:42:24,440
+Parece ser um jogo normal agora.
+
+1157
+00:42:24,860 --> 00:42:28,640
+Aquele grito que marca que é uma fase com o Jason.
+
+1158
+00:42:29,220 --> 00:42:30,700
+Vocês escutam à distância.
+
+1159
+00:42:31,280 --> 00:42:32,120
+Rola um dado cada um.
+
+1160
+00:42:34,040 --> 00:42:34,440
+Fred.
+
+1161
+00:42:35,120 --> 00:42:35,640
+Cinco.
+
+1162
+00:42:36,300 --> 00:42:37,440
+Tu ouviu, Luísa.
+
+1163
+00:42:37,760 --> 00:42:38,240
+Três.
+
+1164
+00:42:39,380 --> 00:42:40,060
+Não ouviu.
+
+1165
+00:42:40,600 --> 00:42:40,840
+Paul.
+
+1166
+00:42:41,020 --> 00:42:41,540
+Três também.
+
+1167
+00:42:42,440 --> 00:42:43,040
+Três também.
+
+1168
+00:42:43,180 --> 00:42:43,700
+Não ouviu.
+
+1169
+00:42:44,340 --> 00:42:47,300
+O Fred e a Luísa estão ali prontos pra morrer mais uma vez.
+
+1170
+00:42:47,380 --> 00:42:48,200
+Desanimados da vida.
+
+1171
+00:42:48,960 --> 00:42:53,140
+O Fred escuta o telefone de uma das cabanas tocar.
+
+1172
+00:42:53,960 --> 00:42:56,080
+Ué, isso não é normal.
+
+1173
+00:42:56,420 --> 00:42:57,660
+Acho que atualizaram o jogo de novo, hein?
+
+1174
+00:42:57,880 --> 00:42:58,960
+Eu saio correndo pra lá.
+
+1175
+00:42:59,060 --> 00:42:59,220
+O quê?
+
+1176
+00:42:59,620 --> 00:42:59,900
+O quê?
+
+1177
+00:42:59,900 --> 00:43:00,560
+Eu só grito.
+
+1178
+00:43:00,660 --> 00:43:01,120
+Vai, Fred.
+
+1179
+00:43:01,120 --> 00:43:01,180
+Vai, Fred.
+
+1180
+00:43:01,280 --> 00:43:03,160
+E corro em direção ao Jason pra parar ele.
+
+1181
+00:43:03,320 --> 00:43:04,820
+Eu corro atrás do Fred.
+
+1182
+00:43:05,560 --> 00:43:07,040
+O telefone tá tocando.
+
+1183
+00:43:07,680 --> 00:43:11,600
+E tô, assim, chegando o mais rápido possível nesse telefone.
+
+1184
+00:43:12,540 --> 00:43:13,520
+Tá, o Paul tá desarmado.
+
+1185
+00:43:13,580 --> 00:43:14,920
+Ele não consegue parar o Fred, né?
+
+1186
+00:43:15,220 --> 00:43:17,640
+Mas ele para porque é o tempo do Fred matá-lo.
+
+1187
+00:43:18,280 --> 00:43:19,000
+Luísa, Luísa, Luísa.
+
+1188
+00:43:19,980 --> 00:43:21,500
+Qualquer coisa me ganha mais tempo.
+
+1189
+00:43:21,900 --> 00:43:23,000
+Tá, então...
+
+1190
+00:43:23,000 --> 00:43:23,700
+Tá, tá.
+
+1191
+00:43:24,580 --> 00:43:26,040
+Vou tentar distrair o Jason.
+
+1192
+00:43:26,260 --> 00:43:26,520
+Como?
+
+1193
+00:43:26,620 --> 00:43:27,520
+Tu vai só voltar e ser uma vítima?
+
+1194
+00:43:27,520 --> 00:43:29,840
+Não, eu vou procurar alguma coisa pra bater nele.
+
+1195
+00:43:30,660 --> 00:43:31,260
+Dois dados.
+
+1196
+00:43:31,280 --> 00:43:33,960
+Cinco e seis.
+
+1197
+00:43:35,320 --> 00:43:38,160
+Vocês conhecem até os itens que aparecem aleatoriamente.
+
+1198
+00:43:38,760 --> 00:43:40,800
+Muitas vezes vocês já sabem onde eles vão estar.
+
+1199
+00:43:41,120 --> 00:43:43,340
+Tantas vezes repetiram, vocês já conhecem bem o padrão.
+
+1200
+00:43:44,120 --> 00:43:47,000
+Tu encontra um pé de cabra novamente.
+
+1201
+00:43:48,180 --> 00:43:51,060
+Como arma ali encostado de uma das casas.
+
+1202
+00:43:51,640 --> 00:43:55,520
+E tu tá lá, armada, enquanto o Fred corre pra cabana e que o telefone continua a tocar.
+
+1203
+00:43:56,280 --> 00:43:57,660
+Eu tô com muito ódio do Jason.
+
+1204
+00:43:57,660 --> 00:44:00,660
+Eu vou levantar o pé de cabra acima da minha cabeça e correr em direção...
+
+1205
+00:44:01,280 --> 00:44:01,960
+E ele gritando...
+
+1206
+00:44:01,960 --> 00:44:04,320
+Tô cansada.
+
+1207
+00:44:05,360 --> 00:44:06,120
+Dois dados.
+
+1208
+00:44:09,120 --> 00:44:10,080
+Um e quatro.
+
+1209
+00:44:10,760 --> 00:44:11,920
+Agora é um teste de força.
+
+1210
+00:44:12,340 --> 00:44:15,180
+Tu bate com muita força, o Jason, ele para, né?
+
+1211
+00:44:15,240 --> 00:44:16,340
+Tu ganha um tempo ali.
+
+1212
+00:44:16,480 --> 00:44:17,480
+Eu posso continuar batendo?
+
+1213
+00:44:18,400 --> 00:44:19,680
+Fred, atende o telefone.
+
+1214
+00:44:28,960 --> 00:44:30,160
+Trêmulo, eu...
+
+1215
+00:44:30,160 --> 00:44:30,200
+Trêmulo, eu...
+
+1216
+00:44:30,200 --> 00:44:30,280
+Trêmulo, eu...
+
+1217
+00:44:30,280 --> 00:44:30,380
+Trêmulo, eu...
+
+1218
+00:44:30,380 --> 00:44:30,620
+Trêmulo, eu...
+
+1219
+00:44:30,620 --> 00:44:30,680
+Trêmulo, eu...
+
+1220
+00:44:30,680 --> 00:44:30,740
+Trêmulo, eu...
+
+1221
+00:44:30,740 --> 00:44:30,800
+Trêmulo, eu...
+
+1222
+00:44:30,800 --> 00:44:31,080
+Trêmulo, eu...
+
+1223
+00:44:31,080 --> 00:44:32,380
+Socorro! Socorro! Socorro!
+
+1224
+00:44:32,460 --> 00:44:33,060
+Socorro, nos ajude!
+
+1225
+00:44:33,260 --> 00:44:34,420
+A gente tá preso aqui dentro!
+
+1226
+00:44:34,660 --> 00:44:35,360
+Uma voz de mulher.
+
+1227
+00:44:35,660 --> 00:44:38,500
+Na fase com o dinossauro, fujam de barco.
+
+1228
+00:44:38,640 --> 00:44:39,280
+E desliga.
+
+1229
+00:44:39,680 --> 00:44:40,380
+Tá, tá bom.
+
+1230
+00:44:40,700 --> 00:44:41,200
+Tá, tá bom.
+
+1231
+00:44:41,280 --> 00:44:41,940
+Obrigado, obrigado.
+
+1232
+00:44:42,600 --> 00:44:42,840
+Eu...
+
+1233
+00:44:42,840 --> 00:44:46,160
+Eu sorridente e vou lá pra fora assim, dando um abraço no Jason.
+
+1234
+00:44:46,220 --> 00:44:47,600
+Eu consegui afinar o Fred.
+
+1235
+00:44:47,600 --> 00:44:48,240
+O Jason...
+
+1236
+00:44:48,240 --> 00:44:49,740
+O Jason tá...
+
+1237
+00:44:49,740 --> 00:44:51,480
+Eu tô batendo no Jason até agora.
+
+1238
+00:44:51,600 --> 00:44:52,340
+Então ele tá no...
+
+1239
+00:44:52,340 --> 00:44:54,240
+Não sei como ele tá, mas eu tô batendo nele.
+
+1240
+00:44:54,320 --> 00:44:55,520
+Eu tô dando um beijo no Jason.
+
+1241
+00:44:55,560 --> 00:44:56,640
+Eu nunca mais vou te ver.
+
+1242
+00:44:57,420 --> 00:44:59,440
+Eu vou ter saudade de você.
+
+1243
+00:45:00,180 --> 00:45:00,540
+Fred...
+
+1244
+00:45:00,540 --> 00:45:02,100
+Pra eles morrerem, pra perguntar o que teve.
+
+1245
+00:45:03,340 --> 00:45:07,880
+Tá, depois de um tempo, eventualmente, vocês ou acabam mortos, ou o tempo acaba.
+
+1246
+00:45:08,800 --> 00:45:12,040
+Mas o que é relevante é, vocês surgem de novo na fogueira.
+
+1247
+00:45:12,340 --> 00:45:12,700
+Aí...
+
+1248
+00:45:12,700 --> 00:45:15,380
+É uma fase com o Jason, vocês escutam aquele grito lá distante.
+
+1249
+00:45:15,940 --> 00:45:18,400
+E eu falo, gente, em quanto dia você tá vindo?
+
+1250
+00:45:18,520 --> 00:45:19,780
+A gente só vai correr pra ganhar tempo.
+
+1251
+00:45:20,240 --> 00:45:23,920
+A voz no telefone diz que na fase do tiranossauro a gente precisa fugir de barco.
+
+1252
+00:45:24,880 --> 00:45:25,620
+Acho que isso é um...
+
+1253
+00:45:25,620 --> 00:45:26,440
+Você perguntou quem era?
+
+1254
+00:45:26,440 --> 00:45:28,280
+Não deu tempo, ela desligou depois.
+
+1255
+00:45:28,740 --> 00:45:30,160
+Essa é a melhor pista ainda.
+
+1256
+00:45:30,180 --> 00:45:30,440
+Ah, nem...
+
+1257
+00:45:30,540 --> 00:45:32,380
+Não importa, é uma chance que a gente tem.
+
+1258
+00:45:32,400 --> 00:45:35,760
+Bilhões e bilhões e bilhões e bilhões e bilhões e bilhões de vezes.
+
+1259
+00:45:36,140 --> 00:45:38,620
+Eu já perdi a conta já faz muito tempo.
+
+1260
+00:45:40,460 --> 00:45:43,040
+Vocês confiam nas pessoas lá fora que botaram a gente aqui?
+
+1261
+00:45:43,500 --> 00:45:45,820
+Não é como se a gente tivesse outra coisa pra fazer, né?
+
+1262
+00:45:46,320 --> 00:45:47,020
+Ok, né?
+
+1263
+00:45:47,860 --> 00:45:48,780
+Isso é um ponto.
+
+1264
+00:45:49,640 --> 00:45:50,900
+Meu só medo é ser pior, né?
+
+1265
+00:45:50,940 --> 00:45:51,460
+Mas vamos nessa.
+
+1266
+00:45:52,480 --> 00:45:54,660
+Pior do que isso aqui, eu não aguento mais.
+
+1267
+00:45:54,800 --> 00:45:56,200
+Eu não aguento mais isso aqui.
+
+1268
+00:45:56,200 --> 00:45:59,020
+A gente já sabe onde tá o motor do barco, onde tá tudo, né?
+
+1269
+00:45:59,100 --> 00:46:00,380
+Então, quando chegar a hora...
+
+1270
+00:46:00,380 --> 00:46:00,800
+Vai ser fácil.
+
+1271
+00:46:01,160 --> 00:46:01,800
+Aí toda...
+
+1272
+00:46:01,800 --> 00:46:02,860
+Aí eu...
+
+1273
+00:46:02,860 --> 00:46:07,480
+Na hora que eu termino de explicar, eu vou pro Jason, assim, dar outro abraço nele.
+
+1274
+00:46:07,560 --> 00:46:08,380
+Falei, cara...
+
+1275
+00:46:08,380 --> 00:46:09,900
+Para com isso, Fred!
+
+1276
+00:46:10,120 --> 00:46:11,760
+Você não acredita que eu descobri.
+
+1277
+00:46:13,320 --> 00:46:15,540
+Gente, eu tô maluco.
+
+1278
+00:46:15,940 --> 00:46:21,100
+Alguns personagens que não são do grupo de vocês pulam em volta, ficam girando ali.
+
+1279
+00:46:21,620 --> 00:46:25,340
+Tipo, o pessoal acha engraçado quando as outras pessoas, né?
+
+1280
+00:46:25,340 --> 00:46:28,500
+Ou sei lá o que vocês são, abraçam ou fazem coisas diferentes.
+
+1281
+00:46:28,680 --> 00:46:30,240
+Parece esse vietice entregue pro Jason.
+
+1282
+00:46:30,380 --> 00:46:30,560
+Também.
+
+1283
+00:46:31,300 --> 00:46:31,660
+Uhul!
+
+1284
+00:46:31,800 --> 00:46:34,960
+A gente tem que fazer isso sempre, que vai chegar na fase do dinossauro logo.
+
+1285
+00:46:35,260 --> 00:46:35,780
+É, a gente...
+
+1286
+00:46:35,780 --> 00:46:36,980
+A gente fez um sacrifício.
+
+1287
+00:46:37,400 --> 00:46:38,040
+Vamos logo.
+
+1288
+00:46:39,660 --> 00:46:41,140
+Muitas fases, muitas mesmo.
+
+1289
+00:46:41,140 --> 00:46:46,140
+Acho que por vocês estarem esperando uma fase específica, parece demorar ainda mais.
+
+1290
+00:46:50,380 --> 00:46:53,940
+Até que quando começa a partida, vocês escutam aquele...
+
+1291
+00:46:53,940 --> 00:46:56,320
+Vocês sentem o chão tremer embaixo dos seus pés.
+
+1292
+00:46:57,320 --> 00:46:58,240
+Barco! Rápido!
+
+1293
+00:46:58,600 --> 00:46:59,380
+Tem outros jogadores?
+
+1294
+00:46:59,620 --> 00:46:59,900
+Nossa!
+
+1295
+00:47:00,380 --> 00:47:01,520
+Tem outros jogadores.
+
+1296
+00:47:02,620 --> 00:47:03,140
+Certo.
+
+1297
+00:47:03,460 --> 00:47:06,980
+Tá, vamos correr longe deles pra ver se eles atraem o Jason e a gente ganha tempo.
+
+1298
+00:47:08,280 --> 00:47:09,360
+Dois dados cada um.
+
+1299
+00:47:10,880 --> 00:47:11,440
+Luiz.
+
+1300
+00:47:11,640 --> 00:47:12,440
+Quatro e dois.
+
+1301
+00:47:12,740 --> 00:47:15,420
+Sendo quatro o teu atributo, tu tens um acerto crítico.
+
+1302
+00:47:15,800 --> 00:47:16,120
+Fred.
+
+1303
+00:47:16,780 --> 00:47:18,060
+Três e seis.
+
+1304
+00:47:19,040 --> 00:47:19,840
+Um acerto comum.
+
+1305
+00:47:20,560 --> 00:47:20,780
+Paul.
+
+1306
+00:47:21,460 --> 00:47:22,360
+Seis e dois.
+
+1307
+00:47:23,300 --> 00:47:24,380
+Um acerto comum também.
+
+1308
+00:47:24,380 --> 00:47:25,660
+Você...
+
+1309
+00:47:25,660 --> 00:47:28,600
+O Paul e o Fred acham armas, mas não acham nada útil.
+
+1310
+00:47:29,340 --> 00:47:30,380
+A Luiz acha uma outra.
+
+1311
+00:47:30,380 --> 00:47:32,920
+A Luiz acha uma arma, uma arma de bater, não uma arma de fogo.
+
+1312
+00:47:33,500 --> 00:47:36,280
+Acha uma arma e acha a chave do barco.
+
+1313
+00:47:36,900 --> 00:47:38,420
+Achei a chave! Achei a chave!
+
+1314
+00:47:38,740 --> 00:47:40,400
+Falta gasolina, se eu não me engano.
+
+1315
+00:47:40,600 --> 00:47:40,920
+Isso.
+
+1316
+00:47:41,060 --> 00:47:44,840
+Hum, gasolina deve ter no... sei lá onde.
+
+1317
+00:47:45,080 --> 00:47:46,700
+E eu vou tentar atrás da gasolina.
+
+1318
+00:47:46,940 --> 00:47:48,160
+A senhora está perto, vocês...
+
+1319
+00:47:48,160 --> 00:47:51,560
+Vamos junto, vamos junto, todo mundo junto, porque não pode morrer.
+
+1320
+00:47:51,820 --> 00:47:54,340
+O chão começa a tremer quando ele está por perto, o chão está tremendo.
+
+1321
+00:47:54,380 --> 00:47:54,540
+Ok.
+
+1322
+00:47:54,820 --> 00:47:58,500
+Eu vou de casa em casa, porque eu já sei que ele não entra na casa, então...
+
+1323
+00:47:58,500 --> 00:47:58,800
+Isso.
+
+1324
+00:47:59,540 --> 00:47:59,920
+Isso.
+
+1325
+00:48:00,380 --> 00:48:03,240
+Perfeito, vocês aproveitam essa vantagem para ir com calma, né?
+
+1326
+00:48:04,240 --> 00:48:05,240
+E vão olhando.
+
+1327
+00:48:06,260 --> 00:48:07,520
+Rola um dado, Fred.
+
+1328
+00:48:10,060 --> 00:48:10,620
+Um.
+
+1329
+00:48:11,440 --> 00:48:12,240
+Tirei um.
+
+1330
+00:48:13,000 --> 00:48:16,780
+Tu vê um jogador passando lá fora com um galão de gasolina.
+
+1331
+00:48:17,320 --> 00:48:21,640
+Era o galão que tu ia pegar, mas ele entrou na casa primeiro e ele está indo levando para o carro.
+
+1332
+00:48:22,320 --> 00:48:26,380
+Luiz e Paul, tem um filho de uma mãe levando a gasolina para outra casa.
+
+1333
+00:48:26,620 --> 00:48:26,940
+O quê?
+
+1334
+00:48:27,220 --> 00:48:28,100
+Aí eu olho...
+
+1335
+00:48:28,100 --> 00:48:29,760
+Outro jogador está levando galão.
+
+1336
+00:48:29,760 --> 00:48:29,820
+Não.
+
+1337
+00:48:30,380 --> 00:48:32,740
+Eu vou sair correndo para bater no jogador.
+
+1338
+00:48:33,080 --> 00:48:33,640
+Sim, também.
+
+1339
+00:48:33,860 --> 00:48:34,980
+Eu vou derrubar ele e tente dar um.
+
+1340
+00:48:35,220 --> 00:48:38,800
+Tá, vocês não conseguem agredir outros jogadores, como os jogadores não conseguem agredir vocês.
+
+1341
+00:48:38,960 --> 00:48:41,000
+Mas não consigo abraçar ele que nem abraço o Jason.
+
+1342
+00:48:41,080 --> 00:48:43,040
+Tu consegue limitar os movimentos dele, sim.
+
+1343
+00:48:43,300 --> 00:48:46,520
+Tem como pôr ele para fora da casa, a gente tranca ele para o lado de fora?
+
+1344
+00:48:46,660 --> 00:48:48,280
+Ele está lá fora, ele estava correndo para o carro.
+
+1345
+00:48:48,280 --> 00:48:53,040
+Com a minha experiência, eu sei que existe vários galões ou só um galão de gasolina nesse jogo?
+
+1346
+00:48:53,060 --> 00:48:53,940
+Tem dois galões.
+
+1347
+00:48:53,980 --> 00:48:54,460
+Então, gente...
+
+1348
+00:48:54,460 --> 00:48:57,360
+Tem como eu pegar esse galão desse cara, de alguma forma?
+
+1349
+00:48:57,560 --> 00:48:58,840
+Só se ele largar o item.
+
+1350
+00:48:59,000 --> 00:49:00,200
+Mostra a chave para ele, Luiz.
+
+1351
+00:49:00,200 --> 00:49:01,140
+Mostra a chave para ele.
+
+1352
+00:49:01,920 --> 00:49:04,740
+Eu mostro a chave para ele e aponto para o barco.
+
+1353
+00:49:04,840 --> 00:49:05,700
+Eu dou um abraço nela.
+
+1354
+00:49:06,500 --> 00:49:07,220
+Ele pula.
+
+1355
+00:49:07,500 --> 00:49:08,000
+Eu pulo.
+
+1356
+00:49:08,140 --> 00:49:11,820
+Aí eu saio correndo devagarzinho para ver se ele me segue.
+
+1357
+00:49:12,160 --> 00:49:12,980
+Ele está preso, né?
+
+1358
+00:49:13,820 --> 00:49:14,340
+Está preso?
+
+1359
+00:49:15,000 --> 00:49:15,240
+Não.
+
+1360
+00:49:15,440 --> 00:49:16,920
+Ele está preso pelo colega de vocês, não?
+
+1361
+00:49:17,200 --> 00:49:18,060
+Eu já soltei, já.
+
+1362
+00:49:18,720 --> 00:49:19,020
+Ah, tá.
+
+1363
+00:49:19,120 --> 00:49:20,460
+Ele começa a correr para o barco.
+
+1364
+00:49:21,180 --> 00:49:21,860
+Boa, garoto.
+
+1365
+00:49:22,780 --> 00:49:23,260
+Então, vamos.
+
+1366
+00:49:23,260 --> 00:49:25,820
+O Tiranossauro está bem perto de vocês.
+
+1367
+00:49:28,020 --> 00:49:30,020
+Tem como dar um totó na perna desse jogador?
+
+1368
+00:49:30,200 --> 00:49:31,200
+Tem como dar um totó na perna desse jogador?
+
+1369
+00:49:31,960 --> 00:49:33,700
+Deixa a gente subir no barco primeiro.
+
+1370
+00:49:34,080 --> 00:49:35,440
+Aí a gente empurra ele de lá de cima.
+
+1371
+00:49:39,540 --> 00:49:42,720
+Eu dou um sorriso para a Luiz, assim, muito maquiado.
+
+1372
+00:49:42,900 --> 00:49:44,020
+Vai ser o plano melhor que o meu.
+
+1373
+00:49:45,860 --> 00:49:46,220
+Tá.
+
+1374
+00:49:46,780 --> 00:49:48,860
+Estou rolando aqui um D4.
+
+1375
+00:49:49,620 --> 00:49:52,360
+Um vai no Fred, dois na Luiz e três no Paul.
+
+1376
+00:49:52,360 --> 00:49:54,080
+Quatro no jogador aleatório.
+
+1377
+00:49:54,760 --> 00:49:55,320
+Aleatório?
+
+1378
+00:49:55,700 --> 00:49:56,020
+Droga.
+
+1379
+00:49:56,100 --> 00:49:56,540
+Claro.
+
+1380
+00:49:57,080 --> 00:49:57,380
+Um.
+
+1381
+00:49:57,920 --> 00:49:58,520
+Claro.
+
+1382
+00:50:00,200 --> 00:50:03,380
+Vocês estão correndo lá.
+
+1383
+00:50:03,600 --> 00:50:08,800
+O Tiranossauro, ele consegue ser muito rápido às vezes, como o próprio Jason faz.
+
+1384
+00:50:08,880 --> 00:50:10,620
+Ele cola do lado do Fred.
+
+1385
+00:50:11,140 --> 00:50:12,480
+Fred, dois dados.
+
+1386
+00:50:13,600 --> 00:50:15,240
+Ah, de novo, não.
+
+1387
+00:50:16,660 --> 00:50:18,080
+Um e quatro.
+
+1388
+00:50:18,400 --> 00:50:19,840
+Um acerto e uma falha.
+
+1389
+00:50:19,840 --> 00:50:26,860
+Tu até bate no dinossauro, mas ele te morde, tu tá ferido, tu tá andando mais devagar
+
+1390
+00:50:26,860 --> 00:50:29,200
+e ele continua ali, ele vai atrás de ti.
+
+1391
+00:50:29,220 --> 00:50:29,960
+Eu vou tentar atacar.
+
+1392
+00:50:29,960 --> 00:50:30,840
+Eu vou tentar atacar o dinossauro.
+
+1393
+00:50:31,200 --> 00:50:31,540
+Dois dados.
+
+1394
+00:50:31,560 --> 00:50:31,760
+Não!
+
+1395
+00:50:34,040 --> 00:50:38,360
+Eu sei lá, eu tô me arrastando de dor, desespero.
+
+1396
+00:50:40,240 --> 00:50:40,940
+Seis e um.
+
+1397
+00:50:40,940 --> 00:50:45,020
+É, foram dois acertos agora, um do Fred e um da Luiz, né, um de cada.
+
+1398
+00:50:45,700 --> 00:50:48,380
+O dinossauro tá naquele segundinho de tonteira ali.
+
+1399
+00:50:48,900 --> 00:50:51,060
+Eu vou apoiar o Fred pra gente ir mais rápido.
+
+1400
+00:50:51,140 --> 00:50:52,500
+Eu vou apoiar do outro lado o Fred.
+
+1401
+00:50:53,420 --> 00:50:55,120
+Obrigado, obrigado, vamos, vamos, vamos.
+
+1402
+00:50:55,420 --> 00:50:56,540
+É a única chance que a gente tem.
+
+1403
+00:50:56,820 --> 00:50:59,700
+O outro jogador já botou a gasolina e tá pulando dentro do barco.
+
+1404
+00:50:59,960 --> 00:51:01,180
+É, eu vou tentar empurrar.
+
+1405
+00:51:01,180 --> 00:51:01,860
+Ele vai esperar.
+
+1406
+00:51:03,040 --> 00:51:04,740
+Eu tô com a chave, eu tô com a chave.
+
+1407
+00:51:05,240 --> 00:51:06,940
+Ai, meu Deus, que tensão que eu tô...
+
+1408
+00:51:06,940 --> 00:51:07,860
+É, e aí?
+
+1409
+00:51:09,340 --> 00:51:13,420
+Vocês três chegam até o barco ali, o que vão fazer?
+
+1410
+00:51:13,700 --> 00:51:14,460
+Eu empurro o jogador.
+
+1411
+00:51:14,960 --> 00:51:15,820
+E entra ele no barco.
+
+1412
+00:51:15,820 --> 00:51:17,500
+Cara, ele até botou a gasolina.
+
+1413
+00:51:18,000 --> 00:51:18,600
+Só um, só um.
+
+1414
+00:51:18,600 --> 00:51:18,880
+E a ponta já.
+
+1415
+00:51:19,080 --> 00:51:21,600
+Não é a vida dele, é a nossa vida.
+
+1416
+00:51:21,820 --> 00:51:23,020
+Eu não sei se pode ir mais um.
+
+1417
+00:51:23,020 --> 00:51:25,940
+E se der problema por ele tá com a gente, eu já empurrei já.
+
+1418
+00:51:26,480 --> 00:51:27,100
+Já era.
+
+1419
+00:51:27,320 --> 00:51:27,900
+Dois dados.
+
+1420
+00:51:28,680 --> 00:51:29,940
+Se ele vai cair, eu não sei.
+
+1421
+00:51:29,960 --> 00:51:30,100
+Não sei.
+
+1422
+00:51:32,420 --> 00:51:34,200
+Tirei duas vezes meu atributo.
+
+1423
+00:51:35,940 --> 00:51:36,960
+Quatro e quatro.
+
+1424
+00:51:37,340 --> 00:51:41,640
+O jogador até buga e para bem longe assim do lugar onde vocês estão.
+
+1425
+00:51:42,940 --> 00:51:44,260
+Pronto, liga o barco.
+
+1426
+00:51:44,980 --> 00:51:46,160
+Ligar o barco e ir embora.
+
+1427
+00:51:46,260 --> 00:51:51,700
+O barco com vocês três ali, ele começa a se distanciar do lago, né?
+
+1428
+00:51:52,160 --> 00:51:52,980
+Cada vez mais.
+
+1429
+00:51:53,560 --> 00:51:59,740
+Quando ele tá no meio do lago, vocês veem que aquele dinossauro, ele pula de dentro da água.
+
+1430
+00:51:59,960 --> 00:52:03,380
+Pra morder o barco e tudo começa a ficar estranho.
+
+1431
+00:52:03,480 --> 00:52:07,380
+Começa a surgir números, a tela dá uma travada boa.
+
+1432
+00:52:18,860 --> 00:52:19,740
+Tudo tá escuro.
+
+1433
+00:52:19,820 --> 00:52:22,520
+Vocês estão num lugar que não tem chão, não tem teto, nada.
+
+1434
+00:52:22,880 --> 00:52:23,720
+Tá tudo preto.
+
+1435
+00:52:23,840 --> 00:52:24,580
+Não acredito.
+
+1436
+00:52:24,800 --> 00:52:24,920
+Oi?
+
+1437
+00:52:25,420 --> 00:52:26,340
+A gente saiu.
+
+1438
+00:52:26,700 --> 00:52:27,500
+A gente saiu, gente.
+
+1439
+00:52:27,500 --> 00:52:28,020
+É você?
+
+1440
+00:52:28,420 --> 00:52:28,840
+É você?
+
+1441
+00:52:29,100 --> 00:52:29,460
+Eu sou...
+
+1442
+00:52:29,460 --> 00:52:30,480
+Eu acho que sim.
+
+1443
+00:52:30,500 --> 00:52:31,480
+Vocês três se enxergam.
+
+1444
+00:52:31,560 --> 00:52:32,140
+É como...
+
+1445
+00:52:32,140 --> 00:52:32,520
+Ah, tá.
+
+1446
+00:52:34,740 --> 00:52:35,140
+Funcionou.
+
+1447
+00:52:35,280 --> 00:52:37,040
+Eu não acredito que funcionou.
+
+1448
+00:52:38,280 --> 00:52:39,680
+Vai, dá a mão, gente.
+
+1449
+00:52:39,740 --> 00:52:40,060
+Dá a mão.
+
+1450
+00:52:40,160 --> 00:52:41,740
+Vamos andar pra frente.
+
+1451
+00:52:42,240 --> 00:52:42,860
+Vamos pra frente.
+
+1452
+00:52:43,060 --> 00:52:43,820
+Eu tô abraçado.
+
+1453
+00:52:43,900 --> 00:52:45,900
+Vocês chorando assim, copiosamente.
+
+1454
+00:52:46,680 --> 00:52:47,820
+Eu seguro a mão do Fred.
+
+1455
+00:52:48,260 --> 00:52:48,880
+É, a gente...
+
+1456
+00:52:48,880 --> 00:52:50,020
+Vamos andando.
+
+1457
+00:52:50,140 --> 00:52:51,940
+Eu vou sentir tanta saudade do Jason.
+
+1458
+00:52:52,380 --> 00:52:53,080
+Ah, Fred.
+
+1459
+00:52:53,440 --> 00:52:54,320
+Aquela boca, Fred.
+
+1460
+00:52:54,660 --> 00:52:55,600
+Eu dou um morro nele.
+
+1461
+00:52:56,040 --> 00:52:57,340
+Vocês andam, andam.
+
+1462
+00:52:57,520 --> 00:52:59,140
+É tudo escuro pra todos os lados.
+
+1463
+00:52:59,140 --> 00:53:00,000
+Incluindo o chão.
+
+1464
+00:53:00,080 --> 00:53:02,220
+Que vocês não enxergam o chão, mas vocês sentem ele.
+
+1465
+00:53:02,840 --> 00:53:04,260
+Não acredito.
+
+1466
+00:53:04,960 --> 00:53:05,880
+Empolgou de novo.
+
+1467
+00:53:07,060 --> 00:53:12,140
+Olha, se a gente conseguiu sair do jogo, eu vi um pouco de número.
+
+1468
+00:53:12,420 --> 00:53:16,140
+É capaz de a gente estar num lugar que a gente consiga, talvez...
+
+1469
+00:53:17,160 --> 00:53:17,860
+Fazer o quê?
+
+1470
+00:53:18,000 --> 00:53:18,700
+Tá tudo escuro.
+
+1471
+00:53:19,580 --> 00:53:21,080
+Eu sou de humanas.
+
+1472
+00:53:21,320 --> 00:53:22,400
+Eu não sou de exatas.
+
+1473
+00:53:22,480 --> 00:53:23,440
+Eu sentei e chorei.
+
+1474
+00:53:23,480 --> 00:53:26,100
+O jogo era com essa programação.
+
+1475
+00:53:26,100 --> 00:53:29,100
+Então, eu quero tentar a guacha.
+
+1476
+00:53:29,140 --> 00:53:32,080
+Ter uma interface que eu possa interagir.
+
+1477
+00:53:32,240 --> 00:53:39,140
+Eu tô tentando imaginar ela, criar, encostar, achar...
+
+1478
+00:53:39,820 --> 00:53:44,280
+Ou até mesmo pensar num comando, talvez.
+
+1479
+00:53:45,460 --> 00:53:45,760
+Não.
+
+1480
+00:53:45,980 --> 00:53:47,320
+Não consegue pensar em nada.
+
+1481
+00:53:49,080 --> 00:53:50,520
+Eu deito no chão.
+
+1482
+00:53:51,420 --> 00:53:52,680
+Ai, por quê?
+
+1483
+00:53:53,160 --> 00:53:53,980
+Comando de voz.
+
+1484
+00:53:54,980 --> 00:53:56,140
+De um, sei lá...
+
+1485
+00:53:56,860 --> 00:53:57,320
+Exite.
+
+1486
+00:53:59,140 --> 00:53:59,780
+Nada.
+
+1487
+00:54:00,740 --> 00:54:02,300
+Pô, o Fred enlouqueceu.
+
+1488
+00:54:03,060 --> 00:54:03,900
+Eu deito no chão.
+
+1489
+00:54:04,820 --> 00:54:05,600
+Do lado da Louise.
+
+1490
+00:54:06,320 --> 00:54:06,920
+Olhando pro nada.
+
+1491
+00:54:07,640 --> 00:54:08,120
+Eu...
+
+1492
+00:54:08,120 --> 00:54:09,140
+Eu...
+
+1493
+00:54:09,140 --> 00:54:10,000
+Olha...
+
+1494
+00:54:10,000 --> 00:54:11,320
+Eu...
+
+1495
+00:54:11,320 --> 00:54:12,540
+A gente tem que voltar pra lá.
+
+1496
+00:54:12,820 --> 00:54:14,220
+A gente não pode ficar no vazio.
+
+1497
+00:54:14,520 --> 00:54:15,640
+Antes eu tinha o Jason.
+
+1498
+00:54:16,220 --> 00:54:20,380
+Eu só queria testar um Botox, alguma coisa assim, ganhar dinheiro.
+
+1499
+00:54:20,680 --> 00:54:21,740
+Lá a gente tinha alguém.
+
+1500
+00:54:21,880 --> 00:54:22,760
+Lá a gente tinha alguém.
+
+1501
+00:54:22,940 --> 00:54:24,200
+Lá a gente tinha interação.
+
+1502
+00:54:24,540 --> 00:54:25,400
+Aqui não tem nada.
+
+1503
+00:54:25,400 --> 00:54:26,460
+Eu falei que era pelo Wei.
+
+1504
+00:54:26,680 --> 00:54:27,840
+Mas eu só queria entrar na faculdade.
+
+1505
+00:54:28,060 --> 00:54:28,880
+Eu só queria poder pagar.
+
+1506
+00:54:28,880 --> 00:54:29,640
+Era querer demais.
+
+1507
+00:54:29,960 --> 00:54:30,680
+Não era querer demais.
+
+1508
+00:54:30,700 --> 00:54:31,520
+Eu não quero vazio.
+
+1509
+00:54:32,000 --> 00:54:32,020
+Eu...
+
+1510
+00:54:32,020 --> 00:54:33,060
+Eu preciso...
+
+1511
+00:54:33,060 --> 00:54:33,680
+Tá, gente, não.
+
+1512
+00:54:33,780 --> 00:54:34,240
+Pera, pera.
+
+1513
+00:54:34,260 --> 00:54:35,100
+A gente tá surtando.
+
+1514
+00:54:35,520 --> 00:54:35,800
+Bora.
+
+1515
+00:54:35,940 --> 00:54:36,840
+Não, não dá pra surtar.
+
+1516
+00:54:37,580 --> 00:54:37,780
+Tá.
+
+1517
+00:54:38,260 --> 00:54:39,960
+A gente já andou pra todos os lados?
+
+1518
+00:54:40,660 --> 00:54:41,120
+Já, né?
+
+1519
+00:54:41,500 --> 00:54:42,000
+Não sei.
+
+1520
+00:54:42,100 --> 00:54:43,660
+Eu não sei mais que lado é que lado aqui.
+
+1521
+00:54:43,740 --> 00:54:43,940
+Tá.
+
+1522
+00:54:44,440 --> 00:54:45,320
+Tudo se confunde.
+
+1523
+00:54:45,400 --> 00:54:46,200
+Eu quero...
+
+1524
+00:54:46,200 --> 00:54:47,120
+Eu quero tentar...
+
+1525
+00:54:47,120 --> 00:54:48,240
+Então fiquem parados aqui.
+
+1526
+00:54:48,420 --> 00:54:49,980
+Eu vou andar pra frente de vocês.
+
+1527
+00:54:50,260 --> 00:54:50,500
+Não.
+
+1528
+00:54:50,500 --> 00:54:51,240
+Do lado de vocês.
+
+1529
+00:54:51,520 --> 00:54:51,960
+Não o quê?
+
+1530
+00:54:52,000 --> 00:54:52,120
+Não.
+
+1531
+00:54:52,840 --> 00:54:53,940
+Você não vai se afastar, não.
+
+1532
+00:54:54,560 --> 00:54:54,920
+Pera.
+
+1533
+00:54:55,000 --> 00:54:55,860
+Tirar o capacete.
+
+1534
+00:54:56,520 --> 00:54:57,400
+Vamos tirar o capacete.
+
+1535
+00:54:57,400 --> 00:54:58,120
+Tentando tirar o capacete.
+
+1536
+00:54:58,120 --> 00:54:58,440
+Isso.
+
+1537
+00:54:59,420 --> 00:55:00,680
+Vocês não sentem o capacete.
+
+1538
+00:55:00,800 --> 00:55:02,120
+Vocês sentem só o cabelo de vocês.
+
+1539
+00:55:02,980 --> 00:55:05,380
+Ai, mais duas coisas.
+
+1540
+00:55:06,540 --> 00:55:07,860
+Eu sento no chão e falo.
+
+1541
+00:55:08,000 --> 00:55:11,140
+Bom, antes a gente conseguia interagir com as pessoas.
+
+1542
+00:55:11,780 --> 00:55:13,120
+Agora a gente tem um vazio.
+
+1543
+00:55:14,080 --> 00:55:16,060
+Vamos tentar fazer coisas diferentes.
+
+1544
+00:55:16,500 --> 00:55:19,860
+Pular, cantar, dançar, pedir socorro, ligar pra alguém.
+
+1545
+00:55:20,820 --> 00:55:21,900
+Imaginar um telefone.
+
+1546
+00:55:21,980 --> 00:55:22,660
+Vai que ele aparece.
+
+1547
+00:55:23,020 --> 00:55:24,940
+Telefone, telefone, telefone, telefone.
+
+1548
+00:55:24,980 --> 00:55:26,500
+Eu sinto um chão, Guaxa?
+
+1549
+00:55:27,500 --> 00:55:27,800
+Não.
+
+1550
+00:55:28,880 --> 00:55:31,520
+Mas minha mão para na altura onde está meu pé.
+
+1551
+00:55:33,000 --> 00:55:33,360
+Sim.
+
+1552
+00:55:33,900 --> 00:55:35,260
+Mas faz barulho quando a gente pisa?
+
+1553
+00:55:36,020 --> 00:55:36,300
+Não.
+
+1554
+00:55:38,240 --> 00:55:42,040
+Ô, Fred, aquele negócio que você estava me explicando durante essas um milhão de partidas que a gente estava.
+
+1555
+00:55:42,480 --> 00:55:44,420
+De código morse que você tentou.
+
+1556
+00:55:44,860 --> 00:55:45,060
+Ah.
+
+1557
+00:55:45,400 --> 00:55:46,920
+Começa a gritar em código morse aí.
+
+1558
+00:55:46,980 --> 00:55:47,840
+Sei lá como é que isso funciona.
+
+1559
+00:55:48,500 --> 00:55:49,060
+Dá um jeito aí.
+
+1560
+00:55:49,080 --> 00:55:49,280
+Pera aí.
+
+1561
+00:55:49,540 --> 00:55:49,900
+Gritar.
+
+1562
+00:55:49,940 --> 00:55:53,200
+A pessoa disse que era pra gente vir quando tivesse o dinossauro.
+
+1563
+00:55:53,520 --> 00:55:55,440
+Então a pessoa sabe que a gente ia estar aqui.
+
+1564
+00:55:55,440 --> 00:55:58,580
+Então, de certa forma, a pessoa vai chegar aqui em algum momento.
+
+1565
+00:55:58,580 --> 00:56:00,160
+Ou ela sabe que a gente está nesse lugar.
+
+1566
+00:56:00,820 --> 00:56:01,300
+Socorro.
+
+1567
+00:56:01,960 --> 00:56:02,660
+Pera aí.
+
+1568
+00:56:03,820 --> 00:56:04,580
+A gente pode estar...
+
+1569
+00:56:05,200 --> 00:56:09,200
+Olha, eu acho que a gente está com alguém.
+
+1570
+00:56:09,660 --> 00:56:12,180
+Só que a gente está armazenado de alguma maneira.
+
+1571
+00:56:13,600 --> 00:56:14,680
+Então a gente já morreu?
+
+1572
+00:56:15,040 --> 00:56:16,640
+Isso é um save?
+
+1573
+00:56:16,840 --> 00:56:17,800
+Alguma coisa assim?
+
+1574
+00:56:17,920 --> 00:56:19,060
+A gente não está jogando?
+
+1575
+00:56:20,100 --> 00:56:22,680
+Olha, isso pode ser qualquer lugar, literalmente.
+
+1576
+00:56:22,900 --> 00:56:25,980
+Se a pessoa disse que tinha essa porta e a gente chegou lá.
+
+1577
+00:56:25,980 --> 00:56:28,360
+A pessoa com certeza estava esperando a gente.
+
+1578
+00:56:28,580 --> 00:56:33,700
+Então, eu tento, sei lá...
+
+1579
+00:56:33,700 --> 00:56:35,200
+E se a pessoa perdeu a gente?
+
+1580
+00:56:35,200 --> 00:56:36,200
+Não.
+
+1581
+00:56:36,200 --> 00:56:38,660
+Ela deu a orientação e a gente está aqui.
+
+1582
+00:56:38,660 --> 00:56:45,620
+Eu tento fazer, sei lá, uma ligação, mas não um telefone, o número que eu liguei
+
+1583
+00:56:45,620 --> 00:56:46,620
+da outra vez.
+
+1584
+00:56:46,620 --> 00:56:47,620
+Não sei.
+
+1585
+00:56:47,620 --> 00:56:51,040
+Qualquer coisa que eu tente até esforçar alguma coisa, algum detalhe que eu escutei
+
+1586
+00:56:51,040 --> 00:56:52,420
+quando a pessoa falou comigo.
+
+1587
+00:56:52,420 --> 00:56:57,900
+Olha, eu sei que isso é horrível, mas talvez a gente tenha que esperar.
+
+1588
+00:56:57,900 --> 00:56:58,420
+É.
+
+1589
+00:56:58,420 --> 00:56:59,420
+Eu consigo.
+
+1590
+00:56:59,420 --> 00:57:00,420
+Esperar?
+
+1591
+00:57:00,420 --> 00:57:01,420
+Olha, a gente já...
+
+1592
+00:57:01,420 --> 00:57:02,420
+Não.
+
+1593
+00:57:02,420 --> 00:57:03,420
+Vamos pelo menos tentar fazer alguma coisa, qualquer coisa.
+
+1594
+00:57:03,420 --> 00:57:04,420
+Gente, a gente não dorme tem tanto tempo.
+
+1595
+00:57:04,420 --> 00:57:05,420
+A gente pode só dormir um pouquinho?
+
+1596
+00:57:05,420 --> 00:57:06,420
+Eu não consigo dormir, não.
+
+1597
+00:57:06,420 --> 00:57:07,420
+Se você quiser dormir, pode dormir.
+
+1598
+00:57:07,420 --> 00:57:08,420
+Eu fico aqui de vigia.
+
+1599
+00:57:08,420 --> 00:57:09,420
+Então é o seguinte.
+
+1600
+00:57:09,420 --> 00:57:10,420
+Bate três vezes, depois bate três vezes mais rápido e depois bate três vezes mais
+
+1601
+00:57:10,420 --> 00:57:11,420
+devagar.
+
+1602
+00:57:11,420 --> 00:57:12,420
+Isso é o SOS.
+
+1603
+00:57:12,420 --> 00:57:13,420
+Vai que funciona.
+
+1604
+00:57:13,420 --> 00:57:14,420
+Bater aonde?
+
+1605
+00:57:14,420 --> 00:57:15,420
+Lá no chão.
+
+1606
+00:57:15,420 --> 00:57:16,420
+Pula três vezes.
+
+1607
+00:57:16,420 --> 00:57:17,420
+Tá.
+
+1608
+00:57:17,420 --> 00:57:18,420
+Palma, gente.
+
+1609
+00:57:18,420 --> 00:57:19,420
+Não tem problema.
+
+1610
+00:57:19,420 --> 00:57:20,420
+Não tem problema.
+
+1611
+00:57:20,420 --> 00:57:21,420
+Não tem problema.
+
+1612
+00:57:21,420 --> 00:57:22,420
+Não tem problema.
+
+1613
+00:57:22,420 --> 00:57:23,420
+Não tem problema.
+
+1614
+00:57:23,420 --> 00:57:24,420
+Não tem problema.
+
+1615
+00:57:24,420 --> 00:57:25,420
+Não tem problema.
+
+1616
+00:57:25,420 --> 00:57:26,420
+Não tem problema.
+
+1617
+00:57:26,420 --> 00:57:27,420
+Não tem problema.
+
+1618
+00:57:27,420 --> 00:57:28,420
+Não tem problema.
+
+1619
+00:57:28,420 --> 00:57:29,420
+Não tem problema.
+
+1620
+00:57:29,420 --> 00:57:30,420
+Não tem problema.
+
+1621
+00:57:30,420 --> 00:57:31,420
+Palma, gente.
+
+1622
+00:57:31,420 --> 00:57:32,420
+A gente tem mão.
+
+1623
+00:57:32,420 --> 00:57:33,420
+A gente tem mão.
+
+1624
+00:57:33,420 --> 00:57:34,420
+Vou bater palma.
+
+1625
+00:57:34,420 --> 00:57:35,420
+Alguma coisa?
+
+1626
+00:57:35,420 --> 00:57:36,420
+Nada.
+
+1627
+00:57:36,420 --> 00:57:37,420
+Nada.
+
+1628
+00:57:37,420 --> 00:57:38,420
+É, eu vou dormir.
+
+1629
+00:57:38,420 --> 00:57:39,420
+É...
+
+1630
+00:57:39,420 --> 00:57:40,420
+Eu deito no chão.
+
+1631
+00:57:40,420 --> 00:57:41,420
+Eu consigo dormir, Igor?
+
+1632
+00:57:41,420 --> 00:57:42,420
+Baixa.
+
+1633
+00:57:42,420 --> 00:57:43,420
+Tu não...
+
+1634
+00:57:43,420 --> 00:57:44,420
+Tu fecha o olho e não sente sono.
+
+1635
+00:57:44,420 --> 00:57:45,420
+Não sente sono.
+
+1636
+00:57:45,420 --> 00:57:46,420
+Joga dois dados.
+
+1637
+00:57:46,420 --> 00:57:47,420
+Vai.
+
+1638
+00:57:47,420 --> 00:57:48,420
+Tirei três e um.
+
+1639
+00:57:48,420 --> 00:57:49,420
+Tá ali deitado.
+
+1640
+00:57:49,420 --> 00:57:50,420
+Ele fechou o olho.
+
+1641
+00:57:50,420 --> 00:57:51,420
+Tá ali.
+
+1642
+00:57:51,420 --> 00:57:52,420
+Tá ali.
+
+1643
+00:57:52,420 --> 00:57:53,420
+Tá ali.
+
+1644
+00:57:53,420 --> 00:57:54,420
+Tá ali.
+
+1645
+00:57:54,420 --> 00:57:55,420
+Não, não.
+
+1646
+00:57:55,420 --> 00:57:56,420
+Não.
+
+1647
+00:57:56,420 --> 00:57:57,420
+Não.
+
+1648
+00:57:57,420 --> 00:57:58,640
+chato. Ok.
+
+1649
+00:57:59,000 --> 00:58:00,440
+Dois dados, Fred.
+
+1650
+00:58:02,160 --> 00:58:03,440
+Quatro e três.
+
+1651
+00:58:03,800 --> 00:58:04,560
+Tu nota
+
+1652
+00:58:04,560 --> 00:58:06,420
+o Paul, ele deitou.
+
+1653
+00:58:07,360 --> 00:58:09,160
+Ele tá deitado um pouco
+
+1654
+00:58:09,160 --> 00:58:11,200
+mais alto de onde o pé de você está
+
+1655
+00:58:11,200 --> 00:58:11,700
+tocando.
+
+1656
+00:58:14,000 --> 00:58:14,360
+Ué.
+
+1657
+00:58:16,640 --> 00:58:17,720
+Luiz, você tá vendo isso?
+
+1658
+00:58:17,720 --> 00:58:18,360
+O quê?
+
+1659
+00:58:19,960 --> 00:58:21,840
+O Paul tá voando?
+
+1660
+00:58:22,280 --> 00:58:22,520
+Hã?
+
+1661
+00:58:23,800 --> 00:58:25,620
+Ali. Eu vou tentar
+
+1662
+00:58:25,620 --> 00:58:26,820
+pôr o pé embaixo do Paul.
+
+1663
+00:58:27,420 --> 00:58:28,540
+Eu abro o olho.
+
+1664
+00:58:29,660 --> 00:58:31,740
+Quando eu ouço isso. Tá. A Luiz consegue
+
+1665
+00:58:31,740 --> 00:58:32,800
+botar o pé embaixo do Paul.
+
+1666
+00:58:33,800 --> 00:58:35,860
+Eu vou tentar sentar no nada.
+
+1667
+00:58:37,000 --> 00:58:37,640
+Dois dados.
+
+1668
+00:58:39,060 --> 00:58:40,160
+Um e cinco.
+
+1669
+00:58:40,540 --> 00:58:41,480
+Um e cinco, a Luiz.
+
+1670
+00:58:41,700 --> 00:58:43,920
+Ela senta rápido assim.
+
+1671
+00:58:44,520 --> 00:58:45,840
+Ela senta um pouco abaixo
+
+1672
+00:58:45,840 --> 00:58:47,580
+de onde ela tava sentada antes.
+
+1673
+00:58:48,180 --> 00:58:49,780
+E vocês três já não tão no mesmo
+
+1674
+00:58:49,780 --> 00:58:51,420
+linha. Gente!
+
+1675
+00:58:51,740 --> 00:58:54,220
+O chão de vocês não tá no mesmo patamar.
+
+1676
+00:58:54,380 --> 00:58:55,940
+Eu seguro os dois. A gente consegue subir.
+
+1677
+00:58:56,200 --> 00:58:57,160
+A gente consegue subir.
+
+1678
+00:58:57,420 --> 00:58:59,460
+Vamos tentar subir, gente. É a melhor coisa que a gente pode
+
+1679
+00:58:59,460 --> 00:59:01,980
+tentar fazer. Tá, mas segura um no outro.
+
+1680
+00:59:02,120 --> 00:59:03,980
+Porque se a gente se perder no vazio,
+
+1681
+00:59:04,360 --> 00:59:05,420
+eu não sei pra onde a gente vai.
+
+1682
+00:59:07,200 --> 00:59:07,960
+Pra cima?
+
+1683
+00:59:07,980 --> 00:59:08,560
+Eu consigo tirar
+
+1684
+00:59:08,560 --> 00:59:11,360
+minha jaqueta.
+
+1685
+00:59:11,360 --> 00:59:13,800
+Eu amarro
+
+1686
+00:59:13,800 --> 00:59:15,400
+a minha jaqueta no braço esquerdo.
+
+1687
+00:59:15,560 --> 00:59:17,480
+Peço pra Luiz amarrar no braço dela direito.
+
+1688
+00:59:18,160 --> 00:59:19,520
+Ô, Paul, tem uma peça
+
+1689
+00:59:19,520 --> 00:59:21,520
+de roupa aí grande que você possa se amarrar
+
+1690
+00:59:21,520 --> 00:59:23,500
+e amarrar na gente? Eu tô com aquelas jaquetas
+
+1691
+00:59:23,500 --> 00:59:24,880
+de jogador de futebol americano.
+
+1692
+00:59:25,200 --> 00:59:26,740
+Eu tiro pra amarrar.
+
+1693
+00:59:27,420 --> 00:59:29,840
+Por garantia. Guaxa, eu quero
+
+1694
+00:59:29,840 --> 00:59:31,760
+me agachar, assim,
+
+1695
+00:59:31,940 --> 00:59:32,860
+e saltar
+
+1696
+00:59:32,860 --> 00:59:35,620
+e tentar apoiar no vazio
+
+1697
+00:59:35,620 --> 00:59:37,760
+com os braços. Como se eu estivesse pulando
+
+1698
+00:59:37,760 --> 00:59:39,400
+pra subir num muro.
+
+1699
+00:59:39,480 --> 00:59:41,440
+Alguma coisa assim. Tá, a gente vai ter que fazer junto
+
+1700
+00:59:41,440 --> 00:59:42,320
+que a gente tá amarrado. Tá.
+
+1701
+00:59:43,000 --> 00:59:45,460
+Na verdade, ela tá subindo infinitamente
+
+1702
+00:59:45,460 --> 00:59:47,480
+e puxando vocês. Ah, ok.
+
+1703
+00:59:47,680 --> 00:59:49,280
+Ela é forte o suficiente. Sim!
+
+1704
+00:59:49,840 --> 00:59:51,940
+Eu tô forte. Eu tô curtindo
+
+1705
+00:59:51,940 --> 00:59:53,620
+a viagem. Parece que a gravidade não tá
+
+1706
+00:59:53,620 --> 00:59:55,560
+agindo direito sobre vocês. Ela tá
+
+1707
+00:59:55,560 --> 00:59:57,260
+cada vez mais rápido.
+
+1708
+00:59:57,420 --> 00:59:59,620
+Se aproximando da escuridão lá em cima.
+
+1709
+01:00:00,060 --> 01:00:00,960
+Até que ela nota
+
+1710
+01:00:00,960 --> 01:00:03,200
+que o que era só preto começa a mudar.
+
+1711
+01:00:03,900 --> 01:00:05,200
+Ela consegue ver o lago
+
+1712
+01:00:05,200 --> 01:00:07,000
+lá em cima. Ah, não. Não.
+
+1713
+01:00:07,320 --> 01:00:08,420
+Não, não, não, não.
+
+1714
+01:00:09,420 --> 01:00:10,920
+Peraí, peraí, peraí. Eu quero
+
+1715
+01:00:10,920 --> 01:00:13,620
+impulsionar pra baixo de volta
+
+1716
+01:00:13,620 --> 01:00:15,320
+de alguma forma. Não, não, não. Pra baixo não
+
+1717
+01:00:15,320 --> 01:00:17,140
+também. Calma. A gente tem que pensar.
+
+1718
+01:00:18,220 --> 01:00:19,540
+Pera, a gente tá no jogo ainda.
+
+1719
+01:00:20,040 --> 01:00:21,060
+Só que a gente tá
+
+1720
+01:00:21,060 --> 01:00:23,380
+na parte dos fundos. Então
+
+1721
+01:00:23,380 --> 01:00:24,840
+a gente consegue
+
+1722
+01:00:24,840 --> 01:00:27,340
+talvez acessar os códigos.
+
+1723
+01:00:27,420 --> 01:00:29,440
+Se a gente for pra outra direção, talvez.
+
+1724
+01:00:29,580 --> 01:00:31,920
+Mas quando a gente passou
+
+1725
+01:00:31,920 --> 01:00:33,380
+logo que a gente
+
+1726
+01:00:33,380 --> 01:00:34,520
+entrou tinha uns códigos.
+
+1727
+01:00:35,300 --> 01:00:36,880
+Códigos são números, né, Fred?
+
+1728
+01:00:38,080 --> 01:00:39,180
+Exatamente. Então vamos
+
+1729
+01:00:39,180 --> 01:00:41,320
+voltar até a portinha
+
+1730
+01:00:41,320 --> 01:00:43,620
+onde aparecem esses números
+
+1731
+01:00:43,620 --> 01:00:45,000
+aí e aí você faz o que
+
+1732
+01:00:45,000 --> 01:00:46,280
+você sabe fazer.
+
+1733
+01:00:47,580 --> 01:00:49,060
+A gente ainda tá...
+
+1734
+01:00:49,060 --> 01:00:50,880
+Ela parou na hora que ela quis parar?
+
+1735
+01:00:51,280 --> 01:00:52,220
+Como é que funcionou isso?
+
+1736
+01:00:53,180 --> 01:00:54,580
+Ela tem total controle.
+
+1737
+01:00:55,100 --> 01:00:55,580
+Haha.
+
+1738
+01:00:56,500 --> 01:00:56,980
+Bom.
+
+1739
+01:00:57,420 --> 01:00:59,100
+Muito bem.
+
+1740
+01:00:59,880 --> 01:01:01,720
+Linhas Aéreas Louise, por favor,
+
+1741
+01:01:02,020 --> 01:01:03,420
+nos leve ao comando.
+
+1742
+01:01:03,880 --> 01:01:06,440
+Sim, senhor capitão. Quer dizer, eu sou a capitã.
+
+1743
+01:01:09,600 --> 01:01:11,320
+Atenção, senhores passageiros, preparem
+
+1744
+01:01:11,320 --> 01:01:12,520
+para uma viagem muito maluca.
+
+1745
+01:01:14,180 --> 01:01:15,200
+E eu vou tentar chegar...
+
+1746
+01:01:15,200 --> 01:01:17,480
+Eu tô muito louco,
+
+1747
+01:01:17,620 --> 01:01:18,300
+vocês não tem noção.
+
+1748
+01:01:18,960 --> 01:01:21,660
+Eu perdi a sanidade há muito tempo,
+
+1749
+01:01:21,780 --> 01:01:23,100
+gente. Eu tô muito doido.
+
+1750
+01:01:23,540 --> 01:01:25,160
+Eu vou tentar ir pra essa área, hein.
+
+1751
+01:01:26,160 --> 01:01:27,400
+Muito tempo se passa,
+
+1752
+01:01:27,420 --> 01:01:28,920
+vocês vão pra vários lugares.
+
+1753
+01:01:30,120 --> 01:01:31,600
+Todo lugar que vocês vão
+
+1754
+01:01:31,600 --> 01:01:33,520
+é só escuridão, vocês não acham aqueles números
+
+1755
+01:01:33,520 --> 01:01:34,940
+de novo, não acham nada diferente.
+
+1756
+01:01:35,780 --> 01:01:37,340
+A única coisa diferente
+
+1757
+01:01:37,340 --> 01:01:39,740
+é se vocês subirem muito, dá pra ver o lago.
+
+1758
+01:01:40,140 --> 01:01:41,560
+Ué, mas era isso
+
+1759
+01:01:41,560 --> 01:01:42,780
+que a gente tava querendo fazer.
+
+1760
+01:01:43,360 --> 01:01:45,160
+Que era chegar perto do lago, que era tipo
+
+1761
+01:01:45,160 --> 01:01:47,200
+quando a gente tinha passado dele, que os números
+
+1762
+01:01:47,200 --> 01:01:48,040
+estavam ali perto.
+
+1763
+01:01:49,380 --> 01:01:51,700
+Entre o lago e a escuridão, na portinha.
+
+1764
+01:01:51,980 --> 01:01:52,040
+Isso.
+
+1765
+01:01:53,200 --> 01:01:54,640
+Tá. Qual é o dado, Louise?
+
+1766
+01:01:56,340 --> 01:01:56,860
+Seis.
+
+1767
+01:01:57,420 --> 01:01:59,480
+Vê que chega a um ponto em que
+
+1768
+01:01:59,480 --> 01:02:01,120
+se tu para,
+
+1769
+01:02:01,640 --> 01:02:03,460
+se tu forçar mais um pouquinho, tu vai ser
+
+1770
+01:02:03,460 --> 01:02:04,400
+puxada pro lago.
+
+1771
+01:02:04,960 --> 01:02:06,380
+Ó, gente, é...
+
+1772
+01:02:06,380 --> 01:02:08,940
+Se eu passar daqui, a gente volta pro jogo.
+
+1773
+01:02:10,600 --> 01:02:10,860
+Tá.
+
+1774
+01:02:11,280 --> 01:02:12,800
+A gente já sabe como chegar aqui.
+
+1775
+01:02:13,000 --> 01:02:15,780
+É só na fase do dinossauro a gente fazer a mesma coisa.
+
+1776
+01:02:17,040 --> 01:02:17,900
+E se quando a gente voltar
+
+1777
+01:02:17,900 --> 01:02:19,120
+tiver algo de diferente agora?
+
+1778
+01:02:20,060 --> 01:02:20,960
+Ou outro telefonema?
+
+1779
+01:02:21,680 --> 01:02:23,340
+Bilhões e bilhões e bilhões.
+
+1780
+01:02:23,580 --> 01:02:24,020
+É.
+
+1781
+01:02:24,900 --> 01:02:26,800
+Pelo menos eu vou poder ver o Jason de novo.
+
+1782
+01:02:27,420 --> 01:02:28,220
+Eu voto em votar.
+
+1783
+01:02:29,480 --> 01:02:31,940
+Pera, a gente já testou tudo o que tinha pra testar aqui?
+
+1784
+01:02:34,940 --> 01:02:35,260
+Hum...
+
+1785
+01:02:35,260 --> 01:02:36,860
+Tá. O que tem pra frente, assim?
+
+1786
+01:02:36,980 --> 01:02:38,280
+A gente tá com o lago logo acima.
+
+1787
+01:02:38,720 --> 01:02:41,020
+Mas é como se fosse uma pequena porta
+
+1788
+01:02:41,020 --> 01:02:43,020
+no infinito preto?
+
+1789
+01:02:43,160 --> 01:02:44,960
+Ou a gente consegue ver o resto do mapa também?
+
+1790
+01:02:45,800 --> 01:02:46,480
+Só o lago.
+
+1791
+01:02:47,060 --> 01:02:48,500
+Pra todo o céu é o lago.
+
+1792
+01:02:48,740 --> 01:02:50,680
+Chega um ponto que todo o céu, pra todo lado, é água.
+
+1793
+01:02:52,440 --> 01:02:52,800
+Hum...
+
+1794
+01:02:52,800 --> 01:02:54,980
+É, gente, eu acho que é isso aí. Vamos lá, então.
+
+1795
+01:02:56,760 --> 01:02:57,120
+Olha,
+
+1796
+01:02:57,420 --> 01:02:59,440
+se o lago é uma porta,
+
+1797
+01:02:59,580 --> 01:03:01,300
+pode ser que aconteçam outras portas
+
+1798
+01:03:01,300 --> 01:03:01,940
+na ponte.
+
+1799
+01:03:02,680 --> 01:03:05,560
+Pode ser que tenha outras portas, talvez, quando a polícia chega.
+
+1800
+01:03:05,560 --> 01:03:07,680
+É, se a gente
+
+1801
+01:03:07,680 --> 01:03:09,360
+fugir com a polícia
+
+1802
+01:03:09,360 --> 01:03:11,640
+em outro monstro, sei lá.
+
+1803
+01:03:11,840 --> 01:03:13,400
+Hum, é uma possibilidade.
+
+1804
+01:03:13,560 --> 01:03:14,900
+E a gente tem bastante tempo, não é?
+
+1805
+01:03:14,920 --> 01:03:17,280
+É, temos a eternidade, né, aparentemente.
+
+1806
+01:03:17,420 --> 01:03:18,760
+Ah, eu não aguento mais.
+
+1807
+01:03:18,920 --> 01:03:19,760
+Vou ficar testando.
+
+1808
+01:03:20,080 --> 01:03:21,660
+Eu queria ir pra casa.
+
+1809
+01:03:22,440 --> 01:03:24,580
+Eu também, Louise, mas, olha...
+
+1810
+01:03:24,580 --> 01:03:26,460
+Eu odeio jogos de videogame.
+
+1811
+01:03:26,580 --> 01:03:27,400
+Por que eu vim pra casa?
+
+1812
+01:03:27,400 --> 01:03:29,680
+Eu me pergunto a mesma coisa.
+
+1813
+01:03:30,020 --> 01:03:31,540
+Droga, vamos, gente, vamos.
+
+1814
+01:03:31,680 --> 01:03:32,620
+Melhor ir de uma vez.
+
+1815
+01:03:34,880 --> 01:03:35,280
+Bom...
+
+1816
+01:03:35,280 --> 01:03:36,820
+Confio em você, Louise. Pode ir.
+
+1817
+01:03:38,040 --> 01:03:38,660
+Vamos lá.
+
+1818
+01:03:39,420 --> 01:03:41,100
+Qualquer coisa que acontecer, a gente tá junto.
+
+1819
+01:03:41,620 --> 01:03:42,000
+Se bora.
+
+1820
+01:03:57,400 --> 01:04:00,920
+A Louise, então, voa até o limite.
+
+1821
+01:04:01,020 --> 01:04:02,120
+Ela tem que dar uma forçada.
+
+1822
+01:04:02,840 --> 01:04:04,620
+De repente, ela não controla mais
+
+1823
+01:04:04,620 --> 01:04:07,220
+o voar dela. A gravidade volta a agir.
+
+1824
+01:04:07,820 --> 01:04:09,100
+O mundo gira,
+
+1825
+01:04:09,580 --> 01:04:11,840
+porque a gravidade puxa pra baixo
+
+1826
+01:04:11,840 --> 01:04:13,760
+e o pra baixo era pra cima pra vocês.
+
+1827
+01:04:14,620 --> 01:04:15,800
+Vocês caem no lago,
+
+1828
+01:04:15,920 --> 01:04:17,680
+sentem a água fria
+
+1829
+01:04:17,680 --> 01:04:19,060
+no corpo de vocês
+
+1830
+01:04:19,060 --> 01:04:21,600
+e vocês estão lá no mesmo lago
+
+1831
+01:04:21,600 --> 01:04:22,660
+do jogo,
+
+1832
+01:04:23,400 --> 01:04:25,080
+pra um lado que vocês olham só a água,
+
+1833
+01:04:25,160 --> 01:04:26,900
+aquela água com parede invisível,
+
+1834
+01:04:26,900 --> 01:04:28,200
+que vocês já tentaram ir antes.
+
+1835
+01:04:29,120 --> 01:04:30,480
+E no outro, vocês veem que tem
+
+1836
+01:04:30,480 --> 01:04:32,880
+a praia lá, o cais,
+
+1837
+01:04:32,920 --> 01:04:34,980
+onde deveria estar o barco, mas o barco não tá lá.
+
+1838
+01:04:35,720 --> 01:04:37,060
+E, tadia,
+
+1839
+01:04:37,780 --> 01:04:38,560
+todas as partidas
+
+1840
+01:04:38,560 --> 01:04:41,060
+eram sempre à noite. Agora tá com uma
+
+1841
+01:04:41,060 --> 01:04:42,760
+aparência de
+
+1842
+01:04:42,760 --> 01:04:45,240
+dia, assim, iluminado,
+
+1843
+01:04:45,320 --> 01:04:46,920
+um lugar menos assustador do que
+
+1844
+01:04:46,920 --> 01:04:48,280
+era nas partidas que vocês jogaram.
+
+1845
+01:04:49,080 --> 01:04:51,320
+Ué, gente. Que saudade do sol.
+
+1846
+01:04:52,100 --> 01:04:52,540
+Atualizou.
+
+1847
+01:04:52,680 --> 01:04:54,040
+Olha, pera.
+
+1848
+01:04:54,040 --> 01:04:56,120
+Se as pessoas jogavam
+
+1849
+01:04:56,120 --> 01:04:56,760
+com a gente,
+
+1850
+01:04:56,900 --> 01:04:58,360
+a gente desapareceu do jogo,
+
+1851
+01:04:59,040 --> 01:05:00,740
+isso pode ter
+
+1852
+01:05:00,740 --> 01:05:02,800
+sido uma pressão pra que
+
+1853
+01:05:02,800 --> 01:05:04,100
+alterassem o jogo de alguma maneira.
+
+1854
+01:05:04,320 --> 01:05:07,040
+Fred. Então, eles devem ter
+
+1855
+01:05:07,040 --> 01:05:08,900
+feito outra alteração. Eu...
+
+1856
+01:05:08,900 --> 01:05:11,840
+Ninguém se importa com a gente. Eu...
+
+1857
+01:05:11,840 --> 01:05:13,060
+A gente tá aqui há anos.
+
+1858
+01:05:13,340 --> 01:05:14,880
+Claro que se importa. Eles gostam de
+
+1859
+01:05:14,880 --> 01:05:16,820
+jogar com a gente. O Jason gosta de jogar
+
+1860
+01:05:16,820 --> 01:05:18,300
+com a gente. Anos?
+
+1861
+01:05:19,220 --> 01:05:20,800
+Anos? Fred já tá doido.
+
+1862
+01:05:20,820 --> 01:05:21,800
+A gente ficou há anos.
+
+1863
+01:05:22,660 --> 01:05:23,100
+Luiz,
+
+1864
+01:05:23,220 --> 01:05:25,640
+olha, bem,
+
+1865
+01:05:26,900 --> 01:05:29,200
+a meia hora nós jogamos zilhões e bilhões
+
+1866
+01:05:29,200 --> 01:05:31,440
+e trilhões e zilhões. É...
+
+1867
+01:05:31,440 --> 01:05:32,400
+Eu acho que...
+
+1868
+01:05:32,400 --> 01:05:35,180
+Meu Deus. Joga um dado, Fred.
+
+1869
+01:05:36,920 --> 01:05:37,440
+Seis.
+
+1870
+01:05:38,580 --> 01:05:39,200
+Como tá tudo
+
+1871
+01:05:39,200 --> 01:05:40,980
+sendo direto pra cabeça de vocês,
+
+1872
+01:05:41,600 --> 01:05:43,620
+tu pode também ter a teoria de que
+
+1873
+01:05:43,620 --> 01:05:45,420
+às vezes o tempo tá passando diferente.
+
+1874
+01:05:47,180 --> 01:05:47,700
+Ou...
+
+1875
+01:05:47,700 --> 01:05:49,360
+Tudo isso aconteceu em um segundo e a gente
+
+1876
+01:05:49,360 --> 01:05:49,660
+tá bem.
+
+1877
+01:05:52,660 --> 01:05:53,220
+Eu...
+
+1878
+01:05:53,220 --> 01:05:55,980
+Faz todo sentido isso que você tá dizendo.
+
+1879
+01:05:56,900 --> 01:05:59,220
+Ai, ai. Eu prefiro acreditar.
+
+1880
+01:05:59,300 --> 01:06:00,920
+Que nem aquele filme clássico lá
+
+1881
+01:06:00,920 --> 01:06:02,400
+que tem um peãozinho no final.
+
+1882
+01:06:02,940 --> 01:06:04,080
+Filme ruim, não entendi nada.
+
+1883
+01:06:05,700 --> 01:06:06,680
+Filme de peão?
+
+1884
+01:06:07,040 --> 01:06:08,860
+Você vê que eu tô rindo, assim, de
+
+1885
+01:06:08,860 --> 01:06:09,440
+histeria.
+
+1886
+01:06:11,920 --> 01:06:13,260
+O nerd já era, já.
+
+1887
+01:06:13,820 --> 01:06:14,360
+Vamos, Luiz.
+
+1888
+01:06:14,620 --> 01:06:16,100
+Vamos voltar pro cais ali.
+
+1889
+01:06:16,100 --> 01:06:18,300
+Vem, Fred. Eu tô indo, assim, feliz.
+
+1890
+01:06:18,580 --> 01:06:20,780
+Vocês chegam até o cais. Outra diferença
+
+1891
+01:06:20,780 --> 01:06:22,800
+que o cais, agora, da versão normal,
+
+1892
+01:06:23,420 --> 01:06:24,860
+ele tem balões dos dois
+
+1893
+01:06:24,860 --> 01:06:26,240
+lados, assim, coloridos.
+
+1894
+01:06:26,900 --> 01:06:29,020
+Oh! É meu aniversário,
+
+1895
+01:06:29,100 --> 01:06:30,980
+talvez. Vai ter palhaço. Eu odeio palhaço.
+
+1896
+01:06:31,960 --> 01:06:32,700
+Também não gosto.
+
+1897
+01:06:33,660 --> 01:06:34,100
+Ah...
+
+1898
+01:06:34,100 --> 01:06:35,980
+É...
+
+1899
+01:06:35,980 --> 01:06:39,080
+Eu faço ideia do que tá acontecendo.
+
+1900
+01:06:39,720 --> 01:06:40,620
+Vou ver se eu acho o Jason.
+
+1901
+01:06:41,200 --> 01:06:43,100
+Jason! Eu vou ver se eu acho o bolo.
+
+1902
+01:06:43,740 --> 01:06:44,920
+Aí eu vou em direção à casa.
+
+1903
+01:06:44,980 --> 01:06:46,100
+Eu vou ver se eu acho uma arma.
+
+1904
+01:06:46,240 --> 01:06:48,600
+Vocês vão andando ali pela área
+
+1905
+01:06:48,600 --> 01:06:50,800
+do lago, né? Vão subindo em direção
+
+1906
+01:06:50,800 --> 01:06:52,860
+onde tem as cabanas e tal.
+
+1907
+01:06:53,420 --> 01:06:54,960
+Tem uma mesa bem grande
+
+1908
+01:06:54,960 --> 01:06:56,840
+colocada com um bolo,
+
+1909
+01:06:56,840 --> 01:06:58,860
+que a senhora falou, mas outras comidas
+
+1910
+01:06:58,860 --> 01:07:01,080
+também. É como se fosse uma área de festa
+
+1911
+01:07:01,080 --> 01:07:02,900
+ali. Eu vou cortar
+
+1912
+01:07:02,900 --> 01:07:03,240
+o bolo.
+
+1913
+01:07:04,780 --> 01:07:06,380
+No bolo tá escrito Fred.
+
+1914
+01:07:07,260 --> 01:07:09,040
+Fred! O bolo é pra você!
+
+1915
+01:07:10,420 --> 01:07:10,860
+Ué?
+
+1916
+01:07:13,200 --> 01:07:13,800
+Hum...
+
+1917
+01:07:13,800 --> 01:07:15,760
+Será que... Não, não pode ser.
+
+1918
+01:07:15,760 --> 01:07:17,860
+Vem cortar. Eu quero um pedaço. Corta, corta.
+
+1919
+01:07:18,380 --> 01:07:19,920
+Tem uma faca pra poder cortar o bolo?
+
+1920
+01:07:20,540 --> 01:07:22,420
+Tem uma faca. Hum...
+
+1921
+01:07:22,420 --> 01:07:24,500
+Eu olho pro lado,
+
+1922
+01:07:24,500 --> 01:07:25,780
+olho pro outro,
+
+1923
+01:07:25,780 --> 01:07:28,340
+eu, com a mão trêmula,
+
+1924
+01:07:28,440 --> 01:07:29,780
+eu corto o bolo assim, não acreditando
+
+1925
+01:07:30,300 --> 01:07:31,940
+que aquilo tá acontecendo.
+
+1926
+01:07:32,100 --> 01:07:33,220
+E corto o pedaço.
+
+1927
+01:07:33,600 --> 01:07:34,780
+E o que que tu faz com essa fatia?
+
+1928
+01:07:36,760 --> 01:07:37,940
+Ah... Eu peço...
+
+1929
+01:07:37,940 --> 01:07:40,000
+Bem, eu queria dedicar essa primeira
+
+1930
+01:07:40,000 --> 01:07:42,160
+fatia ao Jason, mas como ele não tá aqui,
+
+1931
+01:07:42,300 --> 01:07:43,720
+eu vou entregar pro...
+
+1932
+01:07:43,720 --> 01:07:44,460
+Pra mim!
+
+1933
+01:07:45,080 --> 01:07:48,720
+Pro... Divido a fatia em dois
+
+1934
+01:07:48,720 --> 01:07:49,820
+pros meus amigos.
+
+1935
+01:07:50,460 --> 01:07:51,640
+Entrego assim ao mesmo tempo
+
+1936
+01:07:51,640 --> 01:07:52,680
+pra Luiz e pro Paul.
+
+1937
+01:07:52,680 --> 01:07:54,360
+É... Obrigado.
+
+1938
+01:07:55,780 --> 01:07:57,420
+Agora dá outra metadinha pra mim,
+
+1939
+01:07:57,520 --> 01:07:58,740
+que eu queria uma fatia inteira.
+
+1940
+01:08:01,680 --> 01:08:03,500
+Ó, Luiz, estragando esse momento bonito.
+
+1941
+01:08:03,520 --> 01:08:05,140
+Pode ficar com o meu pedaço, Luiz.
+
+1942
+01:08:05,220 --> 01:08:06,440
+Por isso que eu preferi o Jason.
+
+1943
+01:08:06,560 --> 01:08:07,560
+Eu dou pra ela o pedaço.
+
+1944
+01:08:07,660 --> 01:08:08,980
+O Jason gostava de mim.
+
+1945
+01:08:09,020 --> 01:08:09,620
+Eu vou comer o...
+
+1946
+01:08:09,620 --> 01:08:10,640
+Ele sempre ia atrás de mim.
+
+1947
+01:08:10,660 --> 01:08:11,100
+O bolo.
+
+1948
+01:08:11,700 --> 01:08:13,160
+Ah, eu vou comer um pedaço do bolo também.
+
+1949
+01:08:13,400 --> 01:08:14,780
+Eu não sei se eu sinto gosto, mas...
+
+1950
+01:08:14,780 --> 01:08:16,640
+Eu vou pegar um pedacinho do...
+
+1951
+01:08:16,640 --> 01:08:17,180
+Com o dedo.
+
+1952
+01:08:19,460 --> 01:08:22,360
+Sem se esconder ou coisa do tipo,
+
+1953
+01:08:22,360 --> 01:08:24,440
+o Jason tá se aproximando
+
+1954
+01:08:24,440 --> 01:08:25,360
+da mesa do...
+
+1955
+01:08:25,780 --> 01:08:26,640
+do aniversário.
+
+1956
+01:08:26,660 --> 01:08:27,240
+Vem, Jason!
+
+1957
+01:08:27,260 --> 01:08:27,560
+Jason!
+
+1958
+01:08:28,240 --> 01:08:29,520
+Ele tá com o facão dele?
+
+1959
+01:08:29,980 --> 01:08:30,920
+Ele tá com o facão dele.
+
+1960
+01:08:31,040 --> 01:08:31,740
+Corta aqui o bolo.
+
+1961
+01:08:31,980 --> 01:08:32,820
+Eu tô...
+
+1962
+01:08:32,820 --> 01:08:35,200
+Eu tô levando o bolo pro Jason, sim.
+
+1963
+01:08:35,560 --> 01:08:37,580
+Sério, o Fred, gente, já era.
+
+1964
+01:08:38,440 --> 01:08:39,300
+O Fred...
+
+1965
+01:08:39,300 --> 01:08:40,280
+Não, mas tudo bem.
+
+1966
+01:08:40,380 --> 01:08:41,020
+Ele tá de boa.
+
+1967
+01:08:41,120 --> 01:08:41,680
+Tá de dia.
+
+1968
+01:08:41,800 --> 01:08:42,660
+Ele só ataca à noite.
+
+1969
+01:08:42,880 --> 01:08:43,600
+Na pior das hipóteses,
+
+1970
+01:08:43,660 --> 01:08:44,680
+a gente vai morrer e nascer de novo.
+
+1971
+01:08:44,880 --> 01:08:45,680
+O tempo tá tranquilo.
+
+1972
+01:08:45,800 --> 01:08:46,120
+Vai lá.
+
+1973
+01:08:47,480 --> 01:08:47,880
+Eu...
+
+1974
+01:08:47,880 --> 01:08:48,640
+Jason?
+
+1975
+01:08:49,420 --> 01:08:51,160
+O Jason aponta o facão
+
+1976
+01:08:51,160 --> 01:08:52,560
+primeiro pra Luiz
+
+1977
+01:08:52,560 --> 01:08:53,460
+e depois pro Paul
+
+1978
+01:08:53,460 --> 01:08:54,160
+e olha pra ti.
+
+1979
+01:08:54,720 --> 01:08:55,560
+É... É porque...
+
+1980
+01:08:55,780 --> 01:08:57,740
+Porque você não tava aqui.
+
+1981
+01:08:58,020 --> 01:08:58,960
+Então, eu...
+
+1982
+01:08:58,960 --> 01:09:00,640
+Eu entreguei pros dois.
+
+1983
+01:09:00,920 --> 01:09:01,720
+Eu sou testemunha.
+
+1984
+01:09:01,740 --> 01:09:03,000
+Olha, não...
+
+1985
+01:09:03,000 --> 01:09:04,180
+Não fica triste.
+
+1986
+01:09:04,880 --> 01:09:06,620
+Mas que bom que você voltou.
+
+1987
+01:09:07,380 --> 01:09:08,700
+Já que essa foi a tua resposta,
+
+1988
+01:09:09,380 --> 01:09:10,820
+ele se aproxima da...
+
+1989
+01:09:10,820 --> 01:09:11,620
+da Luiz,
+
+1990
+01:09:12,400 --> 01:09:14,020
+ele segura ela pelo cabelo
+
+1991
+01:09:14,020 --> 01:09:14,780
+e levanta o...
+
+1992
+01:09:15,300 --> 01:09:15,860
+o facão.
+
+1993
+01:09:17,760 --> 01:09:18,520
+Eu...
+
+1994
+01:09:18,520 --> 01:09:20,080
+Tentar segurar ele.
+
+1995
+01:09:21,320 --> 01:09:22,280
+Dois dados.
+
+1996
+01:09:23,820 --> 01:09:24,460
+Jason, por...
+
+1997
+01:09:24,460 --> 01:09:25,700
+Por que você tá fazendo isso,
+
+1998
+01:09:25,780 --> 01:09:26,100
+Jason?
+
+1999
+01:09:26,440 --> 01:09:27,240
+Nem tá de dia,
+
+2000
+01:09:27,360 --> 01:09:28,120
+nem tá de noite.
+
+2001
+01:09:28,460 --> 01:09:29,940
+Eu tirei 3 e 6.
+
+2002
+01:09:30,840 --> 01:09:32,060
+Tá, tu tá evitando
+
+2003
+01:09:32,060 --> 01:09:33,420
+que ele termine
+
+2004
+01:09:33,420 --> 01:09:34,600
+com a Luiz ali.
+
+2005
+01:09:35,100 --> 01:09:35,720
+Fred, ação.
+
+2006
+01:09:37,120 --> 01:09:38,880
+Jason, não precisa fazer isso.
+
+2007
+01:09:39,060 --> 01:09:40,080
+Com um pedaço do bolo.
+
+2008
+01:09:40,740 --> 01:09:41,980
+Eu tô tentando convencer ele
+
+2009
+01:09:41,980 --> 01:09:43,040
+a não...
+
+2010
+01:09:43,040 --> 01:09:44,580
+fazer, sei lá,
+
+2011
+01:09:44,720 --> 01:09:45,560
+comentar um assassinato.
+
+2012
+01:09:45,800 --> 01:09:46,860
+Uma voz
+
+2013
+01:09:46,860 --> 01:09:47,940
+saindo
+
+2014
+01:09:47,940 --> 01:09:49,060
+de onde deveria ser
+
+2015
+01:09:49,060 --> 01:09:51,060
+a boca por trás da máscara
+
+2016
+01:09:51,060 --> 01:09:51,400
+fala
+
+2017
+01:09:51,400 --> 01:09:54,420
+Por que não posso matá-los?
+
+2018
+01:09:55,140 --> 01:09:55,760
+Porque acabou o jogo.
+
+2019
+01:09:55,760 --> 01:09:56,000
+Acabou o jogo.
+
+2020
+01:09:56,180 --> 01:09:56,800
+Acabou o jogo.
+
+2021
+01:09:56,880 --> 01:09:57,680
+A gente é amigo agora.
+
+2022
+01:09:57,980 --> 01:09:58,580
+Acabou o jogo.
+
+2023
+01:09:58,920 --> 01:09:59,280
+Acabou o jogo.
+
+2024
+01:09:59,280 --> 01:09:59,440
+Pera.
+
+2025
+01:10:00,000 --> 01:10:01,460
+Pera, isso não faz sentido.
+
+2026
+01:10:01,620 --> 01:10:02,580
+Você fala, Jason?
+
+2027
+01:10:02,820 --> 01:10:03,980
+Eu nunca ouvi você falando.
+
+2028
+01:10:04,080 --> 01:10:05,580
+Não é hora de perguntar.
+
+2029
+01:10:06,860 --> 01:10:08,180
+Olha, vamos fazer o seguinte.
+
+2030
+01:10:10,400 --> 01:10:11,960
+Vamos comer bolo.
+
+2031
+01:10:12,260 --> 01:10:13,200
+É mais legal do que matar.
+
+2032
+01:10:14,200 --> 01:10:14,760
+Mata o bolo.
+
+2033
+01:10:15,280 --> 01:10:17,040
+Jason, eu queria ser sua amiga.
+
+2034
+01:10:17,200 --> 01:10:18,620
+Jason, deixa eu ser sua amiga.
+
+2035
+01:10:18,640 --> 01:10:19,680
+Caraca, bugamos o Jason.
+
+2036
+01:10:20,220 --> 01:10:20,660
+É isso.
+
+2037
+01:10:20,760 --> 01:10:21,920
+Por favorzinho.
+
+2038
+01:10:22,180 --> 01:10:23,740
+Ele para, solta a Luiz.
+
+2039
+01:10:24,500 --> 01:10:25,700
+Ele aponta o facão.
+
+2040
+01:10:25,700 --> 01:10:26,700
+Ele aponta o facão para uma das cabanas.
+
+2041
+01:10:27,380 --> 01:10:28,900
+Vamos matar o pessoal da cabana?
+
+2042
+01:10:29,180 --> 01:10:30,300
+Vamos, vamos, vamos.
+
+2043
+01:10:31,440 --> 01:10:32,040
+Eu pego o bolo.
+
+2044
+01:10:32,060 --> 01:10:32,940
+O que tem lá, Jason?
+
+2045
+01:10:36,040 --> 01:10:37,300
+Jason, o que tem na cabana?
+
+2046
+01:10:37,380 --> 01:10:38,000
+Eu estou indo já.
+
+2047
+01:10:38,360 --> 01:10:39,340
+Eu peguei um pedaço do bolo
+
+2048
+01:10:39,340 --> 01:10:40,040
+e estou indo para a cabana.
+
+2049
+01:10:41,420 --> 01:10:42,720
+Eu vou discutir com o cara com o facão?
+
+2050
+01:10:43,520 --> 01:10:44,720
+Eu pego a faquinha.
+
+2051
+01:10:47,900 --> 01:10:48,940
+Tá, eu estou
+
+2052
+01:10:48,940 --> 01:10:51,020
+pegando o Jason pelo braço
+
+2053
+01:10:51,020 --> 01:10:52,000
+e falo, vamos lá então.
+
+2054
+01:10:52,320 --> 01:10:53,180
+Você está mostrando.
+
+2055
+01:10:53,360 --> 01:10:53,740
+Vamos embora.
+
+2056
+01:10:53,740 --> 01:10:55,020
+Ele está...
+
+2057
+01:10:55,020 --> 01:10:55,880
+Ele agora parece
+
+2058
+01:10:55,880 --> 01:10:58,240
+como a mesa e o carro.
+
+2059
+01:10:58,400 --> 01:11:00,080
+Ele parece fixo no cenário apontando.
+
+2060
+01:11:00,800 --> 01:11:01,140
+Ué.
+
+2061
+01:11:01,300 --> 01:11:02,320
+Tá, tá, tá, tá.
+
+2062
+01:11:02,460 --> 01:11:04,100
+Eu vou lá ver, mas eu volto, viu?
+
+2063
+01:11:04,140 --> 01:11:05,020
+Vê se não desaparece.
+
+2064
+01:11:06,000 --> 01:11:07,600
+Eu dou um abraço dele assim antes de ir.
+
+2065
+01:11:07,620 --> 01:11:08,180
+Ah, saudade.
+
+2066
+01:11:08,680 --> 01:11:10,120
+E estou indo para a cabana.
+
+2067
+01:11:10,120 --> 01:11:11,120
+Tchau.
+
+2068
+01:11:25,020 --> 01:11:26,020
+Tchau.
+
+2069
+01:11:26,020 --> 01:11:27,020
+Tchau.
+
+2070
+01:11:27,020 --> 01:11:28,020
+Tchau.
+
+2071
+01:11:28,020 --> 01:11:29,020
+Tchau.
+
+2072
+01:11:29,020 --> 01:11:30,020
+Tchau.
+
+2073
+01:11:30,020 --> 01:11:31,080
+Fred abre a porta, né?
+
+2074
+01:11:31,600 --> 01:11:31,860
+Uhum.
+
+2075
+01:11:32,260 --> 01:11:33,820
+Sentado no sofá lá dentro.
+
+2076
+01:11:35,200 --> 01:11:35,720
+Está o Fred.
+
+2077
+01:11:36,720 --> 01:11:37,020
+Hã?
+
+2078
+01:11:37,380 --> 01:11:38,020
+O Kruger?
+
+2079
+01:11:38,240 --> 01:11:38,660
+Eita.
+
+2080
+01:11:39,220 --> 01:11:39,700
+Não, não.
+
+2081
+01:11:39,880 --> 01:11:40,820
+O próprio Fred.
+
+2082
+01:11:41,280 --> 01:11:42,740
+Uma pessoa idêntica a você.
+
+2083
+01:11:43,420 --> 01:11:43,820
+Ah, ah.
+
+2084
+01:11:43,900 --> 01:11:44,740
+Ô, Luiz.
+
+2085
+01:11:45,280 --> 01:11:46,520
+Eu acho que a gente perdeu o Fred
+
+2086
+01:11:46,520 --> 01:11:47,640
+há tempos atrás mesmo.
+
+2087
+01:11:48,020 --> 01:11:49,520
+Ah, o que que...
+
+2088
+01:11:49,520 --> 01:11:50,320
+Quem é você?
+
+2089
+01:11:50,540 --> 01:11:50,820
+Oi?
+
+2090
+01:11:51,320 --> 01:11:51,700
+Espera aí.
+
+2091
+01:11:51,820 --> 01:11:52,240
+Aí eu...
+
+2092
+01:11:52,240 --> 01:11:53,860
+O Fred levanta.
+
+2093
+01:11:53,860 --> 01:11:54,960
+Que louco.
+
+2094
+01:11:54,960 --> 01:11:54,980
+Que louco.
+
+2095
+01:11:54,980 --> 01:11:55,000
+Que louco.
+
+2096
+01:11:55,020 --> 01:11:55,260
+Que loucura.
+
+2097
+01:11:55,940 --> 01:11:56,700
+Que loucura.
+
+2098
+01:11:56,840 --> 01:11:57,380
+É louco.
+
+2099
+01:11:57,580 --> 01:11:58,820
+Eu estou muito doido, cara.
+
+2100
+01:11:59,320 --> 01:12:00,340
+O que que está acontecendo?
+
+2101
+01:12:01,060 --> 01:12:04,680
+A Luiz e o Paul não quiseram nem me passar o telefone aquele dia.
+
+2102
+01:12:05,040 --> 01:12:06,340
+E aqui vocês são amigos.
+
+2103
+01:12:06,940 --> 01:12:07,180
+Hã?
+
+2104
+01:12:07,760 --> 01:12:08,360
+Hã?
+
+2105
+01:12:09,040 --> 01:12:10,180
+Que telefone?
+
+2106
+01:12:10,700 --> 01:12:12,480
+Quanto tempo levou para ficarem assim?
+
+2107
+01:12:12,820 --> 01:12:13,080
+Espera.
+
+2108
+01:12:13,520 --> 01:12:13,760
+Espera.
+
+2109
+01:12:13,900 --> 01:12:14,120
+Espera.
+
+2110
+01:12:14,160 --> 01:12:14,360
+Espera.
+
+2111
+01:12:14,400 --> 01:12:14,660
+O quê?
+
+2112
+01:12:15,280 --> 01:12:16,680
+Vocês ficaram amigos.
+
+2113
+01:12:17,320 --> 01:12:18,380
+Quanto tempo isso levou?
+
+2114
+01:12:18,840 --> 01:12:19,380
+Vamos assim.
+
+2115
+01:12:19,820 --> 01:12:20,080
+Hã?
+
+2116
+01:12:20,300 --> 01:12:21,060
+Sei lá.
+
+2117
+01:12:21,300 --> 01:12:22,180
+Bilhões de anos.
+
+2118
+01:12:22,860 --> 01:12:23,620
+Não exagera.
+
+2119
+01:12:23,620 --> 01:12:24,980
+Isso foi há uns 10 anos.
+
+2120
+01:12:24,980 --> 01:12:26,220
+Não, nada.
+
+2121
+01:12:26,700 --> 01:12:26,860
+Hã?
+
+2122
+01:12:27,120 --> 01:12:28,540
+Eu pego ele pelo colarinho.
+
+2123
+01:12:29,580 --> 01:12:30,200
+Como assim?
+
+2124
+01:12:30,400 --> 01:12:31,100
+Quanto tempo?
+
+2125
+01:12:31,860 --> 01:12:33,420
+Eu estou aqui há bilhões de anos.
+
+2126
+01:12:33,660 --> 01:12:35,200
+O que que está acontecendo, Fred?
+
+2127
+01:12:35,560 --> 01:12:40,440
+A gente, digo, eu, a Luizy, o Paul e a Débora, entramos naquele teste.
+
+2128
+01:12:41,020 --> 01:12:42,480
+Eles fizeram uma cópia da gente.
+
+2129
+01:12:43,020 --> 01:12:44,660
+Uma cópia de nossos cérebros, talvez.
+
+2130
+01:12:45,460 --> 01:12:48,060
+E criaram essas inteligências artificiais perfeitas.
+
+2131
+01:12:48,680 --> 01:12:50,760
+Deixaram isso rodando infinitamente.
+
+2132
+01:12:51,060 --> 01:12:51,620
+Caramba!
+
+2133
+01:12:51,940 --> 01:12:53,160
+Vocês ficaram amigos.
+
+2134
+01:12:53,620 --> 01:12:54,880
+Eu sou um homem.
+
+2135
+01:12:54,880 --> 01:12:55,300
+Uma cópia?
+
+2136
+01:12:55,300 --> 01:12:56,320
+Soco na cara do Fred.
+
+2137
+01:12:56,480 --> 01:12:56,880
+Como é?
+
+2138
+01:12:56,880 --> 01:12:57,380
+Soco na cara.
+
+2139
+01:12:57,580 --> 01:12:58,800
+Soco na cara do Fred.
+
+2140
+01:12:58,940 --> 01:12:59,500
+Dois dados.
+
+2141
+01:13:00,920 --> 01:13:02,180
+Como você pode?
+
+2142
+01:13:02,720 --> 01:13:03,740
+E soco.
+
+2143
+01:13:05,640 --> 01:13:06,640
+Isso dói.
+
+2144
+01:13:06,640 --> 01:13:08,900
+E ele some.
+
+2145
+01:13:09,840 --> 01:13:10,520
+Tudo some.
+
+2146
+01:13:12,040 --> 01:13:13,640
+E vocês estão em volta da fogueira.
+
+2147
+01:13:14,100 --> 01:13:15,820
+Por que que você fez isso, Fred?
+
+2148
+01:13:16,660 --> 01:13:17,600
+Eu queria entender.
+
+2149
+01:13:17,620 --> 01:13:18,540
+Fred, de novo não.
+
+2150
+01:13:20,300 --> 01:13:23,320
+Eu estou, eu estou assim, olhar catatônico para a fogueira.
+
+2151
+01:13:24,880 --> 01:13:27,780
+É
+
+2152
+01:13:27,780 --> 01:13:28,740
+Sim, mas eu não entendo.
+
+2153
+01:13:28,980 --> 01:13:29,940
+Estou chegando.
+
+2154
+01:13:30,140 --> 01:13:31,860
+Agora quero falar sobre ideias que eu não conhecia antes.
+
+2155
+01:13:32,040 --> 01:13:34,320
+Mas como isso é foda?
+
+2156
+01:13:34,540 --> 01:13:35,800
+Então, senhora...
+
+2157
+01:13:36,000 --> 01:13:36,980
+Me auxiliem.
+
+2158
+01:13:37,180 --> 01:13:38,280
+Eis que são F refuge.
+
+2159
+01:13:38,480 --> 01:13:39,560
+Tudo bem.
+
+2160
+01:13:39,780 --> 01:13:40,400
+Gostou disso?
+
+2161
+01:13:40,580 --> 01:13:40,980
+Ok.
+
+2162
+01:13:41,180 --> 01:13:44,200
+Então, a nossa realidade tribal melhora com uma academia.
+
+2163
+01:13:44,400 --> 01:13:47,160
+Mas significa que nós somos dos anéis.
+
+2164
+01:13:47,360 --> 01:13:48,800
+É verdade.
+
+2165
+01:13:49,000 --> 01:13:50,900
+Anéis é respeito hautistico da natureza.
+
+2166
+01:13:51,080 --> 01:13:52,300
+E ele diria a uma língua...
+
+2167
+01:13:52,500 --> 01:13:53,140
+Aleluia.
+
+2168
+01:13:53,360 --> 01:13:54,260
+Olá.
+
+2169
+01:13:54,880 --> 01:14:24,860
+O que é isso?
+
+2170
+01:14:24,880 --> 01:14:40,680
+O escudo do mestre
+
+2171
+01:14:40,680 --> 01:14:42,980
+E chegamos a mais um escudo do mestre
+
+2172
+01:14:42,980 --> 01:14:44,560
+Aquela estrutura de papelão ou madeira
+
+2173
+01:14:44,560 --> 01:14:46,680
+Que o mestre usa para esconder seus lançamentos de dados
+
+2174
+01:14:46,680 --> 01:14:47,500
+Suas anotações
+
+2175
+01:14:47,500 --> 01:14:49,840
+Mas aqui eu baixo essa estrutura
+
+2176
+01:14:49,840 --> 01:14:52,440
+Antes de mais nada, eu devia ter avisado no episódio passado
+
+2177
+01:14:52,440 --> 01:14:54,140
+Mas como os padrinhos recebem o episódio
+
+2178
+01:14:54,140 --> 01:14:54,860
+Uma semana antes
+
+2179
+01:14:54,860 --> 01:14:57,360
+Acaba que eu não consigo inserir os comerciais a tempo
+
+2180
+01:14:57,360 --> 01:14:59,420
+Eu participei lá da taverna do Beholder
+
+2181
+01:14:59,420 --> 01:15:00,820
+Um episódio maravilhoso
+
+2182
+01:15:00,820 --> 01:15:02,580
+Falando sobre o OneShot
+
+2183
+01:15:02,580 --> 01:15:05,140
+Só gente maravilhosa, a Val, o Gabriel
+
+2184
+01:15:05,140 --> 01:15:06,800
+O Marcelo, a Andressa
+
+2185
+01:15:06,800 --> 01:15:09,040
+Ficou um episódio muito bacana, se tu quer mestrar OneShot
+
+2186
+01:15:09,040 --> 01:15:10,240
+É só ouvir lá
+
+2187
+01:15:10,240 --> 01:15:12,340
+Tem ideia de aventura, tem ideia de sistema
+
+2188
+01:15:12,340 --> 01:15:13,800
+Tá maravilhoso o episódio
+
+2189
+01:15:13,800 --> 01:15:15,520
+O link tá aqui no post
+
+2190
+01:15:15,520 --> 01:15:18,240
+E aí? Eu acho uma sacanagem esse episódio
+
+2191
+01:15:18,240 --> 01:15:20,620
+Tá saindo aqui, neste momento
+
+2192
+01:15:20,620 --> 01:15:23,260
+Embora ele tá num mês que tem episódios extras
+
+2193
+01:15:23,740 --> 01:15:24,840
+Porque o episódio
+
+2194
+01:15:24,840 --> 01:15:25,980
+Mais curto, ele é um episódio
+
+2195
+01:15:25,980 --> 01:15:27,960
+Num escopo mais simples, né
+
+2196
+01:15:27,960 --> 01:15:30,760
+Uma ideia bem mais simples, eu falo dela já
+
+2197
+01:15:30,760 --> 01:15:31,820
+Em seguida
+
+2198
+01:15:31,820 --> 01:15:34,880
+Mas ele sai logo depois do episódio que eu considero
+
+2199
+01:15:34,880 --> 01:15:37,500
+O meu episódio favorito de todos os tempos
+
+2200
+01:15:37,500 --> 01:15:38,680
+Eu beijei uma garota
+
+2201
+01:15:38,680 --> 01:15:40,620
+Que foi o episódio passado, se você não ouviu, corre lá
+
+2202
+01:15:40,620 --> 01:15:42,720
+E ele sai antes do Cavaleiros do Bicho
+
+2203
+01:15:42,720 --> 01:15:43,560
+Parte 3
+
+2204
+01:15:43,560 --> 01:15:45,780
+O que me faz pensar, a gente sempre faz no Twitter
+
+2205
+01:15:45,780 --> 01:15:48,040
+Siga a gente no Twitter, gente, arroba rpgosh
+
+2206
+01:15:48,040 --> 01:15:50,440
+Uma votação de qual é o melhor episódio
+
+2207
+01:15:50,440 --> 01:15:52,200
+Do bimestre, ou nesse caso
+
+2208
+01:15:52,200 --> 01:15:54,080
+Em que o mês vai ter 4 episódios
+
+2209
+01:15:54,080 --> 01:15:55,820
+Vai ser o melhor episódio deste mês
+
+2210
+01:15:55,820 --> 01:15:57,720
+Então esse episódio vai estar concorrendo com
+
+2211
+01:15:57,720 --> 01:15:59,960
+Eu beijei uma garota, Cavaleiros do Bicho
+
+2212
+01:15:59,960 --> 01:16:01,620
+E aquele episódio fofíssimo
+
+2213
+01:16:01,620 --> 01:16:03,960
+O Volipe e a volta do Saci
+
+2214
+01:16:03,960 --> 01:16:05,500
+Pra quem não sabe, ano passado
+
+2215
+01:16:05,500 --> 01:16:07,080
+O primeiro e o segundo colocado
+
+2216
+01:16:07,080 --> 01:16:09,740
+Foi Cavaleiros do Bicho, parte 1 e 2
+
+2217
+01:16:09,740 --> 01:16:10,400
+Se eu não me engano
+
+2218
+01:16:10,400 --> 01:16:12,640
+O pessoal realmente amou esses episódios
+
+2219
+01:16:12,640 --> 01:16:15,780
+Só de ter a parte 3 aqui, é um candidato a ser melhor do ano
+
+2220
+01:16:15,780 --> 01:16:17,360
+O que me deixa extremamente triste
+
+2221
+01:16:17,360 --> 01:16:19,680
+Porque eu acho que vocês deviam votar
+
+2222
+01:16:19,680 --> 01:16:21,060
+No Eu beijei uma garota, mas
+
+2223
+01:16:21,060 --> 01:16:22,260
+Vocês votam o que vocês quiserem
+
+2224
+01:16:22,260 --> 01:16:23,800
+Sobre o episódio em si
+
+2225
+01:16:24,080 --> 01:16:26,000
+A ideia me surgiu vendo uma das madrinhas
+
+2226
+01:16:26,000 --> 01:16:27,420
+Me mostrar lá no grupo do Discord
+
+2227
+01:16:27,420 --> 01:16:29,080
+Se você é nosso padrinho ou madrinha
+
+2228
+01:16:29,080 --> 01:16:31,240
+Você pode jogar com os outros padrinhos
+
+2229
+01:16:31,240 --> 01:16:33,920
+E eu entrei lá pra ver, era uma mesa da
+
+2230
+01:16:33,920 --> 01:16:36,180
+Luana Sabihon, foi a Fênix no episódio
+
+2231
+01:16:36,180 --> 01:16:37,340
+Passarinhos, lembram dela?
+
+2232
+01:16:37,540 --> 01:16:39,720
+Ela tava me mostrando, e a ideia do início da aventura
+
+2233
+01:16:39,720 --> 01:16:40,860
+É exatamente esse
+
+2234
+01:16:40,860 --> 01:16:42,900
+Na versão dela, os jogadores
+
+2235
+01:16:42,900 --> 01:16:46,080
+Eles acordam após tirar o capacete
+
+2236
+01:16:46,080 --> 01:16:48,360
+E enfrentam uma série de problemas
+
+2237
+01:16:48,360 --> 01:16:50,140
+Dando spoiler aqui
+
+2238
+01:16:50,140 --> 01:16:51,580
+Desculpa né Lu, mas tu já mostrou
+
+2239
+01:16:51,580 --> 01:16:52,980
+As 3 ou 4 vezes essa aventura, então tá bom
+
+2240
+01:16:52,980 --> 01:16:54,060
+E daí na versão
+
+2241
+01:16:54,080 --> 01:16:56,440
+Dela, o que eles acham que é um futuro
+
+2242
+01:16:56,440 --> 01:16:58,140
+Todo destruído, na verdade
+
+2243
+01:16:58,140 --> 01:16:59,860
+É o jogo em si, é um jogo tão realista
+
+2244
+01:16:59,860 --> 01:17:02,160
+Que eles acham que saíram do jogo, mas continuam no jogo
+
+2245
+01:17:02,160 --> 01:17:03,840
+Sabe? É uma ideia muito boa também
+
+2246
+01:17:03,840 --> 01:17:05,540
+Você pode aplicar essa ideia nas suas mesas
+
+2247
+01:17:05,540 --> 01:17:08,080
+Mas a versão, enquanto eu ouvia, foi numa época
+
+2248
+01:17:08,080 --> 01:17:10,220
+Que saiu uma notícia, gente usando
+
+2249
+01:17:10,220 --> 01:17:11,520
+Inteligência artificial
+
+2250
+01:17:11,520 --> 01:17:13,780
+E realidade virtual
+
+2251
+01:17:13,780 --> 01:17:16,480
+Para rever parentes que tinham falecido
+
+2252
+01:17:16,480 --> 01:17:17,520
+Eu achei muito creepy
+
+2253
+01:17:17,520 --> 01:17:19,220
+A ideia inicial dessa aventura, inclusive
+
+2254
+01:17:19,220 --> 01:17:22,120
+Era que a pessoa que fosse fazer o contato
+
+2255
+01:17:22,120 --> 01:17:24,020
+Final com os jogadores, fosse um
+
+2256
+01:17:24,080 --> 01:17:26,620
+Parente deles, que quisesse algum contato
+
+2257
+01:17:26,620 --> 01:17:28,100
+Mas os 3 jogadores montaram
+
+2258
+01:17:28,100 --> 01:17:30,220
+Um personagem sem família, e eu não queria dizer
+
+2259
+01:17:30,220 --> 01:17:31,600
+Olha, um de vocês tem que ter um parente
+
+2260
+01:17:31,600 --> 01:17:34,060
+Porque ficaria na cara que eu precisaria
+
+2261
+01:17:34,060 --> 01:17:35,580
+Sei lá, fiquei com medo de estragar a experiência
+
+2262
+01:17:35,580 --> 01:17:37,720
+E também o jogador que iria jogar com o que quiseram
+
+2263
+01:17:37,720 --> 01:17:40,480
+Então a ideia do nerd sem amigos
+
+2264
+01:17:40,480 --> 01:17:41,980
+E a ideia de que
+
+2265
+01:17:41,980 --> 01:17:44,160
+Se eles convivessem obrigatoriamente
+
+2266
+01:17:44,160 --> 01:17:46,220
+Durante vários ciclos, eles se tornariam
+
+2267
+01:17:46,220 --> 01:17:48,340
+Amigos, enquanto no mundo real
+
+2268
+01:17:48,340 --> 01:17:50,440
+Em que eles não foram forçados a isso
+
+2269
+01:17:50,440 --> 01:17:52,240
+Cada um preferiu ser seu próprio
+
+2270
+01:17:52,240 --> 01:17:54,000
+Estereótipo e seguir o seu
+
+2271
+01:17:54,080 --> 01:17:56,300
+Caminho, provavelmente os 3 nunca mais se falaram
+
+2272
+01:17:56,300 --> 01:17:58,540
+No mundo real, enquanto no mundo virtual
+
+2273
+01:17:58,540 --> 01:17:59,580
+Eles continuaram ali
+
+2274
+01:17:59,580 --> 01:18:02,140
+Para quem não entendeu, acho que está bem óbvio
+
+2275
+01:18:02,140 --> 01:18:03,820
+Na fala do personagem do Fred
+
+2276
+01:18:03,820 --> 01:18:06,240
+Do Fred NPC e não do Fred jogador
+
+2277
+01:18:06,240 --> 01:18:08,600
+O que foi feito quando eles botaram aquele capacete
+
+2278
+01:18:08,600 --> 01:18:10,420
+Foi uma cópia do cérebro
+
+2279
+01:18:10,420 --> 01:18:12,100
+De cada um deles, essa cópia
+
+2280
+01:18:12,100 --> 01:18:13,740
+Se tornou uma inteligência artificial
+
+2281
+01:18:13,740 --> 01:18:16,540
+E eles ficaram presos dentro daquele mundo virtual
+
+2282
+01:18:16,540 --> 01:18:18,200
+De um jogo, eu acho que o episódio é mais
+
+2283
+01:18:18,200 --> 01:18:19,780
+Aproveitado para quem conhece o jogo
+
+2284
+01:18:19,780 --> 01:18:22,280
+Embora alguns conceitos como pular e tal
+
+2285
+01:18:22,280 --> 01:18:23,620
+No jogo original não é bem assim
+
+2286
+01:18:24,080 --> 01:18:26,380
+Um jogo em que tu tem que ficar fugindo do Jason
+
+2287
+01:18:26,380 --> 01:18:28,460
+Infinitamente, embora no jogo original
+
+2288
+01:18:28,460 --> 01:18:30,420
+Tu pode jogar com o Jason nessa versão
+
+2289
+01:18:30,420 --> 01:18:32,660
+Para brincar aqui no podcast
+
+2290
+01:18:32,660 --> 01:18:34,020
+Eu usei uma versão que não
+
+2291
+01:18:34,020 --> 01:18:36,900
+Mas você também pode botar o jogo que você quiser
+
+2292
+01:18:36,900 --> 01:18:38,920
+Isso é legal desse plot
+
+2293
+01:18:38,920 --> 01:18:40,700
+De aventura, você pode colocar o jogo
+
+2294
+01:18:40,700 --> 01:18:42,080
+Que você é mais familiarizado
+
+2295
+01:18:42,080 --> 01:18:44,580
+Um Modern Warfare, alguma coisa assim
+
+2296
+01:18:44,580 --> 01:18:46,180
+Tu pode mestrar uma aventura do que tu quiser
+
+2297
+01:18:46,180 --> 01:18:48,480
+Em que cada vez que acaba a aventura
+
+2298
+01:18:48,480 --> 01:18:50,120
+Os jogadores voltam para o ponto inicial
+
+2299
+01:18:50,120 --> 01:18:52,100
+Pode inclusive estar trocando de jogos
+
+2300
+01:18:52,100 --> 01:18:53,560
+Porque a ideia é que eles são
+
+2301
+01:18:54,080 --> 01:18:55,400
+Inteligências artificiais
+
+2302
+01:18:55,400 --> 01:18:57,520
+Que foram colocadas para rodar
+
+2303
+01:18:57,520 --> 01:18:58,780
+Dentro de um programa
+
+2304
+01:18:58,780 --> 01:19:00,500
+Por motivos de estudo
+
+2305
+01:19:00,500 --> 01:19:02,980
+Para servir como boot de jogo
+
+2306
+01:19:02,980 --> 01:19:05,460
+Vários são os motivos para isso estar acontecendo
+
+2307
+01:19:05,460 --> 01:19:08,180
+Quando os jogadores começaram a fazer coisas malucas
+
+2308
+01:19:08,180 --> 01:19:10,200
+Eu imagino que viraram febre na internet
+
+2309
+01:19:10,200 --> 01:19:11,500
+Vários vídeos
+
+2310
+01:19:11,500 --> 01:19:13,060
+E creepypastas
+
+2311
+01:19:13,060 --> 01:19:16,000
+De NPCs que se moviam diferente em jogos
+
+2312
+01:19:16,000 --> 01:19:17,440
+Isso deve ter acabado
+
+2313
+01:19:17,440 --> 01:19:19,260
+Despertando o interesse do Pedro
+
+2314
+01:19:19,260 --> 01:19:21,300
+Do Pedro pessoa normal
+
+2315
+01:19:21,300 --> 01:19:22,800
+E não inteligência artificial
+
+2316
+01:19:22,800 --> 01:19:23,840
+Que foi atrás
+
+2317
+01:19:24,080 --> 01:19:25,580
+Encontrou um desses servidores restritos
+
+2318
+01:19:25,580 --> 01:19:27,460
+Onde estavam esses bots
+
+2319
+01:19:27,460 --> 01:19:29,060
+Invadiu de alguma forma
+
+2320
+01:19:29,060 --> 01:19:30,520
+Conseguiu criar aquelas portas
+
+2321
+01:19:30,520 --> 01:19:32,340
+Para poder fazer a cópia dele
+
+2322
+01:19:32,340 --> 01:19:34,160
+Provavelmente aqueles jogadores
+
+2323
+01:19:34,160 --> 01:19:35,820
+Que conversam com ele
+
+2324
+01:19:35,820 --> 01:19:38,020
+Não são nem os jogadores que estavam
+
+2325
+01:19:38,020 --> 01:19:40,020
+No jogo quando receberam a ligação
+
+2326
+01:19:40,020 --> 01:19:42,520
+São cópias, já que tratam de arquivos
+
+2327
+01:19:42,520 --> 01:19:44,440
+Então eles indo para o espaço
+
+2328
+01:19:44,440 --> 01:19:46,680
+Tudo escuro e caindo
+
+2329
+01:19:46,680 --> 01:19:48,440
+É mais ou menos a minha alusão
+
+2330
+01:19:48,440 --> 01:19:49,500
+Para um download
+
+2331
+01:19:49,500 --> 01:19:52,320
+Ele está sendo simplesmente replicado
+
+2332
+01:19:52,320 --> 01:19:53,600
+O personagem da Débora
+
+2333
+01:19:54,080 --> 01:19:56,020
+Estava ali para ter mais uma voz
+
+2334
+01:19:56,020 --> 01:19:57,600
+Uma pessoa ali no meio
+
+2335
+01:19:57,600 --> 01:20:00,220
+E não porque exista uma Débora
+
+2336
+01:20:00,220 --> 01:20:01,500
+Uma inteligência artificial
+
+2337
+01:20:01,500 --> 01:20:02,860
+Em outros episódios
+
+2338
+01:20:02,860 --> 01:20:04,540
+Que talvez tenha vindo daqui
+
+2339
+01:20:04,540 --> 01:20:06,440
+O que explicaria algumas das atitudes dela
+
+2340
+01:20:06,440 --> 01:20:07,940
+Mas vocês sabem
+
+2341
+01:20:07,940 --> 01:20:09,340
+Não existe um goshaverso
+
+2342
+01:20:09,340 --> 01:20:11,160
+Quando surge um palhaço ou um dinossauro
+
+2343
+01:20:11,160 --> 01:20:11,840
+São mods
+
+2344
+01:20:11,840 --> 01:20:14,240
+Quem gosta de jogos sabe que isso existe
+
+2345
+01:20:14,240 --> 01:20:16,980
+Que pode trocar a aparência de alguns personagens
+
+2346
+01:20:16,980 --> 01:20:20,200
+Mas no fundo é uma aventura
+
+2347
+01:20:20,200 --> 01:20:21,980
+Bem simples
+
+2348
+01:20:21,980 --> 01:20:23,160
+Quem quiser replicar
+
+2349
+01:20:23,160 --> 01:20:23,920
+Está aí a ideia
+
+2350
+01:20:24,080 --> 01:20:26,040
+Agradeço novamente a Luana Sabihon
+
+2351
+01:20:26,040 --> 01:20:28,020
+Por ter tido a ideia inicial
+
+2352
+01:20:28,020 --> 01:20:30,360
+Embora o desenvolvimento da aventura foi diferente
+
+2353
+01:20:30,360 --> 01:20:31,700
+Essa aventura só existe
+
+2354
+01:20:31,700 --> 01:20:33,480
+Porque eu entrei lá no Discord
+
+2355
+01:20:33,480 --> 01:20:36,200
+Da taberna e eu vi uma mesa dela
+
+2356
+01:20:36,200 --> 01:20:37,820
+Então foi a inspiração
+
+2357
+01:20:37,820 --> 01:20:39,720
+Além de vídeos do Leon e da Nilce
+
+2358
+01:20:39,720 --> 01:20:41,980
+Jogando esse jogo, porque eu não sou muito de multiplayer
+
+2359
+01:20:41,980 --> 01:20:43,840
+E de leituras de matérias sobre
+
+2360
+01:20:43,840 --> 01:20:45,320
+Inteligência artificial e tal
+
+2361
+01:20:45,320 --> 01:20:48,620
+E filmes, mas essa é a base
+
+2362
+01:20:48,620 --> 01:20:50,360
+Já falei e repito
+
+2363
+01:20:50,360 --> 01:20:51,980
+Siga a gente nas redes sociais
+
+2364
+01:20:51,980 --> 01:20:53,880
+Esses três jogadores estão aqui
+
+2365
+01:20:54,080 --> 01:20:55,780
+São os responsáveis pelo Instagram
+
+2366
+01:20:55,780 --> 01:20:56,860
+Do RPGuacha
+
+2367
+01:20:56,860 --> 01:20:58,020
+Então sigam lá
+
+2368
+01:20:58,020 --> 01:21:00,160
+A gente está com a meta de chegar a mil pessoas
+
+2369
+01:21:00,160 --> 01:21:01,820
+Está quase, está muito quase
+
+2370
+01:21:01,820 --> 01:21:02,720
+Então siga
+
+2371
+01:21:02,720 --> 01:21:05,680
+No Twitter e no Instagram
+
+2372
+01:21:05,680 --> 01:21:08,260
+E no Twitter e no Instagram
+
+2373
+01:21:08,260 --> 01:21:10,380
+Já que falei do Instagram do RPGuacha
+
+2374
+01:21:10,380 --> 01:21:11,220
+Vou falar de novo
+
+2375
+01:21:11,220 --> 01:21:14,460
+Sinara, Gabriel Pinheiro e Felipe Xavier
+
+2376
+01:21:14,460 --> 01:21:16,440
+São pessoas maravilhosas que me ajudam
+
+2377
+01:21:16,440 --> 01:21:18,800
+Que me aturam, que discutem ideias comigo
+
+2378
+01:21:18,800 --> 01:21:20,660
+Que cuidam do Instagram
+
+2379
+01:21:20,660 --> 01:21:23,000
+Eles cuidam de uma parte muito importante
+
+2380
+01:21:23,000 --> 01:21:24,020
+Porque eu sou companheiro
+
+2381
+01:21:24,080 --> 01:21:25,700
+Completamente bagunceiro
+
+2382
+01:21:25,700 --> 01:21:27,780
+E eu esqueço de responder mensagem
+
+2383
+01:21:27,780 --> 01:21:28,900
+Eu sou terrível
+
+2384
+01:21:28,900 --> 01:21:30,320
+Então eles estão me ajudando
+
+2385
+01:21:30,320 --> 01:21:31,900
+Essa aventura que vocês ouviram
+
+2386
+01:21:31,900 --> 01:21:32,860
+Ela foi em live
+
+2387
+01:21:32,860 --> 01:21:34,720
+Por iniciativa deles
+
+2388
+01:21:34,720 --> 01:21:38,120
+Que me amarraram e me obrigaram a mestrar
+
+2389
+01:21:38,120 --> 01:21:39,320
+Numa live
+
+2390
+01:21:39,320 --> 01:21:40,860
+Dizendo que é quarentena
+
+2391
+01:21:40,860 --> 01:21:42,000
+O pessoal precisava e tal
+
+2392
+01:21:42,000 --> 01:21:44,660
+Eu não gosto muito dessas atividades ao vivo
+
+2393
+01:21:44,660 --> 01:21:47,960
+Eu prefiro muito mais episódios gravados e tal
+
+2394
+01:21:47,960 --> 01:21:49,460
+Mas o pessoal que estava na live curtiu
+
+2395
+01:21:49,460 --> 01:21:51,020
+Então fico feliz com todo mundo
+
+2396
+01:21:51,020 --> 01:21:51,680
+Então vamos lá
+
+2397
+01:21:51,680 --> 01:21:52,900
+Os três são padrinhos
+
+2398
+01:21:52,900 --> 01:21:54,060
+Mas não estão jogando
+
+2399
+01:21:54,060 --> 01:21:54,880
+Por ser padrinhos
+
+2400
+01:21:54,880 --> 01:21:57,320
+Você não joga RPG Guaxa por ser padrinho
+
+2401
+01:21:57,320 --> 01:21:59,220
+Você joga por N motivos
+
+2402
+01:21:59,220 --> 01:22:00,460
+Mas ser padrinho não é um deles
+
+2403
+01:22:00,460 --> 01:22:01,420
+São meus amigos
+
+2404
+01:22:01,420 --> 01:22:02,580
+Estão sempre aqui comigo
+
+2405
+01:22:02,580 --> 01:22:04,740
+Eu quis brincar com os três que são do Instagram
+
+2406
+01:22:04,740 --> 01:22:06,080
+Cuidar da parte virtual
+
+2407
+01:22:06,080 --> 01:22:07,460
+E jogá-los para o mundo virtual
+
+2408
+01:22:07,460 --> 01:22:09,620
+Então um beijo para o Gabriel Pinheiro
+
+2409
+01:22:09,620 --> 01:22:11,260
+Um beijo para o Felipe Xavier
+
+2410
+01:22:11,260 --> 01:22:13,340
+E um beijo para a Sinara
+
+2411
+01:22:13,340 --> 01:22:14,420
+Obrigado por tudo
+
+2412
+01:22:14,420 --> 01:22:18,200
+Esse episódio foi editado pelo Rafael Zorzal
+
+2413
+01:22:18,200 --> 01:22:20,340
+Que quem me indicou foi o Felipe Xavier, inclusive
+
+2414
+01:22:20,340 --> 01:22:23,200
+O Zorzal tem um podcast chamado Arquivos da Patrulha
+
+2415
+01:22:23,200 --> 01:22:23,900
+Que agora vai ter seu podcast em português
+
+2416
+01:22:23,900 --> 01:22:24,040
+E o Zorzal tem um podcast chamado Arquivos da Patrulha
+
+2417
+01:22:24,060 --> 01:22:25,880
+Vai ter minha voz, inclusive
+
+2418
+01:22:25,880 --> 01:22:28,460
+Na primeira temporada vai aparecer só no final do último episódio
+
+2419
+01:22:28,460 --> 01:22:29,780
+E tem o Felipe Xavier
+
+2420
+01:22:29,780 --> 01:22:31,740
+Que faz o personagem principal lá também
+
+2421
+01:22:31,740 --> 01:22:34,860
+Então dá uma conferida no podcast do Zorzal
+
+2422
+01:22:34,860 --> 01:22:37,000
+E ele fez essa edição maravilhosa
+
+2423
+01:22:37,000 --> 01:22:38,120
+Muito obrigado
+
+2424
+01:22:38,120 --> 01:22:39,920
+Preciso de editor, procuro o Rafael
+
+2425
+01:22:39,920 --> 01:22:42,160
+Esse episódio foi revisado pela Jujuba
+
+2426
+01:22:42,160 --> 01:22:44,480
+Agradeço muito as duas pela revisão
+
+2427
+01:22:44,480 --> 01:22:45,020
+Pelo apoio
+
+2428
+01:22:45,020 --> 01:22:47,560
+Quero lembrar a todos que o RPG Guaxa
+
+2429
+01:22:47,560 --> 01:22:49,480
+Ele tem parceiros que você pode ir lá
+
+2430
+01:22:49,480 --> 01:22:51,380
+E ganhar desconto e me ajudar
+
+2431
+01:22:51,380 --> 01:22:53,400
+Editor achar, usa o código Guaxa
+
+2432
+01:22:53,400 --> 01:22:53,900
+Ganha desconto
+
+2433
+01:22:53,900 --> 01:22:56,180
+Geek Inventário, vai lá no Instagram
+
+2434
+01:22:56,180 --> 01:22:58,160
+Dá Sabrina Palma no Geek Inventário
+
+2435
+01:22:58,160 --> 01:23:00,740
+Gostou de algum item, na hora de fazer a compra, fala pra ela
+
+2436
+01:23:00,740 --> 01:23:02,960
+Olha, te conheci pelo Guaxa, você ganha desconto
+
+2437
+01:23:02,960 --> 01:23:04,260
+MeuRPG.com
+
+2438
+01:23:04,260 --> 01:23:06,380
+Grilho de batalha, miniatura em acrílico
+
+2439
+01:23:06,380 --> 01:23:07,240
+Muita coisa pra RPG
+
+2440
+01:23:07,240 --> 01:23:09,820
+Escudo do Mestre, o meu escudo do Mestre é de lá, inclusive
+
+2441
+01:23:09,820 --> 01:23:10,620
+Ele é lindão
+
+2442
+01:23:10,620 --> 01:23:13,200
+Gostou de alguma coisa, põe o código Guaxa
+
+2443
+01:23:13,200 --> 01:23:14,760
+Caverna do DM
+
+2444
+01:23:14,760 --> 01:23:17,800
+Faz miniaturas impressas em 3D
+
+2445
+01:23:17,800 --> 01:23:20,420
+Objetos de decoração também, maravilhosos
+
+2446
+01:23:20,420 --> 01:23:22,360
+Não tem um código de desconto, vai pelo meu link
+
+2447
+01:23:22,360 --> 01:23:23,880
+Entra no post, clica lá
+
+2448
+01:23:23,900 --> 01:23:26,480
+Caverna do DM, tudo já vai aparecer com desconto pra ti
+
+2449
+01:23:26,480 --> 01:23:28,660
+Tem umas coisas lindas pra te botar de enfeite
+
+2450
+01:23:28,660 --> 01:23:31,180
+Tem miniaturas maravilhosas pra te usar no teu RPG
+
+2451
+01:23:31,180 --> 01:23:32,720
+Quando a gente passar dessa quarentena
+
+2452
+01:23:32,720 --> 01:23:33,980
+A gente puder voltar a jogar presencial
+
+2453
+01:23:33,980 --> 01:23:36,080
+Eu quero tentar criar uma mesa
+
+2454
+01:23:36,080 --> 01:23:38,020
+Nem que seja mensal de D&D
+
+2455
+01:23:38,020 --> 01:23:40,020
+Presencial, quando tudo isso passar
+
+2456
+01:23:40,020 --> 01:23:41,600
+Lá em 2027
+
+2457
+01:23:41,600 --> 01:23:43,480
+Mentira gente, vai dar tudo certo
+
+2458
+01:23:43,480 --> 01:23:45,560
+Vamos torcer e se cuidar por enquanto
+
+2459
+01:23:45,560 --> 01:23:47,360
+Caverna do DM também tem o Loot Epic
+
+2460
+01:23:47,360 --> 01:23:48,900
+Que é um presente que tu pode receber
+
+2461
+01:23:48,900 --> 01:23:50,940
+Imagina receber um presente na tua casa todo mês
+
+2462
+01:23:50,940 --> 01:23:53,040
+É uma caixa com miniaturas
+
+2463
+01:23:53,040 --> 01:23:54,960
+Vem de uma forma aleatória, vem outros brindes
+
+2464
+01:23:54,960 --> 01:23:55,740
+Dá uma conferida lá
+
+2465
+01:23:55,740 --> 01:23:58,420
+Esse se tu for assinar, não é só ir pelo link
+
+2466
+01:23:58,420 --> 01:24:00,060
+Esse tem que digitar o código Guaxa
+
+2467
+01:24:00,060 --> 01:24:02,580
+Que é pro desconto não ser só daquele primeiro mês
+
+2468
+01:24:02,580 --> 01:24:03,920
+Mas de todos os meses
+
+2469
+01:24:03,920 --> 01:24:05,560
+Mas tu tem que digitar o código Guaxa
+
+2470
+01:24:05,560 --> 01:24:07,080
+É só quando for esse Loot Epic
+
+2471
+01:24:07,080 --> 01:24:08,920
+Compra normal, é só ir pelo meu link
+
+2472
+01:24:08,920 --> 01:24:11,600
+Quero agradecer a todos que deram vozes nesse episódio
+
+2473
+01:24:11,600 --> 01:24:13,960
+O Felipe Xavier, além de fazer o jogador Fred
+
+2474
+01:24:13,960 --> 01:24:15,580
+Ele fez o personagem Fred
+
+2475
+01:24:15,580 --> 01:24:17,460
+Que é ele mais velho há alguns anos
+
+2476
+01:24:17,460 --> 01:24:19,980
+Espero que tenha ficado claro quando eu coloquei a voz dos dois
+
+2477
+01:24:19,980 --> 01:24:21,080
+Eu sou um idiota
+
+2478
+01:24:21,080 --> 01:24:22,560
+Essa eu acho que é a segunda ou terceira vez
+
+2479
+01:24:23,040 --> 01:24:25,880
+Jogadores conversando com NPCs
+
+2480
+01:24:25,880 --> 01:24:26,860
+Com a mesma voz que eles
+
+2481
+01:24:26,860 --> 01:24:29,020
+Então eu espero nunca mais ter essa ideia trouxa
+
+2482
+01:24:29,020 --> 01:24:31,120
+E espero que tenham curtido o como ficou
+
+2483
+01:24:31,120 --> 01:24:33,320
+Meu querido amigo Guilherme Vertamati
+
+2484
+01:24:33,320 --> 01:24:34,720
+Lá do Portal do Aviante
+
+2485
+01:24:34,720 --> 01:24:37,380
+Do falecido e maravilhoso Costelas e Dromel
+
+2486
+01:24:37,380 --> 01:24:39,040
+Ele fez o motorista
+
+2487
+01:24:39,040 --> 01:24:41,220
+A Luana Sabihon, que foi quem deu a ideia
+
+2488
+01:24:41,220 --> 01:24:43,000
+Pro episódio, foi a inspiração
+
+2489
+01:24:43,000 --> 01:24:44,800
+Ela fez a voz do telefone
+
+2490
+01:24:44,800 --> 01:24:47,080
+Que liga pra eles a maneira de saírem de lá
+
+2491
+01:24:47,080 --> 01:24:49,080
+A Débora foi interpretada pela Debbie
+
+2492
+01:24:49,080 --> 01:24:50,660
+Porque pra quem não sabe
+
+2493
+01:24:50,660 --> 01:24:52,900
+Debbie é o nome e Débora
+
+2494
+01:24:53,040 --> 01:24:54,940
+É o apelido no mundo real da Debbie
+
+2495
+01:24:54,940 --> 01:24:56,220
+Eu acho que é isso
+
+2496
+01:24:56,220 --> 01:24:59,280
+A atendente que recebe o pessoal quando eles chegam na instituição
+
+2497
+01:24:59,280 --> 01:25:01,040
+Foi a Jujuba
+
+2498
+01:25:01,040 --> 01:25:03,440
+A doutora foi feita pela Fernanda
+
+2499
+01:25:03,440 --> 01:25:05,080
+E o Jason foi feito pelo
+
+2500
+01:25:05,080 --> 01:25:08,000
+Neff William James de Souza
+
+2501
+01:25:08,000 --> 01:25:09,040
+Todos esses padrinhos
+
+2502
+01:25:09,560 --> 01:25:11,040
+Todos esses pessoas maravilhosas
+
+2503
+01:25:11,740 --> 01:25:12,780
+E falando em padrinho
+
+2504
+01:25:12,780 --> 01:25:15,460
+Que esse é nosso padrinho que quer fazer parte de vários grupos do Telegram
+
+2505
+01:25:15,460 --> 01:25:17,380
+Tem o principal que é a conversa com todo mundo
+
+2506
+01:25:17,380 --> 01:25:19,060
+Tem um grupo só pra discutir
+
+2507
+01:25:19,060 --> 01:25:21,440
+Spoilers e teorias ligando episódios
+
+2508
+01:25:21,440 --> 01:25:23,040
+E essas coisas que não existem
+
+2509
+01:25:23,040 --> 01:25:25,600
+É maravilhoso pra mim as primeiras 24 horas
+
+2510
+01:25:25,600 --> 01:25:27,180
+Que eu lanço episódio pros padrinhos
+
+2511
+01:25:27,180 --> 01:25:29,620
+E eles ficam relatando suas experiências
+
+2512
+01:25:29,620 --> 01:25:30,860
+Lá, comentando
+
+2513
+01:25:30,860 --> 01:25:32,980
+É muito bom estar acompanhando na hora
+
+2514
+01:25:32,980 --> 01:25:34,760
+O pessoal discutindo, criando teorias
+
+2515
+01:25:34,760 --> 01:25:37,660
+Tem grupo pra marcar jogo lá no Discord
+
+2516
+01:25:37,660 --> 01:25:39,120
+O pessoal tá sempre jogando mesa
+
+2517
+01:25:39,120 --> 01:25:40,500
+Essa aventura, como eu falei
+
+2518
+01:25:40,500 --> 01:25:43,440
+Eu me inspirei vendo uma mesa dos padrinhos lá
+
+2519
+01:25:43,440 --> 01:25:44,900
+Então tá sempre rolando mesa
+
+2520
+01:25:44,900 --> 01:25:47,080
+Tem um grupo só de menina
+
+2521
+01:25:47,080 --> 01:25:48,900
+Que as meninas se reúnem, tem bastante menina
+
+2522
+01:25:48,900 --> 01:25:51,600
+No grupo do Telegram, tem um grupo só pra elas
+
+2523
+01:25:51,600 --> 01:25:52,800
+Eu não sei o que acontece lá
+
+2524
+01:25:53,040 --> 01:25:54,500
+Porque eu não posso entrar, né?
+
+2525
+01:25:54,740 --> 01:25:56,380
+Tem a gravação de vozes, como eu falei
+
+2526
+01:25:56,380 --> 01:25:58,040
+Tem, sabe, um milhão de coisas
+
+2527
+01:25:58,040 --> 01:25:59,300
+Recebeu os episódios antes
+
+2528
+01:25:59,300 --> 01:26:01,620
+Pessoal, Cavaleiros do Bicho, chegou um mês antes pra eles
+
+2529
+01:26:01,620 --> 01:26:03,220
+E pra vocês, chega semana que vem
+
+2530
+01:26:03,220 --> 01:26:07,000
+Esse episódio tá saindo uma semana antes de ir pro feed
+
+2531
+01:26:07,000 --> 01:26:08,880
+Extras, um monte de coisa
+
+2532
+01:26:08,880 --> 01:26:10,120
+Vale muito a pena, então vai lá
+
+2533
+01:26:10,120 --> 01:26:12,180
+Vai no PicPay, não tem PicPay ainda?
+
+2534
+01:26:12,580 --> 01:26:13,820
+Quando tu criar tua conta, ele vai perguntar
+
+2535
+01:26:13,820 --> 01:26:14,800
+Você tem um código de amigo?
+
+2536
+01:26:15,160 --> 01:26:17,000
+Seu código é Guaxa, porque eu sou seu amigo
+
+2537
+01:26:17,000 --> 01:26:19,200
+Já tem conta? Vai lá, procura por RPGuaxa
+
+2538
+01:26:19,200 --> 01:26:21,520
+Assina, assina por lá, eu prefiro pelo PicPay
+
+2539
+01:26:21,520 --> 01:26:22,860
+Tá? Por vários motivos
+
+2540
+01:26:23,040 --> 01:26:25,320
+Mas não pode usar o PicPay, tem a opção do padrinho também
+
+2541
+01:26:25,320 --> 01:26:26,920
+O padrinho tem até a opção de boleto
+
+2542
+01:26:26,920 --> 01:26:29,820
+Vai lá, assina, entra nos grupos do Telegram
+
+2543
+01:26:29,820 --> 01:26:31,500
+E dali é só alegria
+
+2544
+01:26:31,500 --> 01:26:33,380
+E você ajuda esse projeto a fazer coisas
+
+2545
+01:26:33,380 --> 01:26:36,180
+Como esse de mês, que ele ficou semanal
+
+2546
+01:26:36,180 --> 01:26:37,720
+Falando nisso, eu quero agradecer
+
+2547
+01:26:37,720 --> 01:26:38,860
+Aos novos padrinhos
+
+2548
+01:26:38,860 --> 01:26:41,520
+Ao Marcelo Rebelo, sim, aquele Goblin
+
+2549
+01:26:41,520 --> 01:26:43,160
+Ao Andrei Andrade
+
+2550
+01:26:43,160 --> 01:26:45,860
+Ao Diego Santos, ao Vitor Busso
+
+2551
+01:26:45,860 --> 01:26:48,120
+Ao Suya Marco
+
+2552
+01:26:48,120 --> 01:26:50,960
+Ao Marcos Alexandre Gordin Oliveira
+
+2553
+01:26:50,960 --> 01:26:52,880
+Ao Izaquiel Paz
+
+2554
+01:26:52,880 --> 01:26:55,320
+Ao Vitor Matheus de Souza Silva
+
+2555
+01:26:55,320 --> 01:26:56,780
+Ao Amarilho
+
+2556
+01:26:56,780 --> 01:26:57,940
+Ao Henrique Santos
+
+2557
+01:26:57,940 --> 01:27:01,420
+E à queridíssima Júlia Iamamoto
+
+2558
+01:27:01,420 --> 01:27:03,280
+Muito obrigado a todos vocês que apoiaram esse projeto
+
+2559
+01:27:03,280 --> 01:27:05,600
+Muito obrigado a todos vocês que chegaram até aqui
+
+2560
+01:27:05,600 --> 01:27:06,920
+E lembre-se sempre
+
+2561
+01:27:06,920 --> 01:27:08,840
+Role 6, role 20
+
+2562
+01:27:08,840 --> 01:27:10,600
+E se tudo é errado, rola no chão
+
+2563
+01:27:10,600 --> 01:27:12,720
+Porque apaga o fogo e diverte
+
+2564
+01:27:12,720 --> 01:27:14,760
+Se puder, fica em casa, a gente lava as mãos
+
+2565
+01:27:14,760 --> 01:27:15,360
+Um beijo
+
+2566
+01:27:22,880 --> 01:27:52,860
+Um beijo
+
+2567
+01:27:52,880 --> 01:28:22,860
+Um beijo
+
+2568
+01:28:22,880 --> 01:28:52,860
+Um beijo
+
+2569
+01:28:52,880 --> 01:29:22,860
+Um beijo
+
+2570
+01:29:22,880 --> 01:29:24,360
+Um beijo
+

@@ -1,0 +1,10080 @@
+1
+00:00:00,000 --> 00:00:09,280
+Antigamente precisávamos explicar para as pessoas o que é um podcast, hoje precisamos
+
+2
+00:00:09,280 --> 00:00:15,580
+explicar o que não é um podcast, hoje também não precisamos mais explicar o que é RPG
+
+3
+00:00:15,580 --> 00:00:21,240
+na maioria das vezes, já faz parte da cultura nerd, da cultura pop, embora muitas vezes
+
+4
+00:00:21,240 --> 00:00:27,020
+ainda precisamos registrar que RPG não é só D&D, e embora não seja D&D, precisa
+
+5
+00:00:27,020 --> 00:00:31,260
+admitir que o cenário de fantasia mágica ainda é muito RPG.
+
+6
+00:00:32,200 --> 00:00:39,560
+Episódio de hoje, A Princesa Orquiza e a Guerra, com as madrinhas Rafaela Malecheschi
+
+7
+00:00:39,560 --> 00:00:46,740
+e Juleiva, e com o meu amigo Príncipe Vidani, lá do Pelado da NET e do Mal Acompanhado.
+
+8
+00:00:46,740 --> 00:00:51,600
+Foi uma honra gigantesca receber este comunicador, e vamos ver o que ele aprontou.
+
+9
+00:00:52,020 --> 00:00:56,680
+O Realidade Paralelas do Guaxinim usa o sistema guaxinim de gambiarras, nele cada
+
+10
+00:00:56,680 --> 00:00:56,740
+jogador...
+
+11
+00:00:57,020 --> 00:01:02,840
+O jogador possui apenas um único atributo que vai de 2 a 5, quanto maior o atributo
+
+12
+00:01:02,840 --> 00:01:06,940
+mais atlético ao personagem, quanto menor, mais inteligente e carismático.
+
+13
+00:01:07,220 --> 00:01:10,880
+Sempre que o jogador faz algo com uma chance de errar, joga dois dados e precisa tirar
+
+14
+00:01:10,880 --> 00:01:15,640
+seu atributo ou menos para ataques e ações físicas, e seu atributo ou mais para ações
+
+15
+00:01:15,640 --> 00:01:17,420
+intelectuais ou sociais.
+
+16
+00:01:18,020 --> 00:01:22,740
+Se a jogada for fácil ou tiver algum auxílio, joga um dado a mais, se a jogada for difícil,
+
+17
+00:01:22,740 --> 00:01:24,200
+rola-se um dado a menos.
+
+18
+00:01:24,680 --> 00:01:26,940
+Eu sou o André Trapani e sou padrinho do...
+
+19
+00:01:27,020 --> 00:01:34,040
+Do RP Guaxa, porque, poxa, eu pago um serviço de streaming aí que não me dá nem de perto
+
+20
+00:01:34,040 --> 00:01:38,980
+tanta diversão quanto esse projeto, nada mais justo do que pagar o RP Guaxa e poder
+
+21
+00:01:38,980 --> 00:01:42,420
+fazer parte da taberna ainda de bônus, que é um bônus incrível.
+
+22
+00:01:43,200 --> 00:01:47,620
+Não deixe de seguir nas redes sociais, arroba Marcelo Guaxinim, arroba RP Guaxa, considere
+
+23
+00:01:47,620 --> 00:01:52,220
+se tornar apoiador para ter cada vez mais episódios aqui no seu feed, lá pelo PicPay
+
+24
+00:01:52,220 --> 00:01:56,500
+ou pelo Padrim, procure por RP Guaxa e cada realzinho que você está ajudando a gente
+
+25
+00:01:56,500 --> 00:01:56,940
+a partir daí.
+
+26
+00:01:57,020 --> 00:01:58,860
+E aí você faz parte do nosso grupo do Telegram.
+
+27
+00:01:59,020 --> 00:01:59,780
+Agora bora, vem, vamos.
+
+28
+00:02:13,860 --> 00:02:20,900
+Sete realidades paralelas, uma infinidade de possibilidades, três jogadores e um Guaxinim.
+
+29
+00:02:21,680 --> 00:02:24,100
+Um pequeno passo para um jogador de RPG.
+
+30
+00:02:25,020 --> 00:02:27,000
+Mais uma grande rolagem para o pão.
+
+31
+00:02:27,020 --> 00:02:42,020
+5, 4, 3, 2, 1...
+
+32
+00:02:42,020 --> 00:02:49,420
+RPG, Realidades Paralelas do Guaxinim, sua aventura de bolso na forma de podcast.
+
+33
+00:02:49,860 --> 00:02:52,340
+Uma jornada completa a cada episódio.
+
+34
+00:02:57,020 --> 00:03:10,300
+A 200 anos, o reino orc de Nurs Gash passou por uma divisão significativa, com a morte
+
+35
+00:03:10,300 --> 00:03:13,040
+de um poderoso rei orc, deixando dois herdeiros.
+
+36
+00:03:13,300 --> 00:03:18,060
+O primeiro filho, o legítimo herdeiro, e o irmão mais novo, o segundo na sucessão,
+
+37
+00:03:18,400 --> 00:03:20,680
+um orc muito mais amado e preparado para o cargo.
+
+38
+00:03:21,300 --> 00:03:25,140
+Ambos queriam assumir o trono, e essa disputa entre os príncipes resultou em uma guerra
+
+39
+00:03:25,140 --> 00:03:27,000
+civil, que foi mitigada graças a uma guerra civil.
+
+40
+00:03:27,020 --> 00:03:34,520
+No fim, o reino foi dividido, e embora ambos os príncipes reivindicassem o nome do reino
+
+41
+00:03:34,520 --> 00:03:38,900
+para si, os povos que mantinham comércio com a região passaram a se referir ao reino
+
+42
+00:03:38,900 --> 00:03:43,280
+ocidental como Nurs, e o reino oriental como Gash.
+
+43
+00:03:43,660 --> 00:03:48,560
+Embora essa nomenclatura não faça sentido algum para um orc, acabou pegando e sendo
+
+44
+00:03:48,560 --> 00:03:50,960
+oficializada nos mapas posteriores.
+
+45
+00:03:51,200 --> 00:03:55,420
+O conflito entre os dois reinos se arrastou por décadas, com uma guerra fria que volta
+
+46
+00:03:55,420 --> 00:03:56,020
+em meia.
+
+47
+00:03:56,020 --> 00:04:00,640
+A guerra escalava para uma guerra declarada, sem muitos confrontos, mas que tem se intensificado
+
+48
+00:04:00,640 --> 00:04:01,720
+nos últimos 20 anos.
+
+49
+00:04:02,100 --> 00:04:06,180
+Graças à guerra, muitos grupos de aventureiros deixaram de ser exploradores de masmorras
+
+50
+00:04:06,180 --> 00:04:08,300
+para se tornarem pequenos grupos mercenários.
+
+51
+00:04:08,600 --> 00:04:12,440
+Muitos foram os heróis que se envolveram diretamente na guerra, recebendo fama, fortuna,
+
+52
+00:04:12,980 --> 00:04:15,000
+e uma morte ainda jovem.
+
+53
+00:04:15,140 --> 00:04:19,520
+Mas isso não aconteceu com os três aventureiros locais, pelo menos não até agora, que o
+
+54
+00:04:19,520 --> 00:04:24,800
+nosso general de Gash solicitou um encontro, que segundo ele, existe uma missão em que
+
+55
+00:04:24,800 --> 00:04:26,000
+precisa de um grupo de aventureiros.
+
+56
+00:04:26,020 --> 00:04:29,460
+Um grupo de agentes neutros dentro dessa guerra para ser realizada.
+
+57
+00:04:29,960 --> 00:04:32,000
+E esses aventureiros são os nossos jogadores de hoje.
+
+58
+00:04:32,420 --> 00:04:35,740
+Então eu peço, Juleiva, fala sobre esse personagem, a aparência e atributo.
+
+59
+00:04:35,880 --> 00:04:37,180
+Opa, oi gente.
+
+60
+00:04:37,800 --> 00:04:39,460
+Eu vou jogar com a Niniel.
+
+61
+00:04:39,800 --> 00:04:41,960
+A Niniel, todo mundo chama ela de Nini.
+
+62
+00:04:42,280 --> 00:04:46,660
+Ela é uma elfa alta, gorda, de longos cabelos negros e olhos verdes.
+
+63
+00:04:46,800 --> 00:04:52,960
+Ela possui marcas de queimadura pelo corpo, antigas, na lateral esquerda, incluindo no
+
+64
+00:04:52,960 --> 00:04:53,640
+seu rosto.
+
+65
+00:04:53,640 --> 00:04:55,580
+Ela está no seu terceiro século.
+
+66
+00:04:56,020 --> 00:05:00,580
+E quando ela não está nas suas empreitadas, ela reside na região.
+
+67
+00:05:00,800 --> 00:05:01,980
+Isso faz uns 20 anos.
+
+68
+00:05:02,300 --> 00:05:05,720
+Ela usa a espada da sua família, que é capaz de entrar em chamas.
+
+69
+00:05:06,020 --> 00:05:10,860
+Esse recurso não é usado pela Nini, porque ela tem um medo profundo de fogo.
+
+70
+00:05:11,160 --> 00:05:13,000
+O atributo da Nini é o 4.
+
+71
+00:05:13,220 --> 00:05:13,640
+Perfeito.
+
+72
+00:05:13,900 --> 00:05:16,480
+Rafa Malachesti, fala sobre esse personagem, a aparência e atributo.
+
+73
+00:05:16,540 --> 00:05:17,200
+Olá, pessoas.
+
+74
+00:05:17,680 --> 00:05:19,000
+Hoje eu vou jogar com a Ayla.
+
+75
+00:05:19,000 --> 00:05:24,840
+A Ayla é uma humana jovem que anseia por conhecer o mundo fora da vila onde ela nasceu.
+
+76
+00:05:24,920 --> 00:05:26,000
+Ela vem de uma família de botelhão.
+
+77
+00:05:26,020 --> 00:05:28,720
+Ela tem vários praticários que queriam que ela aprendesse o mesmo ofício.
+
+78
+00:05:29,220 --> 00:05:34,260
+No entanto, ela acabou usando esses conhecimentos para se especializar na criação de venenos.
+
+79
+00:05:34,440 --> 00:05:39,220
+Por isso, ela carrega consigo uma balestra, onde a ponta das suas flechas são banhadas
+
+80
+00:05:39,220 --> 00:05:39,740
+em veneno.
+
+81
+00:05:39,980 --> 00:05:43,860
+A Ayla tem uma estatura alta, os cabelos castanhos na altura dos ombros.
+
+82
+00:05:44,320 --> 00:05:48,660
+Ela usa um manto com capuz, onde ela também carrega frascos com as suas criações.
+
+83
+00:05:49,160 --> 00:05:50,780
+E o atributo dela é o 3.
+
+84
+00:05:51,060 --> 00:05:51,540
+Perfeito.
+
+85
+00:05:51,540 --> 00:05:55,800
+E estreando no RPG Watch, recebemos ele hoje, que é membro da Realeza.
+
+86
+00:05:55,800 --> 00:05:58,140
+Nosso querido amigo, Príncipe Videni.
+
+87
+00:05:58,440 --> 00:05:59,040
+Tudo bem, Vitinho?
+
+88
+00:05:59,120 --> 00:05:59,840
+Tudo bem, gente.
+
+89
+00:05:59,900 --> 00:06:01,020
+Muito obrigado pelo convite.
+
+90
+00:06:01,380 --> 00:06:03,420
+Hoje eu vou jogar com o Serjão.
+
+91
+00:06:04,520 --> 00:06:05,760
+Serjão, nome separado.
+
+92
+00:06:06,460 --> 00:06:08,100
+Ele é um orc.
+
+93
+00:06:08,380 --> 00:06:09,620
+O atributo dele é 5.
+
+94
+00:06:10,260 --> 00:06:14,020
+E a única característica dele que é mais marcante é que ele é extremamente burro.
+
+95
+00:06:14,060 --> 00:06:17,860
+É o que eu vou trazer para o jogo de hoje, porque faz um bom tempo que eu não jogo RPG.
+
+96
+00:06:18,040 --> 00:06:21,920
+Então eu quero ter a desculpa do meu personagem ser burro para eu poder ser burro também.
+
+97
+00:06:21,920 --> 00:06:24,520
+Então essa é a minha estratégia que eu já estou conseguindo.
+
+98
+00:06:24,520 --> 00:06:26,740
+Eu espero ser mais burro no meio do jogo, inclusive.
+
+99
+00:06:40,040 --> 00:06:44,960
+O grupo de vocês já se conhece, provavelmente já trabalhou algumas vezes juntos.
+
+100
+00:06:45,580 --> 00:06:48,080
+Já se encontraram algumas vezes.
+
+101
+00:06:48,080 --> 00:06:52,820
+E hoje, como eu comentei antes, foram chamados para uma reunião na taverna.
+
+102
+00:06:53,240 --> 00:06:53,720
+É...
+
+103
+00:06:53,720 --> 00:06:54,480
+Com o general.
+
+104
+00:06:54,520 --> 00:06:55,800
+Com o general, né, do reino.
+
+105
+00:06:56,440 --> 00:06:58,980
+Ele tem uma missão importante para vocês.
+
+106
+00:06:59,480 --> 00:07:00,520
+Ele aguarda vocês na taverna.
+
+107
+00:07:01,360 --> 00:07:03,200
+Imagino que vocês cheguem juntos, né?
+
+108
+00:07:03,260 --> 00:07:03,680
+Pode ser.
+
+109
+00:07:03,880 --> 00:07:04,320
+Fechado.
+
+110
+00:07:04,560 --> 00:07:05,740
+Não tem nada contra, inclusive.
+
+111
+00:07:06,840 --> 00:07:08,300
+Até para não se perder, né?
+
+112
+00:07:08,480 --> 00:07:08,780
+É.
+
+113
+00:07:08,960 --> 00:07:09,920
+Então para mim está ótimo.
+
+114
+00:07:10,580 --> 00:07:12,000
+Eu guizo em vocês, inclusive.
+
+115
+00:07:13,280 --> 00:07:14,920
+Para de se distrair, Serjão.
+
+116
+00:07:15,640 --> 00:07:17,180
+Principalmente na taverna, né?
+
+117
+00:07:17,520 --> 00:07:21,740
+O horário é pela manhã, então ela ainda não está tão movimentada.
+
+118
+00:07:21,740 --> 00:07:24,280
+Tem um ou outro assim, dormindo sobre uma mesa.
+
+119
+00:07:24,520 --> 00:07:31,340
+Está o pessoal da taverna tentando fazer a manutenção e a limpeza para servir uma refeição
+
+120
+00:07:31,340 --> 00:07:34,320
+quando o sol estiver mais alto, né?
+
+121
+00:07:34,740 --> 00:07:36,900
+Mas o momento é de calma.
+
+122
+00:07:37,320 --> 00:07:42,620
+E assim que vocês entram na taverna, um taberneiro, ele estava limpando uma caneca,
+
+123
+00:07:43,020 --> 00:07:49,440
+ele aponta para uma cortina de veludo que separa o salão principal de uma das salas reservadas
+
+124
+00:07:49,440 --> 00:07:52,440
+e faz o sinal com a cabeça para vocês.
+
+125
+00:07:52,440 --> 00:07:54,500
+A gente já passou nessa cortina de veludo.
+
+126
+00:07:54,500 --> 00:07:55,760
+Bom, vocês é que sabem.
+
+127
+00:07:55,960 --> 00:08:04,500
+É um lugar que normalmente nobres fazem encontros pessoais e algumas missões mais reservadas
+
+128
+00:08:04,500 --> 00:08:05,740
+são negociadas.
+
+129
+00:08:06,020 --> 00:08:06,500
+Beleza.
+
+130
+00:08:06,880 --> 00:08:08,800
+Então eu vou cochichar para os meus colegas.
+
+131
+00:08:09,300 --> 00:08:11,040
+Hum, tem gente importante por aí.
+
+132
+00:08:11,460 --> 00:08:14,740
+Será que é algum filho perdido do príncipe de novo?
+
+133
+00:08:15,000 --> 00:08:15,720
+O que vocês acham?
+
+134
+00:08:15,740 --> 00:08:16,460
+Eu vou lá perguntar.
+
+135
+00:08:16,540 --> 00:08:17,460
+Vou direto lá perguntar.
+
+136
+00:08:18,180 --> 00:08:21,420
+Vou abrir a cortina de veludo e perguntar literalmente o que ela falou.
+
+137
+00:08:21,420 --> 00:08:24,200
+Tem algum filho perdido de algum príncipe aí, gente?
+
+138
+00:08:24,500 --> 00:08:27,260
+Só para a gente saber aqui que estamos com essa dúvida aí na cabeça.
+
+139
+00:08:27,680 --> 00:08:28,080
+Quero saber.
+
+140
+00:08:28,460 --> 00:08:31,380
+Deixando as suas companheiras meio perplexas para trás, né?
+
+141
+00:08:31,880 --> 00:08:33,360
+Lá abre aquela cortina de veludo.
+
+142
+00:08:33,800 --> 00:08:35,780
+É uma sala reservada, como eu falei.
+
+143
+00:08:35,920 --> 00:08:43,240
+Ela tem painéis de carvalho escuro revestindo as paredes com entalhes relatando batalhas e lendo as orques, né?
+
+144
+00:08:43,740 --> 00:08:48,940
+Uma iluminação suave das tochas nas paredes e um candelabro suspenso acima da mesa central.
+
+145
+00:08:48,940 --> 00:08:53,660
+A mesa é feita de madeira maciça, está coberta com pergaminhos, mapas, relatórios.
+
+146
+00:08:53,660 --> 00:09:04,120
+E o mais perplexo ainda, o general Darguk, que é o general principal ali, o braço direito do rei,
+
+147
+00:09:04,640 --> 00:09:10,020
+ele olha assim meio embasbacado para ti e fala
+
+148
+00:09:10,020 --> 00:09:12,400
+Fecha a cortina. Temos coisas sérias a discutir.
+
+149
+00:09:12,500 --> 00:09:15,400
+Alegria, alegria. Fecha a cortina. Perdão, perdão. Alegria.
+
+150
+00:09:15,840 --> 00:09:16,880
+As meninas?
+
+151
+00:09:16,880 --> 00:09:21,320
+Eu fico perto da porta, perto da cortina de veludo.
+
+152
+00:09:21,320 --> 00:09:24,900
+E o mais longe possível das tochas que estão nas paredes.
+
+153
+00:09:25,000 --> 00:09:28,180
+Então eu vou ficar no meio da portinha de veludo, de braço cruzado.
+
+154
+00:09:28,720 --> 00:09:30,540
+Passou pela cortina e está lá dentro também, né?
+
+155
+00:09:30,680 --> 00:09:30,940
+Estou.
+
+156
+00:09:31,060 --> 00:09:32,120
+A Ayla?
+
+157
+00:09:32,300 --> 00:09:37,800
+Ela entra também por trás, assim. Ela está bem pertinho da... seria a saída.
+
+158
+00:09:38,220 --> 00:09:45,320
+Eu não entendi se é onde a Nini ficou, mas ela quer ficar encostadinha ali na cortina, para o lado de dentro.
+
+159
+00:09:45,320 --> 00:09:51,020
+Então o Serjão está sentado ali na mesa, né?
+
+160
+00:09:51,320 --> 00:09:53,320
+Os caras mais em pé ali, posicionados.
+
+161
+00:09:53,480 --> 00:09:56,780
+O general, ele é um orc, assim, imponente. Ele está trazendo uma armadura.
+
+162
+00:09:57,140 --> 00:10:01,160
+A Nini nota que a espada dele tem muitos entalhes élficos, né?
+
+163
+00:10:01,580 --> 00:10:03,360
+Em especial no cabo ali.
+
+164
+00:10:03,940 --> 00:10:07,300
+Não é uma arma típica orc, mas é uma arma muito boa.
+
+165
+00:10:07,720 --> 00:10:10,860
+O general estende a mão, assim, para o Serjão.
+
+166
+00:10:11,260 --> 00:10:12,140
+Aperta a mão dele.
+
+167
+00:10:12,380 --> 00:10:14,000
+Beleza. Aperta de volta também.
+
+168
+00:10:14,000 --> 00:10:16,440
+Sem muita reação, só apertando o traseiro.
+
+169
+00:10:16,440 --> 00:10:19,600
+Senhores, como sabem, nosso reino por muito tempo esteve em guerra.
+
+170
+00:10:20,000 --> 00:10:21,000
+Mas graças aos acordos que passei...
+
+171
+00:10:21,320 --> 00:10:24,180
+Anos costurando, a guerra estava perto de seu fim.
+
+172
+00:10:25,020 --> 00:10:27,460
+O nosso reino irmão enviou uma de suas princesas para cá.
+
+173
+00:10:28,100 --> 00:10:32,020
+Iremos fazer um casamento para unir novamente esses povos que foram separados pela guerra.
+
+174
+00:10:32,660 --> 00:10:35,300
+Mas essa irmã que viajava para cá está atrasada há um dia.
+
+175
+00:10:36,020 --> 00:10:38,980
+Deu medo de enviar soldados e parecer que estamos fazendo um ataque.
+
+176
+00:10:39,440 --> 00:10:43,020
+Então precisaria que pessoas neutras nessa guerra fossem descobrir o motivo do atraso.
+
+177
+00:10:43,300 --> 00:10:45,300
+E talvez ajudar caso encontrem algum problema.
+
+178
+00:10:45,300 --> 00:10:46,560
+Preciso ver como é a galera aqui, hein?
+
+179
+00:10:46,560 --> 00:10:47,660
+Porque...
+
+180
+00:10:47,660 --> 00:10:49,080
+Eu não estou sozinho não, também.
+
+181
+00:10:49,080 --> 00:10:51,080
+E eu não sou, geralmente, a pessoa que...
+
+182
+00:10:51,080 --> 00:10:53,080
+Mais toma decisão aqui não.
+
+183
+00:10:53,080 --> 00:10:53,580
+E...
+
+184
+00:10:53,580 --> 00:10:55,080
+Vou começar a olhar para o lado...
+
+185
+00:10:55,080 --> 00:10:57,080
+Olhar para as meninas aí para ver...
+
+186
+00:10:57,080 --> 00:10:58,080
+O que que eu vou falar.
+
+187
+00:10:58,080 --> 00:11:01,080
+Geralmente quem faz o aceite dos contratos é a Ayla, né?
+
+188
+00:11:01,080 --> 00:11:02,080
+Não sei.
+
+189
+00:11:02,080 --> 00:11:03,080
+E eu olho para ela.
+
+190
+00:11:03,080 --> 00:11:05,080
+Bom, se vocês...
+
+191
+00:11:05,080 --> 00:11:09,080
+Não tiverem problema, a gente pode, sim, verificar.
+
+192
+00:11:09,080 --> 00:11:12,080
+Vocês sabem por qual caminho eles estavam vindo?
+
+193
+00:11:12,080 --> 00:11:14,080
+Ele mostra um dos mapas ali.
+
+194
+00:11:14,080 --> 00:11:15,080
+Sim.
+
+195
+00:11:15,080 --> 00:11:18,080
+Eles viriam por essa rota que não é tão longa, nem tão perigosa.
+
+196
+00:11:18,080 --> 00:11:20,780
+Talvez se deparassem com algum urso ou com alguma outra coisa...
+
+197
+00:11:20,780 --> 00:11:22,780
+Que conseguiriam espantar, com certeza.
+
+198
+00:11:22,780 --> 00:11:24,280
+Não há motivo para tanto atraso.
+
+199
+00:11:24,280 --> 00:11:26,780
+Tenho certeza que serão muito bem recompensados com ouro.
+
+200
+00:11:26,780 --> 00:11:28,280
+Ele mostra um saquinho assim, com algumas moedas.
+
+201
+00:11:28,280 --> 00:11:30,280
+Faço um pouco do pagamento adiantado.
+
+202
+00:11:30,280 --> 00:11:33,280
+E se conseguirem realmente trazer essa princesa e tudo der certo...
+
+203
+00:11:33,280 --> 00:11:35,780
+Títulos e terras podem ser conseguidos também.
+
+204
+00:11:35,780 --> 00:11:37,780
+Só mais uma perguntinha, assim, já que, né?
+
+205
+00:11:37,780 --> 00:11:40,280
+Parece que a nossa amiga aqui vai aceitar o contrato.
+
+206
+00:11:40,280 --> 00:11:41,780
+Para a nossa turma.
+
+207
+00:11:41,780 --> 00:11:44,780
+Tem alguma pintura com a foto dessa...
+
+208
+00:11:44,780 --> 00:11:46,280
+Com a imagem dessa princesa?
+
+209
+00:11:46,280 --> 00:11:46,780
+Não.
+
+210
+00:11:46,780 --> 00:11:48,780
+Infelizmente não temos nenhuma informação desse tipo.
+
+211
+00:11:48,780 --> 00:11:50,280
+Só que a princesa seria trazida.
+
+212
+00:11:50,280 --> 00:11:52,280
+Vocês não sabem nem a cara, nem o nome?
+
+213
+00:11:52,280 --> 00:11:54,280
+Ele fica meio constrangido, assim...
+
+214
+00:11:54,280 --> 00:11:56,280
+Um verde meio avermelhado.
+
+215
+00:11:56,280 --> 00:11:58,280
+Bem, o importante é evitar a guerra.
+
+216
+00:11:58,280 --> 00:12:02,280
+Independente da idade ou da aparência, temos diversas pessoas para agitar esse casamento.
+
+217
+00:12:02,280 --> 00:12:05,280
+Bom, se meus companheiros não têm alguma dúvida...
+
+218
+00:12:05,280 --> 00:12:08,280
+Acho que nós podemos fechar esse contrato.
+
+219
+00:12:08,280 --> 00:12:10,280
+Vocês têm alguma...
+
+220
+00:12:10,280 --> 00:12:10,780
+Objeção?
+
+221
+00:12:10,780 --> 00:12:13,280
+Objeção nenhuma, dúvidas várias.
+
+222
+00:12:13,280 --> 00:12:14,780
+Mas vamos seguir.
+
+223
+00:12:14,780 --> 00:12:16,280
+Bom, tudo bem.
+
+224
+00:12:16,280 --> 00:12:18,780
+A gente tem que procurar a princesa de lugar nenhum.
+
+225
+00:12:18,780 --> 00:12:20,280
+Num lugar que a gente não conhece.
+
+226
+00:12:20,280 --> 00:12:22,280
+E com um nome que a gente não conhece.
+
+227
+00:12:22,280 --> 00:12:23,280
+Tá bom, Ayla.
+
+228
+00:12:23,280 --> 00:12:25,280
+Tá bom, Sergião.
+
+229
+00:12:25,280 --> 00:12:27,280
+Eles serão bem recompensados.
+
+230
+00:12:27,280 --> 00:12:28,280
+Porra, sim.
+
+231
+00:12:28,280 --> 00:12:30,280
+As moedas já como parte do pagamento.
+
+232
+00:12:30,280 --> 00:12:31,280
+Quem pegou o saquinho?
+
+233
+00:12:31,280 --> 00:12:32,280
+Deixa eu pegar.
+
+234
+00:12:32,280 --> 00:12:33,280
+Deixa eu pegar, que eu sou orc também.
+
+235
+00:12:33,280 --> 00:12:36,280
+Eu vou lá pegar o saquinho da bandeira de moedas e vou...
+
+236
+00:12:36,280 --> 00:12:38,280
+Falar, mas alguém tem que contar as moedas aqui.
+
+237
+00:12:38,280 --> 00:12:39,280
+Eu não vou contar, não.
+
+238
+00:12:39,280 --> 00:12:41,280
+Mas contei pra saber quanto é que tem, porque...
+
+239
+00:12:41,280 --> 00:12:42,280
+Tô tranquilo.
+
+240
+00:12:42,280 --> 00:12:43,280
+Tudo bem, tudo bem.
+
+241
+00:12:43,280 --> 00:12:47,280
+A gente pode ter direito a algum cavalo, moço?
+
+242
+00:12:47,280 --> 00:12:48,280
+Ah, sim.
+
+243
+00:12:48,280 --> 00:12:49,280
+Podem pedir no estábulo da taberna.
+
+244
+00:12:49,280 --> 00:12:50,280
+Coloquem na minha conta.
+
+245
+00:12:50,280 --> 00:12:51,280
+Ayla, você que sabe.
+
+246
+00:12:51,280 --> 00:12:53,280
+A gente tem que fazer mais alguma coisa?
+
+247
+00:12:53,280 --> 00:12:54,280
+Bom...
+
+248
+00:12:54,280 --> 00:12:55,280
+Os mapas...
+
+249
+00:12:55,280 --> 00:12:58,280
+Você também pode nos entregar os mapas?
+
+250
+00:12:58,280 --> 00:12:59,280
+Claro.
+
+251
+00:12:59,280 --> 00:13:00,280
+Entrega.
+
+252
+00:13:00,280 --> 00:13:03,280
+Bom, acho que nós podemos pegar alguns suprimentos também na taverna.
+
+253
+00:13:03,280 --> 00:13:06,280
+E aí ela olha pro cara, tipo, pra ele confirmar, assim.
+
+254
+00:13:06,280 --> 00:13:07,280
+E partimos logo.
+
+255
+00:13:07,280 --> 00:13:08,280
+Ele confiou.
+
+256
+00:13:08,280 --> 00:13:09,280
+Fechou.
+
+257
+00:13:09,280 --> 00:13:11,280
+Vamos sair de perto dessas tochas.
+
+258
+00:13:11,280 --> 00:13:13,280
+É, tu é a primeira a sair ali, né?
+
+259
+00:13:13,280 --> 00:13:14,280
+Uhum.
+
+260
+00:13:14,280 --> 00:13:16,280
+Fala dois dados pra mim, pra eu tomar.
+
+261
+00:13:17,280 --> 00:13:19,280
+Eu tirei três e dois.
+
+262
+00:13:19,280 --> 00:13:25,280
+Tu nota que a taberna tem, agora, numa das mesas, um elfo sentado, assim.
+
+263
+00:13:25,280 --> 00:13:30,280
+Ele tá conversando com um orc bem grande do lado dele.
+
+264
+00:13:30,280 --> 00:13:32,280
+O orc tá em pé, ele tá sentado.
+
+265
+00:13:32,280 --> 00:13:34,280
+Mas tu falhou do teste, né?
+
+266
+00:13:34,280 --> 00:13:37,280
+Não tem nenhuma informação adicional sobre essa pessoa.
+
+267
+00:13:37,280 --> 00:13:41,280
+Então, acho que a gente vai saindo ali pra pegar, fazer os preparativos ali.
+
+268
+00:13:41,280 --> 00:13:42,280
+Eu não lembro que...
+
+269
+00:13:42,280 --> 00:13:44,280
+É de manhã, assim, né?
+
+270
+00:13:44,280 --> 00:13:45,280
+É de manhã.
+
+271
+00:13:45,280 --> 00:13:46,280
+Tá bom.
+
+272
+00:13:46,280 --> 00:13:47,280
+Você...
+
+273
+00:13:47,280 --> 00:13:49,280
+O barman ali é tranquilo, né?
+
+274
+00:13:49,280 --> 00:13:52,280
+Ele entrega suplementos pra vocês.
+
+275
+00:13:52,280 --> 00:13:53,280
+É...
+
+276
+00:13:53,280 --> 00:13:58,280
+Ele fala onde estão os cavalos, dá um papel com autorização pra vocês pegarem três cavalos, né?
+
+277
+00:13:58,280 --> 00:14:00,280
+Eu tenho um cavalo do meu tamanho também.
+
+278
+00:14:00,280 --> 00:14:02,280
+Eu sou um bicho grande também.
+
+279
+00:14:02,280 --> 00:14:03,280
+Isso.
+
+280
+00:14:03,280 --> 00:14:04,280
+Não, tem, tem, tem.
+
+281
+00:14:04,280 --> 00:14:05,280
+Beleza.
+
+282
+00:14:05,280 --> 00:14:06,280
+Mais forte.
+
+283
+00:14:06,280 --> 00:14:09,280
+Vou garantir que eu não vou ser o coitado da pedra desse cavalo também.
+
+284
+00:14:09,280 --> 00:14:11,280
+Pegando rabeira de cavalo.
+
+285
+00:14:11,280 --> 00:14:14,280
+O bichinho tá meio curvado, será?
+
+286
+00:14:14,280 --> 00:14:15,280
+É.
+
+287
+00:14:15,280 --> 00:14:18,280
+Barrigo encostando no chão, tá andando igual uma aranha, mas tá tranquilo.
+
+288
+00:14:18,280 --> 00:14:24,280
+É, vocês ganharam ali o suplemento, ganharam o papel pra liberar o cavalo ali no estábulo.
+
+289
+00:14:24,280 --> 00:14:30,280
+Mas quando vocês estão saindo da taberna, aquele elfo tá próximo da entrada, ele faz um sinal pra...
+
+290
+00:14:30,280 --> 00:14:32,280
+Ah, que é uma elfa também, né?
+
+291
+00:14:32,280 --> 00:14:42,280
+Pra Nini, ele faz um sinal assim, ele levanta uma mão assim cheia de anéis, ele faz um sinal assim pra Nini chegar até perto da mesa dele.
+
+292
+00:14:42,280 --> 00:14:43,280
+Eu me aproximo.
+
+293
+00:14:43,280 --> 00:14:45,280
+Faço o sinal pros meus amigos pararem, né?
+
+294
+00:14:45,280 --> 00:14:47,280
+Esperem que ele tá chamando.
+
+295
+00:14:47,280 --> 00:14:49,280
+E vou atrás do elfo.
+
+296
+00:14:49,280 --> 00:14:52,280
+O elfo faz o sinal pro orca do lado dele.
+
+297
+00:14:52,280 --> 00:15:01,280
+O orca, assim, é muito grande, usando um casaco muito grande ali pra ocultar o corpo dele.
+
+298
+00:15:01,280 --> 00:15:06,280
+Mas esse orca, ele estende uma taça mais à frente, ele serve ali um vinho.
+
+299
+00:15:06,280 --> 00:15:07,280
+O elfo diz...
+
+300
+00:15:07,280 --> 00:15:08,280
+Quer provar?
+
+301
+00:15:08,280 --> 00:15:10,280
+É da nossa melhor safra.
+
+302
+00:15:10,280 --> 00:15:11,280
+Quero.
+
+303
+00:15:11,280 --> 00:15:12,280
+Toma a frente ali e pega.
+
+304
+00:15:12,280 --> 00:15:14,280
+Eu falo de fora, de longe.
+
+305
+00:15:14,280 --> 00:15:15,280
+É, exato.
+
+306
+00:15:15,280 --> 00:15:18,280
+Mas tu veio voando e bebeu a taça?
+
+307
+00:15:18,280 --> 00:15:19,280
+Foi isso?
+
+308
+00:15:19,280 --> 00:15:23,280
+Eu fui indo na maciota e eu sou atraído pelo cheiro.
+
+309
+00:15:23,280 --> 00:15:27,280
+Nini, se tu foi muito rápido, tu toma antes, senão tu perdeu essa taça.
+
+310
+00:15:27,280 --> 00:15:31,280
+Não, eu ia dizer que eu ia cheirar antes pra saber como é que era.
+
+311
+00:15:31,280 --> 00:15:33,280
+Nesse meio tempo aí eu perdi.
+
+312
+00:15:33,280 --> 00:15:38,280
+Tu levantou pra cheirar, o Sérgio pegou e já matou.
+
+313
+00:15:38,280 --> 00:15:40,280
+Que isso, Sérgio?
+
+314
+00:15:40,280 --> 00:15:41,280
+Muito gostoso.
+
+315
+00:15:41,280 --> 00:15:42,280
+Cheiro muito bom.
+
+316
+00:15:42,280 --> 00:15:46,280
+Notas de uva eu consegui sentir nesse vinho e tudo que eu tenho a dizer.
+
+317
+00:15:46,280 --> 00:15:47,280
+Muito bom.
+
+318
+00:15:47,280 --> 00:15:52,280
+Meu nome é Célego e estou muito feliz em ver três povos tão distintos trabalhando
+
+319
+00:15:52,280 --> 00:15:53,280
+juntos.
+
+320
+00:15:53,280 --> 00:15:55,280
+Vocês são aventureiros, eu imagino.
+
+321
+00:15:55,280 --> 00:15:57,280
+Pelas armas e equipamentos que estão carregando.
+
+322
+00:15:57,280 --> 00:15:59,280
+De dia de semana, sim, né?
+
+323
+00:15:59,280 --> 00:16:01,280
+De dia de semana a gente só descansa.
+
+324
+00:16:01,280 --> 00:16:02,280
+De dia de semana é aventureiro.
+
+325
+00:16:02,280 --> 00:16:03,280
+Por quê?
+
+326
+00:16:03,280 --> 00:16:04,280
+Você tem algum contrato pra gente?
+
+327
+00:16:04,280 --> 00:16:05,280
+Não, não.
+
+328
+00:16:05,280 --> 00:16:07,280
+Eu trabalho com comércio de armas.
+
+329
+00:16:07,280 --> 00:16:10,280
+Faz um sinal pro orca que abre, assim, um casaco.
+
+330
+00:16:10,280 --> 00:16:12,280
+Tendo várias armas penduradas.
+
+331
+00:16:12,280 --> 00:16:15,280
+Sei que aventureiros estão cada vez mais raros na região.
+
+332
+00:16:15,280 --> 00:16:19,280
+A maioria deles está indo pra guerra, pra essa luta insana que está acontecendo.
+
+333
+00:16:19,280 --> 00:16:24,280
+Tenho certeza que se quisessem usar uma das minhas armas, seria ótimo negócio pra vocês.
+
+334
+00:16:24,280 --> 00:16:25,280
+Mas é de graça?
+
+335
+00:16:25,280 --> 00:16:26,280
+Sim.
+
+336
+00:16:26,280 --> 00:16:30,280
+E tudo que eu peço é que sempre que passarem pela cidade, vocês conversem comigo.
+
+337
+00:16:30,280 --> 00:16:33,280
+Para que as pessoas vejam que são minhas armas mesmo.
+
+338
+00:16:33,280 --> 00:16:35,280
+E que eu possa vender cada vez mais.
+
+339
+00:16:35,280 --> 00:16:36,280
+Tipo permuta?
+
+340
+00:16:36,280 --> 00:16:37,280
+É, sim.
+
+341
+00:16:37,280 --> 00:16:39,280
+Digamos que é uma troca de divulgações.
+
+342
+00:16:39,280 --> 00:16:40,280
+É um recebidinho?
+
+343
+00:16:40,280 --> 00:16:41,280
+É.
+
+344
+00:16:41,280 --> 00:16:42,280
+Olha, não costumo fazer permuta, hein?
+
+345
+00:16:42,280 --> 00:16:43,280
+Mas ele mostra, assim, a qualidade das armas élficas, né?
+
+346
+00:16:43,280 --> 00:16:44,280
+Que são realmente as melhores.
+
+347
+00:16:44,280 --> 00:16:45,280
+Temos lâminas de todos os tipos.
+
+348
+00:16:45,280 --> 00:16:46,280
+Hoje em dia, não trabalhamos só pra braços élficos, mas também para orques fortes,
+
+349
+00:16:46,280 --> 00:16:47,280
+como você, senhor.
+
+350
+00:16:47,280 --> 00:16:48,280
+Ele mostra alguns machados, algumas coisas ali penduradas.
+
+351
+00:16:48,280 --> 00:16:49,280
+Hum, ó.
+
+352
+00:16:49,280 --> 00:16:50,280
+Eu não sei os meus colegas, mas eu tenho...
+
+353
+00:16:50,280 --> 00:16:51,280
+Minha arma é de família, entendeu?
+
+354
+00:16:51,280 --> 00:16:52,280
+Não é assim, pra ficar tranquilo, né?
+
+355
+00:16:52,280 --> 00:16:53,280
+Não é assim, pra ficar tranquilo, né?
+
+356
+00:16:53,280 --> 00:16:54,280
+Não é assim, pra ficar tranquilo, né?
+
+357
+00:16:54,280 --> 00:16:55,280
+Não é assim, pra ficar tranquilo, né?
+
+358
+00:16:55,280 --> 00:16:56,280
+Não é assim, pra ficar tranquilo, né?
+
+359
+00:16:56,280 --> 00:16:57,280
+Não é assim, pra ficar tranquilo, né?
+
+360
+00:16:57,280 --> 00:17:14,280
+Eu tenho uma garrafa aí do seu vinho e a gente pode levar e fazer propaganda, já
+
+361
+00:17:14,280 --> 00:17:17,280
+que você disse que era bom.
+
+362
+00:17:17,280 --> 00:17:20,280
+Ele põe a rolha assim na garrafa e empurra pra mim?
+
+363
+00:17:20,280 --> 00:17:21,280
+Pode levar o meu vinho.
+
+364
+00:17:21,280 --> 00:17:22,280
+O que você tem no ramo dos porretes, hein?
+
+365
+00:17:22,280 --> 00:17:23,280
+É, assim...
+
+366
+00:17:23,280 --> 00:17:26,280
+Se eu tiver uma garrafa aí de vinho, eu vou e pego.
+
+367
+00:17:26,280 --> 00:17:28,900
+Ele fica meio...
+
+368
+00:17:28,900 --> 00:17:31,280
+Uma mistura de nojo, assim...
+
+369
+00:17:31,280 --> 00:17:37,600
+Ora, nós temos armas tão finamente trabalhadas e você quer um pé de mesa?
+
+370
+00:17:37,900 --> 00:17:40,260
+Eu gosto de mesa e gosto de pé.
+
+371
+00:17:40,600 --> 00:17:44,380
+E aí, se você tiver algo que pareça o pé de uma mesa, talvez seja o que eu vou gostar.
+
+372
+00:17:44,800 --> 00:17:48,840
+Porque, assim, geralmente, né, minha arma acaba sendo o meu corpo, né?
+
+373
+00:17:49,220 --> 00:17:52,140
+Enfim, durante a batalha ali, a gente vai usando o que tem no alcance.
+
+374
+00:17:52,140 --> 00:17:58,340
+Eu nem não quero levar esses negócios bonitos e brilhantes aqui pra depois perder no meio do caminho e você botar a culpa em mim.
+
+375
+00:17:58,920 --> 00:18:01,320
+Não, não farei isso. Pode ter certeza.
+
+376
+00:18:01,640 --> 00:18:05,740
+Então, eu encontro uma massa ou alguma coisa assim, alguma coisa que tenha uma...
+
+377
+00:18:05,740 --> 00:18:06,020
+Sim.
+
+378
+00:18:06,260 --> 00:18:10,320
+E seja, então, vou pegar uma dela e vou levar isso aqui, então.
+
+379
+00:18:10,500 --> 00:18:13,980
+Se alguém perguntar, se alguma vítima minha perguntar, eu vou falar que é do senhor.
+
+380
+00:18:14,160 --> 00:18:16,260
+Obrigado. Ficarei muito feliz.
+
+381
+00:18:16,620 --> 00:18:19,200
+Ele aponta pra Ayla.
+
+382
+00:18:19,420 --> 00:18:20,260
+E você, mocinho?
+
+383
+00:18:20,260 --> 00:18:21,260
+Bom, você tem...
+
+384
+00:18:22,140 --> 00:18:25,320
+Alguma faca que eu possa arremessar?
+
+385
+00:18:26,100 --> 00:18:28,180
+São as minhas favoritas.
+
+386
+00:18:28,400 --> 00:18:33,580
+Ele faz sinal pro Orc, abre um dos bolsos e mostra várias facas pra ti.
+
+387
+00:18:33,920 --> 00:18:38,580
+Tá bom, ela pega ali umas... só duas ou três faquinhas de arremesso.
+
+388
+00:18:39,020 --> 00:18:41,000
+Vejo que estão fazendo provisões.
+
+389
+00:18:41,580 --> 00:18:43,160
+Imagino que estão saindo da cidade.
+
+390
+00:18:44,040 --> 00:18:46,280
+Posso fazer um pedido com um amigo de vocês, que sou?
+
+391
+00:18:46,280 --> 00:18:51,080
+Quando retornarem, antes de falarem com qualquer pessoa, venham falar comigo.
+
+392
+00:18:52,140 --> 00:18:57,380
+Tenho certeza que terei um porrete maior e mais adequado para você, meu amigo verde.
+
+393
+00:18:57,540 --> 00:19:01,940
+Se eu chegar na cidade, então, é pra eu chegar calado e não falar com ninguém.
+
+394
+00:19:02,200 --> 00:19:03,040
+Eu vou até te encontrar.
+
+395
+00:19:03,680 --> 00:19:04,000
+Isso?
+
+396
+00:19:04,280 --> 00:19:06,880
+É, assim... preferencialmente, né?
+
+397
+00:19:07,200 --> 00:19:07,760
+Vou pensar.
+
+398
+00:19:08,360 --> 00:19:10,520
+Não vou garantir, não vou dar minha palavra pra um desconhecido também.
+
+399
+00:19:10,700 --> 00:19:11,780
+Eu sou burro, mas não sou louco.
+
+400
+00:19:12,360 --> 00:19:18,080
+Eu já tô aliviada que ele não fez promessas que a gente não poderia cumprir.
+
+401
+00:19:18,420 --> 00:19:20,460
+Ele aprendeu nesses anos alguma coisa.
+
+402
+00:19:21,020 --> 00:19:21,460
+É.
+
+403
+00:19:21,460 --> 00:19:24,680
+É, obrigada, meu caro Celegor.
+
+404
+00:19:25,080 --> 00:19:29,720
+Espero que esse negócio seja lucrativo pra todas as partes.
+
+405
+00:19:29,860 --> 00:19:30,080
+Será.
+
+406
+00:19:30,660 --> 00:19:32,200
+Que o sol os acompanhe, meus amigos.
+
+407
+00:19:34,400 --> 00:19:36,780
+Vocês, então, pegam os cavalos ali.
+
+408
+00:19:37,280 --> 00:19:39,620
+O cavalo mais triste é o do Sergião.
+
+409
+00:19:39,900 --> 00:19:42,380
+As outras meninas são mais tranquilas ali.
+
+410
+00:19:43,000 --> 00:19:48,960
+E vocês, então, pegam os cavalos e vão seguir o caminho, vão passar em algum lugar antes, precisam de mais alguma coisa.
+
+411
+00:19:48,960 --> 00:19:50,960
+Eu só gostaria...
+
+412
+00:19:51,460 --> 00:19:56,340
+Assim, a hora que a gente saiu da taverna, tá se preparando pra sair com os cavalos,
+
+413
+00:19:56,600 --> 00:19:59,960
+eu quero pegar a garrafa de vinho e entregar pra Ayla.
+
+414
+00:20:00,200 --> 00:20:04,700
+Ayla, as promessas do Celegor estão boas demais pra serem verdade, né?
+
+415
+00:20:05,180 --> 00:20:06,340
+Por garantia...
+
+416
+00:20:06,340 --> 00:20:09,640
+Eu sei que o nosso amigo Sergião já bebeu, né?
+
+417
+00:20:09,920 --> 00:20:10,780
+Você tá bem, Sergião?
+
+418
+00:20:11,020 --> 00:20:12,380
+Agora só gases, né?
+
+419
+00:20:13,080 --> 00:20:16,500
+Bom, por garantia, se você puder fazer...
+
+420
+00:20:16,500 --> 00:20:20,960
+Você que entende mais de venenos, se você puder fazer uma análise dele, tá aqui.
+
+421
+00:20:20,960 --> 00:20:21,960
+Fica com você.
+
+422
+00:20:22,120 --> 00:20:23,960
+Ok, eu vou tentar dar uma...
+
+423
+00:20:24,600 --> 00:20:25,860
+Bom, ver se eu acho alguma coisa.
+
+424
+00:20:26,260 --> 00:20:30,000
+E aí eu quero analisar o líquido do vinho.
+
+425
+00:20:30,260 --> 00:20:36,980
+Enquanto vocês estão andando a cavalo, dar aquela provadinha, nesse tempo não tem muito como fazer, mas tem conhecimento, né?
+
+426
+00:20:37,020 --> 00:20:38,320
+Rola dois dados, certo, Butomã?
+
+427
+00:20:39,260 --> 00:20:40,220
+Tirei cinco e um.
+
+428
+00:20:40,320 --> 00:20:42,860
+É só vinho, assim, é um vinho de excelente qualidade.
+
+429
+00:20:43,640 --> 00:20:48,960
+Essa garrafa deve valer um bom preço, assim, não é algo que alguém distribui dessa forma.
+
+430
+00:20:48,960 --> 00:20:50,960
+Vocês têm que confiar mais na bondade das pessoas.
+
+431
+00:20:51,960 --> 00:20:57,240
+Eu olho no olho e já reconheço, sinto o cheiro do vinho, sei que é vinho.
+
+432
+00:20:57,280 --> 00:21:01,980
+Sergião, meu intestino é um pouco suave, ele é mais delicado do que o seu.
+
+433
+00:21:02,400 --> 00:21:05,440
+Eu não posso ficar bebendo qualquer coisa assim.
+
+434
+00:21:05,460 --> 00:21:06,380
+Até amanhã cedo, né?
+
+435
+00:21:06,860 --> 00:21:07,060
+É.
+
+436
+00:21:07,320 --> 00:21:09,800
+Esse é um vinho sem lactose, não ia ter problema nenhum pra você.
+
+437
+00:21:10,680 --> 00:21:17,980
+Não parece ter nada nele mesmo, só um ótimo vinho, que é realmente estranho dele ter entregado assim.
+
+438
+00:21:18,140 --> 00:21:20,140
+Bom, fica como um ótimo presente, então.
+
+439
+00:21:20,140 --> 00:21:22,220
+Você vai testar o veneno da minha massa?
+
+440
+00:21:23,600 --> 00:21:24,800
+Ou posso pôr na boca?
+
+441
+00:21:26,780 --> 00:21:27,840
+Lamber a massa?
+
+442
+00:21:28,420 --> 00:21:32,500
+Se você quer lamber a sua massa, eu não tenho nada a ver com isso.
+
+443
+00:21:32,860 --> 00:21:37,140
+Mas o que eu ia dizer, eu vou colocar veneno nas minhas faquinhas de arremesso, enquanto a gente estiver no caminho.
+
+444
+00:21:37,380 --> 00:21:37,800
+Beleza.
+
+445
+00:21:38,500 --> 00:21:40,660
+As tuas faquinhas têm veneno.
+
+446
+00:21:41,280 --> 00:21:42,100
+Olha só.
+
+447
+00:21:42,740 --> 00:21:43,120
+É isso.
+
+448
+00:21:43,700 --> 00:21:45,180
+E aí, acho que vamos ver.
+
+449
+00:21:48,140 --> 00:21:49,140
+Vamos ver.
+
+450
+00:21:50,140 --> 00:21:51,140
+Vamos ver.
+
+451
+00:22:00,820 --> 00:22:04,540
+Vocês vão seguindo, vocês vão rindo, vão conversando ali, né?
+
+452
+00:22:05,040 --> 00:22:07,160
+Vocês não vão pela estrada principal.
+
+453
+00:22:07,700 --> 00:22:11,140
+Vocês vão por essa estrada mais secundária.
+
+454
+00:22:11,900 --> 00:22:15,440
+O tempo todo prestando atenção, se não tem alguma marca, alguma coisa.
+
+455
+00:22:15,920 --> 00:22:17,640
+Não é um caminho muito usado, né?
+
+456
+00:22:17,640 --> 00:22:19,820
+Vocês param pra comer alguma coisa.
+
+457
+00:22:20,140 --> 00:22:21,580
+Vocês seguem essa viagem.
+
+458
+00:22:22,060 --> 00:22:27,200
+Quando começa, mais ou menos, a anoitecer, quem tá mais à frente, fala dois dados.
+
+459
+00:22:27,580 --> 00:22:28,920
+Quem vai estar mais à frente?
+
+460
+00:22:29,180 --> 00:22:31,960
+A Ayla, ela ataca de à distância, então ela tá mais atrás.
+
+461
+00:22:32,080 --> 00:22:34,560
+Tá bom, então eu vou na frente, deixa que eu vou na frente, que eu tô, né?
+
+462
+00:22:34,620 --> 00:22:35,520
+Sou um tanque, né?
+
+463
+00:22:35,580 --> 00:22:35,940
+Perfeito.
+
+464
+00:22:35,960 --> 00:22:40,220
+Um tanque e péssima intercepção, mas vamos lá, nada que um 5C não resolve.
+
+465
+00:22:41,520 --> 00:22:42,560
+4 e 3, eu diria.
+
+466
+00:22:43,060 --> 00:22:43,420
+Perfeito.
+
+467
+00:22:43,820 --> 00:22:46,560
+Vamos ver o que tu... falhando, o que tu vê.
+
+468
+00:22:46,560 --> 00:22:49,560
+Mais à frente na estrada, é impossível não enxergar.
+
+469
+00:22:50,140 --> 00:22:53,340
+Olha, tem uma carroça já destroçada, né?
+
+470
+00:22:54,580 --> 00:22:58,740
+Tem dois cavalos mortos na frente dessa carroça.
+
+471
+00:22:59,200 --> 00:23:04,640
+Há tábuas quebradas por todos os lados, tecido rasgado e tal.
+
+472
+00:23:05,060 --> 00:23:07,920
+Tem alguma coisa, tu não conseguiu ver o quê?
+
+473
+00:23:09,300 --> 00:23:16,440
+Escura, assim, por debaixo de alguns... da parte de trás da carroça, né?
+
+474
+00:23:16,440 --> 00:23:19,520
+Aquela tá quebrada, mas ela ainda é um obstáculo grande.
+
+475
+00:23:19,520 --> 00:23:24,460
+Tu vê que ela se mexe um pouco, como se algo estivesse lá dentro, futucando alguma coisa.
+
+476
+00:23:25,420 --> 00:23:26,580
+E é isso que tu vê.
+
+477
+00:23:26,900 --> 00:23:29,960
+E tu vai seguir, tu vai parar, vai fazer o quê?
+
+478
+00:23:30,040 --> 00:23:30,560
+Tu vai avisar as meninas?
+
+479
+00:23:30,580 --> 00:23:31,140
+Eu vou parar.
+
+480
+00:23:31,380 --> 00:23:37,860
+Vou parar porque, enfim, vi o barulho, eu falo, ó, tô ligado que não é a minha praia, né?
+
+481
+00:23:38,580 --> 00:23:40,020
+Saber das coisas, né?
+
+482
+00:23:40,440 --> 00:23:43,160
+Então, assim, tô achando treta, entendeu?
+
+483
+00:23:43,460 --> 00:23:45,620
+Acho melhor a gente parar e olhar.
+
+484
+00:23:45,620 --> 00:23:49,500
+A gente consegue ver a carroça também agora que ele falou?
+
+485
+00:23:49,520 --> 00:23:57,540
+Sim, a carroça e os cavalos mortos, vocês conseguem ver, mas o que é que esteja fazendo essa carroça balançar um pouco,
+
+486
+00:23:57,620 --> 00:24:03,260
+o barulho de uma madeira quebrada e tal, é dentro dela, vocês não sabem, não conseguem ver o que é.
+
+487
+00:24:03,500 --> 00:24:05,140
+Os cavalos estão mortos há muito tempo?
+
+488
+00:24:05,220 --> 00:24:06,900
+Dessa distância, tu não tem muita certeza.
+
+489
+00:24:06,980 --> 00:24:14,900
+Bom, então, eu também, ouvindo o que o Sérgio falou, vou dizer, então, vamos se aproximar pra ver o que que tem.
+
+490
+00:24:15,480 --> 00:24:17,380
+Eu vou pra um lado, você pelo outro, pode ser?
+
+491
+00:24:17,380 --> 00:24:17,740
+Demorou.
+
+492
+00:24:17,980 --> 00:24:19,380
+Eu vou pegar só o meu...
+
+493
+00:24:19,520 --> 00:24:26,560
+Minha massa na mão, vou deixar ela já na mão já, e vou como uma criança no escuro procurando o interruptor.
+
+494
+00:24:26,940 --> 00:24:27,560
+Vou de boa ali.
+
+495
+00:24:29,560 --> 00:24:30,740
+Desmontou do cavalo os dois?
+
+496
+00:24:31,080 --> 00:24:31,780
+Desmontei, é.
+
+497
+00:24:32,480 --> 00:24:36,820
+A Ela tá fazendo o que enquanto os dois estão cada um indo por um lado da carroça?
+
+498
+00:24:37,140 --> 00:24:43,620
+Ela vai descer ali do cavalo também, e ela quer ir se aproximando também, assim, por um dos lados.
+
+499
+00:24:43,920 --> 00:24:45,180
+Qual? De qual dos dois?
+
+500
+00:24:45,460 --> 00:24:46,480
+Pelo lado da Anine.
+
+501
+00:24:46,480 --> 00:24:48,820
+Vocês, então, tá, as duas meninas por um lado.
+
+502
+00:24:48,820 --> 00:24:54,100
+O Sérgio e o Seu Correte pelo outro, assim, vocês abaixadinhos ali.
+
+503
+00:24:54,500 --> 00:25:07,500
+Quando vocês estão chegando no que seria a entrada ali da carroça por trás, dá pra ver uma criatura peluda, grande, assim, um urso de pele escura.
+
+504
+00:25:08,080 --> 00:25:15,580
+Ele tem uma cicatriz estranha, com umas coisas pra fora, perto do olho dele.
+
+505
+00:25:16,220 --> 00:25:18,040
+Parece uma criatura meio esquisita.
+
+506
+00:25:18,820 --> 00:25:19,680
+Babando muito.
+
+507
+00:25:20,200 --> 00:25:24,120
+E ela pulou pra cima do Sérgião.
+
+508
+00:25:24,460 --> 00:25:26,000
+Antes de mais nada, rola dois dados, Sérgio.
+
+509
+00:25:27,180 --> 00:25:27,960
+Dois e dois.
+
+510
+00:25:28,240 --> 00:25:29,020
+São dois acertos.
+
+511
+00:25:29,460 --> 00:25:31,480
+O urso pula pra cima de ti.
+
+512
+00:25:31,900 --> 00:25:32,740
+O que que tu fez?
+
+513
+00:25:33,140 --> 00:25:34,700
+E tu acertou, tá?
+
+514
+00:25:34,920 --> 00:25:38,640
+Me diz como é que tu deu uma paulada nesse urso, ou o que que tu fez?
+
+515
+00:25:39,080 --> 00:25:46,200
+De cima pra baixo, segurei a máscara com duas mãos, dei no meio da cabeça do urso, e na hora que ele foi caindo, deu uma bicuda pra afastar ele de mim.
+
+516
+00:25:46,480 --> 00:25:46,960
+Perfeito.
+
+517
+00:25:46,960 --> 00:25:47,040
+Perfeito.
+
+518
+00:25:47,440 --> 00:25:48,160
+O...
+
+519
+00:25:48,160 --> 00:25:50,860
+O urso no ar é atirado pro chão, assim.
+
+520
+00:25:51,400 --> 00:25:55,400
+Ele fica bem assustado, principalmente depois que vem a bicuda ali.
+
+521
+00:25:55,940 --> 00:25:58,760
+Fez um barulho muito esquisito na cabeça desse urso.
+
+522
+00:25:59,000 --> 00:26:02,740
+Ele deve estar bem ferido, mas ele ainda se mexe um pouco.
+
+523
+00:26:03,020 --> 00:26:07,380
+É esquisito o tipo de carne mesmo, não é um barulho de metal nem nada.
+
+524
+00:26:07,460 --> 00:26:11,860
+Não, não é um barulho de metal, mas assim, tem algo além dessa carne ali.
+
+525
+00:26:12,380 --> 00:26:14,260
+Tem uma crocância que não deveria ter.
+
+526
+00:26:14,600 --> 00:26:15,160
+Nini, ação.
+
+527
+00:26:15,160 --> 00:26:17,600
+É, se eu vejo o urso caído, né?
+
+528
+00:26:18,160 --> 00:26:19,200
+São do Sardão.
+
+529
+00:26:19,700 --> 00:26:23,360
+Eu vou pra cima com a minha espada e quero fincar na barriga desse urso.
+
+530
+00:26:23,420 --> 00:26:23,860
+Dois dados.
+
+531
+00:26:24,080 --> 00:26:25,320
+Três ursos tá caído, vamos lá.
+
+532
+00:26:26,340 --> 00:26:28,820
+Eu tirei seis, seis e cinco.
+
+533
+00:26:28,920 --> 00:26:33,360
+Tu cravou, assim, no urso a espada que tava meio...
+
+534
+00:26:33,360 --> 00:26:34,720
+Já rendido, né?
+
+535
+00:26:35,200 --> 00:26:36,800
+Muito sangue do bicho que errou.
+
+536
+00:26:36,960 --> 00:26:37,540
+Muito, assim.
+
+537
+00:26:38,020 --> 00:26:42,080
+Na tua cara, na tua roupa, além dos teus braços.
+
+538
+00:26:42,080 --> 00:26:45,560
+Tá imunda desse sangue ali.
+
+539
+00:26:46,200 --> 00:26:47,760
+O urso parou de se mexer.
+
+540
+00:26:47,760 --> 00:26:49,500
+E tu não consegue puxar a espada de volta.
+
+541
+00:26:49,720 --> 00:26:50,860
+A espada da minha família.
+
+542
+00:26:51,820 --> 00:26:53,400
+Me ajuda aqui, gente.
+
+543
+00:26:54,280 --> 00:26:56,460
+Eu posso tentar puxar a espada dela?
+
+544
+00:26:56,920 --> 00:26:57,280
+Pode.
+
+545
+00:26:57,820 --> 00:26:58,920
+Rola, rola...
+
+546
+00:26:58,920 --> 00:27:00,820
+Assim, dois dados, vamos lá.
+
+547
+00:27:02,040 --> 00:27:02,820
+Três e um.
+
+548
+00:27:03,120 --> 00:27:03,760
+Dois acertos.
+
+549
+00:27:04,260 --> 00:27:06,420
+Tu tira sem se sujar.
+
+550
+00:27:06,740 --> 00:27:09,920
+A amiga de você está imunda de sangue ali.
+
+551
+00:27:10,720 --> 00:27:12,040
+A Ayla rola dois dados.
+
+552
+00:27:13,380 --> 00:27:14,700
+Eu tirei quatro e um.
+
+553
+00:27:14,700 --> 00:27:15,780
+Um acerto simples, né?
+
+554
+00:27:15,780 --> 00:27:16,780
+Não importa o que eu queira, né?
+
+555
+00:27:16,780 --> 00:27:17,540
+Se eu tirar um assim, né?
+
+556
+00:27:17,540 --> 00:27:20,100
+Não abaixo do teu atributo, mas era pra perceber.
+
+557
+00:27:20,100 --> 00:27:24,500
+Esse urso, ele parece bem doente, assim.
+
+558
+00:27:24,500 --> 00:27:33,060
+No rosto dele, parece que tinha uma marca de um corte, talvez um machado ali, acima do olho.
+
+559
+00:27:33,060 --> 00:27:42,500
+E desse corte, saiu uma górgona meio escura, que fazia meio que uma crista saindo daquele olho.
+
+560
+00:27:42,500 --> 00:27:45,500
+Vocês não notaram pela escuridão, pelo urso e tal.
+
+561
+00:27:45,500 --> 00:27:47,500
+O sangue desse urso, também, ele é mais escuro.
+
+562
+00:27:47,500 --> 00:27:53,560
+Ele é mais escuro que o normal, não sabe o que é, mas ser coberta por esse sangue não
+
+563
+00:27:53,560 --> 00:27:55,240
+é uma coisa muito boa.
+
+564
+00:27:55,780 --> 00:27:59,660
+Isso tu sabe, a tua amiga só tá suja, o quanto vai assustar ela ou não.
+
+565
+00:27:59,760 --> 00:28:00,560
+Fica por dentro do teto.
+
+566
+00:28:01,340 --> 00:28:07,900
+Eu falo, é, Nini, vamos tentar achar um rio, alguma coisa pra você se lavar, ou, enfim,
+
+567
+00:28:08,000 --> 00:28:09,360
+vamos ver se a gente acha uns panos.
+
+568
+00:28:09,600 --> 00:28:15,020
+Esse urso parece que tá doente, o sangue dele tá mais escuro, tem alguma coisa estranha
+
+569
+00:28:15,020 --> 00:28:15,300
+aqui.
+
+570
+00:28:15,300 --> 00:28:17,300
+A Nini tá limpando o rosto, né?
+
+571
+00:28:17,500 --> 00:28:23,060
+Tirando dos olhos, assim, ah, tá bom, é, Sérgio, obrigada por tirar a espada.
+
+572
+00:28:23,540 --> 00:28:25,700
+Ah, que coisa esquisita esse bicho.
+
+573
+00:28:25,880 --> 00:28:27,900
+Eu devolvi pra ela a espada, então, não vou roubar, não.
+
+574
+00:28:28,020 --> 00:28:28,340
+Perfeito.
+
+575
+00:28:29,720 --> 00:28:36,400
+As meninas, então, vão procurar um lugar pra lavar a Nini, o Sérgio fica com a carroça
+
+576
+00:28:36,400 --> 00:28:37,780
+ali, é isso, né?
+
+577
+00:28:38,120 --> 00:28:42,460
+Isso, eu quero até ver, não sei se é agora, mas eu quero ver o que tem na carroça além
+
+578
+00:28:42,460 --> 00:28:43,020
+do urso, né?
+
+579
+00:28:43,020 --> 00:28:45,860
+Se tem outro cadáver ali dentro dos cavalos e tal, se tem mais gente.
+
+580
+00:28:45,860 --> 00:28:46,960
+Tu rola dois dados?
+
+581
+00:28:47,080 --> 00:28:47,480
+Tu é tributor?
+
+582
+00:28:47,500 --> 00:28:48,180
+Tu é tributor mais, vamos lá?
+
+583
+00:28:48,320 --> 00:28:51,280
+É bom que tu ficou pro Vitinho, que não é o ideal.
+
+584
+00:28:52,720 --> 00:28:53,420
+Dois e um.
+
+585
+00:28:54,620 --> 00:28:58,400
+Assim, tu percebe que não tem um outro corpo, né?
+
+586
+00:28:58,780 --> 00:29:04,840
+Além do próprio urso e dos cavalos, tu não faz ideia de quando isso aconteceu, tu tem
+
+587
+00:29:04,840 --> 00:29:09,960
+noção pelos tipos de ataques no cavalo e na carroça, isso tu não precisaria ter passado
+
+588
+00:29:09,960 --> 00:29:16,140
+pra notar, não foi o urso que fez aquilo ali, houve um ataque mesmo com armas, né?
+
+589
+00:29:16,140 --> 00:29:17,140
+Tem até algumas flechas.
+
+590
+00:29:17,500 --> 00:29:23,140
+Tem até flechas caídas ali por perto, houve um combate, você não faz ideia de pra onde
+
+591
+00:29:23,140 --> 00:29:27,120
+as pessoas atacaram o foro, mas essas são as informações que tu consegue reunir ali.
+
+592
+00:29:27,780 --> 00:29:34,000
+As meninas logo encontram uma fonte de água, tem um rio que passa não muito longe dali,
+
+593
+00:29:34,480 --> 00:29:37,140
+e conseguem limpar a Nini, né?
+
+594
+00:29:37,340 --> 00:29:38,260
+Não sei se há tempo.
+
+595
+00:29:38,460 --> 00:29:41,480
+Quando vocês retornam, o Sérgio não tem essas informações.
+
+596
+00:29:41,560 --> 00:29:42,440
+Ele não descobriu nada.
+
+597
+00:29:42,720 --> 00:29:45,580
+Resumindo, é, não, ele descobriu que os cavalos morreram, né?
+
+598
+00:29:45,580 --> 00:29:47,040
+Pra lá, os dois cortados.
+
+599
+00:29:47,120 --> 00:29:47,160
+É.
+
+600
+00:29:47,160 --> 00:29:47,180
+É.
+
+601
+00:29:47,180 --> 00:29:47,200
+É.
+
+602
+00:29:47,200 --> 00:29:47,220
+É.
+
+603
+00:29:47,220 --> 00:29:47,240
+É.
+
+604
+00:29:47,240 --> 00:29:47,260
+É.
+
+605
+00:29:47,260 --> 00:29:47,320
+É.
+
+606
+00:29:47,320 --> 00:29:47,340
+É.
+
+607
+00:29:47,340 --> 00:29:47,360
+É.
+
+608
+00:29:47,360 --> 00:29:47,380
+É.
+
+609
+00:29:47,380 --> 00:29:47,440
+É.
+
+610
+00:29:47,500 --> 00:29:47,520
+É.
+
+611
+00:29:47,520 --> 00:29:47,540
+É.
+
+612
+00:29:47,540 --> 00:29:47,560
+É.
+
+613
+00:29:47,560 --> 00:29:47,580
+É.
+
+614
+00:29:47,580 --> 00:29:47,600
+É.
+
+615
+00:29:47,600 --> 00:29:47,620
+É.
+
+616
+00:29:47,620 --> 00:29:47,640
+É.
+
+617
+00:29:47,640 --> 00:29:47,660
+É.
+
+618
+00:29:47,660 --> 00:29:47,680
+É.
+
+619
+00:29:47,680 --> 00:29:47,720
+É.
+
+620
+00:29:47,720 --> 00:29:47,740
+É.
+
+621
+00:29:47,740 --> 00:29:47,760
+É.
+
+622
+00:29:47,760 --> 00:29:48,060
+É.
+
+623
+00:29:48,060 --> 00:29:48,080
+É.
+
+624
+00:29:48,080 --> 00:29:51,860
+Eu fiz, é, eu fiz, eu botei a mãozinha no pescoço deles e constatei que realmente
+
+625
+00:29:51,860 --> 00:29:52,380
+estão mortos.
+
+626
+00:29:52,460 --> 00:29:54,400
+É isso que eu deu pra fazer nesse tempo todo que eu fiquei aqui.
+
+627
+00:29:54,620 --> 00:29:56,680
+Eles também tem esse sangue esquisito?
+
+628
+00:29:57,080 --> 00:29:57,680
+Os cavalos não.
+
+629
+00:29:57,820 --> 00:30:00,540
+É, tem alguma informação de quem tava na carruagem?
+
+630
+00:30:00,980 --> 00:30:04,980
+E aí a Ayla quer dar uma olhada dentro, assim.
+
+631
+00:30:05,060 --> 00:30:06,960
+Não dá pra ter certeza, assim.
+
+632
+00:30:07,420 --> 00:30:12,000
+O que tinha dentro parece que foi roubado, senão há alguns barris quebrados, assim,
+
+633
+00:30:12,000 --> 00:30:16,820
+um deles até com uma substância mais adocicada, provavelmente isso atraiu o urso ali,
+
+634
+00:30:16,820 --> 00:30:23,520
+mas não há nada intacto ali, é, o barril parece ter sido, o lugar parece ter sido saqueado,
+
+635
+00:30:23,620 --> 00:30:30,260
+né, e como eu falei antes, é óbvio que o ataque ali foram pessoas e não o urso, o
+
+636
+00:30:30,260 --> 00:30:32,120
+urso só foi atraído pelo que tava lá dentro.
+
+637
+00:30:32,320 --> 00:30:38,660
+É, a carruagem, ela parece, assim, seria uma carruagem da realeza ou ela parece ser
+
+638
+00:30:38,660 --> 00:30:40,100
+uma carruagem mais simples?
+
+639
+00:30:40,100 --> 00:30:46,120
+Parece uma, assim, da realeza talvez não, mas de nobreza, assim, parece ser uma carruagem
+
+640
+00:30:46,120 --> 00:30:46,680
+cara.
+
+641
+00:30:46,820 --> 00:30:52,060
+É, dá pra saber, dá pra ver ali mais ou menos quanto tempo parece que se passou?
+
+642
+00:30:52,440 --> 00:30:55,480
+O Serjão já falhou nesse teste, então dá.
+
+643
+00:30:56,500 --> 00:30:57,560
+Tirei dois.
+
+644
+00:30:58,000 --> 00:30:59,060
+Tu não faz ideia.
+
+645
+00:31:00,140 --> 00:31:05,660
+Mas, apesar da gente não saber há quanto tempo isso aconteceu, tem algum sinal de
+
+646
+00:31:05,660 --> 00:31:14,720
+rastro, tipo, ah, puxaram coisas nessa direção, a grama está mais rala desse lado, mais amassada.
+
+647
+00:31:14,720 --> 00:31:16,780
+Tu te afasta um pouco aí da carroça, dá uma olhada.
+
+648
+00:31:16,820 --> 00:31:22,820
+Tu leva um tempo pra fazer essa verificação, né, tu já falharam nos testes anteriores.
+
+649
+00:31:23,500 --> 00:31:25,700
+E dois dados pra gente continuar.
+
+650
+00:31:27,240 --> 00:31:28,520
+Cinco e dois.
+
+651
+00:31:28,520 --> 00:31:32,960
+Tu encontra alguns galhos quebrados, não é nada assim muito, não dá pra ter certeza
+
+652
+00:31:32,960 --> 00:31:39,460
+quantas pessoas ou o que, mas tudo parece que alguém foi matar dentro por um caminho
+
+653
+00:31:39,460 --> 00:31:43,520
+que não é um caminho usual, né, quebrando alguns galhos, cortando algumas folhagens
+
+654
+00:31:44,280 --> 00:31:46,700
+ali e seguindo numa direção mata.
+
+655
+00:31:46,820 --> 00:31:52,560
+Gente, olha aqui, a Anine se abaixa, tá vendo aqui, ó, tá vendo aqui esses galhinhos
+
+656
+00:31:52,560 --> 00:31:53,360
+mais quebrados?
+
+657
+00:31:54,060 --> 00:32:00,020
+Pessoal, seja quem, quem atacou essa carroça, acho que foi aqui pro meio do mato.
+
+658
+00:32:00,500 --> 00:32:01,520
+Vocês acham que vale a pena?
+
+659
+00:32:01,740 --> 00:32:07,440
+É, ele tinha falado pra gente que talvez tivessem ursos por aqui e, como a gente encontrou
+
+660
+00:32:07,440 --> 00:32:12,660
+aqui, acho que, bom, estamos procurando pessoas que a gente não sabe quem são, acho que
+
+661
+00:32:12,660 --> 00:32:13,640
+a gente pode ir por aqui.
+
+662
+00:32:13,840 --> 00:32:14,280
+Certo.
+
+663
+00:32:14,280 --> 00:32:16,280
+Não tem nenhum, nessa carroça não tem nenhum...
+
+664
+00:32:16,820 --> 00:32:18,040
+Quebrazão, nada disso, né?
+
+665
+00:32:18,060 --> 00:32:21,520
+Tem algumas marcações do reino vizinho mesmo.
+
+666
+00:32:22,280 --> 00:32:28,140
+Provavelmente a princesa, não sei das quantas, não sei que nome, deve estar por aqui.
+
+667
+00:32:29,100 --> 00:32:29,540
+Vamos?
+
+668
+00:32:30,100 --> 00:32:31,520
+Pelo menos um espírito, né?
+
+669
+00:32:31,780 --> 00:32:32,200
+Não.
+
+670
+00:32:32,540 --> 00:32:33,280
+Não, às vezes.
+
+671
+00:32:33,840 --> 00:32:35,920
+A vida é passageira.
+
+672
+00:32:37,020 --> 00:32:37,940
+É um sopro.
+
+673
+00:32:37,980 --> 00:32:39,800
+Mas espírito não indeniza a gente.
+
+674
+00:32:40,060 --> 00:32:42,920
+Não, mas ninguém sabe como ela aparece, se a gente achar qualquer pessoa é a princesa.
+
+675
+00:32:43,040 --> 00:32:44,260
+Vamos atrás, vamos ver.
+
+676
+00:32:44,600 --> 00:32:45,860
+Pessoa orc, né, no caso.
+
+677
+00:32:45,980 --> 00:32:46,800
+A trilha não dá pra entender.
+
+678
+00:32:46,820 --> 00:32:47,480
+A trilha é cavalo.
+
+679
+00:32:47,660 --> 00:32:48,920
+O que vocês acharam dos cavalos?
+
+680
+00:32:49,240 --> 00:32:50,420
+Tem o rio ali perto.
+
+681
+00:32:50,600 --> 00:32:53,820
+Dá pra, tem, tipo, a gente pode prender eles ali num...
+
+682
+00:32:54,520 --> 00:32:56,020
+Nas árvores ali, perto do rio.
+
+683
+00:32:56,040 --> 00:32:56,620
+Vamos fazer isso.
+
+684
+00:32:57,080 --> 00:32:57,860
+Vamos fazer isso.
+
+685
+00:32:58,160 --> 00:33:03,260
+Tem matinho, tem rio, bebe água, come, faz cocô.
+
+686
+00:33:03,400 --> 00:33:04,600
+A vida perfeita do cavalo.
+
+687
+00:33:05,240 --> 00:33:07,420
+Vocês seguem, então, pela trilha.
+
+688
+00:33:08,360 --> 00:33:12,220
+Bom, a noite tá cada vez mais escura, né?
+
+689
+00:33:12,220 --> 00:33:16,340
+Isso não é tanta dificuldade pro nosso orc,
+
+690
+00:33:16,820 --> 00:33:19,920
+essa elfa, mas a Ayla tem bastante dificuldade.
+
+691
+00:33:20,440 --> 00:33:23,420
+Precisa ser de uma tocha, alguma coisa do tipo, ou não?
+
+692
+00:33:23,720 --> 00:33:24,940
+A Nini tá de boas.
+
+693
+00:33:25,400 --> 00:33:30,320
+E, se for possível, eu sugiro que a Ayla vá no meio da gente.
+
+694
+00:33:30,960 --> 00:33:31,980
+Se a gente tiver em fila.
+
+695
+00:33:32,320 --> 00:33:34,080
+Ok, posso ir no meio.
+
+696
+00:33:34,700 --> 00:33:36,420
+Tá, então eu fico atrás, sem tocha.
+
+697
+00:33:36,720 --> 00:33:39,520
+Você segue por algum tempo ali, pra aquela trilha,
+
+698
+00:33:39,880 --> 00:33:43,220
+até que, novamente, quem está à frente, Sérgio, vamos dar dois dados.
+
+699
+00:33:44,520 --> 00:33:45,460
+Quatro e dois.
+
+700
+00:33:45,460 --> 00:33:45,580
+Quatro e dois.
+
+701
+00:33:46,820 --> 00:33:47,820
+Ok.
+
+702
+00:33:48,600 --> 00:33:52,820
+Tu vai andando, assim, tu nota que as árvores diminuem, né?
+
+703
+00:33:53,260 --> 00:33:55,120
+Foi aberta uma clareira, assim.
+
+704
+00:33:55,740 --> 00:33:58,380
+Tu nota que, de um dos teus lados, tem uma barraca.
+
+705
+00:33:59,020 --> 00:34:04,180
+Tu nota que chegou num acampamento, mas tu nota, assim, quando já tá nesse acampamento,
+
+706
+00:34:04,580 --> 00:34:09,500
+a fogueira tá apagada, não tem ninguém ali por fora.
+
+707
+00:34:09,820 --> 00:34:13,160
+Tem uma torre de vigia com alguém lá em cima, agora tu tá conseguindo ver,
+
+708
+00:34:13,760 --> 00:34:15,720
+mas essa pessoa parece não ter te notado ainda.
+
+709
+00:34:15,760 --> 00:34:16,720
+Mas tu já tá...
+
+710
+00:34:16,820 --> 00:34:17,800
+Ela tá ali no acampamento.
+
+711
+00:34:18,020 --> 00:34:18,260
+Tá.
+
+712
+00:34:19,380 --> 00:34:21,480
+Eu consigo enxergar alguma coisa dentro do acampamento?
+
+713
+00:34:21,580 --> 00:34:24,140
+Eu consigo ver quanta gente?
+
+714
+00:34:25,140 --> 00:34:31,240
+Tem uma espécie de cela improvisada, feita com madeiras, assim, pra fazer uma grade,
+
+715
+00:34:31,740 --> 00:34:32,500
+que tá aberta.
+
+716
+00:34:33,120 --> 00:34:36,340
+Dá pra ver algumas barracas grandes ali, não dá pra saber o que tá dentro.
+
+717
+00:34:36,860 --> 00:34:39,860
+Tem uma fogueira que tá apagada no centro dessa clareira,
+
+718
+00:34:39,860 --> 00:34:44,200
+e foi construída, assim, em cima de uma árvore, tipo uma plataforma,
+
+719
+00:34:44,820 --> 00:34:45,860
+onde tem um...
+
+720
+00:34:45,860 --> 00:34:49,420
+um humanoide, né, um homem, em terra ali.
+
+721
+00:34:50,040 --> 00:34:53,980
+Ele pareceu vigia, mas ele não te notou ainda.
+
+722
+00:34:54,080 --> 00:34:56,420
+Tá bom, vou aproveitar que ele não me notou ainda e falar.
+
+723
+00:34:56,680 --> 00:34:59,380
+Ayla, ele não me notou ainda.
+
+724
+00:34:59,720 --> 00:35:00,600
+Tem um cara ali.
+
+725
+00:35:01,040 --> 00:35:03,060
+E começa a falar mais baixo, pelo menos pra dar uma...
+
+726
+00:35:03,060 --> 00:35:04,480
+Pra Ayla é escuridão, né?
+
+727
+00:35:04,760 --> 00:35:05,860
+Ayla tem um cara ali.
+
+728
+00:35:06,420 --> 00:35:09,260
+E Nini? Nini é elfa, né? Ela consegue enxergar um pouquinho melhor, né?
+
+729
+00:35:09,520 --> 00:35:09,960
+Enxerga.
+
+730
+00:35:10,340 --> 00:35:12,600
+Dá uma olhada aí, tipo um rapaz ali.
+
+731
+00:35:13,020 --> 00:35:13,460
+Certo.
+
+732
+00:35:13,460 --> 00:35:15,740
+E se a gente tentar?
+
+733
+00:35:16,200 --> 00:35:16,820
+Não sei.
+
+734
+00:35:17,120 --> 00:35:18,840
+A Ayla não tá vendo, né, mas...
+
+735
+00:35:18,840 --> 00:35:20,320
+Se a gente tentar dar a volta,
+
+736
+00:35:20,820 --> 00:35:22,900
+pra chegar por lados diferentes nele.
+
+737
+00:35:22,960 --> 00:35:25,580
+Ele tá em cima de uma árvore mais pro centro da clareira,
+
+738
+00:35:26,120 --> 00:35:28,060
+numa plataforma pra olhar em volta, né?
+
+739
+00:35:28,080 --> 00:35:28,900
+É o vigia ali.
+
+740
+00:35:29,460 --> 00:35:30,800
+Não tem muito como cercá-lo.
+
+741
+00:35:31,320 --> 00:35:32,920
+Pelo menos onde vocês estão agora ele não viu ainda.
+
+742
+00:35:33,080 --> 00:35:33,480
+Entendi.
+
+743
+00:35:34,000 --> 00:35:35,680
+Pena que a nossa arqueira não enxerga.
+
+744
+00:35:35,800 --> 00:35:37,760
+Posso tentar chegar um pouco mais perto,
+
+745
+00:35:37,940 --> 00:35:41,440
+tentando ser mais furtiva e tentar atacar ele aqui debaixo?
+
+746
+00:35:41,660 --> 00:35:41,960
+Pode.
+
+747
+00:35:41,960 --> 00:35:44,360
+Um dado pra tributo ou mais.
+
+748
+00:35:45,500 --> 00:35:45,840
+Cinco.
+
+749
+00:35:45,860 --> 00:35:48,600
+Tu vai andando furtivo ali.
+
+750
+00:35:48,960 --> 00:35:50,460
+Não faz barulho nenhum.
+
+751
+00:35:50,680 --> 00:35:51,960
+Tu consegue...
+
+752
+00:35:51,960 --> 00:35:54,120
+Olha pra cima, assim, tem a lua.
+
+753
+00:35:54,200 --> 00:35:55,900
+Não é uma lua cheia, mas já dá pra...
+
+754
+00:35:55,900 --> 00:35:59,240
+Consegue ver uma silhueta de alguém lá no posto de vigia.
+
+755
+00:35:59,800 --> 00:36:01,840
+As barracas continuam paradas ali.
+
+756
+00:36:01,960 --> 00:36:02,420
+O que tu vai fazer?
+
+757
+00:36:02,840 --> 00:36:05,760
+Eu quero usar a bala extra.
+
+758
+00:36:06,300 --> 00:36:06,860
+Atirar nele.
+
+759
+00:36:07,060 --> 00:36:07,780
+Agora, vamos lá.
+
+760
+00:36:07,940 --> 00:36:09,380
+Teu atributo, ao menos, né?
+
+761
+00:36:09,380 --> 00:36:10,480
+Tu quer acertar um ataque.
+
+762
+00:36:11,500 --> 00:36:12,520
+Eu tirei quatro.
+
+763
+00:36:12,520 --> 00:36:14,880
+O tiro não acerta, né?
+
+764
+00:36:14,920 --> 00:36:15,680
+Passa próximo.
+
+765
+00:36:15,860 --> 00:36:17,180
+Ah, o rapaz.
+
+766
+00:36:17,600 --> 00:36:18,780
+Ele dá uma olhada em volta.
+
+767
+00:36:18,980 --> 00:36:20,040
+Ele te olha, assim.
+
+768
+00:36:20,480 --> 00:36:22,560
+Ele tá meio sem reação, olhando pra ti.
+
+769
+00:36:22,960 --> 00:36:24,960
+Os teus colegas têm direito a uma ação, um dos dois,
+
+770
+00:36:25,380 --> 00:36:26,500
+antes que ele faça alguma coisa.
+
+771
+00:36:26,720 --> 00:36:28,020
+Você quer fazer? O que é que eu faço?
+
+772
+00:36:28,260 --> 00:36:28,740
+Eu também...
+
+773
+00:36:28,740 --> 00:36:29,680
+Eu só ataco de perto.
+
+774
+00:36:29,800 --> 00:36:31,080
+Eu vou correr em direção a ele.
+
+775
+00:36:31,580 --> 00:36:32,480
+O que você quer fazer?
+
+776
+00:36:32,680 --> 00:36:33,460
+Não vai dar tempo.
+
+777
+00:36:33,660 --> 00:36:35,160
+Essa discussão não dá tempo, né?
+
+778
+00:36:35,420 --> 00:36:36,180
+O que vocês fazem?
+
+779
+00:36:36,260 --> 00:36:38,320
+Eu vou arremessar meu porrete no maluco.
+
+780
+00:36:38,900 --> 00:36:39,700
+Um dado, vai lá.
+
+781
+00:36:41,320 --> 00:36:41,720
+Quatro.
+
+782
+00:36:41,960 --> 00:36:44,640
+Tu arremessa o porrete, acerta o cara em cheio.
+
+783
+00:36:44,740 --> 00:36:45,520
+Ele cai.
+
+784
+00:36:45,520 --> 00:36:46,880
+Junta com o porrete lá de cima.
+
+785
+00:36:47,380 --> 00:36:49,340
+Cai sobre uma das barracas.
+
+786
+00:36:49,700 --> 00:36:50,720
+Faz bastante barulho.
+
+787
+00:36:51,220 --> 00:36:53,460
+Aquele cara não vai incomodar mais vocês.
+
+788
+00:36:54,060 --> 00:36:57,280
+Mas tem algumas pessoas saindo de outras barracas ali.
+
+789
+00:36:57,760 --> 00:37:02,500
+Nini, um cara de tanga segurando uma faca
+
+790
+00:37:02,500 --> 00:37:05,060
+tá saindo meio desnorteado ali com o que tá acontecendo.
+
+791
+00:37:05,560 --> 00:37:07,080
+Ele é humano, né?
+
+792
+00:37:07,600 --> 00:37:09,520
+E ele saiu perto de ti.
+
+793
+00:37:09,960 --> 00:37:11,540
+E ele vai te dar uma facada se não fizer nada.
+
+794
+00:37:11,600 --> 00:37:12,100
+O que é que tu faz?
+
+795
+00:37:12,340 --> 00:37:14,420
+Tá, se ele já me viu, eu vou tentar reagir, né?
+
+796
+00:37:14,420 --> 00:37:15,080
+Por óbvio.
+
+797
+00:37:15,080 --> 00:37:16,020
+Eu quero acertar...
+
+798
+00:37:16,020 --> 00:37:17,580
+Eu quero mirar nas pernas dele.
+
+799
+00:37:18,080 --> 00:37:20,340
+Porque eu quero deixá-lo vivo por enquanto.
+
+800
+00:37:20,400 --> 00:37:20,800
+Dois dados.
+
+801
+00:37:21,900 --> 00:37:24,480
+Eu tirei seis e quatro, sendo quatro o meu atributo.
+
+802
+00:37:24,500 --> 00:37:25,220
+Acerto crítico.
+
+803
+00:37:25,820 --> 00:37:28,560
+O quanto tu quis destruir essa perna dele?
+
+804
+00:37:28,740 --> 00:37:29,540
+Pode me dizer.
+
+805
+00:37:29,700 --> 00:37:33,400
+Se a narração me deixar descer paz do gozo, é esse o meu objetivo.
+
+806
+00:37:33,900 --> 00:37:35,340
+Porque eu não quero ser muito cruel.
+
+807
+00:37:36,320 --> 00:37:37,760
+Eu não quero ser muito cruel.
+
+808
+00:37:38,220 --> 00:37:39,660
+Cortei as duas pernas dele.
+
+809
+00:37:39,760 --> 00:37:40,300
+Mas tranquilo.
+
+810
+00:37:40,980 --> 00:37:43,980
+Tu, num momento ali, corta mais sangue, né?
+
+811
+00:37:43,980 --> 00:37:44,440
+Eu falo...
+
+812
+00:37:44,440 --> 00:37:47,140
+Parece que o teu dia, ele é repleto disso.
+
+813
+00:37:47,360 --> 00:37:50,100
+Ayla, um outro maluco tá correndo na tua direção,
+
+814
+00:37:50,460 --> 00:37:53,080
+segurando, assim, uma frigideira pra bater na tua cara.
+
+815
+00:37:53,400 --> 00:37:53,840
+O que tu faz?
+
+816
+00:37:53,940 --> 00:37:55,880
+Tá, eu vou tentar...
+
+817
+00:37:55,880 --> 00:37:56,640
+Tô com a balestra na mão.
+
+818
+00:37:56,700 --> 00:37:57,620
+Eu vou tentar atirar nele.
+
+819
+00:37:58,440 --> 00:37:59,500
+Não pra matar também.
+
+820
+00:37:59,600 --> 00:38:03,140
+Vou atirar na perna ou pra ele cair.
+
+821
+00:38:03,260 --> 00:38:03,680
+Dois dados.
+
+822
+00:38:03,960 --> 00:38:05,420
+Todos os teus tiros são venenosos, não?
+
+823
+00:38:05,720 --> 00:38:05,980
+Sim.
+
+824
+00:38:06,400 --> 00:38:08,120
+Eu tirei seis e um.
+
+825
+00:38:09,260 --> 00:38:11,020
+Toda perna demora esse minuto.
+
+826
+00:38:13,320 --> 00:38:14,300
+Eu tiro acerto.
+
+827
+00:38:14,300 --> 00:38:17,260
+Ele mata o pé dele, assim, cravando o pé dele no chão.
+
+828
+00:38:17,520 --> 00:38:18,820
+Ele não consegue dar o passo.
+
+829
+00:38:18,940 --> 00:38:19,280
+Ele grita.
+
+830
+00:38:20,340 --> 00:38:22,660
+Os dois que atacaram vocês eram humanos.
+
+831
+00:38:23,140 --> 00:38:24,800
+Um orc também tá por ali.
+
+832
+00:38:25,300 --> 00:38:26,840
+Recém acordou ali.
+
+833
+00:38:27,400 --> 00:38:32,720
+Ele tá com um pedaço de madeira que ele catou pra usar como porrete.
+
+834
+00:38:33,340 --> 00:38:38,840
+Só que o nosso amigo Serrajan tá desarmado, né?
+
+835
+00:38:38,860 --> 00:38:41,340
+Ele jogou o porrete dele e o cara tá indo pra cima de ti.
+
+836
+00:38:41,380 --> 00:38:41,820
+O que tu faz?
+
+837
+00:38:41,820 --> 00:38:43,660
+Como eu falei lá no começo, né?
+
+838
+00:38:43,660 --> 00:38:45,220
+Meu corpo é uma arma.
+
+839
+00:38:45,320 --> 00:38:45,720
+Certo.
+
+840
+00:38:46,060 --> 00:38:49,280
+Sabe o que o Raiden faz com os inimigos?
+
+841
+00:38:49,380 --> 00:38:51,580
+Que é de se jogar com as duas mãos.
+
+842
+00:38:51,660 --> 00:38:52,860
+É isso que eu vou fazer pra cima do cara.
+
+843
+00:38:53,020 --> 00:38:54,340
+Vou jogar meu corpo e pronto.
+
+844
+00:38:54,740 --> 00:38:55,260
+Dois dados.
+
+845
+00:38:55,380 --> 00:38:55,620
+Vai lá.
+
+846
+00:38:56,740 --> 00:38:57,440
+Três e dois.
+
+847
+00:38:57,700 --> 00:38:59,220
+Como foi que esse cara voltou a dormir?
+
+848
+00:38:59,360 --> 00:39:00,040
+Descreve pra mim.
+
+849
+00:39:02,360 --> 00:39:05,500
+Simplesmente na hora que eu botei meu corpo, eu errei o braço.
+
+850
+00:39:05,600 --> 00:39:08,360
+Eu acertei o ombrinho no queixo dele e ele simplesmente desmaiou.
+
+851
+00:39:08,520 --> 00:39:09,080
+É exatamente isso.
+
+852
+00:39:09,700 --> 00:39:10,100
+Perfeito.
+
+853
+00:39:10,260 --> 00:39:12,580
+O cara tava dormindo, sonhando.
+
+854
+00:39:12,580 --> 00:39:13,260
+Acordou.
+
+855
+00:39:13,260 --> 00:39:13,880
+Nossa, eu me assustei.
+
+856
+00:39:14,200 --> 00:39:17,760
+Um orco gigantesco pulou pra cima dele e ele voltou pra um mundo de sonhos.
+
+857
+00:39:18,000 --> 00:39:19,540
+Botou ele pra dormir talvez pra sempre.
+
+858
+00:39:19,820 --> 00:39:23,520
+O acampamento fica meio silencioso, novamente.
+
+859
+00:39:23,980 --> 00:39:31,260
+Há um barulho de corrente vindo em direção daquelas grades que estão até abertas lá no fundo do acampamento.
+
+860
+00:39:32,020 --> 00:39:32,920
+Fora isso, é silêncio.
+
+861
+00:39:32,940 --> 00:39:34,300
+O cara que perdeu as pernas.
+
+862
+00:39:34,420 --> 00:39:35,260
+É um grito de dor.
+
+863
+00:39:35,540 --> 00:39:36,400
+Tá, vamos lá.
+
+864
+00:39:36,460 --> 00:39:37,120
+Não é só silêncio.
+
+865
+00:39:37,540 --> 00:39:39,800
+Tem um cara gritando e sangrando muito.
+
+866
+00:39:40,300 --> 00:39:40,740
+Ok.
+
+867
+00:39:41,140 --> 00:39:42,780
+Eu quero me aproximar dele.
+
+868
+00:39:43,260 --> 00:39:45,280
+A gente ajuda a estancar o sangue.
+
+869
+00:39:45,560 --> 00:39:46,280
+Conta pra gente.
+
+870
+00:39:46,360 --> 00:39:47,840
+A gente só quer saber onde tá a princesa.
+
+871
+00:39:48,280 --> 00:39:49,380
+E você sai daqui vivo.
+
+872
+00:39:49,620 --> 00:39:51,620
+Ele não consegue nem falar.
+
+873
+00:39:51,880 --> 00:39:54,380
+Ele só aponta pra onde veio o barulho.
+
+874
+00:39:54,820 --> 00:39:56,900
+É, Nini, rola dois dados ali.
+
+875
+00:39:57,900 --> 00:39:59,200
+Que bom, tirei um e um.
+
+876
+00:39:59,540 --> 00:40:01,000
+As rolagens estão excelentes.
+
+877
+00:40:01,240 --> 00:40:01,500
+Estão.
+
+878
+00:40:01,500 --> 00:40:02,000
+Tá beleza.
+
+879
+00:40:02,840 --> 00:40:03,540
+Fechou, gente.
+
+880
+00:40:03,600 --> 00:40:04,220
+Tá seguro.
+
+881
+00:40:04,540 --> 00:40:06,200
+É só a gente ir lá pra aquele barracão.
+
+882
+00:40:06,320 --> 00:40:06,860
+Ó, vamos lá.
+
+883
+00:40:07,060 --> 00:40:07,440
+Os outros.
+
+884
+00:40:07,880 --> 00:40:10,900
+Eu vou correr e pegar meu porrete de volta primeiro pra tu.
+
+885
+00:40:11,380 --> 00:40:11,820
+Prioridades.
+
+886
+00:40:12,140 --> 00:40:12,420
+Perfeito.
+
+887
+00:40:12,420 --> 00:40:13,520
+Prioridades, é.
+
+888
+00:40:13,900 --> 00:40:15,940
+Não dá pra ficar de raio, hein, o rolê todo.
+
+889
+00:40:16,220 --> 00:40:17,060
+Mas vamos junto.
+
+890
+00:40:17,640 --> 00:40:19,820
+Vocês se aproximam ali.
+
+891
+00:40:19,900 --> 00:40:21,400
+As meninas chegam primeiro, né.
+
+892
+00:40:21,700 --> 00:40:24,080
+Dá pra ver que aqui é uma grade, que ela tinha tipo uma porta.
+
+893
+00:40:24,640 --> 00:40:26,760
+Foi feita ali, mas essa porta foi destruída.
+
+894
+00:40:27,320 --> 00:40:29,900
+E amarrada, assim, com umas correntes.
+
+895
+00:40:29,960 --> 00:40:32,160
+Em volta do corpo, das pernas.
+
+896
+00:40:32,760 --> 00:40:33,540
+Tem uma orca.
+
+897
+00:40:34,220 --> 00:40:39,800
+Mas ela tem, nas mãos e no pescoço, uma gosma escura.
+
+898
+00:40:39,800 --> 00:40:41,800
+Muito similar àquela que vocês encontraram.
+
+899
+00:40:42,420 --> 00:40:42,880
+Do urso.
+
+900
+00:40:43,600 --> 00:40:45,720
+E o olho dela, assim, bem amarelado.
+
+901
+00:40:45,780 --> 00:40:46,540
+Ela baba muito.
+
+902
+00:40:46,720 --> 00:40:49,320
+Ela tenta se arrancar das correntes ali.
+
+903
+00:40:49,800 --> 00:40:51,380
+E se debate como um bicho.
+
+904
+00:40:51,820 --> 00:40:53,300
+Ela tem roupas reais?
+
+905
+00:40:54,180 --> 00:40:56,540
+Ela tem o que sobrou de um vestido caríssimo.
+
+906
+00:40:56,660 --> 00:40:59,880
+Ayla, será que essa é a aparência da nossa princesa?
+
+907
+00:41:01,060 --> 00:41:01,540
+Talvez.
+
+908
+00:41:02,180 --> 00:41:04,420
+Mas ela tá...
+
+909
+00:41:05,260 --> 00:41:06,620
+Estranha.
+
+910
+00:41:06,700 --> 00:41:08,240
+Com a mesma coisa que aquele urso.
+
+911
+00:41:08,660 --> 00:41:09,220
+Guaxa.
+
+912
+00:41:09,220 --> 00:41:11,220
+Tendo agora, tipo, a princesa...
+
+913
+00:41:11,780 --> 00:41:12,220
+Que ela tá...
+
+914
+00:41:12,420 --> 00:41:13,660
+Tipo, assim, com uma coisa.
+
+915
+00:41:14,380 --> 00:41:15,580
+O urso dá pra...
+
+916
+00:41:15,580 --> 00:41:16,340
+Tipo, assim...
+
+917
+00:41:16,340 --> 00:41:17,200
+Era um urso?
+
+918
+00:41:17,560 --> 00:41:20,420
+Ou pode ser que ele tenha sido uma pessoa antes?
+
+919
+00:41:20,540 --> 00:41:21,500
+Fala dois dados.
+
+920
+00:41:22,860 --> 00:41:25,200
+Eu tirei 5 e 3, que é meu atributo.
+
+921
+00:41:25,360 --> 00:41:27,400
+5 é um acerto simples, 3 é um acerto crítico.
+
+922
+00:41:27,480 --> 00:41:30,680
+Ou seja, foi perfeita na tua análise ali.
+
+923
+00:41:31,160 --> 00:41:32,120
+O urso era um urso.
+
+924
+00:41:32,600 --> 00:41:37,960
+Essa orca era realmente uma orquisa provavelmente nobre mesmo.
+
+925
+00:41:37,960 --> 00:41:42,120
+Essa gosma preta parece algum tipo de doença mágica.
+
+926
+00:41:42,420 --> 00:41:47,760
+Tu nota que ela sai no corpo dessa mulher, nos pontos onde tem ferimentos.
+
+927
+00:41:48,220 --> 00:41:52,320
+Parece que onde a pessoa se fere, surge essa gosma.
+
+928
+00:41:52,960 --> 00:41:56,060
+E pelo que tu analisou do urso, que tava se comportando mais como um bicho,
+
+929
+00:41:56,600 --> 00:42:00,200
+e ela agora, quanto mais feridas, quanto mais dessa gosma saindo,
+
+930
+00:42:00,780 --> 00:42:03,020
+mais enlouquecida a pessoa fica.
+
+931
+00:42:03,560 --> 00:42:05,380
+Tá, eu conto isso pra eles.
+
+932
+00:42:05,380 --> 00:42:06,620
+Eu falo...
+
+933
+00:42:06,620 --> 00:42:09,360
+Bom, parece uma doença mágica.
+
+934
+00:42:10,200 --> 00:42:12,040
+Nini, você tem algum conhecimento disso?
+
+935
+00:42:12,420 --> 00:42:13,560
+Por conta, enfim...
+
+936
+00:42:13,560 --> 00:42:15,460
+Os elfos costumam mexer com magia, não?
+
+937
+00:42:16,260 --> 00:42:19,420
+Eu posso dizer que o gosto dessa gosma aí é ruim.
+
+938
+00:42:20,060 --> 00:42:21,640
+Pelo que aconteceu hoje mais cedo.
+
+939
+00:42:22,020 --> 00:42:25,140
+Eu tenho mais alguma informação, narração?
+
+940
+00:42:25,280 --> 00:42:28,380
+Quer dizer, agora eu tenho informação que tu comeu o negócio.
+
+941
+00:42:28,700 --> 00:42:29,460
+Só como eu tô aqui.
+
+942
+00:42:31,040 --> 00:42:32,000
+Aqui mesmo.
+
+943
+00:42:32,560 --> 00:42:34,220
+Mas é que...
+
+944
+00:42:34,220 --> 00:42:37,740
+Você fica com a boca entreaberta quando você está fazendo posições de força.
+
+945
+00:42:37,860 --> 00:42:38,640
+Claro, claro.
+
+946
+00:42:38,740 --> 00:42:39,540
+Não, assim, tranquilo.
+
+947
+00:42:39,540 --> 00:42:42,400
+Mas no momento que ela confessa isso, eu posso esticar a garrafa de vinho?
+
+948
+00:42:42,420 --> 00:42:44,860
+Que a gente pegou e dá pra tirar o gosto da boca?
+
+949
+00:42:45,280 --> 00:42:46,920
+Tira esse gosto da boca aí.
+
+950
+00:42:47,040 --> 00:42:47,820
+Isso aqui é gostoso.
+
+951
+00:42:48,100 --> 00:42:49,060
+É bom, é nutritivo.
+
+952
+00:42:49,500 --> 00:42:50,340
+E álcool, né?
+
+953
+00:42:50,440 --> 00:42:51,460
+Eu acho melhor, sr. John.
+
+954
+00:42:51,580 --> 00:42:52,040
+Tá certo.
+
+955
+00:42:52,220 --> 00:42:52,620
+Obrigada.
+
+956
+00:42:53,120 --> 00:42:54,480
+A gente leva a princesa assim.
+
+957
+00:42:54,600 --> 00:42:56,920
+Eles não falaram quais eram as condições que ela estaria.
+
+958
+00:42:57,120 --> 00:42:58,840
+Depois eles vejam como será ela.
+
+959
+00:42:59,040 --> 00:42:59,760
+O que vocês acham?
+
+960
+00:43:00,000 --> 00:43:00,760
+É...
+
+961
+00:43:00,760 --> 00:43:04,340
+Eu não sei se o cadáver ainda é uma princesa.
+
+962
+00:43:05,820 --> 00:43:06,300
+Mas...
+
+963
+00:43:06,300 --> 00:43:07,240
+Ela tá morta?
+
+964
+00:43:07,620 --> 00:43:08,900
+Eu entendi errado, então.
+
+965
+00:43:09,300 --> 00:43:09,800
+Não tá não?
+
+966
+00:43:10,060 --> 00:43:11,480
+Cada um tem a sua interpretação.
+
+967
+00:43:11,580 --> 00:43:11,900
+Vamos lá.
+
+968
+00:43:11,900 --> 00:43:13,320
+Ela tava se mexendo ainda.
+
+969
+00:43:13,740 --> 00:43:16,100
+Ela tem muitos ferimentos e tem essa gosma escura.
+
+970
+00:43:16,220 --> 00:43:16,900
+Ela está se mexendo.
+
+971
+00:43:17,560 --> 00:43:18,700
+De onde eu venho?
+
+972
+00:43:18,800 --> 00:43:20,300
+Se tá se mexendo, tá vivo.
+
+973
+00:43:20,420 --> 00:43:22,640
+É difícil mexer e tirar daqui, né?
+
+974
+00:43:23,640 --> 00:43:26,760
+Vai que tira e aí essa gosma espalha onde a gente levar.
+
+975
+00:43:27,360 --> 00:43:28,000
+É assim, né?
+
+976
+00:43:28,260 --> 00:43:29,440
+Também não é problema meu, né?
+
+977
+00:43:29,720 --> 00:43:30,580
+Levar, levou.
+
+978
+00:43:31,120 --> 00:43:32,000
+Espalhar, espalhou.
+
+979
+00:43:32,520 --> 00:43:34,580
+O que vocês decidirem tá decidido por mim.
+
+980
+00:43:34,640 --> 00:43:35,600
+Eu não vou decidir nada, não.
+
+981
+00:43:36,040 --> 00:43:37,660
+Eu vou sair andando, inclusive, um pouquinho na frente.
+
+982
+00:43:37,820 --> 00:43:39,720
+Porque eu não quero nem participar da decisão.
+
+983
+00:43:40,000 --> 00:43:40,240
+Ok.
+
+984
+00:43:40,240 --> 00:43:41,280
+Rola dois dados ali.
+
+985
+00:43:41,460 --> 00:43:41,880
+Tá andando.
+
+986
+00:43:41,900 --> 00:43:42,720
+Pela vila.
+
+987
+00:43:42,820 --> 00:43:43,680
+Ih, rapaz do céu.
+
+988
+00:43:43,860 --> 00:43:44,780
+Olha que decisão errada.
+
+989
+00:43:47,280 --> 00:43:48,380
+Cinco e três, hein?
+
+990
+00:43:48,400 --> 00:43:48,740
+Olha aí.
+
+991
+00:43:48,860 --> 00:43:49,200
+Cinco.
+
+992
+00:43:49,260 --> 00:43:49,940
+Acerto crítico.
+
+993
+00:43:50,040 --> 00:43:50,520
+Perfeito.
+
+994
+00:43:50,780 --> 00:43:55,160
+Tudo num raro momento de lucidez inside ali.
+
+995
+00:43:55,440 --> 00:43:57,900
+O cara que perdeu as pernas já parou de sangrar.
+
+996
+00:43:58,400 --> 00:44:01,960
+E tem uma gosma meio escura ali saindo do ferimento.
+
+997
+00:44:02,520 --> 00:44:05,140
+Todos ali que foram feridos, que tem algum tipo de sangramento.
+
+998
+00:44:05,640 --> 00:44:07,900
+O sangramento parou e tá substituindo por essa gosma.
+
+999
+00:44:08,740 --> 00:44:09,420
+É um acerto crítico.
+
+1000
+00:44:09,520 --> 00:44:10,160
+Mais uma informação.
+
+1001
+00:44:10,160 --> 00:44:10,260
+Mais uma informação.
+
+1002
+00:44:10,260 --> 00:44:13,400
+Há muitas armas por ali.
+
+1003
+00:44:13,780 --> 00:44:16,700
+E que não foram usadas porque vocês pegaram o lugar de surpresa.
+
+1004
+00:44:17,080 --> 00:44:19,260
+E porque provavelmente as pessoas ali estavam meio doentes.
+
+1005
+00:44:19,580 --> 00:44:23,640
+As armas ali, tirando uma ou outra arma improvisada, são élficas, tá?
+
+1006
+00:44:23,860 --> 00:44:24,840
+Rapaz do céu.
+
+1007
+00:44:24,960 --> 00:44:26,520
+São armas de extrema qualidade.
+
+1008
+00:44:27,240 --> 00:44:31,620
+Inclusive, tu vê assim um cantinho onde tem carne seca, algumas coisas pra comer.
+
+1009
+00:44:32,240 --> 00:44:34,920
+Tem um vinho idêntico ao que vocês trouxeram.
+
+1010
+00:44:35,300 --> 00:44:37,400
+Mas a garrafa tá vazia já.
+
+1011
+00:44:37,400 --> 00:44:40,140
+O Legunza Blue lá que deixou pra gente o vinho.
+
+1012
+00:44:40,260 --> 00:44:41,920
+E as armas, que eu esqueci o nome de novo.
+
+1013
+00:44:42,920 --> 00:44:43,320
+Ele...
+
+1014
+00:44:43,320 --> 00:44:45,220
+Tô com uma dificuldade de fazer a conclusão aqui.
+
+1015
+00:44:45,540 --> 00:44:45,800
+Ok.
+
+1016
+00:44:45,920 --> 00:44:46,960
+Mas tem alguma coisa a ver.
+
+1017
+00:44:47,180 --> 00:44:48,400
+Tem alguma coisa a ver aqui.
+
+1018
+00:44:48,780 --> 00:44:49,180
+Guarda.
+
+1019
+00:44:49,340 --> 00:44:50,000
+As meninas.
+
+1020
+00:44:50,240 --> 00:44:51,820
+Vocês estão lá decidindo o que fazer.
+
+1021
+00:44:51,960 --> 00:44:52,180
+E aí?
+
+1022
+00:44:52,500 --> 00:44:56,460
+Vocês ainda não viram esse inside que o Serjão teve ali.
+
+1023
+00:44:56,900 --> 00:44:57,620
+Então, Ayla.
+
+1024
+00:44:57,760 --> 00:44:58,700
+Eu acho que assim.
+
+1025
+00:44:59,240 --> 00:45:02,820
+A princesa tá doente, mas a gente leva a encomenda assim mesmo.
+
+1026
+00:45:02,900 --> 00:45:04,800
+Você acha que talvez...
+
+1027
+00:45:04,800 --> 00:45:09,980
+Como tem os reinos tão de aliança, provavelmente a gente teria que passar.
+
+1028
+00:45:09,980 --> 00:45:11,340
+É só alguém...
+
+1029
+00:45:11,340 --> 00:45:13,660
+Algum elfo, sei lá, que faz...
+
+1030
+00:45:13,660 --> 00:45:15,920
+Que entende de magia, alguma coisa assim.
+
+1031
+00:45:16,600 --> 00:45:17,040
+Ou...
+
+1032
+00:45:17,040 --> 00:45:18,320
+Não sei, alguma coisa que...
+
+1033
+00:45:18,320 --> 00:45:21,540
+Sei lá, se a gente levar ela doente e que ele pudesse ajudar, talvez.
+
+1034
+00:45:21,600 --> 00:45:25,040
+E algumas pessoas que trabalham com isso e podem receber um dinheiro pra fazer.
+
+1035
+00:45:25,600 --> 00:45:29,880
+Um tipo de médicos medievais, o pessoal que entende de algumas ervas, de algumas curas.
+
+1036
+00:45:30,080 --> 00:45:31,680
+Ninguém assim que vocês...
+
+1037
+00:45:31,680 --> 00:45:33,800
+Tenho 100% de confiança.
+
+1038
+00:45:34,260 --> 00:45:35,940
+Mas há pessoas que fazem esse tipo de trabalho.
+
+1039
+00:45:36,260 --> 00:45:36,620
+Ah, é?
+
+1040
+00:45:36,720 --> 00:45:37,820
+Bom, a gente pode levar.
+
+1041
+00:45:37,820 --> 00:45:39,820
+E no fim é o que você disse.
+
+1042
+00:45:39,980 --> 00:45:44,020
+Se ele pediu pra gente levar a princesa, ele não especificou bem as condições.
+
+1043
+00:45:44,120 --> 00:45:47,900
+E quanto mais rápido, mais chance ela tem de melhorar, eu acho, né?
+
+1044
+00:45:48,060 --> 00:45:49,080
+É, acho que...
+
+1045
+00:45:49,080 --> 00:45:55,340
+A gente pode arrumar um jeito de levar, com que ela não ataque a gente.
+
+1046
+00:45:55,760 --> 00:45:57,460
+Mas a gente pode levar ela.
+
+1047
+00:45:57,740 --> 00:45:58,960
+Eu vou procurar uma corda.
+
+1048
+00:45:59,240 --> 00:46:02,400
+A gente amarra ela certinho, prende a boca, né?
+
+1049
+00:46:02,960 --> 00:46:05,300
+Sim, cuidado com os ferimentos dela também.
+
+1050
+00:46:05,300 --> 00:46:06,240
+Tá bom, Ayla.
+
+1051
+00:46:06,400 --> 00:46:09,260
+Eu vou buscar uma corda e eu já volto aqui então.
+
+1052
+00:46:09,300 --> 00:46:09,960
+Tudo em conta.
+
+1053
+00:46:09,980 --> 00:46:15,160
+O Sérgio, assim, meio pensativo, olhando pro acampamento dos bandidos ali.
+
+1054
+00:46:15,440 --> 00:46:17,800
+Pensando na morena, Sérgio, o que foi?
+
+1055
+00:46:18,160 --> 00:46:21,520
+Eu acho que isso aqui é uma emboscada, hein?
+
+1056
+00:46:21,800 --> 00:46:27,220
+Não sei se pra gente, não sei se pros homens, mas vai ter um cagaço aqui.
+
+1057
+00:46:27,720 --> 00:46:30,340
+Ó, aí eu vou apontar pra garrafa de vinho vazia e falar.
+
+1058
+00:46:31,120 --> 00:46:35,420
+É o vinho do Gonzaguinha lá, que deu pra gente lá na vila, na taverna.
+
+1059
+00:46:35,420 --> 00:46:36,800
+E as armas aí, ó.
+
+1060
+00:46:37,200 --> 00:46:39,960
+Igualzinho as permutas que ele ofereceu pra nós.
+
+1061
+00:46:39,980 --> 00:46:41,480
+Vou começar a apontar pra ela ali.
+
+1062
+00:46:42,220 --> 00:46:43,260
+Meu Deus.
+
+1063
+00:46:43,980 --> 00:46:45,580
+Você também bebeu desse vinho, né?
+
+1064
+00:46:46,000 --> 00:46:46,360
+Bebi.
+
+1065
+00:46:46,940 --> 00:46:47,940
+Mas foi só a caneca.
+
+1066
+00:46:48,200 --> 00:46:50,520
+Eu posso já estar com a corda no colo?
+
+1067
+00:46:50,880 --> 00:46:51,140
+Pode.
+
+1068
+00:46:51,140 --> 00:46:52,000
+A gente tem encontrado, tá.
+
+1069
+00:46:52,360 --> 00:46:53,440
+Tá, mas isso é grave.
+
+1070
+00:46:53,540 --> 00:46:54,980
+Isso quer dizer que realmente...
+
+1071
+00:46:54,980 --> 00:46:56,280
+O que a gente bebeu?
+
+1072
+00:46:56,560 --> 00:46:58,160
+Mas o que tem a ver com o que a gente bebeu?
+
+1073
+00:46:58,220 --> 00:46:59,300
+Não necessariamente é o vinho.
+
+1074
+00:46:59,440 --> 00:46:59,920
+É o vinho?
+
+1075
+00:47:00,100 --> 00:47:02,860
+Sei lá, tá todo mundo esquisito aqui.
+
+1076
+00:47:03,420 --> 00:47:04,840
+Vamos falar com a Ayla.
+
+1077
+00:47:05,100 --> 00:47:08,640
+A gente vai amarrar a princesa e vai embora e a gente fala com ela.
+
+1078
+00:47:08,640 --> 00:47:09,920
+Você conta o que você viu.
+
+1079
+00:47:10,160 --> 00:47:11,020
+Vou contar o que eu vi.
+
+1080
+00:47:11,120 --> 00:47:17,520
+Pela análise do vinho que eu tinha feito, eu não tinha percebido nada de estranho.
+
+1081
+00:47:17,820 --> 00:47:21,740
+É, assim, tu passou no teste, inclusive, de analisar a doença.
+
+1082
+00:47:22,080 --> 00:47:26,380
+Parece que essa princesa tem uma doença extremamente contagiosa.
+
+1083
+00:47:26,800 --> 00:47:33,220
+Alguma coisa ligada ao sangue, talvez mais do que isso, porque tá todo mundo ali infectado, né?
+
+1084
+00:47:33,740 --> 00:47:36,660
+Do urso, que tava só mexendo lá na carroça.
+
+1085
+00:47:36,660 --> 00:47:38,320
+Não tem a ver com o vinho.
+
+1086
+00:47:38,700 --> 00:47:39,660
+Tem a ver com essa...
+
+1087
+00:47:39,980 --> 00:47:44,060
+Essa orca aí e algum tipo de doença que ela tá trazendo.
+
+1088
+00:47:44,300 --> 00:47:44,520
+Tá.
+
+1089
+00:47:44,640 --> 00:47:46,080
+E se manifesta pelos ferimentos.
+
+1090
+00:47:46,080 --> 00:47:49,080
+Eu falo, bom, talvez aquele...
+
+1091
+00:47:49,700 --> 00:47:53,500
+Aquele elfo lá da taberna soubesse onde a gente tava se metendo.
+
+1092
+00:47:53,940 --> 00:47:54,340
+Não sei.
+
+1093
+00:47:55,080 --> 00:47:57,460
+Mas não parece ter a ver com o vinho.
+
+1094
+00:47:57,800 --> 00:48:02,080
+Parece que a orca talvez estivesse doente quando eu tava vindo e...
+
+1095
+00:48:02,840 --> 00:48:05,080
+Isso aí é muito contagioso e afetou todo...
+
+1096
+00:48:06,440 --> 00:48:08,040
+As pessoas que foram...
+
+1097
+00:48:08,040 --> 00:48:09,080
+Esses caras que foram...
+
+1098
+00:48:09,080 --> 00:48:09,280
+Que foram...
+
+1099
+00:48:09,280 --> 00:48:09,500
+Que foram...
+
+1100
+00:48:09,500 --> 00:48:09,520
+Que foram...
+
+1101
+00:48:09,520 --> 00:48:09,560
+Que foram...
+
+1102
+00:48:09,560 --> 00:48:09,620
+Que foram...
+
+1103
+00:48:09,620 --> 00:48:09,960
+Que foram...
+
+1104
+00:48:09,980 --> 00:48:10,440
+Que foram...
+
+1105
+00:48:10,440 --> 00:48:11,840
+Assaltar, enfim...
+
+1106
+00:48:11,840 --> 00:48:12,580
+A...
+
+1107
+00:48:12,580 --> 00:48:13,920
+A carruagem.
+
+1108
+00:48:14,540 --> 00:48:15,880
+E eles ficaram doentes também.
+
+1109
+00:48:16,040 --> 00:48:21,660
+Enquanto a Ayla fala isso, vocês notam, assim, a Nini coçando bastante o pescoço, assim, o rosto.
+
+1110
+00:48:22,200 --> 00:48:22,680
+Involuntariamente.
+
+1111
+00:48:23,180 --> 00:48:23,420
+Ai.
+
+1112
+00:48:23,760 --> 00:48:25,120
+Nini, tá tudo bem?
+
+1113
+00:48:25,440 --> 00:48:25,720
+Tá.
+
+1114
+00:48:26,080 --> 00:48:26,240
+Tá.
+
+1115
+00:48:27,020 --> 00:48:27,520
+Eu...
+
+1116
+00:48:27,520 --> 00:48:28,860
+Eu acho que eu fiquei nervosa.
+
+1117
+00:48:29,600 --> 00:48:30,080
+Ai.
+
+1118
+00:48:31,060 --> 00:48:31,580
+Que agonia.
+
+1119
+00:48:32,200 --> 00:48:32,780
+Eu não sei.
+
+1120
+00:48:33,400 --> 00:48:34,960
+Então quer dizer que não foi o vinho, né?
+
+1121
+00:48:35,000 --> 00:48:35,960
+Então tá tudo bem, né?
+
+1122
+00:48:36,160 --> 00:48:36,860
+O amigo tá.
+
+1123
+00:48:36,860 --> 00:48:36,940
+Tá.
+
+1124
+00:48:36,940 --> 00:48:43,040
+A Nini começa...
+
+1125
+00:48:43,040 --> 00:48:46,540
+Ela fica vermelha e começa a se coçar com mais vontade.
+
+1126
+00:48:46,740 --> 00:48:48,260
+É tudo uma questão de ponto de vista.
+
+1127
+00:48:48,400 --> 00:48:49,380
+Tudo é muito relativo.
+
+1128
+00:48:49,840 --> 00:48:50,600
+Mas, ó...
+
+1129
+00:48:50,600 --> 00:48:52,060
+Vamos olhar o seguinte.
+
+1130
+00:48:52,200 --> 00:48:53,320
+O que eu tô pensando aqui?
+
+1131
+00:48:53,900 --> 00:48:55,200
+Com uma certa limitação.
+
+1132
+00:48:55,460 --> 00:49:00,080
+Essas coisas aí, a garrafa de vinho, as carnes aí e tudo mais...
+
+1133
+00:49:00,080 --> 00:49:01,280
+Assim...
+
+1134
+00:49:01,280 --> 00:49:02,980
+Eu não sei se faz sentido.
+
+1135
+00:49:03,980 --> 00:49:06,920
+O acampamento tá todo cagado, todo fodido de tudo.
+
+1136
+00:49:06,940 --> 00:49:08,940
+E tem um cantinho tão...
+
+1137
+00:49:09,840 --> 00:49:11,000
+Tão conservado aqui.
+
+1138
+00:49:11,420 --> 00:49:11,840
+Sei lá.
+
+1139
+00:49:12,320 --> 00:49:13,040
+É estranho pra mim.
+
+1140
+00:49:13,200 --> 00:49:14,420
+Não consigo tirar conclusão nenhuma.
+
+1141
+00:49:14,760 --> 00:49:16,200
+E voltei a ficar pensativo.
+
+1142
+00:49:16,840 --> 00:49:17,680
+Pensando no acampamento.
+
+1143
+00:49:17,760 --> 00:49:18,600
+Que eu tô realmente confuso.
+
+1144
+00:49:18,680 --> 00:49:19,980
+Bom, a única coisa é...
+
+1145
+00:49:19,980 --> 00:49:20,940
+Se a gente levar ela...
+
+1146
+00:49:21,940 --> 00:49:22,940
+A gente tá levando isso...
+
+1147
+00:49:24,160 --> 00:49:24,620
+Pra...
+
+1148
+00:49:24,620 --> 00:49:25,380
+Pro outro reino.
+
+1149
+00:49:25,800 --> 00:49:28,320
+Será que eles tentaram usar ela...
+
+1150
+00:49:28,320 --> 00:49:28,780
+Meu Deus.
+
+1151
+00:49:29,280 --> 00:49:30,940
+Será que eles tentaram usar a princesa...
+
+1152
+00:49:31,580 --> 00:49:33,360
+Pra acabar com o outro reino?
+
+1153
+00:49:33,540 --> 00:49:34,100
+Tipo...
+
+1154
+00:49:34,100 --> 00:49:34,600
+De vez?
+
+1155
+00:49:34,600 --> 00:49:36,600
+Um cavalo de uma terra que poderia chamar Troia...
+
+1156
+00:49:36,940 --> 00:49:38,300
+Se a gente estivesse em outro planeta?
+
+1157
+00:49:39,360 --> 00:49:40,300
+É tipo isso.
+
+1158
+00:49:40,420 --> 00:49:43,220
+Eu não sei do que vocês estão falando, mas...
+
+1159
+00:49:43,220 --> 00:49:44,620
+Pelo que a gente viu aqui...
+
+1160
+00:49:44,620 --> 00:49:48,500
+Com certeza aquele Celegor sabe muito mais do que o que ele falou pra gente.
+
+1161
+00:49:48,700 --> 00:49:50,280
+Bom, o que a gente pode fazer...
+
+1162
+00:49:50,280 --> 00:49:52,100
+Vocês vão querer levar a princesa ainda?
+
+1163
+00:49:52,400 --> 00:49:55,660
+O que a gente pode fazer é voltar e ver se ele consegue ajudar a Nini.
+
+1164
+00:49:55,920 --> 00:49:58,660
+Então você acha que eu também tô doente, é isso, né?
+
+1165
+00:49:59,040 --> 00:50:00,000
+Se a Nini se coça.
+
+1166
+00:50:00,020 --> 00:50:00,400
+Não sei.
+
+1167
+00:50:00,540 --> 00:50:02,940
+Eu quero olhar se ela tá...
+
+1168
+00:50:02,940 --> 00:50:05,420
+Onde tá coçando o pescoço dela, assim.
+
+1169
+00:50:05,420 --> 00:50:06,920
+A Nini chegou a ser arranhada.
+
+1170
+00:50:07,060 --> 00:50:08,540
+Ah, enquanto coçava ou não, gente?
+
+1171
+00:50:08,660 --> 00:50:09,820
+Eu vou rolar um D2.
+
+1172
+00:50:11,120 --> 00:50:13,700
+Eu botei que um era assim, arranhou.
+
+1173
+00:50:14,100 --> 00:50:15,200
+E eu tirei um.
+
+1174
+00:50:15,340 --> 00:50:15,480
+Tá.
+
+1175
+00:50:15,620 --> 00:50:20,400
+Tu fez um arranhão, assim, no pescoço, com a unha, assim, enquanto coçava.
+
+1176
+00:50:20,820 --> 00:50:22,800
+Rolou, assim, um pequeno...
+
+1177
+00:50:22,800 --> 00:50:24,260
+Deu aquela vermelhadinha.
+
+1178
+00:50:24,720 --> 00:50:27,740
+Mas logo escureceu, assim, o filete de sangue.
+
+1179
+00:50:28,180 --> 00:50:28,540
+A...
+
+1180
+00:50:28,540 --> 00:50:30,620
+Por mais que esteja escuro ali...
+
+1181
+00:50:30,620 --> 00:50:31,400
+A...
+
+1182
+00:50:31,400 --> 00:50:33,580
+Aí ela consegue perceber isso.
+
+1183
+00:50:33,640 --> 00:50:35,060
+A amiga de vocês tá doente.
+
+1184
+00:50:35,060 --> 00:50:36,400
+Bom, parece que daquela hora...
+
+1185
+00:50:36,940 --> 00:50:39,800
+Do urso, talvez...
+
+1186
+00:50:39,800 --> 00:50:40,940
+Você tenha pego também.
+
+1187
+00:50:41,980 --> 00:50:42,460
+É...
+
+1188
+00:50:42,460 --> 00:50:43,600
+Bom, a gente pode...
+
+1189
+00:50:44,300 --> 00:50:45,600
+Tentar levar a princesa...
+
+1190
+00:50:46,460 --> 00:50:46,960
+Ou não.
+
+1191
+00:50:47,160 --> 00:50:48,600
+E voltar pra falar com...
+
+1192
+00:50:49,460 --> 00:50:50,200
+Com o elfo.
+
+1193
+00:50:50,440 --> 00:50:51,800
+Porque ele com certeza sabe de alguma coisa.
+
+1194
+00:50:51,800 --> 00:50:53,240
+A gente tem três cavalos, né?
+
+1195
+00:50:53,500 --> 00:50:54,080
+Três cavalos.
+
+1196
+00:50:54,100 --> 00:50:54,340
+Sim.
+
+1197
+00:50:54,600 --> 00:50:56,600
+A princesa tá um...
+
+1198
+00:50:56,600 --> 00:50:56,820
+Né?
+
+1199
+00:50:57,080 --> 00:50:58,220
+Um envelope, né?
+
+1200
+00:50:58,520 --> 00:50:59,720
+Ela não é mais um...
+
+1201
+00:50:59,720 --> 00:51:00,680
+Ela...
+
+1202
+00:51:00,680 --> 00:51:01,500
+Ela tá ali, né?
+
+1203
+00:51:02,080 --> 00:51:02,760
+É um corpo.
+
+1204
+00:51:02,860 --> 00:51:03,460
+Se mexendo.
+
+1205
+00:51:03,800 --> 00:51:05,560
+Eu sei que se mexendo, né?
+
+1206
+00:51:05,560 --> 00:51:06,260
+Mas assim...
+
+1207
+00:51:06,260 --> 00:51:06,560
+Não...
+
+1208
+00:51:06,940 --> 00:51:07,880
+Né?
+
+1209
+00:51:08,120 --> 00:51:08,640
+Não é...
+
+1210
+00:51:08,640 --> 00:51:12,000
+Ela não é como se ela estivesse andando com as próprias pernas pra lá e pra cá, né?
+
+1211
+00:51:12,000 --> 00:51:12,900
+Ela tá só...
+
+1212
+00:51:12,900 --> 00:51:13,880
+Balangandando ali, né?
+
+1213
+00:51:14,320 --> 00:51:17,040
+Se for isso, dá pra levar ela num cavalo com mais alguém.
+
+1214
+00:51:17,280 --> 00:51:18,680
+Por exemplo, eu vou levando a princesa.
+
+1215
+00:51:18,960 --> 00:51:21,840
+Se meu cavalo, coitado, já tá tão sofrido levando só eu...
+
+1216
+00:51:21,840 --> 00:51:24,080
+Vai levar outro orc junto, você se aguenta, né?
+
+1217
+00:51:24,080 --> 00:51:25,000
+Mas, Sergião...
+
+1218
+00:51:25,000 --> 00:51:25,500
+Se eu...
+
+1219
+00:51:25,500 --> 00:51:27,080
+Se eu tô doente...
+
+1220
+00:51:27,080 --> 00:51:27,800
+Deixa...
+
+1221
+00:51:27,800 --> 00:51:29,100
+Deixa que eu levo ela.
+
+1222
+00:51:29,240 --> 00:51:30,340
+Ah, melhor, hein?
+
+1223
+00:51:30,520 --> 00:51:33,000
+Eu nem oferecer já, porque eu já falei que meu cavalo já não ia aguentar.
+
+1224
+00:51:33,540 --> 00:51:34,800
+Mas você pensou melhor ainda.
+
+1225
+00:51:35,080 --> 00:51:35,740
+É, eu...
+
+1226
+00:51:35,740 --> 00:51:36,060
+Eu...
+
+1227
+00:51:36,060 --> 00:51:36,260
+Eu...
+
+1228
+00:51:36,260 --> 00:51:37,980
+A gente amarra ela e...
+
+1229
+00:51:37,980 --> 00:51:40,060
+Eu vou deixar uma cordinha na minha cintura também.
+
+1230
+00:51:40,220 --> 00:51:41,340
+Qualquer coisa...
+
+1231
+00:51:41,340 --> 00:51:42,500
+A Nini olha pra baixo.
+
+1232
+00:51:42,820 --> 00:51:45,400
+Qualquer coisa, vocês me amarram se precisar.
+
+1233
+00:51:45,460 --> 00:51:45,760
+Ok.
+
+1234
+00:51:45,940 --> 00:51:47,980
+Se a gente for rápido, eu acho que não vai precisar.
+
+1235
+00:51:48,100 --> 00:51:48,300
+Eu...
+
+1236
+00:51:48,300 --> 00:51:49,520
+Eu prefiro amarrar.
+
+1237
+00:51:51,740 --> 00:51:53,520
+Em nome da nossa amizade, né?
+
+1238
+00:51:53,580 --> 00:51:54,060
+Eu vou amarrar.
+
+1239
+00:51:55,880 --> 00:51:58,460
+Em nome da sua segurança, eu vou amarrar.
+
+1240
+00:51:58,860 --> 00:52:00,900
+Se você não se sentir...
+
+1241
+00:52:00,900 --> 00:52:01,280
+É...
+
+1242
+00:52:01,280 --> 00:52:01,980
+Assim...
+
+1243
+00:52:01,980 --> 00:52:06,060
+Quero amarrar a ponto de você ficar segura no cavalo pra você não cair, caso tenha
+
+1244
+00:52:06,060 --> 00:52:06,240
+um maldito.
+
+1245
+00:52:06,240 --> 00:52:09,560
+Não é pra te prender, assim.
+
+1246
+00:52:09,640 --> 00:52:11,760
+Pra te dar um cinto de segurança.
+
+1247
+00:52:12,280 --> 00:52:13,440
+Sergião, a gente...
+
+1248
+00:52:13,440 --> 00:52:16,020
+A gente anda junto há muito tempo, eu...
+
+1249
+00:52:16,020 --> 00:52:17,040
+Tá tudo bem, eu não...
+
+1250
+00:52:17,040 --> 00:52:19,260
+Eu não quero que vocês saiam machucados dessa.
+
+1251
+00:52:19,660 --> 00:52:20,320
+Pode amarrar.
+
+1252
+00:52:20,340 --> 00:52:22,760
+Quando ela começou a concordar, eu já tava amarrando, né?
+
+1253
+00:52:24,440 --> 00:52:27,680
+Mas deixa os braços se mexendo, pelo amor de Deus.
+
+1254
+00:52:27,700 --> 00:52:27,980
+Sim, não.
+
+1255
+00:52:28,100 --> 00:52:28,760
+O braço...
+
+1256
+00:52:28,760 --> 00:52:29,880
+É como eu falei.
+
+1257
+00:52:30,360 --> 00:52:31,400
+Tem que pilotar o cavalo.
+
+1258
+00:52:32,360 --> 00:52:35,480
+E o mesmo pra levar a princesa, né?
+
+1259
+00:52:35,800 --> 00:52:36,160
+Sim.
+
+1260
+00:52:36,160 --> 00:52:36,480
+Isso.
+
+1261
+00:52:36,860 --> 00:52:38,060
+É, elas tão amarradas juntas, né?
+
+1262
+00:52:38,180 --> 00:52:38,740
+As doentes.
+
+1263
+00:52:39,720 --> 00:52:42,600
+A partir dali, já vão juntas até o cavalo.
+
+1264
+00:52:42,620 --> 00:52:42,900
+Nossa.
+
+1265
+00:52:44,600 --> 00:52:48,220
+A pessoa com lepra, ele fez isso.
+
+1266
+00:52:48,960 --> 00:52:50,400
+Meu Deus, né?
+
+1267
+00:52:51,160 --> 00:52:51,760
+Tudo bem.
+
+1268
+00:52:51,940 --> 00:52:52,780
+Tudo bem, eu entendo.
+
+1269
+00:52:52,820 --> 00:52:53,820
+Eu entendo o motivo.
+
+1270
+00:52:54,440 --> 00:52:55,280
+Faz parte.
+
+1271
+00:52:55,360 --> 00:52:58,240
+Eu espero que a gente encontre a cura e fique tudo certo.
+
+1272
+00:52:58,380 --> 00:52:59,640
+Mas vamos voltando pros cavalos, então.
+
+1273
+00:52:59,720 --> 00:53:00,860
+O cavalo tava no riozinho, né?
+
+1274
+00:53:00,920 --> 00:53:01,200
+Uhum.
+
+1275
+00:53:01,300 --> 00:53:01,880
+Vamos voltando.
+
+1276
+00:53:02,220 --> 00:53:05,120
+A princesa tá amarrada, então é fácil tá conduzindo ela até o cavalo.
+
+1277
+00:53:05,120 --> 00:53:06,120
+Três dadinhos, então.
+
+1278
+00:53:06,160 --> 00:53:07,340
+É o único que pode dar errado.
+
+1279
+00:53:07,500 --> 00:53:08,320
+Te atributo ao menos.
+
+1280
+00:53:09,660 --> 00:53:11,540
+Tirei seis, cinco e três.
+
+1281
+00:53:11,740 --> 00:53:12,840
+Um acerto simples.
+
+1282
+00:53:13,480 --> 00:53:15,340
+A volta demora muito, assim.
+
+1283
+00:53:16,220 --> 00:53:19,320
+Volta e meia, a princesa tenta correr ali.
+
+1284
+00:53:19,900 --> 00:53:25,260
+Ou as duas se prendem, as cordas das duas se prendem em algum lugar de árvore, alguma coisa.
+
+1285
+00:53:25,800 --> 00:53:29,800
+É bem demorado tá levando ela até os cavalos, né?
+
+1286
+00:53:29,800 --> 00:53:35,140
+E o sol já tá nascendo quando vocês chegam na estrada.
+
+1287
+00:53:35,140 --> 00:53:41,200
+Os cavalos estão vivos, vocês estão com um sócio, eles estão lá amarrados ainda perto do rio.
+
+1288
+00:53:41,680 --> 00:53:43,100
+Nenhum outro urso apareceu.
+
+1289
+00:53:43,700 --> 00:53:45,000
+Vocês vão naquele esquema, né?
+
+1290
+00:53:45,060 --> 00:53:49,420
+As duas, a princesa e a Nini num cavalo.
+
+1291
+00:53:49,940 --> 00:53:54,480
+A Ayla e o Serjão, cada um no seu respectivo cavalo.
+
+1292
+00:53:54,980 --> 00:54:00,600
+Vocês vão voltar pra vila com essa mulher assim exposta, com essas marcas escuras.
+
+1293
+00:54:01,660 --> 00:54:02,120
+É isso.
+
+1294
+00:54:02,120 --> 00:54:04,420
+Ó, tem algum paninho?
+
+1295
+00:54:04,420 --> 00:54:08,420
+Alguma coisa assim que a gente consegue usar perto das carroças antigas, alguma coisa assim?
+
+1296
+00:54:08,420 --> 00:54:12,980
+É, tinha as barracas, tinha as roupas do pessoal lá na pampaminha.
+
+1297
+00:54:12,980 --> 00:54:18,420
+Podiam rolar nos paninhos, no lençol, sei lá, numa barra, qualquer coisa que dê pra, pelo menos, né, pra dar aquele...
+
+1298
+00:54:19,240 --> 00:54:25,420
+Pra não chegar tudo exposto, né, pra se der pra dar uma estancada em alguma coisa, uma ferida aberta, não ficar tão...
+
+1299
+00:54:26,180 --> 00:54:29,620
+E também não ficar pingando geleca pelo lugar todo, né?
+
+1300
+00:54:29,680 --> 00:54:30,600
+Pelo caminho, né?
+
+1301
+00:54:30,700 --> 00:54:34,400
+Colocar assim os panos como se fosse um manto, assim, de cobrir.
+
+1302
+00:54:34,400 --> 00:54:36,260
+De cobrir ela, assim, a cabeça, o corpo.
+
+1303
+00:54:36,280 --> 00:54:36,640
+Isso.
+
+1304
+00:54:37,140 --> 00:54:41,120
+E deixa eu ver, a hora que a gente chega nos cavalos, a Nini tá como?
+
+1305
+00:54:41,240 --> 00:54:43,280
+A ferida dela piorou?
+
+1306
+00:54:43,800 --> 00:54:44,360
+Boa pergunta.
+
+1307
+00:54:44,480 --> 00:54:44,940
+Demorou, né?
+
+1308
+00:54:45,120 --> 00:54:47,140
+Rola dois dados, tu atributou mais.
+
+1309
+00:54:47,600 --> 00:54:48,800
+Atributou menos, né, físico.
+
+1310
+00:54:49,320 --> 00:54:50,100
+Doença é físico.
+
+1311
+00:54:50,220 --> 00:54:51,240
+Atributou menos dois dados.
+
+1312
+00:54:55,260 --> 00:54:56,740
+Caraca, desculpa, Nini.
+
+1313
+00:54:57,680 --> 00:54:58,580
+Tirou quanto?
+
+1314
+00:54:58,740 --> 00:55:00,200
+Como assim eu morri?
+
+1315
+00:55:00,540 --> 00:55:02,740
+Eu tirei cinco e cinco.
+
+1316
+00:55:04,400 --> 00:55:09,240
+O pescoço dela, assim, tá tomado por aquela gosma preta, assim.
+
+1317
+00:55:09,460 --> 00:55:13,120
+Dá pra ver pela blusa dela, assim, mais...
+
+1318
+00:55:13,120 --> 00:55:14,260
+Tem tipo um calombo.
+
+1319
+00:55:14,700 --> 00:55:17,980
+Ele vem pelo pescoço, assim, chega ali na roupa dela.
+
+1320
+00:55:18,640 --> 00:55:21,100
+Essa gosma escorreu por dentro da roupa dela.
+
+1321
+00:55:21,460 --> 00:55:23,220
+Assim, parece muito, muito feio a situação.
+
+1322
+00:55:23,420 --> 00:55:24,180
+Tatuou, Nini?
+
+1323
+00:55:24,740 --> 00:55:25,400
+É tatuagem?
+
+1324
+00:55:25,500 --> 00:55:28,260
+O que você tá falando?
+
+1325
+00:55:28,740 --> 00:55:30,460
+Daí eu coloco a mão no meu pescoço, assim.
+
+1326
+00:55:30,460 --> 00:55:32,860
+Sente que tem aquela gosma escura.
+
+1327
+00:55:34,400 --> 00:55:35,560
+Sabe que não tá muito bom.
+
+1328
+00:55:37,500 --> 00:55:39,520
+Podia ser, né, Sardião?
+
+1329
+00:55:41,480 --> 00:55:41,960
+Mas...
+
+1330
+00:55:41,960 --> 00:55:47,200
+Vocês fazem tatuagem depois com o meu nome.
+
+1331
+00:55:49,540 --> 00:55:50,480
+Rindo de nervoso.
+
+1332
+00:55:50,500 --> 00:55:54,400
+Tá de chocotone aqui, só de olhar o pescoço dela, mas eu vou continuar seguindo em frente.
+
+1333
+00:55:54,780 --> 00:55:56,920
+Vai ficar tudo bem, Nini.
+
+1334
+00:55:57,300 --> 00:56:00,360
+Com certeza aquele elfo vai saber alguma coisa sobre ele.
+
+1335
+00:56:00,360 --> 00:56:01,360
+Acho que...
+
+1336
+00:56:01,880 --> 00:56:03,600
+Você tá bem? Você precisa de ajuda pra subir no cavalo?
+
+1337
+00:56:03,660 --> 00:56:04,360
+Eu ainda tô amada.
+
+1338
+00:56:04,400 --> 00:56:05,400
+Tá amarrada, né?
+
+1339
+00:56:05,400 --> 00:56:07,400
+Sardião, você consegue também dar uma ajuda aqui?
+
+1340
+00:56:07,400 --> 00:56:09,400
+Não, vambora, vambora.
+
+1341
+00:56:09,400 --> 00:56:11,400
+A viagem demora um tempinho, né?
+
+1342
+00:56:11,400 --> 00:56:12,400
+Pra você...
+
+1343
+00:56:12,400 --> 00:56:14,400
+Mas vocês agora apertem mais um passo.
+
+1344
+00:56:14,400 --> 00:56:15,400
+É...
+
+1345
+00:56:15,400 --> 00:56:18,400
+A Nini, ela não tem muita fome.
+
+1346
+00:56:18,400 --> 00:56:21,400
+O pouco que ela come, ela às vezes bota pra fora.
+
+1347
+00:56:21,400 --> 00:56:24,400
+Junto com uma gosma escura, assim.
+
+1348
+00:56:24,400 --> 00:56:26,400
+Ela tá cada vez pior.
+
+1349
+00:56:26,400 --> 00:56:30,400
+Dá pra ver nos olhos dela o amarelado tomando conta.
+
+1350
+00:56:30,400 --> 00:56:33,400
+Ela tem se coçado bastante, tem mais feridas.
+
+1351
+00:56:33,400 --> 00:56:35,400
+Pelo corpo dela.
+
+1352
+00:56:35,400 --> 00:56:36,400
+Assim...
+
+1353
+00:56:36,400 --> 00:56:37,400
+Nada bom.
+
+1354
+00:56:37,400 --> 00:56:38,400
+Mas...
+
+1355
+00:56:38,400 --> 00:56:41,400
+Vocês ao longe já conseguem ver a...
+
+1356
+00:56:41,400 --> 00:56:43,400
+Aquela primeira...
+
+1357
+00:56:43,400 --> 00:56:46,400
+Tem as construções em volta da murada, né?
+
+1358
+00:56:46,400 --> 00:56:50,400
+Tem a cidade fora dos muros, que é onde mora o povão.
+
+1359
+00:56:50,400 --> 00:56:53,400
+Onde até tem a taberna onde vocês encontraram lá o...
+
+1360
+00:56:53,400 --> 00:56:56,400
+O general foi negociar com vocês.
+
+1361
+00:56:56,400 --> 00:56:59,400
+Tem daí os muros que protegem os nobres e o castelo, né?
+
+1362
+00:56:59,400 --> 00:57:01,400
+Vocês estão indo pra onde?
+
+1363
+00:57:01,400 --> 00:57:02,400
+O general provavelmente espera.
+
+1364
+00:57:02,400 --> 00:57:05,400
+O general provavelmente espera vocês na taberna.
+
+1365
+00:57:05,400 --> 00:57:08,400
+Aquele alvo vocês não chegaram a combinar exatamente onde era.
+
+1366
+00:57:08,400 --> 00:57:10,400
+Talvez a taberna também.
+
+1367
+00:57:10,400 --> 00:57:12,400
+Quem vocês estão procurando ali, ativamente?
+
+1368
+00:57:12,400 --> 00:57:14,400
+Eu fiz uma promessa, né?
+
+1369
+00:57:14,400 --> 00:57:15,400
+Pro Celigor.
+
+1370
+00:57:15,400 --> 00:57:18,400
+Que eu ia voltar e falar com ele primeiro.
+
+1371
+00:57:18,400 --> 00:57:20,400
+Então a hora que eu vi a cidade...
+
+1372
+00:57:20,400 --> 00:57:22,400
+Eu só falo com a Ayla e com a Nini.
+
+1373
+00:57:22,400 --> 00:57:23,400
+Não falo com mais ninguém.
+
+1374
+00:57:23,400 --> 00:57:24,400
+Vai chegando o Celigor.
+
+1375
+00:57:24,400 --> 00:57:25,400
+Então...
+
+1376
+00:57:25,400 --> 00:57:26,400
+Já vou chegar pra Ayla e falar.
+
+1377
+00:57:26,400 --> 00:57:28,400
+Precisamos falar com o Celigor direto.
+
+1378
+00:57:28,400 --> 00:57:30,400
+E aí dá duas uma.
+
+1379
+00:57:30,400 --> 00:57:31,400
+Eu não sou o melhor cara com as palavras.
+
+1380
+00:57:31,400 --> 00:57:33,400
+Esse país aqui.
+
+1381
+00:57:33,400 --> 00:57:34,400
+Então se...
+
+1382
+00:57:34,400 --> 00:57:36,400
+Eu acho melhor você falar com ele.
+
+1383
+00:57:36,400 --> 00:57:38,400
+E de alguma forma convencer ele a vir aqui.
+
+1384
+00:57:38,400 --> 00:57:40,400
+Sem contar pra ele o que que tá rolando.
+
+1385
+00:57:40,400 --> 00:57:42,400
+Pra ele ser pego de surpresa.
+
+1386
+00:57:42,400 --> 00:57:44,400
+Se ele já souber que tá todo mundo...
+
+1387
+00:57:44,400 --> 00:57:46,400
+Vazando trufado de dentro do pescoço.
+
+1388
+00:57:46,400 --> 00:57:48,400
+Vai dar ruim pra nós também.
+
+1389
+00:57:48,400 --> 00:57:49,400
+É, bom...
+
+1390
+00:57:49,400 --> 00:57:51,400
+Também acho que a gente tem que falar com ele primeiro.
+
+1391
+00:57:51,400 --> 00:57:52,400
+É...
+
+1392
+00:57:52,400 --> 00:57:54,400
+Vocês podem esperar aqui ou...
+
+1393
+00:57:54,400 --> 00:57:56,400
+Eu vou na taberna pra tentar encontrar ele.
+
+1394
+00:57:56,400 --> 00:57:57,400
+Fora da cidade?
+
+1395
+00:57:57,400 --> 00:57:59,400
+É, vamos esperar fora.
+
+1396
+00:57:59,400 --> 00:58:00,400
+E aí eu fico cuidando das...
+
+1397
+00:58:00,400 --> 00:58:02,400
+Das duas ali.
+
+1398
+00:58:02,400 --> 00:58:03,400
+Enquanto...
+
+1399
+00:58:03,400 --> 00:58:05,400
+A Ayla vai lá convencer os caras.
+
+1400
+00:58:05,400 --> 00:58:06,400
+Aproveitando o momento, né?
+
+1401
+00:58:06,400 --> 00:58:07,400
+Ô...
+
+1402
+00:58:07,400 --> 00:58:08,400
+Ô Sergião.
+
+1403
+00:58:08,400 --> 00:58:09,400
+É...
+
+1404
+00:58:09,400 --> 00:58:11,400
+Se esse negócio desandar aqui com...
+
+1405
+00:58:11,400 --> 00:58:12,400
+Né?
+
+1406
+00:58:12,400 --> 00:58:13,400
+Enfim...
+
+1407
+00:58:13,400 --> 00:58:14,400
+Se eu virar um chocotone de verdade...
+
+1408
+00:58:14,400 --> 00:58:15,400
+Eu...
+
+1409
+00:58:15,400 --> 00:58:16,400
+Eu...
+
+1410
+00:58:16,400 --> 00:58:17,400
+Eu queria que...
+
+1411
+00:58:17,400 --> 00:58:18,400
+Que vocês ficassem com a minha espada.
+
+1412
+00:58:18,400 --> 00:58:19,400
+A espada da minha família.
+
+1413
+00:58:19,400 --> 00:58:22,400
+Apesar de eu não gostar disso em vida.
+
+1414
+00:58:22,400 --> 00:58:23,400
+Se vocês puderem...
+
+1415
+00:58:23,400 --> 00:58:25,400
+Acender uma pira.
+
+1416
+00:58:25,400 --> 00:58:26,400
+Com a espada.
+
+1417
+00:58:26,400 --> 00:58:27,400
+E fazer desse um...
+
+1418
+00:58:27,400 --> 00:58:28,400
+Um...
+
+1419
+00:58:28,400 --> 00:58:29,400
+Um...
+
+1420
+00:58:29,400 --> 00:58:30,400
+Falando de alguém...
+
+1421
+00:58:30,400 --> 00:58:31,400
+Alguém que...
+
+1422
+00:58:31,400 --> 00:58:32,400
+Ficaria...
+
+1423
+00:58:32,400 --> 00:58:33,400
+Muito honrado.
+
+1424
+00:58:33,400 --> 00:58:34,400
+Não, pode contar comigo.
+
+1425
+00:58:34,400 --> 00:58:35,400
+Pode contar comigo.
+
+1426
+00:58:35,400 --> 00:58:36,400
+Eu...
+
+1427
+00:58:36,400 --> 00:58:37,400
+Tô claramente mentindo porque...
+
+1428
+00:58:37,400 --> 00:58:38,400
+Eu...
+
+1429
+00:58:38,400 --> 00:58:39,400
+Não vou lembrar dessa informação daqui...
+
+1430
+00:58:39,400 --> 00:58:40,400
+10 minutos.
+
+1431
+00:58:40,400 --> 00:58:41,400
+Mas tá tudo bem.
+
+1432
+00:58:41,400 --> 00:58:42,400
+Prometi.
+
+1433
+00:58:42,400 --> 00:58:43,400
+Uma promessa vazia...
+
+1434
+00:58:43,400 --> 00:58:45,840
+Como todas as que eu já fiz na vida, tá ótimo!
+
+1435
+00:58:45,840 --> 00:58:47,360
+A Nini tá aliviada.
+
+1436
+00:58:47,360 --> 00:58:49,580
+Promessas estão sendo feitas...
+
+1437
+00:58:49,580 --> 00:58:49,720
+Vazias como a maioria das promessas...
+
+1438
+00:58:49,720 --> 00:58:50,720
+A Ayla...
+
+1439
+00:58:50,720 --> 00:58:51,720
+Ela, ela...
+
+1440
+00:58:51,720 --> 00:58:52,720
+Dá uma...
+
+1441
+00:58:52,720 --> 00:58:55,400
+Ela vai ali pela cidade...
+
+1442
+00:58:55,400 --> 00:58:56,400
+Vai, vai pela...
+
+1443
+00:58:56,400 --> 00:58:57,400
+Pela taberna...
+
+1444
+00:58:57,400 --> 00:58:58,400
+E...
+
+1445
+00:58:58,400 --> 00:59:00,660
+Aquele elfo, assim, sentado numa mesa.
+
+1446
+00:59:01,200 --> 00:59:05,460
+Tem o Orc que trabalha para ele, em pé, do lado dele, né?
+
+1447
+00:59:05,500 --> 00:59:07,140
+Ele abre um sorriso para você.
+
+1448
+00:59:07,440 --> 00:59:08,700
+Ah, bem-vindo, mana.
+
+1449
+00:59:09,120 --> 00:59:11,540
+Seus amigos te abandonaram ou morreram no caminho?
+
+1450
+00:59:11,640 --> 00:59:13,100
+Ela tá com a cara fechada, assim.
+
+1451
+00:59:13,400 --> 00:59:16,760
+Ela só põe a garrafa de vinho em cima da mesa.
+
+1452
+00:59:17,380 --> 00:59:18,300
+A gente precisa conversar.
+
+1453
+00:59:18,640 --> 00:59:20,120
+É, os outros morreram, então.
+
+1454
+00:59:20,720 --> 00:59:21,120
+Sente-se.
+
+1455
+00:59:21,500 --> 00:59:22,660
+Sobre o que precisamos conversar?
+
+1456
+00:59:22,660 --> 00:59:25,080
+Bom, acho que a gente tem que conversar num outro lugar.
+
+1457
+00:59:25,460 --> 00:59:27,660
+Aqui no meio de todo mundo, eu não sei se seria a melhor situação.
+
+1458
+00:59:28,400 --> 00:59:29,600
+Tudo bem.
+
+1459
+00:59:29,820 --> 00:59:32,240
+Ele levanta e vai andando.
+
+1460
+00:59:32,360 --> 00:59:35,620
+Atrás dele vai seguindo aquele Orc gigantesco com o casaco.
+
+1461
+00:59:35,740 --> 00:59:38,740
+Eu não sei o quão longe a gente tinha parado lá,
+
+1462
+00:59:38,880 --> 00:59:41,580
+mas ela quer ir andando para ver se ele segue ela.
+
+1463
+00:59:41,780 --> 00:59:43,180
+Ele tá indo. Os dois estão seguindo.
+
+1464
+00:59:43,380 --> 00:59:47,140
+Beleza, então ela vai até onde eles estavam lá, pelo lado de fora.
+
+1465
+00:59:47,160 --> 00:59:49,020
+Você já não quer ir me adiantando o assunto?
+
+1466
+00:59:49,480 --> 00:59:53,380
+Acho que você já sabe o que eu tenho para dizer sobre qual assunto.
+
+1467
+00:59:53,420 --> 00:59:57,240
+Sim, e posso pagar muito bem para o assunto ficar esquecido.
+
+1468
+00:59:57,240 --> 00:59:58,240
+Na verdade, eu quero que esse assunto...
+
+1469
+00:59:58,400 --> 00:59:59,520
+Seja resolvido.
+
+1470
+00:59:59,960 --> 01:00:00,800
+Como resolvido?
+
+1471
+01:00:01,440 --> 01:00:04,180
+A guerra não foi criada pelos Elfos. Ela foi criada pelos Orcs.
+
+1472
+01:00:04,320 --> 01:00:07,040
+Essa doença... Ela tem cara de ser mágica.
+
+1473
+01:00:07,460 --> 01:00:08,800
+Isso não é coisa de Orc.
+
+1474
+01:00:08,960 --> 01:00:09,720
+Rola dois dados.
+
+1475
+01:00:11,240 --> 01:00:13,100
+Hum, eu tirei dois e dois.
+
+1476
+01:00:13,500 --> 01:00:15,880
+Ele faz uma cara assim, meio fechada.
+
+1477
+01:00:16,140 --> 01:00:18,260
+Ele parece saber da doença, mas ele não fala nada.
+
+1478
+01:00:18,700 --> 01:00:18,980
+Tá.
+
+1479
+01:00:18,980 --> 01:00:25,160
+E aí eu quero chegar com ele ali onde estão a Nini e o Sergion.
+
+1480
+01:00:25,380 --> 01:00:28,140
+Ele chega junto com o servo dele.
+
+1481
+01:00:28,400 --> 01:00:30,280
+Ele olha para os dois?
+
+1482
+01:00:30,480 --> 01:00:31,980
+Ah, então não morreram.
+
+1483
+01:00:32,420 --> 01:00:33,940
+Ele olha para a Nini?
+
+1484
+01:00:34,060 --> 01:00:36,960
+Ou quase isso. Você está bem doente, minha querida.
+
+1485
+01:00:37,080 --> 01:00:41,000
+E você não tem nenhuma responsabilidade sobre isso?
+
+1486
+01:00:41,500 --> 01:00:44,460
+Não, sobre isso não. Por que eu teria?
+
+1487
+01:00:44,920 --> 01:00:50,260
+Por que você teria? A gente viu as armas que você deu para todo mundo lá no acampamento.
+
+1488
+01:00:50,680 --> 01:00:53,880
+A gente viu o vinho que você deu que também estava lá no acampamento.
+
+1489
+01:00:54,260 --> 01:00:56,500
+Eu estou toda gosmenta por causa de você.
+
+1490
+01:00:56,500 --> 01:00:56,560
+É.
+
+1491
+01:00:56,900 --> 01:00:58,340
+Olha, talvez...
+
+1492
+01:00:58,400 --> 01:01:01,100
+Não estou dizendo que é isso, mas talvez...
+
+1493
+01:01:01,100 --> 01:01:05,600
+Se os dois reinos entrassem em paz, para mim, que sou um negociante de armas,
+
+1494
+01:01:06,460 --> 01:01:08,080
+digamos que não seria uma boa ideia.
+
+1495
+01:01:08,660 --> 01:01:12,340
+E talvez eu tenha interceptado a tal princesa. Talvez.
+
+1496
+01:01:13,100 --> 01:01:15,220
+Mas eu não tenho nada a ver com essa gosma.
+
+1497
+01:01:15,460 --> 01:01:17,000
+Ele está coçando assim o queixo.
+
+1498
+01:01:17,280 --> 01:01:18,500
+Cerebrão, deixa eu te falar um negócio.
+
+1499
+01:01:18,860 --> 01:01:20,540
+Vou chegar perto do Orc dele.
+
+1500
+01:01:20,860 --> 01:01:23,300
+Não vou encostar no cara, que eu não quero desrespeitar, né?
+
+1501
+01:01:23,300 --> 01:01:24,160
+Mas eu vou falar.
+
+1502
+01:01:24,760 --> 01:01:26,520
+A gente está só na boa aqui.
+
+1503
+01:01:26,880 --> 01:01:28,260
+Tentando fazer nosso trabalho.
+
+1504
+01:01:28,400 --> 01:01:31,400
+E assim, eu não quero nem salvar a princesa.
+
+1505
+01:01:32,340 --> 01:01:33,320
+Princesa, tanto faz.
+
+1506
+01:01:33,440 --> 01:01:34,460
+A princesa está viva?
+
+1507
+01:01:34,860 --> 01:01:36,000
+Eu não quero nem saber.
+
+1508
+01:01:37,820 --> 01:01:38,960
+Ela está aqui, ó.
+
+1509
+01:01:39,260 --> 01:01:40,020
+Ela é isso aqui.
+
+1510
+01:01:40,140 --> 01:01:41,360
+Vou apontar para a princesa ali.
+
+1511
+01:01:41,360 --> 01:01:42,220
+Por gasparzinho, né?
+
+1512
+01:01:42,260 --> 01:01:43,400
+Por lençol ali.
+
+1513
+01:01:44,240 --> 01:01:44,680
+Lençol.
+
+1514
+01:01:45,100 --> 01:01:45,380
+Olha lá.
+
+1515
+01:01:46,140 --> 01:01:48,680
+Eu digo que aquilo ali também tem meus mistérios.
+
+1516
+01:01:48,740 --> 01:01:49,980
+Também não vou deixar você mexer.
+
+1517
+01:01:50,580 --> 01:01:51,080
+Mas está ali.
+
+1518
+01:01:51,520 --> 01:01:54,660
+Tem alguma coisa que a gente poderia fazer para, pelo menos, ajudar a Nini?
+
+1519
+01:01:55,340 --> 01:01:58,200
+Se for, eu dou a princesa como garantia.
+
+1520
+01:01:58,200 --> 01:01:59,540
+Você pode fazer o que você quiser com ela.
+
+1521
+01:01:59,640 --> 01:02:00,120
+Não tem problema.
+
+1522
+01:02:00,580 --> 01:02:01,800
+Ele coça o queixo.
+
+1523
+01:02:01,900 --> 01:02:04,240
+Ele dá uma olhada, assim, perto da Nini.
+
+1524
+01:02:04,480 --> 01:02:07,140
+Ele tira uma agulha muito longa, assim.
+
+1525
+01:02:07,660 --> 01:02:08,200
+Ele impede...
+
+1526
+01:02:09,320 --> 01:02:10,080
+Com licença.
+
+1527
+01:02:10,180 --> 01:02:13,680
+Ele encosta, assim, um pouco na gosma que está saindo do teu pescoço.
+
+1528
+01:02:13,760 --> 01:02:14,500
+Ele dá uma olhada.
+
+1529
+01:02:14,600 --> 01:02:16,600
+Onde foi que você pegou isso, hein?
+
+1530
+01:02:16,700 --> 01:02:17,780
+Ele está perto de mim ainda?
+
+1531
+01:02:18,000 --> 01:02:18,140
+Tá.
+
+1532
+01:02:18,340 --> 01:02:19,380
+Ele mexeu no meu pescoço, né?
+
+1533
+01:02:19,460 --> 01:02:19,700
+Sim.
+
+1534
+01:02:20,120 --> 01:02:21,140
+Eu quero morder a mão dele.
+
+1535
+01:02:23,640 --> 01:02:24,280
+Dois dados.
+
+1536
+01:02:24,400 --> 01:02:24,820
+É um ataque.
+
+1537
+01:02:25,000 --> 01:02:25,260
+Vai lá.
+
+1538
+01:02:26,600 --> 01:02:27,260
+Com força.
+
+1539
+01:02:27,260 --> 01:02:27,740
+Aê!
+
+1540
+01:02:28,200 --> 01:02:28,960
+Muito bom.
+
+1541
+01:02:29,640 --> 01:02:30,360
+Rapaz do céu.
+
+1542
+01:02:30,420 --> 01:02:31,440
+Vai arrancar a mão dele fora.
+
+1543
+01:02:32,380 --> 01:02:35,460
+Eu tirei 4 e 4, que é o meu atributo.
+
+1544
+01:02:35,820 --> 01:02:36,460
+É crítico.
+
+1545
+01:02:36,540 --> 01:02:39,960
+Tu me descreve, assim, o que aconteceu em todos os detalhes.
+
+1546
+01:02:40,120 --> 01:02:40,400
+Vamos lá.
+
+1547
+01:02:40,900 --> 01:02:44,900
+Então, ele estava com a mão ali futucando meus machucados.
+
+1548
+01:02:45,320 --> 01:02:45,700
+Aham.
+
+1549
+01:02:46,180 --> 01:02:48,100
+Eu pensei, se ele não...
+
+1550
+01:02:48,100 --> 01:02:49,660
+Ele vai me ajudar por bem ou por mal.
+
+1551
+01:02:49,960 --> 01:02:56,760
+Eu quero morder e o anelar e o dedo médio dele não existem mais na mão dele.
+
+1552
+01:02:57,160 --> 01:02:58,120
+Puxei com tudo.
+
+1553
+01:02:58,960 --> 01:02:59,240
+Ok.
+
+1554
+01:02:59,360 --> 01:03:00,160
+São dois críticos.
+
+1555
+01:03:00,300 --> 01:03:01,800
+Quem sou eu para e contra isso?
+
+1556
+01:03:02,120 --> 01:03:03,900
+O servo dele dá um passo à frente.
+
+1557
+01:03:04,000 --> 01:03:06,340
+Estava encostado ali do Serjão, né?
+
+1558
+01:03:06,980 --> 01:03:09,020
+O servo está indo para cima da tua amiga.
+
+1559
+01:03:09,160 --> 01:03:09,800
+Você vai fazer alguma coisa?
+
+1560
+01:03:09,820 --> 01:03:12,360
+Eu vou tentar dar um golpe na nuca dele.
+
+1561
+01:03:12,420 --> 01:03:15,120
+Eu posso dar com o porrete na nuca dele?
+
+1562
+01:03:15,240 --> 01:03:15,800
+Dois dados.
+
+1563
+01:03:17,240 --> 01:03:18,480
+Cinco, que é meu atributo.
+
+1564
+01:03:18,620 --> 01:03:19,020
+Três.
+
+1565
+01:03:20,040 --> 01:03:22,280
+Me descreve como tu derrubou esse cara.
+
+1566
+01:03:22,280 --> 01:03:27,000
+Cara, eu só ergui o porrete e dei na nuca dele, meio que na diagonal.
+
+1567
+01:03:27,160 --> 01:03:28,180
+Desci o negócio.
+
+1568
+01:03:28,200 --> 01:03:30,840
+E minha intenção é desacordar o cara.
+
+1569
+01:03:31,140 --> 01:03:31,840
+O servo, né?
+
+1570
+01:03:31,840 --> 01:03:37,180
+Porque eu quero que o Celibron fique sozinho, sem a segurança dele.
+
+1571
+01:03:37,300 --> 01:03:40,820
+Ele cai sentindo o barulho das armas.
+
+1572
+01:03:42,140 --> 01:03:48,000
+O elfo coloca a mão nos dedos, sentindo a dor ali.
+
+1573
+01:03:48,500 --> 01:03:49,660
+Ele olha para o sangue dele.
+
+1574
+01:03:49,780 --> 01:03:53,100
+Ainda está vermelho, mas ele parece já saber o que espera.
+
+1575
+01:03:53,200 --> 01:03:54,760
+Ele pressiona o ferimento.
+
+1576
+01:03:55,060 --> 01:03:57,080
+Ele olha para o servo dele, olha para vocês.
+
+1577
+01:03:57,080 --> 01:03:57,960
+Ainda...
+
+1578
+01:03:57,960 --> 01:04:00,260
+Podemos negociar.
+
+1579
+01:04:01,680 --> 01:04:04,400
+Essa doença, você pegou do grupo que estava vindo para cá?
+
+1580
+01:04:04,960 --> 01:04:06,500
+Eu... eu... eu não sei.
+
+1581
+01:04:07,400 --> 01:04:11,540
+A gente mexeu no murso e espirrou sangue para tudo quanto é lado.
+
+1582
+01:04:11,900 --> 01:04:13,240
+A verdade é que foi meio burro, né?
+
+1583
+01:04:13,240 --> 01:04:15,340
+Porque ela estava cheia de sangue, mas ela se arranhou.
+
+1584
+01:04:15,720 --> 01:04:17,120
+Eu vou falar, vou contar para o cara.
+
+1585
+01:04:17,360 --> 01:04:18,240
+Foi culpa dela.
+
+1586
+01:04:18,240 --> 01:04:21,920
+Só para ele saber que tem mais alguém burro aqui que eu não sou o único.
+
+1587
+01:04:22,440 --> 01:04:25,520
+E aquele embrulho de vocês e a princesa, certo?
+
+1588
+01:04:26,440 --> 01:04:27,240
+Ela está doente?
+
+1589
+01:04:27,240 --> 01:04:29,340
+O que você acha? Ela está 10? Dá uma olhada ali.
+
+1590
+01:04:29,400 --> 01:04:32,600
+Ela está se balançando igual um Gasparzinho em cima do cavalo.
+
+1591
+01:04:32,680 --> 01:04:34,560
+Ela vai comer os outros dedos que me restaram?
+
+1592
+01:04:35,160 --> 01:04:37,340
+Depende, você foi um garoto muito, muito malvado?
+
+1593
+01:04:37,720 --> 01:04:39,700
+Eu estou achando esse papo meio esquisito aí.
+
+1594
+01:04:40,260 --> 01:04:42,740
+Bem, se me perguntarem o que acho que aconteceu.
+
+1595
+01:04:43,500 --> 01:04:48,140
+O reino daqui achou que estava vindo uma princesa para fechar um pacto de não agressão.
+
+1596
+01:04:48,980 --> 01:04:53,940
+Eu acreditei nesse boato e paguei um grupo para interceptar a princesa e impedi-la de chegar aqui.
+
+1597
+01:04:53,940 --> 01:04:57,220
+O que estou vendo que aconteceu é que a princesa estava contaminada.
+
+1598
+01:04:57,560 --> 01:05:00,360
+Sei que eu estou errado, mas o outro reino está mais errado ainda.
+
+1599
+01:05:00,800 --> 01:05:02,320
+Mandaram uma doença contagiosa para cá.
+
+1600
+01:05:02,680 --> 01:05:04,980
+E eu acho que todo mundo pode sair ganhando aqui.
+
+1601
+01:05:05,280 --> 01:05:06,720
+Eu conheço a cura para doença.
+
+1602
+01:05:06,940 --> 01:05:09,640
+Por isso que eu estou relativamente calmo.
+
+1603
+01:05:09,880 --> 01:05:11,260
+Sem dedo e calmo.
+
+1604
+01:05:12,280 --> 01:05:13,500
+Eu posso curar a amiga de vocês.
+
+1605
+01:05:13,920 --> 01:05:16,920
+Tenho acesso a magias que vão resolver essas questões bem facilmente.
+
+1606
+01:05:17,740 --> 01:05:19,420
+Tenho pessoas que me devem favores, sabe?
+
+1607
+01:05:20,280 --> 01:05:21,460
+O que preciso é o seguinte.
+
+1608
+01:05:22,020 --> 01:05:24,540
+Preciso que vocês entreguem a princesa doente para o general.
+
+1609
+01:05:24,540 --> 01:05:26,840
+Que piorem essa guerra.
+
+1610
+01:05:27,240 --> 01:05:29,980
+E depois disso, dinheiros, armas, terras.
+
+1611
+01:05:30,800 --> 01:05:32,640
+Isso não será mais problema para vocês.
+
+1612
+01:05:33,220 --> 01:05:35,980
+Além, é claro, que eu curo a amiga de vocês no processo.
+
+1613
+01:05:36,100 --> 01:05:40,120
+Eu consigo falar com a Ayla meio que na maciota sem ele saber o que eu estou falando para ela ou não?
+
+1614
+01:05:40,460 --> 01:05:43,660
+Você pode se afastar um pouco, né? Ele está sem o guarda dele.
+
+1615
+01:05:44,220 --> 01:05:44,920
+É, então.
+
+1616
+01:05:45,300 --> 01:05:46,500
+Eu quero falar para ela e falar assim, Ayla.
+
+1617
+01:05:46,860 --> 01:05:48,900
+Eu tenho uma sugestão para a gente resolver isso.
+
+1618
+01:05:49,500 --> 01:05:51,740
+Não é a sugestão mais limpa do mundo.
+
+1619
+01:05:51,740 --> 01:05:56,120
+A minha sugestão é a gente termina de matar aqui o servo dele.
+
+1620
+01:05:56,120 --> 01:06:00,500
+Eu dou uma porretada na nuca dele no chão e é um problema a menos.
+
+1621
+01:06:00,960 --> 01:06:04,100
+E a gente faz ele curar a Anini primeiro.
+
+1622
+01:06:04,520 --> 01:06:09,240
+Se ele curou a Anini e provar para a gente que curou, aí a gente pode tentar o jeito dele.
+
+1623
+01:06:09,640 --> 01:06:15,020
+Se ele não conseguir fazer isso, aí a gente taca fogo na Anini também daqui a uns dias e está sossegado.
+
+1624
+01:06:15,100 --> 01:06:16,000
+Está tudo resolvido também.
+
+1625
+01:06:16,480 --> 01:06:17,160
+Para a gente, né?
+
+1626
+01:06:17,640 --> 01:06:18,400
+Para mim e para a Ayla.
+
+1627
+01:06:19,040 --> 01:06:21,580
+Ayla, por favor, reaja a esse plano.
+
+1628
+01:06:22,580 --> 01:06:24,600
+Não, mas ele não vai querer curá-la antes.
+
+1629
+01:06:24,600 --> 01:06:25,600
+Eu acho que a princesa...
+
+1630
+01:06:26,120 --> 01:06:27,020
+É a garantia dele.
+
+1631
+01:06:27,380 --> 01:06:28,060
+É, então.
+
+1632
+01:06:29,720 --> 01:06:30,660
+Ele convenceu.
+
+1633
+01:06:31,500 --> 01:06:35,620
+É que eu queria muito matar o servo no chão e terminar o serviço que eu comecei, mas eu posso esperar.
+
+1634
+01:06:36,380 --> 01:06:36,740
+Gratuitamente.
+
+1635
+01:06:36,880 --> 01:06:37,880
+Tá, a sua vontade.
+
+1636
+01:06:38,200 --> 01:06:38,620
+Tá tudo bem.
+
+1637
+01:06:38,900 --> 01:06:43,420
+Eu vou lá puxar o capuz da princesa como se fosse um inimigo do Scooby-Doo e mostrar para ele que é a princesa.
+
+1638
+01:06:43,740 --> 01:06:46,480
+Ele não parece surpreso depois de tudo que ele viu, né?
+
+1639
+01:06:46,900 --> 01:06:51,320
+Ele está só muito incomodado com os dedos que já estão ficando escuros ali durante o tempo.
+
+1640
+01:06:51,920 --> 01:06:54,700
+Então, vamos prosseguir com o trabalho de vocês.
+
+1641
+01:06:55,320 --> 01:06:56,100
+Levem a princesa.
+
+1642
+01:06:56,120 --> 01:06:57,700
+E avisem que ela está contaminada.
+
+1643
+01:06:58,160 --> 01:07:07,760
+Antes de mais nada, deixa eu só saquear o servo dele para ver se tem alguma coisa dele de interessante que eu possa usar de arma e que seja melhor do que eu tenho.
+
+1644
+01:07:07,880 --> 01:07:08,700
+Tem muitas armas.
+
+1645
+01:07:09,180 --> 01:07:10,600
+O quanto eu consigo carregar.
+
+1646
+01:07:11,400 --> 01:07:12,500
+É bem forte, assim.
+
+1647
+01:07:12,640 --> 01:07:13,380
+Ele é um orc.
+
+1648
+01:07:13,840 --> 01:07:16,420
+Se tu pegar o casaco dele, tu leva tudo, inclusive.
+
+1649
+01:07:16,540 --> 01:07:20,580
+Então, eu vou usar o casaco dele e falar, só vou levar isso aqui comigo.
+
+1650
+01:07:21,260 --> 01:07:22,660
+Não que eu não confie em você.
+
+1651
+01:07:23,260 --> 01:07:23,960
+Confio nele.
+
+1652
+01:07:23,960 --> 01:07:25,920
+O senhor vai esperar aqui com quem?
+
+1653
+01:07:26,120 --> 01:07:28,740
+Enquanto a gente entrega a princesa.
+
+1654
+01:07:28,920 --> 01:07:32,640
+A gente precisa de uma garantia de que a sua cura vai funcionar.
+
+1655
+01:07:33,020 --> 01:07:36,600
+Eu também preciso dela ou estarei tão mal quanto a amiga de vocês.
+
+1656
+01:07:36,780 --> 01:07:40,380
+E se formos todos levar a princesa?
+
+1657
+01:07:40,840 --> 01:07:42,580
+Você fica aqui agarradinho comigo.
+
+1658
+01:07:42,960 --> 01:07:44,080
+Estamos doentes mesmo?
+
+1659
+01:07:44,340 --> 01:07:46,920
+Eu chegar lá com vocês vai estar bem na cara, né?
+
+1660
+01:07:47,640 --> 01:07:50,080
+Então, eu fico aqui com você e os outros dois levam ela.
+
+1661
+01:07:50,300 --> 01:07:51,460
+Não estou gostando não, hein?
+
+1662
+01:07:53,460 --> 01:07:55,180
+Porque o servo dele está no chão.
+
+1663
+01:07:55,260 --> 01:07:55,460
+Mesmo desarmado.
+
+1664
+01:07:56,120 --> 01:07:57,080
+É dois contra um, entendeu?
+
+1665
+01:07:57,520 --> 01:07:59,560
+Você vai saber como é que a Nini vai estar daqui a 15 minutos.
+
+1666
+01:07:59,660 --> 01:08:01,080
+Bom, a gente pode ir...
+
+1667
+01:08:01,080 --> 01:08:03,520
+Quando o machucado servo dele está, qualquer coisa, a gente leva.
+
+1668
+01:08:04,120 --> 01:08:06,080
+Pera aí, tem bastante corda aqui, né?
+
+1669
+01:08:06,100 --> 01:08:07,200
+Tem bastante corda aqui.
+
+1670
+01:08:08,320 --> 01:08:12,500
+Então, a gente pode fazer o seguinte, Cerebelo.
+
+1671
+01:08:12,540 --> 01:08:18,000
+Já que você está na boa vontade toda, se a gente amarrar você de frente para o seu servo,
+
+1672
+01:08:18,080 --> 01:08:21,200
+vocês ficam deitadinhos um em cima do outro, está tudo resolvido.
+
+1673
+01:08:21,200 --> 01:08:24,400
+A gente volta, vocês estão aqui, amarradinhos um no outro.
+
+1674
+01:08:24,680 --> 01:08:25,960
+É, eu acho que vocês ainda não...
+
+1675
+01:08:25,960 --> 01:08:26,640
+Perceberam, não é?
+
+1676
+01:08:26,760 --> 01:08:27,960
+Ele aponta para cima.
+
+1677
+01:08:29,140 --> 01:08:29,980
+Será que é azul?
+
+1678
+01:08:30,420 --> 01:08:30,880
+O que está acontecendo?
+
+1679
+01:08:31,360 --> 01:08:31,920
+Que medo.
+
+1680
+01:08:32,360 --> 01:08:38,480
+Os telhados ali próximo das construções têm vários elfos com arcos na mão apontando para vocês.
+
+1681
+01:08:38,680 --> 01:08:38,960
+Eu sei.
+
+1682
+01:08:40,060 --> 01:08:41,380
+Não estou ameaçando vocês.
+
+1683
+01:08:42,080 --> 01:08:45,300
+Estou apenas informando que me amarrar é um pouquinho de exagero.
+
+1684
+01:08:45,840 --> 01:08:48,940
+Eu fico aqui com ele, eu fico aqui com ele e está tudo certo.
+
+1685
+01:08:48,940 --> 01:08:55,540
+Mas eu quero dar um abraço de, talvez, despedida nos meus companheiros de sempre.
+
+1686
+01:08:55,720 --> 01:08:55,940
+Ok.
+
+1687
+01:08:55,960 --> 01:08:57,260
+Farei remédio para todos, então.
+
+1688
+01:08:57,860 --> 01:08:58,700
+Não, eu vou...
+
+1689
+01:08:58,700 --> 01:09:00,300
+Bom, eu quero chegar perto da Ayla.
+
+1690
+01:09:01,320 --> 01:09:03,340
+Sem encostar.
+
+1691
+01:09:03,440 --> 01:09:04,800
+Não, calma, eu não vou morder ninguém.
+
+1692
+01:09:05,020 --> 01:09:05,960
+Calma aí, acabou.
+
+1693
+01:09:06,760 --> 01:09:07,160
+Acabou.
+
+1694
+01:09:07,260 --> 01:09:09,080
+Minha boca já está suja, já é suficiente.
+
+1695
+01:09:09,400 --> 01:09:10,420
+Eu quero cochichar para ela.
+
+1696
+01:09:10,560 --> 01:09:12,420
+Ayla, eu já não tenho futuro aqui.
+
+1697
+01:09:12,800 --> 01:09:14,820
+E essa guerra já está durando há muito tempo.
+
+1698
+01:09:15,240 --> 01:09:16,640
+Por causa desse desgraçado.
+
+1699
+01:09:17,160 --> 01:09:19,680
+Então, conta a verdade.
+
+1700
+01:09:20,320 --> 01:09:21,760
+Conta que é ele que está fazendo isso.
+
+1701
+01:09:21,760 --> 01:09:25,660
+Eu posso depor, se for necessário, para contar essa história.
+
+1702
+01:09:25,660 --> 01:09:26,840
+E antes de...
+
+1703
+01:09:26,840 --> 01:09:27,940
+Enfim, você sabe.
+
+1704
+01:09:28,600 --> 01:09:29,360
+Mas não deixa...
+
+1705
+01:09:29,360 --> 01:09:30,620
+Por que a gente não pode levar a Nini?
+
+1706
+01:09:31,020 --> 01:09:31,980
+Estou confuso aqui, hein?
+
+1707
+01:09:32,520 --> 01:09:33,440
+Desculpa aí, gente.
+
+1708
+01:09:33,540 --> 01:09:34,480
+Desculpa o ouvinte.
+
+1709
+01:09:34,740 --> 01:09:36,000
+Desculpa quebrar a quarta parede.
+
+1710
+01:09:36,340 --> 01:09:39,600
+Porque, assim, a gente era um grupo de três, entendeu?
+
+1711
+01:09:39,800 --> 01:09:43,480
+Se a gente chegar lá e entregar a princesa em dois, vamos perguntar o que aconteceu com a terceira.
+
+1712
+01:09:43,560 --> 01:09:44,640
+Então, vamos levar a Nini junto.
+
+1713
+01:09:44,780 --> 01:09:45,740
+E depois a gente volta.
+
+1714
+01:09:46,240 --> 01:09:47,140
+Depois a gente volta.
+
+1715
+01:09:47,160 --> 01:09:48,800
+Mas o cara vai estar sumindo já.
+
+1716
+01:09:48,880 --> 01:09:51,760
+É, então, qual que é a garantia que a gente tem que ele vai...
+
+1717
+01:09:51,760 --> 01:09:53,560
+Deixa aqui, se ele tentar fugir, eu...
+
+1718
+01:09:54,080 --> 01:09:54,740
+Taco a faca.
+
+1719
+01:09:54,740 --> 01:09:55,560
+Ou vai...
+
+1720
+01:09:55,560 --> 01:09:57,700
+Ah, ele é a princesa e eu fico com a Nini aqui também.
+
+1721
+01:09:57,980 --> 01:09:59,080
+Ou a gente tenta...
+
+1722
+01:09:59,080 --> 01:10:04,000
+Você que falou dessa opção de sequestro humanizado, a gente pode tentar de novo com esse cara.
+
+1723
+01:10:04,360 --> 01:10:06,760
+Porque os elfos não vão tentar matar o chefe deles.
+
+1724
+01:10:06,960 --> 01:10:07,940
+Podem tentar matar a gente.
+
+1725
+01:10:09,380 --> 01:10:10,640
+Mas eu já...
+
+1726
+01:10:10,640 --> 01:10:11,260
+Eu já...
+
+1727
+01:10:11,260 --> 01:10:12,560
+Eu já estou condenada, né?
+
+1728
+01:10:12,980 --> 01:10:13,620
+O que vocês acham?
+
+1729
+01:10:13,760 --> 01:10:15,240
+Eu não vou tomar decisão.
+
+1730
+01:10:15,360 --> 01:10:15,920
+Mais uma vez.
+
+1731
+01:10:16,600 --> 01:10:17,840
+E daí lá vai a Nini.
+
+1732
+01:10:18,400 --> 01:10:19,920
+Dessa vez eu virei de costinha.
+
+1733
+01:10:20,080 --> 01:10:20,520
+Eu não vou sentar.
+
+1734
+01:10:20,580 --> 01:10:22,360
+Só vou virar de costa e sentar de costa pra vocês.
+
+1735
+01:10:23,580 --> 01:10:25,280
+A gente está cochichando ali, né?
+
+1736
+01:10:25,560 --> 01:10:27,980
+A gente está conversando entre a gente ali, assim, né?
+
+1737
+01:10:28,200 --> 01:10:30,480
+É, o elfo, ele não está fugindo.
+
+1738
+01:10:30,920 --> 01:10:32,640
+Ele não se aproximou de vocês.
+
+1739
+01:10:33,080 --> 01:10:34,580
+Ele está um pouco mais afastado, esperando.
+
+1740
+01:10:35,000 --> 01:10:35,960
+Ele é um homem paciente.
+
+1741
+01:10:36,800 --> 01:10:37,800
+Eu falo...
+
+1742
+01:10:37,800 --> 01:10:41,080
+O que a gente pode fazer é levar a princesa.
+
+1743
+01:10:41,860 --> 01:10:47,980
+Depois que a gente conseguir a cura pra Nini, a gente tenta levar a cura pra ela também.
+
+1744
+01:10:48,660 --> 01:10:50,860
+E a gente tenta dar um jeito nesse cara depois.
+
+1745
+01:10:51,300 --> 01:10:53,240
+Mas eu quero que vocês contem.
+
+1746
+01:10:53,440 --> 01:10:54,920
+Eu acho que a gente tem que acabar com a guerra.
+
+1747
+01:10:54,920 --> 01:10:55,400
+Tá?
+
+1748
+01:10:55,560 --> 01:10:56,660
+Duzentos anos nessa...
+
+1749
+01:10:56,660 --> 01:10:58,060
+São duzentos anos, né?
+
+1750
+01:10:58,460 --> 01:10:59,260
+Só duzentos anos.
+
+1751
+01:10:59,500 --> 01:11:00,500
+Só duzentos anos.
+
+1752
+01:11:00,720 --> 01:11:00,740
+Só.
+
+1753
+01:11:01,060 --> 01:11:02,340
+Tem trezentos de vida, né?
+
+1754
+01:11:02,440 --> 01:11:02,600
+Pra dizer que é óbvio.
+
+1755
+01:11:02,600 --> 01:11:06,460
+São sessenta e seis por cento da minha vida esse reino esteve em guerra.
+
+1756
+01:11:06,640 --> 01:11:08,040
+Então, não sei.
+
+1757
+01:11:08,220 --> 01:11:09,300
+Eu acho que...
+
+1758
+01:11:09,300 --> 01:11:16,220
+Acho que a gente não devia ficar caindo na chantagemzinha desse desgraçado do Célegor.
+
+1759
+01:11:16,500 --> 01:11:17,980
+Falei pra matar o servo dele.
+
+1760
+01:11:18,060 --> 01:11:18,940
+Eu estava com vontade antes.
+
+1761
+01:11:19,000 --> 01:11:20,420
+Se a gente levar e contar...
+
+1762
+01:11:20,420 --> 01:11:22,280
+Assim, não foi ele que trouxe a doença.
+
+1763
+01:11:22,380 --> 01:11:23,280
+Foi o outro reino, né?
+
+1764
+01:11:23,280 --> 01:11:24,280
+E aí, eu não sei se contar...
+
+1765
+01:11:24,900 --> 01:11:25,480
+Se isso não vai...
+
+1766
+01:11:25,560 --> 01:11:27,560
+Você acredita no que ele falou?
+
+1767
+01:11:27,680 --> 01:11:28,800
+Vocês acreditam nisso?
+
+1768
+01:11:29,400 --> 01:11:30,920
+Que foi o outro reino que trouxe essa doença?
+
+1769
+01:11:30,940 --> 01:11:32,020
+E se eu fizer o seguinte, gente?
+
+1770
+01:11:32,200 --> 01:11:32,860
+E se eu fizer o seguinte?
+
+1771
+01:11:33,720 --> 01:11:35,200
+Eu for sozinho lá.
+
+1772
+01:11:35,500 --> 01:11:37,140
+E eu com toda a minha lábia e elegância.
+
+1773
+01:11:37,560 --> 01:11:39,320
+Trago a galera pra cá.
+
+1774
+01:11:39,640 --> 01:11:40,760
+O cara que contratou a gente.
+
+1775
+01:11:40,840 --> 01:11:42,680
+Fala, cara, tô com a princesa lá fora.
+
+1776
+01:11:43,120 --> 01:11:44,160
+Não dá tempo de explicar.
+
+1777
+01:11:44,420 --> 01:11:45,060
+E saio correndo.
+
+1778
+01:11:45,340 --> 01:11:45,940
+E venho pra cá.
+
+1779
+01:11:46,440 --> 01:11:48,160
+E aí, a gente explica pra todo mundo ao mesmo tempo.
+
+1780
+01:11:48,280 --> 01:11:49,280
+Pode ser humilhante mesmo.
+
+1781
+01:11:49,300 --> 01:11:51,120
+Você negociando, né?
+
+1782
+01:11:51,620 --> 01:11:52,560
+Eu não vou negociar.
+
+1783
+01:11:52,560 --> 01:11:53,640
+Eu vou entrar e gritar.
+
+1784
+01:11:53,920 --> 01:11:55,400
+E sair correndo falando que resolveu.
+
+1785
+01:11:55,400 --> 01:11:55,760
+É uma situação.
+
+1786
+01:11:56,080 --> 01:11:56,620
+E aí, pronto.
+
+1787
+01:11:56,700 --> 01:11:57,360
+Ele vem atrás.
+
+1788
+01:11:57,740 --> 01:11:58,780
+Eles vão ficar super empolgados.
+
+1789
+01:11:58,860 --> 01:11:59,460
+Super felizes.
+
+1790
+01:12:00,040 --> 01:12:00,680
+Que a gente conseguiu.
+
+1791
+01:12:01,220 --> 01:12:03,040
+Eu vou entrar fazendo festa na cidade.
+
+1792
+01:12:03,540 --> 01:12:03,940
+Conseguimos.
+
+1793
+01:12:04,020 --> 01:12:04,900
+Salvamos a princesa.
+
+1794
+01:12:04,940 --> 01:12:05,200
+Olha aqui.
+
+1795
+01:12:05,300 --> 01:12:05,680
+Vem cá ver.
+
+1796
+01:12:06,080 --> 01:12:09,480
+E aí, traz eles pra essa farra do boi que tá rolando aqui.
+
+1797
+01:12:09,760 --> 01:12:11,520
+E bota todo mundo na mesma página.
+
+1798
+01:12:12,060 --> 01:12:13,220
+Do jeito que tá, gente.
+
+1799
+01:12:13,840 --> 01:12:15,780
+Vamos ficar aqui decidindo, decidindo.
+
+1800
+01:12:16,360 --> 01:12:18,240
+Talvez seja melhor que trazer todo mundo pra mesa.
+
+1801
+01:12:18,520 --> 01:12:20,080
+É, antes que essa coceira aumente.
+
+1802
+01:12:21,340 --> 01:12:21,740
+Ayla.
+
+1803
+01:12:21,740 --> 01:12:23,800
+Pode ser a Ayla também se ela quiser fazer essa festa.
+
+1804
+01:12:23,920 --> 01:12:25,000
+Mas eu acho que eu sou mais carismático.
+
+1805
+01:12:25,400 --> 01:12:29,200
+O que você acha, Ayla, da ideia do Sérgio?
+
+1806
+01:12:30,140 --> 01:12:31,400
+Bom, é uma boa ideia.
+
+1807
+01:12:31,540 --> 01:12:34,120
+Pelo menos, eles já vão ficar sabendo.
+
+1808
+01:12:34,760 --> 01:12:36,740
+E o Sérgio vai ter que se explicar com ele.
+
+1809
+01:12:36,920 --> 01:12:37,240
+Não só com a gente.
+
+1810
+01:12:37,260 --> 01:12:37,980
+Vai lá, Sérgio.
+
+1811
+01:12:38,420 --> 01:12:43,320
+A gente enrola o Sérgio aqui.
+
+1812
+01:12:43,320 --> 01:12:45,380
+Eu não vou mais pensar duas vezes, Guaxa.
+
+1813
+01:12:45,440 --> 01:12:46,780
+Eu vou sair correndo pra dentro da cidade.
+
+1814
+01:12:46,900 --> 01:12:47,900
+Gritando que resolvemos.
+
+1815
+01:12:47,960 --> 01:12:48,880
+Que a princesa tá com a gente.
+
+1816
+01:12:49,000 --> 01:12:49,620
+A princesa chegou.
+
+1817
+01:12:49,720 --> 01:12:50,420
+A princesa chegou.
+
+1818
+01:12:50,420 --> 01:12:51,560
+E é isso aí.
+
+1819
+01:12:51,840 --> 01:12:53,800
+Vou tentar atrair a galera pra sair.
+
+1820
+01:12:54,260 --> 01:12:55,400
+Não sei que eventualmente alguém vai me ajudar.
+
+1821
+01:12:55,400 --> 01:12:56,000
+Vai me parar, né?
+
+1822
+01:12:56,020 --> 01:12:57,360
+Mas eu só vou fazer um festa.
+
+1823
+01:12:57,600 --> 01:12:58,480
+Sorrisão na cara.
+
+1824
+01:12:58,700 --> 01:12:58,880
+Tá.
+
+1825
+01:12:59,360 --> 01:13:01,000
+Sai nessa alegria.
+
+1826
+01:13:02,200 --> 01:13:02,600
+Alegria!
+
+1827
+01:13:03,320 --> 01:13:04,680
+Pela cidade ali.
+
+1828
+01:13:05,040 --> 01:13:06,300
+O pessoal olha meio estranho.
+
+1829
+01:13:06,380 --> 01:13:06,960
+Pô, princesa.
+
+1830
+01:13:07,000 --> 01:13:08,160
+Que princesa, né?
+
+1831
+01:13:08,500 --> 01:13:12,880
+Tu chega até o local onde tá o chefe do exército.
+
+1832
+01:13:13,140 --> 01:13:13,600
+O rei, né?
+
+1833
+01:13:13,600 --> 01:13:14,740
+Que foi quem contratou vocês.
+
+1834
+01:13:15,000 --> 01:13:16,720
+Ele tá lá com a armadura dele imponente.
+
+1835
+01:13:16,800 --> 01:13:18,660
+Com a espada élfica na cintura.
+
+1836
+01:13:19,100 --> 01:13:20,360
+Ele olha pra ti.
+
+1837
+01:13:20,480 --> 01:13:21,340
+Onde estou, da princesa?
+
+1838
+01:13:21,680 --> 01:13:24,040
+Eu vou pegar ele pelo ombro e vou dar um beijo no rosto dele.
+
+1839
+01:13:24,420 --> 01:13:25,220
+De alegria.
+
+1840
+01:13:25,400 --> 01:13:26,280
+Muita alegria.
+
+1841
+01:13:26,380 --> 01:13:26,860
+Beleza.
+
+1842
+01:13:27,860 --> 01:13:30,180
+Cara, ela tá na frente da cidade.
+
+1843
+01:13:30,420 --> 01:13:31,460
+Tá lá na frente.
+
+1844
+01:13:31,780 --> 01:13:32,820
+Ela tá a dez.
+
+1845
+01:13:33,440 --> 01:13:33,980
+Tá a dez.
+
+1846
+01:13:34,300 --> 01:13:36,240
+Ele faz sinal pros soldados.
+
+1847
+01:13:36,340 --> 01:13:36,780
+Comitiva.
+
+1848
+01:13:37,040 --> 01:13:38,000
+Preparem a comitiva.
+
+1849
+01:13:38,280 --> 01:13:40,840
+E eu já vou virar as suas coisas e sair correndo de volta lá pra frente.
+
+1850
+01:13:41,160 --> 01:13:42,620
+Não quero perder muito tempo lá dentro.
+
+1851
+01:13:42,900 --> 01:13:47,360
+A princípio eles não tão indo contigo, mas eles logo pegam os cavalos, que são mais rápidos.
+
+1852
+01:13:47,900 --> 01:13:51,160
+E tão te alcançando quando tu quase chega ali na entrada da cidade.
+
+1853
+01:13:52,160 --> 01:13:54,580
+Nesse meio tempo, o Elf ficou ali.
+
+1854
+01:13:54,580 --> 01:13:55,140
+É.
+
+1855
+01:13:55,400 --> 01:13:58,140
+Com as duas meninas, né?
+
+1856
+01:13:58,460 --> 01:13:59,160
+Ele fala.
+
+1857
+01:13:59,280 --> 01:14:03,920
+Assim que resolvermos, prometo remédios e tenho certeza que ainda faremos muito negócio juntos.
+
+1858
+01:14:04,100 --> 01:14:05,060
+As meninas vão sair de maré?
+
+1859
+01:14:05,460 --> 01:14:07,520
+Ah, ah, é, é.
+
+1860
+01:14:07,680 --> 01:14:08,560
+Pode ser.
+
+1861
+01:14:09,120 --> 01:14:11,440
+Há quanto tempo você trabalha nessa área?
+
+1862
+01:14:11,780 --> 01:14:13,500
+Meu pai está nesse ramo há muitos anos.
+
+1863
+01:14:14,080 --> 01:14:16,020
+Sempre negociamos armas para os dois reinos.
+
+1864
+01:14:16,480 --> 01:14:20,840
+Afinal, alguém precisa oferecer alguns pés de mesa para esses bárbaros, não é mesmo?
+
+1865
+01:14:21,040 --> 01:14:22,560
+Certo, importante, sim.
+
+1866
+01:14:23,380 --> 01:14:24,560
+Inclusive, a Nini quer...
+
+1867
+01:14:25,400 --> 01:14:33,760
+Tirar a espada dela, assim, da cintura, a princípio para exibí-la para o comerciante, né?
+
+1868
+01:14:34,100 --> 01:14:35,860
+Mas ela já quer deixar aquela empunhada.
+
+1869
+01:14:36,480 --> 01:14:44,320
+É, você que entende de armas enquanto a gente espera, essa aqui, ó, essa aqui é uma espada da minha família, tá vendo?
+
+1870
+01:14:44,720 --> 01:14:48,500
+Ela pega fogo, mas eu nunca consegui fazer, acho que não é uma coisa muito legal.
+
+1871
+01:14:49,100 --> 01:14:50,020
+O que você acha?
+
+1872
+01:14:50,020 --> 01:14:52,880
+Ó, é uma arma antiga, um metal muito bom.
+
+1873
+01:14:53,060 --> 01:14:54,020
+Um pouco suja, mas...
+
+1874
+01:14:54,020 --> 01:14:56,980
+Talvez possa te providenciar um trabalho de polimento.
+
+1875
+01:14:57,320 --> 01:14:59,660
+É, que interessante, né?
+
+1876
+01:15:00,300 --> 01:15:03,260
+A Nini finge, finge que quer ficar conversando.
+
+1877
+01:15:03,500 --> 01:15:07,360
+Ah, ela quer fazer alguma coisa nesse meio tempo, enquanto tudo está acontecendo na cidade?
+
+1878
+01:15:07,680 --> 01:15:10,380
+Bom, ela está com as faquinhas ali que ela tinha pego, né?
+
+1879
+01:15:10,420 --> 01:15:15,160
+Ela está com as facas ali um pouco acessíveis, mas o balanço dela está guardado.
+
+1880
+01:15:15,720 --> 01:15:17,500
+E ela está só ouvindo a conversa ali dos dois.
+
+1881
+01:15:17,500 --> 01:15:23,760
+Vocês logo veem o Serrajão voltando, sendo acompanhado por vários soldados, assim.
+
+1882
+01:15:24,020 --> 01:15:29,840
+A cavalo, o soldado naquela marcha, né, acompanhando o orco que vai à frente.
+
+1883
+01:15:30,280 --> 01:15:38,520
+Muitas bandeiras, muitos soldados, a população em geral também notou que alguma coisa estava acontecendo.
+
+1884
+01:15:39,000 --> 01:15:46,360
+Então, o padeiro está lá limpando a mão no avental da farinha, ele está ali também junto com os filhos.
+
+1885
+01:15:46,360 --> 01:15:53,740
+Tem o pessoal descendo, tem uma moça com um seixo de maçã já vendendo ali para o pessoal que decidiu acompanhar a comitiva.
+
+1886
+01:15:54,020 --> 01:16:03,800
+Está vindo, assim, a cidade, todo mundo que estava pelaquela região decidiu acompanhar aquele orco com os soldados e está indo ali.
+
+1887
+01:16:04,820 --> 01:16:10,700
+Os elfos que estão em cima das casas, eles se abaixam, assim, um pouco, para tentar não ficar tão visível, né?
+
+1888
+01:16:11,060 --> 01:16:15,480
+O Sérgio acha, assim, um pouco de exagero o que está sendo feito, né?
+
+1889
+01:16:15,480 --> 01:16:21,980
+Mas ele dá um passo para um lado, ele faz uma reverência para o general ali em cima do cavalo, né?
+
+1890
+01:16:22,500 --> 01:16:23,780
+E vocês se reúnem ali.
+
+1891
+01:16:24,460 --> 01:16:26,920
+O general sai de cima do cavalo.
+
+1892
+01:16:26,980 --> 01:16:28,140
+Então, o mundo estoura a princesa.
+
+1893
+01:16:28,160 --> 01:16:30,280
+Então, como eu falei, a princesa está 10.
+
+1894
+01:16:30,560 --> 01:16:37,260
+Um pequeno detalhe, mas o detalhe já está resolvido, porque esse cara aqui, vou apontar para o Sérgio, ele tem a solução para tudo.
+
+1895
+01:16:37,820 --> 01:16:39,640
+O cara é 10, o cara é nota 10.
+
+1896
+01:16:39,640 --> 01:16:43,140
+Ele prometeu para a gente aqui que ele está, ó, ele está...
+
+1897
+01:16:43,140 --> 01:16:46,440
+Aí eu vou falar, ô, Nini, mostra o pescoço para o rapaz aí.
+
+1898
+01:16:46,880 --> 01:16:52,620
+A gente pegou essa doença aí, coisa besta, segundo o Sérgio, coisa besta.
+
+1899
+01:16:52,620 --> 01:16:55,200
+Falou que dois palitos ele resolve.
+
+1900
+01:16:55,480 --> 01:16:57,620
+E a gente pegou essa doença dele, ó.
+
+1901
+01:16:57,760 --> 01:16:58,880
+Olha a mão dele, como está...
+
+1902
+01:16:58,880 --> 01:17:00,080
+Eu vou falar que ela pegou dele.
+
+1903
+01:17:02,340 --> 01:17:03,300
+Ele é benta.
+
+1904
+01:17:03,440 --> 01:17:05,040
+Ele olha para a mão assim, meio chocado.
+
+1905
+01:17:07,560 --> 01:17:10,040
+Fala, às vezes eu confundo a ordem das coisas, mas é isso.
+
+1906
+01:17:10,140 --> 01:17:11,540
+Ele pegou, a gente pegou dele.
+
+1907
+01:17:12,020 --> 01:17:13,300
+E a princesa também pegou dele.
+
+1908
+01:17:13,380 --> 01:17:14,060
+Todo mundo pegou dele.
+
+1909
+01:17:14,120 --> 01:17:15,580
+Olha a princesa ali, está vendo?
+
+1910
+01:17:15,680 --> 01:17:19,340
+Ela ali, na roupinha de vestidinha ali.
+
+1911
+01:17:19,820 --> 01:17:20,500
+Está tranquilo.
+
+1912
+01:17:20,820 --> 01:17:20,940
+Entendeu?
+
+1913
+01:17:20,940 --> 01:17:21,440
+Está assim.
+
+1914
+01:17:21,860 --> 01:17:22,180
+Célebro.
+
+1915
+01:17:22,180 --> 01:17:24,640
+Agora é só você curar geral, resolvido, pô.
+
+1916
+01:17:24,820 --> 01:17:25,080
+E aí?
+
+1917
+01:17:25,320 --> 01:17:28,440
+O general, ele está com a espada já em mãos, assim.
+
+1918
+01:17:28,580 --> 01:17:32,700
+Ele está encarando o elfo ali, sem entender muito bem.
+
+1919
+01:17:32,900 --> 01:17:35,080
+Ele não tem motivos para não acreditar em ti.
+
+1920
+01:17:35,460 --> 01:17:38,060
+Ainda mais, principalmente a tua amiga que está com a cara.
+
+1921
+01:17:38,480 --> 01:17:40,720
+Ela demonstra bem que está bem doente.
+
+1922
+01:17:40,980 --> 01:17:42,280
+Os soldados também se posicionam.
+
+1923
+01:17:42,660 --> 01:17:47,000
+O Sérgio faz um leve nãozinho, assim, com o dedo.
+
+1924
+01:17:47,680 --> 01:17:51,120
+Provavelmente para os soldados dele não fazerem uma bobagem.
+
+1925
+01:17:51,120 --> 01:17:52,120
+E tem muita gente aí.
+
+1926
+01:17:52,180 --> 01:17:54,180
+Ele faz só um nãozinho, assim, meio...
+
+1927
+01:17:54,180 --> 01:17:54,500
+Ah, é.
+
+1928
+01:17:55,000 --> 01:17:56,160
+Um dos que sobraram.
+
+1929
+01:17:56,820 --> 01:17:57,380
+Está bom.
+
+1930
+01:17:57,540 --> 01:17:58,260
+Ele tem oito.
+
+1931
+01:18:00,440 --> 01:18:02,000
+Vou pedir para meu servo.
+
+1932
+01:18:02,280 --> 01:18:03,920
+Ele olha o servo caído, assim, no chão.
+
+1933
+01:18:04,480 --> 01:18:07,820
+Ele estrala o dedo, assim, a ponta para cima de uma casa.
+
+1934
+01:18:08,260 --> 01:18:10,000
+Um elfo desce de lá.
+
+1935
+01:18:10,860 --> 01:18:11,180
+Ele fala...
+
+1936
+01:18:12,060 --> 01:18:12,880
+Traga o remédio para mim.
+
+1937
+01:18:13,700 --> 01:18:14,880
+O remédio logo estará aí.
+
+1938
+01:18:15,560 --> 01:18:19,960
+Mas vocês iam falar para o general as condições que vocês encontraram essa princesa, não é?
+
+1939
+01:18:19,980 --> 01:18:20,900
+Encontramos assim mesmo.
+
+1940
+01:18:20,900 --> 01:18:22,100
+Do jeito que está aí.
+
+1941
+01:18:22,180 --> 01:18:23,780
+Encontrou no cativeiro do senhor.
+
+1942
+01:18:23,900 --> 01:18:24,320
+O quê?
+
+1943
+01:18:24,900 --> 01:18:25,340
+Cativeiro?
+
+1944
+01:18:25,720 --> 01:18:26,560
+Ela estava doente.
+
+1945
+01:18:26,640 --> 01:18:28,120
+Não teve nada de cativeiro.
+
+1946
+01:18:28,280 --> 01:18:28,640
+Putz.
+
+1947
+01:18:28,800 --> 01:18:30,420
+Assim, a gente encontrou a princesa.
+
+1948
+01:18:30,460 --> 01:18:31,660
+Ela estava num acampamento.
+
+1949
+01:18:31,760 --> 01:18:32,680
+Vamos falar a verdade aqui.
+
+1950
+01:18:33,160 --> 01:18:33,840
+No acampamento.
+
+1951
+01:18:34,440 --> 01:18:35,560
+Onde era esse acampamento?
+
+1952
+01:18:36,080 --> 01:18:36,900
+No mato.
+
+1953
+01:18:37,320 --> 01:18:38,360
+No acampamento, no mato.
+
+1954
+01:18:38,980 --> 01:18:42,820
+Tinham coisas lá no acampamento que eram exatamente iguais às coisas do Céligor?
+
+1955
+01:18:42,980 --> 01:18:43,300
+Tinham.
+
+1956
+01:18:43,580 --> 01:18:45,140
+Essa garrafa de vinho aqui, ó.
+
+1957
+01:18:45,300 --> 01:18:45,900
+Tem outra.
+
+1958
+01:18:46,280 --> 01:18:47,020
+Tem duas iguais.
+
+1959
+01:18:47,200 --> 01:18:47,500
+Por quê?
+
+1960
+01:18:48,040 --> 01:18:49,100
+Uma é daqui, outra é de lá.
+
+1961
+01:18:49,100 --> 01:18:51,340
+Mas assim, quem pode explicar isso?
+
+1962
+01:18:51,420 --> 01:18:52,080
+Eu não consigo.
+
+1963
+01:18:52,520 --> 01:18:55,960
+Eu não vou acusar o Céligor de ter feito o acampamento lá.
+
+1964
+01:18:56,580 --> 01:18:57,920
+É tudo uma grande coincidência.
+
+1965
+01:18:58,080 --> 01:18:58,520
+Exato.
+
+1966
+01:18:58,620 --> 01:18:59,720
+Uma grande coincidência.
+
+1967
+01:19:00,100 --> 01:19:01,640
+Eu fui roubado recentemente, sabe?
+
+1968
+01:19:02,040 --> 01:19:03,580
+Um carregamento inteiro meu foi.
+
+1969
+01:19:04,020 --> 01:19:06,200
+Provavelmente foi assim que foi parar naquele acampamento.
+
+1970
+01:19:06,480 --> 01:19:07,300
+Sem dúvida.
+
+1971
+01:19:07,600 --> 01:19:08,540
+Você resolvendo aí.
+
+1972
+01:19:08,760 --> 01:19:09,520
+Cadê a cura?
+
+1973
+01:19:09,600 --> 01:19:11,480
+Você dando a cura, você prova que está tudo certo.
+
+1974
+01:19:11,540 --> 01:19:16,840
+Até porque sabotagem é um crime punido com a pena de morte aqui nesse reino, não é mesmo?
+
+1975
+01:19:17,000 --> 01:19:18,540
+E eu não tenho nada contra o Céligor.
+
+1976
+01:19:18,540 --> 01:19:19,660
+Ele me deu esse porrete.
+
+1977
+01:19:19,760 --> 01:19:20,320
+Vou mostrar o porrete.
+
+1978
+01:19:20,380 --> 01:19:21,340
+Olha o porrete bonito.
+
+1979
+01:19:21,700 --> 01:19:22,140
+Que legal.
+
+1980
+01:19:22,180 --> 01:19:22,440
+Que interessante.
+
+1981
+01:19:22,860 --> 01:19:25,140
+A marca desse porrete está na nuca do cervo dele, inclusive.
+
+1982
+01:19:25,320 --> 01:19:26,760
+Mas é uma coincidência também.
+
+1983
+01:19:27,140 --> 01:19:27,980
+Uma outra coincidência.
+
+1984
+01:19:28,080 --> 01:19:29,260
+Que hoje está cheio de coincidência.
+
+1985
+01:19:29,420 --> 01:19:30,220
+Já está cheio de coincidência.
+
+1986
+01:19:30,360 --> 01:19:33,520
+A menina que vendia maçãs, ela já não tem maçã mais nenhuma de sexto.
+
+1987
+01:19:33,960 --> 01:19:35,640
+Mas já está chegando mais gente com mais comida.
+
+1988
+01:19:35,720 --> 01:19:36,900
+O padeiro foi buscar pão.
+
+1989
+01:19:37,380 --> 01:19:38,960
+A população está se ajeitando ali.
+
+1990
+01:19:39,300 --> 01:19:41,240
+Porque parece que hoje o dia vai render.
+
+1991
+01:19:41,840 --> 01:19:42,640
+Está acontecendo.
+
+1992
+01:19:43,620 --> 01:19:47,360
+O general está meio perplexo, assim, olhando para vocês.
+
+1993
+01:19:47,500 --> 01:19:48,720
+Vocês estão muito doentes também?
+
+1994
+01:19:49,080 --> 01:19:49,700
+Não é uma coisa.
+
+1995
+01:19:49,900 --> 01:19:50,720
+Mas é coisa pouca.
+
+1996
+01:19:50,720 --> 01:19:52,860
+É a doença do Céligor aí.
+
+1997
+01:19:52,940 --> 01:19:53,620
+Ele sabe resolver.
+
+1998
+01:19:53,920 --> 01:19:59,840
+Ele olha uma trouxa de roupa amarrada em cima de um cavalo, meio que se debatendo.
+
+1999
+01:20:00,420 --> 01:20:02,840
+Leva um tempinho constrangedor ali.
+
+2000
+01:20:03,060 --> 01:20:06,940
+Até voltar o cervo do Céligor com algumas garrafinhas.
+
+2001
+01:20:07,280 --> 01:20:09,800
+Ele olha para a Nini.
+
+2002
+01:20:10,120 --> 01:20:11,140
+Quer que eu beba primeiro?
+
+2003
+01:20:11,280 --> 01:20:13,260
+Ou você quer ter a honra de dar o primeiro gole?
+
+2004
+01:20:13,420 --> 01:20:15,340
+Com certeza você bebe primeiro.
+
+2005
+01:20:15,620 --> 01:20:17,120
+Ele pega uma das garrafinhas.
+
+2006
+01:20:17,120 --> 01:20:18,280
+Ele bebe ali.
+
+2007
+01:20:18,740 --> 01:20:20,100
+Faz uma macara assim.
+
+2008
+01:20:20,720 --> 01:20:22,320
+Uma careta, né?
+
+2009
+01:20:22,580 --> 01:20:25,280
+Os dedos dele, obviamente, não crescem.
+
+2010
+01:20:25,740 --> 01:20:29,320
+Mas aquele escuro que estava nos dedos ali, ele passa.
+
+2011
+01:20:29,840 --> 01:20:31,400
+Ele esfrega aquela mão.
+
+2012
+01:20:31,880 --> 01:20:35,280
+Aquela camada meio escura fica mais endurecida e cai.
+
+2013
+01:20:35,820 --> 01:20:37,100
+Está sangrando normalmente.
+
+2014
+01:20:37,700 --> 01:20:39,000
+Ele coloca um lenço ali.
+
+2015
+01:20:39,560 --> 01:20:41,060
+Ele entrega uma garrafinha para ti.
+
+2016
+01:20:41,240 --> 01:20:42,120
+Isso é caríssimo, hein?
+
+2017
+01:20:42,380 --> 01:20:44,060
+Tem quantas garrafinhas ali ao todo?
+
+2018
+01:20:44,320 --> 01:20:45,200
+Ele trouxe quatro.
+
+2019
+01:20:45,660 --> 01:20:47,460
+E as outras duas estão com quem?
+
+2020
+01:20:47,460 --> 01:20:50,460
+Com o novo cervo dele, que é um elfo baixinho.
+
+2021
+01:20:50,720 --> 01:20:51,260
+Beleza.
+
+2022
+01:20:51,360 --> 01:20:52,260
+Eu vou tomar, então.
+
+2023
+01:20:52,520 --> 01:20:57,300
+O gosto é horrível, mas, assim, leva pouco tempo para te começar a te sentir melhor.
+
+2024
+01:20:57,620 --> 01:20:58,180
+Que ótimo.
+
+2025
+01:20:58,700 --> 01:20:59,200
+Eu falei.
+
+2026
+01:21:00,100 --> 01:21:00,380
+Cura.
+
+2027
+01:21:00,960 --> 01:21:01,840
+Temos uma solução.
+
+2028
+01:21:02,060 --> 01:21:04,300
+Agora nós já podemos expor o traidor do reino?
+
+2029
+01:21:04,440 --> 01:21:04,620
+Não.
+
+2030
+01:21:05,040 --> 01:21:05,940
+Melhor não, hein?
+
+2031
+01:21:07,540 --> 01:21:11,780
+Teve gente assim, estava no meio da mordida do pão, para, assim, olha.
+
+2032
+01:21:12,560 --> 01:21:13,860
+Ele é revelado.
+
+2033
+01:21:15,360 --> 01:21:18,320
+Porque, assim, o que é trair, né?
+
+2034
+01:21:18,680 --> 01:21:20,280
+Cada um tem uma concepção, né?
+
+2035
+01:21:20,720 --> 01:21:21,720
+Tá bom.
+
+2036
+01:21:22,620 --> 01:21:23,600
+Faz o que vocês quiserem.
+
+2037
+01:21:23,660 --> 01:21:25,120
+Eu vou virar as costas de novo, vou ficar de novo.
+
+2038
+01:21:26,520 --> 01:21:28,540
+Tem a princesa ainda e as garrafinhas.
+
+2039
+01:21:28,620 --> 01:21:30,200
+E tem o que vocês foram fazer aí também.
+
+2040
+01:21:30,280 --> 01:21:33,720
+É, a Ayla vai pegar uma das garrafinhas e vai...
+
+2041
+01:21:34,340 --> 01:21:35,760
+É, Nini, você me ajuda aqui?
+
+2042
+01:21:36,100 --> 01:21:43,240
+E aí vai, enfim, soltar-lhe os lenços ali que estavam na princesa e vai dar uma das garrafinhas.
+
+2043
+01:21:43,540 --> 01:21:45,420
+Diz que eu abro a boca dela e você joga.
+
+2044
+01:21:45,420 --> 01:21:49,320
+O povo, olha, é meio assustado, assim, para preter essa princesa.
+
+2045
+01:21:49,620 --> 01:21:50,700
+O estado atual dela.
+
+2046
+01:21:50,720 --> 01:21:55,720
+Eu vou calmar o povo, com um sorriso na cara totalmente constrangedor e até um pouco psicopata.
+
+2047
+01:21:56,600 --> 01:21:57,960
+Falando, gente, está tudo bem.
+
+2048
+01:21:58,500 --> 01:22:05,580
+A gente já tinha combinado antes e, assim, ela só está um pouquinho embriagada, um pouco com reflexo ruim, a princesa.
+
+2049
+01:22:05,920 --> 01:22:07,880
+Mas ela é muito simpática no normal.
+
+2050
+01:22:08,440 --> 01:22:09,040
+Ficou tranquila.
+
+2051
+01:22:09,440 --> 01:22:11,940
+A princesa, ela desmaia sobre o cavalo, né?
+
+2052
+01:22:12,000 --> 01:22:14,140
+A doença nela estava bem avançada.
+
+2053
+01:22:14,720 --> 01:22:17,020
+Mas dá para ver que ela está regredindo ali.
+
+2054
+01:22:17,580 --> 01:22:19,820
+O Elfo fala, guarde outra garrafa.
+
+2055
+01:22:19,820 --> 01:22:20,320
+Tá.
+
+2056
+01:22:20,720 --> 01:22:22,380
+Talvez ela precise de outra dose.
+
+2057
+01:22:23,300 --> 01:22:25,080
+Acho que está tudo resolvido, não é?
+
+2058
+01:22:25,380 --> 01:22:33,100
+Ele faz sinal para outros elfos dele chegarem próximos para tentar levantar o servo dele que está no chão ali.
+
+2059
+01:22:33,400 --> 01:22:34,660
+Posso seguir minha viagem.
+
+2060
+01:22:35,240 --> 01:22:36,320
+Tenho coisas a fazer.
+
+2061
+01:22:37,220 --> 01:22:37,940
+Está tudo certo.
+
+2062
+01:22:38,300 --> 01:22:38,900
+Não é, gente?
+
+2063
+01:22:39,320 --> 01:22:42,000
+Eu quero até uma espadada nesse cara, mas eu vou deixar...
+
+2064
+01:22:42,000 --> 01:22:43,640
+Eu olho para a Nini.
+
+2065
+01:22:43,840 --> 01:22:45,260
+Deixa eu perguntar um negócio para o guarda.
+
+2066
+01:22:45,540 --> 01:22:46,580
+Vou perguntar um negócio para o guarda.
+
+2067
+01:22:46,680 --> 01:22:47,900
+O guarda contratou a gente e falou.
+
+2068
+01:22:47,900 --> 01:22:49,300
+Seu guarda.
+
+2069
+01:22:49,600 --> 01:22:50,560
+Essa é a princesa.
+
+2070
+01:22:50,560 --> 01:22:51,820
+É o general do exército.
+
+2071
+01:22:51,940 --> 01:22:52,940
+Esse é o guarda que colocou lá.
+
+2072
+01:22:54,560 --> 01:22:57,040
+Esse negócio de título de nobreza não é comigo, não.
+
+2073
+01:22:57,480 --> 01:22:59,500
+Jogou para o general do reino de seu guarda.
+
+2074
+01:22:59,680 --> 01:23:00,460
+Ele te olha assim.
+
+2075
+01:23:01,200 --> 01:23:03,840
+Ele viu tanta coisa hoje que ele não vai nem discutir.
+
+2076
+01:23:04,780 --> 01:23:05,560
+Sempre avante.
+
+2077
+01:23:05,700 --> 01:23:06,960
+Olha para mim aqui nesse momento.
+
+2078
+01:23:07,600 --> 01:23:09,020
+Você consegue garantir para a gente?
+
+2079
+01:23:09,100 --> 01:23:10,480
+Porque assim, a gente fez o serviço e tal.
+
+2080
+01:23:10,540 --> 01:23:11,560
+Você quer a princesa, né?
+
+2081
+01:23:11,800 --> 01:23:12,360
+Correto, né?
+
+2082
+01:23:12,480 --> 01:23:13,240
+E tudo para ser.
+
+2083
+01:23:13,660 --> 01:23:14,280
+Faz isso mesmo.
+
+2084
+01:23:14,560 --> 01:23:15,280
+Show de bola, né?
+
+2085
+01:23:17,240 --> 01:23:18,700
+Sobrou pouco das vestimentas dela.
+
+2086
+01:23:18,700 --> 01:23:20,540
+Ela tem agora um lençol em volta dela.
+
+2087
+01:23:20,680 --> 01:23:21,680
+Eu tenho como confirmar.
+
+2088
+01:23:22,120 --> 01:23:25,660
+Se ela é da linhagem real, o sangue dela não é muito diferente do sangue do nosso rei.
+
+2089
+01:23:25,880 --> 01:23:27,320
+Temos alquimistas que podem verificar.
+
+2090
+01:23:27,520 --> 01:23:28,880
+Tá, então, assim.
+
+2091
+01:23:29,400 --> 01:23:32,280
+Aí, Ayla, sei que conta as moedas aí.
+
+2092
+01:23:32,300 --> 01:23:34,440
+Depois você descobre aí esse negócio aí.
+
+2093
+01:23:34,820 --> 01:23:37,480
+Mas o ponto é, esse célegor aqui.
+
+2094
+01:23:38,160 --> 01:23:42,440
+Se eu fosse vocês e ir na cidade de vocês, manteria ele por perto aí.
+
+2095
+01:23:42,980 --> 01:23:45,360
+Porque o cara tem a cura aqui, pô.
+
+2096
+01:23:45,360 --> 01:23:50,500
+Que é coisa que ele faz, mas você não consegue chavecar o cara aí para ele ficar mais uns dias na cidade, de repente.
+
+2097
+01:23:50,560 --> 01:23:53,160
+Ele fornece armas para o rei.
+
+2098
+01:23:53,620 --> 01:23:56,060
+O rei tem anos de histórico de negociação com eles.
+
+2099
+01:23:56,160 --> 01:23:58,140
+E o rei tem um contrato de exclusividade?
+
+2100
+01:23:58,700 --> 01:24:00,560
+Não temos armas tão boas em nenhum outro lugar.
+
+2101
+01:24:01,020 --> 01:24:03,560
+Muitos ferreiros da região, anos atrás, tiveram acidentes trágicos.
+
+2102
+01:24:04,580 --> 01:24:05,060
+Acidentes?
+
+2103
+01:24:05,140 --> 01:24:05,380
+Sim.
+
+2104
+01:24:06,320 --> 01:24:09,220
+Coincidências, né? O que tem acontecido aí na cidade mesmo.
+
+2105
+01:24:09,420 --> 01:24:12,960
+Ele tira um saco de ouro, ele te entrega?
+
+2106
+01:24:13,240 --> 01:24:16,320
+Mas já pagou, nem sabe se é a princesa e eu não vou questionar.
+
+2107
+01:24:16,340 --> 01:24:17,720
+A missão de vocês está feita.
+
+2108
+01:24:17,720 --> 01:24:20,520
+Assim que confirmarmos tudo, chamaremos vocês a uma cerimônia.
+
+2109
+01:24:20,520 --> 01:24:22,680
+Para verem seus títulos e terras.
+
+2110
+01:24:23,120 --> 01:24:25,240
+O reino é muito grato a vocês pelo que fizeram hoje.
+
+2111
+01:24:25,300 --> 01:24:31,040
+O elfo e seus servos, ele está se mandando de fininho para mim.
+
+2112
+01:24:31,360 --> 01:24:33,920
+Ayla, eu quero meter a faca naquele...
+
+2113
+01:24:33,920 --> 01:24:35,300
+Faca não, porque eu não uso faca, né?
+
+2114
+01:24:35,680 --> 01:24:37,580
+Quero tacar minha espada naquele desgraçado.
+
+2115
+01:24:37,840 --> 01:24:39,700
+Olha, eu não sou contra.
+
+2116
+01:24:40,020 --> 01:24:41,280
+Ela falou, eu não sou contra.
+
+2117
+01:24:41,900 --> 01:24:42,520
+Enquanto o príncipe...
+
+2118
+01:24:43,160 --> 01:24:48,520
+Aliás, enquanto o Sergião está negociando, a Nini vai com autorização...
+
+2119
+01:24:49,420 --> 01:24:49,800
+Feliz, mano.
+
+2120
+01:24:49,800 --> 01:24:50,500
+É, com autorização.
+
+2121
+01:24:50,520 --> 01:24:56,500
+Mas a ação da Ayla, sair correndo, quero tacar a espada nas costas do nosso amigo.
+
+2122
+01:24:56,680 --> 01:24:58,300
+Dois dados, tu atributou menos.
+
+2123
+01:24:59,580 --> 01:25:00,620
+Seis e dois.
+
+2124
+01:25:00,960 --> 01:25:01,940
+Um acerto simples.
+
+2125
+01:25:02,460 --> 01:25:05,140
+A espada não pega um ponto vital.
+
+2126
+01:25:05,720 --> 01:25:08,660
+Assim, atravessa o elfo.
+
+2127
+01:25:08,720 --> 01:25:10,780
+Ele é pego completamente de surpresa.
+
+2128
+01:25:11,360 --> 01:25:13,440
+Várias flechas voam na tua direção.
+
+2129
+01:25:14,180 --> 01:25:16,780
+Você tem que ter elas cravando ali pelo teu corpo.
+
+2130
+01:25:17,260 --> 01:25:17,940
+Ação, Ayla.
+
+2131
+01:25:17,940 --> 01:25:19,940
+Eu quero atirar...
+
+2132
+01:25:20,520 --> 01:25:22,900
+Um dos elfos que estavam em cima do telhado.
+
+2133
+01:25:22,920 --> 01:25:23,340
+Dois dados.
+
+2134
+01:25:24,660 --> 01:25:26,700
+Eu tirei quatro e quatro.
+
+2135
+01:25:26,820 --> 01:25:28,560
+Que é uma falha, né?
+
+2136
+01:25:28,780 --> 01:25:31,720
+Tu atira, teu tiro acaba pegando um pouco mais baixo.
+
+2137
+01:25:32,040 --> 01:25:36,160
+Acerta um vaso que acerta um dos soldados do exército.
+
+2138
+01:25:37,600 --> 01:25:40,180
+Ele fica bem puto ali.
+
+2139
+01:25:40,840 --> 01:25:42,100
+Ele sai do cavalo dele.
+
+2140
+01:25:42,280 --> 01:25:43,960
+Outros soldados começam a acompanhar ele.
+
+2141
+01:25:44,480 --> 01:25:47,520
+O general está vendo que os elfos estão brigando.
+
+2142
+01:25:47,520 --> 01:25:49,960
+O exército dele está meio puto ali.
+
+2143
+01:25:50,520 --> 01:25:53,600
+O que você vai fazer, Sergião?
+
+2144
+01:25:53,600 --> 01:25:55,600
+Eu não vim aqui para ser da paz, não, né?
+
+2145
+01:25:55,600 --> 01:25:58,600
+Eu vou olhar para a Nini e falar...
+
+2146
+01:25:58,600 --> 01:26:03,600
+Toda vez, eu tenho que arrancar a espada do bucho de alguém.
+
+2147
+01:26:03,600 --> 01:26:07,600
+Eu vou sair correndo na direção do elfo.
+
+2148
+01:26:07,600 --> 01:26:09,600
+E vou tentar, enfim...
+
+2149
+01:26:09,600 --> 01:26:13,600
+Atacar ele com o porrete para depois arrancar a espada de dentro dele para ela poder atacar de novo.
+
+2150
+01:26:13,600 --> 01:26:15,600
+Eu vou tentar ir para cima.
+
+2151
+01:26:15,600 --> 01:26:17,100
+Dois dados.
+
+2152
+01:26:17,100 --> 01:26:18,100
+Três e dois.
+
+2153
+01:26:18,100 --> 01:26:19,100
+Como é que tu matou esse elfo?
+
+2154
+01:26:19,100 --> 01:26:20,100
+O Celegor.
+
+2155
+01:26:20,100 --> 01:26:21,100
+Eu...
+
+2156
+01:26:21,100 --> 01:26:22,100
+Enfim...
+
+2157
+01:26:22,100 --> 01:26:23,100
+Ela atirou pelas costas dele a espada, né?
+
+2158
+01:26:23,100 --> 01:26:24,100
+É.
+
+2159
+01:26:24,100 --> 01:26:27,100
+Saí correndo atrás dele e finalizei o serviço esmagando a cabeça dele que devia estar meio
+
+2160
+01:26:27,100 --> 01:26:28,100
+aqui no chão.
+
+2161
+01:26:28,100 --> 01:26:34,100
+Ao mesmo tempo, eu já estou puxando a espada de dentro dele e devolvendo para ela.
+
+2162
+01:26:34,100 --> 01:26:35,100
+Só esse negócio.
+
+2163
+01:26:35,100 --> 01:26:37,100
+Jogando para perto dela se eu puder.
+
+2164
+01:26:37,100 --> 01:26:44,100
+Mais elfos surgem de todos os lugares ali que eles estavam escondidos para proteger aquele homem.
+
+2165
+01:26:44,100 --> 01:26:48,100
+Os soldados orcs começam a avançar também onde eles foram atingidos, né?
+
+2166
+01:26:48,100 --> 01:26:49,100
+A população começa a crescer.
+
+2167
+01:26:49,100 --> 01:26:50,100
+A população começa a crescer.
+
+2168
+01:26:50,100 --> 01:26:51,100
+A população começa a correr desesperada de um lado para o outro.
+
+2169
+01:26:51,100 --> 01:26:52,100
+Porque o que?
+
+2170
+01:26:52,100 --> 01:26:53,100
+Aquele...
+
+2171
+01:26:53,100 --> 01:26:54,100
+O circo vira enterro, né?
+
+2172
+01:26:54,100 --> 01:26:55,100
+Ação, Nini.
+
+2173
+01:26:55,100 --> 01:26:56,100
+Tu está, assim, sangrando muito, tá?
+
+2174
+01:26:56,100 --> 01:26:57,100
+Tu foi...
+
+2175
+01:26:57,100 --> 01:26:58,100
+Tem várias flechas cravando.
+
+2176
+01:26:58,100 --> 01:26:59,100
+Nada mortal por enquanto.
+
+2177
+01:26:59,100 --> 01:27:00,100
+Mas tu saiu de doente para sangrando até morrer.
+
+2178
+01:27:00,100 --> 01:27:01,100
+O que que você faz?
+
+2179
+01:27:01,100 --> 01:27:02,100
+Tá.
+
+2180
+01:27:02,100 --> 01:27:03,100
+A minha ação, se ele já está caído, é gritar.
+
+2181
+01:27:03,100 --> 01:27:04,100
+Traidor!
+
+2182
+01:27:04,100 --> 01:27:05,100
+Traidor!
+
+2183
+01:27:05,100 --> 01:27:06,100
+Ele traiu!
+
+2184
+01:27:06,100 --> 01:27:07,100
+Ele quer...
+
+2185
+01:27:07,100 --> 01:27:08,100
+Ele é o financiador da guerra!
+
+2186
+01:27:08,100 --> 01:27:09,100
+Traidor!
+
+2187
+01:27:09,100 --> 01:27:10,100
+Traidor do rei!
+
+2188
+01:27:10,100 --> 01:27:11,100
+Traidor do rei!
+
+2189
+01:27:11,100 --> 01:27:12,100
+Traidor do rei!
+
+2190
+01:27:12,100 --> 01:27:13,100
+Traidor do rei!
+
+2191
+01:27:13,100 --> 01:27:14,100
+Traidor do rei!
+
+2192
+01:27:14,100 --> 01:27:15,100
+Traidor do rei!
+
+2193
+01:27:15,100 --> 01:27:16,100
+Traidor!
+
+2194
+01:27:16,100 --> 01:27:17,100
+Ele traiu!
+
+2195
+01:27:17,100 --> 01:27:18,100
+Ele quer...
+
+2196
+01:27:18,100 --> 01:27:19,100
+Ele é o financiador da guerra!
+
+2197
+01:27:19,100 --> 01:27:20,100
+Traidor!
+
+2198
+01:27:20,100 --> 01:27:21,100
+Traidor do rei!
+
+2199
+01:27:21,100 --> 01:27:22,100
+Salagor, traidor!
+
+2200
+01:27:22,100 --> 01:27:23,100
+Ayla?
+
+2201
+01:27:23,100 --> 01:27:24,100
+Os...
+
+2202
+01:27:24,100 --> 01:27:27,100
+Elfos dele ainda estão em posição de ataque, né?
+
+2203
+01:27:27,100 --> 01:27:28,100
+Estão.
+
+2204
+01:27:28,100 --> 01:27:29,100
+A culpa é dele!
+
+2205
+01:27:29,100 --> 01:27:30,100
+Deles!
+
+2206
+01:27:30,100 --> 01:27:33,100
+E aí aponta para os elfos que estão em cima, assim...
+
+2207
+01:27:33,100 --> 01:27:34,100
+Eles que...
+
+2208
+01:27:34,100 --> 01:27:37,100
+Que raptaram a princesa e deixaram ela doente.
+
+2209
+01:27:37,100 --> 01:27:40,100
+E aí ela ajuda a Nini nessa de...
+
+2210
+01:27:40,100 --> 01:27:41,100
+Pôr a culpa nele.
+
+2211
+01:27:41,100 --> 01:27:42,100
+Perfeito.
+
+2212
+01:27:42,100 --> 01:27:43,100
+Serjão?
+
+2213
+01:27:43,100 --> 01:27:44,100
+Tá as duas ali acusando.
+
+2214
+01:27:44,100 --> 01:27:45,100
+Os elfos.
+
+2215
+01:27:45,100 --> 01:27:47,100
+Tu acabou de matar o chefe deles, inclusive.
+
+2216
+01:27:47,100 --> 01:27:48,100
+Tá.
+
+2217
+01:27:48,100 --> 01:27:52,100
+Os elfos conseguiram levantar o servo dele ou ele ainda tá drogue?
+
+2218
+01:27:52,100 --> 01:27:54,100
+Não é um cara que faz muita diferença?
+
+2219
+01:27:54,100 --> 01:27:55,100
+Ele não faz diferença.
+
+2220
+01:27:55,100 --> 01:27:56,100
+Ele foi de uma caída.
+
+2221
+01:27:56,100 --> 01:27:57,100
+Tá.
+
+2222
+01:27:57,100 --> 01:27:58,100
+A primeira coisa que eu quero sentir é, tipo...
+
+2223
+01:27:58,100 --> 01:27:59,100
+Tô com o casaco ainda, né?
+
+2224
+01:27:59,100 --> 01:28:00,100
+Do cara cheio de...
+
+2225
+01:28:00,100 --> 01:28:01,100
+Tá.
+
+2226
+01:28:01,100 --> 01:28:02,100
+De arma, né?
+
+2227
+01:28:02,100 --> 01:28:03,100
+Tá.
+
+2228
+01:28:03,100 --> 01:28:04,100
+Eu quero pegar uma arma em cada mão.
+
+2229
+01:28:04,100 --> 01:28:05,100
+Qualquer arma que seja.
+
+2230
+01:28:05,100 --> 01:28:06,100
+Tanto faz.
+
+2231
+01:28:06,100 --> 01:28:07,100
+Pode ser um porreço, uma espada.
+
+2232
+01:28:07,100 --> 01:28:08,100
+Pode ser qualquer coisa.
+
+2233
+01:28:08,100 --> 01:28:13,100
+Puxar de dentro uma arma em cada mão e começar a bater uma na outra pra fazer barulho.
+
+2234
+01:28:13,100 --> 01:28:14,100
+E fazer tipo um...
+
+2235
+01:28:14,100 --> 01:28:15,100
+Parou, parou, parou.
+
+2236
+01:28:15,100 --> 01:28:16,100
+Começar a gritar.
+
+2237
+01:28:16,100 --> 01:28:17,100
+Falar assim, ó...
+
+2238
+01:28:17,100 --> 01:28:18,100
+E ir concordando com ela, né?
+
+2239
+01:28:18,100 --> 01:28:25,100
+E realmente, o cara é um traidor e que aquilo lá era uma emboscada nossa pra eles não
+
+2240
+01:28:25,100 --> 01:28:26,100
+poderem fugir.
+
+2241
+01:28:26,100 --> 01:28:27,100
+Perfeito.
+
+2242
+01:28:27,100 --> 01:28:28,100
+Nini, três dados.
+
+2243
+01:28:28,100 --> 01:28:29,100
+Tu tem os apoios.
+
+2244
+01:28:29,100 --> 01:28:30,100
+Era um dado, que é difícil.
+
+2245
+01:28:30,100 --> 01:28:33,100
+Cada um de seus amigos deu um dado a você.
+
+2246
+01:28:33,100 --> 01:28:34,100
+Pode rolar.
+
+2247
+01:28:35,100 --> 01:28:37,100
+Cinco, quatro e dois.
+
+2248
+01:28:37,100 --> 01:28:39,100
+Sendo quatro o meu atributo.
+
+2249
+01:28:39,100 --> 01:28:41,100
+Um acerto simples, um acerto crítico.
+
+2250
+01:28:41,100 --> 01:28:42,100
+O...
+
+2251
+01:28:42,100 --> 01:28:45,100
+Os orques, eles...
+
+2252
+01:28:45,100 --> 01:28:47,100
+Acreditam na história de vocês.
+
+2253
+01:28:47,100 --> 01:28:48,100
+E vão...
+
+2254
+01:28:48,100 --> 01:28:51,100
+Eles já não têm muita simpatia pelos elfos, né?
+
+2255
+01:28:51,100 --> 01:28:52,100
+E...
+
+2256
+01:28:52,100 --> 01:28:53,100
+É um exército.
+
+2257
+01:28:53,100 --> 01:28:57,100
+Eles vão pra cima dos elfos que acabam recuando ali.
+
+2258
+01:28:57,100 --> 01:28:58,100
+E...
+
+2259
+01:28:58,100 --> 01:29:01,100
+Vocês são deixados de lado.
+
+2260
+01:29:01,100 --> 01:29:06,100
+Os orques ajudam a Nini a tirar as flechas, né?
+
+2261
+01:29:06,100 --> 01:29:09,100
+E salvá-la da morte pela segunda vez hoje.
+
+2262
+01:29:09,100 --> 01:29:11,100
+O orque caído, ele é preso, né?
+
+2263
+01:29:11,100 --> 01:29:15,100
+Assim como algum elfo que tenha sido derrubado em combate ali.
+
+2264
+01:29:15,100 --> 01:29:17,100
+Mas a maioria ou foge ou morre.
+
+2265
+01:29:17,100 --> 01:29:21,100
+Incluindo o líder desses elfos, morreu ali.
+
+2266
+01:29:21,100 --> 01:29:23,100
+Depois de um tempo, o...
+
+2267
+01:29:23,100 --> 01:29:26,100
+A princesa se prova ser realmente a princesa.
+
+2268
+01:29:26,100 --> 01:29:29,100
+E ela tá bem desorientada.
+
+2269
+01:29:29,100 --> 01:29:32,100
+Talvez porque ela foi ali pra morrer com uma doença terrível.
+
+2270
+01:29:32,100 --> 01:29:35,100
+E ela foi curada por aquele reino que ela sempre aprendeu.
+
+2271
+01:29:35,100 --> 01:29:38,100
+Que eram os inimigos dela.
+
+2272
+01:29:38,100 --> 01:29:40,100
+Talvez algo surja disso.
+
+2273
+01:29:40,100 --> 01:29:42,100
+A guerra ainda não acabou.
+
+2274
+01:29:42,100 --> 01:29:46,100
+Mas tá numa trégua temporária, né?
+
+2275
+01:29:46,100 --> 01:29:51,100
+Vocês recebem títulos de nobreza, terras...
+
+2276
+01:29:51,100 --> 01:29:56,100
+Dinheiro que foi prometido a cada um de vocês.
+
+2277
+01:29:56,100 --> 01:30:01,100
+Um novo grupo de elfos tá fornecendo armas pra cidade.
+
+2278
+01:30:01,100 --> 01:30:04,100
+A guerra não pode parar, né?
+
+2279
+01:30:04,100 --> 01:30:08,100
+Mas vocês foram bem sucedidos na missão de vocês.
+
+2280
+01:30:08,100 --> 01:30:10,100
+Pelo menos até onde esperamos.
+
+2281
+01:30:10,100 --> 01:30:12,100
+As pessoas sabem, né?
+
+2282
+01:30:12,100 --> 01:30:16,100
+Alguém quer deixar uma última informação sobre o seu personagem neste áudio?
+
+2283
+01:30:16,100 --> 01:30:18,100
+Vocês têm muito dinheiro e terra.
+
+2284
+01:30:18,100 --> 01:30:20,100
+Vocês não precisam mais se aventurar se não quiserem.
+
+2285
+01:30:20,100 --> 01:30:22,100
+O que vocês vão fazer a partir de agora?
+
+2286
+01:30:22,100 --> 01:30:23,100
+Jogar tudo no bicho.
+
+2287
+01:30:23,100 --> 01:30:25,100
+Pode botar tudo no macaco.
+
+2288
+01:30:25,100 --> 01:30:27,100
+Ou as meninas.
+
+2289
+01:30:27,100 --> 01:30:28,100
+Olha...
+
+2290
+01:30:28,100 --> 01:30:31,100
+Se vocês toparem, eu queria perseguir os Vendedores de Armas.
+
+2291
+01:30:31,100 --> 01:30:32,100
+Foi o que eu pensei também.
+
+2292
+01:30:32,100 --> 01:30:34,100
+É melhor do que jogar no bicho.
+
+2293
+01:30:34,100 --> 01:30:35,100
+Eu retiro o que eu disse.
+
+2294
+01:30:37,100 --> 01:30:39,100
+A gente pode fazer os dois.
+
+2295
+01:30:39,100 --> 01:30:41,100
+Agora não tem onde voltar, né?
+
+2296
+01:30:41,100 --> 01:30:46,100
+Existe o bicho urso nesse jogo do bicho medieval?
+
+2297
+01:30:46,100 --> 01:30:47,100
+Tem. Tem urso.
+
+2298
+01:30:47,100 --> 01:30:49,100
+Tem muito mais bicho do que no jogo do bicho padrão, né?
+
+2299
+01:30:49,100 --> 01:30:50,100
+Quem?
+
+2300
+01:30:50,100 --> 01:30:56,100
+Vocês gastam o dinheiro com bobagens e continuam caçando Vendedores de Armas.
+
+2301
+01:31:06,100 --> 01:31:07,100
+Escudo do Mestre.
+
+2302
+01:31:07,100 --> 01:31:11,100
+Escudo do Mestre é aquela estrutura de papelão ou madeira que o Mestre usa para conduzir anotações e lançamentos de dados.
+
+2303
+01:31:11,100 --> 01:31:15,100
+Mas aqui eu baixo a estrutura e conto para vocês tudo o que aconteceu na aventura.
+
+2304
+01:31:15,100 --> 01:31:17,100
+Uma coisa que eu esqueço às vezes, né?
+
+2305
+01:31:17,100 --> 01:31:18,100
+Pode ser ter ouvintes novos.
+
+2306
+01:31:18,100 --> 01:31:21,100
+Você vai lá no portaldoenviante.com.br e procura este post.
+
+2307
+01:31:21,100 --> 01:31:24,100
+E nos comentários, você deixa o seu comentário que a gente vai ler na Twitch.
+
+2308
+01:31:24,100 --> 01:31:26,100
+Na próxima segunda, normalmente.
+
+2309
+01:31:26,100 --> 01:31:29,100
+Mas fica de olho nas redes sociais para ter certeza da data certinho.
+
+2310
+01:31:29,100 --> 01:31:31,100
+Lá pelo mais oito da noite, oito e meia.
+
+2311
+01:31:31,100 --> 01:31:34,100
+Eu vou ler os comentários e discutir teorias do episódio.
+
+2312
+01:31:34,100 --> 01:31:36,100
+Conversar com um dos participantes.
+
+2313
+01:31:36,100 --> 01:31:38,100
+Então, já vão deixando tudo lá.
+
+2314
+01:31:38,100 --> 01:31:41,100
+E já segue em twitch.tv barra rpguaxa.
+
+2315
+01:31:41,100 --> 01:31:43,100
+Segue também nas redes sociais.
+
+2316
+01:31:43,100 --> 01:31:46,100
+Mas, o que mais ajuda.
+
+2317
+01:31:46,100 --> 01:31:50,100
+O que vai deixar você ainda mais preparado para tudo que está por vir.
+
+2318
+01:31:50,100 --> 01:31:52,100
+Seja nosso padrinho.
+
+2319
+01:31:52,100 --> 01:31:53,100
+A partir de um real, você ajuda muito.
+
+2320
+01:31:53,100 --> 01:31:55,100
+A partir de dez reais, você faz parte do nosso grupo do Telegram.
+
+2321
+01:31:55,100 --> 01:31:57,100
+Que se divide em vários subgrupos.
+
+2322
+01:31:57,100 --> 01:31:59,100
+Você recebe o episódio antes.
+
+2323
+01:31:59,100 --> 01:32:01,100
+Você pode gravar NPC.
+
+2324
+01:32:01,100 --> 01:32:04,100
+Você pode gravar as regras que a gente ouviu lá no início do episódio.
+
+2325
+01:32:04,100 --> 01:32:06,100
+E entre vários subgrupos.
+
+2326
+01:32:06,100 --> 01:32:07,100
+E entre as outras coisas.
+
+2327
+01:32:07,100 --> 01:32:10,100
+Então, venha conhecer esta família maravilhosa.
+
+2328
+01:32:10,100 --> 01:32:12,100
+Se tiver que escolher.
+
+2329
+01:32:12,100 --> 01:32:13,100
+Eu estou escolhendo a Mary Jo.
+
+2330
+01:32:13,100 --> 01:32:14,100
+Fique aí.
+
+2331
+01:32:14,100 --> 01:32:15,100
+Eu tenho lados.
+
+2332
+01:32:15,100 --> 01:32:16,100
+Mas, assim.
+
+2333
+01:32:16,100 --> 01:32:17,100
+Quem não conhece.
+
+2334
+01:32:17,100 --> 01:32:18,100
+Procure um mal acompanhado.
+
+2335
+01:32:18,100 --> 01:32:19,100
+Talvez não os episódios sobre o Big Brother.
+
+2336
+01:32:19,100 --> 01:32:21,100
+Que deve estar um pouco datados.
+
+2337
+01:32:21,100 --> 01:32:24,100
+Mas, os que estão marcados como mal falado.
+
+2338
+01:32:24,100 --> 01:32:26,100
+São esses que eu falei de fofoca.
+
+2339
+01:32:26,100 --> 01:32:28,100
+Eu acho que mesmo de coisas mais antigas.
+
+2340
+01:32:28,100 --> 01:32:30,100
+Vale a pena dar uma conferida para rir.
+
+2341
+01:32:30,100 --> 01:32:33,100
+Para entender a lore por cima desses três.
+
+2342
+01:32:33,100 --> 01:32:34,100
+O Vitinho com as suas vinhetas.
+
+2343
+01:32:34,100 --> 01:32:35,100
+E barulhos estranhos.
+
+2344
+01:32:35,100 --> 01:32:39,100
+Que me fazem não poder ouvir o mal falado sem fone.
+
+2345
+01:32:39,100 --> 01:32:41,100
+Vocês vão entender se vocês ouvirem.
+
+2346
+01:32:41,100 --> 01:32:43,100
+Então conheçam o mal acompanhado.
+
+2347
+01:32:43,100 --> 01:32:44,100
+E novamente.
+
+2348
+01:32:44,100 --> 01:32:45,100
+Muito obrigado Vitinho.
+
+2349
+01:32:45,100 --> 01:32:47,100
+Portas abertas Mary Jo.
+
+2350
+01:32:47,100 --> 01:32:49,100
+E um beijo para o mal.
+
+2351
+01:32:49,100 --> 01:32:50,100
+Mas vamos lá.
+
+2352
+01:32:50,100 --> 01:32:52,100
+De onde surgiu a ideia dessa aventura?
+
+2353
+01:32:52,100 --> 01:32:53,100
+Vitinho se convidou.
+
+2354
+01:32:53,100 --> 01:32:54,100
+Lá no Twitter.
+
+2355
+01:32:54,100 --> 01:32:55,100
+Vários ouvintes vieram falar comigo.
+
+2356
+01:32:55,100 --> 01:32:57,100
+Porque a gente discutia na época do Big Brother.
+
+2357
+01:32:57,100 --> 01:32:58,100
+Do mal acompanhado.
+
+2358
+01:32:58,100 --> 01:33:00,100
+No grupo de padrinhos.
+
+2359
+01:33:00,100 --> 01:33:03,100
+E muita gente ficou naquela expectativa.
+
+2360
+01:33:03,100 --> 01:33:04,100
+Porra.
+
+2361
+01:33:04,100 --> 01:33:05,100
+Eu sempre gosto de pensar na aventura.
+
+2362
+01:33:05,100 --> 01:33:07,100
+Pensando em quem vai jogar.
+
+2363
+01:33:07,100 --> 01:33:08,100
+O Vitinho.
+
+2364
+01:33:08,100 --> 01:33:09,100
+Por mais que eu saiba que ele gosta de futebol.
+
+2365
+01:33:09,100 --> 01:33:11,100
+Eu até pensei em criar alguma aventura disso.
+
+2366
+01:33:11,100 --> 01:33:14,100
+Mas já que é algo que ele entende muito mais do que eu.
+
+2367
+01:33:14,100 --> 01:33:15,100
+Eu não me senti tão seguro.
+
+2368
+01:33:15,100 --> 01:33:16,100
+Talvez no futuro.
+
+2369
+01:33:16,100 --> 01:33:17,100
+E porra.
+
+2370
+01:33:17,100 --> 01:33:19,100
+RPG clássico.
+
+2371
+01:33:19,100 --> 01:33:21,100
+Vamos criar alguma coisa medieval.
+
+2372
+01:33:21,100 --> 01:33:23,100
+Escrevi essa aventura.
+
+2373
+01:33:23,100 --> 01:33:24,100
+Chamei a Juleiva.
+
+2374
+01:33:24,100 --> 01:33:26,100
+Que é nossa veterana da casa.
+
+2375
+01:33:26,100 --> 01:33:28,100
+Para estar ajudando.
+
+2376
+01:33:28,100 --> 01:33:29,100
+Para estar junto.
+
+2377
+01:33:29,100 --> 01:33:30,100
+Chamei a Rafa.
+
+2378
+01:33:30,100 --> 01:33:32,100
+A Rafa acompanha o mal acompanhado comigo.
+
+2379
+01:33:32,100 --> 01:33:33,100
+Então.
+
+2380
+01:33:33,100 --> 01:33:35,100
+Achei bacana trazer ela.
+
+2381
+01:33:35,100 --> 01:33:38,100
+A Jule é mais neutra nessa história toda.
+
+2382
+01:33:38,100 --> 01:33:40,100
+Mas acho que ficou bem bacana.
+
+2383
+01:33:40,100 --> 01:33:41,100
+Acho que a gente se divertiu.
+
+2384
+01:33:41,100 --> 01:33:42,100
+E acho que eles gostaram bastante.
+
+2385
+01:33:42,100 --> 01:33:43,100
+Como falei.
+
+2386
+01:33:43,100 --> 01:33:45,100
+Rafa Malaschewski e a Juleiva.
+
+2387
+01:33:45,100 --> 01:33:46,100
+São madrinhas.
+
+2388
+01:33:46,100 --> 01:33:47,100
+Elas não tem um projeto.
+
+2389
+01:33:47,100 --> 01:33:48,100
+Para chamar de delas.
+
+2390
+01:33:48,100 --> 01:33:49,100
+Então eu digo que.
+
+2391
+01:33:49,100 --> 01:33:51,100
+O RPG eu acho que é delas também.
+
+2392
+01:33:51,100 --> 01:33:53,100
+Então muito obrigado as duas.
+
+2393
+01:33:53,100 --> 01:33:54,100
+E o Vitinho.
+
+2394
+01:33:54,100 --> 01:33:55,100
+Como eu comentei lá no início.
+
+2395
+01:33:55,100 --> 01:33:56,100
+Pelado na net.
+
+2396
+01:33:56,100 --> 01:33:57,100
+Que fala sobre futebol.
+
+2397
+01:33:57,100 --> 01:33:59,100
+É um podcast já bem antigo.
+
+2398
+01:33:59,100 --> 01:34:00,100
+Assim na podosfera.
+
+2399
+01:34:00,100 --> 01:34:01,100
+Bem conhecido.
+
+2400
+01:34:01,100 --> 01:34:02,100
+Acho que quem curte futebol conhece.
+
+2401
+01:34:02,100 --> 01:34:03,100
+O Pelado na net.
+
+2402
+01:34:03,100 --> 01:34:04,100
+E agora.
+
+2403
+01:34:04,100 --> 01:34:05,100
+Ele está no mal acompanhado.
+
+2404
+01:34:05,100 --> 01:34:06,100
+No site do mal.
+
+2405
+01:34:06,100 --> 01:34:07,100
+O Mauricio Fátio.
+
+2406
+01:34:07,100 --> 01:34:08,100
+E com a Mary Jo.
+
+2407
+01:34:08,100 --> 01:34:09,100
+E assim.
+
+2408
+01:34:09,100 --> 01:34:10,100
+Está muito bacana.
+
+2409
+01:34:10,100 --> 01:34:11,100
+Por mais que a gente fale sobre esses programas.
+
+2410
+01:34:11,100 --> 01:34:12,100
+Sobre fofoca.
+
+2411
+01:34:12,100 --> 01:34:13,100
+São aquelas coisas absurdas.
+
+2412
+01:34:13,100 --> 01:34:14,100
+Sei lá.
+
+2413
+01:34:14,100 --> 01:34:15,100
+Semana Neymar.
+
+2414
+01:34:15,100 --> 01:34:16,100
+Que o Neymar conseguiu platinar tudo.
+
+2415
+01:34:16,100 --> 01:34:17,100
+De absurdos.
+
+2416
+01:34:17,100 --> 01:34:18,100
+Que ele podia ter.
+
+2417
+01:34:18,100 --> 01:34:19,100
+Para a vida dele.
+
+2418
+01:34:19,100 --> 01:34:20,100
+Então assim.
+
+2419
+01:34:20,100 --> 01:34:21,100
+Convido vocês a conhecerem lá.
+
+2420
+01:34:21,100 --> 01:34:22,100
+É realmente um podcast.
+
+2421
+01:34:22,100 --> 01:34:23,100
+Muito bom.
+
+2422
+01:34:23,100 --> 01:34:24,100
+Muito bom.
+
+2423
+01:34:24,100 --> 01:34:25,100
+Muito bom.
+
+2424
+01:34:25,100 --> 01:34:26,100
+Muito bom.
+
+2425
+01:34:26,100 --> 01:34:27,100
+Muito bom.
+
+2426
+01:34:27,100 --> 01:34:28,100
+Muito bom.
+
+2427
+01:34:28,100 --> 01:34:29,100
+Muito bom.
+
+2428
+01:34:29,100 --> 01:34:30,100
+Muito bom.
+
+2429
+01:34:30,100 --> 01:34:31,100
+Muito bom.
+
+2430
+01:34:31,100 --> 01:34:32,100
+Muito bom.
+
+2431
+01:34:32,100 --> 01:34:33,100
+Muito bom.
+
+2432
+01:34:33,100 --> 01:34:34,100
+Muito bom.
+
+2433
+01:34:34,100 --> 01:34:35,100
+Muito bom.
+
+2434
+01:34:35,100 --> 01:34:36,100
+Muito bom.
+
+2435
+01:34:36,100 --> 01:34:37,100
+Muito bom.
+
+2436
+01:34:37,100 --> 01:34:38,100
+Muito bom.
+
+2437
+01:34:38,100 --> 01:34:39,100
+Muito bom.
+
+2438
+01:34:39,100 --> 01:34:40,100
+Muito bom.
+
+2439
+01:34:40,100 --> 01:34:41,100
+Muito bom.
+
+2440
+01:34:41,100 --> 01:34:42,100
+Muito bom.
+
+2441
+01:34:42,100 --> 01:34:43,100
+Muito bom.
+
+2442
+01:34:43,100 --> 01:34:44,100
+Muito bom.
+
+2443
+01:34:44,100 --> 01:34:45,100
+Muito bom.
+
+2444
+01:34:45,100 --> 01:34:46,100
+Muito bom.
+
+2445
+01:34:46,100 --> 01:34:47,100
+Muito bom.
+
+2446
+01:34:47,100 --> 01:34:48,100
+Muito bom.
+
+2447
+01:34:48,100 --> 01:34:49,100
+Muito bom.
+
+2448
+01:34:49,100 --> 01:34:50,100
+Muito bom.
+
+2449
+01:34:50,100 --> 01:34:51,100
+Muito bom.
+
+2450
+01:34:51,100 --> 01:34:52,100
+Muito bom.
+
+2451
+01:34:52,100 --> 01:34:53,100
+Muito bom.
+
+2452
+01:34:53,100 --> 01:34:54,100
+Muito bom.
+
+2453
+01:34:54,100 --> 01:34:55,100
+Muito bom.
+
+2454
+01:34:55,100 --> 01:34:56,100
+Muito bom.
+
+2455
+01:34:56,100 --> 01:34:57,100
+Muito bom.
+
+2456
+01:34:57,100 --> 01:34:58,100
+Muito bom.
+
+2457
+01:34:58,100 --> 01:34:59,100
+Muito bom.
+
+2458
+01:34:59,100 --> 01:35:00,100
+Muito bom.
+
+2459
+01:35:00,100 --> 01:35:01,100
+Muito bom.
+
+2460
+01:35:01,100 --> 01:35:02,100
+Muito bom.
+
+2461
+01:35:02,100 --> 01:35:03,980
+Essa nova temporada vai se chamar Pústulas.
+
+2462
+01:35:04,360 --> 01:35:10,040
+Ela é ambientada no século XX em um navio em uma viagem transatlântica em direção a Nova York.
+
+2463
+01:35:10,320 --> 01:35:14,360
+A história conta a saga dos passageiros da embarcação e a luta deles contra a ameaça
+
+2464
+01:35:14,360 --> 01:35:17,520
+que põe em risco a vida de todo mundo a bordo.
+
+2465
+01:35:17,940 --> 01:35:24,260
+Uma doença misteriosa que vai testar o físico, a mente e a fé dos passageiros do navio.
+
+2466
+01:35:24,260 --> 01:35:30,820
+Vai ser a história mais densa já feita pelo projeto e eu espero que estejam preparados para sujar as mãos.
+
+2467
+01:35:30,820 --> 01:35:35,800
+Porque o diferencial do Projeto Drama é que os ouvintes votam para decidir que rumo a história toma.
+
+2468
+01:35:36,000 --> 01:35:40,680
+Então após cada episódio, todo fim de episódio, vocês serão apresentados a uma escolha
+
+2469
+01:35:40,680 --> 01:35:45,220
+e poderem votar no site do projeto ou no Twitter para onde a história deve ir.
+
+2470
+01:35:45,520 --> 01:35:51,700
+Então acompanhe os lançamentos dessa nova temporada para poder decidir o futuro dos personagens dessa nova temporada em tempo real.
+
+2471
+01:35:51,940 --> 01:35:54,580
+A vida deles está na mão de vocês, literalmente.
+
+2472
+01:35:54,900 --> 01:35:59,380
+Pústulas lança dia 9 de agosto no feed do Projeto Drama.
+
+2473
+01:35:59,880 --> 01:36:00,800
+Isso é o texto.
+
+2474
+01:36:00,820 --> 01:36:05,440
+Mas resumindo muito, muitas vezes você escutou o RPG Watch e pensou
+
+2475
+01:36:05,440 --> 01:36:07,780
+Nossa, eu teria feito uma coisa diferente.
+
+2476
+01:36:08,140 --> 01:36:17,760
+Então é agora de todo mundo junto jogar um RPGzinho, tocar um audiodrama e fazer a diferença com suas decisões.
+
+2477
+01:36:17,940 --> 01:36:22,520
+Então escuta lá, porque normalmente entra um episódio e outro tem um tempo, mas não é um tempo tão longo assim.
+
+2478
+01:36:22,760 --> 01:36:29,060
+Então é ideal que dia 9 você já escute o episódio, faça seu voto, faça sua campanha para a sua escolha.
+
+2479
+01:36:29,060 --> 01:36:30,380
+Tipo, o que você deve fazer?
+
+2480
+01:36:30,820 --> 01:36:34,960
+Olha, escute o próximo e veja para onde você mandou essa história.
+
+2481
+01:36:35,500 --> 01:36:38,180
+Teve a revisão da Juleiva, né, que também jogou o episódio.
+
+2482
+01:36:39,020 --> 01:36:41,000
+E assim, como é que ele aconteceu, gente?
+
+2483
+01:36:41,400 --> 01:36:42,380
+Ele não é um audiodrama.
+
+2484
+01:36:42,560 --> 01:36:44,040
+O Vitinho não está valendo um script.
+
+2485
+01:36:44,680 --> 01:36:45,340
+Ele é um RPG.
+
+2486
+01:36:46,020 --> 01:36:49,460
+Eu tinha uma aventura, os jogadores não sabiam de nada, nenhum dos três, né?
+
+2487
+01:36:49,960 --> 01:36:52,580
+Só que cada um deles era um aventureiro.
+
+2488
+01:36:53,580 --> 01:36:57,500
+Eu fui contando as cenas, eles foram me dizendo o que eles iam fazendo, a gente foi rolando dados.
+
+2489
+01:36:57,500 --> 01:36:59,420
+O sistema é bem simples, vocês ouviram lá no começo.
+
+2490
+01:36:59,420 --> 01:37:05,320
+E depois de pronto, vai para o editor, o editor edita para ficar parecendo um audiodrama.
+
+2491
+01:37:05,580 --> 01:37:07,760
+Tipo, bati a porta, ele faz o barulho da porta.
+
+2492
+01:37:08,240 --> 01:37:10,020
+Matou o Orc, faz o barulho do Orc.
+
+2493
+01:37:10,520 --> 01:37:15,360
+E ele troca as vozes que eu faço quando a gente está contando uma história.
+
+2494
+01:37:16,100 --> 01:37:20,360
+Os jogadores fazem os três personagens, eu faço o narrador, né?
+
+2495
+01:37:20,680 --> 01:37:26,160
+E daí, por exemplo, tinha o Orc, eu fazia o Oh, obrigado por vocês.
+
+2496
+01:37:26,160 --> 01:37:29,400
+Só que a gente pede para os padres.
+
+2497
+01:37:29,420 --> 01:37:35,820
+Os padrinhos, né? O pessoal que apoia para regravarem essas vozes, a gente troca para ficar tipo uma radionovela, né?
+
+2498
+01:37:36,180 --> 01:37:38,380
+Então, quero agradecer a esses padrinhos.
+
+2499
+01:37:38,660 --> 01:37:44,880
+Que, no caso, foi o próprio Rafael Zorzal, que é o editor, que ele fez o Elfo, né?
+
+2500
+01:37:45,120 --> 01:37:47,740
+E o Orc General, que foi feito pelo Davi Lucas.
+
+2501
+01:37:47,900 --> 01:37:49,640
+Espero que vocês tenham gostado bastante.
+
+2502
+01:37:49,980 --> 01:37:53,240
+Existem episódios com mais NPCs, aí tem mais nomes, episódios que tem um pouco menos.
+
+2503
+01:37:53,600 --> 01:37:54,840
+Facilitando a edição também.
+
+2504
+01:37:55,400 --> 01:37:59,240
+Agradeço aos padrinhos que gravaram vozes, aos padrinhos que realmente apoiam.
+
+2505
+01:37:59,240 --> 01:38:01,440
+Que pagaram o editor, que fizeram isso ser possível.
+
+2506
+01:38:01,980 --> 01:38:04,640
+Agradeço aos meninos maravilhosos que seguraram a minha mão.
+
+2507
+01:38:05,060 --> 01:38:09,360
+Num momento emocionante de gravar com uma figura incrível como o Príncipe Vidani.
+
+2508
+01:38:09,820 --> 01:38:11,020
+E muito obrigado, Vitinho.
+
+2509
+01:38:11,140 --> 01:38:16,740
+Muito obrigado por ter se convidado, de ter aberto esta porta que eu adorei estar te trazendo para cá.
+
+2510
+01:38:17,000 --> 01:38:18,620
+E gravaremos mais vezes.
+
+2511
+01:38:18,940 --> 01:38:20,180
+Rola em seis, rola em vinte.
+
+2512
+01:38:20,680 --> 01:38:21,980
+Mas se tudo é errado, rola no chão.
+
+2513
+01:38:22,240 --> 01:38:23,400
+Que apaga o fogo e diverte.
+
+2514
+01:38:23,760 --> 01:38:24,580
+Beijo no coração de vocês.
+
+2515
+01:38:29,240 --> 01:38:41,480
+Muitos são os números que regem o multiverso.
+
+2516
+01:38:42,140 --> 01:38:45,040
+Sete realidades paralelas que já foram três.
+
+2517
+01:38:45,520 --> 01:38:50,800
+Quatro linhas sagradas, uma linha vazia e duas preenchidas de escuridão.
+
+2518
+01:38:51,540 --> 01:38:55,840
+Um guaxinim representando um, três meninas segurando um seis.
+
+2519
+01:38:55,840 --> 01:38:59,220
+E uma infinidade de possibilidades entre eles.
+
+2520
+01:38:59,240 --> 01:39:02,480
+E você, qual o seu número?
+
