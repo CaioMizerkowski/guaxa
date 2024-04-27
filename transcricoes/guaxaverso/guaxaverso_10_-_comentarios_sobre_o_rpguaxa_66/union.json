@@ -4,14 +4,14 @@
         "start": "0",
         "end": "10120",
         "speakers": "\"00\"",
-        "text": "Se eu pegar essa ilha e esse helic\u00f3ptero, e a\u00ed tudo faz sentido, porque aqui tem um zumbi e ali n\u00e3o tinha, e agora..."
+        "text": "Se eu pegar essa ilha e esse helicóptero, e aí tudo faz sentido, porque aqui tem um zumbi e ali não tinha, e agora..."
     },
     {
         "id": 1,
         "start": "10120",
         "end": "15000",
         "speakers": "\"00\"",
-        "text": "\u00c9 isso! \u00c9 isso! Eu sabia! Eu sabia! O Guaxaverso existe!"
+        "text": "É isso! É isso! Eu sabia! Eu sabia! O Guaxaverso existe!"
     },
     {
         "id": 2,
@@ -25,14 +25,14 @@
         "start": "16180",
         "end": "18140",
         "speakers": "\"01, 00\"",
-        "text": "Voc\u00ea entendeu a refer\u00eancia do \u00faltimo epis\u00f3dio?"
+        "text": "Você entendeu a referência do último episódio?"
     },
     {
         "id": 4,
         "start": "18260",
         "end": "18980",
         "speakers": "\"00\"",
-        "text": "Olha s\u00f3, olha tudo!"
+        "text": "Olha só, olha tudo!"
     },
     {
         "id": 5,
@@ -46,21 +46,21 @@
         "start": "20020",
         "end": "20960",
         "speakers": "\"01, 00\"",
-        "text": "Espera! O que \u00e9 o Guaxaverso?"
+        "text": "Espera! O que é o Guaxaverso?"
     },
     {
         "id": 7,
         "start": "21000",
         "end": "22980",
         "speakers": "\"01, 00\"",
-        "text": "Era s\u00f3 uma quest\u00e3o de tempo!"
+        "text": "Era só uma questão de tempo!"
     },
     {
         "id": 8,
         "start": "23080",
         "end": "24700",
         "speakers": "\"00\"",
-        "text": "Todos v\u00e3o conhecer o Guaxaverso!"
+        "text": "Todos vão conhecer o Guaxaverso!"
     },
     {
         "id": 9,
@@ -74,14 +74,14 @@
         "start": "27220",
         "end": "28560",
         "speakers": "\"01, 00\"",
-        "text": "Algu\u00e9m me explica o que \u00e9 o Guaxaverso?"
+        "text": "Alguém me explica o que é o Guaxaverso?"
     },
     {
         "id": 11,
         "start": "28560",
         "end": "32020",
         "speakers": "\"00\"",
-        "text": "\u00c9, pessoal, n\u00e3o existe o Guaxaverso."
+        "text": "É, pessoal, não existe o Guaxaverso."
     },
     {
         "id": 12,
@@ -102,21 +102,21 @@
         "start": "37880",
         "end": "41520",
         "speakers": "\"00\"",
-        "text": "Guaxaverso, onde o que n\u00e3o existe \u00e9 debatido."
+        "text": "Guaxaverso, onde o que não existe é debatido."
     },
     {
         "id": 15,
         "start": "44760",
         "end": "52540",
         "speakers": "\"00\"",
-        "text": "Ol\u00e1, eu sou o Marcelo Guaxinim, eu sou narrador, produtor, idealizador e podcaster do Realidades Paralelas do Guaxinim."
+        "text": "Olá, eu sou o Marcelo Guaxinim, eu sou narrador, produtor, idealizador e podcaster do Realidades Paralelas do Guaxinim."
     },
     {
         "id": 16,
         "start": "52540",
         "end": "57220",
         "speakers": "\"00\"",
-        "text": "Pra quem n\u00e3o sabe, o Guaxaverso \u00e9 o nosso antigo escudo do mestre, que antes era no fim dos epis\u00f3dios,"
+        "text": "Pra quem não sabe, o Guaxaverso é o nosso antigo escudo do mestre, que antes era no fim dos episódios,"
     },
     {
         "id": 17,
@@ -130,112 +130,112 @@
         "start": "58560",
         "end": "62680",
         "speakers": "\"00\"",
-        "text": "Ele se tornou um podcast pr\u00f3prio, que sai nas quintas-feiras, que n\u00e3o tem epis\u00f3dio regular."
+        "text": "Ele se tornou um podcast próprio, que sai nas quintas-feiras, que não tem episódio regular."
     },
     {
         "id": 19,
         "start": "62900",
         "end": "67540",
         "speakers": "\"00\"",
-        "text": "E nele, al\u00e9m de comentar sobre o epis\u00f3dio, eu leio seus coment\u00e1rios."
+        "text": "E nele, além de comentar sobre o episódio, eu leio seus comentários."
     },
     {
         "id": 20,
         "start": "68240",
         "end": "75140",
         "speakers": "\"00\"",
-        "text": "Esse epis\u00f3dio vai falar sobre o epis\u00f3dio 66 do RPG Guaxa, Cavaleiros Arco-\u00cdris, O \u00daltimo Corvo."
+        "text": "Esse episódio vai falar sobre o episódio 66 do RPG Guaxa, Cavaleiros Arco-Íris, O Último Corvo."
     },
     {
         "id": 21,
         "start": "75440",
         "end": "80320",
         "speakers": "\"00\"",
-        "text": "Acho que o mais b\u00e1sico que eu posso dizer pra voc\u00eas, ele \u00e9 um Cavaleiros Arco-\u00cdris Begins."
+        "text": "Acho que o mais básico que eu posso dizer pra vocês, ele é um Cavaleiros Arco-Íris Begins."
     },
     {
         "id": 22,
         "start": "80460",
         "end": "83860",
         "speakers": "\"00\"",
-        "text": "Ele se passa antes de um outro epis\u00f3dio, que tamb\u00e9m t\u00e1 no feed."
+        "text": "Ele se passa antes de um outro episódio, que também tá no feed."
     },
     {
         "id": 23,
         "start": "84200",
         "end": "86560",
         "speakers": "\"00\"",
-        "text": "Os Cavaleiros Arco-\u00cdris foi o epis\u00f3dio 8 do RPG Guaxa."
+        "text": "Os Cavaleiros Arco-Íris foi o episódio 8 do RPG Guaxa."
     },
     {
         "id": 24,
         "start": "86560",
         "end": "88560",
         "speakers": "\"00\"",
-        "text": "\u00c9 um epis\u00f3dio muito amado por todo mundo."
+        "text": "É um episódio muito amado por todo mundo."
     },
     {
         "id": 25,
         "start": "88560",
         "end": "93120",
         "speakers": "\"00\"",
-        "text": "Muitos falaram no post dele, tem arte dos f\u00e3s, o pessoal comentou bastante na \u00e9poca."
+        "text": "Muitos falaram no post dele, tem arte dos fãs, o pessoal comentou bastante na época."
     },
     {
         "id": 26,
         "start": "93480",
         "end": "103400",
         "speakers": "\"00\"",
-        "text": "Esse epis\u00f3dio foi gravado no in\u00edcio de janeiro de 2020, mas a\u00ed ele foi pra um editor que, durante a pandemia, acabou n\u00e3o tendo mais tempo pra editar."
+        "text": "Esse episódio foi gravado no início de janeiro de 2020, mas aí ele foi pra um editor que, durante a pandemia, acabou não tendo mais tempo pra editar."
     },
     {
         "id": 27,
         "start": "103980",
         "end": "111120",
         "speakers": "\"00\"",
-        "text": "A\u00ed ficou bastante tempo com ele, depois ele me repassou de volta o epis\u00f3dio, e da\u00ed eu passei pro Rafael Zorzal, que foi quem acabou editando, n\u00e9?"
+        "text": "Aí ficou bastante tempo com ele, depois ele me repassou de volta o episódio, e daí eu passei pro Rafael Zorzal, que foi quem acabou editando, né?"
     },
     {
         "id": 28,
         "start": "111400",
         "end": "114140",
         "speakers": "\"00\"",
-        "text": "O Rafael Zorzal j\u00e1 tinha outros epis\u00f3dios pra editar, ele foi deixando."
+        "text": "O Rafael Zorzal já tinha outros episódios pra editar, ele foi deixando."
     },
     {
         "id": 29,
         "start": "114140",
         "end": "116800",
         "speakers": "\"00\"",
-        "text": "Ent\u00e3o esse epis\u00f3dio acabou ficando um ano parado."
+        "text": "Então esse episódio acabou ficando um ano parado."
     },
     {
         "id": 30,
         "start": "117340",
         "end": "118440",
         "speakers": "\"00\"",
-        "text": "Os jogadores at\u00e9 achavam que..."
+        "text": "Os jogadores até achavam que..."
     },
     {
         "id": 31,
         "start": "118560",
         "end": "121320",
         "speakers": "\"00\"",
-        "text": "N\u00e3o sei mais, mas a culpa n\u00e3o foi minha, n\u00e9?"
+        "text": "Não sei mais, mas a culpa não foi minha, né?"
     },
     {
         "id": 32,
         "start": "121400",
         "end": "124560",
         "speakers": "\"00\"",
-        "text": "Foi, sei l\u00e1, rolou uma pandemia que acabou afetando algumas pessoas."
+        "text": "Foi, sei lá, rolou uma pandemia que acabou afetando algumas pessoas."
     },
     {
         "id": 33,
         "start": "125000",
         "end": "129840",
         "speakers": "\"00\"",
-        "text": "Mas respondendo as perguntas que voc\u00eas deixaram no post, o primeiro coment\u00e1rio l\u00e1 \u00e9 do Tod\u00ea Zistino."
+        "text": "Mas respondendo as perguntas que vocês deixaram no post, o primeiro comentário lá é do Todê Zistino."
     },
     {
         "id": 34,
@@ -249,21 +249,21 @@
         "start": "131160",
         "end": "137160",
         "speakers": "\"00\"",
-        "text": "\u00d3timo cast."
+        "text": "Ótimo cast."
     },
     {
         "id": 36,
         "start": "137520",
         "end": "139580",
         "speakers": "\"00\"",
-        "text": "A\u00ed ele botou escondidinho, n\u00e9?"
+        "text": "Aí ele botou escondidinho, né?"
     },
     {
         "id": 37,
         "start": "139580",
         "end": "145560",
         "speakers": "\"00\"",
-        "text": "A Dona Corva, trazida pelas arpias, que curte gatos, \u00e9 a velha do epis\u00f3dio 1 das gatas?"
+        "text": "A Dona Corva, trazida pelas arpias, que curte gatos, é a velha do episódio 1 das gatas?"
     },
     {
         "id": 38,
@@ -277,14 +277,14 @@
         "start": "148020",
         "end": "148480",
         "speakers": "\"00\"",
-        "text": "N\u00e3o, n\u00e3o \u00e9."
+        "text": "Não, não é."
     },
     {
         "id": 40,
         "start": "148480",
         "end": "150120",
         "speakers": "\"00\"",
-        "text": "N\u00e3o \u00e9 ela, mas..."
+        "text": "Não é ela, mas..."
     },
     {
         "id": 41,
@@ -298,7 +298,7 @@
         "start": "153580",
         "end": "156000",
         "speakers": "\"00\"",
-        "text": "Bruno Camargo de Oliveira, como sempre, \u00f3timo epis\u00f3dio."
+        "text": "Bruno Camargo de Oliveira, como sempre, ótimo episódio."
     },
     {
         "id": 43,
@@ -319,35 +319,35 @@
         "start": "157900",
         "end": "161080",
         "speakers": "\"00\"",
-        "text": "Chorei rindo do anil ser fissurado em rab\u00e3o desde crian\u00e7a."
+        "text": "Chorei rindo do anil ser fissurado em rabão desde criança."
     },
     {
         "id": 46,
         "start": "161620",
         "end": "165220",
         "speakers": "\"00\"",
-        "text": "A fam\u00edlia Corvo s\u00e3o os antecessores do Corvo do segundo epis\u00f3dio?"
+        "text": "A família Corvo são os antecessores do Corvo do segundo episódio?"
     },
     {
         "id": 47,
         "start": "165620",
         "end": "167380",
         "speakers": "\"00\"",
-        "text": "Ou s\u00e3o criadores de cela terrorista?"
+        "text": "Ou são criadores de cela terrorista?"
     },
     {
         "id": 48,
         "start": "167680",
         "end": "169700",
         "speakers": "\"00\"",
-        "text": "N\u00e3o, pessoal, eu apenas gosto de Corvo, gente."
+        "text": "Não, pessoal, eu apenas gosto de Corvo, gente."
     },
     {
         "id": 49,
         "start": "169740",
         "end": "170220",
         "speakers": "\"00\"",
-        "text": "\u00c9 s\u00f3 isso."
+        "text": "É só isso."
     },
     {
         "id": 50,
@@ -361,7 +361,7 @@
         "start": "171120",
         "end": "177080",
         "speakers": "\"00\"",
-        "text": "Esse epis\u00f3dio, esse sim, 100% de certeza, n\u00e3o tem liga\u00e7\u00e3o com o epis\u00f3dio do Corvo, t\u00e1?"
+        "text": "Esse episódio, esse sim, 100% de certeza, não tem ligação com o episódio do Corvo, tá?"
     },
     {
         "id": 52,
@@ -375,7 +375,7 @@
         "start": "178320",
         "end": "181120",
         "speakers": "\"00\"",
-        "text": "Mais um Cavaleiros do Arco-\u00cdris Begins \u00e9 um anil Begins."
+        "text": "Mais um Cavaleiros do Arco-Íris Begins é um anil Begins."
     },
     {
         "id": 54,
@@ -389,56 +389,56 @@
         "start": "183440",
         "end": "184640",
         "speakers": "\"00\"",
-        "text": "Terminei o epis\u00f3dio pensando."
+        "text": "Terminei o episódio pensando."
     },
     {
         "id": 56,
         "start": "185160",
         "end": "190080",
         "speakers": "\"00\"",
-        "text": "Em uma batalha crossover entre Cavaleiros do Arco-\u00cdris e Cavaleiros do Bicho, quem ganha?"
+        "text": "Em uma batalha crossover entre Cavaleiros do Arco-Íris e Cavaleiros do Bicho, quem ganha?"
     },
     {
         "id": 57,
         "start": "190420",
         "end": "195660",
         "speakers": "\"00\"",
-        "text": "Ent\u00e3o, os Cavaleiros do Arco-\u00cdris s\u00e3o soldados bem treinados com uma espada e uma capa colorida."
+        "text": "Então, os Cavaleiros do Arco-Íris são soldados bem treinados com uma espada e uma capa colorida."
     },
     {
         "id": 58,
         "start": "195920",
         "end": "199360",
         "speakers": "\"00\"",
-        "text": "Os Cavaleiros do Bicho, eles s\u00e3o personagens de anime."
+        "text": "Os Cavaleiros do Bicho, eles são personagens de anime."
     },
     {
         "id": 59,
         "start": "199760",
         "end": "201580",
         "speakers": "\"00\"",
-        "text": "Ent\u00e3o eles acabam sendo um pouquinho mais poderosos."
+        "text": "Então eles acabam sendo um pouquinho mais poderosos."
     },
     {
         "id": 60,
         "start": "201940",
         "end": "206440",
         "speakers": "\"00\"",
-        "text": "Eu esperaria o epis\u00f3dio 4 de Cavaleiros do Arco-\u00cdris, que t\u00e1 atrasado tamb\u00e9m, a gente pe\u00e7a desculpa."
+        "text": "Eu esperaria o episódio 4 de Cavaleiros do Arco-Íris, que tá atrasado também, a gente peça desculpa."
     },
     {
         "id": 61,
         "start": "206440",
         "end": "207440",
         "speakers": "\"00\"",
-        "text": "Mas tamb\u00e9m..."
+        "text": "Mas também..."
     },
     {
         "id": 62,
         "start": "208320",
         "end": "212160",
         "speakers": "\"00\"",
-        "text": "Volto a dizer, pra quem n\u00e3o notou, ano passado foi um ano diferente."
+        "text": "Volto a dizer, pra quem não notou, ano passado foi um ano diferente."
     },
     {
         "id": 63,
@@ -452,7 +452,7 @@
         "start": "214540",
         "end": "217620",
         "speakers": "\"00\"",
-        "text": "Espero que eles nunca precisem se enfrentar, pra ser mais exato, n\u00e9?"
+        "text": "Espero que eles nunca precisem se enfrentar, pra ser mais exato, né?"
     },
     {
         "id": 65,
@@ -473,49 +473,49 @@
         "start": "222160",
         "end": "223100",
         "speakers": "\"00\"",
-        "text": "N\u00e3o precisa ter coragem, gente."
+        "text": "Não precisa ter coragem, gente."
     },
     {
         "id": 68,
         "start": "223160",
         "end": "224160",
         "speakers": "\"00\"",
-        "text": "\u00c9 s\u00f3 escrever qualquer coisa."
+        "text": "É só escrever qualquer coisa."
     },
     {
         "id": 69,
         "start": "224280",
         "end": "226660",
         "speakers": "\"00\"",
-        "text": "Eu gravo qualquer coisa e lan\u00e7o no feed, se voc\u00eas gostam."
+        "text": "Eu gravo qualquer coisa e lanço no feed, se vocês gostam."
     },
     {
         "id": 70,
         "start": "226820",
         "end": "227920",
         "speakers": "\"00\"",
-        "text": "Voc\u00ea pode escrever qualquer coisa tamb\u00e9m."
+        "text": "Você pode escrever qualquer coisa também."
     },
     {
         "id": 71,
         "start": "228520",
         "end": "230520",
         "speakers": "\"00\"",
-        "text": "Eu estou com uma d\u00favida sobre a magia desse mundo."
+        "text": "Eu estou com uma dúvida sobre a magia desse mundo."
     },
     {
         "id": 72,
         "start": "230620",
         "end": "232840",
         "speakers": "\"00\"",
-        "text": "Sabemos que a fam\u00edlia gato se transforma em gato na floresta."
+        "text": "Sabemos que a família gato se transforma em gato na floresta."
     },
     {
         "id": 73,
         "start": "233020",
         "end": "234780",
         "speakers": "\"00\"",
-        "text": "A fam\u00edlia corvo em corvos."
+        "text": "A família corvo em corvos."
     },
     {
         "id": 74,
@@ -529,7 +529,7 @@
         "start": "236120",
         "end": "237280",
         "speakers": "\"00\"",
-        "text": "Spoiler do in\u00edcio do epis\u00f3dio."
+        "text": "Spoiler do início do episódio."
     },
     {
         "id": 76,
@@ -543,14 +543,14 @@
         "start": "238320",
         "end": "240060",
         "speakers": "\"00\"",
-        "text": "O que acontece quando uma fam\u00edlia se mistura?"
+        "text": "O que acontece quando uma família se mistura?"
     },
     {
         "id": 78,
         "start": "240340",
         "end": "242880",
         "speakers": "\"00\"",
-        "text": "Se o casamento tivesse acontecido no in\u00edcio do epis\u00f3dio,"
+        "text": "Se o casamento tivesse acontecido no início do episódio,"
     },
     {
         "id": 79,
@@ -571,14 +571,14 @@
         "start": "248560",
         "end": "250280",
         "speakers": "\"00\"",
-        "text": "Essa magia s\u00f3 se aplica a esse povo?"
+        "text": "Essa magia só se aplica a esse povo?"
     },
     {
         "id": 82,
         "start": "250500",
         "end": "251820",
         "speakers": "\"00\"",
-        "text": "Ou \u00e9 uma coisa da floresta?"
+        "text": "Ou é uma coisa da floresta?"
     },
     {
         "id": 83,
@@ -592,21 +592,21 @@
         "start": "255960",
         "end": "260760",
         "speakers": "\"00\"",
-        "text": "Isso tem alguma liga\u00e7\u00e3o com a dimens\u00e3o da Sinem no epis\u00f3dio da Xerife?"
+        "text": "Isso tem alguma ligação com a dimensão da Sinem no episódio da Xerife?"
     },
     {
         "id": 85,
         "start": "261100",
         "end": "263380",
         "speakers": "\"00\"",
-        "text": "E s\u00e3o as centelhas m\u00e1gicas alterando as pessoas"
+        "text": "E são as centelhas mágicas alterando as pessoas"
     },
     {
         "id": 86,
         "start": "263380",
         "end": "266340",
         "speakers": "\"00\"",
-        "text": "e transformando esse povo em h\u00edbridos animais"
+        "text": "e transformando esse povo em híbridos animais"
     },
     {
         "id": 87,
@@ -627,14 +627,14 @@
         "start": "270300",
         "end": "270760",
         "speakers": "\"00\"",
-        "text": "Vamos l\u00e1."
+        "text": "Vamos lá."
     },
     {
         "id": 90,
         "start": "271100",
         "end": "273400",
         "speakers": "\"00\"",
-        "text": "Nesse mundo, quando duas fam\u00edlias casam,"
+        "text": "Nesse mundo, quando duas famílias casam,"
     },
     {
         "id": 91,
@@ -648,14 +648,14 @@
         "start": "276640",
         "end": "278580",
         "speakers": "\"00\"",
-        "text": "Normalmente, n\u00e3o envolve ser homem ou mulher,"
+        "text": "Normalmente, não envolve ser homem ou mulher,"
     },
     {
         "id": 93,
         "start": "279040",
         "end": "282380",
         "speakers": "\"00\"",
-        "text": "mas da fam\u00edlia mais importante,"
+        "text": "mas da família mais importante,"
     },
     {
         "id": 94,
@@ -669,28 +669,28 @@
         "start": "284520",
         "end": "286320",
         "speakers": "\"00\"",
-        "text": "Tu escolheu teu sobrenome, ele \u00e9 teu sobrenome."
+        "text": "Tu escolheu teu sobrenome, ele é teu sobrenome."
     },
     {
         "id": 96,
         "start": "287160",
         "end": "289920",
         "speakers": "\"00\"",
-        "text": "O teu sobrenome da fam\u00edlia, caso tu tenha mudado,"
+        "text": "O teu sobrenome da família, caso tu tenha mudado,"
     },
     {
         "id": 97,
         "start": "290280",
         "end": "291540",
         "speakers": "\"00\"",
-        "text": "ele se torna secund\u00e1rio."
+        "text": "ele se torna secundário."
     },
     {
         "id": 98,
         "start": "291840",
         "end": "293460",
         "speakers": "\"00\"",
-        "text": "Da mesma forma que os Cavaleiros dos Arco-\u00cdris"
+        "text": "Da mesma forma que os Cavaleiros dos Arco-Íris"
     },
     {
         "id": 99,
@@ -704,7 +704,7 @@
         "start": "295140",
         "end": "297940",
         "speakers": "\"00\"",
-        "text": "o seu sobrenome \u00e9 apagado, n\u00e9?"
+        "text": "o seu sobrenome é apagado, né?"
     },
     {
         "id": 101,
@@ -746,21 +746,21 @@
         "start": "307900",
         "end": "310740",
         "speakers": "\"00\"",
-        "text": "Essa \u00e9 uma das ideias de quando os Cavaleiros dos Arco-\u00cdris"
+        "text": "Essa é uma das ideias de quando os Cavaleiros dos Arco-Íris"
     },
     {
         "id": 107,
         "start": "310740",
         "end": "312060",
         "speakers": "\"00\"",
-        "text": "foram criados l\u00e1 atr\u00e1s."
+        "text": "foram criados lá atrás."
     },
     {
         "id": 108,
         "start": "312420",
         "end": "314780",
         "speakers": "\"00\"",
-        "text": "Essa magia da transforma\u00e7\u00e3o \u00e9 da floresta."
+        "text": "Essa magia da transformação é da floresta."
     },
     {
         "id": 109,
@@ -774,7 +774,7 @@
         "start": "316280",
         "end": "317680",
         "speakers": "\"00\"",
-        "text": "como a gente viu l\u00e1 no epis\u00f3dio 8,"
+        "text": "como a gente viu lá no episódio 8,"
     },
     {
         "id": 111,
@@ -795,14 +795,14 @@
         "start": "323120",
         "end": "323480",
         "speakers": "\"00\"",
-        "text": "N\u00e3o."
+        "text": "Não."
     },
     {
         "id": 114,
         "start": "323680",
         "end": "325700",
         "speakers": "\"00\"",
-        "text": "Os elfos v\u00e3o ser explicados em outro epis\u00f3dio"
+        "text": "Os elfos vão ser explicados em outro episódio"
     },
     {
         "id": 115,
@@ -816,35 +816,35 @@
         "start": "327320",
         "end": "327760",
         "speakers": "\"00\"",
-        "text": "mas os elfos v\u00e3o ser explicados em outro epis\u00f3dio."
+        "text": "mas os elfos vão ser explicados em outro episódio."
     },
     {
         "id": 117,
         "start": "327760",
         "end": "327920",
         "speakers": "\"00\"",
-        "text": "Mas os elfos v\u00e3o ser explicados em outro epis\u00f3dio."
+        "text": "Mas os elfos vão ser explicados em outro episódio."
     },
     {
         "id": 118,
         "start": "327920",
         "end": "330260",
         "speakers": "\"00\"",
-        "text": "Os elfos, por exemplo, os provos m\u00e1gicos,"
+        "text": "Os elfos, por exemplo, os provos mágicos,"
     },
     {
         "id": 119,
         "start": "330560",
         "end": "332320",
         "speakers": "\"00\"",
-        "text": "ele vem de uma outra cria\u00e7\u00e3o."
+        "text": "ele vem de uma outra criação."
     },
     {
         "id": 120,
         "start": "332640",
         "end": "334140",
         "speakers": "\"00\"",
-        "text": "Ent\u00e3o aguarde que vem coisa por a\u00ed."
+        "text": "Então aguarde que vem coisa por aí."
     },
     {
         "id": 121,
@@ -858,7 +858,7 @@
         "start": "335740",
         "end": "337360",
         "speakers": "\"00\"",
-        "text": "Adorei o epis\u00f3dio. Muito leve e gostoso."
+        "text": "Adorei o episódio. Muito leve e gostoso."
     },
     {
         "id": 123,
@@ -872,21 +872,21 @@
         "start": "339420",
         "end": "341900",
         "speakers": "\"00\"",
-        "text": "Muito obrigado, Ana. A ideia realmente era ter um epis\u00f3dio mais leve"
+        "text": "Muito obrigado, Ana. A ideia realmente era ter um episódio mais leve"
     },
     {
         "id": 125,
         "start": "341900",
         "end": "344220",
         "speakers": "\"00\"",
-        "text": "agora em janeiro. Muito obrigado pelo seu coment\u00e1rio."
+        "text": "agora em janeiro. Muito obrigado pelo seu comentário."
     },
     {
         "id": 126,
         "start": "344520",
         "end": "346120",
         "speakers": "\"00\"",
-        "text": "Muito obrigado por estar sempre a\u00ed nos ouvindo."
+        "text": "Muito obrigado por estar sempre aí nos ouvindo."
     },
     {
         "id": 127,
@@ -900,7 +900,7 @@
         "start": "348320",
         "end": "349140",
         "speakers": "\"00\"",
-        "text": "Epis\u00f3dio incr\u00edvel."
+        "text": "Episódio incrível."
     },
     {
         "id": 129,
@@ -914,7 +914,7 @@
         "start": "351700",
         "end": "353920",
         "speakers": "\"00\"",
-        "text": "S\u00f3 fiquei com uma d\u00favida. Os jogadores teriam como descobrir"
+        "text": "Só fiquei com uma dúvida. Os jogadores teriam como descobrir"
     },
     {
         "id": 131,
@@ -928,28 +928,28 @@
         "start": "355040",
         "end": "357740",
         "speakers": "\"00\"",
-        "text": "Se sim, como voc\u00ea lidaria com a desconfian\u00e7a"
+        "text": "Se sim, como você lidaria com a desconfiança"
     },
     {
         "id": 133,
         "start": "357740",
         "end": "359960",
         "speakers": "\"00\"",
-        "text": "que essa informa\u00e7\u00e3o traria a eles?"
+        "text": "que essa informação traria a eles?"
     },
     {
         "id": 134,
         "start": "360180",
         "end": "361400",
         "speakers": "\"00\"",
-        "text": "Essa \u00e9 a magia do RPG."
+        "text": "Essa é a magia do RPG."
     },
     {
         "id": 135,
         "start": "361840",
         "end": "363900",
         "speakers": "\"00\"",
-        "text": "De cabe\u00e7a, eu n\u00e3o sei como eles poderiam descobrir"
+        "text": "De cabeça, eu não sei como eles poderiam descobrir"
     },
     {
         "id": 136,
@@ -970,7 +970,7 @@
         "start": "367700",
         "end": "369880",
         "speakers": "\"00\"",
-        "text": "\u00c9 bem complicado. E se acontecesse,"
+        "text": "É bem complicado. E se acontecesse,"
     },
     {
         "id": 139,
@@ -984,7 +984,7 @@
         "start": "371480",
         "end": "373280",
         "speakers": "\"00\"",
-        "text": "de contornar a situa\u00e7\u00e3o, n\u00e9?"
+        "text": "de contornar a situação, né?"
     },
     {
         "id": 141,
@@ -998,14 +998,14 @@
         "start": "375940",
         "end": "377560",
         "speakers": "\"00\"",
-        "text": "que eu sei que algu\u00e9m perguntou."
+        "text": "que eu sei que alguém perguntou."
     },
     {
         "id": 143,
         "start": "377940",
         "end": "380300",
         "speakers": "\"00\"",
-        "text": "Mas a princ\u00edpio, eu teria que me virar."
+        "text": "Mas a princípio, eu teria que me virar."
     },
     {
         "id": 144,
@@ -1019,7 +1019,7 @@
         "start": "382400",
         "end": "383980",
         "speakers": "\"00\"",
-        "text": "Ol\u00e1! Primeira vez que comento"
+        "text": "Olá! Primeira vez que comento"
     },
     {
         "id": 146,
@@ -1033,35 +1033,35 @@
         "start": "385380",
         "end": "387360",
         "speakers": "\"00\"",
-        "text": "com anteced\u00eancia o epis\u00f3dio."
+        "text": "com antecedência o episódio."
     },
     {
         "id": 148,
         "start": "387740",
         "end": "389600",
         "speakers": "\"00\"",
-        "text": "Adorei o come\u00e7o do epis\u00f3dio com a discuss\u00e3o"
+        "text": "Adorei o começo do episódio com a discussão"
     },
     {
         "id": 149,
         "start": "389600",
         "end": "391880",
         "speakers": "\"00\"",
-        "text": "pol\u00edtica. Gostei das v\u00e1rias refer\u00eancias"
+        "text": "política. Gostei das várias referências"
     },
     {
         "id": 150,
         "start": "391880",
         "end": "393580",
         "speakers": "\"00\"",
-        "text": "\u00e0s situa\u00e7\u00f5es do nosso mundo em rela\u00e7\u00e3o"
+        "text": "às situações do nosso mundo em relação"
     },
     {
         "id": 151,
         "start": "393580",
         "end": "395580",
         "speakers": "\"00\"",
-        "text": "a elei\u00e7\u00f5es. Foi intencional"
+        "text": "a eleições. Foi intencional"
     },
     {
         "id": 152,
@@ -1075,7 +1075,7 @@
         "start": "397800",
         "end": "399900",
         "speakers": "\"00\"",
-        "text": "o coment\u00e1rio do Ricardo, sobre n\u00e3o ser"
+        "text": "o comentário do Ricardo, sobre não ser"
     },
     {
         "id": 154,
@@ -1096,28 +1096,28 @@
         "start": "403640",
         "end": "405360",
         "speakers": "\"00\"",
-        "text": "para as elei\u00e7\u00f5es paulistanas."
+        "text": "para as eleições paulistanas."
     },
     {
         "id": 157,
         "start": "405700",
         "end": "407760",
         "speakers": "\"00\"",
-        "text": "Eu gravei isso em janeiro. Os jogadores est\u00e3o de prova."
+        "text": "Eu gravei isso em janeiro. Os jogadores estão de prova."
     },
     {
         "id": 158,
         "start": "408160",
         "end": "409800",
         "speakers": "\"00\"",
-        "text": "\u00c9 \u00f3bvio que o RPG Guaxa,"
+        "text": "É óbvio que o RPG Guaxa,"
     },
     {
         "id": 159,
         "start": "409940",
         "end": "412060",
         "speakers": "\"00\"",
-        "text": "como qualquer produ\u00e7\u00e3o no universo,"
+        "text": "como qualquer produção no universo,"
     },
     {
         "id": 160,
@@ -1131,28 +1131,28 @@
         "start": "413980",
         "end": "415560",
         "speakers": "\"00\"",
-        "text": "uma influ\u00eanciazinha pol\u00edtica."
+        "text": "uma influênciazinha política."
     },
     {
         "id": 162,
         "start": "415960",
         "end": "417720",
         "speakers": "\"00\"",
-        "text": "Isso \u00e9 inevit\u00e1vel, gente. Tudo \u00e9 pol\u00edtica."
+        "text": "Isso é inevitável, gente. Tudo é política."
     },
     {
         "id": 163,
         "start": "417740",
         "end": "419420",
         "speakers": "\"00\"",
-        "text": "Tudo \u00e9 pol\u00edtico no mundo. Mas"
+        "text": "Tudo é político no mundo. Mas"
     },
     {
         "id": 164,
         "start": "419420",
         "end": "421920",
         "speakers": "\"00\"",
-        "text": "n\u00e3o foi nada assim direcionado"
+        "text": "não foi nada assim direcionado"
     },
     {
         "id": 165,
@@ -1173,7 +1173,7 @@
         "start": "425880",
         "end": "427440",
         "speakers": "\"00\"",
-        "text": "J\u00e1 outra pergunta que fiquei"
+        "text": "Já outra pergunta que fiquei"
     },
     {
         "id": 168,
@@ -1194,7 +1194,7 @@
         "start": "431760",
         "end": "433660",
         "speakers": "\"00\"",
-        "text": "ao seu sobrenome. Por\u00e9m, n\u00e3o era bem"
+        "text": "ao seu sobrenome. Porém, não era bem"
     },
     {
         "id": 171,
@@ -1215,7 +1215,7 @@
         "start": "438100",
         "end": "439640",
         "speakers": "\"00\"",
-        "text": "Novamente, parab\u00e9ns pelo epis\u00f3dio"
+        "text": "Novamente, parabéns pelo episódio"
     },
     {
         "id": 174,
@@ -1236,7 +1236,7 @@
         "start": "443760",
         "end": "445800",
         "speakers": "\"00\"",
-        "text": "\u00e9 porque uma coisa \u00e9 o teu"
+        "text": "é porque uma coisa é o teu"
     },
     {
         "id": 177,
@@ -1250,14 +1250,14 @@
         "start": "447740",
         "end": "449780",
         "speakers": "\"00\"",
-        "text": "A outra \u00e9 tu come\u00e7ar a produzir"
+        "text": "A outra é tu começar a produzir"
     },
     {
         "id": 179,
         "start": "449780",
         "end": "451860",
         "speakers": "\"00\"",
-        "text": "teia, sei l\u00e1, alguma coisa que poderia acontecer."
+        "text": "teia, sei lá, alguma coisa que poderia acontecer."
     },
     {
         "id": 180,
@@ -1292,42 +1292,42 @@
         "start": "459720",
         "end": "461840",
         "speakers": "\"00\"",
-        "text": "me falasse e da situa\u00e7\u00e3o a gente ia"
+        "text": "me falasse e da situação a gente ia"
     },
     {
         "id": 185,
         "start": "461840",
         "end": "463660",
         "speakers": "\"00\"",
-        "text": "criando ali em cima. Uma hist\u00f3ria"
+        "text": "criando ali em cima. Uma história"
     },
     {
         "id": 186,
         "start": "463660",
         "end": "465900",
         "speakers": "\"00\"",
-        "text": "coletiva, n\u00e9? Mas, a princ\u00edpio,"
+        "text": "coletiva, né? Mas, a princípio,"
     },
     {
         "id": 187,
         "start": "465920",
         "end": "467640",
         "speakers": "\"00\"",
-        "text": "eu n\u00e3o tinha pensado nada. At\u00e9 porque"
+        "text": "eu não tinha pensado nada. Até porque"
     },
     {
         "id": 188,
         "start": "467640",
         "end": "469800",
         "speakers": "\"00\"",
-        "text": "quando eu pensei na aventura, eu n\u00e3o"
+        "text": "quando eu pensei na aventura, eu não"
     },
     {
         "id": 189,
         "start": "469800",
         "end": "471680",
         "speakers": "\"00\"",
-        "text": "sabia com anteced\u00eancia qual era o"
+        "text": "sabia com antecedência qual era o"
     },
     {
         "id": 190,
@@ -1341,7 +1341,7 @@
         "start": "473740",
         "end": "475720",
         "speakers": "\"00\"",
-        "text": "pros jogadores, voc\u00eas podem ter o animal que quiser de sobrenome,"
+        "text": "pros jogadores, vocês podem ter o animal que quiser de sobrenome,"
     },
     {
         "id": 192,
@@ -1355,21 +1355,21 @@
         "start": "477740",
         "end": "479560",
         "speakers": "\"00\"",
-        "text": "vai ser de um NPC que j\u00e1 t\u00e1 pronto."
+        "text": "vai ser de um NPC que já tá pronto."
     },
     {
         "id": 194,
         "start": "479860",
         "end": "481680",
         "speakers": "\"00\"",
-        "text": "E da\u00ed eles, cada um pensou o que"
+        "text": "E daí eles, cada um pensou o que"
     },
     {
         "id": 195,
         "start": "481680",
         "end": "483660",
         "speakers": "\"00\"",
-        "text": "queria, n\u00e9? N\u00e3o sei. Dependendo do que o jogador"
+        "text": "queria, né? Não sei. Dependendo do que o jogador"
     },
     {
         "id": 196,
@@ -1383,28 +1383,28 @@
         "start": "485720",
         "end": "487660",
         "speakers": "\"00\"",
-        "text": "Mas teria que ser algo sutil, porque a transforma\u00e7\u00e3o"
+        "text": "Mas teria que ser algo sutil, porque a transformação"
     },
     {
         "id": 198,
         "start": "487660",
         "end": "490000",
         "speakers": "\"00\"",
-        "text": "leva muito tempo. A pr\u00f3pria Matilda,"
+        "text": "leva muito tempo. A própria Matilda,"
     },
     {
         "id": 199,
         "start": "490060",
         "end": "491340",
         "speakers": "\"00\"",
-        "text": "que t\u00e1 h\u00e1 anos na floresta,"
+        "text": "que tá há anos na floresta,"
     },
     {
         "id": 200,
         "start": "491680",
         "end": "493680",
         "speakers": "\"00\"",
-        "text": "ela ainda n\u00e3o virou uma arpia, que \u00e9 o"
+        "text": "ela ainda não virou uma arpia, que é o"
     },
     {
         "id": 201,
@@ -1418,7 +1418,7 @@
         "start": "495600",
         "end": "497580",
         "speakers": "\"00\"",
-        "text": "penas e tal, mas ela ainda n\u00e3o conseguia voar."
+        "text": "penas e tal, mas ela ainda não conseguia voar."
     },
     {
         "id": 203,
@@ -1439,21 +1439,21 @@
         "start": "501640",
         "end": "503600",
         "speakers": "\"00\"",
-        "text": "escreveu, eu queria ver um epis\u00f3dio"
+        "text": "escreveu, eu queria ver um episódio"
     },
     {
         "id": 206,
         "start": "503600",
         "end": "505620",
         "speakers": "\"00\"",
-        "text": "e se o candidato da fam\u00edlia corvo"
+        "text": "e se o candidato da família corvo"
     },
     {
         "id": 207,
         "start": "505620",
         "end": "507580",
         "speakers": "\"00\"",
-        "text": "aceitasse o casamento. Ali\u00e1s, fica"
+        "text": "aceitasse o casamento. Aliás, fica"
     },
     {
         "id": 208,
@@ -1467,21 +1467,21 @@
         "start": "509740",
         "end": "511480",
         "speakers": "\"00\"",
-        "text": "epis\u00f3dios curtinhos, contando alguns"
+        "text": "episódios curtinhos, contando alguns"
     },
     {
         "id": 210,
         "start": "511480",
         "end": "513740",
         "speakers": "\"00\"",
-        "text": "e se de epis\u00f3dios emblem\u00e1ticos."
+        "text": "e se de episódios emblemáticos."
     },
     {
         "id": 211,
         "start": "514620",
         "end": "515780",
         "speakers": "\"00\"",
-        "text": "Olha, \u00e9 uma ideia bacana,"
+        "text": "Olha, é uma ideia bacana,"
     },
     {
         "id": 212,
@@ -1495,56 +1495,56 @@
         "start": "517980",
         "end": "519460",
         "speakers": "\"00\"",
-        "text": "que por enquanto n\u00e3o t\u00e1 dando, eu mal t\u00f4"
+        "text": "que por enquanto não tá dando, eu mal tô"
     },
     {
         "id": 214,
         "start": "519460",
         "end": "521480",
         "speakers": "\"00\"",
-        "text": "tendo tempo de fazer as outras coisas. Mas, ok, t\u00e1"
+        "text": "tendo tempo de fazer as outras coisas. Mas, ok, tá"
     },
     {
         "id": 215,
         "start": "521480",
         "end": "523280",
         "speakers": "\"00\"",
-        "text": "anotado aqui. \u00c9 uma excelente ideia."
+        "text": "anotado aqui. É uma excelente ideia."
     },
     {
         "id": 216,
         "start": "523780",
         "end": "525520",
         "speakers": "\"00\"",
-        "text": "O gargalo \u00e9 tempo, n\u00e9? A gente"
+        "text": "O gargalo é tempo, né? A gente"
     },
     {
         "id": 217,
         "start": "525520",
         "end": "527420",
         "speakers": "\"00\"",
-        "text": "pra t\u00e1 dedicando a isso. Mas sim,"
+        "text": "pra tá dedicando a isso. Mas sim,"
     },
     {
         "id": 218,
         "start": "527520",
         "end": "529440",
         "speakers": "\"00\"",
-        "text": "\u00e9 uma ideia. \u00c9 engra\u00e7ado que"
+        "text": "é uma ideia. É engraçado que"
     },
     {
         "id": 219,
         "start": "529440",
         "end": "531920",
         "speakers": "\"00\"",
-        "text": "quando a jogadora Sabrina prop\u00f4s o casamento,"
+        "text": "quando a jogadora Sabrina propôs o casamento,"
     },
     {
         "id": 220,
         "start": "532360",
         "end": "533880",
         "speakers": "\"00\"",
-        "text": "eu fiquei totalmente sem rea\u00e7\u00e3o,"
+        "text": "eu fiquei totalmente sem reação,"
     },
     {
         "id": 221,
@@ -1558,7 +1558,7 @@
         "start": "535560",
         "end": "537060",
         "speakers": "\"00\"",
-        "text": "o foco da aventura, n\u00e9?"
+        "text": "o foco da aventura, né?"
     },
     {
         "id": 223,
@@ -1572,14 +1572,14 @@
         "start": "539960",
         "end": "541880",
         "speakers": "\"00\"",
-        "text": "a aventura n\u00e3o teria porqu\u00ea continuar."
+        "text": "a aventura não teria porquê continuar."
     },
     {
         "id": 225,
         "start": "542260",
         "end": "543660",
         "speakers": "\"00\"",
-        "text": "Ent\u00e3o eu dei ali o migu\u00e9 dele"
+        "text": "Então eu dei ali o migué dele"
     },
     {
         "id": 226,
@@ -1593,14 +1593,14 @@
         "start": "545600",
         "end": "547540",
         "speakers": "\"00\"",
-        "text": "\u00c9 uma ideia, talvez. E se tivessem"
+        "text": "É uma ideia, talvez. E se tivessem"
     },
     {
         "id": 228,
         "start": "547540",
         "end": "549680",
         "speakers": "\"00\"",
-        "text": "se casado, n\u00e9? Talvez o Anil"
+        "text": "se casado, né? Talvez o Anil"
     },
     {
         "id": 229,
@@ -1628,7 +1628,7 @@
         "start": "555900",
         "end": "557580",
         "speakers": "\"00\"",
-        "text": "N\u00e3o sei. \u00daltimo coment\u00e1rio \u00e9 do"
+        "text": "Não sei. Último comentário é do"
     },
     {
         "id": 233,
@@ -1649,7 +1649,7 @@
         "start": "561680",
         "end": "563520",
         "speakers": "\"00\"",
-        "text": "porque a dimens\u00e3o do arco-\u00edris \u00e9 minha"
+        "text": "porque a dimensão do arco-íris é minha"
     },
     {
         "id": 236,
@@ -1670,35 +1670,35 @@
         "start": "567580",
         "end": "569660",
         "speakers": "\"00\"",
-        "text": "Mesmo sem super mist\u00e9rios, pelo menos na primeira"
+        "text": "Mesmo sem super mistérios, pelo menos na primeira"
     },
     {
         "id": 239,
         "start": "569660",
         "end": "571680",
         "speakers": "\"00\"",
-        "text": "vez, n\u00e9? Agora que eu sei que t\u00e1 tudo"
+        "text": "vez, né? Agora que eu sei que tá tudo"
     },
     {
         "id": 240,
         "start": "571680",
         "end": "573740",
         "speakers": "\"00\"",
-        "text": "conectado, d\u00e1 pra ficar imaginando qual \u00e9 a realidade"
+        "text": "conectado, dá pra ficar imaginando qual é a realidade"
     },
     {
         "id": 241,
         "start": "573740",
         "end": "575540",
         "speakers": "\"00\"",
-        "text": "que ela se encaixa, em um lugar t\u00e3o"
+        "text": "que ela se encaixa, em um lugar tão"
     },
     {
         "id": 242,
         "start": "575540",
         "end": "577620",
         "speakers": "\"00\"",
-        "text": "aconchegante. Acho que essa \u00e9 a palavra."
+        "text": "aconchegante. Acho que essa é a palavra."
     },
     {
         "id": 243,
@@ -1719,14 +1719,14 @@
         "start": "581520",
         "end": "583220",
         "speakers": "\"00\"",
-        "text": "n\u00e3o vai ter golpe nessa cidade."
+        "text": "não vai ter golpe nessa cidade."
     },
     {
         "id": 246,
         "start": "583440",
         "end": "585600",
         "speakers": "\"00\"",
-        "text": "T\u00f4 sendo pra ter algum especial com o pr\u00f3prio"
+        "text": "Tô sendo pra ter algum especial com o próprio"
     },
     {
         "id": 247,
@@ -1740,7 +1740,7 @@
         "start": "587620",
         "end": "589700",
         "speakers": "\"00\"",
-        "text": "a hist\u00f3ria dele. PS, me sinto"
+        "text": "a história dele. PS, me sinto"
     },
     {
         "id": 249,
@@ -1754,42 +1754,42 @@
         "start": "591420",
         "end": "593980",
         "speakers": "\"00\"",
-        "text": "algumas prequels da Cr\u00f4nicas de Gelo e Fogo."
+        "text": "algumas prequels da Crônicas de Gelo e Fogo."
     },
     {
         "id": 251,
         "start": "594320",
         "end": "595560",
         "speakers": "\"00\"",
-        "text": "O Anil crian\u00e7a me lembra"
+        "text": "O Anil criança me lembra"
     },
     {
         "id": 252,
         "start": "595560",
         "end": "597560",
         "speakers": "\"00\"",
-        "text": "o velho Walder Frey. Crian\u00e7a."
+        "text": "o velho Walder Frey. Criança."
     },
     {
         "id": 253,
         "start": "597980",
         "end": "599280",
         "speakers": "\"00\"",
-        "text": "Aprontando o casamento da irm\u00e3."
+        "text": "Aprontando o casamento da irmã."
     },
     {
         "id": 254,
         "start": "599420",
         "end": "601600",
         "speakers": "\"00\"",
-        "text": "Os cavaleiros tamb\u00e9m lembram bastante a guarda"
+        "text": "Os cavaleiros também lembram bastante a guarda"
     },
     {
         "id": 255,
         "start": "601600",
         "end": "603940",
         "speakers": "\"00\"",
-        "text": "arco-\u00edris e a guarda real."
+        "text": "arco-íris e a guarda real."
     },
     {
         "id": 256,
@@ -1803,7 +1803,7 @@
         "start": "606100",
         "end": "607400",
         "speakers": "\"00\"",
-        "text": "O Anarati \u00e9 uma"
+        "text": "O Anarati é uma"
     },
     {
         "id": 258,
@@ -1817,14 +1817,14 @@
         "start": "609540",
         "end": "611760",
         "speakers": "\"00\"",
-        "text": "um dia. Acho que isso teria uma hist\u00f3ria muito bacana"
+        "text": "um dia. Acho que isso teria uma história muito bacana"
     },
     {
         "id": 260,
         "start": "611760",
         "end": "613640",
         "speakers": "\"00\"",
-        "text": "pra contar dele. Eu s\u00f3 preciso"
+        "text": "pra contar dele. Eu só preciso"
     },
     {
         "id": 261,
@@ -1838,21 +1838,21 @@
         "start": "615400",
         "end": "617520",
         "speakers": "\"00\"",
-        "text": "Esse epis\u00f3dio foi in\u00edcio de ano."
+        "text": "Esse episódio foi início de ano."
     },
     {
         "id": 263,
         "start": "617740",
         "end": "619300",
         "speakers": "\"00\"",
-        "text": "N\u00e3o foi aquele epis\u00f3dio de explodir"
+        "text": "Não foi aquele episódio de explodir"
     },
     {
         "id": 264,
         "start": "619300",
         "end": "621180",
         "speakers": "\"00\"",
-        "text": "cabe\u00e7a, ent\u00e3o teve poucos coment\u00e1rios."
+        "text": "cabeça, então teve poucos comentários."
     },
     {
         "id": 265,
@@ -1866,28 +1866,28 @@
         "start": "623860",
         "end": "625360",
         "speakers": "\"00\"",
-        "text": "Quero lembrar voc\u00eas que esse"
+        "text": "Quero lembrar vocês que esse"
     },
     {
         "id": 267,
         "start": "625360",
         "end": "627400",
         "speakers": "\"00\"",
-        "text": "podcast s\u00f3 existe porque temos padrinhos"
+        "text": "podcast só existe porque temos padrinhos"
     },
     {
         "id": 268,
         "start": "627580",
         "end": "629680",
         "speakers": "\"00\"",
-        "text": "ajudando a pagar a edi\u00e7\u00e3o. Patronato"
+        "text": "ajudando a pagar a edição. Patronato"
     },
     {
         "id": 269,
         "start": "629680",
         "end": "631860",
         "speakers": "\"00\"",
-        "text": "d\u00e1 direito a um monte de coisa, como a gente sempre fala."
+        "text": "dá direito a um monte de coisa, como a gente sempre fala."
     },
     {
         "id": 270,
@@ -1908,7 +1908,7 @@
         "start": "635720",
         "end": "637680",
         "speakers": "\"00\"",
-        "text": "parte do grupo do Telegram. Mas eu t\u00f4"
+        "text": "parte do grupo do Telegram. Mas eu tô"
     },
     {
         "id": 273,
@@ -1922,7 +1922,7 @@
         "start": "639880",
         "end": "641640",
         "speakers": "\"00\"",
-        "text": "os novos padrinhos. Ent\u00e3o eu quero"
+        "text": "os novos padrinhos. Então eu quero"
     },
     {
         "id": 275,
@@ -1964,7 +1964,7 @@
         "start": "651620",
         "end": "653360",
         "speakers": "\"00\"",
-        "text": "ao Marcos Assun\u00e7\u00e3o, ao Paulo"
+        "text": "ao Marcos Assunção, ao Paulo"
     },
     {
         "id": 281,
@@ -1992,7 +1992,7 @@
         "start": "660220",
         "end": "661700",
         "speakers": "\"00\"",
-        "text": "a Alana Sabihon, \u00e9, de novo,"
+        "text": "a Alana Sabihon, é, de novo,"
     },
     {
         "id": 285,
@@ -2006,14 +2006,14 @@
         "start": "663120",
         "end": "665480",
         "speakers": "\"00\"",
-        "text": "Jo\u00e3o Paulo Buncho, tamb\u00e9m,"
+        "text": "João Paulo Buncho, também,"
     },
     {
         "id": 287,
         "start": "665840",
         "end": "667240",
         "speakers": "\"00\"",
-        "text": "n\u00e9, em casal, olha s\u00f3."
+        "text": "né, em casal, olha só."
     },
     {
         "id": 288,
@@ -2027,14 +2027,14 @@
         "start": "669380",
         "end": "671160",
         "speakers": "\"00\"",
-        "text": "o Josair Gon\u00e7alves J\u00fanior,"
+        "text": "o Josair Gonçalves Júnior,"
     },
     {
         "id": 290,
         "start": "671520",
         "end": "673180",
         "speakers": "\"00\"",
-        "text": "o Vitor Pr\u00e1 Medeiros,"
+        "text": "o Vitor Prá Medeiros,"
     },
     {
         "id": 291,
@@ -2048,7 +2048,7 @@
         "start": "675400",
         "end": "677540",
         "speakers": "\"00\"",
-        "text": "Ascioli, Maur\u00edcio Jussum,"
+        "text": "Ascioli, Maurício Jussum,"
     },
     {
         "id": 293,
@@ -2083,7 +2083,7 @@
         "start": "685200",
         "end": "687340",
         "speakers": "\"00\"",
-        "text": "Muito obrigado a todos voc\u00eas"
+        "text": "Muito obrigado a todos vocês"
     },
     {
         "id": 298,
@@ -2104,14 +2104,14 @@
         "start": "691120",
         "end": "692740",
         "speakers": "\"00\"",
-        "text": "cada vez mais epis\u00f3dios."
+        "text": "cada vez mais episódios."
     },
     {
         "id": 301,
         "start": "693120",
         "end": "695280",
         "speakers": "\"00\"",
-        "text": "Um beijo no cora\u00e7\u00e3o de voc\u00eas e semana que"
+        "text": "Um beijo no coração de vocês e semana que"
     },
     {
         "id": 302,
@@ -2132,28 +2132,28 @@
         "start": "713300",
         "end": "715400",
         "speakers": "\"00\"",
-        "text": "Eu sei que voc\u00ea t\u00e1 aqui esperando uma cena extra,"
+        "text": "Eu sei que você tá aqui esperando uma cena extra,"
     },
     {
         "id": 305,
         "start": "715540",
         "end": "717260",
         "speakers": "\"00\"",
-        "text": "mas eu t\u00f4 de f\u00e9rias e como muitas"
+        "text": "mas eu tô de férias e como muitas"
     },
     {
         "id": 306,
         "start": "717260",
         "end": "719300",
         "speakers": "\"00\"",
-        "text": "vezes a gente comentou, \u00e9 um epis\u00f3dio mais simples."
+        "text": "vezes a gente comentou, é um episódio mais simples."
     },
     {
         "id": 307,
         "start": "719640",
         "end": "721180",
         "speakers": "\"00\"",
-        "text": "Ent\u00e3o eu vou deixar aqui uma coisa"
+        "text": "Então eu vou deixar aqui uma coisa"
     },
     {
         "id": 308,
@@ -2195,7 +2195,7 @@
         "start": "731320",
         "end": "733260",
         "speakers": "\"01, 00\"",
-        "text": "guaxinim e gambi\u00e1s"
+        "text": "guaxinim e gambiás"
     },
     {
         "id": 314,
@@ -2216,7 +2216,7 @@
         "start": "739380",
         "end": "741400",
         "speakers": "\"01\"",
-        "text": "um \u00fanico atributo"
+        "text": "um único atributo"
     },
     {
         "id": 317,
@@ -2244,7 +2244,7 @@
         "start": "748680",
         "end": "751220",
         "speakers": "\"01\"",
-        "text": "mais atl\u00e9tico \u00e9 o"
+        "text": "mais atlético é o"
     },
     {
         "id": 321,
@@ -2272,7 +2272,7 @@
         "start": "757180",
         "end": "758300",
         "speakers": "\"01\"",
-        "text": "e carism\u00e1tico"
+        "text": "e carismático"
     },
     {
         "id": 325,
@@ -2328,7 +2328,7 @@
         "start": "772120",
         "end": "775380",
         "speakers": "\"01\"",
-        "text": "Pra ataques e a\u00e7\u00f5es f\u00edsicas"
+        "text": "Pra ataques e ações físicas"
     },
     {
         "id": 333,
@@ -2363,7 +2363,7 @@
         "start": "778700",
         "end": "781020",
         "speakers": "\"01\"",
-        "text": "Pra a\u00e7\u00f5es intelectuais"
+        "text": "Pra ações intelectuais"
     },
     {
         "id": 338,
@@ -2377,14 +2377,14 @@
         "start": "782260",
         "end": "785540",
         "speakers": "\"01\"",
-        "text": "E se a jogada for f\u00e1cil"
+        "text": "E se a jogada for fácil"
     },
     {
         "id": 340,
         "start": "785540",
         "end": "788380",
         "speakers": "\"01\"",
-        "text": "Ou tiver algum aux\u00edlio"
+        "text": "Ou tiver algum auxílio"
     },
     {
         "id": 341,
@@ -2398,7 +2398,7 @@
         "start": "790700",
         "end": "793200",
         "speakers": "\"01\"",
-        "text": "Se a jogada for dif\u00edcil"
+        "text": "Se a jogada for difícil"
     },
     {
         "id": 343,
@@ -2447,14 +2447,14 @@
         "start": "805120",
         "end": "807120",
         "speakers": "\"01\"",
-        "text": "Porque essas hist\u00f3rias"
+        "text": "Porque essas histórias"
     },
     {
         "id": 350,
         "start": "807200",
         "end": "809320",
         "speakers": "\"01\"",
-        "text": "incr\u00edveis"
+        "text": "incríveis"
     },
     {
         "id": 351,

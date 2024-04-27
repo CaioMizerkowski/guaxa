@@ -16,8 +16,8 @@ def csv2json(csv_file, json_file):
         line = [idx] + line
         data.append(dict(zip(fields, line)))
 
-    with open(json_file, "w") as f:
-        json.dump(data, f, indent=4)
+    with open(json_file, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
 
 
 root1 = Path("transcricoes/guaxaverso")
