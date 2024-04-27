@@ -1,9 +1,13 @@
-for f in *.mp3; do echo $f; whisper $f --model large --language Portuguese ; done
+#!/bin/bash
 
-for f in *.vtt; do nf=${f%.*}; mkdir -p ${nf}; mv ${nf}.* ${nf}/ ; done
+for f in $(ls transcricoes/*/*/*.mp3);
+    do
+    # check if the file is already transcribed
+    if [ -f ${f%.*}.vtt ]; then
+        continue
+    fi
 
-mkdir transcricoes
-mkdir transcricoes/rpguaxa
-mkdir transcricoes/guaxaverso
-mv *rpguaxa* transcricoes/rpguaxa/
-mv *guaxaverso* transcricoes/guaxaverso/
+    echo "Transcribing $f"    
+    whisper $f --model large --language Portuguese --output_dir ${f%/*}
+    
+    done

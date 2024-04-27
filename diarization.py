@@ -38,9 +38,9 @@ if __name__ == "__main__":
     root2 = Path("transcricoes/rpguaxa")
     chain_root = chain(root1.iterdir(), root2.iterdir())
 
-    for dir in sorted(chain_root):
-        audio_path = dir / (dir.stem + ".mp3")
+    for folder in sorted(chain_root):
+        audio_path = folder / (folder.stem + ".mp3")
 
-        if not (dir / "diarization.txt").exists():
+        if not (folder / "diarization.txt").exists():
             print(audio_path)
             diarize(audio_path)

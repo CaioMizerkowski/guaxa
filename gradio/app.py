@@ -5,7 +5,6 @@ from natsort import natsorted
 
 import gradio as gr
 
-
 root = Path()
 
 
@@ -53,15 +52,13 @@ class ProcessData:
 
         text = ";".join(self.texts[self.idx].split(";")[2:])
 
-        print(f"loop:{self.idx}, text:{text}, prev:{prev_text}")
-
         audio = self.fragments[self.idx]
         self.idx += 1
         return text, audio
 
 
 def selecao(episodio: Path):
-    global root, process_data
+    global root
     root = Path(episodio)
     process_data.init(root)
 

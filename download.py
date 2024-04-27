@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 from unidecode import unidecode
 
-resp = requests.get("https://www.deviante.com.br/podcasts/rpguaxa/feed/")
+resp = requests.get("https://www.deviante.com.br/podcasts/rpguaxa/feed/", timeout=60)
 soup = BeautifulSoup(resp.text, "xml")
 for item in soup.find_all("item"):
     text: str = item.title.text

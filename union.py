@@ -73,7 +73,7 @@ def create_union(folder: Path):
             if intersection_1d(start_t, stop_t, start_d, stop_d) > 0:
                 speakers.add(speaker)
 
-        if not len(speakers):
+        if not speakers:
             speakers.add("unknown")
 
         result.append((speakers, start_t, stop_t, text))

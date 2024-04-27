@@ -25,8 +25,8 @@ root2 = Path("transcricoes/rpguaxa")
 chain_root = chain(root1.iterdir(), root2.iterdir())
 
 
-for dir in sorted(chain_root):
-    csv_file = dir / "union.csv"
-    json_file = dir / "union.json"
+for folder in sorted(chain_root):
+    csv_file = folder / "union.csv"
+    json_file = folder / "union.json"
 
     csv2json(csv_file, json_file)

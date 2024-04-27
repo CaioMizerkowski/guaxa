@@ -1,0 +1,9 @@
+ignore-paths:
+  - transcricoes
+
+ignore-patterns:
+  -  (^|/)transcricoes(/|$)
+
+pylint:
+  disable:
+    - W1514

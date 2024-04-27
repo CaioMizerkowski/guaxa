@@ -28,8 +28,8 @@ root1 = Path("transcricoes/guaxaverso")
 root2 = Path("transcricoes/rpguaxa")
 chain_root = chain(root1.iterdir(), root2.iterdir())
 
-for dir in sorted(chain_root):
-    csv_file = dir / "union.csv"
-    txt_file = dir / "union.txt"
+for folder in sorted(chain_root):
+    csv_file = folder / "union.csv"
+    txt_file = folder / "union.txt"
 
     txt2csv(txt_file, csv_file)
