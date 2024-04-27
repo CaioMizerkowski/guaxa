@@ -1,0 +1,639 @@
+[
+    {
+        "id": 0,
+        "start": "0",
+        "end": "7500",
+        "speakers": "\"01\"",
+        "text": "Ice, Ice, olha ali, ele... ele t\u00e1 morto?"
+    },
+    {
+        "id": 1,
+        "start": "9020",
+        "end": "10900",
+        "speakers": "\"01\"",
+        "text": "Esse bicho n\u00e3o morre t\u00e3o f\u00e1cil."
+    },
+    {
+        "id": 2,
+        "start": "13020",
+        "end": "14000",
+        "speakers": "\"01\"",
+        "text": "Acredite em mim."
+    },
+    {
+        "id": 3,
+        "start": "15060",
+        "end": "16180",
+        "speakers": "\"01\"",
+        "text": "Guaxa, voc\u00ea t\u00e1 bem?"
+    },
+    {
+        "id": 4,
+        "start": "16640",
+        "end": "17880",
+        "speakers": "\"00\"",
+        "text": "Ah, Guaxa?"
+    },
+    {
+        "id": 5,
+        "start": "18380",
+        "end": "20620",
+        "speakers": "\"01\"",
+        "text": "Ah, \u00e9 mais f\u00e1cil que falar Guaxinim Gal\u00e1ctico."
+    },
+    {
+        "id": 6,
+        "start": "21740",
+        "end": "25760",
+        "speakers": "\"00\"",
+        "text": "Guaxinim Gal\u00e1ctico, eu... eu sempre odiei esse nome."
+    },
+    {
+        "id": 7,
+        "start": "26260",
+        "end": "28140",
+        "speakers": "\"01\"",
+        "text": "\u00c9, meu av\u00f4 chamava ele de G."
+    },
+    {
+        "id": 8,
+        "start": "28140",
+        "end": "32560",
+        "speakers": "\"01\"",
+        "text": "Ele gostava de letras. N, X, Y."
+    },
+    {
+        "id": 9,
+        "start": "33540",
+        "end": "34260",
+        "speakers": "\"00\"",
+        "text": "Ok."
+    },
+    {
+        "id": 10,
+        "start": "35880",
+        "end": "36800",
+        "speakers": "\"00\"",
+        "text": "Guaxa, ent\u00e3o."
+    },
+    {
+        "id": 11,
+        "start": "38280",
+        "end": "39000",
+        "speakers": "\"00\"",
+        "text": "Perdemos?"
+    },
+    {
+        "id": 12,
+        "start": "39460",
+        "end": "41700",
+        "speakers": "\"01\"",
+        "text": "Eu ainda estou de p\u00e9."
+    },
+    {
+        "id": 13,
+        "start": "42560",
+        "end": "46180",
+        "speakers": "\"00\"",
+        "text": "Mas e o multiverso? E as realidades paralelas que protegem?"
+    },
+    {
+        "id": 14,
+        "start": "46520",
+        "end": "47500",
+        "speakers": "\"01\"",
+        "text": "O Guaxaverso."
+    },
+    {
+        "id": 15,
+        "start": "48300",
+        "end": "49020",
+        "speakers": "\"unknown\"",
+        "text": "Que?"
+    },
+    {
+        "id": 16,
+        "start": "49720",
+        "end": "56160",
+        "speakers": "\"01\"",
+        "text": "\u00c9, faz sentido. Se s\u00e3o as realidades paralelas do Guaxinim, \u00e9 o Guaxaverso."
+    },
+    {
+        "id": 17,
+        "start": "56160",
+        "end": "56600",
+        "speakers": "\"01, 00\"",
+        "text": "Ah."
+    },
+    {
+        "id": 18,
+        "start": "56600",
+        "end": "60260",
+        "speakers": "\"00\"",
+        "text": "Acho que vai ter mais fortes na cabe\u00e7a de voc\u00eas que na minha."
+    },
+    {
+        "id": 19,
+        "start": "61460",
+        "end": "61820",
+        "speakers": "\"00\"",
+        "text": "Ufa."
+    },
+    {
+        "id": 20,
+        "start": "63100",
+        "end": "63540",
+        "speakers": "\"01\"",
+        "text": "E agora?"
+    },
+    {
+        "id": 21,
+        "start": "65140",
+        "end": "66140",
+        "speakers": "\"01, 00\"",
+        "text": "Agora o..."
+    },
+    {
+        "id": 22,
+        "start": "66140",
+        "end": "66600",
+        "speakers": "\"01, 00\"",
+        "text": "Guaxaverso."
+    },
+    {
+        "id": 23,
+        "start": "67880",
+        "end": "68600",
+        "speakers": "\"00\"",
+        "text": "O Guaxaverso."
+    },
+    {
+        "id": 24,
+        "start": "70700",
+        "end": "71660",
+        "speakers": "\"00\"",
+        "text": "Chegou o fator."
+    },
+    {
+        "id": 25,
+        "start": "86600",
+        "end": "93600",
+        "speakers": "\"01, 00\"",
+        "text": "O que? Quem s\u00e3o voc\u00eas?"
+    },
+    {
+        "id": 26,
+        "start": "93600",
+        "end": "96100",
+        "speakers": "\"00\"",
+        "text": "N\u00f3s somos a Guaxa-Humanidade."
+    },
+    {
+        "id": 27,
+        "start": "96100",
+        "end": "100100",
+        "speakers": "\"01\"",
+        "text": "Um grupo de observadores que frequentava a mesma taberna."
+    },
+    {
+        "id": 28,
+        "start": "100100",
+        "end": "103100",
+        "speakers": "\"01\"",
+        "text": "Longa hist\u00f3ria isso tudo."
+    },
+    {
+        "id": 29,
+        "start": "103100",
+        "end": "104100",
+        "speakers": "\"01\"",
+        "text": "Depois a gente canta."
+    },
+    {
+        "id": 30,
+        "start": "104100",
+        "end": "104600",
+        "speakers": "\"01, 00\"",
+        "text": "Que?"
+    },
+    {
+        "id": 31,
+        "start": "104600",
+        "end": "106100",
+        "speakers": "\"01\"",
+        "text": "H\u00e3?"
+    },
+    {
+        "id": 32,
+        "start": "106100",
+        "end": "107600",
+        "speakers": "\"01\"",
+        "text": "Que?"
+    },
+    {
+        "id": 33,
+        "start": "107600",
+        "end": "110600",
+        "speakers": "\"01\"",
+        "text": "O importante \u00e9 que estamos aqui para salvar o Guaxaverso."
+    },
+    {
+        "id": 34,
+        "start": "110600",
+        "end": "111600",
+        "speakers": "\"unknown\"",
+        "text": "O Guaxaverso."
+    },
+    {
+        "id": 35,
+        "start": "111600",
+        "end": "113600",
+        "speakers": "\"unknown\"",
+        "text": "O Guaxaverso."
+    },
+    {
+        "id": 36,
+        "start": "113600",
+        "end": "114600",
+        "speakers": "\"unknown\"",
+        "text": "O Guaxaverso."
+    },
+    {
+        "id": 37,
+        "start": "114600",
+        "end": "115600",
+        "speakers": "\"unknown\"",
+        "text": "O Guaxaverso."
+    },
+    {
+        "id": 38,
+        "start": "115600",
+        "end": "116100",
+        "speakers": "\"00\"",
+        "text": "O Guaxaverso."
+    },
+    {
+        "id": 39,
+        "start": "116100",
+        "end": "117600",
+        "speakers": "\"00\"",
+        "text": "Obrigado por esse ano incr\u00edvel."
+    },
+    {
+        "id": 40,
+        "start": "117600",
+        "end": "120600",
+        "speakers": "\"00\"",
+        "text": "Quero agradecer a todos que divulgaram em suas redes sociais."
+    },
+    {
+        "id": 41,
+        "start": "120600",
+        "end": "122600",
+        "speakers": "\"00\"",
+        "text": "Que recomendaram a seus amigos."
+    },
+    {
+        "id": 42,
+        "start": "122600",
+        "end": "126100",
+        "speakers": "\"00\"",
+        "text": "E principalmente \u00e0queles que fizeram o Guaxaverso existir."
+    },
+    {
+        "id": 43,
+        "start": "126100",
+        "end": "131100",
+        "speakers": "\"00\"",
+        "text": "Meu muito obrigado a todos voc\u00eas que apoiaram financeiramente esse projeto."
+    },
+    {
+        "id": 44,
+        "start": "131100",
+        "end": "133100",
+        "speakers": "\"00\"",
+        "text": "Pelo PicPay e pelo Padrim."
+    },
+    {
+        "id": 45,
+        "start": "133100",
+        "end": "135100",
+        "speakers": "\"00\"",
+        "text": "E at\u00e9 pelo Orelo."
+    },
+    {
+        "id": 46,
+        "start": "135100",
+        "end": "141100",
+        "speakers": "\"00\"",
+        "text": "E quero convidar voc\u00ea que ainda n\u00e3o faz parte dessa Guaxa-Humanidade a se unir a esta fam\u00edlia."
+    },
+    {
+        "id": 47,
+        "start": "141100",
+        "end": "145100",
+        "speakers": "\"00\"",
+        "text": "Pois em 2023 teremos desafios maiores."
+    },
+    {
+        "id": 48,
+        "start": "146100",
+        "end": "148600",
+        "speakers": "\"00\"",
+        "text": "Feliz ano novo a todos voc\u00eas."
+    },
+    {
+        "id": 49,
+        "start": "148600",
+        "end": "150100",
+        "speakers": "\"00\"",
+        "text": "E n\u00e3o esque\u00e7a."
+    },
+    {
+        "id": 50,
+        "start": "150100",
+        "end": "151100",
+        "speakers": "\"00\"",
+        "text": "Fala em 6."
+    },
+    {
+        "id": 51,
+        "start": "151100",
+        "end": "152100",
+        "speakers": "\"00\"",
+        "text": "Fala em 20."
+    },
+    {
+        "id": 52,
+        "start": "152100",
+        "end": "153600",
+        "speakers": "\"00\"",
+        "text": "Mas se tudo \u00e9 errado."
+    },
+    {
+        "id": 53,
+        "start": "153600",
+        "end": "154600",
+        "speakers": "\"00\"",
+        "text": "Fala no ch\u00e3o."
+    },
+    {
+        "id": 54,
+        "start": "154600",
+        "end": "156600",
+        "speakers": "\"00\"",
+        "text": "Que apaga o fogo e diverte."
+    },
+    {
+        "id": 55,
+        "start": "176100",
+        "end": "180600",
+        "speakers": "\"unknown\"",
+        "text": "MUSICA"
+    },
+    {
+        "id": 56,
+        "start": "181100",
+        "end": "186600",
+        "speakers": "\"unknown\"",
+        "text": "Se inscreva!"
+    },
+    {
+        "id": 57,
+        "start": "188100",
+        "end": "189900",
+        "speakers": "\"unknown\"",
+        "text": "Filipino"
+    },
+    {
+        "id": 58,
+        "start": "189900",
+        "end": "191100",
+        "speakers": "\"unknown\"",
+        "text": "kuwe"
+    },
+    {
+        "id": 59,
+        "start": "193100",
+        "end": "194100",
+        "speakers": "\"00\"",
+        "text": "Obrigado, Danilo."
+    },
+    {
+        "id": 60,
+        "start": "194100",
+        "end": "195940",
+        "speakers": "\"00\"",
+        "text": "Essa voz tem um efeito de uma voz."
+    },
+    {
+        "id": 61,
+        "start": "195940",
+        "end": "197100",
+        "speakers": "\"00\"",
+        "text": "Eu tenho que descobrir qual \u00e9 o efeito."
+    },
+    {
+        "id": 62,
+        "start": "197100",
+        "end": "198600",
+        "speakers": "\"00\"",
+        "text": "Mas eu te falo."
+    },
+    {
+        "id": 63,
+        "start": "198600",
+        "end": "199600",
+        "speakers": "\"00\"",
+        "text": "Eu acho."
+    },
+    {
+        "id": 64,
+        "start": "199600",
+        "end": "200800",
+        "speakers": "\"00\"",
+        "text": "Ou me lembro."
+    },
+    {
+        "id": 65,
+        "start": "201100",
+        "end": "201600",
+        "speakers": "\"00\"",
+        "text": "Vamos l\u00e1!"
+    },
+    {
+        "id": 66,
+        "start": "202100",
+        "end": "203100",
+        "speakers": "\"01\"",
+        "text": "Beijo Ju \uc544\uc774."
+    },
+    {
+        "id": 67,
+        "start": "203100",
+        "end": "204520",
+        "speakers": "\"01\"",
+        "text": "Eu acho que deu certo."
+    },
+    {
+        "id": 68,
+        "start": "205100",
+        "end": "205720",
+        "speakers": "\"01\"",
+        "text": "Saudades."
+    },
+    {
+        "id": 69,
+        "start": "205720",
+        "end": "206080",
+        "speakers": "\"01\"",
+        "text": "Quanto tempo passou?"
+    },
+    {
+        "id": 70,
+        "start": "206100",
+        "end": "208480",
+        "speakers": "\"01\"",
+        "text": "gravarmos, n\u00e9? Vida louca. Beijo."
+    },
+    {
+        "id": 71,
+        "start": "209080",
+        "end": "210360",
+        "speakers": "\"00\"",
+        "text": "Agora com a minha voz normal."
+    },
+    {
+        "id": 72,
+        "start": "210900",
+        "end": "212300",
+        "speakers": "\"00\"",
+        "text": "Obrigado, gente. Obrigado por esse ano"
+    },
+    {
+        "id": 73,
+        "start": "212300",
+        "end": "213980",
+        "speakers": "\"00\"",
+        "text": "incr\u00edvel. Quero agradecer a todos que"
+    },
+    {
+        "id": 74,
+        "start": "213980",
+        "end": "215460",
+        "speakers": "\"00\"",
+        "text": "divulgarem suas redes sociais,"
+    },
+    {
+        "id": 75,
+        "start": "216060",
+        "end": "218200",
+        "speakers": "\"00\"",
+        "text": "que recomendarem seus amigos..."
+    },
+    {
+        "id": 76,
+        "start": "218200",
+        "end": "220460",
+        "speakers": "\"00\"",
+        "text": "Desculpa de novo."
+    },
+    {
+        "id": 77,
+        "start": "221540",
+        "end": "222300",
+        "speakers": "\"00\"",
+        "text": "Que ainda n\u00e3o faz"
+    },
+    {
+        "id": 78,
+        "start": "222300",
+        "end": "223260",
+        "speakers": "\"00\"",
+        "text": "parte dessa"
+    },
+    {
+        "id": 79,
+        "start": "223260",
+        "end": "225100",
+        "speakers": "\"00\"",
+        "text": "guachomunidade"
+    },
+    {
+        "id": 80,
+        "start": "225100",
+        "end": "227100",
+        "speakers": "\"00\"",
+        "text": "a se unir com a gente."
+    },
+    {
+        "id": 81,
+        "start": "228320",
+        "end": "229980",
+        "speakers": "\"00\"",
+        "text": "A se unir com a gente \u00e9 feio, n\u00e9?"
+    },
+    {
+        "id": 82,
+        "start": "230900",
+        "end": "232180",
+        "speakers": "\"00\"",
+        "text": "E quero"
+    },
+    {
+        "id": 83,
+        "start": "232180",
+        "end": "233380",
+        "speakers": "\"00\"",
+        "text": "convidar voc\u00ea que ainda..."
+    },
+    {
+        "id": 84,
+        "start": "233380",
+        "end": "235480",
+        "speakers": "\"00\"",
+        "text": "E quero convidar voc\u00ea que ainda n\u00e3o faz..."
+    },
+    {
+        "id": 85,
+        "start": "235480",
+        "end": "238200",
+        "speakers": "\"00\"",
+        "text": "E quero convidar voc\u00ea que ainda n\u00e3o faz"
+    },
+    {
+        "id": 86,
+        "start": "238200",
+        "end": "239800",
+        "speakers": "\"00\"",
+        "text": "parte dessa guachomunidade"
+    },
+    {
+        "id": 87,
+        "start": "239800",
+        "end": "242240",
+        "speakers": "\"00\"",
+        "text": "a vir fazer parte deste grupo."
+    },
+    {
+        "id": 88,
+        "start": "243060",
+        "end": "244500",
+        "speakers": "\"00\"",
+        "text": "A se unir a esta fam\u00edlia."
+    },
+    {
+        "id": 89,
+        "start": "245280",
+        "end": "246200",
+        "speakers": "\"00\"",
+        "text": "A fazer parte."
+    },
+    {
+        "id": 90,
+        "start": "248060",
+        "end": "249520",
+        "speakers": "\"00\"",
+        "text": "Escolhe um que ficou menos rid\u00edculo."
+    }
+]

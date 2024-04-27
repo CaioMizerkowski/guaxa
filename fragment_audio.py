@@ -1,7 +1,9 @@
-from pathlib import Path
-from tqdm import tqdm
 import os
 from concurrent.futures import ThreadPoolExecutor
+from itertools import chain
+from pathlib import Path
+
+from tqdm import tqdm
 
 
 def process_audio(root: Path):
@@ -28,6 +30,10 @@ def process_audio(root: Path):
 
 executor = ThreadPoolExecutor(max_workers=16)
 
-for root in sorted(Path("transcricoes/rpguaxa").iterdir()):
+root1 = Path("transcricoes/guaxaverso")
+root2 = Path("transcricoes/rpguaxa")
+chain_root = chain(root1.iterdir(), root2.iterdir())
+
+for root in sorted(chain_root):
     if root.is_dir():
         executor.submit(process_audio, root)

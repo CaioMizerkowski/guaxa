@@ -1,6 +1,8 @@
-import gradio as gr
 from pathlib import Path
+
 from natsort import natsorted
+
+import gradio as gr
 
 
 class ProcessData:

@@ -1,3 +1,4 @@
+from itertools import chain
 from pathlib import Path
 
 
@@ -11,7 +12,7 @@ def txt2csv(txt_file, csv_file):
         indexes, speakers = line.strip().split("(")
         speakers, text = speakers.split(")")
 
-        indexes = indexes.replace(" ", ";").strip()
+        indexes = indexes.strip().replace(" ", ";")
         speakers = f'"{speakers.strip()}"'
         text = text.strip()
 
@@ -23,8 +24,11 @@ def txt2csv(txt_file, csv_file):
             f.write(line + "\n")
 
 
-root = Path("transcricoes/rpguaxa")
-for dir in root.iterdir():
+root1 = Path("transcricoes/guaxaverso")
+root2 = Path("transcricoes/rpguaxa")
+chain_root = chain(root1.iterdir(), root2.iterdir())
+
+for dir in sorted(chain_root):
     csv_file = dir / "union.csv"
     txt_file = dir / "union.txt"
 

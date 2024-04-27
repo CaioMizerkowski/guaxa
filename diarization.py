@@ -1,3 +1,4 @@
+from itertools import chain
 from pathlib import Path
 
 import torch
@@ -33,16 +34,13 @@ def diarize(audio_path):
 
 
 if __name__ == "__main__":
-    root = Path("transcricoes")
+    root1 = Path("transcricoes/guaxaverso")
+    root2 = Path("transcricoes/rpguaxa")
+    chain_root = chain(root1.iterdir(), root2.iterdir())
 
-    audio_path = Path("transcricoes/rpguaxa/o_corvo_rpguaxa_02/o_corvo_rpguaxa_02.mp3")
-    if not (audio_path.parent / "diarization.txt").exists():
-        print(audio_path)
-        diarize(audio_path)
+    for dir in sorted(chain_root):
+        audio_path = dir / (dir.stem + ".mp3")
 
-    for mp3 in root.rglob("*.mp3"):
-        audio_path = Path(mp3)
-
-        if not (audio_path.parent / "diarization.txt").exists():
+        if not (dir / "diarization.txt").exists():
             print(audio_path)
             diarize(audio_path)

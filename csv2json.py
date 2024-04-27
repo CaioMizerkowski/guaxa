@@ -1,4 +1,5 @@
 import json
+from itertools import chain
 from pathlib import Path
 
 fields = ["id", "start", "end", "speakers", "text"]
@@ -19,8 +20,12 @@ def csv2json(csv_file, json_file):
         json.dump(data, f, indent=4)
 
 
-root = Path("transcricoes/rpguaxa")
-for dir in root.iterdir():
+root1 = Path("transcricoes/guaxaverso")
+root2 = Path("transcricoes/rpguaxa")
+chain_root = chain(root1.iterdir(), root2.iterdir())
+
+
+for dir in sorted(chain_root):
     csv_file = dir / "union.csv"
     json_file = dir / "union.json"
 

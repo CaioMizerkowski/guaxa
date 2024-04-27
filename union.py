@@ -84,8 +84,9 @@ def create_union(folder: Path):
 if __name__ == "__main__":
     root1 = Path("transcricoes/guaxaverso")
     root2 = Path("transcricoes/rpguaxa")
+    chain_root = chain(root1.iterdir(), root2.iterdir())
 
-    for folder in chain(root1.iterdir(), root2.iterdir()):
+    for folder in sorted(chain_root):
         output: Path = folder / "union.txt"
         if output.exists():
             continue
