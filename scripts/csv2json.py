@@ -20,13 +20,13 @@ def csv2json(csv_file, json_file):
         json.dump(data, f, indent=4, ensure_ascii=False)
 
 
-root1 = Path("transcricoes/guaxaverso")
-root2 = Path("transcricoes/rpguaxa")
-chain_root = chain(root1.iterdir(), root2.iterdir())
+if __name__ == "__main__":
+    root1 = Path("transcricoes/guaxaverso")
+    root2 = Path("transcricoes/rpguaxa")
+    chain_root = chain(root1.iterdir(), root2.iterdir())
 
+    for folder in sorted(chain_root):
+        csv_file = folder / "union.csv"
+        json_file = folder / "union.json"
 
-for folder in sorted(chain_root):
-    csv_file = folder / "union.csv"
-    json_file = folder / "union.json"
-
-    csv2json(csv_file, json_file)
+        csv2json(csv_file, json_file)

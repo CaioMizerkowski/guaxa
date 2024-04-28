@@ -24,12 +24,13 @@ def txt2csv(txt_file, csv_file):
             f.write(line + "\n")
 
 
-root1 = Path("transcricoes/guaxaverso")
-root2 = Path("transcricoes/rpguaxa")
-chain_root = chain(root1.iterdir(), root2.iterdir())
+if __name__ == "__main__":
+    root1 = Path("transcricoes/guaxaverso")
+    root2 = Path("transcricoes/rpguaxa")
+    chain_root = chain(root1.iterdir(), root2.iterdir())
 
-for folder in sorted(chain_root):
-    csv_file = folder / "union.csv"
-    txt_file = folder / "union.txt"
+    for folder in sorted(chain_root):
+        csv_file = folder / "union.csv"
+        txt_file = folder / "union.txt"
 
-    txt2csv(txt_file, csv_file)
+        txt2csv(txt_file, csv_file)

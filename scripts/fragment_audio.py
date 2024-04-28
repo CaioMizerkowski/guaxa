@@ -8,12 +8,12 @@ from tqdm import tqdm
 
 def process_audio(root: Path):
     audio_mp3 = root / (root.stem + ".mp3")
-    split_valeu_path = root / "union.txt"
+    split_value_path = root / "union.txt"
 
     audio_folder = root / "fragments"
     audio_folder.mkdir(exist_ok=True)
 
-    with open(split_valeu_path) as f:
+    with open(split_value_path) as f:
         for line in tqdm(f.readlines()):
             start_ms, end_ms, *_ = line.split()
             start_s = int(start_ms) / 1000 - 0.05
@@ -28,12 +28,13 @@ def process_audio(root: Path):
                 )
 
 
-executor = ThreadPoolExecutor(max_workers=16)
+if __name__ == "__main__":
+    executor = ThreadPoolExecutor(max_workers=16)
 
-root1 = Path("transcricoes/guaxaverso")
-root2 = Path("transcricoes/rpguaxa")
-chain_root = chain(root1.iterdir(), root2.iterdir())
+    root1 = Path("transcricoes/guaxaverso")
+    root2 = Path("transcricoes/rpguaxa")
+    chain_root = chain(root1.iterdir(), root2.iterdir())
 
-for root in sorted(chain_root):
-    if root.is_dir():
-        executor.submit(process_audio, root)
+    for root in sorted(chain_root):
+        if root.is_dir():
+            executor.submit(process_audio, root)
