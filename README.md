@@ -9,3 +9,5 @@ Para quem quiser saber mais sobre o RPGuaxa acesse:
 [<img src="https://camo.githubusercontent.com/74f6405ecf5c1766c9339213ff7c66789a24c01da1f2bf7fe64c6fe19459cdbc/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73706f746966792e737667" alt="drawing" width="25"/>](https://open.spotify.com/show/1D8eOREmc51nhV0PTPZjj4)
 
 Postagem sobre esse processo está disponível em [Transcrição e Diarização](https://mizerkowski.com.br/Transcricao_e_diarizacao/).
+
+Meu amigo [Kalliu](https://github.com/kalliub) criou uma ferramenta para a revisão das transcrições, disponível em [audio-transcript-select](https://github.com/kalliub/audio-transcript-select).

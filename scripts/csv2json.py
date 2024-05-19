@@ -2,6 +2,8 @@ import json
 from itertools import chain
 from pathlib import Path
 
+from dotenv import dotenv_values
+
 fields = ["id", "start", "end", "speakers", "text"]
 
 
@@ -21,9 +23,10 @@ def csv2json(csv_file, json_file):
 
 
 if __name__ == "__main__":
-    root1 = Path("transcricoes/guaxaverso")
-    root2 = Path("transcricoes/rpguaxa")
-    chain_root = chain(root1.iterdir(), root2.iterdir())
+    categories = dotenv_values(".env")["CATEGORIES"].split(",")
+    iterdirs = [(Path("transcricoes") / cat).iterdir() for cat in categories]
+
+    chain_root = chain(*iterdirs)
 
     for folder in sorted(chain_root):
         csv_file = folder / "union.csv"

@@ -34,9 +34,10 @@ def diarize(audio_path):
 
 
 if __name__ == "__main__":
-    root1 = Path("transcricoes/guaxaverso")
-    root2 = Path("transcricoes/rpguaxa")
-    chain_root = chain(root1.iterdir(), root2.iterdir())
+    categories = dotenv_values(".env")["CATEGORIES"].split(",")
+    iterdirs = [(Path("transcricoes") / cat).iterdir() for cat in categories]
+
+    chain_root = chain(*iterdirs)
 
     for folder in sorted(chain_root):
         audio_path = folder / (folder.stem + ".mp3")

@@ -1,5 +1,6 @@
 from itertools import chain
 from pathlib import Path
+from dotenv import dotenv_values
 from natsort import natsorted
 
 import gradio as gr
@@ -118,9 +119,11 @@ if __name__ == "__main__":
     process_data = ProcessData()
     process_speaker = ProcessDataSpeakers()
 
-    root1 = Path("transcricoes/guaxaverso")
-    root2 = Path("transcricoes/rpguaxa")
-    chain_root = chain(root1.iterdir(), root2.iterdir())
+    categories = dotenv_values(".env")["CATEGORIES"].split(",")
+    iterdirs = [(Path("transcricoes") / cat).iterdir() for cat in categories]
+
+    chain_root = chain(*iterdirs)
+
     episode_list = list(chain_root)
     dropdown = gr.Dropdown(episode_list, label="Escolher episodio")
     choice = gr.Interface(selecao, dropdown, None)

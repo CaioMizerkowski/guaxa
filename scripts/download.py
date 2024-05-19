@@ -3,14 +3,16 @@ from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
+from dotenv import dotenv_values
+from tqdm import tqdm
 from unidecode import unidecode
 
 
-def download(feed):
+def download(feed, categories=None):
     resp = requests.get(feed, timeout=60)
     soup = BeautifulSoup(resp.text, "xml")
 
-    for item in soup.find_all("item"):
+    for item in tqdm(soup.find_all("item")):
         text: str = item.title.text
         text = unidecode(text)
         file = (
@@ -34,16 +36,16 @@ def download(feed):
         )
         file += ".mp3"
 
-        if "guaxaverso" in file:
-            file = Path("transcricoes/guaxaverso/") / Path(file).stem / file
-        elif "rpguaxa" in file:
-            file = Path("transcricoes/rpguaxa/") / Path(file).stem / file
+        for cat in categories:
+            if cat in file:
+                file = Path("transcricoes") / Path(cat) / Path(file).stem / file
+                break
         else:
-            print("Not a valid podcast:", file)
-            continue
+            cat = "uncategorized"
+            file = Path("transcricoes") / Path(cat) / Path(file).stem / file
 
         if not file.exists():
-            print(file)
+            print(f"Downloading {file}")
             file.parent.mkdir(parents=True, exist_ok=True)
 
             link = item.enclosure.get("url")
@@ -52,5 +54,7 @@ def download(feed):
 
 if __name__ == "__main__":
 
-    feed = "https://www.deviante.com.br/podcasts/rpguaxa/feed/"
-    download(feed)
+    feed = dotenv_values(".env")["PODCAST_FEED"]
+    categories = dotenv_values(".env")["CATEGORIES"].split(",")
+
+    download(feed, categories)

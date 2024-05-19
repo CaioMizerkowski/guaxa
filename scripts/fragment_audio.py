@@ -3,6 +3,7 @@ from concurrent.futures import ThreadPoolExecutor
 from itertools import chain
 from pathlib import Path
 
+from dotenv import dotenv_values
 from tqdm import tqdm
 
 
@@ -31,9 +32,10 @@ def process_audio(root: Path):
 if __name__ == "__main__":
     executor = ThreadPoolExecutor(max_workers=16)
 
-    root1 = Path("transcricoes/guaxaverso")
-    root2 = Path("transcricoes/rpguaxa")
-    chain_root = chain(root1.iterdir(), root2.iterdir())
+    categories = dotenv_values(".env")["CATEGORIES"].split(",")
+    iterdirs = [(Path("transcricoes") / cat).iterdir() for cat in categories]
+
+    chain_root = chain(*iterdirs)
 
     for root in sorted(chain_root):
         if root.is_dir():
