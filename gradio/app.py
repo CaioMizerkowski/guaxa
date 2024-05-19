@@ -131,7 +131,11 @@ if __name__ == "__main__":
     inp = gr.Textbox()
     audio = gr.Audio(autoplay=True)
     episode = gr.Interface(
-        process_data.loop, [inp, audio], [inp, audio], submit_btn="Next"
+        process_data.loop,
+        [inp, audio],
+        [inp, audio],
+        submit_btn="Next",
+        allow_flagging="never",
     )
 
     name = gr.Textbox()
