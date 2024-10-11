@@ -1,0 +1,7164 @@
+1
+00:00:00,000 --> 00:00:00,800
+Estamos prontos?
+
+2
+00:00:01,140 --> 00:00:01,980
+Estamos sim!
+
+3
+00:00:02,440 --> 00:00:04,780
+Ah, você prefere mestre ou narrador?
+
+4
+00:00:04,960 --> 00:00:06,660
+Na verdade, eu prefiro guache.
+
+5
+00:00:08,880 --> 00:00:12,380
+Olá, eu sou Marcelo Guaxinim e antes de mais nada eu quero convidar você a ir lá no
+
+6
+00:00:12,380 --> 00:00:15,040
+premio mpb.com.br
+
+7
+00:00:15,040 --> 00:00:20,680
+MPB não é de música popular brasileira, é de melhores podcasts do Brasil.
+
+8
+00:00:20,940 --> 00:00:26,420
+O RPG Guache está concorrendo na categoria Ficção e Fantasia e eu conto com o voto de vocês.
+
+9
+00:00:26,420 --> 00:00:31,900
+Vocês podem votar todo dia, inclusive, mas se votar uma vez já ficarei imensamente grato.
+
+10
+00:00:31,940 --> 00:00:36,820
+Meu nome é Agatha Sofia, eu tenho um projeto na internet que se chama Buraco Atrás do Pôster,
+
+11
+00:00:36,980 --> 00:00:39,080
+que é um podcast mensal de videogames.
+
+12
+00:00:39,460 --> 00:00:44,220
+Oi, eu sou o Gilles, vocês me encontram na taberna, embora as pessoas digam que eu sou
+
+13
+00:00:44,220 --> 00:00:48,860
+um pouco ausente, mas eu estou lá e também nos episódios publicados do Nossa Poesia e
+
+14
+00:00:48,860 --> 00:00:49,540
+do Projeto Drama.
+
+15
+00:00:49,820 --> 00:00:54,800
+Oi, eu sou a Sarah Barbosa e vocês podem me encontrar na taberna do Guache ou então
+
+16
+00:00:54,800 --> 00:00:55,720
+no Instagram.
+
+17
+00:00:56,420 --> 00:00:58,380
+Com arroba Sarah Pereira B.
+
+18
+00:00:58,980 --> 00:01:02,720
+O Realidades Paralelas do Guaxinim usa o sistema Guaxinis e Gambiarras.
+
+19
+00:01:03,120 --> 00:01:06,360
+Nele, cada jogador possui apenas um único atributo, que vai de 2 a 5.
+
+20
+00:01:06,760 --> 00:01:11,060
+Quanto maior o atributo, mais atlético é o personagem, quanto menor, mais inteligente
+
+21
+00:01:11,060 --> 00:01:11,820
+e carismático.
+
+22
+00:01:12,300 --> 00:01:16,300
+Sempre que o jogador faz algo com mais chance de errar, joga dois dados e precisa tirar
+
+23
+00:01:16,300 --> 00:01:20,840
+seu atributo ou menos para ataques e ações físicas e seu atributo ou mais para ações
+
+24
+00:01:20,840 --> 00:01:22,400
+intelectuais ou sociais.
+
+25
+00:01:22,780 --> 00:01:25,600
+Se a jogada for fácil ou tiver algum auxílio, joga um dado a mais.
+
+26
+00:01:25,600 --> 00:01:27,920
+Se a jogada for difícil, rola-se um dado a menos.
+
+27
+00:01:28,240 --> 00:01:32,340
+Eu sou o Luiz Felipe Erdi e sou padrinho do RPG Guaxinim porque é uma oportunidade incrível
+
+28
+00:01:32,340 --> 00:01:36,600
+de conhecer pessoas que falam dos assuntos mais aleatórios possíveis, desde One Piece,
+
+29
+00:01:36,700 --> 00:01:40,920
+Game of Thrones, futebol e coisas do gênero e também porque é um canal muito bacana
+
+30
+00:01:40,920 --> 00:01:45,720
+para marcar mesa de RPG, menstruar, jogar, enfim, é uma comunidade muito interessante
+
+31
+00:01:45,720 --> 00:01:47,460
+e que eu tenho muito prazer em fazer parte.
+
+32
+00:01:48,380 --> 00:01:52,480
+O episódio de hoje não é recomendado para menores de 16 anos, pois trata de alguns temas
+
+33
+00:01:52,480 --> 00:01:53,280
+sensíveis.
+
+34
+00:01:53,280 --> 00:02:03,280
+Convido vocês a nos seguirem nas redes sociais e também nos apoiar, apoia.se barra rpguaxa
+
+35
+00:02:03,280 --> 00:02:06,800
+a partir de um real você ajuda esse podcast a continuar existindo, a partir de 10 reais
+
+36
+00:02:06,800 --> 00:02:08,660
+você faz parte do nosso grupo da taberna.
+
+37
+00:02:08,900 --> 00:02:13,340
+Como o Luiz Felipe acabou de convidar vocês, venham conhecer a taberna e ajudar esse projeto.
+
+38
+00:02:14,040 --> 00:02:16,940
+Episódio de hoje, aprovação da água.
+
+39
+00:02:23,280 --> 00:02:42,100
+Os irmãos estão deitados juntos em peles no chão do segundo andar da pequena casa,
+
+40
+00:02:42,700 --> 00:02:48,480
+cobertos por um lençol, enquanto sua mãe, uma linda mulher de cabelos loiros quase brancos,
+
+41
+00:02:48,880 --> 00:02:53,260
+dança pela casa apagando as velas e lhes contando sobre o lugar.
+
+42
+00:02:53,280 --> 00:02:59,980
+Nossa pequena vila de Flor d'Alva foi esquecida pela deusa no meio dessa floresta.
+
+43
+00:03:00,700 --> 00:03:06,160
+Aqui, os moradores reverenciam a água como o elemento mais puro da criação.
+
+44
+00:03:06,760 --> 00:03:13,140
+A água que traz o peixe, que mata a sede, limpa as feridas e molha as plantas.
+
+45
+00:03:13,560 --> 00:03:17,180
+A água é tão boa e pura que rejeita todo o mal.
+
+46
+00:03:17,580 --> 00:03:21,440
+Com base nisso, os antigos realizam a aprovação da água.
+
+47
+00:03:21,440 --> 00:03:26,180
+Eles lançam as acusadas de bruxaria no ponto mais profundo do rio.
+
+48
+00:03:26,500 --> 00:03:29,920
+Se ela flutuar, ela é condenada ao fogo.
+
+49
+00:03:29,980 --> 00:03:33,240
+A rejeição da água confirma sua aliança com as trevas.
+
+50
+00:03:34,080 --> 00:03:36,620
+Se ela afundar, vai morrer afogada.
+
+51
+00:03:37,360 --> 00:03:39,160
+Isso prova que estavam errados.
+
+52
+00:03:39,960 --> 00:03:44,420
+Não que alguém ligue. Nunca testaram um homem. Quem diria?
+
+53
+00:03:44,420 --> 00:03:50,860
+Diz a mãe enquanto segura a última vela, se aproxima de vocês e exibe seu rosto cheio de pontinhos,
+
+54
+00:03:50,860 --> 00:03:54,440
+como estrelas, e um sorriso que mal lhe cabe na boca.
+
+55
+00:03:54,800 --> 00:04:00,280
+Mas acredito que, se um rapaz for rejeitado pela água, será acusado de bruxaria também.
+
+56
+00:04:00,740 --> 00:04:03,460
+Por isso, meus filhos, eu lhes digo...
+
+57
+00:04:03,460 --> 00:04:07,240
+A mulher faz um pequeno silêncio e completa apagando a vela.
+
+58
+00:04:07,700 --> 00:04:09,860
+Na total escuridão, ela diz...
+
+59
+00:04:10,480 --> 00:04:13,860
+Nunca, em hipótese alguma, entrei na água.
+
+60
+00:04:13,960 --> 00:04:18,540
+Mas antes de contar a história desta família, dessas crianças, para quem esta mãe contou essa história,
+
+61
+00:04:18,540 --> 00:04:20,060
+vamos conhecê-los.
+
+62
+00:04:20,860 --> 00:04:23,260
+Falar sobre os personagens, aparência e atributos.
+
+63
+00:04:23,320 --> 00:04:25,220
+Hoje eu vou jogar com a Isobel.
+
+64
+00:04:25,640 --> 00:04:28,980
+Ela tem 12 anos, é a mais nova dos três irmãos.
+
+65
+00:04:29,580 --> 00:04:30,820
+Ela é loira, como a mãe.
+
+66
+00:04:31,120 --> 00:04:33,820
+Ela tem olhos cassanhos claros e várias sardas no rosto.
+
+67
+00:04:34,020 --> 00:04:37,740
+Ela nunca teve um corpo muito forte e constantemente ficava doente.
+
+68
+00:04:38,300 --> 00:04:41,120
+E não conseguia acompanhar, principalmente a irmã do meio,
+
+69
+00:04:41,520 --> 00:04:45,260
+nas brincadeiras energéticas que aconteciam nos bosques e lá fora.
+
+70
+00:04:45,680 --> 00:04:48,760
+Então ela sempre ficou mais dentro de casa e acompanhada de livros.
+
+71
+00:04:48,760 --> 00:04:50,840
+E um amigo dela, que era farura,
+
+72
+00:04:50,840 --> 00:04:53,580
+um mercador que trazia livros de vez em quando para a vila,
+
+73
+00:04:53,840 --> 00:04:57,920
+dava para ela emprestado com livros que ela conseguia acompanhar, no caso.
+
+74
+00:04:58,300 --> 00:05:01,600
+Por ficar muito em casa, ela desenvolveu uma aptitude com matemática
+
+75
+00:05:01,600 --> 00:05:04,380
+e ela ajudou a mãe nas finanças do bar.
+
+76
+00:05:04,700 --> 00:05:08,140
+Ela constantemente fica lá no caixa ajudando durante o dia.
+
+77
+00:05:08,360 --> 00:05:12,720
+Ela também está numa fase rebelde da vida e principalmente voltada contra o pai deles,
+
+78
+00:05:12,860 --> 00:05:14,080
+que não aparece faz um tempo.
+
+79
+00:05:14,080 --> 00:05:20,820
+Ela está rebelde e afrontosa e quer muito, muito, muito brigar com o pai.
+
+80
+00:05:20,840 --> 00:05:26,300
+Ela também começou a pensar que, se a água é algo tão perigoso,
+
+81
+00:05:26,800 --> 00:05:28,660
+talvez o fogo seja o oposto.
+
+82
+00:05:28,860 --> 00:05:32,520
+Então ela desenvolveu um fascínio pelo fogo e fica horas na frente da lareira,
+
+83
+00:05:32,640 --> 00:05:35,200
+se aquecendo e olhando o criptar nas linhas.
+
+84
+00:05:35,500 --> 00:05:36,800
+O atributo dela é 2.
+
+85
+00:05:37,160 --> 00:05:37,600
+Perfeito.
+
+86
+00:05:38,340 --> 00:05:40,660
+Gilles, fala sobre o seu personagem, a aparência e o atributo.
+
+87
+00:05:40,820 --> 00:05:42,180
+Hoje eu vou jogar com o Caius.
+
+88
+00:05:42,660 --> 00:05:44,620
+Ele tem, na verdade, 15 anos.
+
+89
+00:05:44,800 --> 00:05:45,920
+Ele é o mais velho dos irmãos.
+
+90
+00:05:46,300 --> 00:05:49,640
+Ele tem uma estatura média, um peso médio, padrões para sua idade.
+
+91
+00:05:49,640 --> 00:05:50,640
+Ele tem cabelos...
+
+92
+00:05:50,840 --> 00:05:56,840
+Ele tem cabelos castanhos e são bem escuros comparados com os da mãe ou mesmo das irmãs.
+
+93
+00:05:57,780 --> 00:05:59,780
+Ele ajuda como pode na venda da família.
+
+94
+00:06:00,120 --> 00:06:06,040
+Ele aprendeu com a mãe nos últimos meses a fazer pães para abastecer a venda desse produto.
+
+95
+00:06:06,300 --> 00:06:12,840
+E também ele adquiriu braços mais robustos, sovando massa, mas ainda ele é mais esperto do que forte.
+
+96
+00:06:13,100 --> 00:06:17,600
+Ele pretende e busca sempre zelar pelo bem-estar da sua própria família.
+
+97
+00:06:17,600 --> 00:06:19,380
+E ele se cobra muito por isso.
+
+98
+00:06:19,640 --> 00:06:20,600
+Sobretudo pela ausência.
+
+99
+00:06:20,840 --> 00:06:21,740
+A ausência é frequente do pai.
+
+100
+00:06:22,260 --> 00:06:27,040
+Sempre que pode, se ele encontrar um livro, um numericador, ele traz para a Isobel.
+
+101
+00:06:27,200 --> 00:06:31,800
+Se ele encontrar uma ferramenta, uma arma nova, ele traz para a Tabata.
+
+102
+00:06:32,100 --> 00:06:37,120
+Buscando sempre tornar esse ambiente familiar agradável, porque é a base da estrutura dele.
+
+103
+00:06:37,420 --> 00:06:44,620
+Ele procura ser racional, mas o sentimento sempre prevalece quando o assunto envolve a mãe e as irmãs.
+
+104
+00:06:44,620 --> 00:06:50,020
+Ele respeita o pai, mas nem de perto tem o mesmo carinho por ele que tem por elas.
+
+105
+00:06:50,020 --> 00:06:51,720
+E o atributo dele é 3.
+
+106
+00:06:51,960 --> 00:06:54,140
+A Sarah fala sobre o seu personagem, a aparência e o atributo.
+
+107
+00:06:54,220 --> 00:06:56,640
+Eu sou a Sarah, vou estar jogando com a Tabata.
+
+108
+00:06:57,040 --> 00:07:01,860
+A Tabata é uma adolescente alta, alguns centímetros mais alta que o seu irmão mais velho, Caius.
+
+109
+00:07:02,420 --> 00:07:04,860
+Seus cabelos são da mesma tonalidade dos da mãe.
+
+110
+00:07:05,220 --> 00:07:09,620
+Entretanto, ela tem uma enorme mecha de cabelos negros na lateral esquerda da cabeça.
+
+111
+00:07:10,280 --> 00:07:15,160
+Ela é bastante ágil e possui uma força descomunal para uma adolescente de 14 anos.
+
+112
+00:07:15,820 --> 00:07:19,020
+Seu biotipo se encaixaria no perfil de uma pessoa ectomorfa.
+
+113
+00:07:19,020 --> 00:07:19,560
+Seu biotipo se encaixaria no perfil de uma pessoa ectomorfa.
+
+114
+00:07:20,020 --> 00:07:25,740
+Dizem que ela lembra sua mãe nos traços faciais, mas a sua personalidade parece bastante com a do pai.
+
+115
+00:07:26,060 --> 00:07:28,000
+Segundo as pessoas da aldeia dizem.
+
+116
+00:07:28,200 --> 00:07:31,720
+Por esse motivo, a Tabata acredita que sua mãe tem certa rigidez com ela.
+
+117
+00:07:32,080 --> 00:07:37,320
+Em alguns momentos, a Tabata sente saudade do pai, mas não entende completamente seus sentimentos em relação a ele.
+
+118
+00:07:37,840 --> 00:07:43,300
+Às vezes ela até deseja ver ele mais uma vez, mas tem horas que ela deseja que ele suma, por completo.
+
+119
+00:07:43,500 --> 00:07:45,040
+Ela sabe que não ama ele.
+
+120
+00:07:45,340 --> 00:07:46,700
+Para ela, ele é só mais uma pessoa.
+
+121
+00:07:46,700 --> 00:07:49,700
+Por conta disso, ela acaba sofrendo e acaba vendo sofrimento.
+
+122
+00:07:50,020 --> 00:07:52,200
+E isso mexe muito com ela.
+
+123
+00:07:52,440 --> 00:07:56,100
+Ela acredita que ser comparada com o pai dela é como se fosse uma maldição.
+
+124
+00:07:56,280 --> 00:07:57,900
+Porque a Tabata é só a Tabata.
+
+125
+00:07:58,100 --> 00:08:03,220
+Apesar da dor e da confusão que ela sente em relação ao pai, a Tabata encontra consolo na natureza.
+
+126
+00:08:03,380 --> 00:08:05,620
+A floresta ao redor da aldeia é seu refúgio.
+
+127
+00:08:05,720 --> 00:08:09,020
+O lugar onde ela pode ser ela mesma, longe das expectativas e comparações.
+
+128
+00:08:09,880 --> 00:08:13,040
+Caçar é uma atividade que a faz sentir viva e conectada com o mundo.
+
+129
+00:08:13,180 --> 00:08:16,680
+Cada caça bem sucedida é uma prova da sua habilidade e sua força.
+
+130
+00:08:16,680 --> 00:08:19,860
+Algo que pode oferecer a sua mãe como uma forma de ajuda.
+
+131
+00:08:20,020 --> 00:08:24,680
+Sem contar a sua organização em deixar o estabelecimento sempre limpo e arejado.
+
+132
+00:08:24,780 --> 00:08:28,360
+Ela tem um melhor amigo chamado Ícaro, que é amigo dela desde a infância.
+
+133
+00:08:28,600 --> 00:08:31,680
+Ele é seu confidente e parceiro em todas as suas escapadas.
+
+134
+00:08:31,940 --> 00:08:35,260
+Ele compreende a Tabata de uma maneira que ninguém mais consegue entender.
+
+135
+00:08:35,500 --> 00:08:39,240
+Juntos, os dois enfrentam os perigos da floresta, compartilham segredos e sonhos.
+
+136
+00:08:39,780 --> 00:08:43,860
+Mas o Ícaro sabe que por trás da fachada de forte determinada da Tabata,
+
+137
+00:08:44,160 --> 00:08:46,980
+existe só uma jovem que carrega um peso emocional enorme.
+
+138
+00:08:46,980 --> 00:08:49,360
+E ele faz o possível para aliviar essa carga.
+
+139
+00:08:49,700 --> 00:08:49,980
+Mas o Ícaro...
+
+140
+00:08:50,020 --> 00:08:55,240
+Mas o que mais deixa a Tabata feliz é poder se juntar à irmã dela na lareira, a Isobel,
+
+141
+00:08:56,040 --> 00:08:58,340
+e ouvir as histórias que a irmã conta dos livros.
+
+142
+00:08:58,780 --> 00:09:01,540
+Da mesma forma, ela adora conversar com seu irmão Caius.
+
+143
+00:09:02,020 --> 00:09:07,680
+A sabedoria de vida e os conselhos e os ensinamentos dele sobre sovar perfeitamente a massa de um pão
+
+144
+00:09:07,680 --> 00:09:09,100
+acalmam o coração dela.
+
+145
+00:09:09,740 --> 00:09:13,780
+Ela sonha um dia ser uma heroína de sua própria história e de sua mãe.
+
+146
+00:09:13,780 --> 00:09:17,740
+Alguém tão importante para sua família ao ponto de fazê-los esquecerem do pai.
+
+147
+00:09:18,180 --> 00:09:19,340
+O atributo dela é o 4.
+
+148
+00:09:20,020 --> 00:09:21,060
+A Mãe de vocês
+
+149
+00:09:21,060 --> 00:09:39,180
+Nas histórias que a mãe de vocês contou, essa foi a mais macabra.
+
+150
+00:09:39,520 --> 00:09:42,900
+Ela parecia realmente querer ensinar algo para vocês.
+
+151
+00:09:43,440 --> 00:09:44,700
+Desde que o pai...
+
+152
+00:09:44,700 --> 00:09:46,380
+Vocês saíram de casa, né?
+
+153
+00:09:46,760 --> 00:09:48,040
+Há mais de dois anos.
+
+154
+00:09:48,320 --> 00:09:49,980
+Vocês passaram a ajudar.
+
+155
+00:09:50,180 --> 00:09:54,640
+Cada vez mais, a mãe de vocês agiria em um pequeno comércio que ela tem ali.
+
+156
+00:09:54,980 --> 00:09:57,740
+Entre os mais pobres, você consegue fazer trocas, né?
+
+157
+00:09:58,220 --> 00:10:03,740
+Apenas algumas pessoas realmente têm dinheiro, fazem comércio com outras regiões.
+
+158
+00:10:04,260 --> 00:10:08,180
+Mas o lugar serve para fazer troca entre aqueles que não têm dinheiro.
+
+159
+00:10:08,180 --> 00:10:14,520
+E entre aqueles poucos mais abonados da região, vocês conseguem vender alguns produtos.
+
+160
+00:10:15,100 --> 00:10:19,580
+Mas ainda é uma venda pequena, tem alguma bebida disponível.
+
+161
+00:10:20,020 --> 00:10:22,280
+Tem os pães, as massas que vocês fazem, né?
+
+162
+00:10:22,560 --> 00:10:24,300
+O pai de vocês ainda aparece de vez em quando.
+
+163
+00:10:24,620 --> 00:10:26,340
+Ele costuma ficar muito pouco.
+
+164
+00:10:26,700 --> 00:10:29,600
+E ele sempre vem para ver a mãe de vocês.
+
+165
+00:10:29,600 --> 00:10:33,720
+Ele não dá muita bola para vocês, embora ele não seja...
+
+166
+00:10:33,720 --> 00:10:35,980
+Ele não é carinhoso nem grosseiro.
+
+167
+00:10:36,580 --> 00:10:39,120
+Ele tenta sempre ser o mais neutro possível.
+
+168
+00:10:39,700 --> 00:10:42,600
+Mas com a mãe de vocês, ele é mais atencioso.
+
+169
+00:10:43,260 --> 00:10:47,780
+Mas, principalmente quando vocês estão juntos, ele vai embora rápido.
+
+170
+00:10:48,200 --> 00:10:49,660
+Ele corta lenha, né?
+
+171
+00:10:49,680 --> 00:10:50,000
+Ele fica...
+
+172
+00:10:50,020 --> 00:10:51,220
+Ele fica bastante tempo na floresta.
+
+173
+00:10:51,620 --> 00:10:55,760
+E desde que ele saiu de casa, ele passou a trabalhar com isso, né?
+
+174
+00:10:56,160 --> 00:10:57,280
+Vocês estão lá cuidando da venda.
+
+175
+00:10:57,360 --> 00:11:00,120
+A mãe de vocês, que se chama Marieta, ela saiu.
+
+176
+00:11:00,540 --> 00:11:05,080
+Ela foi trocar algumas coisas, buscar alguns peixes para colocar ali.
+
+177
+00:11:05,400 --> 00:11:07,160
+E deixou vocês três cuidando da venda.
+
+178
+00:11:07,360 --> 00:11:10,040
+O que cada um de vocês está fazendo na venda nessa manhã?
+
+179
+00:11:10,380 --> 00:11:12,280
+O Caio, ele já está lá atrás.
+
+180
+00:11:12,640 --> 00:11:16,340
+Quando eles acordam bem cedo, ele já colocou a massa para fermentar.
+
+181
+00:11:16,420 --> 00:11:18,740
+Pegou um pouco de levão, que eles cultivam já há alguns anos.
+
+182
+00:11:18,740 --> 00:11:19,540
+Na massa.
+
+183
+00:11:19,540 --> 00:11:21,780
+Ele mexeu um pouco, fez uma primeira sova ali.
+
+184
+00:11:22,480 --> 00:11:24,360
+Enquanto está descansando, ele vai atrás das irmãs.
+
+185
+00:11:24,400 --> 00:11:26,580
+Ver o que elas estão fazendo, se estão precisando de ajuda.
+
+186
+00:11:26,980 --> 00:11:27,820
+Está andando pela venda.
+
+187
+00:11:28,180 --> 00:11:31,000
+A Isabel está na frente ali do balcão, né?
+
+188
+00:11:31,300 --> 00:11:34,700
+Recepcionando pessoas e fazendo as trocas quando precisa.
+
+189
+00:11:35,360 --> 00:11:37,960
+Ela, de tempos em tempos, dá um grito lá para o Caio.
+
+190
+00:11:38,060 --> 00:11:39,980
+Fala, Caio, o pão está pronto?
+
+191
+00:11:40,600 --> 00:11:42,140
+E vê como é que estão as coisas.
+
+192
+00:11:42,720 --> 00:11:43,540
+Mas ela está ali, né?
+
+193
+00:11:43,600 --> 00:11:46,700
+Anotando um livrinho, o que precisa, o que foi trocado e quando.
+
+194
+00:11:46,700 --> 00:11:49,340
+A Tabata está na parte de trás da casa.
+
+195
+00:11:49,540 --> 00:11:50,480
+Cortando alguma lenha.
+
+196
+00:11:50,820 --> 00:11:54,220
+Quando ela entra na cozinha, ela deixa as minhas lenhas perto do fogão.
+
+197
+00:11:54,620 --> 00:11:57,200
+Ela olha para o Caio e sorri preto, né?
+
+198
+00:11:57,800 --> 00:12:01,680
+E ela vai lá para a frente da loja, varrer e limpar as lenhas.
+
+199
+00:12:01,860 --> 00:12:02,240
+Perfeito.
+
+200
+00:12:02,320 --> 00:12:08,880
+Então, a Tabata, que está lá na frente, é a primeira a ver a dona Belinda.
+
+201
+00:12:09,560 --> 00:12:11,220
+Uma senhora que mora ali perto.
+
+202
+00:12:11,880 --> 00:12:16,020
+Chegando, ela sempre costuma chegar cedo, assim, para pegar pão.
+
+203
+00:12:16,020 --> 00:12:19,120
+O filho dela trabalha com o xerife da vila, né?
+
+204
+00:12:19,540 --> 00:12:20,980
+Tem acesso a algumas moedas.
+
+205
+00:12:21,200 --> 00:12:23,100
+Então, ela está chegando ali com as moedinhas dela.
+
+206
+00:12:23,280 --> 00:12:25,560
+Bom dia, menina.
+
+207
+00:12:25,820 --> 00:12:26,360
+Bom dia.
+
+208
+00:12:26,520 --> 00:12:27,320
+Tudo bem com a senhora?
+
+209
+00:12:27,600 --> 00:12:29,260
+Já saiu o pãozinho?
+
+210
+00:12:29,820 --> 00:12:30,640
+Já, já.
+
+211
+00:12:31,120 --> 00:12:32,440
+Eu olho para dentro.
+
+212
+00:12:33,180 --> 00:12:35,360
+Tem até algumas pessoas que já estão comendo agora.
+
+213
+00:12:35,780 --> 00:12:36,300
+A senhora quer entrar?
+
+214
+00:12:36,440 --> 00:12:38,400
+Sim, obrigada.
+
+215
+00:12:38,680 --> 00:12:39,920
+Ela vai entrando ali.
+
+216
+00:12:40,440 --> 00:12:41,860
+Ela vê o Caio, né?
+
+217
+00:12:42,620 --> 00:12:45,460
+Menino, pegue quatro pãozinhos para mim.
+
+218
+00:12:45,460 --> 00:12:47,400
+Ela coloca as moedinhas em cima do balcão.
+
+219
+00:12:48,220 --> 00:12:49,060
+Os melhores.
+
+220
+00:12:49,060 --> 00:12:52,060
+Para o meu filho, que vai dormir em casa.
+
+221
+00:12:52,060 --> 00:12:53,460
+Pode deixar, dona Belinda.
+
+222
+00:12:53,460 --> 00:12:55,260
+Acabou de ser uma fornada aqui.
+
+223
+00:12:55,260 --> 00:12:56,860
+Vou colocar os melhores para a senhora, tá bem?
+
+224
+00:12:56,860 --> 00:13:00,060
+E ele acrescenta essa última parte, assim, bem baixinho, perto dela.
+
+225
+00:13:00,060 --> 00:13:01,460
+E vão ser os melhores mesmo, hein?
+
+226
+00:13:01,460 --> 00:13:07,060
+E ele vai lá, separa uma embalagem de seda, de papel, para colocar os pães para ela.
+
+227
+00:13:07,060 --> 00:13:10,260
+Faz um embrulho bem delicadinho, assim, bem bonitinho, assim, entrega para ela.
+
+228
+00:13:10,260 --> 00:13:11,460
+É só isso hoje?
+
+229
+00:13:11,460 --> 00:13:12,460
+A senhora não quer levar nada?
+
+230
+00:13:12,460 --> 00:13:13,660
+Uma criada para as galinhas?
+
+231
+00:13:13,660 --> 00:13:15,660
+Alguma coisa para ajudar a senhora?
+
+232
+00:13:15,660 --> 00:13:16,660
+Não, não.
+
+233
+00:13:16,660 --> 00:13:18,820
+Só para o pãozinho.
+
+234
+00:13:18,820 --> 00:13:19,820
+Então, tudo bem.
+
+235
+00:13:19,820 --> 00:13:21,820
+Mas se a senhora precisar, a gente está aqui, tá?
+
+236
+00:13:21,820 --> 00:13:22,820
+Pode deixar.
+
+237
+00:13:22,820 --> 00:13:24,820
+Ela olha para a Isabel.
+
+238
+00:13:24,820 --> 00:13:26,820
+Você está boazinha.
+
+239
+00:13:26,820 --> 00:13:27,820
+Boazinha?
+
+240
+00:13:27,820 --> 00:13:28,820
+Como assim?
+
+241
+00:13:28,820 --> 00:13:33,820
+Você está sempre meio para baixo, meio doentinha.
+
+242
+00:13:33,820 --> 00:13:36,820
+A minha mãe trouxe mel da última vez.
+
+243
+00:13:36,820 --> 00:13:39,820
+Ela coloca junto com limão e alho.
+
+244
+00:13:39,820 --> 00:13:41,820
+É ruim, mas está ajudando.
+
+245
+00:13:41,820 --> 00:13:44,820
+Eu achei que você não ia vingar.
+
+246
+00:13:44,820 --> 00:13:47,820
+Desde pequena, eu achei que você ia antes.
+
+247
+00:13:47,820 --> 00:13:50,820
+Mas parabéns.
+
+248
+00:13:50,820 --> 00:13:53,820
+O Caís vai se aproximando, assim, ele vê a situação e fala assim...
+
+249
+00:13:53,820 --> 00:13:55,820
+Não, a Isabel está ótima, dona Belinda.
+
+250
+00:13:55,820 --> 00:13:57,820
+Está mais forte que um touro.
+
+251
+00:13:57,820 --> 00:13:58,820
+A senhora vai ver só.
+
+252
+00:13:58,820 --> 00:14:01,820
+É, a senhora Belinda, eu também achei que não ia vingar, não.
+
+253
+00:14:01,820 --> 00:14:02,820
+Mas eu estou aqui, né?
+
+254
+00:14:02,820 --> 00:14:03,820
+Passa ruim, não quebra.
+
+255
+00:14:03,820 --> 00:14:05,820
+Acho que nós duas podemos provar esse ponto.
+
+256
+00:14:05,820 --> 00:14:08,820
+A mãe de vocês tem muita sorte.
+
+257
+00:14:08,820 --> 00:14:12,820
+É, eu não sei se foi sutil o suficiente, mas eu chamei ela de velha na cara dela.
+
+258
+00:14:12,820 --> 00:14:13,820
+E eu queria.
+
+259
+00:14:13,820 --> 00:14:15,820
+Eu também percebi.
+
+260
+00:14:15,820 --> 00:14:16,820
+Assim que ela vira de costas, o Caís...
+
+261
+00:14:16,820 --> 00:14:18,820
+Dá uma apertadinha de leve na bochecha dela, assim.
+
+262
+00:14:18,820 --> 00:14:20,820
+Respeito com os mais velhos.
+
+263
+00:14:20,820 --> 00:14:21,820
+E enche a bochecha dela de trigo.
+
+264
+00:14:21,820 --> 00:14:24,820
+Eu estou tentando, estou tentando.
+
+265
+00:14:24,820 --> 00:14:26,820
+Tá, mas é só os pães hoje.
+
+266
+00:14:26,820 --> 00:14:28,820
+Ela anota no caderninho.
+
+267
+00:14:28,820 --> 00:14:29,820
+Ela deixou a moedinha.
+
+268
+00:14:29,820 --> 00:14:31,820
+Ok, volte sempre, tá?
+
+269
+00:14:31,820 --> 00:14:33,820
+Tchau, dona Belinda.
+
+270
+00:14:33,820 --> 00:14:36,820
+Ela já dá um tchauzinho e sai feliz com o pacotinho dela.
+
+271
+00:14:36,820 --> 00:14:39,820
+Quando ela está saindo dali, né?
+
+272
+00:14:39,820 --> 00:14:41,820
+Eu dou um esbarrão nela.
+
+273
+00:14:41,820 --> 00:14:42,820
+Mas, para opositar, eu olho para ela.
+
+274
+00:14:42,820 --> 00:14:43,820
+Ai, desculpa.
+
+275
+00:14:43,820 --> 00:14:45,820
+Tem que tomar mais cuidado.
+
+276
+00:14:45,820 --> 00:14:47,820
+Mas, cuidado, querida.
+
+277
+00:14:47,820 --> 00:14:49,820
+Ah, sim, sim, sim.
+
+278
+00:14:49,820 --> 00:14:50,820
+A senhora também.
+
+279
+00:14:50,820 --> 00:14:51,820
+Tem que tomar cuidado.
+
+280
+00:14:51,820 --> 00:14:53,820
+Eu ouvi dizer que tem gatos que comem línguas.
+
+281
+00:14:53,820 --> 00:14:55,820
+A senhora também, bastante cuidado.
+
+282
+00:14:55,820 --> 00:14:56,820
+Mas tenha um bom dia.
+
+283
+00:14:56,820 --> 00:14:57,820
+E ela começa a cenar, assim, sabe?
+
+284
+00:14:57,820 --> 00:14:58,820
+A velha sai meio apressada, assim.
+
+285
+00:14:58,820 --> 00:15:01,820
+Pés abaixo da cabeça, sujando a própria testa com a farinha.
+
+286
+00:15:01,820 --> 00:15:03,820
+Eu olho para o Caís e falo...
+
+287
+00:15:03,820 --> 00:15:04,820
+Você...
+
+288
+00:15:04,820 --> 00:15:05,820
+Ela, você não puxa a bochecha, né?
+
+289
+00:15:05,820 --> 00:15:06,820
+É.
+
+290
+00:15:06,820 --> 00:15:08,820
+Eu vou ter que levantar a mão para puxar a bochecha dela agora.
+
+291
+00:15:08,820 --> 00:15:10,820
+Ele dá um tapinho na lateral da tábua.
+
+292
+00:15:10,820 --> 00:15:11,820
+Então, você também.
+
+293
+00:15:11,820 --> 00:15:12,820
+Respeito com os mais velhos.
+
+294
+00:15:12,820 --> 00:15:13,820
+Além de tudo, ela é nossa cliente.
+
+295
+00:15:13,820 --> 00:15:16,820
+E ela vem aqui quase todo dia comprar pão, quando o filho dela está aqui.
+
+296
+00:15:16,820 --> 00:15:19,820
+Ah, quem fala o que quer, escuta o que não quer, né?
+
+297
+00:15:19,820 --> 00:15:20,820
+Eu olho para o Isobel.
+
+298
+00:15:20,820 --> 00:15:22,820
+Acho que você deveria falar mais vezes.
+
+299
+00:15:23,820 --> 00:15:26,820
+E eu passo um carinhozinho na Isobel para o Caís não perceber.
+
+300
+00:15:26,820 --> 00:15:28,820
+Vocês não têm jeito.
+
+301
+00:15:28,820 --> 00:15:29,820
+E ele volta lá para trás.
+
+302
+00:15:29,820 --> 00:15:31,820
+Mas, olha, o Caís tem razão.
+
+303
+00:15:31,820 --> 00:15:32,820
+A gente deveria melhorar esse nosso jeito.
+
+304
+00:15:32,820 --> 00:15:34,820
+Ela que deveria usar menos perfume ruim.
+
+305
+00:15:34,820 --> 00:15:36,820
+Ele volta para o Caís, volta rapidinho.
+
+306
+00:15:36,820 --> 00:15:38,820
+Ela comprou perfume aqui.
+
+307
+00:15:38,820 --> 00:15:39,820
+Estava vencido, né?
+
+308
+00:15:39,820 --> 00:15:41,820
+A gente não contou para ela, mas estava.
+
+309
+00:15:41,820 --> 00:15:42,820
+Isso foi muita maldade.
+
+310
+00:15:42,820 --> 00:15:43,820
+E eu volto.
+
+311
+00:15:43,820 --> 00:15:44,820
+Eu volto para frente da loja.
+
+312
+00:15:44,820 --> 00:15:45,820
+Ele volta para o fundo.
+
+313
+00:15:45,820 --> 00:15:48,820
+O movimento sempre é bem tranquilo, assim.
+
+314
+00:15:48,820 --> 00:15:50,820
+Não há uma muvuca, né?
+
+315
+00:15:50,820 --> 00:15:52,820
+Sempre é uma, duas pessoas cada vez.
+
+316
+00:15:52,820 --> 00:15:55,820
+Mais para o meio da manhã, não tem nenhum cliente na loja.
+
+317
+00:15:55,820 --> 00:15:59,820
+Ali, vocês estão fazendo as atividades de vocês.
+
+318
+00:15:59,820 --> 00:16:04,820
+Quando se aproxima, entra na venda de vocês.
+
+319
+00:16:04,820 --> 00:16:06,820
+Albino é o xerife local.
+
+320
+00:16:06,820 --> 00:16:12,820
+Ele é um homem alto, assim, de cabelo escuro.
+
+321
+00:16:12,820 --> 00:16:16,820
+Tem um bigode grande, assim, que faz aquelas voltinhas na ponta.
+
+322
+00:16:16,820 --> 00:16:23,820
+É provavelmente a única pessoa da cidade que está sempre com uma roupa impecavelmente limpa.
+
+323
+00:16:23,820 --> 00:16:28,820
+Porque não é ele que limpa as roupas dele, as coisas dele, né?
+
+324
+00:16:28,820 --> 00:16:31,820
+Só as botas têm que andar para aquele chão de terra.
+
+325
+00:16:31,820 --> 00:16:36,820
+Estão estonando do resto da aparência dele.
+
+326
+00:16:36,820 --> 00:16:40,820
+Ele tem uma pequena espada na cintura, né?
+
+327
+00:16:40,820 --> 00:16:41,820
+Um chapéu.
+
+328
+00:16:41,820 --> 00:16:45,820
+Ele coloca o chapéu num cabideiro que vocês têm ali na entrada da venda.
+
+329
+00:16:45,820 --> 00:16:46,820
+E ele fala...
+
+330
+00:16:46,820 --> 00:16:48,820
+Bom dia, crianças.
+
+331
+00:16:48,820 --> 00:16:49,820
+Bom dia, Sr. Albino.
+
+332
+00:16:49,820 --> 00:16:50,820
+Bom dia.
+
+333
+00:16:50,820 --> 00:16:52,820
+A mãe de vocês não está por aqui?
+
+334
+00:16:52,820 --> 00:16:55,820
+Ela deu uma saída, mas ela já volta.
+
+335
+00:16:55,820 --> 00:16:56,820
+Só com ela mesmo?
+
+336
+00:16:56,820 --> 00:16:59,820
+Geralmente a gente espera o senhor um pouco mais do fim da tarde.
+
+337
+00:16:59,820 --> 00:17:03,820
+A velha Belinda reclamou que vocês foram um pouco...
+
+338
+00:17:03,820 --> 00:17:05,820
+estúpidos com ela.
+
+339
+00:17:05,820 --> 00:17:07,820
+Estúpidos aqui?
+
+340
+00:17:07,820 --> 00:17:09,820
+Não, o senhor está enganando.
+
+341
+00:17:09,820 --> 00:17:13,820
+Só se por um acaso alguém disser alguma coisa a algum dos outros clientes.
+
+342
+00:17:13,820 --> 00:17:15,820
+A gente nunca seria estúpido com a dona Belinda.
+
+343
+00:17:15,820 --> 00:17:16,820
+Ela vem sempre aqui.
+
+344
+00:17:16,820 --> 00:17:19,820
+A Isabel só cruza os braços e olha para o lado, assim.
+
+345
+00:17:19,820 --> 00:17:24,820
+Ah, com certeza ela confundia a gente com outras pessoas.
+
+346
+00:17:24,820 --> 00:17:25,820
+Não aconteceu nada.
+
+347
+00:17:25,820 --> 00:17:31,820
+Ela só comprou o pão dela, falou comigo, deu bom dia, falou com o Caio e com a Isabel.
+
+348
+00:17:31,820 --> 00:17:33,820
+Somente isso que aconteceu.
+
+349
+00:17:33,820 --> 00:17:38,820
+Bem, a não ser que ela tenha encontrado outra pessoa diferente no caminho e tenha confundido.
+
+350
+00:17:38,820 --> 00:17:41,820
+Mas acredito que a gente é bem diferente dos outros adolescentes.
+
+351
+00:17:41,820 --> 00:17:42,820
+Rola dois dados.
+
+352
+00:17:43,820 --> 00:17:44,820
+Seis e um.
+
+353
+00:17:44,820 --> 00:17:46,820
+Ele abre um sorriso, né?
+
+354
+00:17:46,820 --> 00:17:48,820
+Eu vou acreditar na sua palavra.
+
+355
+00:17:48,820 --> 00:17:53,820
+Ele toca o teu cabelo, ele te olha de cima e embaixo.
+
+356
+00:17:53,820 --> 00:17:56,820
+Você está com quantos anos mesmo, menina?
+
+357
+00:17:56,820 --> 00:17:57,820
+Quatorze.
+
+358
+00:17:57,820 --> 00:18:01,820
+Já está namorando, pensando em casar?
+
+359
+00:18:01,820 --> 00:18:03,820
+Ela já tem um namorado, tá? Ela já tem.
+
+360
+00:18:03,820 --> 00:18:05,820
+Ah, isso é bom.
+
+361
+00:18:05,820 --> 00:18:06,820
+Eu tenho namorado?
+
+362
+00:18:06,820 --> 00:18:07,820
+Aham, tem sim.
+
+363
+00:18:07,820 --> 00:18:09,820
+É, eu tenho.
+
+364
+00:18:09,820 --> 00:18:12,820
+O Caio se estranha, conversa dele e se coloca do lado dela.
+
+365
+00:18:12,820 --> 00:18:16,820
+O senhor veio aqui realmente só pra falar da dona Belinda, seu Albino?
+
+366
+00:18:16,820 --> 00:18:18,820
+É, você quer pão? A gente traz pão.
+
+367
+00:18:18,820 --> 00:18:20,820
+Eu vim, na verdade, ver a mãe de vocês.
+
+368
+00:18:20,820 --> 00:18:23,820
+Soube que ela tá meio sozinha.
+
+369
+00:18:23,820 --> 00:18:28,820
+Na verdade, não. Ela não tá sozinha, não. Ela tem a gente.
+
+370
+00:18:28,820 --> 00:18:30,820
+E tem o nosso pai também.
+
+371
+00:18:30,820 --> 00:18:31,820
+Ah, sim.
+
+372
+00:18:31,820 --> 00:18:34,820
+É que melhor sozinha do que mal acompanhada, né?
+
+373
+00:18:34,820 --> 00:18:35,820
+Meu Deus.
+
+374
+00:18:35,820 --> 00:18:42,820
+Eu soube que o Antero tá cada vez mais pro fundo da floresta, cortando muita madeira, né?
+
+375
+00:18:42,820 --> 00:18:43,820
+É o trabalho dele.
+
+376
+00:18:43,820 --> 00:18:47,820
+E não quer dizer que ele estando longe, ela tá sozinha.
+
+377
+00:18:47,820 --> 00:18:49,820
+Tudo bem. Eu volto uma outra hora.
+
+378
+00:18:49,820 --> 00:18:52,820
+Ele olha de novo pra Tabata?
+
+379
+00:18:52,820 --> 00:18:56,820
+A Tabata tá limpando o nariz, assim, limpando na roupa, olhando pra cara dele, sabe?
+
+380
+00:18:56,820 --> 00:19:02,820
+Quando você e o seu namoradinho quiserem se casar, falem comigo. Eu ajudo vocês.
+
+381
+00:19:02,820 --> 00:19:04,820
+Ah, tá. Vou lembrar disso.
+
+382
+00:19:04,820 --> 00:19:10,820
+Aí a Tabata, ela puxa, assim, um ranho e dá uma cuspe, assim, no chão.
+
+383
+00:19:10,820 --> 00:19:13,820
+Mas, por enquanto, eu não preciso de ninguém, não. Tô bem, assim.
+
+384
+00:19:13,820 --> 00:19:18,820
+Ele dá uma molhada pra Isobel, coça o bigode, faz, assim, um...
+
+385
+00:19:18,820 --> 00:19:20,820
+Ah, não vale a pena.
+
+386
+00:19:20,820 --> 00:19:21,820
+E sai.
+
+387
+00:19:21,820 --> 00:19:26,820
+Assim que ele pisa pra fora, a Isobel corre e abraça a Tabata.
+
+388
+00:19:26,820 --> 00:19:30,820
+Mas não fala nada. Só enfia a cara ali no vestido dela e fica ali, quietinha.
+
+389
+00:19:30,820 --> 00:19:33,820
+Eu faço um carinho na cabeça dela.
+
+390
+00:19:33,820 --> 00:19:40,820
+O cara se aproxima das duas, mas fala assim, que interesse ele tem em você se casar? Isso não faz sentido nenhum.
+
+391
+00:19:40,820 --> 00:19:45,820
+Ah, eu não quero pensar nisso. Eu, daqui a pouco, tenho que me encontrar com o Ícaro. Com certeza.
+
+392
+00:19:45,820 --> 00:19:49,820
+É, mas antes de se encontrar com ele, você vai limpar o chão.
+
+393
+00:19:49,820 --> 00:19:50,820
+Ah...
+
+394
+00:19:50,820 --> 00:19:51,820
+Nem você cuspir aqui.
+
+395
+00:19:51,820 --> 00:19:52,820
+Eu limpo.
+
+396
+00:19:52,820 --> 00:19:53,820
+Ela olha de novo, tá limpando com o pé, assim, com...
+
+397
+00:19:53,820 --> 00:19:54,820
+Eu limpo.
+
+398
+00:19:54,820 --> 00:19:55,820
+Com o sapato.
+
+399
+00:19:55,820 --> 00:19:56,820
+Você pode ir, Tabata.
+
+400
+00:19:56,820 --> 00:19:59,820
+Não, Isobel. Não. Quem cuspiu é ela. Ela que tem que limpar.
+
+401
+00:19:59,820 --> 00:20:02,820
+Não, mas cuspiu porque eu falei que ela tinha um namorado. Tá tudo bem.
+
+402
+00:20:02,820 --> 00:20:12,820
+É, mas tá tudo bem. Eu limpo. Isobel, tá tudo bem, tá, irmãzinha? Eu dou um beijo na testa dela. Eu preciso também limpar a minha mão.
+
+403
+00:20:12,820 --> 00:20:16,820
+Qualquer dia vocês duas se viram contra mim. E ele sai rindo. De novo.
+
+404
+00:20:16,820 --> 00:20:18,820
+Não, o Caio de você é o melhor.
+
+405
+00:20:18,820 --> 00:20:20,820
+Uhum. O que mais?
+
+406
+00:20:20,820 --> 00:20:28,820
+O melhor salvador de pão. O melhor irmão. E eu vou abraçando ele, sabe, fazendo um carinho na cabeça dele. E eu abraço a Isobel também, sim.
+
+407
+00:20:28,820 --> 00:20:31,820
+Vocês dois são os melhores. E a gente não precisa de pai nenhum.
+
+408
+00:20:31,820 --> 00:20:36,820
+Bem, até esse que a gente tem, a gente também não precisa dele. A gente jeito em tudo.
+
+409
+00:20:36,820 --> 00:20:44,820
+Vocês têm a grande Tabata. Eu posso caçar, eu posso cortar lenha, eu posso fazer tudo por isso. Nós não precisamos do papai.
+
+410
+00:20:44,820 --> 00:20:46,820
+Eu fico contente de ter vocês duas como irmãs.
+
+411
+00:20:46,820 --> 00:20:51,820
+Você, pra sustentar a casa com sua força. E a Isobel, pra sustentar a casa com o conhecimento dela.
+
+412
+00:20:51,820 --> 00:20:52,820
+Tabata.
+
+413
+00:20:52,820 --> 00:20:53,820
+Vocês são muito importantes pra mim.
+
+414
+00:20:53,820 --> 00:20:54,820
+É verdade.
+
+415
+00:20:54,820 --> 00:20:57,820
+Você promete que você nunca vai na floresta e não voltar mais?
+
+416
+00:20:57,820 --> 00:21:01,820
+A Tabata, ela para. Ela abaixa, assim. Eu prometo.
+
+417
+00:21:01,820 --> 00:21:05,820
+E ela dá dedinho, assim, pra ela. Faz de promessa de dedinho.
+
+418
+00:21:05,820 --> 00:21:07,820
+Eu não vou embora.
+
+419
+00:21:07,820 --> 00:21:13,820
+Ela dá o dedinho também. Mas ela limpa os olhos, assim, e vai direto pros livros dela. Ela não fala mais nada.
+
+420
+00:21:13,820 --> 00:21:17,820
+Nossa, o coração da Tabata fica muito... muito pesadinho agora.
+
+421
+00:21:17,820 --> 00:21:22,820
+A Tabata, ela puxa o braço do Caio e dá um abraço, assim, pra se aniar no Caio.
+
+422
+00:21:22,820 --> 00:21:28,820
+A Tabata puxa ela pro abraço. Embora ela seja mais alta que ele. Mas ele faz o possível pra acalentar ela.
+
+423
+00:21:28,820 --> 00:21:31,820
+O dia se passa ali tranquilamente.
+
+424
+00:21:31,820 --> 00:21:35,820
+Vocês comem, vocês cuidam da loja, atendem as pessoas.
+
+425
+00:21:35,820 --> 00:21:44,820
+No meio da tarde, a mãe de vocês retorna. Ela joga um saco com um peixe, assim, em cima da mesa.
+
+426
+00:21:44,820 --> 00:21:46,820
+Ela parece bem irritada, não é, pra vocês?
+
+427
+00:21:46,820 --> 00:21:48,820
+Foi tudo tranquilo aqui hoje?
+
+428
+00:21:48,820 --> 00:21:49,820
+Sim, senhora.
+
+429
+00:21:49,820 --> 00:21:53,820
+Ah, teve aquela velha coroca que falou o que quis e ouviu o que não quis.
+
+430
+00:21:53,820 --> 00:21:54,820
+Véu!
+
+431
+00:21:54,820 --> 00:21:55,820
+Mas é verdade!
+
+432
+00:21:55,820 --> 00:21:57,820
+O Albino esteve aqui, né?
+
+433
+00:21:57,820 --> 00:21:58,820
+É, ele passou aqui.
+
+434
+00:21:58,820 --> 00:22:01,820
+Ele falou que era pra falar da dona Belinda.
+
+435
+00:22:01,820 --> 00:22:04,820
+Mas não sei, ele ficou fazendo perguntas esquisitas aqui pra gente.
+
+436
+00:22:04,820 --> 00:22:07,820
+Tabata, senta aqui do meu lado.
+
+437
+00:22:07,820 --> 00:22:08,820
+Por quê?
+
+438
+00:22:08,820 --> 00:22:10,820
+Precisamos conversar.
+
+439
+00:22:10,820 --> 00:22:14,820
+Eu juro que eu não fiz nada. Eu esbarrei nela sem querer.
+
+440
+00:22:14,820 --> 00:22:16,820
+Do que você tá falando?
+
+441
+00:22:16,820 --> 00:22:20,820
+Eu olho pro Caio e pra Isabel. Nada eu sento do lado dela.
+
+442
+00:22:20,820 --> 00:22:22,820
+Realmente não é nada, mãe.
+
+443
+00:22:22,820 --> 00:22:27,820
+O maldito do xerife ficou falando que você pensa em casar. Isso é verdade?
+
+444
+00:22:27,820 --> 00:22:30,820
+Não, eu não quero casar com ninguém.
+
+445
+00:22:30,820 --> 00:22:33,820
+Eu não me vejo casada.
+
+446
+00:22:33,820 --> 00:22:39,820
+Mãe, desculpa, fui eu que inventei isso. Eu achei que o xerife queria levar a Tabata pra longe da gente.
+
+447
+00:22:39,820 --> 00:22:45,820
+Xerife já é casado, tem filhos. O que ele quer é uma outra coisa.
+
+448
+00:22:45,820 --> 00:22:53,820
+Mais pro sul tem uma cidade grande com uma regra antiga dos nobres que nosso querido xerife trouxe pra cá.
+
+449
+00:22:53,820 --> 00:22:55,820
+Chama Primeira Noite.
+
+450
+00:22:55,820 --> 00:22:57,820
+E que regra é essa, mãe?
+
+451
+00:22:57,820 --> 00:22:58,820
+Que que é isso?
+
+452
+00:22:58,820 --> 00:23:03,820
+Temida a Mente, um nobre, como ele diz ser, pode ter a primeira noite de...
+
+453
+00:23:03,820 --> 00:23:11,820
+Bem, quando um homem, uma mulher casa o primeiro a estar com a esposa, será ele se ele assim o quiser.
+
+454
+00:23:11,820 --> 00:23:12,820
+Eu...
+
+455
+00:23:12,820 --> 00:23:13,820
+Mas isso é errado!
+
+456
+00:23:14,820 --> 00:23:19,820
+É... e ele estava... insinuando isso pra mim?
+
+457
+00:23:19,820 --> 00:23:26,820
+É... agora ele tá bem puto e com o olho roxo. Eu vou atrás do pai de vocês. Trinquem tudo e vão dormir!
+
+458
+00:23:26,820 --> 00:23:28,920
+dormir. Pera, pera. Você não vai ficar aqui com a gente?
+
+459
+00:23:29,020 --> 00:23:30,880
+Você não pode ir ver o nosso pai de manhã?
+
+460
+00:23:31,060 --> 00:23:33,100
+Tenho que trazer o Antero de volta.
+
+461
+00:23:33,640 --> 00:23:34,660
+Isso já está saindo
+
+462
+00:23:34,660 --> 00:23:36,920
+do controle. A gente não precisa dele.
+
+463
+00:23:37,520 --> 00:23:38,460
+Ele nunca ajudou a gente.
+
+464
+00:23:38,480 --> 00:23:40,200
+É o mundo que não entende isso.
+
+465
+00:23:40,340 --> 00:23:42,920
+Mas mãe, eu posso resolver qualquer problema.
+
+466
+00:23:43,120 --> 00:23:44,840
+O pai de vocês tem o motivo dele.
+
+467
+00:23:45,300 --> 00:23:46,200
+Eu vou conversar com ele.
+
+468
+00:23:46,300 --> 00:23:48,580
+E o motivo dele é deixar a esposa e os três
+
+469
+00:23:48,580 --> 00:23:51,080
+filhos pra trás? Como ele sempre faz?
+
+470
+00:23:51,300 --> 00:23:52,520
+Vem uma vez ou outra?
+
+471
+00:23:53,140 --> 00:23:54,940
+E nunca diz o porquê que sumiu?
+
+472
+00:23:55,300 --> 00:23:56,140
+Quando que vai voltar?
+
+473
+00:23:56,820 --> 00:23:59,100
+O pai de vocês é uma pessoa muito boa.
+
+474
+00:23:59,340 --> 00:24:00,820
+Mas meio limitado.
+
+475
+00:24:01,100 --> 00:24:03,200
+Eu vou trazer ele de volta. Tranquem tudo.
+
+476
+00:24:03,940 --> 00:24:04,960
+Acabou a venda por hoje.
+
+477
+00:24:05,160 --> 00:24:06,880
+Salvem o peixe e guardem, por favor.
+
+478
+00:24:07,340 --> 00:24:08,520
+A senhora não vai demorar, né?
+
+479
+00:24:08,540 --> 00:24:10,360
+Eu espero que não.
+
+480
+00:24:10,640 --> 00:24:13,160
+Tá bom, mãe. Ela sai e deixa vocês ali.
+
+481
+00:24:13,600 --> 00:24:14,400
+O que vão fazer?
+
+482
+00:24:14,960 --> 00:24:16,300
+Vocês viram a cara dela?
+
+483
+00:24:16,880 --> 00:24:18,800
+Ela parecia irritada.
+
+484
+00:24:19,120 --> 00:24:20,780
+E ela bateu nesse...
+
+485
+00:24:20,780 --> 00:24:22,100
+Mereceu.
+
+486
+00:24:22,900 --> 00:24:24,980
+Sim. Se ele der aqui de novo, eu vou bater nele.
+
+487
+00:24:25,160 --> 00:24:25,960
+Eu vou bater primeiro?
+
+488
+00:24:25,960 --> 00:24:28,260
+Ah, então eu bato por último, pra finalizar
+
+489
+00:24:28,260 --> 00:24:29,300
+o que vocês já bateram.
+
+490
+00:24:29,340 --> 00:24:30,820
+Isso finaliza com uma risadinha.
+
+491
+00:24:31,800 --> 00:24:33,760
+Mas, ainda assustada, a Isabel
+
+492
+00:24:33,760 --> 00:24:35,000
+começa a trancar a casa.
+
+493
+00:24:35,860 --> 00:24:38,220
+E vê se todas as janelas estão bem fechadas.
+
+494
+00:24:38,460 --> 00:24:40,260
+Se a porta tá trancada.
+
+495
+00:24:40,640 --> 00:24:42,180
+Por segurança, ela coloca uma cadeira
+
+496
+00:24:42,180 --> 00:24:43,100
+na frente da porta.
+
+497
+00:24:43,780 --> 00:24:46,320
+E vai acender a fogueira. A lareira, no caso.
+
+498
+00:24:46,960 --> 00:24:48,200
+Eu acho melhor a gente dormir
+
+499
+00:24:48,200 --> 00:24:50,020
+juntos essa noite. Todos juntos.
+
+500
+00:24:50,260 --> 00:24:50,940
+Eu concordo.
+
+501
+00:24:51,440 --> 00:24:52,880
+Ok. Um dado cada um.
+
+502
+00:24:52,880 --> 00:24:54,880
+É, Isabel...
+
+503
+00:24:55,960 --> 00:24:57,260
+A tábata.
+
+504
+00:24:57,580 --> 00:24:58,320
+Tirei cinco.
+
+505
+00:24:58,620 --> 00:24:59,560
+E o Caio?
+
+506
+00:24:59,860 --> 00:25:01,540
+Eu tirei três, que é o meu atributo.
+
+507
+00:25:01,680 --> 00:25:03,860
+Dois acertos. Um acerto crítico.
+
+508
+00:25:04,220 --> 00:25:06,700
+Vocês três escutam barulho lá fora.
+
+509
+00:25:07,460 --> 00:25:08,820
+Uma movimentação
+
+510
+00:25:08,820 --> 00:25:10,700
+de pessoas e tal.
+
+511
+00:25:10,900 --> 00:25:13,080
+Caio vê até alguma luminosidade
+
+512
+00:25:13,080 --> 00:25:14,480
+passando pelas frestas,
+
+513
+00:25:14,600 --> 00:25:15,600
+nas janelas.
+
+514
+00:25:15,960 --> 00:25:17,540
+Algo está acontecendo lá fora.
+
+515
+00:25:18,340 --> 00:25:20,740
+Pela janela só dá pra ver que tá tendo uma movimentação.
+
+516
+00:25:20,900 --> 00:25:21,860
+Não dá pra ver nada além disso.
+
+517
+00:25:21,860 --> 00:25:23,620
+Só abre a janela e dá uma olhada, né?
+
+518
+00:25:23,720 --> 00:25:25,300
+Sim, bem escondido pela fresta.
+
+519
+00:25:25,960 --> 00:25:26,540
+Curitiba só.
+
+520
+00:25:27,360 --> 00:25:28,800
+Muitas pessoas com tocha
+
+521
+00:25:28,800 --> 00:25:31,840
+na praça principal, próxima ao rio.
+
+522
+00:25:32,260 --> 00:25:34,260
+Caio, o que tá acontecendo?
+
+523
+00:25:34,600 --> 00:25:36,120
+A Isabel tá meio com sono, assim,
+
+524
+00:25:36,160 --> 00:25:36,720
+se pega no ar.
+
+525
+00:25:36,900 --> 00:25:39,260
+Parece que tem várias pessoas
+
+526
+00:25:39,260 --> 00:25:42,120
+indo pra praça e elas têm tochas na mão.
+
+527
+00:25:42,940 --> 00:25:43,960
+Guaxa, a gente já viu
+
+528
+00:25:43,960 --> 00:25:45,440
+esse tipo de comportamento na cidade?
+
+529
+00:25:45,720 --> 00:25:46,560
+Uma outra vez.
+
+530
+00:25:46,740 --> 00:25:48,340
+E qual foi a ocasião? A gente sabe?
+
+531
+00:25:48,400 --> 00:25:52,080
+Foi um teste da água. Uma mulher foi lançada ao rio
+
+532
+00:25:52,080 --> 00:25:54,020
+pra saber se ela era bruxa ou não.
+
+533
+00:25:54,020 --> 00:25:55,340
+E ela se afogou.
+
+534
+00:25:55,960 --> 00:25:58,520
+De novo, aquele teste que fizeram
+
+535
+00:25:58,520 --> 00:26:00,680
+há muito tempo atrás. Eu não sei se você lembra,
+
+536
+00:26:00,760 --> 00:26:02,260
+Isabel, você era bem nova.
+
+537
+00:26:02,900 --> 00:26:04,480
+A mamãe chegou a comentar desse teste
+
+538
+00:26:04,480 --> 00:26:06,600
+um tempo atrás, que é pra saber
+
+539
+00:26:06,600 --> 00:26:08,040
+se uma mulher era bruxa ou não.
+
+540
+00:26:08,420 --> 00:26:10,340
+Aquele teste bobo, idiota.
+
+541
+00:26:10,960 --> 00:26:12,500
+Eu entendo, mas hoje,
+
+542
+00:26:12,600 --> 00:26:14,880
+do nada, a mamãe
+
+543
+00:26:14,880 --> 00:26:16,680
+não tá aqui. Você disse que a mamãe
+
+544
+00:26:16,680 --> 00:26:18,680
+não tá aqui? Não, ela saiu pra procurar
+
+545
+00:26:18,680 --> 00:26:19,960
+o nosso pai.
+
+546
+00:26:20,520 --> 00:26:22,400
+A Isabel tem um estalo na cabeça dela
+
+547
+00:26:22,400 --> 00:26:24,520
+e ela não fala nada. Ela só joga os cobertores
+
+548
+00:26:24,520 --> 00:26:25,880
+pro lado e corre.
+
+549
+00:26:25,960 --> 00:26:28,100
+Lá pra baixo, eu presumo que a gente tá no segundo andar,
+
+550
+00:26:28,660 --> 00:26:29,800
+pra olhar pela janela
+
+551
+00:26:29,800 --> 00:26:31,860
+e se consegue ver quem que tá sendo
+
+552
+00:26:31,860 --> 00:26:34,480
+feito o teste. Não, dá pra escorrer atrás.
+
+553
+00:26:34,500 --> 00:26:36,440
+É da distância de vocês ali, não dá pra ver.
+
+554
+00:26:36,600 --> 00:26:38,380
+Eu desço já, pego
+
+555
+00:26:38,380 --> 00:26:40,540
+um machado. A gente vai
+
+556
+00:26:40,540 --> 00:26:42,540
+olhar o que tá acontecendo ou a gente fica aqui em casa?
+
+557
+00:26:42,560 --> 00:26:43,720
+Sim, a gente vai olhar. Sim.
+
+558
+00:26:44,520 --> 00:26:46,500
+Tá, mas a gente... Vamos tentar
+
+559
+00:26:46,500 --> 00:26:48,380
+ir devagar. Não sair
+
+560
+00:26:48,380 --> 00:26:49,820
+correndo se acontecer alguma coisa.
+
+561
+00:26:50,300 --> 00:26:52,280
+E se não for, ninguém é importante.
+
+562
+00:26:52,280 --> 00:26:54,560
+A gente volta pra casa e se fecha aqui.
+
+563
+00:26:54,920 --> 00:26:55,620
+Tá bom? Tá.
+
+564
+00:26:55,960 --> 00:26:58,000
+Esperando a confirmação das duas.
+
+565
+00:26:58,240 --> 00:26:59,780
+Eu prometo, eu prometo, eu juro.
+
+566
+00:27:00,280 --> 00:27:02,580
+Ela bota a mão assim no peito e aí a outra
+
+567
+00:27:02,580 --> 00:27:04,100
+tá cruzando pra trás.
+
+568
+00:27:04,220 --> 00:27:06,920
+Bel? Tá, isso é suficiente
+
+569
+00:27:06,920 --> 00:27:08,720
+pra mim. Mas cuidado, tá?
+
+570
+00:27:09,380 --> 00:27:11,020
+Esse tipo de ritual
+
+571
+00:27:11,020 --> 00:27:12,780
+a gente não sabe como funciona, então
+
+572
+00:27:12,780 --> 00:27:14,920
+qualquer coisa a gente sai correndo e volta pra casa.
+
+573
+00:27:15,380 --> 00:27:16,600
+Tá, se não for mamãe,
+
+574
+00:27:16,780 --> 00:27:18,620
+a gente volta. Não, não é mamãe.
+
+575
+00:27:18,980 --> 00:27:20,640
+É só por desencargo de consciência
+
+576
+00:27:20,640 --> 00:27:21,460
+que a gente vai olhar.
+
+577
+00:27:21,760 --> 00:27:24,480
+A Isabel já tá tirando a cadeira, já tá destrancando a porta
+
+578
+00:27:24,480 --> 00:27:25,280
+e indo lá pra fora.
+
+579
+00:27:25,960 --> 00:27:28,720
+Eu tô indo atrás e eu tô com
+
+580
+00:27:28,720 --> 00:27:30,900
+o peito bem apertado e muito preocupada.
+
+581
+00:27:31,440 --> 00:27:32,700
+A cidade, assim,
+
+582
+00:27:33,380 --> 00:27:34,780
+tá... As casas
+
+583
+00:27:34,780 --> 00:27:36,240
+têm algumas luzes acesas, tem algumas
+
+584
+00:27:36,240 --> 00:27:38,680
+outras crianças pela janela ali
+
+585
+00:27:38,680 --> 00:27:40,660
+olhando, né? Mas os adultos
+
+586
+00:27:40,660 --> 00:27:42,180
+estão lá na praça central.
+
+587
+00:27:43,260 --> 00:27:44,720
+Vocês se aproximam
+
+588
+00:27:44,720 --> 00:27:46,700
+de lá. Tá o povo lá
+
+589
+00:27:46,700 --> 00:27:48,460
+com tochas e tal.
+
+590
+00:27:49,200 --> 00:27:50,640
+O xerife tá em cima
+
+591
+00:27:50,640 --> 00:27:52,860
+de uma estrutura
+
+592
+00:27:52,860 --> 00:27:54,680
+de madeira que foi montada ali
+
+593
+00:27:54,680 --> 00:27:55,840
+e...
+
+594
+00:27:55,960 --> 00:27:58,520
+segurando uma corda
+
+595
+00:27:58,520 --> 00:28:00,640
+e vocês veem a mãe de vocês
+
+596
+00:28:00,640 --> 00:28:02,660
+amarrada já sobre o rio
+
+597
+00:28:02,660 --> 00:28:04,460
+sendo...
+
+598
+00:28:04,460 --> 00:28:05,900
+lançada.
+
+599
+00:28:06,520 --> 00:28:08,320
+A pessoa não é só lançada ao rio, mas
+
+600
+00:28:08,320 --> 00:28:10,600
+ela poderia nadar. Ela tem os braços
+
+601
+00:28:10,600 --> 00:28:12,220
+e as pernas amarradas
+
+602
+00:28:12,220 --> 00:28:13,940
+e jogam ela no rio.
+
+603
+00:28:14,220 --> 00:28:16,280
+O Caio, quando ele vê isso,
+
+604
+00:28:16,700 --> 00:28:18,740
+ele olha pra tábua e tá...
+
+605
+00:28:18,740 --> 00:28:20,840
+Cuida da Bel. E ele sai correndo.
+
+606
+00:28:21,120 --> 00:28:22,100
+Ele vai em direção ao rio.
+
+607
+00:28:22,540 --> 00:28:24,420
+Meu Deus. Eu entro no desespero.
+
+608
+00:28:24,540 --> 00:28:25,940
+Eu olho pra Bel.
+
+609
+00:28:25,960 --> 00:28:27,760
+Eu pego a Bel no colo.
+
+610
+00:28:27,840 --> 00:28:28,640
+Você confia na irmã?
+
+611
+00:28:28,920 --> 00:28:31,220
+Eles vão matar a mãe. Eles vão matar a mãe.
+
+612
+00:28:31,620 --> 00:28:33,180
+Ninguém vai fazer nada com a nossa mãe.
+
+613
+00:28:33,340 --> 00:28:35,860
+Eu pego a Bel e saio correndo
+
+614
+00:28:35,860 --> 00:28:38,020
+na direção do rio, atrás do Caio.
+
+615
+00:28:38,660 --> 00:28:39,140
+Desesperada.
+
+616
+00:28:39,380 --> 00:28:41,720
+Caio, quando tu chega perto do rio,
+
+617
+00:28:42,420 --> 00:28:43,920
+sente uma mão assim
+
+618
+00:28:43,920 --> 00:28:45,900
+no teu peito, te empurrando
+
+619
+00:28:45,900 --> 00:28:47,020
+pro lado ali.
+
+620
+00:28:47,640 --> 00:28:49,460
+É o pai de vocês, né?
+
+621
+00:28:50,000 --> 00:28:51,380
+Ele olha pra ti.
+
+622
+00:28:51,580 --> 00:28:53,600
+Espera mais um pouco. Não, você tá louco?
+
+623
+00:28:53,600 --> 00:28:54,580
+É a mamãe.
+
+624
+00:28:54,920 --> 00:28:55,600
+Eles vão...
+
+625
+00:28:55,960 --> 00:28:56,440
+Ele faz sinal.
+
+626
+00:28:56,760 --> 00:28:59,800
+Se vocês forem todos queimados, ela não vai nos perdoar.
+
+627
+00:28:59,880 --> 00:29:01,920
+Eu prefiro ser queimado, a Bel não ser jogada no rio assim.
+
+628
+00:29:02,060 --> 00:29:02,740
+Eu vou buscar ela.
+
+629
+00:29:02,880 --> 00:29:04,880
+Vocês, as meninas chegam perto, né?
+
+630
+00:29:05,540 --> 00:29:06,660
+O pai de vocês fala bem alto.
+
+631
+00:29:06,920 --> 00:29:10,300
+Xerife, ela afundou. Ela passou no teste.
+
+632
+00:29:10,520 --> 00:29:11,940
+As pessoas em volta ali
+
+633
+00:29:11,940 --> 00:29:14,760
+começam a se olhar e tal.
+
+634
+00:29:15,040 --> 00:29:16,160
+Ela passou no teste.
+
+635
+00:29:16,320 --> 00:29:17,240
+Ele fala de novo.
+
+636
+00:29:17,760 --> 00:29:19,620
+O xerife fala.
+
+637
+00:29:19,720 --> 00:29:21,140
+Ela passou no teste.
+
+638
+00:29:21,140 --> 00:29:22,880
+O pai de vocês
+
+639
+00:29:22,880 --> 00:29:25,000
+tira a camisa e mergulha no rio.
+
+640
+00:29:25,960 --> 00:29:28,880
+O cais espera as irmãs chegarem
+
+641
+00:29:28,880 --> 00:29:31,000
+e vai pra bela do rio. Ele tá, tipo, desesperado ali.
+
+642
+00:29:31,140 --> 00:29:33,200
+A taba tá cheia e coloca a Bel no chão.
+
+643
+00:29:34,020 --> 00:29:34,880
+O que que tá acontecendo?
+
+644
+00:29:35,260 --> 00:29:35,860
+Cadê a mãe?
+
+645
+00:29:36,300 --> 00:29:38,160
+O pai disse que vai pegar ela no rio.
+
+646
+00:29:38,800 --> 00:29:39,660
+Disse que se a gente
+
+647
+00:29:39,660 --> 00:29:42,040
+fizesse alguma coisa, a gente ia ser queimado também.
+
+648
+00:29:42,160 --> 00:29:43,140
+E ele pulou no rio atrás dela.
+
+649
+00:29:43,280 --> 00:29:45,000
+O pai tá aqui? Ele tá atrás dela?
+
+650
+00:29:45,140 --> 00:29:45,980
+Sim, ele tá lá dentro.
+
+651
+00:29:46,160 --> 00:29:47,180
+Ele aponta pro rio.
+
+652
+00:29:47,180 --> 00:29:47,520
+Ele tá na sua casa.
+
+653
+00:29:47,800 --> 00:29:49,520
+Ele tem uma movimentação, deve ter mergulhado.
+
+654
+00:29:49,680 --> 00:29:51,900
+Muitas pessoas começam a ir embora
+
+655
+00:29:51,900 --> 00:29:53,920
+meio constrangidas, né?
+
+656
+00:29:54,460 --> 00:29:55,500
+Afinal, em teoria,
+
+657
+00:29:55,960 --> 00:29:57,700
+afogaram uma pessoa inocente.
+
+658
+00:29:58,000 --> 00:29:59,980
+O próprio xerife se vê ali
+
+659
+00:29:59,980 --> 00:30:02,360
+cada vez mais sozinho, embora os soldados
+
+660
+00:30:02,360 --> 00:30:03,380
+continuem perto dele.
+
+661
+00:30:04,040 --> 00:30:05,960
+E ele também decide ir embora.
+
+662
+00:30:06,260 --> 00:30:08,160
+O cais tá fuzilando o xerife
+
+663
+00:30:08,160 --> 00:30:09,020
+com o olhar, assim.
+
+664
+00:30:09,160 --> 00:30:11,620
+Ele tem um olho roxo ali.
+
+665
+00:30:11,980 --> 00:30:13,700
+Nossa, acho que só não vai pra cima
+
+666
+00:30:13,700 --> 00:30:15,580
+porque tem guardas do lado.
+
+667
+00:30:15,580 --> 00:30:16,100
+É, armados.
+
+668
+00:30:17,680 --> 00:30:19,380
+Isabel tá respirando
+
+669
+00:30:19,380 --> 00:30:21,240
+profundamente e
+
+670
+00:30:21,240 --> 00:30:23,600
+sem piscar, olhando pro rio, esperando
+
+671
+00:30:23,600 --> 00:30:24,980
+o pai e a mãe voltar.
+
+672
+00:30:25,960 --> 00:30:28,000
+O pai de vocês saindo, assim,
+
+673
+00:30:28,080 --> 00:30:29,280
+nadando, com a
+
+674
+00:30:29,280 --> 00:30:32,320
+mãe de vocês, segurando a mãe de vocês.
+
+675
+00:30:33,200 --> 00:30:34,060
+Ele então sai do rio
+
+676
+00:30:34,060 --> 00:30:36,180
+com ela no ombro. Ele grita pras pessoas
+
+677
+00:30:36,180 --> 00:30:36,920
+que sobraram ali.
+
+678
+00:30:37,080 --> 00:30:38,740
+Ela tá viva! Vão embora!
+
+679
+00:30:39,140 --> 00:30:40,880
+E ele começa a caminhar em direção à casa
+
+680
+00:30:40,880 --> 00:30:42,600
+à venda de vocês.
+
+681
+00:30:42,600 --> 00:30:44,060
+Deixa eu ajudar, deixa eu ajudar.
+
+682
+00:30:44,520 --> 00:30:45,900
+E ela tenta ajudar a levar a mãe.
+
+683
+00:30:46,100 --> 00:30:48,640
+Tu sente que ela tá gelada, assim.
+
+684
+00:30:48,760 --> 00:30:49,520
+Gelada, gelada.
+
+685
+00:30:49,800 --> 00:30:52,760
+O cais vai correndo na frente pra poder colocar lenha
+
+686
+00:30:52,760 --> 00:30:54,460
+no fogão da lenha.
+
+687
+00:30:54,600 --> 00:30:55,800
+Se já não tiver lenha, ele coloca mais.
+
+688
+00:30:55,800 --> 00:30:56,900
+Vai ficar bem quente.
+
+689
+00:30:58,260 --> 00:30:59,520
+Tentando manter o ambiente
+
+690
+00:30:59,520 --> 00:31:01,420
+o mais aquecido possível pra quando ela chegar.
+
+691
+00:31:01,920 --> 00:31:03,420
+O pai de vocês chega, deita
+
+692
+00:31:03,420 --> 00:31:05,780
+o corpo da mãe perto
+
+693
+00:31:05,780 --> 00:31:08,080
+da madeira, sopra na boca dela,
+
+694
+00:31:08,660 --> 00:31:09,800
+ele tenta
+
+695
+00:31:09,800 --> 00:31:11,240
+sentir a respiração,
+
+696
+00:31:12,060 --> 00:31:13,400
+ele mexe nela ali,
+
+697
+00:31:14,040 --> 00:31:15,800
+então ele senta e começa a chorar.
+
+698
+00:31:16,180 --> 00:31:17,620
+A Tabata tá em pé, parada,
+
+699
+00:31:17,680 --> 00:31:19,660
+olhando pra ele e vendo ele fazer tudo isso.
+
+700
+00:31:19,760 --> 00:31:20,620
+Eu olho pra ele.
+
+701
+00:31:21,720 --> 00:31:22,780
+Por que você tá chorando?
+
+702
+00:31:22,780 --> 00:31:24,780
+Por que a mãe não tá acordando?
+
+703
+00:31:24,800 --> 00:31:25,240
+Ela tá aqui.
+
+704
+00:31:25,800 --> 00:31:27,620
+Continua soprando nela.
+
+705
+00:31:28,880 --> 00:31:30,500
+Você falou que ia salvar ela.
+
+706
+00:31:31,080 --> 00:31:31,420
+Pai?
+
+707
+00:31:32,160 --> 00:31:34,200
+Mãe? Mãe, a senhora tá ouvindo?
+
+708
+00:31:35,320 --> 00:31:35,800
+Mãe?
+
+709
+00:31:36,460 --> 00:31:38,040
+A Tabata deita em cima da mãe
+
+710
+00:31:38,040 --> 00:31:39,620
+pra segurar a mãe dela.
+
+711
+00:31:40,540 --> 00:31:43,320
+Mamãe, a senhora prometeu que ia voltar, mãe.
+
+712
+00:31:43,960 --> 00:31:45,200
+A senhora prometeu.
+
+713
+00:31:45,880 --> 00:31:46,960
+Já pode acordar, mãe.
+
+714
+00:31:47,580 --> 00:31:48,960
+Tá tudo bem, eles já foram embora.
+
+715
+00:31:49,360 --> 00:31:50,580
+O papai já trouxe você aqui pra dentro.
+
+716
+00:31:50,580 --> 00:31:52,800
+Ele olha pra vocês.
+
+717
+00:31:52,940 --> 00:31:54,700
+Vocês são meus filhos, né?
+
+718
+00:31:54,700 --> 00:31:56,700
+Se a gente fosse filhos de vocês de verdade,
+
+719
+00:31:56,700 --> 00:31:58,700
+você tava aqui quando isso aconteceu, não?
+
+720
+00:31:58,700 --> 00:32:00,700
+Não sei aonde.
+
+721
+00:32:00,700 --> 00:32:02,700
+Tem um jeito.
+
+722
+00:32:02,700 --> 00:32:04,700
+E eu preciso de vocês.
+
+723
+00:32:04,700 --> 00:32:06,700
+Tranquem o andar de cima.
+
+724
+00:32:06,700 --> 00:32:08,700
+Tenham um dia normal.
+
+725
+00:32:08,700 --> 00:32:10,700
+As pessoas vão vir perguntar e vocês vão dizer
+
+726
+00:32:10,700 --> 00:32:12,700
+que a mãe de vocês tá dormindo no quarto.
+
+727
+00:32:12,700 --> 00:32:14,700
+Mas ela não tá dormindo.
+
+728
+00:32:14,700 --> 00:32:16,700
+Mas digam isso pra todos.
+
+729
+00:32:16,700 --> 00:32:18,700
+E que jeito é esse?
+
+730
+00:32:18,700 --> 00:32:19,700
+Você vai fugir de novo?
+
+731
+00:32:19,700 --> 00:32:20,700
+Não.
+
+732
+00:32:20,700 --> 00:32:23,700
+Pra isso dar certo, o povo tem que achar que a mãe de vocês sobreviveu.
+
+733
+00:32:23,700 --> 00:32:24,200
+Pra isso dar certo, o povo tem que achar que a mãe de vocês sobreviveu.
+
+734
+00:32:24,700 --> 00:32:25,200
+Pra isso dar certo, o povo tem que achar que a mãe de vocês sobreviveu.
+
+735
+00:32:25,200 --> 00:32:26,700
+Fincham normalidade.
+
+736
+00:32:26,700 --> 00:32:28,700
+Engolam qualquer raiva que vocês tenham.
+
+737
+00:32:28,700 --> 00:32:30,700
+E o que vai acontecer?
+
+738
+00:32:30,700 --> 00:32:32,700
+A mamãe tá gelada, pai.
+
+739
+00:32:32,700 --> 00:32:34,700
+Eu trago ela de volta amanhã.
+
+740
+00:32:34,700 --> 00:32:36,700
+De que jeito?
+
+741
+00:32:36,700 --> 00:32:38,700
+Do mesmo jeito que trouxe vocês de volta quando a praga levou as outras crianças.
+
+742
+00:32:38,700 --> 00:32:40,700
+Do mesmo jeito que trouxe vocês de volta quando a praga levou as outras crianças.
+
+743
+00:32:40,700 --> 00:32:42,700
+Ele coloca a mãe de vocês no ombro?
+
+744
+00:32:42,700 --> 00:32:44,700
+Normalidade.
+
+745
+00:32:44,700 --> 00:32:46,700
+Se alguém desconfiar que ela não tá aqui e não tá bem,
+
+746
+00:32:46,700 --> 00:32:48,700
+Se alguém desconfiar que ela não tá aqui e não tá bem,
+
+747
+00:32:48,700 --> 00:32:50,700
+vão fazer coisas muito piores com ela.
+
+748
+00:32:50,700 --> 00:32:52,700
+Ele sai da venda.
+
+749
+00:32:52,700 --> 00:32:54,700
+Ele...
+
+750
+00:32:54,700 --> 00:32:56,700
+Ele abandonou a gente.
+
+751
+00:32:56,700 --> 00:32:58,700
+E se a gente for atrás dele?
+
+752
+00:32:58,700 --> 00:33:00,700
+Meninas, eu sei que...
+
+753
+00:33:00,700 --> 00:33:02,700
+Nunca foi um pai pra gente.
+
+754
+00:33:02,700 --> 00:33:04,700
+Ele tá muito mais fora do que aqui.
+
+755
+00:33:04,700 --> 00:33:06,700
+Mas ele pareceu falar sério agora.
+
+756
+00:33:06,700 --> 00:33:08,700
+Mas ele pareceu falar sério agora.
+
+757
+00:33:08,700 --> 00:33:10,700
+Eu acho que a gente devia ter um pouco de esperança.
+
+758
+00:33:10,700 --> 00:33:12,700
+Não nele.
+
+759
+00:33:12,700 --> 00:33:14,700
+Mas a mamãe...
+
+760
+00:33:14,700 --> 00:33:16,700
+Ela não vai abandonar a gente assim.
+
+761
+00:33:16,700 --> 00:33:18,700
+Ela prometeu, não prometeu, Caius? Ela prometeu.
+
+762
+00:33:18,700 --> 00:33:20,700
+A mamãe morreu.
+
+763
+00:33:20,700 --> 00:33:22,700
+Vocês estão...
+
+764
+00:33:22,700 --> 00:33:24,700
+Vocês estão segurando a palavra daquele homem
+
+765
+00:33:24,700 --> 00:33:26,700
+que nem na nossa vida tá.
+
+766
+00:33:26,700 --> 00:33:28,700
+Bel, olha só.
+
+767
+00:33:28,700 --> 00:33:30,700
+Eu sei.
+
+768
+00:33:30,700 --> 00:33:32,700
+Eu vou ser sincero com você.
+
+769
+00:33:32,700 --> 00:33:34,700
+Eu respeito ele, mas desgosto dele
+
+770
+00:33:34,700 --> 00:33:36,700
+Eu respeito ele, mas desgosto dele
+
+771
+00:33:36,700 --> 00:33:38,700
+tanto quanto você.
+
+772
+00:33:38,700 --> 00:33:40,700
+Por ele não ser um pai aqui pra gente.
+
+773
+00:33:40,700 --> 00:33:42,700
+Mas se a mamãe morreu mesmo,
+
+774
+00:33:42,700 --> 00:33:44,700
+o que a gente vai fazer agora?
+
+775
+00:33:44,700 --> 00:33:46,700
+A gente vai só ficar de luto?
+
+776
+00:33:46,700 --> 00:33:48,700
+Esperar?
+
+777
+00:33:48,700 --> 00:33:50,700
+Eu sei que a gente vai cuidar um do outro.
+
+778
+00:33:50,700 --> 00:33:52,700
+Mas se o que ele disse
+
+779
+00:33:52,700 --> 00:33:54,700
+tiver pelo menos um mínimo de verdade,
+
+780
+00:33:54,700 --> 00:33:56,700
+pode ser uma chance que a gente tem.
+
+781
+00:33:56,700 --> 00:33:58,700
+Ele olha pra Tabata pra ver
+
+782
+00:33:58,700 --> 00:34:00,700
+alguma reação dela, o que ela acha.
+
+783
+00:34:00,700 --> 00:34:02,700
+Você vê que a Tabata tá com
+
+784
+00:34:02,700 --> 00:34:04,700
+o maxilar bem trancado,
+
+785
+00:34:04,700 --> 00:34:06,700
+sabe? Muita raiva.
+
+786
+00:34:06,700 --> 00:34:08,700
+Ela não quer
+
+787
+00:34:08,700 --> 00:34:10,700
+desmentir o que o Caius tá falando.
+
+788
+00:34:10,700 --> 00:34:12,700
+Ela também quer acreditar muito no que o Caius
+
+789
+00:34:12,700 --> 00:34:14,700
+tá falando. Ela olha pra Isobel.
+
+790
+00:34:14,700 --> 00:34:16,700
+Ela olha pra lareira.
+
+791
+00:34:16,700 --> 00:34:18,700
+Eu vou cortar lenha. Ela pega o machado
+
+792
+00:34:18,700 --> 00:34:20,700
+e ela vai tentar sair pelas portas dos
+
+793
+00:34:20,700 --> 00:34:22,700
+fundos e cortar lenha.
+
+794
+00:34:22,700 --> 00:34:24,700
+Mas ela tá com muita raiva. Ela vai te contar a raiva dela
+
+795
+00:34:24,700 --> 00:34:26,700
+na lenha. A Isobel
+
+796
+00:34:26,700 --> 00:34:28,700
+senta na frente do fogo e fica olhando.
+
+797
+00:34:28,700 --> 00:34:30,700
+O Caius vai sentar do lado da
+
+798
+00:34:30,700 --> 00:34:32,700
+Isobel.
+
+799
+00:34:32,700 --> 00:34:34,700
+Mas ele vai deixar ela no luto
+
+800
+00:34:34,700 --> 00:34:36,700
+dela. Só vai se aproximar se ela
+
+801
+00:34:36,700 --> 00:34:38,700
+perceber que ela permitir. Ela permite.
+
+802
+00:34:38,700 --> 00:34:40,700
+Mas ela não fala nada. Então
+
+803
+00:34:40,700 --> 00:34:42,700
+senta atrás dela e
+
+804
+00:34:42,700 --> 00:34:44,700
+tenta alinhar ela pra ela ficar um pouco mais
+
+805
+00:34:44,700 --> 00:34:46,700
+confortável. A Tabata demora um pouquinho.
+
+806
+00:34:46,700 --> 00:34:48,700
+Ela volta com lenha cortada.
+
+807
+00:34:48,700 --> 00:34:50,700
+Ela taca mais um pouco na lenha.
+
+808
+00:34:50,700 --> 00:34:52,700
+Ela senta do lado do Caius.
+
+809
+00:34:52,700 --> 00:34:54,700
+Pega na mão da Isobel.
+
+810
+00:34:54,700 --> 00:34:56,700
+E ela fica ali parada do lado deles.
+
+811
+00:34:56,700 --> 00:34:58,700
+Se a raiva que você estiver sentindo
+
+812
+00:34:58,700 --> 00:35:00,700
+sobre você sabe quem
+
+813
+00:35:00,700 --> 00:35:02,700
+for a mesma que eu tô sentindo sobre você sabe quem
+
+814
+00:35:02,700 --> 00:35:04,700
+a gente dá um jeito nisso depois.
+
+815
+00:35:04,700 --> 00:35:06,700
+A Tabata começa a chorar muito.
+
+816
+00:35:06,700 --> 00:35:08,700
+E a... assim...
+
+817
+00:35:08,700 --> 00:35:10,700
+se alinha assim no colo. Assim...
+
+818
+00:35:10,700 --> 00:35:12,700
+na perna do Caius. É.
+
+819
+00:35:12,700 --> 00:35:14,700
+A gente dá um jeito depois.
+
+820
+00:35:14,700 --> 00:35:16,700
+E ela tá olhando pro fogo.
+
+821
+00:35:16,700 --> 00:35:18,700
+Vocês praticamente não dormem, né?
+
+822
+00:35:18,700 --> 00:35:20,700
+Imagino. Mas no dia seguinte
+
+823
+00:35:20,700 --> 00:35:22,700
+chega a hora de abrir a venda.
+
+824
+00:35:22,700 --> 00:35:24,700
+Vocês vão fazer o que?
+
+825
+00:35:24,700 --> 00:35:26,700
+A Tabata vai fazer o que ela sabe fazer de melhor.
+
+826
+00:35:26,700 --> 00:35:28,700
+Botar um sorriso falso no rosto.
+
+827
+00:35:28,700 --> 00:35:30,700
+E ficar na frente da venda varrendo.
+
+828
+00:35:30,700 --> 00:35:32,700
+A Isobel com olheiras gigantescas
+
+829
+00:35:32,700 --> 00:35:34,700
+e
+
+830
+00:35:34,700 --> 00:35:36,700
+provavelmente não só de passar a noite em claro
+
+831
+00:35:36,700 --> 00:35:38,700
+mas também de ter chorado muito.
+
+832
+00:35:38,700 --> 00:35:40,700
+Ela vai lá. Começa a arrumar
+
+833
+00:35:40,700 --> 00:35:42,700
+o... a parte
+
+834
+00:35:42,700 --> 00:35:44,700
+dentro, né? Da vendinha.
+
+835
+00:35:44,700 --> 00:35:46,700
+Ajudar a Tabata. E pegar um
+
+836
+00:35:46,700 --> 00:35:48,700
+livro ali pra começar a escrever as trocas
+
+837
+00:35:48,700 --> 00:35:50,700
+de dia. O Caius, ele...
+
+838
+00:35:50,700 --> 00:35:52,700
+foi logo cedo pra cozinha.
+
+839
+00:35:52,700 --> 00:35:54,700
+Começou o processo dele matinal
+
+840
+00:35:54,700 --> 00:35:56,700
+de fazer os pães. Hoje os pães dele
+
+841
+00:35:56,700 --> 00:35:58,700
+mal tão crescendo. Ele tá tentando
+
+842
+00:35:58,700 --> 00:36:00,700
+fazer tudo que ele faz como se fosse
+
+843
+00:36:00,700 --> 00:36:02,700
+um dia normal. As pessoas que costumam vir
+
+844
+00:36:02,700 --> 00:36:04,700
+não vêm.
+
+845
+00:36:04,700 --> 00:36:06,700
+A cidade meio que
+
+846
+00:36:06,700 --> 00:36:08,700
+ignora a existência da venda essa
+
+847
+00:36:08,700 --> 00:36:10,700
+manhã. Ou pode ser até bom.
+
+848
+00:36:10,700 --> 00:36:12,700
+Mas...
+
+849
+00:36:12,700 --> 00:36:14,700
+quando chega mais próximo do meio do dia
+
+850
+00:36:14,700 --> 00:36:16,700
+o xerife, acompanhado
+
+851
+00:36:16,700 --> 00:36:18,700
+de os dois
+
+852
+00:36:18,700 --> 00:36:20,700
+soldados dele, né? Todos com...
+
+853
+00:36:20,700 --> 00:36:22,700
+os dois soldados
+
+854
+00:36:22,700 --> 00:36:24,700
+com lanças. E o xerife
+
+855
+00:36:24,700 --> 00:36:26,700
+com a espada na cintura. Ele dá
+
+856
+00:36:26,700 --> 00:36:28,700
+um sorriso pra Tabata.
+
+857
+00:36:28,700 --> 00:36:30,700
+Bom dia. Ou boa tarde.
+
+858
+00:36:30,700 --> 00:36:32,700
+Não sei se já comeu.
+
+859
+00:36:32,700 --> 00:36:34,700
+Eu olho pra ele com um olhar mais...
+
+860
+00:36:34,700 --> 00:36:36,700
+Meu olhar é um olhar de raiva.
+
+861
+00:36:36,700 --> 00:36:38,700
+Mas tem um sorriso ali.
+
+862
+00:36:38,700 --> 00:36:40,700
+Já comi. Ele se aproxima
+
+863
+00:36:40,700 --> 00:36:42,700
+assim da orelha de um soldado. Faz um
+
+864
+00:36:42,700 --> 00:36:44,700
+comentário. Tudo consegue ouvir.
+
+865
+00:36:44,700 --> 00:36:46,700
+O soldado dá uma risadinha.
+
+866
+00:36:46,700 --> 00:36:48,700
+Fiquem aqui fora. Daqui a
+
+867
+00:36:48,700 --> 00:36:50,700
+pouco vocês entram.
+
+868
+00:36:50,700 --> 00:36:52,700
+A venda tá aberta, né? Você vai querer
+
+869
+00:36:52,700 --> 00:36:54,700
+alguma coisa? Eu queria falar com a
+
+870
+00:36:54,700 --> 00:36:56,700
+mãe de vocês.
+
+871
+00:36:56,700 --> 00:36:58,700
+Disseram que ela sobreviveu ao teste
+
+872
+00:36:58,700 --> 00:37:00,700
+de ontem. Espero que ela não
+
+873
+00:37:00,700 --> 00:37:02,700
+tenha nenhuma mágoa.
+
+874
+00:37:02,700 --> 00:37:04,700
+Não. A mãe, ela precisou
+
+875
+00:37:04,700 --> 00:37:06,700
+sair. Saia?
+
+876
+00:37:06,700 --> 00:37:08,700
+É, ela foi pegar mais peixe. Não, não.
+
+877
+00:37:08,700 --> 00:37:10,700
+A Tabata, ela já voltou. Ela tá
+
+878
+00:37:10,700 --> 00:37:12,700
+no quarto descansando. Mas houve
+
+879
+00:37:12,700 --> 00:37:14,700
+um movimento e também tá em direção
+
+880
+00:37:14,700 --> 00:37:16,700
+à frente da venda
+
+881
+00:37:16,700 --> 00:37:18,700
+pra poder acompanhar a conversa.
+
+882
+00:37:18,700 --> 00:37:20,700
+Mas o Belko contou a mentira que foi aceita.
+
+883
+00:37:20,700 --> 00:37:22,700
+Então, dois dados.
+
+884
+00:37:22,700 --> 00:37:24,700
+Eu tirei seis e quatro.
+
+885
+00:37:24,700 --> 00:37:26,700
+Dois acertos.
+
+886
+00:37:26,700 --> 00:37:28,700
+O xerife, ele joga
+
+887
+00:37:28,700 --> 00:37:30,700
+umas moedas no balcão. Ele pega
+
+888
+00:37:30,700 --> 00:37:32,700
+uns pães, come. Ele olha
+
+889
+00:37:32,700 --> 00:37:34,700
+pro Caio.
+
+890
+00:37:34,700 --> 00:37:36,700
+Você tem quantos anos
+
+891
+00:37:36,700 --> 00:37:38,700
+mesmo? Quinze.
+
+892
+00:37:38,700 --> 00:37:40,700
+É um rapaz forte.
+
+893
+00:37:40,700 --> 00:37:42,700
+Você que fez os pães?
+
+894
+00:37:42,700 --> 00:37:44,700
+Sim. E você vai querer mais alguma
+
+895
+00:37:44,700 --> 00:37:46,700
+coisa dentro dos pães? Não, não.
+
+896
+00:37:46,700 --> 00:37:48,700
+Mas você... A gente tá tendo muito trabalho
+
+897
+00:37:48,700 --> 00:37:50,700
+aqui hoje. A gente dormiu pouco.
+
+898
+00:37:50,700 --> 00:37:52,700
+Então, se o senhor não
+
+899
+00:37:52,700 --> 00:37:54,700
+quiser mais nada,
+
+900
+00:37:54,700 --> 00:37:56,700
+a gente te acompanha até a porta. Não, não.
+
+901
+00:37:56,700 --> 00:37:58,700
+Espera. Eu tenho um pão especial
+
+902
+00:37:58,700 --> 00:38:00,700
+que a gente fez semana passada. Tem uma maionese.
+
+903
+00:38:00,700 --> 00:38:02,700
+Um minutinho, tá bom?
+
+904
+00:38:02,700 --> 00:38:04,700
+E a Isabel vai lá dentro.
+
+905
+00:38:04,700 --> 00:38:06,700
+Pega um pão.
+
+906
+00:38:06,700 --> 00:38:08,700
+Tira um miolinho, assim. E pega um pouquinho
+
+907
+00:38:08,700 --> 00:38:10,700
+de qualquer creme que tiver. Alguma pastinha
+
+908
+00:38:10,700 --> 00:38:12,700
+de ovos, alguma coisa. Ela dá
+
+909
+00:38:12,700 --> 00:38:14,700
+umas três cuspidas com catarro.
+
+910
+00:38:14,700 --> 00:38:16,700
+Mistura e passa no pão.
+
+911
+00:38:16,700 --> 00:38:18,700
+Olha, tá aqui, ó. Pão especial
+
+912
+00:38:18,700 --> 00:38:20,700
+que a gente fez de manhã. Ah, obrigado.
+
+913
+00:38:20,700 --> 00:38:22,700
+Ele morde?
+
+914
+00:38:22,700 --> 00:38:24,700
+Continua a conversa dele.
+
+915
+00:38:24,700 --> 00:38:26,700
+Dá uma olhada assim, meio
+
+916
+00:38:26,700 --> 00:38:28,700
+esquisito pro pão. Você seria
+
+917
+00:38:28,700 --> 00:38:30,700
+um bom soldado, Caius.
+
+918
+00:38:30,700 --> 00:38:32,700
+Eu posso te arrumar
+
+919
+00:38:32,700 --> 00:38:34,700
+um trabalho. No momento,
+
+920
+00:38:34,700 --> 00:38:36,700
+eu prefiro ficar aqui com minhas irmãs
+
+921
+00:38:36,700 --> 00:38:38,700
+e minha mãe. Eu acho que eu rendo
+
+922
+00:38:38,700 --> 00:38:40,700
+muito melhor aqui na venda. Eu vou te contar
+
+923
+00:38:40,700 --> 00:38:42,700
+um segredo. A sua mãe ficou
+
+924
+00:38:42,700 --> 00:38:44,700
+grávida de você logo que casou.
+
+925
+00:38:44,700 --> 00:38:46,700
+Talvez...
+
+926
+00:38:46,700 --> 00:38:48,700
+você seja meu filho.
+
+927
+00:38:48,700 --> 00:38:50,700
+Caius fica muito vermelho, mas ele se
+
+928
+00:38:50,700 --> 00:38:52,700
+segura o máximo que ele pode e fala
+
+929
+00:38:52,700 --> 00:38:54,700
+eu vou te acompanhar até a porta. E eu prefiro
+
+930
+00:38:54,700 --> 00:38:56,700
+que você saia. Caius...
+
+931
+00:38:56,700 --> 00:38:58,700
+Olha, ser um bastardo de um nobre
+
+932
+00:38:58,700 --> 00:39:00,700
+como eu pode te abrir
+
+933
+00:39:00,700 --> 00:39:02,700
+muitas portas. A gente
+
+934
+00:39:02,700 --> 00:39:04,700
+agradece a preocupação.
+
+935
+00:39:04,700 --> 00:39:06,700
+E ela dá a mão pro Caius.
+
+936
+00:39:06,700 --> 00:39:08,700
+O Caius aperta. Ele até aperta a mão
+
+937
+00:39:08,700 --> 00:39:10,700
+da Joadão um pouco mais forte do que ele
+
+938
+00:39:10,700 --> 00:39:12,700
+faz normalmente. Eu prefiro que você
+
+939
+00:39:12,700 --> 00:39:14,700
+vá embora. Tudo bem.
+
+940
+00:39:14,700 --> 00:39:16,700
+Eu esperava que me chamasse de papai,
+
+941
+00:39:16,700 --> 00:39:18,700
+mais cedo. Mas quando
+
+942
+00:39:18,700 --> 00:39:20,700
+quiser, é só ir lá em casa
+
+943
+00:39:20,700 --> 00:39:22,700
+e eu vou te dar trabalho. Ele vai
+
+944
+00:39:22,700 --> 00:39:24,700
+murmurando assim enquanto ele tá saindo.
+
+945
+00:39:24,700 --> 00:39:26,700
+Eu prefiro ser filho de um demônio do que filho seu.
+
+946
+00:39:26,700 --> 00:39:28,700
+Ah, mandem um abraço pra
+
+947
+00:39:28,700 --> 00:39:30,700
+mãe de vocês. Digam
+
+948
+00:39:30,700 --> 00:39:32,700
+que amanhã eu volto. Posso
+
+949
+00:39:32,700 --> 00:39:34,700
+deixar.
+
+950
+00:39:34,700 --> 00:39:36,700
+Tabata, ela puxa
+
+951
+00:39:36,700 --> 00:39:38,700
+a roupinha da
+
+952
+00:39:38,700 --> 00:39:40,700
+Isobel. Ela olha pra ela.
+
+953
+00:39:40,700 --> 00:39:42,700
+Desculpa, eu quase errei com tudo,
+
+954
+00:39:42,700 --> 00:39:44,700
+não foi? Não consegui pensar direito.
+
+955
+00:39:44,700 --> 00:39:46,700
+Tá tudo bem, tá tudo bem. É...
+
+956
+00:39:46,700 --> 00:39:48,700
+Eu também quero fazer isso.
+
+957
+00:39:48,700 --> 00:39:50,700
+O Caius sai de perto da porta e vai até as irmãs
+
+958
+00:39:50,700 --> 00:39:52,700
+e abraça elas que estão perto
+
+959
+00:39:52,700 --> 00:39:54,700
+assim, sem nem falar nada. Ele só
+
+960
+00:39:54,700 --> 00:39:56,700
+muito irritado e triste ao mesmo tempo.
+
+961
+00:39:56,700 --> 00:39:58,700
+Você não é filho daquele cara não, Caius.
+
+962
+00:39:58,700 --> 00:40:00,700
+Você é bonita.
+
+963
+00:40:00,700 --> 00:40:02,700
+Eu olho pra ele assim e dou um beijo na bochecha
+
+964
+00:40:02,700 --> 00:40:04,700
+do Caius. Ele riu um pouco no meio
+
+965
+00:40:04,700 --> 00:40:06,700
+das lágrimas que tão
+
+966
+00:40:06,700 --> 00:40:08,700
+descendo e deu um beijo na
+
+967
+00:40:08,700 --> 00:40:10,700
+mão dela. Não foi mais o próximo beijo.
+
+968
+00:40:10,700 --> 00:40:12,700
+A gente vai ficar bem. A gente só...
+
+969
+00:40:12,700 --> 00:40:14,700
+Eu prometo que eu vou ficar com a boca fechada.
+
+970
+00:40:14,700 --> 00:40:16,700
+Nosso pai realmente falou a verdade
+
+971
+00:40:16,700 --> 00:40:18,700
+e a gente só tem que aguentar hoje.
+
+972
+00:40:18,700 --> 00:40:20,700
+Ele deve chegar a qualquer momento.
+
+973
+00:40:20,700 --> 00:40:22,700
+Ei, aquele homem,
+
+974
+00:40:22,700 --> 00:40:24,700
+nosso pai, ele vive na
+
+975
+00:40:24,700 --> 00:40:26,700
+floresta, não é? É o que a mamãe
+
+976
+00:40:26,700 --> 00:40:28,700
+diz. Que ele corta
+
+977
+00:40:28,700 --> 00:40:30,700
+algum tipo de lenha na floresta.
+
+978
+00:40:30,700 --> 00:40:32,700
+Mas se ela for melhor que aqui?
+
+979
+00:40:32,700 --> 00:40:34,700
+Mas se a gente for lá,
+
+980
+00:40:34,700 --> 00:40:36,700
+não vai estragar com o que ele disse?
+
+981
+00:40:36,700 --> 00:40:38,700
+Eu não sei. Ele disse que
+
+982
+00:40:38,700 --> 00:40:40,700
+se descobrirem que ela
+
+983
+00:40:40,700 --> 00:40:42,700
+tá... vai ser
+
+984
+00:40:42,700 --> 00:40:44,700
+pior, mas...
+
+985
+00:40:44,700 --> 00:40:46,700
+a gente não estiver aqui se ninguém mais voltar
+
+986
+00:40:46,700 --> 00:40:48,700
+aqui. Vamos esperar só até
+
+987
+00:40:48,700 --> 00:40:50,700
+hoje? Eu não sei.
+
+988
+00:40:50,700 --> 00:40:52,700
+Eu tenho talvez um pouco de esperança.
+
+989
+00:40:52,700 --> 00:40:54,700
+Mas se ele não voltar hoje, a gente
+
+990
+00:40:54,700 --> 00:40:56,700
+pode pensar em sair daqui. Eu não sei
+
+991
+00:40:56,700 --> 00:40:58,700
+se eu me sinto bem com a gente
+
+992
+00:40:58,700 --> 00:41:00,700
+aqui e com aquele cara. Onde
+
+993
+00:41:00,700 --> 00:41:02,700
+vocês forem, eu vou junto. Só mais
+
+994
+00:41:02,700 --> 00:41:04,700
+hoje. Só mais hoje.
+
+995
+00:41:04,700 --> 00:41:06,700
+Só mais hoje.
+
+996
+00:41:14,700 --> 00:41:22,700
+A noite chega,
+
+997
+00:41:22,700 --> 00:41:24,700
+quando já está bem de madrugada,
+
+998
+00:41:24,700 --> 00:41:26,700
+batidas
+
+999
+00:41:26,700 --> 00:41:28,700
+na porta. Dá pra gente olhar pela janela
+
+1000
+00:41:28,700 --> 00:41:30,700
+quem tá na porta? Ou tá algum olho mágico?
+
+1001
+00:41:30,700 --> 00:41:32,700
+Aqui não vai ter olho mágico porque... Não. É.
+
+1002
+00:41:32,700 --> 00:41:34,700
+Dá pra olhar pela janela. Tá o
+
+1003
+00:41:34,700 --> 00:41:36,700
+pai de vocês com a mãe de vocês.
+
+1004
+00:41:36,700 --> 00:41:38,700
+Ela tá de pé ou tá nos braços
+
+1005
+00:41:38,700 --> 00:41:40,700
+dele? Tá apoiado assim...
+
+1006
+00:41:40,700 --> 00:41:42,700
+Ele tá do lado... Ela tá em pé,
+
+1007
+00:41:42,700 --> 00:41:44,700
+mas ele tá apoiado do lado dela, né?
+
+1008
+00:41:44,700 --> 00:41:46,700
+Tá apoiado, o corpo dela apoiado nele.
+
+1009
+00:41:46,700 --> 00:41:48,700
+O cais vai pra porta e abre imediatamente.
+
+1010
+00:41:48,700 --> 00:41:50,700
+Ele entra rapidamente.
+
+1011
+00:41:50,700 --> 00:41:52,700
+A mãe de vocês
+
+1012
+00:41:52,700 --> 00:41:54,700
+dá passos. Ela
+
+1013
+00:41:54,700 --> 00:41:56,700
+tá assim com os cabelos meio jogados pra
+
+1014
+00:41:56,700 --> 00:41:58,700
+frente e... Traguem a
+
+1015
+00:41:58,700 --> 00:42:00,700
+porta. Ele obedece.
+
+1016
+00:42:00,700 --> 00:42:02,700
+E depois vai pra mãe.
+
+1017
+00:42:02,700 --> 00:42:04,700
+Ele solta a mãe de vocês e se afasta um pouco.
+
+1018
+00:42:04,700 --> 00:42:06,700
+Ela fica parada em pé assim.
+
+1019
+00:42:06,700 --> 00:42:08,700
+Ela encara lentamente
+
+1020
+00:42:08,700 --> 00:42:10,700
+cada um de vocês
+
+1021
+00:42:10,700 --> 00:42:12,700
+e continua parada. Mãe?
+
+1022
+00:42:12,700 --> 00:42:14,700
+Você tá bem? Mãe, você voltou?
+
+1023
+00:42:14,700 --> 00:42:16,700
+Ela se aproxima lentamente.
+
+1024
+00:42:16,700 --> 00:42:18,700
+Ela tá meio incerta pra tentar abraçar.
+
+1025
+00:42:18,700 --> 00:42:20,700
+Eu seguro a
+
+1026
+00:42:20,700 --> 00:42:22,700
+Isobel. Mãe? É a senhora?
+
+1027
+00:42:22,700 --> 00:42:24,700
+Eu não sei o que aconteceu.
+
+1028
+00:42:24,700 --> 00:42:26,700
+Eu não fiquei quando vocês
+
+1029
+00:42:26,700 --> 00:42:28,700
+voltaram. Eu não sei se isso é normal
+
+1030
+00:42:28,700 --> 00:42:30,700
+ou se leva um tempo pras memórias voltarem,
+
+1031
+00:42:30,700 --> 00:42:32,700
+mas ela voltou assim.
+
+1032
+00:42:32,700 --> 00:42:34,700
+Muda. Eu
+
+1033
+00:42:34,700 --> 00:42:36,700
+solto a Isobel. Mãe? Ela dá um
+
+1034
+00:42:36,700 --> 00:42:38,700
+puxão assim no vestido, querendo chamar
+
+1035
+00:42:38,700 --> 00:42:40,700
+atenção. Ela te olha
+
+1036
+00:42:40,700 --> 00:42:42,700
+assim com um olhar meio vazio, meio distante.
+
+1037
+00:42:42,700 --> 00:42:44,700
+Por que ela tá assim? Ela não tá nem falando com
+
+1038
+00:42:44,700 --> 00:42:46,700
+a gente. Que tipo de coisa você fez pra trazer
+
+1039
+00:42:46,700 --> 00:42:48,700
+ela? O tipo de coisa proibida.
+
+1040
+00:42:48,700 --> 00:42:50,700
+Eu vou atrás de mais informações.
+
+1041
+00:42:50,700 --> 00:42:52,700
+Levem ela para o quarto.
+
+1042
+00:42:52,700 --> 00:42:54,700
+Talvez amanhã
+
+1043
+00:42:54,700 --> 00:42:56,700
+as memórias voltem. Eu seguro
+
+1044
+00:42:56,700 --> 00:42:58,700
+no braço dele, mas
+
+1045
+00:42:58,700 --> 00:43:00,700
+ela vai ficar assim por muito tempo?
+
+1046
+00:43:00,700 --> 00:43:02,700
+Eu não sei. Quando vocês voltaram
+
+1047
+00:43:02,700 --> 00:43:04,700
+eu saí. Vocês sempre saem.
+
+1048
+00:43:04,700 --> 00:43:06,700
+Vocês morreram! O que a mãe de vocês
+
+1049
+00:43:06,700 --> 00:43:08,700
+fez, eu só entendi
+
+1050
+00:43:08,700 --> 00:43:10,700
+hoje. O que que você fez?
+
+1051
+00:43:10,700 --> 00:43:12,700
+Como assim a gente morreu?
+
+1052
+00:43:12,700 --> 00:43:14,700
+Isso não faz nem sentido. Só...
+
+1053
+00:43:14,700 --> 00:43:16,700
+Cuidem dela.
+
+1054
+00:43:16,700 --> 00:43:18,700
+E eles saem.
+
+1055
+00:43:18,700 --> 00:43:20,700
+Não acreditava.
+
+1056
+00:43:20,700 --> 00:43:22,700
+Mãe, vamos ficar perto do fogo.
+
+1057
+00:43:22,700 --> 00:43:24,700
+E eu pego na mão dela e vou
+
+1058
+00:43:24,700 --> 00:43:26,700
+meio que puxando pra ir lá pra cima.
+
+1059
+00:43:26,700 --> 00:43:28,700
+Ela tá andando ou a gente
+
+1060
+00:43:28,700 --> 00:43:30,700
+precisa apoiar
+
+1061
+00:43:30,700 --> 00:43:32,700
+ela na gente pra poder fazer ela andar?
+
+1062
+00:43:32,700 --> 00:43:34,700
+Vocês puxam a mão dela, ela dá os passos.
+
+1063
+00:43:34,700 --> 00:43:36,700
+A Tabatha fecha a porta,
+
+1064
+00:43:36,700 --> 00:43:38,700
+coloca uma cadeira ali pra recostar.
+
+1065
+00:43:38,700 --> 00:43:40,700
+Ela vem chegando perto do
+
+1066
+00:43:40,700 --> 00:43:42,700
+Caius. Ela tá com uma cara de muito
+
+1067
+00:43:42,700 --> 00:43:44,700
+assustada. A mão dela tá
+
+1068
+00:43:44,700 --> 00:43:46,700
+bem gelada. Ela segura na cara dele.
+
+1069
+00:43:46,700 --> 00:43:48,700
+Isso não...
+
+1070
+00:43:48,700 --> 00:43:50,700
+Não é a mãe.
+
+1071
+00:43:50,700 --> 00:43:52,700
+Não é possível que seja a mãe.
+
+1072
+00:43:52,700 --> 00:43:54,700
+Tá muito estranha. Será que é só
+
+1073
+00:43:54,700 --> 00:43:56,700
+o susto
+
+1074
+00:43:56,700 --> 00:43:58,700
+dela ter quase morrido
+
+1075
+00:43:58,700 --> 00:44:00,700
+e ela ficou assim,
+
+1076
+00:44:00,700 --> 00:44:02,700
+em um estado catatônico?
+
+1077
+00:44:02,700 --> 00:44:04,700
+Vamos levar ela pro fogo. Vamos esperar
+
+1078
+00:44:04,700 --> 00:44:06,700
+um pouco. Não quero mais esperar, mas vamos esperar
+
+1079
+00:44:06,700 --> 00:44:08,700
+mais um pouco e ver se ela melhora.
+
+1080
+00:44:08,700 --> 00:44:10,700
+Ela tá
+
+1081
+00:44:10,700 --> 00:44:12,700
+viva e tá aqui com a gente.
+
+1082
+00:44:12,700 --> 00:44:14,700
+Isso já é mais do que a gente tinha ontem.
+
+1083
+00:44:14,700 --> 00:44:16,700
+E essa história de que a gente morreu?
+
+1084
+00:44:16,700 --> 00:44:18,700
+Isso não faz muito sentido. Guaxa,
+
+1085
+00:44:18,700 --> 00:44:20,700
+puxando qualquer parte da minha
+
+1086
+00:44:20,700 --> 00:44:22,700
+memória, eu consigo alguma
+
+1087
+00:44:22,700 --> 00:44:24,700
+coisa relacionada à morte nossa?
+
+1088
+00:44:24,700 --> 00:44:26,700
+Alguma coisa assim? Dois dados.
+
+1089
+00:44:26,700 --> 00:44:28,700
+Eu tirei três
+
+1090
+00:44:28,700 --> 00:44:30,700
+e três, sendo três o meu atributo.
+
+1091
+00:44:30,700 --> 00:44:32,700
+Caraca! São dois acertos críticos,
+
+1092
+00:44:32,700 --> 00:44:34,700
+né? Exatamente dois anos
+
+1093
+00:44:34,700 --> 00:44:36,700
+atrás, teve uma doença
+
+1094
+00:44:36,700 --> 00:44:38,700
+que ficou chamada como doença do nariz
+
+1095
+00:44:38,700 --> 00:44:40,700
+vermelho. Tipo uma gripe forte.
+
+1096
+00:44:40,700 --> 00:44:42,700
+Pegava principalmente em crianças.
+
+1097
+00:44:42,700 --> 00:44:44,700
+Muitos colegas de vocês
+
+1098
+00:44:44,700 --> 00:44:46,700
+acabaram falecendo naquele
+
+1099
+00:44:46,700 --> 00:44:48,700
+tempo. Foi um inverno bem rigoroso.
+
+1100
+00:44:48,700 --> 00:44:50,700
+Vocês lembram,
+
+1101
+00:44:50,700 --> 00:44:52,700
+tu lembra, né? Tanto você
+
+1102
+00:44:52,700 --> 00:44:54,700
+quanto as tuas irmãs.
+
+1103
+00:44:54,700 --> 00:44:56,700
+Bem, bem doente.
+
+1104
+00:44:56,700 --> 00:44:58,700
+O nariz inchado,
+
+1105
+00:44:58,700 --> 00:45:00,700
+vermelho mesmo, dificuldade
+
+1106
+00:45:00,700 --> 00:45:02,700
+de respirar e
+
+1107
+00:45:02,700 --> 00:45:04,700
+te vem à memória
+
+1108
+00:45:04,700 --> 00:45:06,700
+que tu tem lembranças disso
+
+1109
+00:45:06,700 --> 00:45:08,700
+e depois as lembranças
+
+1110
+00:45:08,700 --> 00:45:10,700
+como se tivesse uma lacuna
+
+1111
+00:45:10,700 --> 00:45:12,700
+e então tava
+
+1112
+00:45:12,700 --> 00:45:14,700
+tudo bem e tu tava ali
+
+1113
+00:45:14,700 --> 00:45:16,700
+vivendo com a tua mãe e teu pai já não morava
+
+1114
+00:45:16,700 --> 00:45:18,700
+mais ali. Tu não consegue lembrar
+
+1115
+00:45:18,700 --> 00:45:20,700
+da briga ou do dia, por exemplo,
+
+1116
+00:45:20,700 --> 00:45:22,700
+que teu pai saiu dali.
+
+1117
+00:45:22,700 --> 00:45:24,700
+Parece que a história que
+
+1118
+00:45:24,700 --> 00:45:26,700
+te contaram é verdade.
+
+1119
+00:45:26,700 --> 00:45:28,700
+É, o Cais vai andando
+
+1120
+00:45:28,700 --> 00:45:30,700
+junto com a Tabata,
+
+1121
+00:45:30,700 --> 00:45:32,700
+a mãe e a Isobel pra
+
+1122
+00:45:32,700 --> 00:45:34,700
+tá perto da lareira.
+
+1123
+00:45:34,700 --> 00:45:36,700
+Enquanto isso ele vai pensando
+
+1124
+00:45:36,700 --> 00:45:38,700
+e ele vai
+
+1125
+00:45:38,700 --> 00:45:40,700
+começar a falar com as meninas
+
+1126
+00:45:40,700 --> 00:45:42,700
+eu não sei se vocês vão se lembrar
+
+1127
+00:45:42,700 --> 00:45:44,700
+vocês lembram dessa
+
+1128
+00:45:44,700 --> 00:45:46,700
+doença que teve há um tempo atrás
+
+1129
+00:45:46,700 --> 00:45:48,700
+que a gente ficou bem mal
+
+1130
+00:45:48,700 --> 00:45:50,700
+nosso nariz ficou bem inchado
+
+1131
+00:45:50,700 --> 00:45:52,700
+por um momento
+
+1132
+00:45:52,700 --> 00:45:54,700
+depois disso, da gente muito
+
+1133
+00:45:54,700 --> 00:45:56,700
+doente, eu não consigo
+
+1134
+00:45:56,700 --> 00:45:58,700
+lembrar de nada. É como
+
+1135
+00:45:58,700 --> 00:46:00,700
+se minha memória desse um
+
+1136
+00:46:00,700 --> 00:46:02,700
+salto e fosse pra logo depois disso
+
+1137
+00:46:02,700 --> 00:46:04,700
+eu não consigo lembrar, parece que tem um
+
+1138
+00:46:04,700 --> 00:46:06,700
+buraco na minha cabeça
+
+1139
+00:46:06,700 --> 00:46:08,700
+isso, vocês lembram do que aconteceu
+
+1140
+00:46:08,700 --> 00:46:10,700
+com a gente? Eu não lembro nem do papo
+
+1141
+00:46:10,700 --> 00:46:12,700
+ai saindo daqui, de quando eles
+
+1142
+00:46:12,700 --> 00:46:14,700
+brigaram, de quando ele parou
+
+1143
+00:46:14,700 --> 00:46:16,700
+de ser parte da nossa, do nosso
+
+1144
+00:46:16,700 --> 00:46:18,700
+cotidiano. Eu não sei
+
+1145
+00:46:18,700 --> 00:46:20,700
+a gente consegue lembrar também Guaxa?
+
+1146
+00:46:20,700 --> 00:46:22,700
+Agora com ele falando sim.
+
+1147
+00:46:22,700 --> 00:46:24,700
+A Tabata passa a mão na
+
+1148
+00:46:24,700 --> 00:46:26,700
+cabeça. Eu acho que eu
+
+1149
+00:46:26,700 --> 00:46:28,700
+lembro que
+
+1150
+00:46:28,700 --> 00:46:30,700
+dessa doença
+
+1151
+00:46:30,700 --> 00:46:32,700
+depois disso
+
+1152
+00:46:32,700 --> 00:46:34,700
+eu não lembro mais
+
+1153
+00:46:34,700 --> 00:46:36,700
+só que seguimos
+
+1154
+00:46:36,700 --> 00:46:38,700
+uma vida normal. A Isobel
+
+1155
+00:46:38,700 --> 00:46:40,700
+ela tá mais animada e ela
+
+1156
+00:46:40,700 --> 00:46:42,700
+pegou um pente de cabelo e tá
+
+1157
+00:46:42,700 --> 00:46:44,700
+passando no cabelo da mãe assim
+
+1158
+00:46:44,700 --> 00:46:46,700
+claramente ela tá mais feliz desde que a mãe
+
+1159
+00:46:46,700 --> 00:46:48,700
+voltou, não importa o estado que ela esteja
+
+1160
+00:46:48,700 --> 00:46:50,700
+e ela fala
+
+1161
+00:46:50,700 --> 00:46:52,700
+eu não sei, eu fiquei
+
+1162
+00:46:52,700 --> 00:46:54,700
+tantas vezes doente que
+
+1163
+00:46:54,700 --> 00:46:56,700
+tudo vira meio que a mesma
+
+1164
+00:46:56,700 --> 00:46:58,700
+coisa na minha cabeça, mas
+
+1165
+00:46:58,700 --> 00:47:00,700
+eu lembro de tá doente
+
+1166
+00:47:00,700 --> 00:47:02,700
+de repente eu lembrar de
+
+1167
+00:47:02,700 --> 00:47:04,700
+a gente tá junto
+
+1168
+00:47:04,700 --> 00:47:06,700
+eu não sei, é tudo meio confuso
+
+1169
+00:47:06,700 --> 00:47:08,700
+Eu só parei pra pensar nisso
+
+1170
+00:47:08,700 --> 00:47:10,700
+porque o pai disse que
+
+1171
+00:47:10,700 --> 00:47:12,700
+a mãe fez o mesmo
+
+1172
+00:47:12,700 --> 00:47:14,700
+a mamãe fez o mesmo com a gente
+
+1173
+00:47:14,700 --> 00:47:16,700
+quando a gente morreu
+
+1174
+00:47:16,700 --> 00:47:18,700
+e eu tentei lembrar se a gente
+
+1175
+00:47:18,700 --> 00:47:20,700
+de fato tinha morrido, mas
+
+1176
+00:47:20,700 --> 00:47:22,700
+eu só encontrei esse buraco
+
+1177
+00:47:22,700 --> 00:47:24,700
+na cabeça. Será que isso
+
+1178
+00:47:24,700 --> 00:47:26,700
+faz algum sentido? Será
+
+1179
+00:47:26,700 --> 00:47:28,700
+que de fato a gente morreu tal como
+
+1180
+00:47:28,700 --> 00:47:30,700
+o mesmo que aconteceu com a mamãe?
+
+1181
+00:47:30,700 --> 00:47:32,700
+Se a gente morreu
+
+1182
+00:47:32,700 --> 00:47:34,700
+e a gente não lembra
+
+1183
+00:47:34,700 --> 00:47:36,700
+dessa parte do que
+
+1184
+00:47:36,700 --> 00:47:38,700
+aconteceu com a gente
+
+1185
+00:47:38,700 --> 00:47:40,700
+e a mamãe tá assim estranha e o papai disse que
+
+1186
+00:47:40,700 --> 00:47:42,700
+era só pra gente ficar com ela
+
+1187
+00:47:42,700 --> 00:47:44,700
+cuidar dela, deve fazer
+
+1188
+00:47:44,700 --> 00:47:46,700
+algum sentido então. Então deu certo!
+
+1189
+00:47:46,700 --> 00:47:48,700
+É, a gente pode perguntar pra ela
+
+1190
+00:47:48,700 --> 00:47:50,700
+quando amanhecer, né mamãe?
+
+1191
+00:47:50,700 --> 00:47:52,700
+E ela meio que tá com
+
+1192
+00:47:52,700 --> 00:47:54,700
+um olhar esperançoso olhando pro rosto da mãe
+
+1193
+00:47:54,700 --> 00:47:56,700
+Não tem uma má reação
+
+1194
+00:47:56,700 --> 00:47:58,700
+Eu acho que ela disse assim
+
+1195
+00:47:58,700 --> 00:48:00,700
+O Caís vai levantar
+
+1196
+00:48:00,700 --> 00:48:02,700
+e curar dentro dos pães
+
+1197
+00:48:02,700 --> 00:48:04,700
+meio tronchos que ele fez
+
+1198
+00:48:04,700 --> 00:48:06,700
+hoje, o pão mais bonito
+
+1199
+00:48:06,700 --> 00:48:08,700
+e tentar dar pra mãe comer enquanto ela tá ali
+
+1200
+00:48:08,700 --> 00:48:10,700
+pra ver se ela se alimenta um pouco ou menos
+
+1201
+00:48:10,700 --> 00:48:12,700
+cortando de pedacinhos em pedacinhos
+
+1202
+00:48:12,700 --> 00:48:14,700
+e colocando na boca dela
+
+1203
+00:48:14,700 --> 00:48:16,700
+ver se ela mexe a boca ou se ela deglute
+
+1204
+00:48:16,700 --> 00:48:18,700
+Ela come uma dificuldade, mas ela
+
+1205
+00:48:18,700 --> 00:48:20,700
+faz o que tá...
+
+1206
+00:48:20,700 --> 00:48:22,700
+com muita ajuda, né, ela acaba fazendo
+
+1207
+00:48:22,700 --> 00:48:24,700
+comendo ali
+
+1208
+00:48:24,700 --> 00:48:26,700
+Eu pego na mão da mãe, olho pra ela assim
+
+1209
+00:48:26,700 --> 00:48:28,700
+Mãe, amanhã vai ter
+
+1210
+00:48:28,700 --> 00:48:30,700
+guisado. Eu prometo que eu vou pegar
+
+1211
+00:48:30,700 --> 00:48:32,700
+a melhor ave possível
+
+1212
+00:48:32,700 --> 00:48:34,700
+que eu conseguir achar
+
+1213
+00:48:34,700 --> 00:48:36,700
+e a senhora vai comer o melhor guisado de todos
+
+1214
+00:48:36,700 --> 00:48:38,700
+Eu imagino que os quatro acabam dormindo juntos, né?
+
+1215
+00:48:38,700 --> 00:48:40,700
+Sim, eu acho que ali mesmo, né?
+
+1216
+00:48:40,700 --> 00:48:42,700
+É
+
+1217
+00:48:42,700 --> 00:48:44,700
+Mas um novo dia se inicia
+
+1218
+00:48:44,700 --> 00:48:46,700
+O que vocês vão fazer?
+
+1219
+00:48:46,700 --> 00:48:48,700
+Eu vou levar a mamãe pro quarto e vou deixar ela lá descansando
+
+1220
+00:48:48,700 --> 00:48:50,700
+Eu acho que se a gente não abrir hoje
+
+1221
+00:48:50,700 --> 00:48:52,700
+vai ficar um clima estranho
+
+1222
+00:48:52,700 --> 00:48:54,700
+Então a gente deixa ela lá
+
+1223
+00:48:54,700 --> 00:48:56,700
+e se alguém perguntar, ela tá descansando
+
+1224
+00:48:56,700 --> 00:48:58,700
+que de fato é verdade
+
+1225
+00:48:58,700 --> 00:49:00,700
+e a gente tenta tocar a vida hoje
+
+1226
+00:49:00,700 --> 00:49:02,700
+e ver o que acontece. Tudo bem pra vocês?
+
+1227
+00:49:02,700 --> 00:49:04,700
+Tudo, tudo. Daqui a pouco ela tá melhor
+
+1228
+00:49:04,700 --> 00:49:06,700
+Sim, eu também gosto de pensar
+
+1229
+00:49:06,700 --> 00:49:08,700
+dessa forma dela
+
+1230
+00:49:08,700 --> 00:49:10,700
+Agora eu tô mais aliviada
+
+1231
+00:49:10,700 --> 00:49:12,700
+e depois disso
+
+1232
+00:49:12,700 --> 00:49:14,700
+vamos arrumar as coisas e descer
+
+1233
+00:49:14,700 --> 00:49:16,700
+O Caio leva ela pro quarto
+
+1234
+00:49:16,700 --> 00:49:18,700
+deixa ela deitada
+
+1235
+00:49:18,700 --> 00:49:20,700
+na cama dela mesma, cobre ela
+
+1236
+00:49:20,700 --> 00:49:22,700
+imagino, se estiver um pouco frio
+
+1237
+00:49:22,700 --> 00:49:24,700
+ele cobre com uma coberta um pouco mais
+
+1238
+00:49:24,700 --> 00:49:26,700
+grossa, com uma pele um pouco mais
+
+1239
+00:49:26,700 --> 00:49:28,700
+quente e deixa ela no quarto
+
+1240
+00:49:28,700 --> 00:49:30,700
+o mais confortável que ele consegue
+
+1241
+00:49:30,700 --> 00:49:32,700
+é deixar ela
+
+1242
+00:49:32,700 --> 00:49:34,700
+um copo d'água do lado
+
+1243
+00:49:34,700 --> 00:49:36,700
+um jarro
+
+1244
+00:49:36,700 --> 00:49:38,700
+pra ela
+
+1245
+00:49:38,700 --> 00:49:40,700
+por acaso acordar
+
+1246
+00:49:40,700 --> 00:49:42,700
+e aí ele dá um beijo na testa dela
+
+1247
+00:49:42,700 --> 00:49:44,700
+e desce
+
+1248
+00:49:44,700 --> 00:49:46,700
+Eu puxo de cantinho a Bel
+
+1249
+00:49:46,700 --> 00:49:48,700
+Você tá bem, Bel?
+
+1250
+00:49:48,700 --> 00:49:50,700
+Eu tô. Por que que eu não estaria?
+
+1251
+00:49:50,700 --> 00:49:52,700
+Não. É que a mana se preocupa
+
+1252
+00:49:52,700 --> 00:49:54,700
+Eu tô bem. A mãe voltou e ela
+
+1253
+00:49:54,700 --> 00:49:56,700
+ela vai ficar bem, né?
+
+1254
+00:49:56,700 --> 00:49:58,700
+Ela vai ficar bem
+
+1255
+00:49:58,700 --> 00:50:00,700
+Você vê que tem um pouquinho
+
+1256
+00:50:00,700 --> 00:50:02,700
+A mãe vai ficar bem, sim
+
+1257
+00:50:02,700 --> 00:50:04,700
+Tem um pouquinho de incerteza nos olhos dela
+
+1258
+00:50:04,700 --> 00:50:06,700
+A Tabata segura o rosto da Bel
+
+1259
+00:50:06,700 --> 00:50:08,700
+Ela encosta assim
+
+1260
+00:50:08,700 --> 00:50:10,700
+a testa, o nariz
+
+1261
+00:50:10,700 --> 00:50:12,700
+Quando que a irmã mentir pra você?
+
+1262
+00:50:12,700 --> 00:50:14,700
+A mãe vai ficar bem
+
+1263
+00:50:14,700 --> 00:50:16,700
+Ela vai ficar bem
+
+1264
+00:50:16,700 --> 00:50:18,700
+A gente tem que arrumar a loja, tá bom?
+
+1265
+00:50:18,700 --> 00:50:20,700
+E ela meio que safaça e vai arrumar
+
+1266
+00:50:20,700 --> 00:50:22,700
+A Tabata vai arrumando as coisas e fazendo palhaçada
+
+1267
+00:50:22,700 --> 00:50:24,700
+pra Bel rir
+
+1268
+00:50:24,700 --> 00:50:26,700
+porque ela viu que a Bel fica meio tristinha
+
+1269
+00:50:26,700 --> 00:50:28,700
+Cai espaço também
+
+1270
+00:50:28,700 --> 00:50:30,700
+Enche elas de trigo, umas bochechas no cabelo
+
+1271
+00:50:30,700 --> 00:50:32,700
+na roupa
+
+1272
+00:50:32,700 --> 00:50:34,700
+Tenta ajudar um pouco a Tabata
+
+1273
+00:50:34,700 --> 00:50:36,700
+a não mais errar
+
+1274
+00:50:36,700 --> 00:50:38,700
+Amanhã novamente
+
+1275
+00:50:38,700 --> 00:50:40,700
+procura ali
+
+1276
+00:50:40,700 --> 00:50:42,700
+uma ou outra pessoa até passa
+
+1277
+00:50:42,700 --> 00:50:44,700
+troca alguma coisa
+
+1278
+00:50:44,700 --> 00:50:46,700
+compra um pão
+
+1279
+00:50:46,700 --> 00:50:48,700
+Mas é óbvio que o momento que chama a atenção
+
+1280
+00:50:48,700 --> 00:50:50,700
+logo no início da tarde
+
+1281
+00:50:50,700 --> 00:50:52,700
+o xerife Albino
+
+1282
+00:50:52,700 --> 00:50:54,700
+com a sua roupa
+
+1283
+00:50:54,700 --> 00:50:56,700
+perfeitamente limpinha
+
+1284
+00:50:56,700 --> 00:50:58,700
+seu chapéu, sua espada, seu bigode
+
+1285
+00:50:58,700 --> 00:51:00,700
+ele faz sinal
+
+1286
+00:51:00,700 --> 00:51:02,700
+pros guardas dele ficarem mais
+
+1287
+00:51:02,700 --> 00:51:04,700
+distantes
+
+1288
+00:51:04,700 --> 00:51:06,700
+e ele entra na venda
+
+1289
+00:51:06,700 --> 00:51:08,700
+Boa tarde, crianças
+
+1290
+00:51:08,700 --> 00:51:10,700
+Seu Albino
+
+1291
+00:51:10,700 --> 00:51:12,700
+A mãe de vocês tá por aí?
+
+1292
+00:51:12,700 --> 00:51:14,700
+Não, ela tá descansando lá em cima
+
+1293
+00:51:14,700 --> 00:51:16,700
+Mas dois dias?
+
+1294
+00:51:16,700 --> 00:51:18,700
+Bom, se não tivessem jogado ela na água
+
+1295
+00:51:18,700 --> 00:51:20,700
+amarrada
+
+1296
+00:51:20,700 --> 00:51:22,700
+O povo desconfiava que ela fosse uma bruxa
+
+1297
+00:51:22,700 --> 00:51:24,700
+Eu fiz, foi um bem pra ela
+
+1298
+00:51:24,700 --> 00:51:26,700
+Ninguém desconfia mais
+
+1299
+00:51:26,700 --> 00:51:28,700
+Isso não parece culpa só do povo
+
+1300
+00:51:28,700 --> 00:51:30,700
+Parece muito bem culpa sua
+
+1301
+00:51:30,700 --> 00:51:32,700
+Eu sou apenas um instrumento da lei
+
+1302
+00:51:32,700 --> 00:51:34,700
+Tenho que ser imparcial
+
+1303
+00:51:34,700 --> 00:51:36,700
+Por mais que eu goste de você e da sua mãe
+
+1304
+00:51:36,700 --> 00:51:38,700
+Parcial?
+
+1305
+00:51:38,700 --> 00:51:40,700
+Ah, era sobre isso mesmo
+
+1306
+00:51:40,700 --> 00:51:42,700
+que eu queria falar com vocês
+
+1307
+00:51:42,700 --> 00:51:44,700
+Ele vai até a Taba?
+
+1308
+00:51:44,700 --> 00:51:46,700
+Eu tô deixando tudo pronto para o seu casamento
+
+1309
+00:51:46,700 --> 00:51:48,700
+Meu casamento?
+
+1310
+00:51:48,700 --> 00:51:50,700
+O Kai se coloca do lado dela
+
+1311
+00:51:50,700 --> 00:51:52,700
+Você falou que queria casar
+
+1312
+00:51:52,700 --> 00:51:54,700
+Eu tô providenciando
+
+1313
+00:51:54,700 --> 00:51:56,700
+Não sei se já contaram
+
+1314
+00:51:56,700 --> 00:51:58,700
+pra você, mas
+
+1315
+00:51:58,700 --> 00:52:00,700
+existe uma tradição
+
+1316
+00:52:00,700 --> 00:52:02,700
+antes do casamento
+
+1317
+00:52:02,700 --> 00:52:04,700
+Ele coloca a mão no teu cabelo
+
+1318
+00:52:04,700 --> 00:52:06,700
+Eu tiro a mão dele do meu cabelo
+
+1319
+00:52:06,700 --> 00:52:08,700
+Não é algo que eu pretendo fazer agora
+
+1320
+00:52:08,700 --> 00:52:10,700
+O Kai está do lado dele
+
+1321
+00:52:10,700 --> 00:52:12,700
+e ele empurra ele pra trás
+
+1322
+00:52:12,700 --> 00:52:14,700
+Não coloca as mãos na minha irmã
+
+1323
+00:52:14,700 --> 00:52:16,700
+Dois lados
+
+1324
+00:52:16,700 --> 00:52:18,700
+Não, quatro e quatro
+
+1325
+00:52:18,700 --> 00:52:20,700
+Ele dá um passo pra trás rindo assim
+
+1326
+00:52:20,700 --> 00:52:22,700
+Ele te empurra com força
+
+1327
+00:52:22,700 --> 00:52:24,700
+Tu bate contra o balcão
+
+1328
+00:52:24,700 --> 00:52:26,700
+derrubando pão, derrubando algumas coisas
+
+1329
+00:52:30,700 --> 00:52:32,700
+Talvez você não seja mesmo meu filho
+
+1330
+00:52:32,700 --> 00:52:34,700
+Quando ele fez isso
+
+1331
+00:52:34,700 --> 00:52:36,700
+Depois de falar isso eu empurro ele
+
+1332
+00:52:36,700 --> 00:52:38,700
+Eu estou com muita raiva
+
+1333
+00:52:38,700 --> 00:52:40,700
+Tudo o que ele fez
+
+1334
+00:52:40,700 --> 00:52:42,700
+Dois lados
+
+1335
+00:52:42,700 --> 00:52:44,700
+Cinco e três
+
+1336
+00:52:44,700 --> 00:52:46,700
+Ele dá uns passos pra trás
+
+1337
+00:52:46,700 --> 00:52:48,700
+Mais fraco que a sua irmãzinha
+
+1338
+00:52:48,700 --> 00:52:50,700
+Ele saca a espada e aponta ela pro teu rosto
+
+1339
+00:52:50,700 --> 00:52:52,700
+Eu não queria machucar essa pele
+
+1340
+00:52:52,700 --> 00:52:54,700
+mas você deveria ficar longe de mim
+
+1341
+00:52:54,700 --> 00:52:56,700
+A Isobel entra na frente da espada
+
+1342
+00:52:56,700 --> 00:52:58,700
+e fala
+
+1343
+00:52:58,700 --> 00:53:00,700
+Senhor Albino, por favor
+
+1344
+00:53:00,700 --> 00:53:02,700
+A gente só tá muito assustado
+
+1345
+00:53:02,700 --> 00:53:04,700
+que o que aconteceu com nossa mãe
+
+1346
+00:53:04,700 --> 00:53:06,700
+Mas ela já tá melhor
+
+1347
+00:53:06,700 --> 00:53:08,700
+E tá tudo certo
+
+1348
+00:53:08,700 --> 00:53:10,700
+A gente se prepara pro casamento, tá bom?
+
+1349
+00:53:10,700 --> 00:53:12,700
+Os seus pães estão ali em cima do balcão
+
+1350
+00:53:12,700 --> 00:53:14,700
+Talvez a bruxa dessa casa seja uma de vocês
+
+1351
+00:53:14,700 --> 00:53:16,700
+Eu pensaria duas vezes
+
+1352
+00:53:16,700 --> 00:53:18,700
+Antes de me tratar com insolências
+
+1353
+00:53:18,700 --> 00:53:20,700
+Não, não
+
+1354
+00:53:20,700 --> 00:53:22,700
+Não tem nenhuma pretensão a pessoas tentando viver
+
+1355
+00:53:22,700 --> 00:53:24,700
+Tá tudo bem, eu juro
+
+1356
+00:53:24,700 --> 00:53:26,700
+Tá tudo bem
+
+1357
+00:53:26,700 --> 00:53:28,700
+Caio se levanta e fala assim
+
+1358
+00:53:28,700 --> 00:53:30,700
+Só vai haver casamento se a Tabata quiser
+
+1359
+00:53:30,700 --> 00:53:32,700
+E você não vai impor
+
+1360
+00:53:32,700 --> 00:53:34,700
+Nenhuma vontade sua sobre ela
+
+1361
+00:53:34,700 --> 00:53:36,700
+Não tem, meu rapaz
+
+1362
+00:53:36,700 --> 00:53:38,700
+Essa lei que você inventou e trouxe pra cá
+
+1363
+00:53:38,700 --> 00:53:40,700
+Não tinha lei nenhuma aqui
+
+1364
+00:53:40,700 --> 00:53:42,700
+Você fala de imparcialidade
+
+1365
+00:53:42,700 --> 00:53:44,700
+E como imparcializar esse olho oposto seu?
+
+1366
+00:53:44,700 --> 00:53:46,700
+Caio, Caio
+
+1367
+00:53:46,700 --> 00:53:48,700
+Não
+
+1368
+00:53:48,700 --> 00:53:50,700
+Ele olha pra Bel e tenta se acalmar
+
+1369
+00:53:50,700 --> 00:53:52,700
+A porta do quarto da mãe de você se abre
+
+1370
+00:53:52,700 --> 00:53:54,700
+Todo mundo olhando assustado
+
+1371
+00:53:56,700 --> 00:53:58,700
+Parece que já está melhor
+
+1372
+00:53:58,700 --> 00:54:00,700
+A mãe de você está de pé
+
+1373
+00:54:00,700 --> 00:54:02,700
+Ela dá um passo
+
+1374
+00:54:02,700 --> 00:54:04,700
+Ela dá dois
+
+1375
+00:54:04,700 --> 00:54:06,700
+Ela se abaixa
+
+1376
+00:54:06,700 --> 00:54:08,700
+Como um bicho mesmo
+
+1377
+00:54:08,700 --> 00:54:10,700
+Nas mãos e nos pés
+
+1378
+00:54:10,700 --> 00:54:12,700
+E ela corre e pula
+
+1379
+00:54:12,700 --> 00:54:14,700
+Com as quatro patas
+
+1380
+00:54:14,700 --> 00:54:16,700
+Com a mão e os pés
+
+1381
+00:54:16,700 --> 00:54:18,700
+Cada vez mais rápido
+
+1382
+00:54:18,700 --> 00:54:20,700
+Salta sobre o xerife
+
+1383
+00:54:20,700 --> 00:54:22,700
+Ele cai no chão
+
+1384
+00:54:22,700 --> 00:54:24,700
+Ela em pé sobre o corpo dele
+
+1385
+00:54:24,700 --> 00:54:26,700
+Ela segura a cabeça dele
+
+1386
+00:54:26,700 --> 00:54:28,700
+Começa a bater com muita força no chão
+
+1387
+00:54:28,700 --> 00:54:30,700
+E o sangue começa a espalhar
+
+1388
+00:54:30,700 --> 00:54:32,700
+Nossa, vou tentar segurar a mãe
+
+1389
+00:54:32,700 --> 00:54:34,700
+Já foi em direção a mãe
+
+1390
+00:54:34,700 --> 00:54:36,700
+E ele vai em direção a porta
+
+1391
+00:54:36,700 --> 00:54:38,700
+Tentar trancar a porta e colocar alguma coisa na frente
+
+1392
+00:54:38,700 --> 00:54:40,700
+Dois dados
+
+1393
+00:54:40,700 --> 00:54:42,700
+Tirei três e um sendo três
+
+1394
+00:54:42,700 --> 00:54:44,700
+Tu olha pela fresta da porta
+
+1395
+00:54:44,700 --> 00:54:46,700
+Os dois soldados que acompanhavam o xerife
+
+1396
+00:54:46,700 --> 00:54:48,700
+Correndo
+
+1397
+00:54:48,700 --> 00:54:50,700
+Então tu fecha a porta ali
+
+1398
+00:54:50,700 --> 00:54:52,700
+Eu estou com medo deles tentarem arrumar a porta
+
+1399
+00:54:52,700 --> 00:54:54,700
+Então estou forçando a porta
+
+1400
+00:54:54,700 --> 00:54:56,700
+Colocando cadeira
+
+1401
+00:54:56,700 --> 00:54:58,700
+Tudo que eu puder ali
+
+1402
+00:54:58,700 --> 00:55:00,700
+Eu fui ajudar a Sábata
+
+1403
+00:55:00,700 --> 00:55:02,700
+Para tirar a mãe de cima do corpo
+
+1404
+00:55:02,700 --> 00:55:04,700
+A mãe de vocês larga a cabeça do xerife
+
+1405
+00:55:04,700 --> 00:55:06,700
+Que já está bem esmagada
+
+1406
+00:55:06,700 --> 00:55:08,700
+Tem muito do xerife
+
+1407
+00:55:08,700 --> 00:55:10,700
+Espalhada pelo chão
+
+1408
+00:55:10,700 --> 00:55:12,700
+A mãe se afasta um pouco
+
+1409
+00:55:12,700 --> 00:55:14,700
+E diz
+
+1410
+00:55:14,700 --> 00:55:16,700
+Você não vai mexer com os meus filhos
+
+1411
+00:55:16,700 --> 00:55:18,700
+A Sábata agarra a mãe dela e começa a chorar
+
+1412
+00:55:18,700 --> 00:55:20,700
+Desesperada
+
+1413
+00:55:20,700 --> 00:55:22,700
+A Isabel fica uns minutos olhando para o nada
+
+1414
+00:55:22,700 --> 00:55:24,700
+Olhando para a mãe, olhando para o chão
+
+1415
+00:55:24,700 --> 00:55:26,700
+Vendo o sangue que espirrou nela
+
+1416
+00:55:26,700 --> 00:55:28,700
+E ela vira para o cais e fala
+
+1417
+00:55:28,700 --> 00:55:30,700
+Pega suas coisas, a gente tem que sair pela porta de fora
+
+1418
+00:55:30,700 --> 00:55:32,700
+Eu concordo, eu concordo
+
+1419
+00:55:32,700 --> 00:55:34,700
+Mãe, mãe
+
+1420
+00:55:34,700 --> 00:55:36,700
+A gente vai para a floresta, tá bom?
+
+1421
+00:55:36,700 --> 00:55:38,700
+A gente vai encontrar o pai
+
+1422
+00:55:38,700 --> 00:55:40,700
+Vocês se afastam ali, pegam as coisas
+
+1423
+00:55:40,700 --> 00:55:42,700
+Os soldados estão tendo dificuldade para arrumar a porta ali
+
+1424
+00:55:42,700 --> 00:55:44,700
+Não dá tempo para vocês pegarem as coisas
+
+1425
+00:55:44,700 --> 00:55:46,700
+E saírem por trás
+
+1426
+00:55:46,700 --> 00:55:48,700
+Vocês vão em direção a floresta, é isso?
+
+1427
+00:55:48,700 --> 00:55:50,700
+Sim
+
+1428
+00:55:50,700 --> 00:55:52,700
+No caminho, Caio, se der tempo
+
+1429
+00:55:52,700 --> 00:55:54,700
+Ele só pega um pedaço de papel qualquer
+
+1430
+00:55:54,700 --> 00:55:56,700
+Escreve com carvão floresta e deixa do lado da lareira
+
+1431
+00:55:56,700 --> 00:55:58,700
+Mas assim, na ponta do fogo
+
+1432
+00:55:58,700 --> 00:56:00,700
+Só para ficar ali um papelzinho
+
+1433
+00:56:00,700 --> 00:56:02,700
+Tipo num lugar escondido
+
+1434
+00:56:02,700 --> 00:56:04,700
+Porque ele acha que a lareira é um local
+
+1435
+00:56:04,700 --> 00:56:06,700
+Que as crianças sempre ficam
+
+1436
+00:56:06,700 --> 00:56:08,700
+E o pai dele procuraria ali
+
+1437
+00:56:08,700 --> 00:56:10,700
+Quando a gente está saindo
+
+1438
+00:56:10,700 --> 00:56:12,700
+A Tabatela passa onde fica o machado
+
+1439
+00:56:12,700 --> 00:56:14,700
+Ela pega o machado
+
+1440
+00:56:14,700 --> 00:56:16,700
+E fica preparada para qualquer coisa
+
+1441
+00:56:16,700 --> 00:56:18,700
+Então ela vai fazer a retaguarda
+
+1442
+00:56:18,700 --> 00:56:20,700
+Enquanto o Caio está ali
+
+1443
+00:56:20,700 --> 00:56:22,700
+E a Isabel também
+
+1444
+00:56:22,700 --> 00:56:24,700
+Puxando a mãe
+
+1445
+00:56:24,700 --> 00:56:26,700
+No meio tempo a Isabel está perguntando para a mãe
+
+1446
+00:56:26,700 --> 00:56:28,700
+Mãe, você está bem?
+
+1447
+00:56:28,700 --> 00:56:30,700
+Sim
+
+1448
+00:56:30,700 --> 00:56:32,700
+Como é que você conseguiu fazer aquilo?
+
+1449
+00:56:32,700 --> 00:56:34,700
+Meus olhos alçam mais de admiração do que medo
+
+1450
+00:56:34,700 --> 00:56:36,700
+Eu não sei
+
+1451
+00:56:36,700 --> 00:56:38,700
+Me jogaram no rio
+
+1452
+00:56:38,700 --> 00:56:40,700
+Eu acordei com muita raiva
+
+1453
+00:56:40,700 --> 00:56:42,700
+Não da gente, né?
+
+1454
+00:56:42,700 --> 00:56:44,700
+Não, não
+
+1455
+00:56:44,700 --> 00:56:46,700
+Mas foi o que aconteceu com o Caio também
+
+1456
+00:56:46,700 --> 00:56:48,700
+Como assim, mãe?
+
+1457
+00:56:48,700 --> 00:56:50,700
+Eu fiquei desesperada quando perdi vocês
+
+1458
+00:56:50,700 --> 00:56:52,700
+E...
+
+1459
+00:56:52,700 --> 00:56:54,700
+A minha avó é uma bruxa de verdade
+
+1460
+00:56:54,700 --> 00:56:56,700
+Ela mora nessa floresta
+
+1461
+00:56:56,700 --> 00:56:58,700
+Eu levei vocês até lá
+
+1462
+00:56:58,700 --> 00:57:00,700
+E ela trouxe vocês de volta para mim
+
+1463
+00:57:00,700 --> 00:57:02,700
+Disse que vocês estariam
+
+1464
+00:57:02,700 --> 00:57:04,700
+Marcados pelas trevas
+
+1465
+00:57:04,700 --> 00:57:06,700
+Mas vivos
+
+1466
+00:57:06,700 --> 00:57:08,700
+Quando vocês voltaram, não lembraram de nada
+
+1467
+00:57:08,700 --> 00:57:10,700
+Então...
+
+1468
+00:57:10,700 --> 00:57:12,700
+O que o pai disse era verdade?
+
+1469
+00:57:12,700 --> 00:57:14,700
+Ele ficou desesperado
+
+1470
+00:57:14,700 --> 00:57:16,700
+Disse que o que eu fiz
+
+1471
+00:57:16,700 --> 00:57:18,700
+Era errado
+
+1472
+00:57:18,700 --> 00:57:20,700
+Ele estava discutindo comigo
+
+1473
+00:57:20,700 --> 00:57:22,700
+Mas só com palavras
+
+1474
+00:57:22,700 --> 00:57:24,700
+Caio se levantou
+
+1475
+00:57:24,700 --> 00:57:26,700
+Você saltou sobre ele
+
+1476
+00:57:26,700 --> 00:57:28,700
+Se eu não te segurasse
+
+1477
+00:57:28,700 --> 00:57:30,700
+Ele teria morrido naquele momento também
+
+1478
+00:57:30,700 --> 00:57:32,700
+Ele...
+
+1479
+00:57:32,700 --> 00:57:34,700
+Tem medo de vocês
+
+1480
+00:57:34,700 --> 00:57:36,700
+E por isso que ele foi embora?
+
+1481
+00:57:36,700 --> 00:57:38,700
+Ele tinha medo de dormir no mesmo lugar
+
+1482
+00:57:38,700 --> 00:57:40,700
+Ele nunca foi embora
+
+1483
+00:57:40,700 --> 00:57:42,700
+Sempre esteve de olho
+
+1484
+00:57:42,700 --> 00:57:44,700
+Acho que ele nunca entendeu o que eu fiz
+
+1485
+00:57:44,700 --> 00:57:46,700
+Até agora
+
+1486
+00:57:46,700 --> 00:57:48,700
+Então foi por isso que ele perguntou se a gente era realmente filho dele
+
+1487
+00:57:48,700 --> 00:57:50,700
+O pai não vê a gente como filho então
+
+1488
+00:57:50,700 --> 00:57:52,700
+Não mesmo
+
+1489
+00:57:52,700 --> 00:57:54,700
+Eu não sei
+
+1490
+00:57:54,700 --> 00:57:56,700
+Ela passou a estar guiando vocês ali pela floresta
+
+1491
+00:57:56,700 --> 00:57:58,700
+Para as coisas serem bem
+
+1492
+00:57:58,700 --> 00:58:00,700
+E ela para diante do rio
+
+1493
+00:58:00,700 --> 00:58:02,700
+Se cruzarmos esse rio, não tem mais volta
+
+1494
+00:58:02,700 --> 00:58:04,700
+E por que a gente voltaria?
+
+1495
+00:58:04,700 --> 00:58:06,700
+Para uma cidade que odeia a gente?
+
+1496
+00:58:06,700 --> 00:58:08,700
+E tentou matar
+
+1497
+00:58:08,700 --> 00:58:10,700
+Você uma vez
+
+1498
+00:58:10,700 --> 00:58:12,700
+E tentou vender
+
+1499
+00:58:12,700 --> 00:58:14,700
+Tentou...
+
+1500
+00:58:14,700 --> 00:58:16,700
+Eu não quero nem imaginar o que aquele xerife queria com a tábua
+
+1501
+00:58:16,700 --> 00:58:18,700
+A gente só tem a gente
+
+1502
+00:58:18,700 --> 00:58:20,700
+E não importa o que o pai falou
+
+1503
+00:58:20,700 --> 00:58:22,700
+Se as pessoas chamam de trevas ou não
+
+1504
+00:58:22,700 --> 00:58:24,700
+É o que está protegendo a gente
+
+1505
+00:58:24,700 --> 00:58:26,700
+Então eu fico com você mãe
+
+1506
+00:58:26,700 --> 00:58:28,700
+Olha para os outros
+
+1507
+00:58:28,700 --> 00:58:30,700
+E se coloca do lado delas no mesmo momento
+
+1508
+00:58:30,700 --> 00:58:32,700
+Que ele percebe que ela está vendo para ele
+
+1509
+00:58:32,700 --> 00:58:34,700
+A tábua até ela para
+
+1510
+00:58:34,700 --> 00:58:36,700
+Ela olha um pouco para trás
+
+1511
+00:58:36,700 --> 00:58:38,700
+Ela lembra do Ícaro
+
+1512
+00:58:38,700 --> 00:58:40,700
+Ela sente uma pontada no coração
+
+1513
+00:58:40,700 --> 00:58:42,700
+Mas ela olha para a mãe e os irmãos
+
+1514
+00:58:42,700 --> 00:58:44,700
+Eu vou para onde vocês forem
+
+1515
+00:58:44,700 --> 00:58:46,700
+Então não faz mal a gente ir embora
+
+1516
+00:58:46,700 --> 00:58:48,700
+Eu sempre tive medo
+
+1517
+00:58:48,700 --> 00:58:50,700
+Cresci ouvindo que as trevas e as bruxas eram más
+
+1518
+00:58:50,700 --> 00:58:52,700
+Que eu tinha que crescer
+
+1519
+00:58:52,700 --> 00:58:54,700
+Vivendo nas cidades
+
+1520
+00:58:54,700 --> 00:58:56,700
+Mas vocês estão certos
+
+1521
+00:58:56,700 --> 00:58:58,700
+Ela dá as mãos assim para vocês
+
+1522
+00:58:58,700 --> 00:59:00,700
+E um de vocês dá a mão para um terceiro
+
+1523
+00:59:00,700 --> 00:59:02,700
+Da onde vamos
+
+1524
+00:59:02,700 --> 00:59:04,700
+É o mundo das bruxas
+
+1525
+00:59:04,700 --> 00:59:06,700
+O mundo das trevas
+
+1526
+00:59:06,700 --> 00:59:08,700
+Vamos juntos?
+
+1527
+00:59:08,700 --> 00:59:10,700
+Aí sua pai vai balançar a cabeça
+
+1528
+00:59:10,700 --> 00:59:12,700
+Pensa com calma que eu também vou balançar a cabeça
+
+1529
+00:59:12,700 --> 00:59:14,700
+Antes a senhora foi eu vou mãe
+
+1530
+00:59:14,700 --> 00:59:16,700
+A mãe de vocês dá um passo sobre o rio
+
+1531
+00:59:16,700 --> 00:59:18,700
+E ela não afunda
+
+1532
+00:59:18,700 --> 00:59:20,700
+Nem um de vocês afunda
+
+1533
+00:59:20,700 --> 00:59:22,700
+Vocês atravessa o rio caminhando
+
+1534
+00:59:26,700 --> 00:59:28,700
+O rio caminhando
+
+1535
+00:59:54,700 --> 00:59:56,700
+Escuta o mestre
+
+1536
+00:59:56,700 --> 00:59:58,700
+O segundo mestre caiu de tudo em papelão e madeira
+
+1537
+00:59:58,700 --> 01:00:00,700
+Que o mestre usa para soltar suas lançamentos de dados
+
+1538
+01:00:00,700 --> 01:00:02,700
+Mas aqui eu baixo para vocês e conto tudo o que aconteceu
+
+1539
+01:00:02,700 --> 01:00:04,700
+Na aventura
+
+1540
+01:00:04,700 --> 01:00:06,700
+A ideia dessa aventura começou com algo que eu nem posso explicar ainda
+
+1541
+01:00:06,700 --> 01:00:08,700
+Porque a ideia se desdobrou
+
+1542
+01:00:08,700 --> 01:00:10,700
+Em duas aventuras
+
+1543
+01:00:10,700 --> 01:00:12,700
+Então existe uma outra aventura
+
+1544
+01:00:12,700 --> 01:00:14,700
+Com a ideia que originou isso aqui
+
+1545
+01:00:14,700 --> 01:00:16,700
+Que eu quero contar com vocês
+
+1546
+01:00:16,700 --> 01:00:18,700
+Mais resumidamente sem dar futuros spoilers
+
+1547
+01:00:18,700 --> 01:00:20,700
+Era pensando em bruxas
+
+1548
+01:00:20,700 --> 01:00:22,700
+E como na idade média
+
+1549
+01:00:22,700 --> 01:00:24,700
+Elas eram testadas
+
+1550
+01:00:24,700 --> 01:00:26,700
+Na água
+
+1551
+01:00:26,700 --> 01:00:28,700
+Eu vi alguma coisa sobre bruxas
+
+1552
+01:00:28,700 --> 01:00:30,700
+Sobre jogá-las amarradas no rio
+
+1553
+01:00:30,700 --> 01:00:32,700
+E descobrir se eram bruxas ou não
+
+1554
+01:00:32,700 --> 01:00:34,700
+E isso acabou me marcando recentemente
+
+1555
+01:00:34,700 --> 01:00:36,700
+Então eu trouxe isso para essa aventura
+
+1556
+01:00:36,700 --> 01:00:38,700
+Junto com outros elementos
+
+1557
+01:00:38,700 --> 01:00:40,700
+Que vocês ouviram no episódio
+
+1558
+01:00:40,700 --> 01:00:42,700
+A parte no final inclusive
+
+1559
+01:00:42,700 --> 01:00:44,700
+Da mãe andar sobre a água
+
+1560
+01:00:44,700 --> 01:00:46,700
+Foi algo que eu decidi na hora
+
+1561
+01:00:46,700 --> 01:00:48,700
+Por um motivo também
+
+1562
+01:00:48,700 --> 01:00:50,700
+Que eu acho que combinou
+
+1563
+01:00:50,700 --> 01:00:52,700
+Com o fechamento da aventura
+
+1564
+01:00:52,700 --> 01:00:54,700
+Com aquela família indo
+
+1565
+01:00:54,700 --> 01:00:56,700
+Para um lugar místico
+
+1566
+01:00:56,700 --> 01:00:58,700
+Sem o pai novamente
+
+1567
+01:00:58,700 --> 01:01:00,700
+Talvez porque ele não pudesse ir lá
+
+1568
+01:01:00,700 --> 01:01:02,700
+Talvez porque a família não o quisesse ir lá
+
+1569
+01:01:02,700 --> 01:01:04,700
+Talvez futuramente ele vá
+
+1570
+01:01:04,700 --> 01:01:06,700
+Mas...
+
+1571
+01:01:06,700 --> 01:01:08,700
+Eu achei que a história fechou bem
+
+1572
+01:01:08,700 --> 01:01:10,700
+Embora ela trabalhe com temas fortes
+
+1573
+01:01:10,700 --> 01:01:12,700
+Espero que vocês tenham gostado
+
+1574
+01:01:12,700 --> 01:01:14,700
+Da aventura de hoje
+
+1575
+01:01:14,700 --> 01:01:16,700
+Agradeço demais aos jogadores
+
+1576
+01:01:16,700 --> 01:01:18,700
+Agradeço demais ao Caio Lorenzo
+
+1577
+01:01:18,700 --> 01:01:20,700
+Que foi quem fez a revisão deste episódio
+
+1578
+01:01:20,700 --> 01:01:22,700
+A Ju não pôde
+
+1579
+01:01:22,700 --> 01:01:24,700
+Ele me quebrou este galhão
+
+1580
+01:01:24,700 --> 01:01:26,700
+O Caio Lorenzo
+
+1581
+01:01:26,700 --> 01:01:28,700
+Fez um trabalho incrível
+
+1582
+01:01:28,700 --> 01:01:30,700
+Agradeço ao Rafael Zorzal
+
+1583
+01:01:30,700 --> 01:01:32,700
+Como a gente já ouviu falar
+
+1584
+01:01:32,700 --> 01:01:34,700
+O Rafael Zorzal lançou seu livro Fraternal
+
+1585
+01:01:34,700 --> 01:01:36,700
+Lá na Amazon
+
+1586
+01:01:36,700 --> 01:01:38,700
+Eu vou deixar o link aqui no post
+
+1587
+01:01:38,700 --> 01:01:40,700
+Para vocês estarem adquirindo
+
+1588
+01:01:40,700 --> 01:01:42,700
+É um livro bem bacana
+
+1589
+01:01:42,700 --> 01:01:44,700
+Eu ainda não terminei de ler
+
+1590
+01:01:44,700 --> 01:01:46,700
+Mas o que li eu gostei bastante
+
+1591
+01:01:46,700 --> 01:01:48,700
+É uma história de família
+
+1592
+01:01:48,700 --> 01:01:50,700
+Com algumas reviravoltas
+
+1593
+01:01:50,700 --> 01:01:52,700
+E um toque meio sobrenatural
+
+1594
+01:01:52,700 --> 01:01:54,700
+Que eu não consegui definir
+
+1595
+01:01:54,700 --> 01:01:56,700
+Mas vão lá conheçam
+
+1596
+01:01:56,700 --> 01:01:58,700
+Vou colocar aqui um trechinho
+
+1597
+01:01:58,700 --> 01:02:00,700
+Que o Zorzal preparou para a gente
+
+1598
+01:02:00,700 --> 01:02:02,700
+Vamos dar uma conferida
+
+1599
+01:02:02,700 --> 01:02:04,700
+A respiração dele era pesada
+
+1600
+01:02:04,700 --> 01:02:06,700
+A adrenalina que corria pelo seu corpo
+
+1601
+01:02:06,700 --> 01:02:08,700
+Ainda pulsava como um raio cortante
+
+1602
+01:02:08,700 --> 01:02:10,700
+Seus olhos, travados para frente
+
+1603
+01:02:10,700 --> 01:02:12,700
+Contemplavam o ato que havia cometido
+
+1604
+01:02:12,700 --> 01:02:14,700
+O ato que sempre precisou acontecer
+
+1605
+01:02:14,700 --> 01:02:16,700
+Tudo foi muito mais rápido
+
+1606
+01:02:16,700 --> 01:02:18,700
+Do que tinha parecido ser
+
+1607
+01:02:18,700 --> 01:02:20,700
+Ele piscou os olhos duas vezes
+
+1608
+01:02:20,700 --> 01:02:22,700
+Acima de si próprio
+
+1609
+01:02:22,700 --> 01:02:24,700
+Por tamanha desrealização
+
+1610
+01:02:24,700 --> 01:02:26,700
+Balançou a cabeça
+
+1611
+01:02:26,700 --> 01:02:28,700
+Com o intuito de chamar sua consciência
+
+1612
+01:02:28,700 --> 01:02:30,700
+De volta para seu corpo
+
+1613
+01:02:30,700 --> 01:02:32,700
+Fazendo-a descer em si mesmo
+
+1614
+01:02:32,700 --> 01:02:34,700
+Sentiu um frio descendo sua espinha
+
+1615
+01:02:34,700 --> 01:02:36,700
+Enquanto retornava
+
+1616
+01:02:36,700 --> 01:02:38,700
+E começou a perder as forças na perna
+
+1617
+01:02:38,700 --> 01:02:40,700
+Devido ao alívio abrupto de tensão
+
+1618
+01:02:40,700 --> 01:02:42,700
+Ele olhou para o lado
+
+1619
+01:02:42,700 --> 01:02:44,700
+E viu a grande poça de sangue
+
+1620
+01:02:44,700 --> 01:02:46,700
+Que ainda crescia pelo carpete
+
+1621
+01:02:46,700 --> 01:02:48,700
+Saindo do cadáver
+
+1622
+01:02:48,700 --> 01:02:50,700
+Ele sentiu uma repulsa enorme
+
+1623
+01:02:50,700 --> 01:02:52,700
+De incerto transe pelo ocorrido
+
+1624
+01:02:52,700 --> 01:02:54,700
+Ele não esboçou nenhuma reação
+
+1625
+01:02:54,700 --> 01:02:56,700
+A não se recuar em direção à parede
+
+1626
+01:02:56,700 --> 01:02:58,700
+Ele escorregou até se encostar
+
+1627
+01:02:58,700 --> 01:03:00,700
+Totalmente no chão
+
+1628
+01:03:00,700 --> 01:03:02,700
+Permitindo ao seu corpo um relaxamento quase automático
+
+1629
+01:03:02,700 --> 01:03:04,700
+E lá estava ele
+
+1630
+01:03:04,700 --> 01:03:06,700
+A sua frente
+
+1631
+01:03:06,700 --> 01:03:08,700
+Seu irmão
+
+1632
+01:03:08,700 --> 01:03:10,700
+Preso, incapaz de fazer qualquer coisa
+
+1633
+01:03:10,700 --> 01:03:12,700
+Para se soltar
+
+1634
+01:03:12,700 --> 01:03:14,700
+Os olhos dele giravam com raiva
+
+1635
+01:03:14,700 --> 01:03:16,700
+De forma zonza enquanto seu corpo balançava na corda
+
+1636
+01:03:16,700 --> 01:03:18,700
+Que o prendia na cadeira
+
+1637
+01:03:18,700 --> 01:03:20,700
+Mas ele viu o primeiro irmão à sua frente
+
+1638
+01:03:20,700 --> 01:03:22,700
+O irmão que o obrigou a fazer tudo o que ele havia feito
+
+1639
+01:03:22,700 --> 01:03:24,700
+O irmão que fez com que essa situação escalasse
+
+1640
+01:03:24,700 --> 01:03:26,700
+Ao conto em que havia chegado
+
+1641
+01:03:26,700 --> 01:03:28,700
+O irmão que o prendeu a uma cadeira
+
+1642
+01:03:28,700 --> 01:03:30,700
+O feriu
+
+1643
+01:03:30,700 --> 01:03:32,700
+E o fez perder tudo
+
+1644
+01:03:50,700 --> 01:03:52,700
+Chegou ao sentimento de mal
+
+1645
+01:03:52,700 --> 01:03:54,700
+E mentiu
+
+1646
+01:03:54,700 --> 01:03:56,700
+Já foi
+
+1647
+01:03:56,700 --> 01:03:58,540
+Um dia
+
+1648
+01:03:58,540 --> 01:03:59,100
+Para não ser tão difícil
+
+1649
+01:03:59,100 --> 01:04:19,100
+Em shu
+
+1650
+01:04:19,100 --> 01:04:19,320
+Para não ser tão difícil
+
+1651
+01:04:19,320 --> 01:04:19,820
+Um dia
+
+1652
+01:04:19,820 --> 01:04:19,860
+Mas ainda era quase
+
+1653
+01:04:19,880 --> 01:04:20,400
+Um dia
+
+1654
+01:04:20,520 --> 01:04:20,540
+Vamos se feudar
+
+1655
+01:04:20,540 --> 01:04:20,580
+Vamos se feudar
+
+1656
+01:04:20,580 --> 01:04:20,680
+Já foi um tempito
+
+1657
+01:04:20,680 --> 01:04:22,260
+projeto vai em apoia.se
+
+1658
+01:04:22,260 --> 01:04:24,060
+barra rp guaxa
+
+1659
+01:04:24,060 --> 01:04:25,900
+a partir de um real você está me ajudando
+
+1660
+01:04:25,900 --> 01:04:28,560
+a partir de 10 reais você faz parte da taberna do guaxinim
+
+1661
+01:04:28,560 --> 01:04:30,720
+do nosso grupo de apoiadores
+
+1662
+01:04:30,720 --> 01:04:32,440
+onde você vai conhecer
+
+1663
+01:04:32,440 --> 01:04:34,880
+pessoas incríveis, as pessoas que jogaram este episódio
+
+1664
+01:04:34,880 --> 01:04:36,180
+as pessoas que jogaram
+
+1665
+01:04:36,180 --> 01:04:37,600
+vários outros episódios
+
+1666
+01:04:37,600 --> 01:04:40,460
+eu raramente chamo alguém que não
+
+1667
+01:04:40,460 --> 01:04:42,240
+seja padrinho para jogar
+
+1668
+01:04:42,240 --> 01:04:43,800
+embora o que eu sempre digo
+
+1669
+01:04:43,800 --> 01:04:45,900
+não seja padrinho para jogar
+
+1670
+01:04:45,900 --> 01:04:47,900
+você pode ser padrinho por vários motivos
+
+1671
+01:04:47,900 --> 01:04:49,140
+conhecer pessoas maravilhosas
+
+1672
+01:04:49,140 --> 01:04:52,200
+tem vários grupos lá falando de anime, de videogame
+
+1673
+01:04:52,200 --> 01:04:53,880
+de perrengue doméstico
+
+1674
+01:04:53,880 --> 01:04:56,580
+tem o pessoal da lei do arco-íris, tem o grupo das meninas
+
+1675
+01:04:56,580 --> 01:04:58,900
+tem o grupo de idiomas
+
+1676
+01:04:58,900 --> 01:04:59,700
+tem o grupo
+
+1677
+01:04:59,700 --> 01:05:01,920
+agora está começando o novo reality show
+
+1678
+01:05:01,920 --> 01:05:02,920
+da rede globo
+
+1679
+01:05:02,920 --> 01:05:05,980
+talvez o nosso grupo que era de BBB
+
+1680
+01:05:05,980 --> 01:05:07,620
+volte a ficar agitado
+
+1681
+01:05:07,620 --> 01:05:09,100
+se o programa for realmente bom
+
+1682
+01:05:09,100 --> 01:05:12,060
+eu não sei, mas sim, existem vários grupos
+
+1683
+01:05:12,060 --> 01:05:13,620
+menores, existem grupos maiores
+
+1684
+01:05:13,620 --> 01:05:16,320
+existem pessoas maravilhosas que vocês podem conhecer
+
+1685
+01:05:16,320 --> 01:05:17,920
+e vocês podem
+
+1686
+01:05:17,920 --> 01:05:18,940
+conversar comigo
+
+1687
+01:05:18,940 --> 01:05:20,520
+lá diretamente
+
+1688
+01:05:20,520 --> 01:05:21,720
+além disso
+
+1689
+01:05:21,720 --> 01:05:24,360
+você pode gravar voz de NPC
+
+1690
+01:05:24,360 --> 01:05:26,640
+tirando alguns personagens específicos
+
+1691
+01:05:26,640 --> 01:05:28,400
+que eu peço para pessoas-chave
+
+1692
+01:05:28,400 --> 01:05:29,980
+porque eu acho que vai combinar
+
+1693
+01:05:29,980 --> 01:05:32,320
+ou porque são personagens mais complexos
+
+1694
+01:05:32,320 --> 01:05:33,860
+e tal, normalmente
+
+1695
+01:05:33,860 --> 01:05:35,960
+eu chego em algum horário do dia
+
+1696
+01:05:35,960 --> 01:05:38,320
+posto na taberna, preciso de
+
+1697
+01:05:38,320 --> 01:05:40,600
+um ferreiro, homem
+
+1698
+01:05:40,600 --> 01:05:43,080
+poucas falas
+
+1699
+01:05:43,080 --> 01:05:44,640
+mulher
+
+1700
+01:05:44,640 --> 01:05:46,860
+ajudante de ferreiro
+
+1701
+01:05:46,860 --> 01:05:48,560
+jovem, arrogante
+
+1702
+01:05:48,940 --> 01:05:49,660
+ou jovem
+
+1703
+01:05:49,660 --> 01:05:51,540
+eu dou algumas características
+
+1704
+01:05:51,540 --> 01:05:54,080
+e quem acha que a sua voz combina
+
+1705
+01:05:54,080 --> 01:05:55,820
+e que tem um microfone legal
+
+1706
+01:05:55,820 --> 01:05:56,840
+para a voz ficar legal
+
+1707
+01:05:56,840 --> 01:05:59,000
+ele diz, eu quero fazer tal voz
+
+1708
+01:05:59,000 --> 01:06:02,260
+e pela ordem que as pessoas vão chegando
+
+1709
+01:06:02,260 --> 01:06:04,380
+a gente vai distribuindo essas vozes
+
+1710
+01:06:04,380 --> 01:06:05,400
+para o pessoal fazer
+
+1711
+01:06:05,400 --> 01:06:07,880
+nesse episódio em específico
+
+1712
+01:06:07,880 --> 01:06:10,120
+o próprio Zorzal, nosso querido editor
+
+1713
+01:06:10,120 --> 01:06:12,600
+ele fez o pai da família
+
+1714
+01:06:12,600 --> 01:06:14,260
+por ser um spoiler
+
+1715
+01:06:14,260 --> 01:06:16,420
+eu não gosto de dar muito spoiler para os padrinhos
+
+1716
+01:06:16,420 --> 01:06:18,680
+e por ser um personagem que tem
+
+1717
+01:06:18,680 --> 01:06:20,820
+alguns momentos que é mais fácil
+
+1718
+01:06:20,820 --> 01:06:22,100
+para ele que eu ouvir o episódio
+
+1719
+01:06:22,100 --> 01:06:24,160
+do que para eu descrever para as pessoas
+
+1720
+01:06:24,160 --> 01:06:26,580
+olha, o sentimento aqui é assim
+
+1721
+01:06:26,580 --> 01:06:28,360
+assado, então ficou muito bom
+
+1722
+01:06:28,360 --> 01:06:30,680
+a Rafa Rangel fez a mãe
+
+1723
+01:06:30,680 --> 01:06:32,540
+e isso futuramente
+
+1724
+01:06:32,540 --> 01:06:33,760
+me cria um problema
+
+1725
+01:06:33,760 --> 01:06:36,860
+eu não vou explicar porque, mas vocês vão descobrir
+
+1726
+01:06:36,860 --> 01:06:38,560
+mas assim
+
+1727
+01:06:38,560 --> 01:06:40,120
+ela fez a mãe neste episódio
+
+1728
+01:06:40,120 --> 01:06:42,980
+ponto, guardem isso na cabeça de vocês
+
+1729
+01:06:42,980 --> 01:06:45,100
+o Trota fez o xerife
+
+1730
+01:06:45,100 --> 01:06:46,900
+maravilhoso, quem está acostumado
+
+1731
+01:06:46,900 --> 01:06:48,600
+a ver ele fazendo
+
+1732
+01:06:48,680 --> 01:06:51,140
+personagens mais cômicos
+
+1733
+01:06:51,140 --> 01:06:53,720
+mais tipo Silvio
+
+1734
+01:06:53,720 --> 01:06:55,540
+ver ele num personagem
+
+1735
+01:06:55,540 --> 01:06:57,320
+num dos piores vilões talvez
+
+1736
+01:06:57,320 --> 01:06:58,940
+que passou pelo RPG
+
+1737
+01:06:58,940 --> 01:07:00,900
+e por último
+
+1738
+01:07:00,900 --> 01:07:02,280
+a senhorinha
+
+1739
+01:07:02,280 --> 01:07:04,400
+aquela senhorinha que vem no início do episódio
+
+1740
+01:07:04,400 --> 01:07:06,420
+foi feita pela Tarine
+
+1741
+01:07:06,420 --> 01:07:08,260
+porque está sem o acento aqui
+
+1742
+01:07:08,260 --> 01:07:10,940
+agradeço demais a todo mundo que apoia este mês
+
+1743
+01:07:10,940 --> 01:07:12,880
+agradeço a você que apoia este projeto
+
+1744
+01:07:12,880 --> 01:07:14,580
+estou preparando muita coisa bacana
+
+1745
+01:07:14,580 --> 01:07:17,000
+graças a pessoas como vocês
+
+1746
+01:07:17,000 --> 01:07:18,620
+então este mês
+
+1747
+01:07:18,620 --> 01:07:20,240
+tem três episódios, ele ficou caro
+
+1748
+01:07:20,240 --> 01:07:22,580
+espero que vocês lembrem disso na hora de fazer
+
+1749
+01:07:22,580 --> 01:07:25,080
+suas doações e quem já é padrinho
+
+1750
+01:07:25,080 --> 01:07:27,080
+confere lá se está caindo direitinho
+
+1751
+01:07:27,080 --> 01:07:28,240
+se está cobrando cartão
+
+1752
+01:07:28,240 --> 01:07:29,980
+se você está lembrando de pagar os boletos
+
+1753
+01:07:29,980 --> 01:07:31,860
+porque cada centavo importa
+
+1754
+01:07:31,860 --> 01:07:33,840
+muito obrigado, lembrem sempre
+
+1755
+01:07:33,840 --> 01:07:36,240
+role 6, role 20, isso depende do sistema
+
+1756
+01:07:36,240 --> 01:07:38,400
+que vocês estão jogando, mas independente disso
+
+1757
+01:07:38,400 --> 01:07:39,580
+se tudo é errado, rola no chão
+
+1758
+01:07:39,580 --> 01:07:41,400
+que apaga o fogo e diverte
+
+1759
+01:07:41,400 --> 01:07:42,740
+um beijo no coração de vocês
+
+1760
+01:07:48,620 --> 01:07:52,000
+말�inos
+
+1761
+01:07:52,000 --> 01:07:53,500
+muito são os números que regem um multiverso
+
+1762
+01:07:53,500 --> 01:07:54,760
+multipuh
+
+1763
+01:07:54,760 --> 01:07:55,180
+posso
+
+1764
+01:07:55,180 --> 01:07:56,880
+sete realidades paralelas
+
+1765
+01:07:56,880 --> 01:07:57,300
+Modelos
+
+1766
+01:07:57,300 --> 01:07:58,160
+que já foram 3
+
+1767
+01:07:58,160 --> 01:07:58,820
+delas
+
+1768
+01:07:58,820 --> 01:08:00,300
+4 linhas sagradas
+
+1769
+01:08:00,300 --> 01:08:01,540
+uma linha vazia
+
+1770
+01:08:01,540 --> 01:08:02,260
+Инwen
+
+1771
+01:08:02,260 --> 01:08:02,500
+além do прs
+
+1772
+01:08:02,500 --> 01:08:03,160
+axii
+
+1773
+01:08:03,160 --> 01:08:03,220
+ny
+
+1774
+01:08:03,220 --> 01:08:04,260
+dividão
+
+1775
+01:08:04,260 --> 01:08:04,600
+sol
+
+1776
+01:08:04,600 --> 01:08:05,300
+visiting
+
+1777
+01:08:05,300 --> 01:08:05,820
+linda
+
+1778
+01:08:05,820 --> 01:08:08,020
+apresentou
+
+1779
+01:08:08,020 --> 01:08:08,820
+agora não sei
+
+1780
+01:08:08,820 --> 01:08:09,500
+NEW
+
+1781
+01:08:09,500 --> 01:08:10,200
+produtos
+
+1782
+01:08:10,200 --> 01:08:10,760
+que
+
+1783
+01:08:10,760 --> 01:08:11,700
+girluk
+
+1784
+01:08:11,700 --> 01:08:12,860
+ele
+
+1785
+01:08:12,860 --> 01:08:17,220
+ainda
+
+1786
+01:08:17,220 --> 01:08:17,580
+o
+
+1787
+01:08:17,580 --> 01:08:18,460
+plates
+
+1788
+01:08:18,460 --> 01:08:18,500
+o
+
+1789
+01:08:18,500 --> 01:08:18,560
+o
+
+1790
+01:08:18,560 --> 01:08:18,620
+venerável
+
+1791
+01:08:18,620 --> 01:08:19,620
+Obrigado.
+

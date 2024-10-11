@@ -1,0 +1,4070 @@
+0 800 (05) Estamos prontos?
+1140 1980 (13) Estamos sim!
+2440 4780 (13) Ah, você prefere mestre ou narrador?
+4960 6660 (05) Na verdade, eu prefiro guache.
+8780 13240 (05) Olá, eu sou Marcelo Guaxinim, e antes dos nossos queridos jogadores se apresentarem,
+13320 18300 (05) eu queria convidar você para ir no prêmio mpb.com.br.
+18720 23780 (05) MPB não é de música popular brasileira, é de melhores podcasts do Brasil.
+24080 28640 (05) O RPG Guache está concorrendo na categoria Ficção e Fantasia.
+28640 34600 (05) O prêmio é uma oportunidade para você estar conhecendo novos podcasts dos mais variados temas
+34600 42320 (05) e ajudar, mais uma vez, a usar a força dos guaxinims, o guaxapower,
+43000 46040 (05) para, mais uma vez, ajudar o podcast a ficar conhecido.
+46500 52200 (05) Seria maravilhoso ficar no top 10, no top 5, talvez, de ficção e fantasia.
+52660 56600 (05) Então vai lá, prêmio mpb.com.br.
+56600 58440 (05) Você cria o seu cadastro.
+58640 61720 (05) Você pode conhecer um monte de podcasts maravilhosos.
+61780 64980 (05) Votar, né? Também outros podcasts que você escute.
+65440 70240 (05) Mas o principal que eu peço a vocês é votar no RPG Guache em Ficção e Fantasia.
+70460 74080 (05) Se votar uma vez, fico eternamente grato.
+74220 80340 (05) Mas, sempre que você lembrar, você pode, uma vez por dia, dar seu voto.
+80580 83740 (05) Então vota hoje, vota amanhã, vota depois.
+84680 85780 (05) Esqueceu? Acontece.
+85840 88520 (05) Mas aí, fim de semana, sentou no computador para jogar.
+88640 90700 (05) Lá, o seu RPG via Discord.
+91000 92920 (05) Antes da jogatina, vota.
+93260 96520 (05) Peço para os seus amigos lá da mesa, lembrem-se de votar no RPG Guache também.
+96520 100080 (05) Então, por favor, peço sua ajuda, seu apoio.
+100400 104360 (05) RPG Guache, prêmio mpb.com.br.
+104600 106320 (05) Ficção e fantasia.
+106840 111960 (05) Quero muito ganhar, quero muito me classificar numa posição bacana.
+112360 114120 (05) E isso depende de você.
+114420 117860 (12) Olá, eu sou a Juleiva e vocês me encontram no Arroba Guachete.
+117960 118520 (10, 12) Oi, aqui é...
+118640 119100 (10) A Shelly.
+119340 123380 (10) E vocês me encontram no Instagram e no BlueSky com o Arroba Shelly Poison.
+123720 126240 (10) E também no RPG Next em Aventuras Antigas.
+126360 126880 (10, 09) Oi, galera.
+127180 130560 (09) Aqui é a Fabiola e vocês me encontram na Taberna do Guaxinim.
+130700 132040 (09) Venham virar apoiadores.
+132520 137220 (00) O Realidades Paralelas do Guaxinim usa o sistema Guaxinins e Gambiarras.
+137740 141920 (00) Nele, cada jogador possui apenas um atributo, que vai de 2 a 5.
+142520 145060 (00) Quanto maior o atributo, mais atlético é o personagem.
+145520 147700 (00) Quanto menor, mais inteligente e carismático.
+147700 151740 (00) Sempre que o jogador faz algo com uma chance de errar, joga dois dados.
+151960 155360 (00) E precisa tirar seu atributo ou menos para ataques e ações físicas.
+155820 158800 (00) E seu atributo ou mais para ações intelectuais ou sociais.
+159220 163220 (00) Se a jogada for fácil ou tiver algum auxílio, joga um dado a mais.
+163640 166600 (00) Se a jogada for difícil, rola um dado a menos.
+167460 171280 (00) Eu sou a Rafaela Rangel e sou madrinha do RPG Guaxa.
+171640 174380 (00) Primeiro porque a gente precisa manter esse projeto vivo.
+174380 177380 (00) E segundo porque todo o amor e acolhimento que eu recebo...
+177940 180380 (00) desde que eu cheguei na taberna vale cada centavo.
+181360 182160 (00) Sejam padrinhos!
+182560 186220 (05) Antes de conhecer o episódio de hoje, nosso querido editor Rafael Zorzal...
+186220 187380 (05) que também é um roteirista maravilhoso.
+188440 191540 (05) Ele terminou seu livro, que vai sair no dia 9.
+191820 194200 (05) Falo mais sobre isso no Escudo do Mestre.
+194620 197040 (05) Mas deixo aqui uma palhinha para vocês.
+197540 201540 (01) Com um sorriso de canto de boca e olhando diretamente para a tela do computador...
+201540 205800 (01) Roberto começou a ouvir o som que saía do rapaz no fundo da cafeteria.
+206620 207540 (01) Pela primeira vez em algum tempo...
+207700 210700 (01) Roberto usou o dom que adquiriu aos 11 anos de idade.
+210700 214700 (01) Os barulhos do restaurante e os demais barulhos foram se abafando...
+214700 219700 (00, 01) enquanto Roberto se concentrava a ouvir apenas aquele único som.
+219700 222700 (01) O som da mente de outra pessoa.
+222700 224700 (01, 03) Ele é daqui a pouquinho.
+224700 226700 (01, 03) Será que você trabalhou ou só de bobeira?
+226700 228700 (01, 03) Receio uma fala com ele.
+228700 230700 (01, 03) Ele parou de acessar a mente do seu admirador...
+230700 233700 (01) fazendo com que os barulhos do local voltassem a invadir sua audição.
+233700 236700 (01) Junto com os outros sons das outras mentes que...
+236700 238700 (01) de forma baixa e abafada...
+238700 240700 (01) instigavam Roberto a investigá-las.
+240700 242700 (01) E letivamente as ignorava.
+242700 246700 (01) Seu interesse agora estava naquele rapaz bonito no fundo da cafeteria.
+246700 248700 (01) E talvez fosse bom se dar essa margem.
+248700 251700 (01) Fazia tempo que não se permitia se envolver com alguém...
+251700 254700 (01) ou de ser minimamente ousado e tomar a iniciativa.
+254700 256700 (05) Agora sim, vamos para o episódio.
+256700 258700 (05) Episódio de hoje.
+258700 260700 (05) Aqui e agora.
+266700 272700 (05) A escola estadual Maria Luiza de Souza Pinto de Matos...
+272700 274700 (05) está vibrante e animada.
+274700 276700 (05) Recebendo várias escolas para a...
+276700 280700 (05) Anual Olimpíada Brasileira de Alunes .
+280700 283700 (05) Corredores e salas de aula foram adornados...
+283700 286700 (05) com bandeiras coloridas, balões e faixas...
+286700 289700 (05) que celebram o espírito de competição e união.
+289700 292700 (05) Estudantes de todas as partes vestindo uniformes diferentes...
+292700 294700 (05) enchem o ambiente com risadas e conversas animadas.
+294700 297700 (05) Enquanto se preparam para as diversas provas.
+297700 301700 (05) O pátio central da escola transformou-se em um ponto de encontro...
+301700 305700 (05) repleto de estandes informativos e lanches.
+305700 308700 (05) Refletindo a empolgação e a camaradagem deste grande evento.
+308700 312700 (05) A AOBA conta com uma variedade de esportes.
+312700 316700 (05) Incluindo futebol, vôlei, basquete, atletismo, natação, tênis de mesa...
+316700 319700 (05) judô, ginástica artística, xadrez, etc.
+319700 322700 (05) Com equipes competindo em partidas emocionantes...
+322700 323700 (05) e apresentações de tirar o fôlego.
+323700 324700 (05) O evento foi realizado...
+324700 327700 (05) e oferece oportunidades para os alunos demonstrarem suas habilidades...
+327700 330700 (05) espírito esportivo e trabalho em equipe.
+330700 335700 (05) Tornando a AOBA um encontro memorável e inclusivo para todos os participantes.
+335700 339700 (05) As jogadoras são alunas que vão disputar algumas dessas competições.
+339700 342700 (05) Elas são amigas já de longa data.
+342700 343700 (05) Elas são todas da mesma escola.
+343700 345700 (05) E estão sempre juntas.
+345700 347700 (05) Até porque senão não ia ter aventura, né?
+347700 350700 (05) Além disso, estão bem longe de casa.
+350700 352700 (05) Pois essa não é a escola delas.
+352700 353700 (05) A escola delas é pequena, afastada da capital.
+353700 357700 (05) Já a Malu é uma escola gigantesca...
+357700 359700 (05) que fica em uma região central.
+359700 364700 (05) A Malu é como é chamada a escola estadual Maria Luiza de Sousa Pinto de Matos.
+364700 367700 (05) Algumas salas de aula foram transformadas em dormitórios para os alunos...
+367700 369700 (05) oferecendo um espaço improvisado para descanso.
+369700 371700 (05) O banheiro é coletivo.
+371700 372700 (05) O chuveiro é simples.
+372700 376700 (05) Não passando de um cano com vários buracos.
+376700 378700 (05) Ser vindo de ducha, né?
+378700 380700 (05) Você abre numa ponta uma torneira...
+380700 382700 (05) e começa a vazar água por toda a extensão deste cano.
+382700 384700 (05) Mas vamos lá.
+384700 389700 (05) Vamos conhecer as nossas competidoras da aventura de hoje.
+389700 392700 (05) Eu peço que a Ju fale sobre seu personagem, aparência e atributos.
+392700 395700 (12, 05) Olá. Eu vou jogar com a Ada Rosseto.
+395700 397700 (12) A Ada tem 15 anos.
+397700 399700 (12) Ela mede 1,65m.
+399700 401700 (12) É bem gordinha.
+401700 403700 (12) Tem cabelos loiros e cacheados.
+403700 406700 (12) E jogará bocha na aúba.
+406700 409700 (12) Ela aprendeu a jogar bocha com seu nono Giovanni.
+409700 411700 (12) E o esporte representa um elo entre os dois.
+412700 415700 (12) Embora o seu avô já tenha falecido.
+415700 417700 (12) Não costuma ser uma pessoa muito atenta.
+417700 421700 (12) Contudo, a Ada, quando ela chega na cancha de bocha,
+421700 423700 (12) ela se transforma.
+423700 426700 (12) O foco no bolinho e no melhor posicionamento da bocha
+426700 429700 (12) a motivam a, cada vez mais,
+429700 432700 (12) melhorar a sua coordenação motora fina.
+432700 435700 (12) Ama as amigas e adora estar na companhia das duas.
+435700 436700 (12) Seu atributo é o 2.
+436700 439700 (12, 05) É ali que fala sobre seu personagem, aparência e atributos.
+439700 441700 (10) Eu vou jogar com a Ivaldeni Ultima.
+442700 445700 (10) Os pais foram muito caprichosos nesse nome.
+445700 447700 (10) Pegaram o nome da tatatatataravó dela
+447700 449700 (10) e fizeram uma homenagem.
+449700 451700 (10) Ela tem 15 anos.
+451700 453700 (10) Uma personalidade super expansiva.
+453700 457700 (10) Ela é negra e tem manchas de vitíligo no maxilar e no tórax.
+457700 462700 (10) E, por conta disso, desde pequena ela tem o apelido de Panda.
+462700 464700 (10) Desde que ela entrou na escola.
+464700 466700 (10) Ela tem os olhos e os cabelos castanhos.
+466700 468700 (10) Cabelos longos e cacheados.
+468700 469700 (10) Estatura mediana.
+469700 471700 (10) Um pouco mais baixa que as amigas.
+471700 472700 (10) E é bastante magra.
+472700 476700 (10) Especialmente por praticar ginástica artística desde criança.
+476700 480700 (10) Inclusive é a modalidade que a Iva vai concorrer na Aoba.
+480700 482700 (10) E o atributo é 4.
+482700 484700 (05) Fabiola, fala sobre seu personagem, aparência e atributos.
+484700 487700 (10, 05, 09) Hoje eu vou jogar com a Quinoa Assis.
+487700 489700 (09) Ela tem 15 anos.
+489700 492700 (09) Ela tem um atributo 5.
+492700 494700 (09) Ela é uma menina branca e cheia de sardas.
+494700 496700 (09) Tem cabelos ruivos e lixos.
+496700 499700 (09) Ela é um pouco cheinha para a estatura dela que é 1,60.
+499700 500700 (09) Ela vem de uma família humilde.
+500700 502700 (09) E tem três irmãos mais velhos.
+502700 505700 (09) Não se considera inteligente e nem cativante.
+505700 508700 (09) Só sortuda por ter amigas tão legais ao lado dela.
+508700 509700 (09) Que sempre ajudam.
+509700 512700 (09) Seu sensei, pelo menos, diz que ela é muito boa no judô.
+512700 515700 (09) Porque apesar de ter começado há pouco tempo.
+515700 516700 (09) Ela já é faixa roxa.
+516700 517700 (09) Isso deixa ela muito feliz.
+517700 521700 (09) Aliás, é nessa modalidade que ela vai participar na Aoba.
+521700 523700 (09) E espera não ficar muito nervosa.
+523700 524700 (09) Estragar tudo na hora.
+524700 527700 (09) E acaba decepcionando as pessoas que acreditam nela.
+527700 530700 (09) É a primeira vez que ela está viajando para fora da cidade pequena.
+530700 533700 (09) E conhecendo uma escola nova.
+533700 534700 (09) Ela está um pouco nervosa.
+549700 553700 (05) Muitos ônibus de excursão estão sendo estacionados no entorno do colégio.
+553700 555700 (05) Perguntando o transporte das nossas jogadoras.
+555700 558700 (05) Encontrar uma vaga para ir para a estação.
+558700 559700 (05) A viagem foi longa.
+560700 562700 (05) As três ficaram um bom tempo paradas.
+562700 564700 (05) Devido a um acidente na estrada.
+564700 566700 (05) E chegaram já.
+566700 569700 (05) Provavelmente o último colégio a chegar até ali.
+569700 571700 (05) Além das três.
+571700 573700 (05) Veio o time de futebol masculino.
+573700 575700 (05) O time de futebol de salão.
+575700 576700 (05) Um menino do judô.
+576700 578700 (05) Uma menina do xadrez.
+578700 580700 (05) A única menina, além de vocês.
+580700 582700 (05) Samira Absabe.
+582700 583700 (05) Ela tem 14 anos.
+583700 585700 (05) Não é da mesma sala que vocês.
+585700 587700 (05) Mas é conhecida de vocês ali.
+587700 589700 (05) Ela é um pouco insegura.
+589700 591700 (05) Em situações sociais.
+591700 593700 (05) Ela descende em limbaneses.
+593700 595700 (05) Tem cabelos castanhos, escuros, encaracolados.
+595700 596700 (05) Pele morena.
+596700 597700 (05) Um pouquinho acima do peso.
+597700 598700 (05) Já os meninos.
+598700 600700 (05) São adolescentes comuns.
+600700 602700 (05) Cheios de ego e insegurança.
+602700 605700 (05) Que frequentemente os fazem agir de maneira imatura.
+605700 607700 (05) Na esperança de parecerem adultos.
+607700 611700 (05) Se alguém depois quiser criar algum NPC específico.
+611700 612700 (05) Só tem meninos.
+612700 614700 (05) A coordenadora que está junto com vocês.
+614700 616700 (05) Que acompanhou vocês nessa viagem.
+616700 617700 (05) Não veio a diretora.
+617700 618700 (05) Veio a coordenadora de ensino.
+618700 620700 (05) Ela é a primeira a descer do ônibus.
+620700 622700 (05) Ela conversa com um homem.
+622700 624700 (05) Já de meia idade lá fora.
+624700 626700 (05) Com o uniforme do colégio.
+626700 629700 (05) Ela pega uma chave com este homem.
+629700 631700 (05) Troca mais algumas palavras.
+631700 632700 (05) Ela volta.
+632700 634700 (05) Ela pede para os meninos saírem já.
+634700 637700 (05) E manda todos eles para...
+637700 640700 (05) Ela aponta para a parte dos ginásios.
+640700 642700 (05) Entrega a chave para um desses meninos.
+642700 645700 (05) E depois ela chama as quatro meninas.
+645700 646700 (05) Vocês três.
+646700 647700 (05) E a Samira.
+647700 649700 (05) A coordenadora para vocês.
+649700 651700 (08, 02) A gente atrasou bastante.
+651700 653700 (08) A Samira já vai começar a partida dela de xadrez.
+653700 654700 (08) Gente.
+654700 655700 (08) Eu vou correr com ela.
+655700 656700 (08) Samira.
+656700 657700 (08) Dá sua mochila para as meninas.
+657700 659700 (08, 05) A Samira está assim meio...
+659700 662700 (05) Ela não tem intimidade suficiente com uma das três.
+662700 664700 (05) Mas ela está tirando a mochila e olhando assim.
+664700 665700 (05, 09) Eu estendo a mão.
+665700 668700 (05, 09) Ela te entrega a mochila ali.
+668700 669700 (08) Ok.
+669700 671700 (08) Eu vou com a Samira lá ver como está a competição de xadrez.
+671700 672700 (08) Se já começou.
+672700 674700 (08) Se esperaram por ela.
+674700 675700 (08) Essa é a chave.
+675700 676700 (08, 05) E ela entrega.
+676700 677700 (05) Para a quinoa.
+677700 679700 (08, 05) A sala de vocês é a D04.
+679700 680700 (11) Só seguir as placas.
+680700 682700 (11) O colégio é bem grande.
+682700 683700 (11) Mas é fácil de vocês acharem.
+683700 684700 (11) Vão até lá.
+684700 685700 (11) Coloquem as mochilas.
+685700 686700 (11) Tranquem a porta.
+686700 688700 (11) E vão para o xadrez me procurar.
+688700 690700 (09, 11) Para eu ver quando é a competição de vocês.
+690700 691700 (09) Eu acho.
+691700 693700 (09) Qual é o nome da coordenadora?
+693700 694700 (09) Só para saber.
+694700 695700 (05, 09) Você não falou.
+695700 696700 (05) Joyce.
+696700 697700 (10, 05) Joyce.
+697700 698700 (10) Tá bom.
+698700 699700 (10) Antes da coordenadora sair com a Samira.
+699700 701700 (10) Mesmo que a gente não tenha muita intimidade.
+701700 702700 (10) A Iva.
+702700 704700 (10) Ela pega e ela dá um abraço.
+704700 705700 (10) Na Samira.
+705700 706700 (10) Na Samira.
+706700 707700 (10) Se você já foi jogar.
+707700 708700 (10) Boa sorte.
+708700 709700 (10) Viu.
+709700 710700 (10) A gente vai lá torcer por você.
+710700 711700 (10) Daqui a pouquinho.
+711700 712700 (10) É.
+712700 713700 (10) Obrigada.
+713700 714700 (10) É.
+714700 715700 (10) Quebra a perna.
+715700 716700 (10) Eu.
+716700 717700 (10) É.
+717700 718700 (10) Vou tentar.
+718700 719700 (10) Cuide da minha mochila.
+719700 720700 (10) Sim.
+720700 721700 (10) Tá aqui.
+721700 722700 (10) Tá segura.
+722700 723700 (10) Eu boto.
+723700 724700 (10) Pode deixar.
+724700 725700 (10) Dos braços.
+725700 726700 (10) A gente vai se encaminhando para.
+726700 727700 (10) Para a construção.
+727700 728700 (10) Que a.
+728700 729700 (10) Que a coordenadora apontou.
+729700 730700 (10) E eu dou o braço para a quinoa.
+730700 731700 (10) É.
+731700 732700 (10) E.
+732700 733700 (10) Se você falar.
+733700 734700 (10) Quebra a perna.
+734700 735700 (10) Para mim.
+735700 736700 (10) É.
+736700 737700 (10) É.
+737700 738700 (10) É.
+738700 739700 (10) É.
+739700 740700 (10) Não.
+740700 741700 (10) Não.
+741700 742700 (10) Não ia falar para você não.
+742700 743700 (10) Que é isso.
+743700 744700 (10) Eu ia falar.
+744700 745700 (12, 10) Tipo.
+745700 746700 (10) Esmagar elas.
+746700 747700 (12, 10) Pã.
+747700 748700 (10, 12) Sabe.
+748700 749700 (12, 09) Esse tipo de coisa.
+749700 750700 (12) Não vou esmagar ninguém.
+750700 751700 (12) Só vou dar saltos.
+751700 752700 (12) E piruetas.
+752700 753700 (12, 10) Mas você vai esmagar elas com.
+753700 754700 (12, 10) É.
+754700 755700 (12, 10) É.
+755700 756700 (10) Isso.
+756700 757700 (10) É.
+757700 758700 (10) Isso.
+758700 759700 (10) Isso.
+759700 760700 (10, 09) Isso.
+760700 761700 (09) Vamos lá.
+761700 762700 (09) Eu acho que é por aqui.
+762700 763700 (09) Aí.
+763700 764700 (09) Nisso que ela pegou no meu braço.
+764700 765700 (09) Derrubo no chão.
+765700 766700 (09) Sabe.
+766700 767700 (05, 09) Como eu sou atrapalhada.
+767700 768700 (05) O colégio está cheio de estudantes.
+768700 769700 (05) Assim.
+769700 770700 (05) É.
+770700 771700 (05) A maioria deles.
+771700 772700 (05) Assim.
+772700 773700 (05) Conhecendo pessoas de outras escolas.
+773700 774700 (05) Como eu falei.
+774700 775700 (05) Muitos deles chegaram.
+775700 776700 (05) Há bastante tempo.
+776700 777700 (05) Alguns chegaram ontem.
+777700 778700 (05) Já.
+778700 779700 (05) Na quinta-feira.
+779700 780700 (05) Né.
+780700 781700 (05) Hoje é sexta-feira.
+781700 782700 (05) Já é o meio da manhã.
+782700 784700 (05) Vocês deveriam ter chegado no início da manhã.
+784700 785700 (05) Ali.
+785700 786700 (05) Eu falei.
+786700 787700 (05) Por conta de um acidente na estrada.
+787700 788700 (05) Vocês deram uma clasadinha.
+788700 789700 (05) Mas mesmo assim.
+789700 790700 (05) Isso.
+790700 791700 (05) Ainda há olhares.
+791700 792700 (05) Assim.
+792700 793700 (05) De outros estudantes.
+793700 794700 (05) Vocês.
+794700 795700 (05) Tentando.
+795700 796700 (05) Ver o logo da escola.
+796700 797700 (05) Olhando.
+797700 798700 (05) Para vocês.
+798700 799700 (05) Vocês chamam a atenção.
+799700 800700 (05) Né.
+800700 801700 (05) As três são bem diferentes.
+801700 802700 (05) Entre si.
+802700 803700 (05) Ali.
+803700 804700 (05) E.
+804700 805700 (05) E parecem.
+805700 806700 (05) Ser bem amigas.
+806700 807700 (05) Tem alguns gatos.
+807700 808700 (05) Correndo.
+808700 809700 (05) De um lado.
+809700 810700 (05) Para o outro.
+810700 811700 (10, 05) Porque tem muita comida.
+811700 812700 (10) É.
+812700 813700 (10) Sendo.
+813700 814700 (10) Trocada.
+814700 815700 (10, 05) E comida.
+815700 816700 (05) Por ali.
+816700 817700 (05) Eu vou me distraindo.
+817700 818700 (05) No caminho.
+818700 819700 (05) Fazendo carinho.
+819700 820700 (05) Vários gatos.
+820700 821700 (05) À medida.
+821700 822700 (05) Que vocês vão andando.
+822700 823700 (05) Para a parte.
+823700 824700 (05) Que a escola.
+824700 825700 (05) É.
+825700 826700 (05) Ela.
+826700 827700 (05) Começa.
+827700 828700 (05) A ficar um pouco.
+828700 829700 (05) Mais vazia.
+829700 830700 (05) Né.
+830700 831700 (05) Para todo mundo.
+831700 832700 (05) Naquela comunitária.
+832700 833700 (05) Ali.
+833700 834700 (05) No meio.
+834700 835700 (05) É.
+835700 836700 (05) Naquela área central.
+836700 837700 (05) Ou então.
+837700 838700 (05) Já vendo.
+838700 839700 (10) As competições.
+839700 840700 (10, 05) Que estão acontecendo.
+840700 841700 (10, 05) Pela manhã.
+841700 842700 (05) Já começaram.
+842700 843700 (05) Então.
+843700 844700 (05) Alguém.
+844700 845700 (05) Rola.
+845700 846700 (05) Dois dados.
+846700 847700 (05) Pelo grupo.
+847700 848700 (05) 3 e 3.
+848700 849700 (05) Vocês.
+849700 850700 (05) Olham.
+850700 851700 (05) Para um lado.
+851700 852700 (05) Olham.
+852700 853700 (05) Para o outro.
+853700 854700 (05) Vocês.
+854700 855700 (05) Saibam.
+855700 856700 (05) Como voltar.
+856700 857700 (05) Mas.
+857700 858700 (05) Vocês.
+858700 859700 (05) Não estão.
+859700 860700 (10, 05) Achando.
+860700 861700 (10) A sala.
+861700 862700 (10) De vocês.
+862700 863700 (10) Direito.
+863700 864700 (10, 05) Por ali.
+864700 865700 (10, 05) Você.
+865700 866700 (10) Diz.
+866700 867700 (10) Que está.
+867700 868700 (10) Mais vazio.
+868700 869700 (10) Porém.
+869700 870700 (10) Ainda.
+870700 871700 (10) Tem.
+871700 872700 (10) Gente.
+872700 873700 (10) Andando.
+873700 874700 (10) Né.
+874700 875700 (10) Tem.
+875700 876700 (10) Algumas.
+876700 877700 (10) Pessoas.
+877700 878700 (10) Sim.
+878700 879700 (10) Eu.
+879700 880700 (10) Vou.
+880700 881700 (10) Chegar.
+881700 882700 (10) Em.
+882700 883700 (08, 10) Outro.
+883700 884700 (08) E.
+884700 885700 (08, 05) Aqui.
+885700 886700 (05) Ao.
+886700 887700 (08, 05) E.
+887700 888700 (08) Você.
+888700 889700 (08) Sabe.
+889700 890700 (08) Me.
+890700 891700 (08) Dizer.
+891700 892700 (08) Para.
+892700 893700 (08) Que.
+893700 894700 (08) Lado.
+894700 895700 (08) Fica.
+895700 896700 (08, 05) Ela.
+896700 897700 (05) Olha.
+897700 898700 (05) Para.
+898700 899700 (05) O papel.
+899700 900700 (05) Que.
+900700 901700 (05) Ela.
+901700 902700 (05) Tem.
+902700 903700 (05) Na.
+903700 904700 (05) Mão.
+904700 905700 (05) A parte.
+905700 906700 (05) Do.
+906700 907700 (05) Dormitório.
+907700 908700 (05) Das.
+908700 909700 (05) Meninas.
+909700 910700 (05) Seguindo.
+910700 911700 (05) Esse.
+911700 912700 (05) É.
+912700 913700 (05) Apertadas.
+913700 914700 (05) Algumas.
+914700 915700 (05) Risadas.
+915700 916700 (05, 09) Femininos.
+916700 917700 (09) Chega.
+917700 918700 (09) No.
+918700 919700 (09) Banheiro.
+919700 920700 (09) É.
+920700 921700 (09) Eu.
+921700 922700 (09) Eu.
+922700 923700 (09) Tenho.
+923700 924700 (10, 09) Que.
+924700 925700 (10, 09) No.
+925700 926700 (10) Banheiro.
+926700 927700 (10) Rapidinho.
+927700 928700 (10) Gente.
+928700 929700 (10) Pera.
+929700 930700 (10) É.
+930700 931700 (10) Que.
+931700 932700 (10, 09) Passou.
+932700 933700 (09) Muito.
+933700 934700 (10, 05, 09) Tempo.
+934700 935700 (09) No.
+935700 936700 (09) Ônibus.
+936700 937700 (05, 09) Eu.
+937700 938700 (05) Posso.
+938700 939700 (05) Ir.
+939700 940700 (05) Antes.
+940700 941700 (05) Coincidentemente.
+941700 942700 (05) Tem.
+942700 943700 (05) Quatro.
+943700 944700 (05) Meninas.
+944700 945700 (05) Tentando.
+945700 946700 (05) Afogar.
+946700 947700 (05) Uma.
+947700 948700 (05) Quinta.
+948700 949700 (05) Né.
+949700 950700 (05) Elas.
+950700 951700 (05) Estão.
+951700 952700 (05) Segurando.
+952700 953700 (09) Assim.
+953700 954700 (09) Contra.
+954700 955700 (09) O.
+955700 956700 (09) Vaso.
+956700 957700 (09) Sanitário.
+957700 958700 (09) Uma.
+958700 959700 (09) Quinta.
+959700 960700 (09) Menina.
+960700 961700 (09) E.
+961700 962700 (09) Dando.
+962700 963700 (13) Descargas.
+963700 964700 (13) É.
+964700 965700 (13) É.
+965700 966700 (13) É.
+966700 967700 (13) Tua.
+967700 968700 (10, 13) Licença.
+968700 969700 (10) É.
+969700 970700 (10) Eu.
+970700 971700 (10) Ajeito.
+971700 972700 (10) Melhor.
+972700 973700 (10) As.
+973700 974700 (10) Mochilas.
+974700 975700 (10, 05) Nas.
+975700 976700 (05) Minhas.
+976700 977700 (10, 05) Costas.
+977700 978700 (10) Da.
+978700 979700 (10) Melhor.
+979700 980700 (10) Forma.
+980700 981700 (10) Que.
+981700 982700 (10) Eu.
+982700 983700 (10) Consigo.
+983700 984700 (10) E.
+984700 985700 (10) Vão.
+985700 986700 (10) Pro.
+986700 987700 (10) Banheiro.
+987700 988700 (10) Vocês.
+988700 989700 (10) Duas.
+989700 990700 (10) Vem.
+990700 991700 (10) Aquela.
+991700 992700 (10, 05) Cena.
+992700 993700 (05) Ei.
+993700 994700 (10) Que.
+994700 995700 (10) Que.
+995700 996700 (10, 05) Tá.
+996700 997700 (05) Acontecendo.
+997700 998700 (05) Aqui.
+998700 999700 (05) Por.
+999700 1000700 (05) Ser.
+1000700 1001700 (05) Da.
+1001700 1002700 (05) Das.
+1002700 1003700 (05) Artes.
+1003700 1004700 (05) Marciais.
+1004700 1005700 (05) Né.
+1005700 1006700 (05) Ela.
+1006700 1007700 (05) Tem.
+1007700 1008700 (05) Um.
+1008700 1009700 (05) Ponte.
+1009700 1010700 (05) Maior.
+1010700 1011700 (05) Ali.
+1011700 1012700 (05) E.
+1012700 1013700 (05) Tudo.
+1013700 1014700 (05) É.
+1014700 1015700 (05) Bem.
+1015700 1016700 (05) Magrela.
+1016700 1017700 (10, 05) Tu.
+1017700 1018700 (10) Dá.
+1018700 1019700 (10, 05) Uma.
+1019700 1020700 (10, 05) Intimidade.
+1020700 1021700 (10) Na.
+1021700 1022700 (10) Na.
+1022700 1023700 (10) Nas.
+1023700 1024700 (10) Quatro.
+1024700 1025700 (10) Ali.
+1025700 1026700 (10) Que.
+1026700 1027700 (10) Você.
+1027700 1028700 (10, 05) Tá.
+1028700 1029700 (05) Bem.
+1029700 1030700 (05) Raíssa.
+1030700 1031700 (05) Ela.
+1031700 1032700 (05) Ela.
+1032700 1033700 (05) Dá.
+1033700 1034700 (05) Um.
+1034700 1035700 (05) Um.
+1035700 1036700 (05) Sorriso.
+1036700 1037700 (05) Assim.
+1037700 1038700 (05) Pra.
+1038700 1039700 (05) Ti.
+1039700 1040700 (05) Levanta.
+1040700 1041700 (05) Rápido.
+1041700 1042700 (05) Passa.
+1042700 1043700 (05) A.
+1043700 1044700 (05) Mão.
+1044700 1045700 (05) No.
+1045700 1046700 (05) Cabelo.
+1046700 1047700 (05) Assim.
+1047700 1048700 (05) Tentando.
+1048700 1049700 (05) Botar.
+1049700 1050700 (05) Pro.
+1050700 1051700 (05) Lado.
+1051700 1052700 (05) Ali.
+1052700 1053700 (05) Uma.
+1053700 1054700 (05) Água.
+1054700 1055700 (05, 07) Da.
+1055700 1056700 (07) Lado.
+1056700 1057700 (07) Gente.
+1057700 1058700 (07) Vocês.
+1058700 1059700 (10, 07) Me.
+1059700 1060700 (10) Quebraram.
+1060700 1061700 (10) Um.
+1061700 1062700 (10) Baita.
+1062700 1063700 (10) Galho.
+1063700 1064700 (10) Não.
+1064700 1065700 (10) Tem.
+1065700 1066700 (10) Problema.
+1066700 1067700 (10) Você.
+1067700 1068700 (10) Tá.
+1068700 1069700 (10) Machucada.
+1069700 1070700 (10) Eu.
+1070700 1071700 (10) Eu.
+1071700 1072700 (10) Acho.
+1072700 1073700 (10) Que.
+1073700 1074700 (10) Eu.
+1074700 1075700 (10) Tenho.
+1075700 1076700 (10) Uma.
+1076700 1077700 (10) Uma.
+1077700 1078700 (10) Roupa.
+1078700 1079700 (10) Aqui.
+1079700 1080700 (10, 09) Aí.
+1080700 1081700 (09) Eu.
+1081700 1082700 (09) Tô.
+1082700 1083700 (09) Procurando.
+1083700 1084700 (09) Na.
+1084700 1085700 (09) Roupa.
+1085700 1086700 (09) É.
+1086700 1087700 (09) Se.
+1087700 1088700 (05) Quisesse.
+1088700 1089700 (05) Trocar.
+1089700 1090700 (05) Aqui.
+1090700 1091700 (05) Ela.
+1091700 1092700 (05) Tira.
+1092700 1093700 (05) A.
+1093700 1094700 (05) Camiseta.
+1094700 1095700 (05) Molhada.
+1095700 1096700 (05) Ela.
+1096700 1097700 (05) Se.
+1097700 1098700 (05) Enxuga.
+1098700 1099700 (05) Com.
+1099700 1100700 (05) A.
+1100700 1101700 (05, 03, 07) Parte.
+1101700 1102700 (05, 03) Seca.
+1102700 1103700 (05) Da.
+1103700 1104700 (05, 07) Própria.
+1104700 1105700 (07) Camiseta.
+1105700 1106700 (07) E.
+1106700 1107700 (07) Ela.
+1107700 1108700 (07) Veste.
+1108700 1109700 (07) A.
+1109700 1110700 (07) Camiseta.
+1110700 1111700 (07) Que.
+1111700 1112700 (12, 07) Estendeu.
+1112700 1113700 (12) Pra.
+1113700 1114700 (12) Conte.
+1114700 1115700 (12) Afogando.
+1115700 1116700 (12, 07) Quem são aquelas.
+1116700 1117700 (07) Golias.
+1117700 1118700 (07) Elas.
+1118700 1119700 (07) São.
+1119700 1120700 (07) Da.
+1120700 1121700 (07) Minha.
+1121700 1122700 (07) Sala.
+1122700 1123700 (07) A.
+1123700 1124700 (07) Gente.
+1124700 1125700 (07) Nunca.
+1125700 1126700 (07) Conversou.
+1126700 1127700 (07) Mas.
+1127700 1128700 (07) A.
+1128700 1129700 (07) Patrícia.
+1129700 1130700 (10, 07) Que.
+1130700 1131700 (10) Estava.
+1131700 1132700 (10, 07) Me.
+1132700 1133700 (07) Segurando.
+1133700 1134700 (07) Tava.
+1134700 1135700 (07) Falando.
+1135700 1136700 (07) Que.
+1136700 1137700 (07) Ia.
+1137700 1138700 (07) Ficar.
+1138700 1139700 (07) Com.
+1139700 1140700 (10, 07) Diane.
+1140700 1141700 (10) Se.
+1141700 1142700 (10) Ele.
+1142700 1145160 (10, 13) Eu entro num box ali
+1145160 1146080 (13) Que emoção
+1146080 1148640 (13) Aproveito
+1148640 1150480 (13) E entro num box ali
+1150480 1152380 (13) E penso, meu Deus, que loucura
+1152380 1154820 (13) Esse pessoal da cidade
+1154820 1157160 (13) É muito avançado
+1157160 1159280 (12, 05, 13) Ela parece ter a nossa idade, né, Guaxa?
+1159320 1159960 (05) Ela tem 15
+1159960 1162580 (12, 05) Ela tem aparência de 15, tá bom
+1162580 1164260 (10, 12) Raíssa, mas é tipo assim
+1164260 1166180 (10) Vocês já ficaram?
+1166620 1168580 (10) Ou é aquelas coisas assim de gente rica
+1168580 1171240 (10) Que vocês são prometidos
+1171240 1173040 (10) Pra se casarem desde criança
+1173040 1174440 (10) Conta aí pra gente essa história
+1174440 1176500 (10) E entra um gato no banheiro
+1176500 1177900 (10, 05) Isso, ele passa ali
+1177900 1180880 (05) Ela faz um carinho na cabeça do gatinho
+1180880 1183680 (05, 07) Esse colégio tá infestado com esses bichos
+1183680 1185460 (07) Eu acho que eu falei demais
+1185460 1187140 (07) Mas resumidamente
+1187140 1189060 (07) Eu voltei no tempo
+1189060 1191420 (07) A minha consciência voltou, no caso
+1191420 1193820 (07) Aos 21 a gente teve nossa filha
+1193820 1195020 (07) Mas eu tô com 15
+1195020 1196860 (07) Eu imagino, né?
+1197480 1199800 (07) Ah, mas eu tô acasada, obrigada gente, eu preciso ir
+1199800 1201220 (10, 07) Você tá competindo?
+1201240 1201700 (10) Eu tô competindo no quê?
+1202560 1203080 (10) Xadrez
+1203080 1204580 (10) A gente vai te ver
+1204580 1209280 (10, 05) Ficou a camiseta molhada
+1209280 1211300 (05) Da menina ali em cima da pia
+1211300 1212840 (05) E ela levou uma camiseta
+1212840 1214520 (12, 05) Da quinoa
+1214520 1217000 (10, 12, 05) E largou vocês ali com essa loucura
+1217000 1218400 (12, 05) E a camiseta dela é do uniforme
+1218400 1219560 (05) É do uniforme dessa escola
+1219560 1221460 (12, 05) Eu acho que essa menina
+1221460 1224380 (12) Ela foi vítima de uma
+1224380 1227040 (12) Dessa violência aqui dessas outras meninas
+1227040 1229180 (12) E isso deve ter afetado um pouco ela
+1229180 1230340 (12) O que vocês acham?
+1231240 1232700 (12) Eu vou perguntar pra ela os números da loteria
+1232700 1233620 (12) Vai aqui
+1233620 1236800 (12) Eu quero saber se eu vou ganhar o campeonato de boche
+1236800 1239120 (10, 12) Ah, mas isso você com certeza vai, né amiga?
+1239360 1239880 (10) Obrigada
+1239880 1241900 (10) Ela largou a camiseta dela aqui
+1241900 1243560 (10) Com água de privada
+1243560 1247300 (10) Eu vou dar uma enxaguada na pia do banheiro mesmo
+1247300 1250200 (10) Só pra tirar a ideia de que tava na água de privada
+1250200 1251080 (10, 05) Assim, água de privada
+1251080 1253780 (05) Provavelmente alguém deu ela de carga antes
+1253780 1255420 (10, 05) Sim, sim, não que esteja suja
+1255420 1257200 (10, 05) Mas é água de privada, né?
+1257200 1258100 (10) De qualquer jeito, né?
+1258240 1260560 (05) É início do dia, essa água ainda tava mais tranquila
+1260560 1263060 (10) Mas assim, lá na
+1263060 1265460 (10) Lá na Beta, que é o nome do nosso colégio
+1265460 1267900 (10, 09) A gente nunca vê esse negócio assim, não
+1267900 1269040 (09) Ah, eu voltei
+1269040 1270460 (09) Só vi naqueles filmes, sei lá
+1270460 1273900 (12, 09) De repente 30, de repente 13
+1273900 1274460 (12, 09) Né?
+1274680 1277500 (12) Gente, é só uma adolescente apaixonada
+1277500 1279960 (12) Vocês nunca se apaixonaram por alguém e acharam que iam casar
+1279960 1281560 (12) Eu lembro de ti ano passado
+1281560 1282420 (12) E eu olho
+1282420 1284260 (12) De quem? Tem duas
+1284260 1285460 (12) Olha pra quinoa, porque aí
+1285460 1287600 (12) Eu tô olhando pra quinoa
+1287600 1290440 (10, 12) A quinoa fica vermelha
+1290560 1294660 (10) Quem está falando?
+1294880 1295940 (10) Aquai, pra panda?
+1296500 1298040 (10, 03) Não, o panda, não sei se eu posso
+1298040 1300860 (10, 03) Eu sou extremamente apaixonada, meu Deus
+1300860 1303120 (10, 03, 11) Escuta, gente, a gente tá atrasada
+1303120 1305240 (10) Será que a gente pode levar essa conversa
+1305240 1306620 (10) Assim, rapidinho pro dormitório
+1306620 1309080 (12, 10) E aí depois a gente tem que ver a Samira lá no xadrez
+1309080 1310800 (10) E encontrar a Raíssa também, porque agora
+1310800 1311940 (10) Eu quero conversar mais com ela
+1311940 1314900 (12, 10) E eu quero saber também quem é essa tal de Patrícia aí
+1314900 1316620 (12) Que gosta de afogar os outros
+1316620 1318620 (10, 12) Não, eu não posso esquecer esse nome
+1318620 1320480 (10) A gente precisa conversar com a coordenadora
+1320480 1322620 (10) Diretor, algum responsável dessa escola aqui
+1322620 1324400 (12, 10) Qualquer coisa, enfim
+1324400 1326400 (12) Ela que se meta com a gente
+1326400 1328340 (08, 12, 10, 09) Com a Pan aqui do nosso lado
+1328340 1329180 (10) Ninguém vai se meter
+1329180 1331860 (10) Não tem noção do que ela é maior, né
+1331860 1334120 (10) Mas assim, não tem coragem de ficar
+1334120 1336020 (10) É, comigo ninguém se mete
+1336020 1338000 (10) Deixa eu pegar de volta aqui, Pan
+1338000 1339620 (10, 03) Com você as mochilas, vamos embora
+1339620 1341740 (10, 00, 03) Tá tranquilo, tá encaixadinho aqui nas minhas costas
+1341740 1343700 (10) E eu vou levar esse gatinho aqui no colo também
+1343700 1345580 (10) Porque ele é muito fofo, ele é bonzinho, olha só
+1345580 1348220 (10) Eu catei o gatinho preto no colo
+1348220 1349620 (10) E tô levando nos braços
+1350480 1353060 (05) Ah, logo à frente vocês encontram
+1353060 1354960 (05) A sala de aula de vocês
+1354960 1357100 (05) Vocês usam a chave, né
+1357100 1359040 (05) E é uma sala de aula
+1359040 1360540 (05) Tem mesas e cadeiras
+1360540 1363700 (05) Foram afastadas pro canto pra abrir um espaço ali
+1363700 1365540 (05) Foram colocados colchonetes
+1365540 1367140 (05) Ali pelo chão, aqueles bem fininhos
+1367140 1368620 (05) Eles provavelmente trouxeram
+1368620 1371180 (05) Cobertor e alguma coisa até pra botar por cima
+1371180 1372460 (05) Desses colchonetes ali
+1372460 1374580 (05) Vocês colocam as mochilas, imagina
+1374580 1376780 (05) Trancam a sala e vão lá pro xadrez, é isso?
+1376780 1379180 (05, 09) Uma pergunta, a nossa competição é hoje também?
+1379540 1380280 (05) É, a coordenadora ia verificar
+1380280 1382280 (05) Verificar isso e vocês iam ver isso com ela agora
+1382280 1384280 (05, 09) Não, porque dependendo a gente tem que levar
+1384280 1386420 (09) Nossa roupa, ou vai vir trocar aqui
+1386420 1388060 (09) Trocar, botar o kimono
+1388060 1389420 (05, 09) Botar as roupas
+1389420 1391580 (05) Tu acha que era bom levar o kimono?
+1391820 1394180 (10, 09) Pois é, por exemplo, aí a panda vai levar
+1394180 1395620 (10) O maiô dela de fazer
+1395620 1398080 (08, 10, 05, 03) Isso, a panda ela tem uma mochilinha menor
+1398080 1400340 (08, 10) Que ela carrega carteira
+1400340 1401440 (10) Com dinheiro, celular
+1401440 1404820 (10, 05) E cabe a roupa de competição dela
+1404820 1405920 (10, 05) É, é porque vocês vieram passar
+1405920 1407180 (05) Três dias, né?
+1407180 1409060 (10, 05, 09) Pronto, vou levar um ecobag
+1409060 1409940 (09) Um ecobag
+1410280 1413360 (10, 09) Pronto, eu pego a minha roupa da competição e boto no ecobag
+1413360 1414940 (09) A parte de cima, né?
+1414940 1415760 (09) Pra não ficar com calor
+1415760 1417760 (09) Tô só com a parte de baixo do kimono
+1417760 1421260 (09) A blusa e a parte de cima do kimono
+1421260 1422180 (09) Tá dentro do ecobag
+1422180 1424200 (12, 09) Eu quero levar numa mochila
+1424200 1427020 (12) As minhas bolas de bocha
+1427020 1429400 (12) Da sorte que eu ganhei do meu avô
+1429400 1430480 (12, 09, 03) É pesado
+1430480 1432500 (12, 03) Mas eu não deixarei de carregar
+1432500 1434980 (12) Quer ajudada?
+1434980 1436160 (12) Eu posso levar pra você
+1436160 1438540 (12) Não, não, a hora que eu cansar
+1438540 1439980 (10, 12) Eu peço ajuda
+1440280 1441100 (10) Obrigada
+1441100 1443260 (10) Eu ainda acho que eles não vão deixar você usar
+1443260 1446020 (10) As suas bolas na competição
+1446020 1448060 (12, 10) É herança do meu avô
+1448060 1450220 (12) Ele jogava com elas e ganhava muito
+1450220 1452680 (12) Eu tô feliz que essas bolas vão me dar sorte
+1452680 1454800 (12) Pelo menos se elas estiverem pertinho de mim
+1454800 1456520 (10, 12) É como se ele estivesse junto também, sabe?
+1456680 1458780 (10) É, por isso que eu não fui tão contra você trazer
+1458780 1461520 (10) Você pode deixar elas ali do lado
+1461520 1462620 (10) Da arena
+1462620 1463760 (10) Do campo
+1463760 1465540 (10, 05) Da cancha
+1465540 1466620 (10, 05) Mas eu não sei
+1466620 1467820 (10) E o gatinho também
+1467820 1470200 (10) É, a gente não pode deixar o gatinho
+1470200 1470760 (10) Que não, né?
+1470780 1471480 (10) Vamos levar ele
+1471480 1472180 (10) Ah, ele vai comigo
+1472180 1473080 (10) Ah, ele é fofo
+1473080 1474300 (10) Vai ficar na mochila também
+1474300 1475560 (10) Aí é sacanagem, né?
+1475780 1476840 (10) Ele vai no colo, ele tá bem
+1476840 1477900 (10) Você já batizou ele?
+1478220 1478820 (10) Ainda não
+1478820 1480280 (10) Aceito sugestões
+1480280 1482220 (12, 10) Vamos andando e vamos pensando, né?
+1482220 1484300 (10, 12) Você podia chamar ele de polar
+1484300 1486260 (12) Apesar de ele ser um gato preto
+1486260 1486580 (12) Ok
+1486580 1487340 (12, 10) Ok
+1487340 1489900 (12, 10) E vamos lá porque a gente tá atrasada
+1489900 1491940 (10) E eu começo a correr na frente delas
+1491940 1494660 (10, 09) A gente fechou a porta
+1494660 1496000 (10, 09) Guardei a chave
+1496000 1496700 (10, 05) Vamos embora
+1496700 1497960 (05) A volta é mais simples
+1497960 1500180 (05) Vocês vão seguindo pelo barulho ali?
+1500200 1501180 (05) Pelo movimento
+1501180 1504200 (05) Vocês já identificam a construção
+1504720 1506680 (05) Que a Samira
+1506680 1508580 (05) E a coronadora de vocês
+1508580 1508940 (05) Foi
+1508940 1511260 (05) E antes de chegar nesta construção
+1511260 1513860 (05) Já tá a Samira assim, cabeça baixa
+1513860 1514740 (05) Meio tristonha
+1514740 1517040 (05) E a coronadora do lado dela com uma prancheta
+1517040 1517940 (05) Ela olha pra vocês
+1517940 1519720 (08, 05) Ah, que bom, chegaram
+1519720 1521660 (08) Deixa eu ver aqui a competição de vocês
+1521660 1524860 (08, 05) E ela tá folheando ali as folhas
+1524860 1526980 (10, 05) Eu pego a mão da Samira
+1526980 1527980 (10) O que foi, Samira?
+1528040 1528640 (10) Você tá triste?
+1528640 1529640 (10) Eu queria jogar xadrez
+1530200 1531960 (10) E você não conseguiu?
+1532240 1533920 (08, 10) Minha oponente não apareceu
+1533920 1535060 (08, 10, 09) Quem era sua oponente?
+1535280 1536720 (10, 09) Era daqui do colégio
+1536720 1539600 (08, 10, 09) Eu já começo a olhar pros lados procurando cabelo roxo e verde
+1539600 1541460 (10, 09) Foi isso, era o nome dela
+1541460 1543700 (09) Mas você ganhou pro W.O. então?
+1543940 1546020 (09) Foi, mas queria ter jogado
+1546020 1547400 (09) Não, mas não tem outros não?
+1547540 1548460 (09) Só é uma partida?
+1548580 1551500 (09) Eu continuo na competição
+1551500 1553820 (09) Então vai dar tudo certo, você vai jogar na próxima
+1553820 1555020 (09) Foi um acidente
+1555020 1557920 (05, 09) Ela olha assim, meio preocupada pra ti
+1557920 1559680 (05) Mas antes de qualquer coisa, cada um rola
+1559680 1561080 (05) Um dado de quatro lados
+1561080 1561540 (05) Olha
+1561540 1565280 (00, 05, 09, 03) Se a gente estivesse jogando só com dados de seis lados
+1565280 1566020 (05) Você é ouvinte
+1566020 1569020 (05) A gente ignoraria o cinco e o seis e rolaria de novo
+1569020 1571160 (05) Mas aqui temos essa oportunidade
+1571160 1573600 (05) Então todas vão fazer isto
+1573600 1575900 (05) A Ada tirou dois
+1575900 1578440 (05) A Kinoa e a Iva tiraram quatro
+1578440 1580000 (05) Um era próximo do almoço
+1580000 1581560 (05) Dois início da tarde
+1581560 1583020 (05) Três final do dia
+1583020 1585080 (05) E quatro só no dia seguinte
+1585080 1586640 (05) Começaria as competições dela
+1586640 1588760 (05) Então no caso temos um compromisso
+1588760 1589640 (05) Depois do almoço
+1589640 1591380 (05) Pra Ada, a coordenadora fala pra vocês
+1591380 1593400 (08, 05) Ada, a sua partida é uma e meia
+1593400 1596040 (08) Almoça um pouco mais cedo e fica preparada
+1596040 1598540 (08, 11) Kinoa e Iva, amanhã vocês jogam pela manhã
+1598540 1599360 (11) Tudo certo?
+1599720 1600060 (11) Tá bom
+1600060 1602860 (11) E os meninos, dona Joyce?
+1603300 1604800 (11) Os meninos de futebol estão jogando
+1604800 1607500 (11) Os do judô masculino já tiveram algumas lutas também
+1607500 1609160 (11) E tem algumas lutas à tarde
+1609160 1609860 (11) Obrigada
+1609860 1610460 (11) De nada
+1610460 1613040 (08, 05, 11) A coordenadora pega a Samira e fala
+1613040 1614980 (08, 05) Vamos lá, vamos ver a próxima partida sua
+1614980 1616440 (08, 05) E deixa vocês ali
+1616440 1618560 (05) Vocês tem o resto da manhã livre ali
+1618560 1619800 (05) Vocês vão fazer o que?
+1619960 1620840 (08, 05) Vocês tem alguma ideia?
+1621020 1623420 (10) Senão eu vou lá parceiro pros meninos no futebol
+1623420 1625140 (12, 10) Eu queria ver
+1625140 1628820 (12) Qual é o próximo jogo
+1628820 1631280 (12) Se a Raíssa ainda tem chance de jogar
+1631280 1633780 (12) Ou se não, ela perdeu e já tá fora
+1633780 1634820 (12, 09) Normalmente
+1634820 1636940 (09) A não ser que tenha uma repescagem
+1636940 1638840 (09) Normalmente perde, né?
+1639080 1641740 (05) É, como é uma competição
+1641740 1643860 (05) De muitas escolas
+1643860 1646320 (05) Não dá pra se fazer muitas partidas
+1646320 1647320 (05) Perdeu, tá fora
+1647320 1648160 (05) Joga-se
+1648160 1649560 (05) Duas partidas, né?
+1649740 1650680 (05) Melhor de três, né?
+1650680 1651760 (05) Uma partida melhor de três
+1651760 1653240 (05) Mas perdeu, tá fora
+1653240 1655280 (12, 10, 05) A Raíssa já tá fora, então
+1655280 1657780 (10) Eu disse que eu tava procurando ela
+1657780 1659740 (10, 05) Quando a coordenadora falou que...
+1659740 1660820 (05) É, ela não tá por ali
+1660820 1663260 (10, 05) Gente, vocês querem torcer pros meninos no futebol?
+1663520 1664220 (10) Vamos, vamos
+1664220 1664680 (10) A gente tem que...
+1664680 1666620 (10) Colégio pequeno tem que torcer um pro outro, né?
+1666620 1668320 (12, 10) E quando tiver perto da hora da ADAC
+1668320 1669860 (10) Pra preparar, a gente vai
+1669860 1671300 (10) E a gente pega um lanche no caminho
+1671300 1672300 (10) Porque estamos correndo de fora
+1672300 1677620 (12, 10) O Jean, que é a doidinha lá do banheiro, falou...
+1678160 1679680 (12) Ele jogava futebol, não era?
+1680080 1680740 (12) Ela falou isso
+1680740 1681660 (12) Então, ó
+1681660 1683760 (12) A gente já tem chance de ver se ela tá por lá
+1683760 1684940 (10, 12) Ou conhecer se tá por lá
+1684940 1684960 (10, 12) Isso, né?
+1684960 1686200 (10, 12) Foi futebol de salão
+1686200 1688140 (10, 12) Eu ia só pra torcer pros meninos
+1688140 1690280 (10) Mas agora você deu mais um objetivo pra gente
+1690280 1692820 (10) Por isso que eu gosto de ser amiga de alguém tão inteligente
+1692820 1694120 (10, 09) Vocês são geniais
+1694120 1695920 (09) Curiosidade, curiosidade
+1695920 1696980 (09) Vão, fofoca, fofoca
+1696980 1697620 (09) Bora lá, bora lá
+1697620 1699740 (10, 09) Aí eu pego as duas assim, um de cada lado
+1699740 1701820 (10) E aí a gente vai de bracinhos dados
+1701820 1704660 (10) O polar ficou esquecido no momento
+1704660 1707200 (05) Vocês pegam alguma coisa pra comer por ali?
+1707560 1707880 (05) Vão...
+1707880 1710560 (05) Tem barraquinhas vendendo comida, né?
+1710600 1714480 (05) Mas tem muitas pais e mães da região ali
+1714480 1715800 (05) Estão fazendo cachorro-quente
+1715800 1716800 (05) Fazendo algumas comidas
+1716800 1720220 (05) Pra distribuir mesmo pros alunos, né?
+1720440 1721420 (05) De forma comunitária
+1721420 1723380 (05) Então vocês pegam alguma coisa pra comer
+1723380 1724300 (05) Vão até lá
+1724300 1725760 (05) O ginásio, né?
+1726220 1728520 (05) O ginásio ali tem o ginásio coberto
+1728520 1730480 (05) Ele é bem comprido, assim
+1730480 1731280 (05) Ele cabe lá dentro
+1731280 1733000 (05) Três espaços
+1733000 1735980 (05) Dois deles tá acontecendo competição
+1735980 1737520 (05) Um deles tá acontecendo
+1737880 1739160 (05) Vôlei
+1739160 1740460 (05) No outro, futebol de salão
+1740460 1742080 (05) E no terceiro é o espaço
+1742080 1744100 (05) Da ginástica, né?
+1744760 1746380 (05) Do lado de fora tem outras quadras
+1746380 1747560 (05) Que não são cobertas, né?
+1747620 1749160 (05) Várias e várias quadras ali
+1749160 1751540 (05) Onde outras coisas estão acontecendo
+1751540 1754260 (05) O xadrez, como não precisa de tanto
+1754260 1755580 (05) Espaço específico
+1755580 1757600 (05) Tem algumas salas de aula
+1757600 1760020 (05) Que foram adaptadas ali pro pessoal jogando
+1760020 1762880 (05) Vocês chegam lá até a arquibancada
+1762880 1764040 (05) Sentam, veem o jogo
+1764040 1766180 (05) O time de futebol masculino da escola de vocês
+1766180 1767180 (05) É um time forte
+1767880 1770300 (05) Um dos candidatos a vencerem ali
+1770300 1772500 (05) Eles vencem a partida deles
+1772500 1773760 (05) Quando acaba tudo
+1773760 1775020 (05) Se já comeram alguma coisa
+1775020 1776520 (05) Tá perto da uma hora
+1776520 1780700 (05) O jogo da ADA é uma e meia
+1780700 1782460 (05, 09) Mas só uma pergunta
+1782460 1784840 (10, 09) O jogo de futebol dos meninos
+1784840 1785560 (10) Da nossa escola
+1785560 1787840 (10) Foi contra a escola da Malu?
+1787940 1790080 (10, 05) Não, foi contra um outro colégio
+1790080 1791780 (10) A gente não deve ter visto a raiz
+1791780 1793980 (10) É, esse tempo todo a gente procurando
+1793980 1796640 (10) Cabelos coloridos em todos os lugares
+1796640 1797360 (10, 05) Perfeito
+1797880 1799200 (05) Tá no teu horário, ADA
+1799200 1802140 (12, 10, 05) Tô ficando nervosa
+1802140 1803060 (12) Vai dar tudo certo
+1803060 1804700 (10, 12) Lógico que vai, com a nossa torcida
+1804700 1805800 (10) Eu vou fazer a massagem aqui
+1805800 1808040 (10) Aí eu pego assim no ombro dela e começo
+1808040 1810460 (10, 09) Tudo bem, relaxa, relaxa
+1810460 1811060 (09) Obrigada
+1811060 1813480 (12, 09) Eu preciso me concentrar
+1813480 1816120 (12) Hoje eu vou ser a mais próxima daquele bolinho
+1816120 1816820 (12) Bolinho?
+1817200 1819000 (12) Você nunca presta atenção nesse jogo, né?
+1819180 1820140 (12) Eu explico pra você
+1820140 1822300 (12) Essa é a cancha
+1822300 1823840 (12) Esse aqui é o bolinho
+1823840 1825880 (12) E eu tenho com as minhas bochas
+1825880 1827000 (12) As minhas bolas
+1827000 1827800 (12) Tentar assim
+1827880 1829060 (12) Acertar o bolinho
+1829060 1831160 (12) Ou aliás, tentar ficar o mais próximo possível
+1831160 1832940 (12) Eu já te contei isso
+1832940 1834520 (10, 12) Eu sei, mas é que
+1834520 1836680 (10) Tão devagar esse jogo
+1836680 1838860 (10) Não é pior que o do xadrez
+1838860 1842440 (12, 10, 03) Ele é cheio de emoção
+1842440 1844560 (12, 03) Mas vocês vão ver isso agora
+1844560 1846540 (12) Eu começo a suar assim
+1846540 1848620 (12) A ADA tá nervosa
+1848620 1850240 (10, 12) E a gente vai de coach
+1850240 1851780 (10) Uma com uma toalhinha
+1851780 1854360 (10) Secando o pescoço
+1854360 1856960 (10) A Kim tá fazendo massagem nos ombros
+1856960 1857640 (10) A nossa
+1857880 1859480 (10) A nossa torcida
+1859480 1861500 (10, 05) Não tem como você ir mal
+1861500 1862660 (10, 05) Pra ficar padronizado
+1862660 1864940 (05) Não deixam ela usar as próprias
+1864940 1867040 (12, 10, 05) Bolas
+1867040 1869180 (08, 12, 05) Avisei
+1869180 1869860 (12) Tudo bem
+1869860 1872120 (12) O vovô vai tá orgulhoso
+1872120 1873660 (12) Eu pego a minha mochila
+1873660 1876860 (12) Panda, cuida das minhas bolas aqui, por favor
+1876860 1877560 (12) Tá bom
+1877560 1879340 (12, 05) O primeiro competidor que tu vai enfrentar
+1879340 1883020 (05) Ele começa a partida
+1883020 1884740 (05) Ou ela não é muito boa
+1884740 1886160 (05) Ou ela tá bem segura
+1886160 1887840 (05) Ela faz algumas jogadas bem ruins
+1887880 1889320 (05) E é a tua vez, dois dados
+1889320 1892220 (05) Eu tirei cinco e três
+1892220 1894380 (05) A ideia não é acertar uma bola na outra
+1894380 1895720 (05) A menos que tu queira tirar uma bola
+1895720 1897740 (05) Do fronteiro já perto da principal
+1897740 1900480 (05) Mas é mais questão de posicionar
+1900480 1901520 (05) E de estratégia
+1901520 1903160 (05) Eu tinha rolado ali pra mim
+1903160 1904080 (05) Que seria uma dificuldade
+1904080 1905940 (05) Entre um e três seria uma dificuldade
+1905940 1908900 (05) Um, então dois acertos é mais que o suficiente
+1908900 1911940 (05) Tu rapidamente domina a partida
+1911940 1913360 (05) E sai vitoriosa
+1913360 1915480 (05) Avança pra semifinal
+1915480 1922760 (12, 05, 09) Eu abraço as minhas amigas
+1922760 1924100 (12, 09) Eu ganhei, eu ganhei
+1924100 1925780 (10, 12, 09) Eu sabia que eu consegui
+1925780 1927460 (10, 09, 03) Claro que você ganhou
+1927460 1929120 (10) Tá pulando assim as três
+1929120 1933040 (12, 10) Nossa, eu tô até mais aliviada
+1933040 1934860 (12) Obrigada meninas, obrigada mesmo
+1934860 1937280 (12) Tava precisando de vocês aqui
+1937280 1939540 (10) Você sabe que a nossa torcida foi importante
+1939540 1941400 (10) Mas você que fez tudo lá, né
+1941400 1942820 (10) Das pessoas que eu conheço
+1942820 1945060 (10) Você é a que é melhor nesse jogo
+1945060 1949100 (03) Você é a única pessoa
+1949100 1953260 (05, 03) É a única pessoa
+1953260 1954460 (05, 03) Menos de 60 anos
+1954460 1956080 (10, 05, 03) Que usa aquela quadra na nossa escola
+1956080 1958940 (10, 05) Tinha certeza que você ia ganhar
+1958940 1960260 (10) Fala a verdade, Ada
+1960260 1962640 (10) Isso é bolinha de gude pra adulto
+1962640 1963560 (10) Não fala assim
+1963560 1965820 (12, 10) A gente é um esporte sério
+1965820 1969240 (12) E a gente ajuda na inclusão de pessoas
+1969240 1972460 (12) E também na reunião de famílias
+1972460 1973860 (12, 09) Era o que o vovô falava
+1973860 1975040 (09) Sempre que ele ia pra escola
+1975060 1975980 (09) Ele ia pro bairro e jogava boche
+1975980 1978100 (09) Ah, ô panda, não fala assim não
+1978100 1980280 (09) Se você fosse jogar com a Ada
+1980280 1981060 (09) Você ia perder
+1981060 1983540 (09) Então assim, vamos deixar a especialista
+1983540 1985540 (09) Assumir o controle aqui
+1985540 1988060 (03, 05, 09, 02) Onde a gente faz o campeonato?
+1989700 1992180 (05) Como é que é o nome do outro lutador de judô
+1992180 1993140 (05) Da escola de vocês?
+1993380 1995640 (09) Ah sim, né, tem o Matias
+1995640 1998320 (05, 09) O Matias, ele encontra vocês ali
+1998320 2000240 (05) Ele tá bem descabelado
+2000240 2001180 (05) Meio suado
+2001180 2002340 (05) Ele olha pra aqui, não
+2002340 2003860 (05) E aí, vamos lutar agora?
+2004060 2005020 (09) Não, só amanhã
+2005060 2005700 (09) Rapaz, e você?
+2006140 2007360 (04) Perdi, tô fora
+2007360 2008800 (10, 04, 05) Ai, Matias
+2008800 2010780 (10) Ah, a gente perdeu a sua luta
+2010780 2014200 (10, 04) Bem, vocês perderam 15 segundos de diversão
+2014200 2015940 (10, 04) Ah, desculpa, Matias
+2015940 2017280 (10) Se a gente estivesse lá torcendo
+2017280 2018720 (10) Você ia ganhar, tenho certeza
+2018720 2020680 (10) Eu vou lá, dou um tapinha nas costas dele
+2020680 2021740 (10) Arrumo um kimono assim
+2021740 2022840 (10) Fica assim não, cara
+2022840 2024880 (10) Eu também não sei como é que vai ser amanhã, né
+2024880 2026480 (10, 09) Só que amanhã a gente...
+2026480 2029300 (10, 09) Ai, eu dou um tapinha nas costas dele de novo
+2029300 2030800 (09) Vai ficar tudo bem
+2030800 2034180 (09) A gente tá aqui pra se divertir
+2034180 2034920 (09) É, verdade
+2035060 2036860 (09) Eu nunca vim pra cidade grande dessa
+2036860 2038640 (09) Então, assim, já tô me divertindo
+2038640 2040920 (09) Uhul, aí tem que ter sido um pouquinho mais animado
+2040920 2041900 (09, 07) Eu já tô fora
+2041900 2043220 (07) A Samira tá fora
+2043220 2045000 (10, 07) Então, contamos com vocês, hein
+2045000 2046320 (10, 07) Oi? Como assim a Samira tá fora?
+2046580 2048560 (10, 07) Ela tava chorando lá com a coordenadora
+2048560 2049880 (10, 07) Ah, é que...
+2049880 2050640 (10) Ela não jogou
+2050640 2052040 (10) Ela ganhou por W.O.
+2052100 2053220 (10, 07) Mas eu vi elas lá agora
+2053220 2055000 (10, 07) Será que já teve a segunda partida dela?
+2055080 2056120 (09) E olha o prazer das duas
+2056120 2058140 (12, 09) Ai, capaz que sim
+2058140 2059760 (12, 09) Vamos lá dar um apoio moral
+2059760 2061640 (09, 07) Matias, onde é que ela tá?
+2061780 2064020 (07) A coordenadora tava pra ali com ela
+2064020 2065040 (07) Perto do Lucas, né?
+2065060 2065440 (09, 07) Chocante
+2065440 2066140 (09, 07) Vamos lá, então
+2066140 2067280 (09) E aí as meninas vão andando
+2067280 2069220 (09) E eu fico pra trás, assim, com o Matias e falo
+2069220 2072360 (09) Bem, Matias, pelo menos agora você pode ficar de olho na menina aí, né?
+2072940 2073340 (09) Aproveita
+2073340 2074420 (09) Faz amizade
+2074420 2075760 (09) Já que não dá pra jogar mais
+2075760 2077780 (09) E vai assistir na minha partida, viu?
+2078780 2079680 (07) Vou sim, vou sim
+2079680 2082700 (05, 09, 07) Isso se eu não me der bem antes aqui, né?
+2082740 2083180 (05, 09) Sim
+2083180 2085500 (09) Aí dou uma cotovelada assim
+2085500 2086800 (05, 09) Dá uma risadinha
+2086800 2087100 (05) E olha
+2087100 2088600 (05) Dá uma sorrisinha pras meninas e sai
+2088600 2090480 (05, 09) E fiquei preocupada com a Samira
+2090480 2092940 (12, 05, 09) Ela já tava triste porque ganhou por W.O.
+2092940 2095020 (09) Será que ela tá triste de novo porque ganhou por W.O.?
+2095060 2096280 (09) Será que ela perdeu?
+2096500 2099180 (12, 09) Não sei, mas se fosse eu
+2099180 2101860 (12) Eu ia querer que vocês fossem ver o que que tá acontecendo
+2101860 2102740 (10, 12) Vamos lá?
+2102980 2103840 (10) Vamos, vamos sim
+2103840 2108060 (12, 10) Você cuidado que amanhã cedo você vai lutar, né?
+2108420 2109820 (10, 12) É só amanhã
+2109820 2111220 (12) Eu preciso ter energia
+2111220 2112600 (12) Você não chama de luta, né?
+2112880 2114960 (12) Não, eu vou me apresentar
+2114960 2116660 (12) Apresentar, tá bom
+2116660 2118800 (12) Imagina com aquelas piruetas que você dá
+2118800 2121460 (12) Essas salsichas aí, vão começar a revirar
+2121460 2123060 (12) Imagina, ela solta um pulo
+2123060 2123600 (12) No meio da perna
+2123600 2124940 (12, 13) Imagina
+2125060 2127020 (13) Não, para
+2127020 2129080 (13) Até amanhã já vai ter digerido tudo
+2129080 2131440 (05, 13, 03) Ai, vocês são bobas
+2131440 2134600 (13, 03) Vai ser muito esquecível
+2134600 2135760 (13) Mas tá
+2135760 2138380 (05, 13) Vocês tão rindo ali, voltando em direção
+2138380 2140340 (05) A amiga de vocês
+2140340 2142640 (05) E vocês veem que ela tá vindo
+2142640 2143760 (05) Na direção de vocês
+2143760 2145800 (05) Ela vem apressada até
+2145800 2147760 (05) Ela tá cada vez mais apressada
+2147760 2150880 (05) Ela então começa a correr na direção
+2150880 2152160 (05) Da Ada dos Dados
+2152160 2155040 (12, 05) Tirei 3 e 2
+2155060 2156260 (12) Sendo 2 o meu atributo
+2156260 2158060 (12, 05) Um acerto crítico
+2158060 2159640 (05) Isso evita que tu vá ao chão
+2159640 2161320 (05) Porque a Samira
+2161320 2163920 (05) Empurra com tudo, assim, você
+2163920 2166380 (08, 05) Que merda vocês fizeram?
+2167640 2168820 (08, 03) Calma, menina
+2168820 2170780 (08, 03) O que foi, Samira?
+2171220 2173000 (08, 10) Eu ia vencer a partida
+2173000 2174600 (10) Por que vocês foram se meter?
+2174700 2175280 (10) Tá maluca?
+2175460 2176500 (10) Se meter com o que?
+2176820 2179240 (10) Vira-me um panente com a cabeça molhada
+2179240 2181660 (10) Saindo do banheiro com você saindo atrás
+2181660 2183660 (10) Não, Samira, você entendeu tudo errado
+2183660 2184860 (10) A diretora me falou
+2184860 2186500 (10) Que eu tô desclassificada
+2186500 2187260 (10) Cadê a diretora?
+2187340 2188300 (10) Tá com a coordenadora
+2188300 2190580 (10) Ela tá lá, querendo convencer ela
+2190580 2191540 (10) Eu não quero nem saber
+2191540 2194440 (10) Eu já saio andando pra onde a Samira apontou
+2194440 2195280 (10) Eu tô olhando pro lado
+2195280 2198440 (10, 09) O que tem uma menina sair do banheiro a ver com a gente lá, gente?
+2198520 2199820 (09) O que tem alguma coisa a ver com a outra?
+2200320 2202540 (09) Eu tô olhando perdida, assim, pra Ada e pra Samira
+2202540 2203740 (09) Porque aí já foi, né?
+2203980 2204960 (10) O que tem alguma coisa a ver com a outra?
+2205380 2208260 (10) Vocês agrediram a menina que ia jogar comigo
+2208260 2210380 (10) E ela não pôde vir jogar comigo
+2210380 2214240 (10) Foi outra menina que tava lá batendo nela
+2214240 2214840 (10) Ela tá de parada
+2214860 2216040 (10, 09) E a Patrícia aí não foi a Ada
+2216040 2218620 (12, 09) Foi a Patrícia e as amiguinhas dela, tá?
+2218920 2220660 (12) A gente... Chama a menina
+2220660 2222140 (12) Ela vai falar a verdade
+2222140 2224320 (12) E chama a Patrícia aqui, aquela sem vergonha
+2224320 2225980 (12, 05) Vamos clarecer tudo
+2225980 2227680 (05) Tá vocês três lá debatendo
+2227680 2230220 (05) A Iva chega até a coordenadora
+2230220 2231740 (05) A Joyce, na coordenadora de vocês
+2231740 2234420 (05) Elas param, olham pra ti, a tua coordenadora fala
+2234420 2235640 (10, 05) O que aconteceu?
+2235800 2238760 (10) Eu devia ter ido atrás de algum responsável antes
+2238760 2241200 (10) Mas a gente acabou indo torcer pros meninos lá
+2241200 2242780 (10) E eu acabei deixando pra depois
+2242780 2244680 (10) O que aconteceu, na verdade?
+2244860 2246280 (10) A gente estava indo ao banheiro
+2246280 2248340 (10) A gente ouviu o barulho lá dentro
+2248340 2249920 (10) E quando a gente entrou
+2249920 2254180 (10) A Raíssa, que seria a oponente da Samira no xadrez
+2254180 2256760 (10) Ela tava com a cabeça enfiada dentro da privada
+2256760 2259120 (10) E tinha três meninas em volta
+2259120 2261600 (10) Eu só sei o nome de uma delas, que é a Patrícia
+2261600 2263060 (10) Todas elas dessa escola
+2263060 2265680 (10) E elas estavam zoando a Raíssa
+2265680 2267360 (10) A gente ajudou a Raíssa
+2267360 2270220 (10) A gente não tava fazendo nada contra ela
+2270220 2271300 (10, 05) Dois dados
+2271300 2273600 (10, 05) Cinco e três
+2273600 2274700 (10, 06) Tá tudo bem
+2274860 2275860 (05) Um acerto simples
+2275860 2278120 (05) A diretora, ela acreditou
+2278120 2280440 (05) Mas ela tá meio relutante
+2280440 2282400 (06, 05) Vamos fazer o seguinte
+2282400 2284800 (06) Não vou desclassificar a amiga de vocês
+2284800 2285760 (06) Por enquanto
+2285760 2288300 (06) Eu quero conversar com a Raíssa e com a Patrícia
+2288300 2290160 (06) Vocês achem a Raíssa
+2290160 2291920 (06) E peçam pra ela vir falar comigo
+2291920 2294500 (06) Eu vou atrás da minha filha e falo com ela
+2294500 2296400 (10, 06) Eu arregalei o olho
+2296400 2297480 (10) Não tô nem lá
+2297480 2299180 (10) Mas antes dela sair eu falo
+2299180 2301700 (10) Então a senhora deve saber quem são as amigas dela também
+2301700 2303920 (10) Talvez a Patrícia não conte
+2303920 2304820 (10) Mas as amigas dela falam
+2304860 2307040 (10, 06) Eu vou ver tudo isso
+2307040 2309180 (06) Vou ligar pra mãe de algumas delas
+2309180 2310200 (06) Acha aquela
+2310200 2312400 (06) Pessoa diferente
+2312400 2313920 (06) Que é a Raíssa
+2313920 2315860 (06) E peça pra ela falar comigo
+2315860 2317480 (06) Nisso a gente chegou perto
+2317480 2319660 (06) Então a gente não fez nada não, viu
+2319660 2323000 (06) A gente até emprestou uma blusa pra menina lá
+2323000 2324740 (06) E a moça tá saindo
+2324740 2326100 (06) Mas é isso
+2326100 2327440 (06) Achando a Raíssa
+2327440 2329320 (06) Só mandar ela vir falar comigo
+2329320 2331460 (06) Samira vai poder fazer o jogo dela amanhã
+2331460 2333300 (06, 05) Obrigada, dona diretora
+2333300 2334420 (06, 05) Ela aperta a mão dada
+2334420 2335200 (05) A coordenadora de vocês
+2335200 2337600 (06, 05) Senhorita Joyce, desculpa mesmo
+2337600 2339500 (06) Mas eu recebi a denúncia
+2339500 2341900 (06) E outras pessoas viram ela saindo
+2341900 2343820 (06) Em direção da aluna de cabelo molhado
+2343820 2346180 (06) E eu não conhecia as suas estudantes
+2346180 2348980 (06) Mas agora, vendo elas na minha frente
+2348980 2351400 (06) Eu posso acreditar na história delas
+2351400 2353720 (06) Vou conversar com a minha filha
+2353720 2355140 (06) Com as amigas dela
+2355140 2356440 (06) E com a Raíssa
+2356440 2358260 (10, 06) Eu até estufo o peito assim de orgulho
+2358260 2359800 (10) Poxa, tem cara de anjinho, né
+2359800 2361160 (10, 05) A coordenadora olha pra vocês
+2361160 2363600 (10, 05) Vocês deveriam ter me contado
+2363600 2364400 (10) Eu sei, dona Joyce
+2364420 2366380 (10) Essa aqui foi tanta coisa que aconteceu
+2366380 2368860 (10) Eu tava pensando mais em procurar alguém
+2368860 2370400 (10) Dessa escola pra contar
+2370400 2374080 (08, 10) E acabei nem lembrando de falar pra você
+2374080 2374720 (08) Desculpa
+2374720 2375940 (08) Como alguma coisa?
+2376060 2378160 (08) Vão pro quarto e amanhã cedo me procurem aqui
+2378160 2379640 (08) De duas calas de vocês
+2379640 2382740 (08, 10) Aí eu olho pro relógio assim
+2382740 2383800 (10) Tá cedo ainda
+2383800 2385780 (10) A gente vai usar esse tempo pra
+2385780 2387680 (10) Talvez procurar essa Raíssa
+2387680 2388640 (10) Igual a diretora falou
+2388640 2390840 (08, 10) Não deixem anoitecer muito
+2390840 2392680 (08) A gente é responsável
+2392680 2394060 (08) Vocês viram o Matias?
+2394420 2394900 (08) Tava
+2394900 2398220 (08, 10) E eu tô olhando pros lados e procurando
+2398220 2399040 (10) Pra apontar
+2399040 2400340 (10) Ele ganhou ou perdeu?
+2400480 2402240 (09) Ele perdeu e a Ada ganhou
+2402240 2403480 (09) Aí eu levanto assim o braço da Ada
+2403480 2407380 (05, 09) Ela dá um sorriso pra Ada
+2407380 2409940 (05) Anota na planilha dela
+2409940 2412240 (11) Bom, temos que levar alguma coisa, né
+2412240 2413220 (11) Tento contigo
+2413220 2413920 (11) Pode deixar
+2413920 2416880 (11) Nós três vamos dar orgulho pra cima
+2416880 2418780 (11) Aí eu já abaço o braço e falo
+2418780 2422940 (05, 11) Ela dá um sorriso pra vocês
+2422940 2424260 (05) Dá um tapinha na cabeça
+2424260 2424720 (05) Cada um
+2424720 2426340 (05) E vai atrás do Matias
+2426340 2429080 (10, 05) Então tá, a gente precisa encontrar essa Raíssa
+2429080 2431100 (10) Por onde a gente começa
+2431100 2433760 (10) E eu tô dando uns passinhos assim
+2433760 2434820 (10) Muito sutis em direção
+2434820 2436800 (10) A barraquinha de cajouro quente
+2436800 2439480 (10) Aqui tem uma arquibancada, eu acho
+2439480 2440660 (10, 05) Onde vocês estão?
+2440860 2441740 (05) Não, ali não
+2441740 2445060 (10, 05, 09) Ia dar a sugestão de subir até lá alto pra olhar lá de cima
+2445060 2446040 (09) Mas como não tem
+2446040 2449040 (05, 09) Ali tem barraquinhas, tem o pessoal distribuindo comida
+2449040 2451060 (05, 09) Tem mesas e cadeiras
+2451060 2452860 (05, 09) Tem algum do nosso
+2452860 2454180 (09) Não, mas acho que os nossos amigos
+2454260 2456360 (09) De futebol não iam conhecer o gênero, não
+2456360 2459460 (12, 09) Será que não tem uma lanchonete da escola?
+2459740 2460740 (05) O prefeitório tem
+2460740 2461700 (12, 05) Vocês passaram por um
+2461700 2463720 (12, 05) Porque o que eu pensei foi
+2463720 2466300 (12) Se tem alguém que sabe das fofocas
+2466300 2468100 (12) É quem trabalha na cantina
+2468100 2470300 (12) Pode conhecer algum drama adolescente
+2470300 2471640 (12) A escola que você estudou
+2471640 2474820 (12, 09, 03) Eu tô imaginando uma cantina
+2474820 2476940 (09) Que a pessoa compra, enfim
+2476940 2479060 (09) A cantina é onde o pessoal pega o lanche
+2479060 2479820 (09) Então ela tá dizendo assim
+2479820 2482080 (12, 09) Que o pessoal da cantina deve conhecer todo mundo
+2482080 2483420 (12, 09) É, e você vende as coisas
+2483420 2484240 (12, 09) Eles sabem alguma coisa?
+2484260 2485780 (12) Tipo, ah, fulano é o popular
+2485780 2487420 (12) Fulano é sempre apanha
+2487420 2490620 (12) Essas coisas são comuns
+2490620 2491940 (12, 05) Tá bom, nada, dois dados
+2491940 2493000 (05) Você tributou mais?
+2494360 2495240 (12) Quatro e dois
+2495240 2496980 (12, 05) Um acerto simples, um acerto crítico
+2496980 2499640 (05) Vocês gastam algum dinheiro na cantina, né?
+2500100 2502440 (05) Uma das pessoas que tá cuidando lá é a dona Rosa
+2502440 2504080 (05) Uma senhora assim, já de idade
+2504080 2505480 (05) Já avózinha
+2505480 2507720 (05) Com um pano rosa na cabeça
+2507720 2509000 (05) Com alguns bordados
+2509000 2511460 (05) Ela tá lá assim, cuidando das coisas
+2511460 2512740 (05) Pergunta pra ela
+2512740 2514060 (05) Vocês são de onde?
+2514260 2517240 (12, 05) Ai, a gente é de uma escola muito pequena
+2517240 2519540 (12) A Beta, você conhece?
+2519620 2520800 (12) Ah, já ouvi falar
+2520800 2522600 (12) É mais pro oeste, né?
+2523120 2523640 (12) Isso
+2523640 2526100 (12) Mas, como que é o nome da senhora?
+2526380 2526900 (12) Rosa
+2526900 2528540 (12) Dona Rosa
+2528540 2529480 (12) Ai, dona Rosa
+2529480 2532020 (12) Nossa, eu adorei o seu cabelo desse jeito
+2532020 2533200 (12) Muito bonito
+2533200 2534820 (12, 05) Ela põe a mão na cabeça
+2534820 2537640 (10, 05) Que tá com o pano, né?
+2537720 2538600 (10, 05) Cobrindo o cabelo
+2538600 2541420 (10, 05) Ah, obrigada, obrigada
+2541420 2543320 (10) Gostaram da escola aqui?
+2543600 2544240 (10) É grande, né?
+2544260 2545780 (10) Que a dona tá comendo uma coxinha
+2545780 2547520 (10) E balançando a cabeça afirmativamente
+2547520 2549680 (12, 10) Meus netos tudo estudaram aqui
+2549680 2549880 (12, 10) Ah
+2549880 2553760 (12) E a senhora sabe de assim, por acaso
+2553760 2555920 (12) É filha da diretora, eu acho
+2555920 2558160 (12) A nariz empinado, Patrícia
+2558160 2559420 (12) Isso
+2559420 2563500 (08, 12) Ela costuma fazer bullying com as pessoas, assim?
+2563820 2565180 (08) É filha da chefe, né?
+2565900 2568060 (08, 10) Tem histórias que ela é meio requentada
+2568060 2570880 (08, 10) Mas bullying, coisa pesada
+2570880 2573280 (12, 10, 03) Que eu saiba, não
+2573280 2574240 (12, 03) Nossa, é uma coisa que eu não sei
+2574240 2576420 (12) É porque a gente viu umas coisas hoje
+2576420 2578820 (12) Que deixaram a gente preocupadas, né, meninas?
+2578980 2580560 (10, 12) Eu não sei o que pode ser mais pesado
+2580560 2582040 (10) Do que enfiar a cabeça de uma aluna
+2582040 2583600 (10) Na privada e puxar de escada
+2583600 2584620 (10) Mas...
+2584620 2585800 (10) Igual nos filmes?
+2586160 2587300 (10) Igualzinho nos filmes
+2587300 2590460 (10) A Patrícia anda assistindo muito draminha americana
+2590460 2591300 (12, 10) Ai, dona Rosa
+2591300 2593500 (12) A pobre da menina do cabelo colorido
+2593500 2594600 (12) Tendo que sofrer isso
+2594600 2595940 (12) Achei um absurdo
+2595940 2596860 (10, 12) Qual delas?
+2596920 2598100 (10) A Raíssa, a senhora conhece?
+2598320 2599720 (10) Ah, aquela menina
+2599720 2602320 (10) Todo mundo meio que pega no pé dela
+2602320 2604220 (10) Ela sempre foi meio desesperada
+2604240 2606140 (10) Diferente, conta muita história
+2606140 2608420 (10) Ela deve ser só uma pessoa criativa
+2608420 2610580 (10) Uma vez, ela disse que o pai dela
+2610580 2613000 (10) Tinha ido numa viagem de 5, 6 anos
+2613000 2615300 (10) Ele veio buscar ela na escola
+2615300 2616540 (10) No dia seguinte
+2616540 2618880 (10) Essas pessoas assim costumam se esconder
+2618880 2620040 (10) Em alguns lugares, né?
+2620200 2622660 (10) A senhora sabe qual que era o esconderijo da Raíssa
+2622660 2623180 (10) Aqui na escola?
+2623360 2625140 (10) Aqui na cantina, que não é
+2625140 2626900 (10, 09) É, só que eu imaginei
+2626900 2628580 (09) A senhora sabe dizer
+2628580 2631720 (09) Quem é um tal menino chamado Jean
+2631720 2632800 (09) Que joga futebol?
+2632980 2634220 (09) Ah, o bonitinho
+2634240 2635700 (09) Não sei se ele é bonitinho
+2635700 2636460 (09) A gente não viu ele
+2636460 2639260 (10, 09) Como é que ele é?
+2639420 2642560 (05) Ela dá um sorriso assim, faltando alguns dentinhos
+2642560 2644500 (10, 05) Como tá perguntando dele se não viu?
+2644880 2645720 (10) Óbvio que viu
+2645720 2649120 (10) Não, a Raíssa disse que tava atrás dele
+2649120 2651580 (10) E a gente tá tentando achar a Raíssa
+2651580 2653100 (10) Raíssa atrás dele?
+2653940 2655060 (10) Eu fico surpresa
+2655060 2656700 (10) Mas a senhora sabe onde ele tá?
+2657120 2658460 (10) Ele deve estar com os meninos
+2658460 2659940 (08, 10) Comemorando em algum lugar
+2659940 2662680 (08) Mas por que a senhora fica tão surpresa assim, dona Rosa?
+2663000 2664020 (08) Ele é o popularzinho
+2664020 2665060 (08) Da escola, né?
+2665580 2668180 (08) Acho que até tava namorando a filha da diretora
+2668180 2669240 (08, 12) Hum...
+2669240 2670940 (12) Aí a senhora que conta pra gente
+2670940 2672760 (12) Que a gente chegou aqui agorinha
+2672760 2674500 (12) Pra gente não cometer gafes, né?
+2674720 2676540 (12, 09) Eles tão sempre juntos por aí, né?
+2676900 2678720 (09) E essa história tá doida, né?
+2678980 2679700 (09) Eu olho pras meninas
+2679700 2684400 (12, 09) Será que o Jean também tem o costume de jogar a cabeça das pessoas na privada?
+2684700 2685240 (12) Dona Rosa
+2685240 2687180 (10, 12) Não, não, ele é um bom menino
+2687180 2689920 (10) Veio de baixo, o pai dele é trabalhador
+2689920 2692660 (10) Estudou aqui, comia na cantina também
+2692660 2693780 (10) Família boa
+2694020 2695860 (10) Tão boa quanto a da diretora
+2695860 2697460 (10, 05) Eu não me comprometo aqui, né?
+2697500 2699680 (10, 05) Ela bate coisa assim pra espantar umas moças
+2699680 2701420 (10, 05) Dona Rosa tá ganhando muita personalidade
+2701420 2703460 (10) Eu quero continuar conversando com ela
+2703460 2707300 (12) Aí eu falo
+2707300 2708620 (12) E aí, meninas, o que a gente faz?
+2708900 2710320 (12) Agora que a gente sabe o nome
+2710320 2712260 (12) A diretora todo mundo sabe o sobrenome
+2712260 2713480 (12) Porque é fácil, né?
+2713820 2716220 (12) A gente sabe o nome e sobrenome da Patrícia
+2716220 2718340 (12) A gente consegue procurar ela na rede social
+2718340 2720580 (10, 12, 00) E dali, encontrar o Jean
+2720580 2723420 (12) E acho que do Jean a gente chega na...
+2724020 2724640 (12) Raíssa
+2724640 2726180 (12) Nossa, que difícil, gente
+2726180 2729260 (10, 12) O refeitório ali tá muito vazio, eu gosto?
+2729380 2729580 (05) Não
+2729580 2732620 (10, 05) Tá, eu vou procurar o pessoal
+2732620 2734640 (10) Que tá com o uniforme
+2734640 2736060 (10) Da escola Malu
+2736060 2737260 (10) E vou perguntar
+2737260 2739340 (10) Vocês viram o Jean? Vocês sabem onde tá o Jean?
+2740040 2742680 (10) E aí, se eu tiver uma resposta negativa, eu vou pro próximo grupinho
+2742680 2743760 (10) Vocês sabem onde tá o Jean?
+2744220 2746800 (10) Enquanto ela faz isso, a Ada tá pesquisando nas redes sociais
+2746800 2748900 (10) Eu tô, meu Deus, como é que ela vai achar a Raíssa
+2748900 2749800 (10) Na internet?
+2750460 2751860 (05) Ok, Ada, dois dados
+2751860 2752780 (05) Iva, dois dados
+2754020 2756360 (12, 05) Eu tirei cinco e dois
+2756360 2757940 (12) Cinco e três, na verdade
+2757940 2760260 (12, 05) Tu achou o Instagram da Patrícia, né?
+2760560 2762400 (05) Tem foto dela, tem foto das amigas dela
+2762400 2764460 (05) Tu já pegou o nome das amigas ali também
+2764460 2765860 (05) Tem uma foto dela
+2765860 2768560 (05) Com o menino da idade de vocês, assim
+2768560 2771040 (05) Com a camisa do time de futebol
+2771040 2772340 (05) Da escola ali, né?
+2772480 2775860 (05) Pelos comentários embaixo, tu já identificou o Jean também
+2775860 2777280 (05) Então o grupinho todo
+2777280 2778100 (05) Tu achou ali
+2778100 2779320 (05) Iva, quanto é que tu tirou?
+2779500 2780720 (12, 05) Dei cinco e dois
+2780720 2782960 (12, 05) Um acerto simples, a boa notícia
+2782960 2783920 (05) Certo?
+2784020 2785480 (05) Teve informações precisas
+2785480 2786160 (05) A má notícia
+2786160 2790200 (05) Você é informada que os meninos foram cedo pra casa
+2790200 2791960 (05) Pegaram a bicicleta depois do jogo deles
+2791960 2793120 (05) E foram embora
+2793120 2794560 (05) Eles não estão na escola
+2794560 2796060 (05) Começa a anoitecer, assim
+2796060 2797380 (05) Vocês passaram um bom tempo por ali
+2797380 2799840 (05) A Ada vai pesquisar mais alguma coisa?
+2800240 2802640 (12) Eu quero mandar os links pra...
+2802640 2804040 (12) Eu imagino que a gente tem um grupo, né?
+2804320 2804840 (12) Certeza
+2804840 2805400 (12, 05) Perfeito
+2805400 2806480 (05) Um grupo só das três
+2806480 2807920 (05) Como é que é o nome desse grupo?
+2808240 2809060 (12, 09) Eu não sou boa com nomes
+2809060 2810860 (12, 09, 03) Eu conheci um...
+2810860 2813220 (12) Podia ser aqui o nome do grupo
+2814020 2814500 (12) Gostei
+2814500 2816080 (10, 12) É verdade
+2816080 2817220 (10, 12) Ada, Kinoa, Iva
+2817220 2817760 (12) Aqui
+2817760 2820120 (12, 05) Bom, eu mando no aqui
+2820120 2822320 (12) Os links com os perfis
+2822320 2824220 (12) E eu quero continuar procurando
+2824220 2828320 (12) Se eu conseguir achar o link do perfil do Jean
+2828320 2830800 (12) Por ele eu quero tentar encontrar o perfil
+2830800 2832780 (12, 09) Da nossa amiga Raíssa
+2832780 2834180 (09) Enquanto ela tá nisso aí
+2834180 2835740 (09) A Iva deve ter voltado, né?
+2835820 2838160 (09) E falado pra gente o que ela encontrou
+2838160 2839120 (09) O que o menino foi embora
+2839120 2839960 (09) E aí eu falo
+2839960 2844000 (09) Eu acho tão que a Raíssa deve ter ido pra casa dela também
+2844020 2846000 (05, 09) Ela desapareceu
+2846000 2848280 (05, 09) É a vantagem de tu estar jogando em casa, né?
+2848380 2849840 (05) Você pode ir pra casa a qualquer momento
+2849840 2850860 (05, 09) Eu acho que a gente devia voltar
+2850860 2852100 (09) Já que tá escurecendo, né?
+2852400 2852580 (unknown) É
+2852580 2853540 (09) Tomou banho
+2853540 2854180 (05, 09) Ô gente
+2854180 2855500 (12, 05, 09) Mas falando assim
+2855500 2857100 (12) Essa menina
+2857100 2858560 (12) Ela tá muito estranha, né?
+2859180 2861120 (12) O pessoal aqui parece muito a flor da pele
+2861120 2862980 (12) Deve ser coisa de escola grande, né?
+2863320 2864460 (12) Muita competição
+2864460 2864780 (12) É
+2864780 2867360 (12) Brigar por causa de homem ainda
+2867360 2868100 (12) Eca
+2868100 2869540 (09) A gente não tem nada a ver com isso
+2869540 2870800 (09) A gente só precisa encontrar ela
+2870800 2873460 (09) Pra ela esclarecer lá com a diretora
+2873460 2874000 (09) Que foi a Hermesinha
+2874020 2875800 (09) A menina que brigaram com ela
+2875800 2876500 (10, 09) Não foi a gente
+2876500 2878820 (10, 09) Mas eu vou falar pra vocês que eu tô preocupada, viu?
+2878900 2881160 (10) Porque ela falou que ela tinha o jogo de xadrez
+2881160 2882780 (10) Ela tava indo pro jogo
+2882780 2884280 (10) Eu tô realmente preocupada
+2884280 2886020 (10, 09) Eu não sei se ela tava indo pro jogo
+2886020 2887200 (09) Por quê?
+2887480 2889480 (09) Ela disse que veio do futuro
+2889480 2892080 (09) Será que ela foi jogar na Mega ou alguma coisa assim?
+2892240 2892600 (10) Não
+2892600 2896200 (10) Quando ela saiu do banheiro ela disse que ia pro jogo
+2896200 2897700 (10, 05) Vocês enquanto estão conversando
+2897700 2899620 (05) Já vem a porta da sala de vocês
+2899620 2902240 (05) Sentada na porta assim de cabeça baixa
+2902240 2903380 (05) Porque não tem a chave
+2903380 2904420 (05) Tá, Samira
+2904420 2905460 (10, 05) Tava pensando nisso
+2905460 2906540 (10) Oh, no
+2906540 2908360 (10) Ô, Samira, tá muito tempo aqui?
+2908720 2909960 (10) Eu me abaixo perto dela
+2909960 2911920 (12, 10) Ah, uma hora e pouco, eu acho
+2911920 2913980 (12) Você não mandou uma mensagem pra gente?
+2914240 2916100 (08, 10) Eu fiquei jogando xadrez no celular
+2916100 2917840 (08, 10) Tá tudo certo
+2917840 2920080 (08) E comi muito cachorro quente
+2920080 2923700 (08, 10) Cuidado com os puns
+2923700 2926400 (10) Eu tiro um brownie da minha mochila
+2926400 2928600 (10) Que eu tinha comprado lá na cantina da Dona Rosa
+2928600 2930240 (10) Desculpa, Samira
+2930240 2932080 (10) Me entrego o brownie pra ela
+2932080 2933360 (05) Ela abre um sorrisão assim?
+2933380 2934360 (10, 05) Tá perdoada
+2934360 2935880 (10, 05) Ela olha pra Ada
+2935880 2939720 (10, 05) Desculpa eu ter te empurrado
+2939720 2941280 (12) Tá tudo bem
+2941280 2942400 (12) Você...
+2942400 2945280 (12) Eu sei como o esporte é importante
+2945280 2947680 (12) E eu faço um carinho assim nas costas dela
+2947680 2948600 (12) Tá tudo certo, viu?
+2948900 2951260 (12, 09) E fala assim, ela acha tão importante
+2951260 2954180 (09) Que ela sempre anda com as bolas do avô dela
+2954180 2956520 (12, 09, 11) Lá vem as bolas do avô de novo
+2956520 2961220 (08, 10, 11) Mesmo com a cabeça meia eu pensei
+2961220 2963220 (08, 10) A Ada é a única que eu consigo derrubar
+2963380 2966620 (08, 10) E eu não derrubei
+2966620 2969600 (08, 12, 05) É porque eu tava com o peso das bochas
+2969600 2971340 (05) Vocês pegam as roupas ali
+2971340 2972980 (05) Vocês tomam banho
+2972980 2975500 (05) Tem meninas de outras escolas, né?
+2975920 2978040 (05) Há uma pequena espera
+2978040 2979480 (05) Pra usar o banheiro ali
+2979480 2980940 (05) Feminino
+2980940 2983580 (05) Há coordenadoras com vassoura na mão
+2983580 2985420 (05) Andando de um lado pro outro
+2985420 2987420 (05) Pra evitar que qualquer menino surja
+2987420 2988340 (05) Pra espiar vocês
+2988340 2989300 (05) Então tá tudo tranquilo
+2989300 2990120 (05) Nossa, que violência
+2990120 2991760 (10, 05) A cidade grande é perigosa
+2991760 2993360 (10, 05) Você já viu ter aprendido isso?
+2993380 2995320 (10, 05) Enquanto a gente tá na fila
+2995320 2996460 (10) Ou no banho
+2996460 2998700 (10) Eu quero contar pra Samira
+2998700 2999640 (10) Tudo que aconteceu
+2999640 3002660 (10) O lance que a gente interferiu no bullying
+3002660 3004560 (10) Falando o nome da Patrícia
+3004560 3005620 (10) Falando o nome da Raíssa
+3005620 3006680 (10) Pra todo mundo ouvir
+3006680 3008040 (10) E falando pra Samira
+3008040 3010940 (10, 05) Olha, você precisa tomar cuidado com essas meninas
+3010940 3012440 (10) Principalmente essa Patrícia aí
+3012440 3014300 (10) Gente, não é muito ruim
+3014300 3015400 (10, 05) Falou da viagem do tempo?
+3015660 3016400 (10, 05) Não, não
+3016400 3019900 (10) Só contei pra todo mundo ouvir do bullying
+3019900 3021560 (10, 05) Piorar o bullying que a Raíssa sofre
+3021560 3023060 (05) Não ia ajudar, tá certo?
+3023060 3024020 (10, 05) Não quero nem saber
+3024020 3027260 (10) Eu quero que a Patrícia seja vista como um monstro ali
+3027260 3030120 (10, 05) É, não há ninguém do colégio tomando banho ali
+3030120 3033680 (05) Então a maioria das pessoas ainda não conhecem provavelmente
+3033680 3035180 (05) Os nomes citados
+3035180 3037280 (05, 09) Mas ao longo desse fim de semana
+3037280 3039800 (05) Vários deles vão tomar conhecimento
+3039800 3043040 (05, 09) A gente tá com o perfil no celular, né?
+3043360 3044340 (09) Que a Ada mandou
+3044340 3045420 (09) Aí eu mostro aqui
+3045420 3046580 (09) Olha aqui, Samira
+3046580 3047240 (09) Aqui a foto
+3047240 3047900 (09) Essa aqui
+3047900 3049900 (09) Que tava batendo na outra
+3049900 3050380 (09) Essa aqui
+3050380 3051440 (09) Que ia jogar com o Tito
+3051440 3051900 (09) Não
+3051900 3052900 (10, 09) A foto dela não ia jogar com o Tito
+3052900 3055220 (10, 09) Essa aqui que tava batendo na outra
+3055220 3057240 (10) Essa aqui é o menino que disse que é namorado dela
+3057240 3058220 (10) Mas a gente não sabe
+3058220 3061840 (10) E a gente não encontrou a foto da menina que ia jogar contigo
+3061840 3063560 (10, 09) Mas ela tem os cabelos coloridos
+3063560 3066360 (05) Ela tá meio confusa com tudo que vocês despejaram
+3066360 3068600 (12, 05) Agora
+3068600 3072000 (12) Vocês precisam se concentrar
+3072000 3074640 (12) Daqui que eu ajudo a fazer massagem no pé
+3074640 3075220 (12) Vamos lá
+3075220 3077220 (12, 05, 03) Eu só preciso de mim
+3077220 3079480 (05) Vocês fazem ali
+3079480 3081460 (05) Cuidam uma da outra
+3081460 3082220 (05) Vocês dormem
+3082900 3085480 (05) É uma sala bem grande só pra vocês quatro
+3085480 3085940 (05) Que é bom
+3085940 3087720 (05) No dia seguinte vocês acordam cedo
+3087720 3089680 (05) Lá naquela região central
+3089680 3093020 (05) Ainda estão servindo algumas coisas gratuitas
+3093020 3094480 (05) Um cafezão da manhã, né?
+3094880 3096720 (05) Tem pão, tem frios
+3096720 3098600 (05) Tem biscoitos
+3098600 3100980 (05) Café, leite, iogurte, suco
+3100980 3102300 (05) Pra vocês
+3102300 3104780 (05) Se prepararem pro dia ali
+3104780 3106680 (05) Enquanto vocês estão comendo
+3106680 3108740 (05) A coordenadora Joyce chega até vocês
+3108740 3111300 (05) Rola um D4 cada uma
+3111300 3112880 (05) Pra registrar
+3112900 3114900 (05) A EIDA tirou um
+3114900 3116120 (05) Primeira parte da manhã
+3116120 3117120 (05) Ninguém tirou dois
+3117120 3118380 (05) A segunda parte da manhã
+3118380 3121340 (05) A Kinoa tirou a primeira parte da tarde
+3121340 3122840 (05) E pra fechar o dia
+3122840 3126240 (05) Iva vai se apresentar no final
+3126240 3128220 (05) Do período da tarde
+3128220 3130460 (05) A coordenadora então abre a planilha dela
+3130460 3132800 (10, 05) Bom dia meninas, dormiram bem?
+3132960 3134820 (10) Bom dia dona Joyce, a gente dormiu bem
+3134820 3135580 (10) Bom dia
+3135580 3136760 (10) Onde que a senhora dorme?
+3136980 3139800 (10) No colégio, em algum hotel para os professores e os coordenadores
+3139800 3140900 (10) Hum...
+3140900 3142900 (09) Eu ia pensar que vocês iam ficar de hoje
+3142900 3144800 (09) Pra ver se ia aparecer algum menino
+3144800 3145960 (09) No lado das meninas
+3145960 3147980 (09) Minha escala é no domingo, mas vamos lá
+3147980 3150400 (08, 12, 09) Agora pela manhã, daqui a pouco
+3150400 3151860 (12) A ADA tem o segundo jogo
+3151860 3153100 (12) Já? Tudo certo?
+3153380 3155300 (12) Tá, tá, tá, tá tudo certo
+3155300 3158600 (12) Eu me sinto mais confiante agora, professora
+3158600 3159780 (12) Ganhou, tá na final
+3159780 3162000 (12) Tá bom, ai meu Deus, vai dar tudo certo
+3162000 3163360 (08, 12) Eu seguro a mão da ADA
+3163360 3164660 (08, 12) Vai dar certo
+3164660 3166320 (08, 12) Eu aperto de volta
+3166320 3168640 (08) O resto da manhã de vocês tá livre
+3168640 3171620 (08) No início da tarde, Kinoa, tem a sua primeira luta
+3171620 3172320 (08, 11) Eu dou um joinha
+3172320 3174480 (08, 11) E as quatro aí vão ter a apresentação dela
+3174480 3177240 (08) Vai ser por nota, vai se apresentar
+3177240 3179240 (08) Uma vez só e vão te ranquear pela nota
+3179240 3180960 (08) Tudo ou nada, ok?
+3181360 3183200 (10) Eu dou de ombros, tô confiante
+3183200 3185520 (10, 09) Ainda bem que a gente não vai ficar tudo no mesmo horário
+3185520 3187260 (09) Que bom que a gente vai poder ver uma da outra
+3187260 3189220 (10, 09) Acharam a menina que vocês afogaram?
+3189280 3190460 (10, 06) A gente não afogou ninguém não
+3190460 3193120 (08, 10, 05, 06) Dona Joyce, a gente não afogou ninguém
+3193120 3195000 (10, 05) Ela abre um sorriso
+3195000 3196100 (10, 05) E eu tô brincando
+3196100 3199100 (10) Achei divertido vocês terem acusado a filha da diretora
+3199100 3200520 (10) Não, não
+3200520 3202280 (10) Eu acusei porque é
+3202320 3203580 (10) Real, foi o que aconteceu
+3203580 3204820 (10) Não tô inventando história
+3204820 3206460 (10) Eu acredito em vocês, calma
+3206460 3209240 (10) Aquela diretora é meio nariz empinado, ela mereceu
+3209240 3211100 (10, 03) Deve estar no sangue então
+3211100 3212700 (10) Falaram a mesma coisa da filha dela
+3212700 3215900 (10) Eu acho que ela foi pra casa
+3215900 3216520 (10) Certo
+3216520 3218820 (10) Mas se vocês virem ela hoje por aí
+3218820 3220140 (08, 10) Pode falar com a diretora
+3220140 3222180 (08) Pelo visto a conversa com a filha deu resultado
+3222180 3224740 (08) Porque a Samira já tem a partida escalada pra hoje
+3224740 3226180 (08, 10) Dona Joyce
+3226180 3230080 (10) Aí nessa planilha tem todos os esportes?
+3230240 3230960 (10) Todas as classes?
+3230960 3232240 (10) Tem, eu marquei os nossos aqui
+3232320 3233620 (10, 05) Mostra que ela marcou com caneta
+3233620 3236320 (05) Marca texto, acho que vocês vão jogar
+3236320 3238920 (10, 05) Eu estico meu pescoço pra ver se eu encontro
+3238920 3240920 (10) Quando que é a partida de futebol
+3240920 3242560 (10) Do time da
+3242560 3243860 (10) Do time da casa
+3243860 3246840 (10, 05) O que você tá procurando, menina?
+3247000 3249420 (10) Ah, é que tem um menino que vai jogar
+3249420 3250840 (10) E eu queria saber qual o horário
+3250840 3252280 (10) Pra eu poder ir lá torcer por ele
+3252280 3254540 (10) Qual esporte? Futebol masculino
+3254540 3255620 (10) Óbvio que é masculino, né?
+3255700 3256360 (10) Tem um menino
+3256360 3259620 (10) Eu dou risada assim, todo ponto
+3259620 3261180 (10) Tá apaixonada, hein?
+3262320 3263560 (10, 05) Hum, super
+3263560 3265040 (10, 05) Ela mostra ali a planilha
+3265040 3267920 (08, 10, 05) Aí eu vou com o dedinho e procuro qual o horário
+3267920 3269380 (08, 05) É, no final do dia
+3269380 3270880 (08) Troca
+3270880 3272540 (08) É bem na hora da sua apresentação, né?
+3273060 3274860 (08) Pois é, quando eu vou estar me apresentando
+3274860 3277660 (08) Porém, pelo que eu vi, é na quadra do lado
+3277660 3278860 (08, 10) Hã? Hã?
+3279260 3282620 (08) Mas pelo amor de Deus, se concentra na sua apresentação
+3282620 3284840 (08, 10) Bom, tá bom
+3284840 3287300 (08, 10) Mas as minhas amigas podem ficar de olho
+3287300 3288760 (10) Claro que a gente fica
+3288760 3289600 (10) Pode deixar
+3289600 3291460 (10, 09) Na sua apresentação
+3291460 3292160 (10, 09, 11) É
+3292320 3295100 (10, 11) Nosso time joga noente, se quiserem ver
+3295100 3296180 (10, 11) No início da tarde
+3296180 3298180 (10) Ah, legal, a gente vai ter sete dias também
+3298180 3299540 (10) E nesse da tarde não é o meu?
+3300180 3301180 (10) Verdade, tem o seu
+3301180 3303460 (10) Escolha um entrenaquilô e um futebol
+3303460 3305560 (10) É bem rapidinho, o futebol geralmente demora mais
+3305560 3307640 (08, 10) Só não ser rapidinho igual o Matias
+3307640 3308560 (08) É, por favor
+3308560 3310840 (08, 10) É, tá bom
+3310840 3312820 (10, 05) Ela pega as coisas dela e ela sai
+3312820 3314600 (10, 05) Não percam a hora, hein?
+3314900 3315620 (10) Pode deixar
+3315620 3318060 (10, 09) Ah, você tá nervosa? Você tá muito caladinha
+3318060 3320140 (12, 10, 09) Você quer outra massagem?
+3320400 3320920 (12, 09) Aí eu começo
+3320920 3322160 (12, 09) Não, vai tudo certo
+3322160 3323440 (12) Vai dar tudo certo
+3323440 3326180 (12) Vamos, uma etapa por vez
+3326180 3327140 (12) Você já comeu?
+3327560 3328240 (12) Claro que já
+3328240 3331960 (12) Eu abro a mochila e tem três sanduíches que eu toquei lá dentro
+3331960 3333660 (12) Vocês querem um reforço?
+3334020 3335720 (10) Não, não, eu já comi bastante
+3335720 3337960 (10) Eu vou poder me alimentar durante o dia
+3337960 3339140 (10) Então vamos lá
+3339140 3340760 (10) Você precisa se arrumar?
+3341300 3343000 (10) Você tá com as suas bolas aí?
+3343300 3345120 (12, 10) Eu tô, elas tão aqui embaixo dos sanduíches
+3345120 3348180 (12) Você começa a comer enquanto a gente caminha
+3348180 3351180 (10, 12) Então vamos lá já pra onde vai ser a sua competição?
+3351180 3351980 (10) É
+3352160 3356300 (10) Eita, a dona Joyce não falou quando é que a Samira ia competir
+3356300 3358960 (10) A Samira tá ali com a gente ou ela se perdeu ali no público?
+3359180 3360020 (05) Ela tá ali com vocês
+3360020 3363120 (05) Quer dizer, ela tava com vocês e a coordenadora levou ela
+3363120 3364280 (10) Ah, a coordenadora levou
+3364280 3366340 (10) Então tem o que fazer
+3366340 3367700 (10) Deve ser agora de manhã mesmo
+3367700 3368840 (10) Eu ia levar ela junto
+3368840 3373280 (10) Então vai as três gritando o nome da escola ainda pelos corredores
+3373280 3375880 (10, 09) Berta, Berta, Berta
+3375880 3378100 (05, 09) Vocês chegam até a cancha de bote
+3378100 3381240 (05) Vou definir a dificuldade desta partida
+3382160 3383080 (05) Um de novo
+3383080 3384680 (12, 05) Eu tenho anos de treinamento
+3384680 3390580 (12) Eu faço carinho nas botes que eu trouxe
+3390580 3392080 (12) E minas
+3392080 3393180 (12) Trouxe um por mim
+3393180 3393880 (12, 05) Dois dados
+3393880 3396580 (12, 05) Criei seis e cinco
+3396580 3398900 (05) Tu te posiciona ali na cancha, né?
+3398980 3402000 (05) Uma estrutura cercadinha embaixo de madeira
+3402000 3404740 (05) Com as marcações, tem uma bola central, né?
+3404800 3407520 (05) E daí tem um espaço onde tu lança a tua...
+3407520 3410000 (05) É uma mistura de boliche com bola de gude e tal
+3410000 3412140 (05) Procura no Google, querido amigo
+3412160 3416920 (05, 03) Tu lança lá as suas bochas, as suas bolinhas
+3416920 3419320 (05) O seu oponente tenta tirar elas de perto
+3419320 3422080 (05) Acaba até aproximando elas mais ali
+3422080 3424460 (05) E você vai pra final
+3424460 3428320 (05) O juiz decreta ali que a vitória foi tua
+3428320 3429500 (05) Essa que perdeu agora
+3429500 3430660 (05) Era de um colégio pequeno
+3430660 3433780 (05) Tinha mais uma outra menina torcendo por ela ali
+3433780 3435140 (05) As duas se abraçam assim
+3435140 3436960 (05) Elas apertam a tua mão, né?
+3437380 3438880 (05) Dão parabéns
+3438880 3440820 (05) E você conseguiu
+3440820 3442140 (10, 05, 09) E tá de braço aberto assim?
+3442160 3444540 (10, 09) Ah, tá, ah, tá, ah, tá
+3444540 3445320 (10) Ah, tá, ah, tá, ah, tá
+3445320 3447020 (10) Ah, tá, ah, tá, ah, tá
+3447020 3450540 (12, 10) Eu canto muito abraço as duas assim
+3450540 3452060 (12) Um abraço gigante
+3452060 3453380 (12, 09) Consegui!
+3456700 3459960 (09) Já tá garantido a sua medalha, né?
+3460540 3463180 (09) Porque se já vai pra final, final é ouro ou prata
+3463180 3464740 (12, 09) Então a bronça já tá garantida
+3464740 3465640 (12) Ai, meu Deus
+3465640 3467880 (12) Nossa, o vovô ia ficar tão orgulhoso
+3467880 3469960 (12) Nossa, tô nervosa
+3469960 3471480 (12) E vocês?
+3471480 3472740 (12) Qual é o meu próximo jogo?
+3473020 3473780 (10) O próximo é daqui
+3473780 3475100 (10) Depois do almoço
+3475100 3475820 (10) É, minha
+3475820 3477160 (10) É, mas é depois do almoço
+3477160 3478560 (10) Não sei se vai ter algum agora
+3478560 3481460 (10, 03) Vocês querem ir lá na sala de xadrez
+3481460 3482860 (10) Pra ver se a gente encontra a Samira?
+3483500 3483900 (12) Boa!
+3484100 3485220 (10, 12) Qualquer coisa pode estar aí
+3485220 3486660 (12) Era legal a gente torcer pra ela
+3486660 3488600 (12) Depois de deixar ela plantada esperando, né?
+3488740 3489740 (10, 09) Eu não me orgulho disso
+3489740 3490480 (10, 09) Bem, é...
+3490480 3491260 (09) É...
+3491260 3491780 (09) É...
+3491780 3493540 (09) Eu tenho entregado a chave pra Dona Joyce
+3493540 3494340 (09) Mas ela não pegou
+3494340 3495560 (09) Ela não vai dormir com a gente, né?
+3496100 3496540 (05, 09) Acontece
+3496540 3498080 (05, 09) Então a gente vai se dirigindo pro local
+3498080 3500100 (09) Onde tem as competições de xadrez
+3500100 3501340 (05, 09) Vocês vão até onde tem a chave?
+3501340 3503220 (05) Tem a competição de xadrez, né?
+3503660 3505540 (05) A Samira tá jogando ali
+3505540 3507040 (05) Tem algumas pessoas olhando
+3507040 3508900 (05) Incluindo a coordenadora de vocês
+3508900 3510020 (05) É a partida
+3510020 3511080 (05) É a partida de xadrez, né?
+3511180 3512760 (10, 05) Xadrez é um jogo silencioso, né?
+3512780 3512980 (10, 05) Sim
+3512980 3517140 (10, 05) Então eu pego um dos meus lenços de apresentação
+3517140 3518180 (10) Aliás, eu pego...
+3518180 3519560 (10) Eu tenho vários lenços de apresentação
+3519560 3520880 (10) Então eu entrego um pra cada amiga
+3520880 3524200 (10) E a gente fica balançando o lencinho silenciosamente, assim
+3524200 3525400 (10) À vista da Samira
+3525400 3527340 (10, 05) Ela dá um sorriso, assim
+3527340 3529360 (05) Ela parece meio nervosa
+3529360 3531320 (05) Mas ela tá fazendo as jogadas dela
+3531340 3532980 (10, 05) A gente faz joinha
+3532980 3534540 (10) Torcida silenciosa
+3534540 3537380 (10, 05) A Samira sai vitoriosa ali da partida
+3537380 3538300 (05) Ela vai até vocês
+3538300 3539200 (10, 05) Viram?
+3539560 3540540 (10) Eu joguei e ganhei
+3540540 3544180 (10, 13) A gente fez o mesmo escândalo que a gente fez pra ela
+3544180 3546840 (10, 09) Já pode gritar, né?
+3547160 3549880 (10, 09, 03) Eita, eita, eita, eita
+3549880 3553380 (10, 05, 09, 03) Agora quatro meninas se abraçadas e pulandinhas
+3553380 3556340 (05) Tem outras partidas de xadrez acontecendo ali em volta
+3556340 3560500 (10, 05) A coordenadora de vocês faz sinal pra vocês irem embora, as quatro
+3561340 3562260 (10) E a gente vai embora
+3562260 3563580 (10) Meta, meta
+3563580 3565000 (10) Comemorando o bachê
+3565000 3566060 (10) Que dia incrível
+3566060 3568980 (10) A gente vai levar tudo pra casa
+3568980 3569840 (10) Vocês ganharam?
+3569900 3570900 (10) A Ada ganhou de novo
+3570900 3572320 (10) Ah, então falta só a final
+3572320 3572880 (10) E você?
+3573020 3574120 (10) Faltam duas partidas
+3574120 3576680 (10) Se eu vencer as próximas duas, eu ganho
+3576680 3578240 (10) Vai ser hoje, vai ser amanhã?
+3578300 3579260 (10) As duas são amanhã
+3579260 3580760 (10) É bom, você vai dar pra descansar
+3580760 3583780 (12, 10) Por acaso, aquela menina apareceu?
+3584260 3585600 (12) Enquanto a gente não tinha chegado?
+3585860 3587200 (12) A do cabelo colorido?
+3587560 3588560 (12) Ela era sua oponente
+3588560 3590440 (12, 05) A Quinoa não rolou dois dados ainda
+3590440 3591300 (05) Então eu queria que a Quinoa
+3591300 3594860 (12, 05, 09) Se eu vou ver muita coisa
+3594860 3596080 (05, 09) Atributou mais
+3596080 3598260 (05, 09) Eu tirei, olha
+3598260 3599820 (05) Eu tirei seis
+3599820 3601520 (05) E seis
+3601520 3602900 (05) Dois acertos pelo grupo
+3602900 3604460 (05) A Samira fala
+3604460 3606640 (10, 05) Cabelo curto, pintado, né?
+3606960 3607560 (10) Ela mesmo
+3607560 3611120 (10) Eu vi, acho que ela passou quando eu fui sentar pra jogar
+3611120 3612960 (10) Ela deu um sorriso
+3612960 3615760 (10) E foi em direção à quadra de futebol
+3615760 3616400 (10) Vamos
+3616400 3617860 (10) Tá atrás do boi dela
+3617860 3619160 (10) Você vem com a gente, Samira?
+3619240 3620260 (10) Bora, Samira, você também?
+3620260 3621640 (10) Eu vou comer alguma coisa
+3621640 3622960 (10) Depois eu encontro vocês
+3622960 3623500 (10) Tá bom
+3623500 3626000 (12, 10) Qualquer coisa, Samira
+3626000 3627740 (12) Manda uma mensagem, tá?
+3627900 3628100 (12) Tá
+3628100 3629060 (12) Beleza
+3629060 3631880 (10, 12) E a Iva já tá correndo pro negócio de futebol
+3631880 3633320 (12, 10, 05) É, como vocês já sabem
+3633320 3634480 (05) Olharam lá a tabela
+3634480 3636760 (05) Tem dois times que não são nem da escola de vocês
+3636760 3637960 (05) Nem da escola local
+3637960 3639480 (05) Jogando, né?
+3639900 3643120 (05) O que faz com que não tenha muita gente por ali assistindo
+3643120 3645200 (05) Agora eu deixo vocês escolherem dois dados
+3645200 3646420 (05) Uma de vocês, pelo grupo
+3646420 3648960 (12) Tirei seis de três
+3648960 3649980 (12, 05) Dois acertos
+3649980 3650100 (05) Dois acertos
+3650100 3650240 (05) Dois acertos
+3650260 3651500 (05) Vocês estão ali olhando, né?
+3651520 3651860 (05) Como eu falei
+3651860 3653920 (05) Tem poucos estudantes
+3653920 3654580 (05) Dá pra ver
+3654580 3655920 (05) A arquibancada, né?
+3655960 3657800 (05) Ela é vazada do lado
+3657800 3659460 (05) E, assim
+3659460 3661360 (05) Entre os degraus ali
+3661360 3662360 (05) Aquele espacinho, né?
+3662480 3665460 (05) Tu nota que na arquibancada do outro lado
+3665460 3667260 (05) Embaixo da arquibancada
+3667260 3669200 (05) A Raíssa tá por lá
+3669200 3669780 (12) Sozinha?
+3670280 3671000 (05) Aparentemente, sim
+3671000 3672760 (10, 12, 05) Vocês tão vendo ela ali também, né?
+3672920 3673220 (10, 12) Cadê?
+3673540 3674040 (10) Ah, antes
+3674040 3675340 (10) Embaixo da arquibancada
+3675340 3677300 (10) Eu acho que esse pessoal dessa escola
+3677300 3678880 (10) Assistiu muito filme americano mesmo
+3678880 3680100 (10) Vamos espiar o que tá acontecendo
+3680100 3682160 (10) Vamos lá falar com ela
+3682160 3684240 (10) É, a gente tem que pedir pra ela falar com a diretora
+3684240 3685180 (10) E com a Samira
+3685180 3686920 (10, 05) Vocês dão uma volta ali pela quadra
+3686920 3689080 (05) Vão pra debaixo do arquibancada
+3689080 3690400 (05) A Raíssa se assusta
+3690400 3691760 (05, 07) Ah, oi gente
+3691760 3692080 (07) Oi
+3692080 3693700 (10, 07) Tudo bem com você?
+3694060 3694900 (07) Eu tô bem
+3694900 3695980 (07) Só meio triste
+3695980 3697840 (07) Eu teria ganho aquela partida
+3697840 3699360 (07) E a medalha de ouro do xadrez
+3699360 3700600 (07) Mas tá tudo certo
+3700600 3701860 (07) É por um bem maior
+3701860 3703780 (10, 07) Por que você não foi jogar?
+3704020 3705960 (07) Eu demorei lá com vocês
+3705960 3707140 (07) Quando eu cheguei
+3707140 3708280 (07) Vi que já tinha perdido
+3708280 3709660 (07) Fiquei com vergonha
+3709660 3710840 (07) E eu me mandei
+3710840 3712660 (07) Você deve uma partida de xadrez
+3712660 3713440 (07) Contra a nossa amiga
+3713440 3714700 (07) Eu venci essa partida
+3714700 3716740 (07) Mas posso jogar de novo
+3716740 3717580 (07) Não sabe disso
+3717580 3718400 (07) Eu sei
+3718400 3719640 (07) Confia em mim
+3719640 3720420 (07) Eu sei
+3720420 3721680 (07) Como que você sabe?
+3721760 3723320 (07) Eu já contei pra vocês
+3723320 3724920 (07) Eu voltei no tempo
+3724920 3725880 (07) Então dá uma prova
+3725880 3727320 (07) Que você voltou no tempo
+3727320 3728820 (07) Time de futebol de vocês
+3728820 3729620 (09, 07) Vai ser campeão
+3729620 3731160 (09) Mas o nosso time é forte
+3731160 3732340 (09) É o seguinte
+3732340 3734540 (09) É que falaram que a gente
+3734540 3738180 (09) Que tinha mexido com você no banheiro
+3738180 3739340 (09) E quase desclassificou
+3739660 3741220 (09) Ficaram a nossa amiga Samira
+3741220 3742640 (09) E a gente queria que você falasse
+3742640 3743300 (09) Com a diretora
+3743300 3744800 (09) Pra falar que foi a filha dela
+3744800 3746280 (10, 09) A gente até descobriu
+3746280 3747420 (10, 09) Que a menina era a filha dela
+3747420 3748500 (10, 07) E provavelmente
+3748500 3749920 (07) Foi ela que mentiu
+3749920 3750580 (09, 07) Não sei
+3750580 3752020 (09) O pessoal disse que viu
+3752020 3753180 (10, 09) A gente sair
+3753180 3753820 (10) Foi isso, né?
+3753920 3754680 (10) Viram a gente saindo
+3754680 3755520 (10) Depois dela, né?
+3755740 3756320 (10, 03, 06) O negócio é esse
+3756320 3756800 (10, 06, 03) Alguém disse
+3756800 3758860 (10) Mas ninguém nunca falou quem foi
+3758860 3760320 (10) Mas de qualquer forma
+3760320 3761720 (10) A diretora quer falar com você
+3761720 3762480 (10) Tá?
+3762740 3763380 (07) Eu vou lá
+3763380 3765120 (10) Raíssa, antes de você ir
+3765120 3766680 (10) Você não quer trocar
+3766680 3767700 (10) O número de telefone?
+3767900 3769500 (10) Se você precisar de ajuda
+3769500 3769640 (10) Se você não quer trocar
+3769660 3771000 (10) Ou se a gente quiser
+3771000 3773020 (10) Perguntar o número da Mega Sena
+3773020 3774600 (10) Daqui a dois anos
+3774600 3776720 (10, 07) Se eu soubesse que ia voltar
+3776720 3778540 (07) Tinha anotado um monte de coisa, né?
+3778960 3779880 (07) Mas a gente não escolhe
+3779880 3781260 (07) Quando acontece esse tipo de coisa
+3781260 3781920 (09, 07) Mas sei lá
+3781920 3783840 (09) Pode ter saído o número do Lost
+3783840 3784900 (09) Na Mega
+3784900 3786980 (09, 07) É um seriado antigo, né?
+3787540 3788080 (07) Eu não vi
+3788080 3790160 (09, 07) É sim, é um seriado
+3790160 3792360 (12, 09) Mais ou menos bom
+3792360 3794660 (12, 09, 07) Raíssa, você tá presa aqui?
+3795180 3796300 (12) É isso que você quis dizer?
+3796500 3796780 (12) Não
+3796780 3799200 (12) Então você pode voltar o tempo
+3799200 3800660 (12) E ir pra frente?
+3801280 3804020 (07) Eu acho que volto só depois do que eu vim fazer, né?
+3804360 3804740 (12) Ah
+3804740 3805980 (10, 12, 07) E o que você veio fazer?
+3806040 3807280 (10, 07) É segredo
+3807280 3809020 (07) Já mudei demais o passado
+3809020 3810200 (07) Eu não quero criar mais problemas
+3810200 3812120 (05, 07) Mas...
+3812120 3814060 (05) Pega o telefone na mão da Ada
+3814060 3817020 (05) Coloca o contato dela e entrega
+3817020 3818800 (05, 09) Mas a gente nem é daqui
+3818800 3820500 (09) A gente nem mora aqui nessa cidade
+3820500 3822140 (09) A gente não vai se ver depois assim
+3822140 3823320 (09, 07) Quer um conselho de verdade?
+3823900 3826100 (07) Caso eu não consiga fazer o que eu tenho que fazer
+3826100 3829120 (07) Não vejam o final do futebol no domingo
+3829200 3831280 (07) Eu vou falar com a diretora
+3831280 3833580 (10, 09, 07) Mas o nosso time não vai ganhar
+3833580 3834820 (10, 09) A gente vai ter que assistir, né?
+3835040 3835860 (05, 07) Ela tá inumada
+3835860 3837300 (10) Não, eu tô falando pras meninas
+3837300 3839620 (12, 10) Eu tô meio em choque, assim
+3839620 3840820 (12, 10) Sem entender
+3840820 3843680 (12) Gente, essa menina claramente tá delirando
+3843680 3846020 (12) E ela pode ser muito perigosa
+3846020 3847260 (12) É o que eu acho
+3847260 3849380 (12, 11) Ela precisa fazer uma coisa
+3849380 3850660 (12, 11) Muito estranha
+3850660 3852200 (11) Mas por que é perigosada?
+3852660 3853860 (11) Ela se declarar pra menina?
+3854080 3854760 (11) Alguma coisa assim?
+3855080 3855920 (11) Não sei
+3855920 3859080 (12, 11) A gente achava que ela tava só sofrendo uma coisa assim
+3859200 3859580 (12) O bullying
+3859580 3862160 (12) Mas agora parece que tem alguma...
+3862160 3864280 (12) Ela realmente acredita nas coisas que ela tá falando
+3864280 3865080 (12, 11) Você ouviu
+3865080 3868220 (09, 11) E aí eu faço assim com o dedo do lado da orelha, né?
+3869000 3869580 (09) Doida, né?
+3869840 3870340 (09, 03) Só pode
+3870340 3871880 (09, 03) Ela não sabe nem o que é lost
+3871880 3873300 (09) Só pode ser doida mesmo
+3873300 3875660 (05, 09) É, se você tem 15 anos, né?
+3875720 3877040 (10, 05, 09) Mas seria do antigo, né?
+3878920 3880820 (10) Ah, mas lá em casa o povo gosta de ver
+3880820 3882140 (10) Meu pai gostava de lost
+3882140 3883100 (10, 05) Dois dados
+3883100 3884580 (05) Uma de vocês
+3884580 3886120 (05) Que não seja a Ada que rolou
+3886120 3888160 (05) Quer dizer, que não rolou, a Ada rolou
+3888160 3889120 (05) E Iva, dois dados
+3889200 3892000 (10, 05) Seis e quatro
+3892000 3893260 (10, 05) Quatro é o teu atributo
+3893260 3894660 (05) Seis é um acerto simples
+3894660 3897420 (05) Onde a Raíssa tava mexendo ali
+3897420 3898600 (05) Ela deu uma desfaçada
+3898600 3901920 (05) Mas não conseguiu enganar você
+3901920 3905840 (05) Ela escondeu uma pequena bolsinha
+3905840 3908320 (05) Ali atrás das arquibancadas
+3908320 3910380 (05) Ela tava mexendo quando vocês olharam de longe
+3910380 3911660 (05) E quando se aproximaram
+3911660 3913560 (05) Ela já tava meio afastada
+3913560 3914740 (05) Pra vocês não perceberem
+3914740 3918300 (10, 05) Será que isso aqui tem a ver com o que ela falou?
+3918560 3918920 (10) Que é segredo?
+3919200 3922080 (10) Eu vou pegar a bolsinha e já tem nada
+3922080 3923580 (10, 05) Tem uma pequena lanterna
+3923580 3925460 (05) Um alicate de unha
+3925460 3927180 (05) E uma chave de fenda
+3927180 3928700 (10, 05) Uma chave de fenda?
+3928920 3931080 (10) É, eu mostro pra elas o que tinha dentro da bolsinha
+3931080 3933700 (10) Não sei o que ela poderia fazer com
+3933700 3935780 (10) Essas coisinhas minúsculas aqui
+3935780 3937900 (10) Pra causar muito estrago
+3937900 3940600 (10) O que será que essa menina tá inventando?
+3940680 3941760 (10) Cortar a unha de noite?
+3941980 3942960 (10) Ou sabotagem?
+3943340 3945620 (10) Como ela tava embaixo da arquibancada
+3945620 3948340 (10) Eu quero dar uma olhadinha na estrutura da arquibancada
+3948340 3950520 (10) Pra ver se por acaso teria como ela
+3950520 3952220 (10) Meio que tentar desmontar
+3952220 3953860 (10) Ou enfraquecer essa estrutura
+3953860 3955640 (10, 05) Com essas ferramentas, não
+3955640 3957460 (10, 05) Mas eu vou levar essa bolsinha comigo
+3957460 3960400 (10) Vai que ela tava planejando fazer isso mais tarde
+3960400 3962120 (10) E aí ela não vai ter ferramenta
+3962120 3963540 (10) Pra causar dano nenhum
+3963540 3965880 (12, 10) Bom, mas a gente tem jogos
+3965880 3969300 (12) Vocês tem competições pra dar conta agora, né meninas?
+3969720 3971760 (12) Não, a gente tem que almoçar daqui a pouco
+3971760 3972320 (12) Nem vem
+3972320 3973820 (12) Verdade
+3973820 3976140 (12) É que eu comi os sanduíches, daí eu tô sem fome
+3976140 3977020 (12) Já faz tempo, hein?
+3977020 3978020 (12) Ah, pô, é um possível?
+3978340 3979060 (12) Sem fundo, viu?
+3979200 3980020 (12) Pelo amor de Deus
+3980020 3984280 (12, 05) Vocês vão ao refeitório, vocês almoçam por ali
+3984280 3987720 (05) E vão pra competição da quinoa, né?
+3987940 3990020 (10) Eu só gostaria de dizer que
+3990020 3992980 (10) Que a Iva vai fazendo amizade durante o dia, tá?
+3993100 3994640 (10) Ela, do jeito que ela é
+3994640 3996660 (10) Ela senta do lado de um, puxa papo
+3996660 3998280 (10) Senta do lado de outro, puxa papo
+3998280 4000240 (10) E como ela tem uma
+4000240 4003800 (10) Não só a personalidade como a aparência dela é marcante também
+4003800 4005980 (10) Ela vai ficando conhecida ali
+4005980 4008020 (10) Depois de espalhar ainda a fofoca ontem
+4008020 4009080 (10, 09) Que é a filha da diretora
+4009080 4010440 (10, 05, 09) Sim, a fofoca foi só um
+4010440 4013420 (10, 05, 09, 03) Não, eu sei, mas assim
+4013420 4015840 (10, 05) O pessoal lá do banheiro já conhece você
+4015840 4017420 (10, 05) Beleza
+4017420 4018720 (05) Fala dois dados, Iva
+4018720 4021500 (10, 05) Quatro e três
+4021500 4025780 (10, 05) Assim, tirando algumas pessoas específicas deste colégio
+4025780 4028060 (05) Você é a pessoa mais conhecida
+4028060 4030220 (05) Entre os competidores por ali
+4030220 4031960 (05) Você conheceu muita gente
+4031960 4033500 (05) Você conversou com muita gente
+4033500 4036820 (05) E essas pessoas contaram pra outras pessoas, né?
+4037300 4037900 (05) Tem uma quantidade
+4037900 4039640 (05) Considerável de amigos por ali
+4039640 4041800 (05) A rede social, sei lá, tem o Instagram
+4041800 4044240 (05) Tem várias novas amizades
+4044240 4044920 (05) Por ali
+4044920 4047040 (10, 05) E eu sigo todo mundo de volta, né?
+4047600 4048620 (05) Mas é hora da quinoa
+4048620 4051900 (05) Demora um pouquinho, ela vê algumas outras lutas
+4051900 4052420 (05) Por ali
+4052420 4054360 (05) A menina que ela vai enfrentar
+4054360 4056680 (05) Já foi campeã do estado, assim
+4056680 4058320 (05) Já é conhecida da quinoa
+4058320 4060940 (05) De outras competições
+4060940 4063760 (05) Ela se posiciona ali
+4063760 4065940 (05) Eu rodei três no D3
+4065940 4067720 (05) Então ela é difícil, né?
+4067900 4069680 (05) Quinoa, dois dados
+4069680 4073000 (05, 09) Tirei seis e cinco
+4073000 4074480 (09) Sendo cinco um atributo
+4074480 4076640 (05) Três é uma falha, mas cinco é um acerto crítico
+4076640 4078480 (05) Que vale por dois
+4078480 4081060 (05) De cara, tudo acaba caindo ali
+4081060 4082060 (05) Perdendo um ponto
+4082060 4085440 (05) Mas consegue empatar e virar
+4085440 4087820 (05) Botando essa partida dois a um
+4087820 4089300 (05) Vocês estão ali já
+4089300 4091620 (05) Pensuada, bem descabelada, né?
+4091720 4094080 (05) O Juiz manda vocês ajeitarem os quimonos
+4094080 4094780 (05) As faixas
+4094780 4096660 (05) E voltar a lutar, dois dados
+4096660 4097740 (10, 05) A gente tá gritando dois dados
+4097740 4097880 (10) A gente tá gritando dois dados
+4097880 4099220 (10) Vai, Kim!
+4099660 4100860 (10) Você arrasa!
+4101720 4103100 (10, 09) Eu tirei quatro e um
+4103100 4104540 (10, 05, 09) No movimento rápido
+4104540 4107400 (05) Você derruba a sua adversária
+4107400 4108440 (05) Segurando ela no chão
+4108440 4110080 (05) Alguém que entenda o esporte
+4110080 4110880 (05) Peça desculpa, gente
+4110880 4114440 (05, 09) Derrubei ela com o sogatário
+4114440 4116360 (09) Eu segurei na manga
+4116360 4119240 (09) E passei a minha perna por detrás da perna dela
+4119240 4121180 (09) Ela perdeu o equilíbrio, derrubei ela no chão
+4121180 4123040 (10, 09) E prendi ela pra não levantar
+4123040 4124620 (10, 05) Vocês comemoraram ali
+4124620 4127860 (05) Daqui a pouco tem a apresentação
+4127880 4129480 (05) Da Iva, né?
+4129960 4131800 (05) Mas assim, a coordenadora também dá um noto aqui
+4131800 4132560 (05) A gente gosta
+4132560 4135480 (05) O pessoal ali comemora bastante
+4135480 4137780 (05) A TV local filmou essa luta
+4137780 4141200 (10, 05, 03) Era uma lutadora
+4141200 4143480 (05) Assim, eles estavam ali pela sua oponente
+4143480 4146560 (05) Mas a matéria que vai lá vai falar de você
+4146560 4148780 (09) Eu penso, ainda bem que eu não vejo eles filmando
+4148780 4149620 (09) Minha Nossa Senhora
+4149620 4151040 (09) Ai, fica mais nervosa
+4151040 4153760 (10, 09) Eu dou um último abraço na Pinoa
+4153760 4156080 (10) Agora eu preciso me arrumar, gente
+4156080 4157740 (10) Ó, quero ver vocês lá pra semana que vem
+4157740 4158600 (10) Sendo por mim, hein
+4158600 4159460 (10, 11) Com certeza
+4159460 4163120 (12, 10, 11) Procurando o tal do Jean e da Patrícia
+4163120 4164920 (12) Pra ver se, sei lá
+4164920 4166460 (12) Agora a gente resolveu com a raiz
+4166460 4168880 (12) Eu vou filmar tudinho, mas nem se preocupa
+4168880 4169660 (12) Você vai brilhar
+4169660 4171340 (12, 09) Eu já tenho até uma música aqui, ó
+4171340 4174060 (10, 05, 09) É, tem até uma música
+4174060 4177520 (10, 05, 09) É, eu vou, eu preciso
+4177520 4180120 (10) Eu tenho um tempo pra me arrumar antes, né
+4180120 4182620 (10) Preciso colocar a roupa, arrumar o cabelo
+4182620 4183500 (10) Fazer maquiagem
+4183500 4185680 (10) A apresentação é mais
+4185680 4187620 (10) Cheia das coisinhas
+4187740 4189740 (10) Com antecedência, me arrumo
+4189740 4191340 (10) Pra poder me apresentar no evento
+4191340 4192680 (10, 05) Mas aí tu escolhe tua música também
+4192680 4194460 (10) Que música que vai tocar na sua apresentação?
+4194600 4197900 (10) Ah, vai ser algum funk que eu não faço ideia qual
+4197900 4199620 (10, 05) Tô lá pronta, já maquiada
+4199620 4202820 (05) Tu sabe que tu é uma das próximas ali
+4202820 4203640 (05) Tu tá ali na lateral
+4203640 4206200 (05) Tuas amigas estão mais na bancada, né
+4206200 4209200 (05) A Patrícia faz a apresentação dela
+4209200 4211060 (10, 05) Hum, Patrícia faz, né
+4211060 4213760 (10, 05) Ela faz uma apresentação
+4213760 4215340 (05) Muito bonita ali
+4215340 4215980 (05) Ela faz
+4215980 4217660 (05) Aí ela sai
+4217660 4219280 (05) Ali, recebe as notas dela
+4219280 4220640 (05) E é sua vez, Iva
+4220640 4221640 (05) Ah, não, uma dúvida
+4221640 4223300 (05) Ada e Pinoa
+4223300 4225720 (05) Vocês vão ficar vendo a Iva
+4225720 4227600 (05) Ou vão atrás da Patrícia?
+4227880 4230200 (09) Olha só, como eu vi a Patrícia se apresentando
+4230200 4232840 (09) E a gente, talvez o menino seja namorado dela
+4232840 4234140 (09) Eu fiquei olhando na arquibancada
+4234140 4235420 (09) Pra ver se ele tava assistindo
+4235420 4237880 (05, 09) Hum, não havia o menino onde tava ali
+4237880 4239300 (12, 05) Eu tô filmando, então
+4239300 4241160 (10, 12, 09) Ah, eu tô nem aí com a menina não
+4241160 4242420 (10) Vou assistir a panda
+4242420 4244800 (10, 05) Panda, dois dados
+4244800 4246980 (10, 05) Um e um
+4246980 4247520 (10, 05) Tu faz
+4247660 4248300 (05) A apresentação ali
+4248300 4249440 (05) Tu faz muito bem, né
+4249440 4252260 (05) As notas só ao final ali mesmo
+4252260 4253380 (05) Vão ser reveladas
+4253380 4255320 (05) Conseguiu dois acertos, né
+4255320 4257360 (05) Mas o nível está bem alto
+4257360 4258400 (05) Nesta ponta aí
+4258400 4260360 (05) A coordenadora também
+4260360 4261640 (05) Te dá parabéns, né
+4261640 4263380 (05) Tua apresentação foi muito bonita
+4263380 4264440 (05) Não dá ainda pra saber
+4264440 4266380 (05) Se ganhou ou não, né
+4266380 4268600 (05) Como eu falei, teve outras apresentações muito boas
+4268600 4269680 (10, 05) Mas eu tô toda feliz
+4269680 4272080 (10) Que eu consegui fazer a apresentação do jeito que eu queria
+4272080 4274080 (10) E o pessoal gostou da música
+4274080 4276480 (10) E é isso que vale pra mim
+4276480 4277200 (05) Você
+4277660 4280300 (05) Já tá no final do dia, né
+4280300 4282040 (05) Já começa a escurecer lá fora
+4282040 4284180 (05) O dia foi bem puxado
+4284180 4285700 (05) Vocês comem alguma coisa
+4285700 4287200 (05) E imagino que vão descansar, né
+4287200 4289680 (05, 09) Mas deu tempo de terminar a apresentação dela
+4289680 4291320 (09) E a gente ir ver lá o futebol
+4291320 4292500 (09) Que era do lado
+4292500 4296900 (05, 09) Era do colégio de vocês ou do local?
+4297000 4297640 (10, 05) Era do local
+4297640 4299180 (10, 05) Ela perguntou pra Joyce
+4299180 4302740 (10, 05) O time do Jean vence
+4302740 4304080 (05) O time da escola local, né
+4304080 4305440 (10, 05) Eu consigo ver o Jean
+4305440 4307340 (10, 05) Jogando, sim, ele fez dois gols
+4307660 4308620 (10) A Patrícia não está na arquibancada
+4308620 4310760 (10, 05) A Patrícia não está na arquibancada
+4310760 4311100 (10, 05) Não?
+4311220 4311640 (05) Não
+4311640 4312900 (05) A Raíssa também não
+4312900 4315260 (05, 09) Eu tiro uma foto do menino lá jogando
+4315260 4317480 (09) Não vejo elas e volto lá, né
+4317480 4319400 (09) Com a Ada e com a Panda e falo
+4319400 4322120 (09) Ó, o menino tá aqui, ele tava jogando
+4322120 4323220 (09) Eles ganharam lá
+4323220 4325660 (10, 09) Mas eu não vi nem a Raíssa nem a Patrícia
+4325660 4326820 (10) É, bonitinho
+4326820 4328680 (10) E esse é o único comentário que a Eva faz
+4328680 4330720 (10) Tão apaixonada
+4330720 4335620 (12, 10) Nossa, corações estão voando pela minha cabeça
+4335620 4336300 (10) Eu acho que daqui a um ano eu vou ficar com ela
+4336300 4336340 (10) Eu acho que daqui a um ano eu vou ficar com ela
+4336340 4336360 (10) Eu acho que daqui a um ano eu vou ficar com ela
+4336360 4336460 (10) Eu acho que daqui a um ano eu vou ficar com ela
+4336460 4336540 (10) Eu acho que daqui a um ano eu vou ficar com ela
+4337660 4339980 (12) Eu acho que daqui a um ano você vai engolir o que você tá falando
+4339980 4340860 (12) Mas tudo bem
+4340860 4342640 (10, 12) Meu amor, são os gatinhos
+4342640 4346180 (10) Eu pego um outro gato aleatório que tava passando ali e abraço
+4346180 4347820 (05) A Samira chega até vocês
+4347820 4349480 (10, 05) Vocês tão com a chave, né?
+4349560 4352060 (10) Aham, agora ela lembrou
+4352060 4353880 (10) Sim, a gente tá com a chave
+4353880 4355560 (10) Você já tá cansada? Quer ir dormir?
+4355720 4358920 (10) Eu queria pegar minhas coisas e carregar o celular
+4358920 4360100 (10) Vamos lá, vamos todo mundo
+4360100 4361500 (10) A gente já terminou aqui
+4361500 4364300 (10, 05) Eu sinto lá a conversa, eu conto como foi o dia
+4364300 4366860 (05) Os esportes de vocês, como é que foram as atividades
+4366860 4367640 (05) Eu sinto lá a conversa, eu conto como foi o dia
+4367640 4369440 (05) Alguém vai fazer alguma coisa extra
+4369440 4370600 (05) Antes de dormir e começar
+4370600 4372740 (05) O último dia de competição
+4372740 4374560 (12, 05) Eu quero ver as redes sociais
+4374560 4376420 (12) De quem a gente já descobriu, que é o Jean
+4376420 4378080 (12) E a Patrícia
+4378080 4378860 (12, 05) Dois dados
+4378860 4381520 (12, 05) Eu tirei 5 e 1
+4381520 4384500 (05) A única foto que tinha a Patrícia e o Jean junto foi excluída
+4384500 4387160 (12, 05) Eu vou fofocar isso já pra elas na hora
+4387160 4388520 (12) Babado, hein?
+4388920 4391640 (12) Será que tem o dedo daquela menina estranha?
+4392580 4393540 (12, 10) Eu não duvido
+4393540 4395400 (10, 12) Até você tá chamando ela de estranha
+4395400 4396880 (10) Ai, que preconceito, gente
+4396880 4397620 (10) Meu preconceito é que eu não sou estranha
+4397640 4399400 (10) Meu preconceito só é com ela falar do futuro, tá?
+4399620 4401180 (10) Ué, deixa ela sonhar
+4401180 4403200 (10) A mãe dela pode ter mandado ela excluir
+4403200 4405540 (10) Precisa ter sido a Raíssa que fez nada
+4405540 4407420 (10, 09) Hum, pode ser
+4407420 4408680 (10) Pode ser, é verdade
+4408680 4411660 (10) Guaxa, a minha apresentação foi única, né?
+4411680 4413140 (10) Eu não tenho mais apresentação
+4413140 4413540 (05) Não
+4413540 4416320 (10, 05) Então depois que as meninas estiverem dormindo
+4416320 4418600 (10) Eu vou querer sair
+4418600 4420060 (10) De noitão mesmo
+4420060 4423320 (10) Pra ver se a Raíssa vai aparecer lá na
+4423320 4424760 (10) Nas quadras
+4424760 4426240 (10, 05) Pra pegar a bolsinha dela
+4426240 4427620 (05) Ai, que não, vão dormir, hein?
+4427640 4429940 (10, 05) É, né? Nada foi comunicado
+4429940 4431080 (10) Nada comunicado
+4431080 4432340 (10) Vocês têm que descansar
+4432340 4435020 (10) Vocês têm ainda competição pela frente
+4435020 4437020 (10, 05) E eu não quero atrapalhar a competição de vocês
+4437020 4438460 (10, 05) Tem uma chave só
+4438460 4440780 (05) A porta vai ficar aberta ou vai levar a chave?
+4440880 4441780 (10) A porta vai ficar aberta
+4441780 4443060 (10) Vou deixar a chave por dentro
+4443060 4445540 (05) Tá, tu vai até as quadras, né?
+4445640 4446000 (05) Isso
+4446000 4449100 (10, 05) Quatro e dois
+4449100 4452420 (10, 05) Existem alguns alunos por ali à noite, né?
+4452740 4454280 (05) Alguns casaisinhos, inclusive
+4454280 4457120 (05) A segurança tá mais lá do lado de fora
+4457640 4459480 (05) Tem alguns professores jogando cartas ali, mas
+4459480 4461500 (05) Ninguém parece te parar
+4461500 4463800 (05) Eles acham que tu tá indo buscar comida
+4463800 4465060 (05) Ou alguma coisa
+4465060 4467280 (05) Ou mesmo se é só uma jovem passeando
+4467280 4469160 (05) Não parece suspeita, né?
+4469960 4473420 (05) Vai até a direção das quadras lá
+4473420 4474680 (05) Elas estão fechadas
+4474680 4476800 (10, 05) É daquelas portas que tem um vidrinho
+4476800 4478380 (10) Pra olhar lá pra dentro?
+4478600 4479840 (05) Tem um vidrinho pra olhar lá pra dentro
+4479840 4483240 (10, 05) Nenhuma movimentação, faixinho de luz, de lanterna, nada?
+4483560 4484040 (05) Dois dados
+4484040 4486060 (10, 05) Ah, nada
+4486060 4486740 (10) Dois e dois
+4486740 4487580 (10, 05) Nada, sim
+4487580 4487620 (05) Nada, nada
+4487640 4488540 (05) Tudo escuro
+4488540 4490020 (10, 05) Achei que tava sendo esperta
+4490020 4493080 (10) Ok, eu vou dar uma volta pela escola
+4493080 4494420 (10) Já que ela é enorme
+4494420 4498440 (10) Eu tava sem sono, tava preparada pra passar a noite de tocar
+4498440 4500140 (10) Mas vou dar uma volta pela escola
+4500140 4503480 (10) Fazer uma hora antes de voltar pro dormitório
+4503480 4505620 (05) Ah, dá o telefone tocando
+4505620 4509000 (12) Eu atendo meio dormindo
+4509000 4510960 (12) O que é que liga pras pessoas?
+4511860 4513720 (05) É uma chamada de vídeo da raiz
+4513720 4515160 (12, 05) Eu atendo
+4515160 4517220 (12, 05) Ela tá num lugar assim, meio escuro
+4517220 4517580 (05) Assim, altíssimo
+4517580 4519680 (05) Ela tá meio assustada, ela parece
+4519680 4520960 (12, 05) Você tá na escola?
+4521340 4522440 (12) Tô, tava dormindo
+4522440 4526340 (12) Enquanto isso, eu tô com o braço cutucando a quinoa pra ela acordar
+4526340 4528220 (05, 07) Eu preciso de...
+4528220 4531060 (05) O celular cai com o barulho de uma batida seca
+4531060 4532320 (12) Você cai no banheiro?
+4532880 4535620 (12) Acorda, a raiz tá em perigo, eu acho
+4535620 4537360 (12) Ela tava no escuro?
+4537520 4538260 (05) Fala dois dados
+4538260 4540700 (12, 05) Tirei seis e quatro
+4540700 4542980 (12, 05) Parece ser embaixo da arquibancada
+4542980 4544420 (05, 09) Se veste rápido
+4544420 4545400 (09) Cadê a panda?
+4545980 4547340 (09) Ela foi no banheiro
+4547340 4547720 (09) Será?
+4548160 4550600 (09) Eu tô botando assim, meio dormindo a minha calça
+4550600 4551720 (12, 09) E a blusa
+4551720 4552980 (12) A gente não tem tempo
+4552980 4554700 (12) Eu vou mandar mensagem no grupo
+4554700 4556600 (12) Ela deve ter levado o celular, bora lá
+4556600 4557840 (12) Vou compartilhar a localização
+4557840 4560160 (12, 09) A nossa localização também no grupo, se ela precisar
+4560160 4561220 (09) A porta tá aberta?
+4561300 4562380 (09) Ah, tá com a chave aqui, bora
+4562380 4562780 (09) Vamos
+4562780 4564200 (09) Deixa aberto, né?
+4564280 4564900 (09) Ela deixa aberto
+4564900 4567080 (12, 05, 09) Se ela voltar e não encontrar a gente
+4567080 4568320 (09) Deixa aí encostado
+4568320 4568800 (05, 09) Iva
+4568800 4571740 (05) Tu tava já quase desistindo pra voltar
+4571740 4573840 (05) Seu celular vibra, né?
+4574480 4577180 (05) O homem tava lá perto da região da...
+4577180 4577800 (05) Das quadras
+4577800 4579020 (05) Já de...
+4579020 4581420 (05) De meia idade, assim, usando um boné
+4581420 4582300 (05) Um casaco
+4582300 4583660 (05) Ele era pra ti?
+4584180 4584860 (00) Tá perdida?
+4585360 4586020 (10) E não falou mais nada
+4586020 4587020 (10) Só olha pra cara dele assim
+4587020 4587220 (10) Não
+4587220 4588640 (10, 00) Você não é daqui da escola?
+4588820 4588980 (10) Não
+4588980 4590080 (10, 00) Vai pro seu dormitório
+4590080 4590600 (10, 00) Não
+4590600 4592200 (10, 00) Tá escuro, é perigoso
+4592200 4593240 (10, 00) Eu tenho uma lanterna
+4593240 4595140 (10) Aí eu pego a lanterna que era da raiz
+4595140 4597120 (10, 05) Ele olha em volta e tal
+4597120 4598160 (05) Rola dois dados e...
+4598160 4600000 (10, 05) Seis e um
+4600000 4601140 (10, 05) Eu te avisei, hein?
+4601200 4601860 (10, 05) E ele tá indo embora
+4601860 4603140 (10, 05) Obrigada, boa noite
+4603140 4605000 (10) Ele parecia funcionário da escola?
+4605100 4605640 (10) Alguma coisa assim?
+4605960 4606240 (05) Não
+4606240 4607000 (05) Bem estranho
+4607180 4607780 (05) Tem uma mensagem
+4607780 4610520 (12, 10, 05) Sim, eu vou olhar a mensagem do celular
+4610520 4611520 (12, 05) Diz a mensagem, Ada
+4611520 4612960 (12, 05) A raiz já tá em perigo
+4612960 4614520 (12) Estamos indo pra arquibancada
+4614520 4616300 (12) E eu mandei a minha localização
+4616300 4617180 (12) Em tempo real
+4617180 4618160 (10, 12, 05) Tá ali do lado, né?
+4618240 4618720 (10, 05) É, eu tô...
+4618720 4619480 (10, 05) Quer dizer, bem perto
+4619480 4620500 (10) Tô bem mais perto
+4620500 4622600 (10) Tá, mas eu sei que tá trancado já
+4622600 4625220 (10) Tá, eu vou pra porta da arquibancada de novo
+4625220 4626440 (10) Das quadras lá
+4626440 4629200 (10) E vou tentar forçar, ver se...
+4629200 4629480 (10) Sei lá
+4629480 4630660 (10) E esperar as minhas amigas
+4630660 4631380 (10, 05) Tá aberto
+4631380 4634400 (10) Eu não tenho muita noção se é urgente ou não
+4634400 4635180 (10) Mas eu vou entrar
+4635180 4636900 (10) Talvez eu não corra até a arquibancada
+4637180 4638820 (10) Mas eu vou entrar nas quadras
+4638820 4639460 (10) Na quadra
+4639460 4640680 (10) E vou olhar em volta
+4640680 4642000 (10, 05) Pra ver se eu enxergo alguma coisa
+4642000 4642560 (05) Tudo escuro
+4642560 4644080 (10, 05) Tem a tua lanterninha ali, né?
+4644460 4645440 (05) Vai descer até o local
+4645440 4646600 (05) Onde vocês encontraram a raiz
+4646600 4647240 (05) Da outra vez?
+4647500 4649600 (10) Eu vou andando muito devagar
+4649600 4650940 (10) Muito cautelosamente
+4650940 4652720 (10) E nisso eu acabo esperando
+4652720 4654060 (10) As minhas amigas chegarem correndo
+4654060 4655500 (05) Vocês se encontram
+4655500 4656480 (10) O que aconteceu, gente?
+4656780 4658020 (10) O que é que tu tava aqui fora, hein?
+4658300 4659160 (10) Perguntei pra Panda
+4659160 4660180 (10) O que é que tu tá fazendo aqui fora?
+4660320 4661060 (10) Que não avisou a gente
+4661060 4661900 (10) Pra ir sozinha pra cá?
+4661940 4662780 (10) Eu vim tomar um arco
+4662780 4663600 (10) Bom, e a menina?
+4663720 4664020 (10) Cadê?
+4664460 4665620 (10) Onde que ela tava, Ada?
+4665700 4666460 (10) Ela tava aqui
+4666460 4666580 (10) Onde que ela tava?
+4666580 4668180 (10) Você não tava aqui com ela?
+4668700 4669380 (10) Não, não
+4669380 4671060 (10) Não vim procurar ela
+4671060 4671580 (10) Coisa nenhuma
+4671580 4673040 (10) Eu esperava encontrar
+4673040 4673560 (10) Mas...
+4673560 4675700 (10) Eu vou...
+4675700 4676480 (10) Desconversar
+4676480 4678080 (10) E vou com a lanterninha
+4678080 4679460 (10) Tentar procurar alguma coisa
+4679460 4680580 (10) Agora que eu tô com as minhas amigas
+4680580 4681640 (10) Eu tô me sentindo mais segura
+4681640 4683640 (10) Eu ligo a lanterna do celular
+4683640 4684700 (10) Pra ajudar
+4684700 4686240 (10, 05) Logo na entrada, assim
+4686240 4688380 (05) Da parte de baixo da arquibancada
+4688380 4690240 (05) Tá a raiz caída, né?
+4690360 4691980 (05) A sangue escorrendo ali
+4691980 4695300 (05) Ela se mexe com dificuldade
+4695300 4696560 (05) Ela põe a mão na cabeça
+4696560 4698480 (05) Onde tá o sangramento
+4698480 4700000 (05) Ela olha pra vocês
+4700000 4701220 (10, 05) Amarelo
+4701220 4701860 (10) Amarelo?
+4702480 4703580 (10) Raíssa, quem fez isso com você?
+4703860 4704560 (05) É o de Maia
+4704560 4705320 (10, 05) O que a gente faz?
+4705380 4706600 (10) A gente leva ela, chama alguém aqui
+4706600 4707280 (10) E acende a luz
+4707280 4707900 (10) O que a gente faz?
+4707940 4708520 (10) O que a gente faz?
+4708620 4710520 (10) Você falou que ela tava com a cabeça sangrando, né?
+4710680 4711660 (05) Tô perdendo bastante sangue
+4711660 4714660 (10, 05) Eu acho que é melhor a gente não tirar ela daqui, não, é?
+4714780 4715800 (10) Liga pra Joyce, Ada
+4715800 4717780 (10) Eu tô perto da...
+4717780 4718660 (10) Da Raíssa, assim
+4718660 4719640 (10) Tentando pegar nela
+4719640 4721360 (10) Vendo se tem mais alguma coisa
+4721360 4722640 (10) Eu tava com o moletomzinho, né?
+4722640 4723520 (10) Que eu saí à noite
+4723520 4725560 (10) Eu tiro o meu moletom e...
+4725560 4726360 (10) E coloco na...
+4726360 4727700 (10) Na cabeça dela pra...
+4727700 4729620 (10) Meio que tentar estancar o sangue
+4729620 4730800 (10) Por uma pequena pressão
+4730800 4731540 (10) Sem...
+4731540 4732760 (10) Sem tentar machucar muito
+4732760 4733980 (10) Eu tô ligando pra Joyce
+4733980 4735300 (10) Gente, mas quem fez isso?
+4735560 4736720 (10) Será que foi a Patrícia?
+4737700 4739380 (10) Será que ela chegaria a esse nível?
+4739700 4740820 (05) A Joyce atende
+4740820 4742380 (12, 10, 05) Oi, tá tudo bem?
+4742720 4744260 (12) Não, não tá tudo bem
+4744260 4746580 (12) A Raíssa tá machucada
+4746580 4748600 (12) Ela tá sangrando, coordenadora
+4748600 4749440 (12) Joyce
+4749440 4750900 (12) O que vocês fizeram?
+4750980 4752080 (12) Vem aqui, por favor
+4752080 4753280 (12) Alguém fez isso com ela
+4753280 4754240 (12) É uma emergência
+4754240 4754860 (12, 03) Aqui, onde?
+4755280 4755620 (12) Aqui
+4755620 4756340 (12) Eu vou mandar um e-mail
+4756360 4757020 (12) A gente tá na localização
+4757020 4758200 (12) A gente tá na arquibancada
+4758200 4759180 (12) Me esperem
+4759180 4762300 (12) O que mais que a gente faz, meninas?
+4762580 4763240 (10, 12) Eu não sei
+4763240 4765040 (10) Essa menina só se mete em rascado
+4765040 4766560 (10) O que eu quis dizer com o amarelo?
+4766900 4768320 (10) Ela tá carregando alguma coisa?
+4768600 4768820 (05) Não
+4768820 4770380 (10, 05) Eu tento mexer nela um pouquinho
+4770380 4771220 (10) Assim, no braço
+4771220 4772680 (10) Pra ver se ela...
+4772680 4773640 (10) Não mexe muito com ela
+4773640 4774840 (10) Pode machucar
+4774840 4776460 (10) Não, só tô mexendo no braço
+4776460 4779280 (10) Pra ver se ela acorda
+4779280 4780860 (12, 10) Não tô nem pegando na cabeça dela
+4780860 4782780 (12) Eu quero ver se ela tem o celular dela ali
+4782780 4784080 (12) Pra contato de emergência
+4784080 4785540 (12, 05) Pessoal, ela tá bloqueada
+4785540 4786340 (05) Não tem nenhum contato de emergência
+4786360 4788500 (12, 05) Mas tá bloqueado
+4788500 4790860 (12) Eu vou tentar usar a digital dela pra desbloquear
+4790860 4793180 (12, 05) Ela não cadastrou a digital
+4793180 4794020 (12, 05) É com senha
+4794020 4799340 (10, 12, 05) É aquele desenho dos nove pontinhos
+4799340 4801420 (10, 05) Eu tô olhando em volta
+4801420 4803840 (10) Porque não adianta ficar olhando pra cara da Raíssa
+4803840 4804980 (10) Eu tô olhando em volta
+4804980 4807520 (10) Pra ver se alguma coisa amarela me chama atenção
+4807520 4808540 (10) Se algum banner
+4808540 4810460 (10) Alguma banderola
+4810460 4812180 (10) A cor da quadra
+4812180 4813760 (10) Que eu talvez não tenha prestado atenção
+4813760 4815700 (10) Ver se algum amarelo me chama atenção
+4815700 4816340 (10, 05) Pois dá
+4816360 4818960 (10, 05) 5 e 3
+4818960 4821320 (10, 05) Tu encontra uma caixa
+4821320 4823320 (05) O tamanho de uma caixa de sapato
+4823320 4824380 (05) Que não tava ali antes
+4824380 4826360 (05) Postada assim num canto, na caixa escura
+4826360 4827120 (05) Tu quase não vê
+4827120 4830380 (10, 05) Olha gente, será que a Raíssa tava escondendo mais coisa aqui?
+4830780 4833240 (10) Aí eu pego a caixa e obviamente abro a caixa
+4833240 4834520 (10, 05) Ela é pesada
+4834520 4838620 (05) Muito parecida com o que vocês já viram em séries e filmes
+4838620 4840300 (05) Ela tem muitos fios
+4840300 4841880 (05) Um relógio
+4841880 4844380 (05) E uma estrutura atrás
+4844380 4846300 (05) Assim, claramente a escolher
+4846360 4849360 (10, 05, 09) Bota no chão devagar
+4849360 4852400 (08, 10) Tá, tá, tá, tá
+4852400 4854080 (10) Você sabe que eu tenho as mãos firmes
+4854080 4855360 (10) Fica tranquila
+4855360 4858820 (10) Mas não adianta eu levar meio metro da gente
+4858820 4861580 (10, 09) Eu disse que esse povo assistiu muito filme americano
+4861580 4862780 (10, 09) Tá vindo adulto aqui
+4862780 4864520 (10) E daí que tá vindo adulto?
+4864820 4868380 (10) Eu olho no relógio pra ver se tem algum marcador de...
+4868380 4869900 (10) Como que é? Contagem regressiva?
+4870020 4872180 (05) Não, ele marca as horas agora
+4872180 4873680 (10, 05) E se eu cortar o fio amarelo?
+4873800 4876340 (10) Aí eu pego, levanto assim o alicatinho de um ícone
+4876360 4877720 (12, 10) Que tava na bolsinha dela
+4877720 4878020 (12, 10) Não!
+4878940 4881500 (12) Leva essa caixa pro meio do gramado
+4881500 4882500 (12) Lá no centro
+4882500 4884500 (12) Pelo menos fica longe das pessoas
+4884500 4886040 (12, 05) Só tá vocês ali, né?
+4886140 4886760 (12) Não, sim, né?
+4886820 4888140 (12) Mas se der alguma...
+4888140 4889820 (12, 05, 09) Se aparecer mais alguém
+4889820 4892440 (12) Se tiver alguma instabilidade
+4892440 4894060 (12) Nesta bomba
+4894060 4896480 (12) Que ela esteja mais longe
+4896480 4898280 (12) Aí eu vou eu caminhando
+4898280 4900380 (12) Levando a caixa lá pro meio do gramado
+4900380 4902920 (10) Cuidado!
+4903300 4905920 (05) As duas ficaram com a raíça caída ali
+4906360 4909020 (05, 09) Enquanto a Iva tá indo embora com uma bomba
+4909020 4910620 (05, 09) A Ada disse que ia ajudar
+4910620 4912240 (09) Então acho que a Ada foi junto
+4912240 4913600 (09) E eu fiquei ali perto da raíça
+4913600 4915700 (09) Pra garantir que ela não vai puxar o fio amarelo
+4915700 4918420 (10, 09) Eu ia fazer isso, cacete
+4918420 4921600 (10, 05) Tá bom
+4921600 4923900 (05) Vocês duas chegam numa área assim
+4923900 4925200 (05) Aberta
+4925200 4927180 (10, 12, 05) Pronto, você acha que aqui tá longe o suficiente?
+4927720 4931000 (10, 12) Não faço ideia, mas é melhor do que lá grudado na gente
+4931000 4932040 (10) Eu vou
+4932040 4933740 (10) Ligar pra polícia então
+4933740 4936340 (10) Será que existe esquadrante bomba?
+4936360 4937760 (12, 10) Eu não sei
+4937760 4939320 (12, 10) Será que eles vão acreditar em mim
+4939320 4941520 (10) Dizendo que tem uma bomba no colégio aqui no Brasil?
+4941740 4942840 (10) A gente manda foto
+4942840 4944520 (10) E nisso a gente já tá voltando, tá?
+4944580 4945800 (10) A gente tá se afastando da caixa
+4945800 4947820 (10, 05) E largar a caixa lá sozinha
+4947820 4949940 (10, 05) E aí vai ficar perto da caixa
+4949940 4952800 (10) E aberta, aberta pra ver que tem explosivo dentro
+4952800 4954960 (05) Depois de algum tempo chega a
+4954960 4955860 (05) A apoiadora Joyce
+4955860 4957960 (05) Junto com ambulância
+4957960 4960860 (05) A polícia também chega, que vocês chamam ali
+4960860 4963500 (05) O Sérgio pede pra vocês três sentarem na bancada
+4963500 4964060 (05) Esperarem
+4964060 4966060 (05) O pessoal do resgate da ambulância
+4966360 4970040 (05) Ele coloca a Raíssa numa máquina daquela
+4970040 4970840 (05) E mobiliza
+4970840 4972840 (05) Leva ela embora dali
+4972840 4974880 (04, 05) O policial olha pra vocês e pergunta
+4974880 4977760 (04, 05) Tá, vocês machucaram uma amiga de vocês?
+4978000 4979620 (10) Não, a gente encontrou ela sim
+4979620 4981720 (10) Ela tava, eu acho
+4981720 4983100 (10) Tramando alguma coisa
+4983100 4985780 (10) Aí eu mostro a bolsinha assim
+4985780 4987620 (10) Ela tinha escondido isso
+4987620 4990380 (10) E aquela caixa que parece ter explosivos
+4990380 4991260 (10) Que tá lá no gramado
+4991260 4992680 (10, 04) É, a gente deu uma busca
+4992680 4995020 (04) Não encontramos a tal bomba
+4995020 4995400 (04) Oi?
+4996360 4998080 (09) Eita, desculpa moço
+4998080 5000020 (09) Mas a gente viu a caixa aqui
+5000020 5002940 (09, 03) E a gente não queria ficar perto da caixa
+5002940 5003900 (09) Porque era uma bomba
+5003900 5005800 (09) E a gente pediu pra ela botar a caixa lá
+5005800 5008300 (09) Como assim? Alguém pegou?
+5008720 5010860 (04) Então alguém roubou a bomba de vocês?
+5011040 5012320 (10) Não, a bomba não é nossa
+5012320 5014220 (10) Que bomba nossa, moço?
+5014480 5016120 (10) Alguém roubou a própria bomba, né?
+5016700 5018400 (10) Vai ver, a Raíssa não tava tramando nada
+5018400 5019240 (10) Era outra pessoa
+5019240 5021680 (10) Será que ela sabia que ia estar numa bomba aqui?
+5021840 5024780 (10) Aí eu olho assim muito significativamente
+5024780 5025540 (10) Pra que no...
+5026360 5029380 (10, 00) Será que ela poderia prever o futuro?
+5030000 5031980 (10) Não, talvez ela tenha visto alguém, não sei
+5031980 5033300 (10, 09) Tinha mais alguém aqui perto?
+5033920 5034660 (09) Não dá quadro
+5034660 5036520 (09) Tem que perguntar pros moços, policial
+5036520 5038820 (09) A gente chegou aqui, ela já tava caindo no chão
+5038820 5040900 (10, 04, 09) E vocês tão vendo que aqui não tá na bolsa
+5040900 5041980 (04) Vocês viram mais alguém?
+5042180 5045280 (10) Eu vi um senhor já de idade
+5045280 5048080 (10) E aí eu passo a descrição daquele senhor
+5048080 5050020 (10) Que mandou eu ir pro dormitório
+5050020 5052280 (10) Ele não parecia ser funcionário da escola, não
+5052280 5054700 (10, 04) Mas se ele não é funcionário da escola
+5054700 5056160 (04) Como ele conseguiu entrar no colégio?
+5056360 5057560 (10) Tendo um evento, tá?
+5057640 5058540 (10) Os portões estão abertos
+5058540 5059260 (10, 04) Não nesse horário
+5059260 5061160 (10, 04) Às vezes ele tava aqui antes do de ontem
+5061160 5062180 (12, 10) Não, mas a gente...
+5062180 5065080 (12) O senhor não deveria estar tratando a gente como culpada
+5065080 5066420 (12) A gente tá aqui pra ajudar
+5066420 5069400 (12, 04) Vocês ligaram pra polícia falando que tinha uma bomba
+5069400 5070800 (04) Não tem bomba
+5070800 5073280 (04) Vocês foram encontradas com uma menina sangrando
+5073280 5076320 (04) E pelo que a diretora me falou quando chegamos
+5076320 5078480 (04) Vocês tentaram afogar ela na privada
+5078480 5079840 (12, 04) Seu policial, olha aqui, ó
+5079840 5081220 (12) Ela me ligou pedindo ajuda
+5081220 5082300 (12) Eu tava dormindo
+5082300 5083420 (12, 04) Chamada de vídeo
+5083420 5085580 (12, 04) Não dá pra saber o que vocês falaram
+5085580 5086160 (12, 04) Olha...
+5086160 5089320 (12, 09) Em seguida, eu mandei mensagem pras minhas amigas aqui, ó
+5089320 5090320 (09) Olha o grupo aqui
+5090320 5093740 (09) E depois a gente ligou logo pra dona Joyce
+5093740 5094500 (09) Então, assim
+5094500 5096640 (09) Por que a gente ia ligar pra ela?
+5097380 5099420 (04, 05, 09) Se a gente quisesse fazer alguma coisa
+5099420 5100140 (04, 09) Os dados, Ada
+5100140 5102460 (04, 09) Tirei 3 e 1
+5102460 5102800 (04, 09) Tá
+5102800 5104260 (04) Vamos fazer o seguinte
+5104260 5107280 (04) Amanhã cedo, quero o depoimento de vocês de novo
+5107280 5108780 (04) Vamos descansar que já está tarde
+5108780 5110480 (04, 09) Amanhã tem competição, moço
+5110480 5112340 (09) A gente tá dando o depoimento agora
+5112340 5113880 (09) É a final da minha vida
+5113880 5114360 (04, 09) Ok
+5114360 5115980 (04) A amiga de vocês tá machucada
+5116160 5119240 (04) Vou esperar ela acordar pra ouvir a versão dela
+5119240 5122320 (04) Se precisar, eu vou ligar pra professora de vocês
+5122320 5123820 (04) Pra pegar o endereço de cada um
+5123820 5126380 (04) Pra vocês darem depoimento com os seus responsáveis
+5126380 5127180 (10, 04) Ótimo
+5127180 5129040 (10) A gente não tem nada que se condenar, moço
+5129040 5129800 (10) De qualquer forma
+5129800 5132840 (10, 04) Vou pedir pro pessoal fazer um pente fino no colégio
+5132840 5135200 (04) Pra tentar achar essa tal bomba de vocês
+5135200 5137800 (09) E o moço que a panda viu?
+5138180 5139140 (09) Que a Iva viu?
+5139480 5140820 (09) Você vai botar no relatório
+5140820 5142260 (04, 09) Viu esse moço aí?
+5142680 5144160 (04) Meia idade, homem branco
+5144160 5146000 (04) 90% das pessoas da região
+5146000 5147800 (04) Mas vamos tentar achar
+5147800 5150200 (10, 04) A Iva já desistiu e tá deitada na arquibancada
+5150200 5152260 (10, 04, 05) A coordenadora olha pra vocês?
+5152640 5154780 (10) Vão pro quarto agora
+5154780 5155260 (10) Senhora
+5155260 5156760 (08, 10, 02) Vou conversar com a polícia
+5156760 5158380 (08, 02) Que loucura
+5158380 5160680 (10, 02) Ai, eu odeio ser adolescente
+5160680 5162160 (10) Mal posso esperar pra ser adulta
+5162160 5163440 (10) Pra todo mundo acreditar em mim
+5163440 5164700 (10) Eu acredito em você
+5164700 5165840 (10) Que saco, viu?
+5166020 5169280 (10) Mas eu não entendi o que você tava fazendo na rua, Iva
+5169280 5170180 (10) Só fui andar
+5170180 5171760 (10) Eu queria ver se eu encontrava a Raíssa
+5171760 5174020 (10) Eu tava com medo que ela fosse fazer alguma coisa
+5174020 5175500 (10) E...
+5175500 5175980 (10) Aparentemente não foi assim
+5176000 5177860 (10) Aparentemente ela ia fazer alguma coisa mesmo, né?
+5178000 5178420 (10) Certo
+5178420 5180440 (10) A gente ficou preocupada com você
+5180440 5183040 (10) Não sei, mas eu não contei nada pra vocês
+5183040 5184740 (10) Exatamente pra não preocupar vocês
+5184740 5185920 (10) Vocês precisam descansar
+5185920 5187300 (10) Vocês tem competição amanhã
+5187300 5188760 (12, 10) Meu Deus, a competição
+5188760 5190300 (10, 12) Não é pra ficar nervosa
+5190300 5190660 (12) Vamos
+5190660 5191620 (10, 12) Você precisa dormir
+5191620 5195060 (10, 09) E ele queria que a gente ficasse na delegacia amanhã
+5206000 5209340 (05) Vocês dormem muito pouco
+5209340 5211440 (05) Até pela adrenalina de vocês ali
+5211440 5213940 (05) O despertador toca bem cedo
+5213940 5217340 (05) Vocês se encontram naquele café da manhã lá
+5217340 5220260 (05) A Ada e Kinoa
+5220260 5221440 (05) Um D2
+5221440 5224280 (05) Eu tirei um
+5224280 5226160 (05) A tua final é logo início da manhã
+5226160 5227100 (05) A Kinoa
+5227100 5227960 (05) Eu tirei dois
+5227960 5230040 (05) A tua final é no final da manhã
+5230040 5231180 (05) A tarde
+5231180 5233080 (05) Tem a final do futebol
+5233080 5235440 (05) Que é o único outro esporte que vocês estão
+5235440 5236460 (05) Concorrendo
+5236460 5237660 (05) E no xadrez
+5237660 5238840 (05) Tem uma pela manhã
+5238840 5240040 (05) Se ela ganhar tem uma tarde
+5240040 5241860 (05, 09) A gente tá ali tomando café
+5241860 5243260 (09) E eu falo pra elas
+5243260 5246940 (09) Vocês lembram que a Raíssa falou
+5246940 5250480 (09) Que não era pra gente ver o jogo do Kinoa?
+5250800 5251140 (09) Uhum
+5251140 5254160 (09) Mas ao mesmo tempo ela falou que o nosso time ia vencer
+5254160 5256140 (09) Então eu não sei o que
+5256140 5258780 (09) Se ia acontecer alguma coisa eles não venceriam
+5258780 5260340 (09) Eu não sei, eu tô tão confusa
+5260340 5262140 (12, 09) Mas era pra gente não assistir
+5262140 5263820 (12) Se ela falhasse, não era isso?
+5264180 5264640 (12) E agora?
+5264760 5265140 (12) Será que...
+5265440 5267340 (12) Ela conseguiu fazer o que queria?
+5267540 5269960 (12) Eu não quero que os meninos morram
+5269960 5271380 (10, 12, 09) Nossa, ninguém vai falar
+5271380 5272980 (12, 10, 09) Você vai chocar, você já tá bem
+5272980 5274240 (10, 09) Eu também
+5274240 5277380 (10) Mesmo que eu não assista o jogo
+5277380 5280880 (10) Vocês sabem que eu vou fazer uma varredura
+5280880 5282160 (10) Daquelas arquibancadas, né?
+5282420 5283960 (10) Até porque de manhã a gente já tem
+5283960 5285540 (10, 09) Os nossos jogos, né?
+5285900 5288360 (09) E a gente não vai poder ficar vendo essas coisas
+5288360 5290080 (09) Manda pelo amor de Deus, você tá muito cuidado
+5290080 5292320 (10, 09) Leve um malabar pra bater na cabeça de alguém
+5292320 5294460 (10, 09) Se aparecer o velho de novo
+5294460 5295420 (10) Eu vou assistir o malabar
+5295440 5296620 (10) E vocês também, você acha que não?
+5296780 5298400 (10) Não sei, você saiu ontem de noite
+5298400 5299640 (10) Sem falar nada pra gente
+5299640 5301580 (10) Era pra não preocupar vocês
+5301580 5304660 (10) Pra vocês dormirem, estarem descansadas hoje
+5304660 5306480 (12, 10) Eu quero fazer uma coisa antes
+5306480 5307800 (12) Da competição
+5307800 5309760 (12) Eu quero mandar um convite
+5309760 5313800 (12) O perfil da Patrícia é fechado ou aberto no Instagram?
+5314100 5314640 (12, 05) Aberto
+5314640 5315740 (12) Tá, beleza
+5315740 5318480 (12) Eu vou começar a segui-la
+5318480 5321160 (12) Até porque eu já tinha visto as fotos
+5321160 5321800 (12) Tudo, né?
+5322440 5324760 (12) E eu quero mandar uma mensagem pra ela
+5324760 5325880 (12) Dizendo
+5325880 5328360 (12) Olha, eu não sei
+5328360 5330280 (12) O que você tá inventando
+5330280 5332000 (12) Eu não sei se é você
+5332000 5334740 (12) Que tá planejando
+5334740 5336460 (12) Coisas explosivas
+5336460 5337640 (12) Mas
+5337640 5340140 (12) Saiba que tem muita gente de olho
+5340140 5341140 (12) Tá certo?
+5341560 5344100 (12, 05) Não é ameaçar
+5344100 5347280 (10, 12, 05) Vai ficar ótimo no currículo policial
+5347280 5348660 (12, 05) Talvez seja sobre bocha
+5348660 5349580 (12, 05) Talvez
+5349580 5351900 (12, 05) Coisas explosivas
+5351900 5354140 (12, 05) É o horário da Ada, né?
+5354260 5354600 (05) Fazer a...
+5354600 5356140 (05) A final dela ali
+5356140 5357200 (12, 05) Mas dá tudo certo
+5357200 5360500 (12) E ninguém vai se machucar mais
+5360500 5361420 (12) Né, Kinoa?
+5361560 5363220 (12, 05) Ok, Ada, é a final
+5363220 5366580 (05) Finalmente um competidor que parece saber o que tá fazendo
+5366580 5367660 (05) Se posiciona ali
+5367660 5369660 (05) Começa as próprias jogadas
+5369660 5370500 (05) Fala dos dados
+5370500 5373100 (05) Eu tirei 4 e 3
+5373100 5375660 (05) A partida é extremamente acirrada
+5375660 5377240 (05) Em um momento
+5377240 5380060 (05) A oponente tá mais próximo
+5380060 5382220 (05) Faz uma jogada pra afastar
+5382220 5384360 (05) A jogada dela e deixar a torna
+5384600 5386280 (05) E no final
+5386280 5388580 (05) Na última bocha lançada
+5388580 5390100 (05) Você venceu
+5390100 5391280 (05, 03) Aaaaaaai
+5391280 5393280 (03) Aaaaaaai
+5393280 5394760 (11, 03) Aaaaaaai
+5394760 5397780 (03, 11) De novo abraço coletivo
+5397780 5398880 (11) Abraço coletivo
+5398880 5401140 (09, 11) Gritaria generalizada
+5401140 5405940 (09, 11) Pega a bocinha com as bochas da Ada
+5405940 5406800 (09) E pula junto
+5406800 5410000 (05, 09) Os meninos de futebol
+5410000 5411920 (05) Abraçam, pulam em volta
+5411920 5413760 (05) Também fazem uma
+5413760 5414240 (05) Uma ciranda
+5414600 5415880 (05) Em volta de vocês
+5415880 5417520 (05) Não estão todos
+5417520 5420080 (05) O Matias não está ali
+5420080 5421100 (10, 05, 09) Peladinho
+5421100 5423140 (10, 05) Ele tá assistindo o xadrez da Samira
+5423140 5427240 (10, 05) A gente tá ali comemorando
+5427240 5428700 (10, 05) Coitado do Matias
+5428700 5431660 (05) Já tem uma vitória pra escola de vocês
+5431660 5434180 (05) Mas logo é a vez
+5434180 5435120 (05) Da Kinoa
+5435120 5437080 (05) Fazer a batalha final dela
+5437080 5438600 (05, 09) Ai, ai, ai
+5438600 5442120 (05, 09) A oponente da final não é tão conhecida
+5442120 5442860 (05) Quanto a anterior
+5442860 5444440 (05) Mas por ser
+5444600 5446400 (05) Um esporte olímpico até
+5446400 5448920 (05) E por uma candidata
+5448920 5450120 (05) Atleta olímpica
+5450120 5451220 (05) Que precisa ser derrotada
+5451220 5453320 (05) No combate anterior
+5453320 5456000 (05) Tem bastante gente por ali
+5456000 5457180 (05) Agora eu tive as câmeras
+5457180 5459660 (10, 05) Ah, meu Deus, comecei a ficar nervosa
+5459660 5461320 (10) A mão tá suando
+5461320 5463160 (10) Enxugar a mão no kimono
+5463160 5464420 (10) Respiro fundo
+5464420 5466460 (10, 09) Ai, meu Deus
+5466460 5468980 (10, 09) Não dá certo, bato no rosto
+5468980 5470640 (10, 05) Vocês se posicionam
+5470640 5474560 (05, 09) Eu tirei 5 e 2
+5474600 5476040 (09) Sendo 5 o meu atributo
+5476040 5477560 (05, 09) A vitória foi fácil
+5477560 5478420 (05) Como é que foi a vitória?
+5478680 5479760 (09) Ai, Jesus, bora lá
+5479760 5482020 (09) Tentamos nos derrubar algumas vezes
+5482020 5483360 (09) Mas aí eu fiz
+5483360 5485720 (09) Eu usei um golpe chamado Koshiguruma
+5485720 5487700 (09) E joguei ela por cima
+5487700 5489420 (09) Consegui desestabilizar ela
+5489420 5491940 (09) Joguei ela por cima de mim assim
+5491940 5493000 (09) Derrubei no chão
+5493000 5495020 (09) E lá ela ficou
+5495020 5497320 (09) Eles entregam as medalhas logo depois
+5497320 5498620 (09) Ou vai entregar tudo no final?
+5498920 5499620 (05) Já entregam ali
+5499620 5500560 (05, 09) Já entregam ali
+5500560 5502000 (09) Então tá, eu e a Ada assim
+5502000 5503100 (09) Um do lado da outra assim
+5503100 5503720 (09) Com a medalha
+5503720 5504300 (09) Uhul
+5504600 5506940 (10) Quando é que sai o resultado do seu?
+5507160 5507940 (05) É início da tarde
+5507940 5508980 (10, 05) Eu não sei
+5508980 5509780 (10) Eu realmente não sei
+5509780 5510440 (10) Eu dou de ombro
+5510440 5510920 (10) Não sei
+5510920 5512940 (10) Ai, imagina nós três voltando
+5512940 5515980 (12, 10) Mas eu tenho certeza
+5515980 5517580 (12) Que independente do resultado
+5517580 5518500 (12) Você brilhou
+5518500 5520260 (12, 09, 03) Tava todo mundo impressionado
+5520260 5521220 (12) Com a sua apresentação
+5521220 5522060 (12) Ai, eu gostei demais
+5522060 5522860 (12) Foi super legal
+5522860 5523860 (12) Eu não ligo pra medalha
+5523860 5524680 (10, 12) Vocês sabem disso
+5524680 5525940 (10, 05) Vocês comem
+5525940 5528460 (05) A Samira venceu pela manhã
+5528460 5529480 (10, 05) Ganha abraço
+5529480 5530260 (10, 05) Festinha
+5530260 5531960 (10, 05) Logo no início da tarde
+5531960 5533460 (05) A Samira vence também
+5533460 5534580 (05) E leva mais um
+5534600 5535140 (05) Mais um ouro
+5535140 5536320 (05) Pra escola de vocês
+5536320 5537600 (05) Ali no início da tarde
+5537600 5539040 (05) Há uma demora
+5539040 5540400 (05) Mas logo sai o resultado
+5540400 5542620 (05) Da ginástica também
+5542620 5544880 (05) A Patrícia ficou em terceiro
+5544880 5546360 (05) E a Plano ficou em segundo
+5546360 5548600 (10, 05, 03) Aêêêêêê
+5548600 5550160 (10, 05) Uma outra garota
+5550160 5550900 (05) De um outro colégio
+5550900 5552840 (10, 05) Acabou levando a primeira posição
+5552840 5553760 (10) Dou os parabéns
+5553760 5554440 (10) Pra essa garota
+5554440 5555540 (10) Que ganhou o ouro
+5555540 5556840 (10) Dou um abraço nela
+5556840 5559180 (10) Dou um abracinho na Patrícia
+5559180 5560740 (10) Mas assim, de longe
+5560740 5561880 (10) Meio que a gente
+5561880 5563600 (10) Não tem intimidade pra isso
+5563600 5564580 (10, 05) Também não tenho qual outra
+5564580 5565060 (10) Meta antes
+5565060 5566400 (10, 05) Ela até te abraça
+5566400 5567080 (05) Mas tu vê que ela aqui
+5567080 5567460 (05) O tempo todo
+5567460 5568620 (05) Ela tá meio olhando assustada
+5568620 5569760 (05) Pra Ada e safada
+5569760 5572400 (05) A euforia, né
+5572400 5573480 (05) Muitas vitórias
+5573480 5574660 (05) Vocês estão ali
+5574660 5577200 (05) O dia passa voando
+5577200 5578520 (05) Vocês quase esquecem
+5578520 5580180 (05) Toda aquela loucura
+5580180 5581840 (05) Que foi o dia anterior
+5581840 5584160 (05) E quando vocês percebem
+5584160 5586820 (05) Estão na última competição do dia
+5586820 5588480 (05) A final do futebol
+5588480 5590640 (05) Beta contra Malu
+5590640 5592680 (05) O time da Malu
+5592680 5593980 (05) Já começa
+5593980 5594420 (05) Marcando a bola
+5594420 5595200 (05) Marcando um gol
+5595200 5597220 (05) O time de vocês
+5597220 5598300 (05) Já está em desvantagem
+5598300 5599420 (05) Vocês estão lá sentadas
+5599420 5600360 (05) Na arquibancada
+5600360 5601900 (05, 09) Tamo gritando, né?
+5602800 5604440 (10, 05, 09) Eu não tô sentada
+5604440 5605120 (10) Na arquibancada
+5605120 5605340 (10) Eu falei
+5605340 5606720 (10) Eu vou fazer uma varredura
+5606720 5608000 (10) Eu vou andar por baixo
+5608000 5608920 (10) Das arquibancadas
+5608920 5609660 (10) Ver se eu encontro
+5609660 5611080 (10) Mais algum objeto
+5611080 5611920 (10) Caixa
+5611920 5612580 (10) Bolsa
+5612580 5613200 (10) Mochila
+5613200 5613880 (10) Sacola
+5613880 5615920 (10) Qualquer coisa suspeita ali
+5615920 5617280 (10) Porque vai que tentaram
+5617280 5618520 (10) Meter explosivo de novo
+5618520 5619400 (10, 05) No jogo
+5619400 5620600 (10, 05) Fozinho com as tuas amigas
+5620600 5622020 (10, 05) Eu disse pra elas
+5622020 5622520 (10) Dessa vez
+5622520 5623940 (10) Que eu ia fazer a varredura
+5623940 5624300 (10) Então
+5624300 5626620 (10) Fica por elas
+5626620 5627360 (10) Se elas querem
+5627360 5628160 (12, 10) Me ajudar
+5628160 5629120 (10, 12) Se espalhar
+5629120 5629660 (12) Ou não
+5629660 5631460 (12) Eu não vou deixar vocês fazerem
+5631460 5633020 (12) É perigoso
+5633020 5634120 (10, 12) Na verdade
+5634120 5635340 (10, 09) A gente já passou por isso, né?
+5635620 5637160 (09) Eu vou ficar aqui na arquibancada
+5637160 5638780 (09) Na torcida ali
+5638780 5639880 (09) Só de olho
+5639880 5642180 (09) Ver se mais alguém vai atrás delas
+5642180 5643100 (09) Quase elas forem
+5643100 5644160 (09) Porque se for todo mundo
+5644160 5645680 (09) Aí eu fico ali na torcida
+5645680 5646360 (09) E fico de olho
+5646360 5646880 (09) Pra ver se
+5646880 5648060 (09) Aparece
+5648060 5649120 (09) Eu tento ver
+5649120 5649940 (09) Se tem um homem
+5649940 5650900 (09) Do jeito que a
+5650900 5651780 (09) Que a Iva
+5651780 5653220 (09) Escreveu
+5653220 5653840 (09) Mas fico de olho
+5653840 5654280 (09) Elas vão
+5654280 5654560 (09) Lá
+5654560 5655400 (09) E vou ficar
+5655400 5655780 (09) Tipo
+5655780 5656400 (09) Mais em cima
+5656400 5656740 (09) Olhando
+5656740 5657980 (09) Porque a gente tá na arquibancada, né?
+5658140 5659140 (12, 09) Uma visão melhor
+5659140 5659700 (12) Então
+5659700 5660980 (12) Talvez ao invés
+5660980 5662500 (12) De acompanhar a Iva
+5662500 5664080 (12) Eu fico em algum ponto
+5664080 5665680 (12) Se a Quinoa tá na arquibancada
+5665680 5667140 (12) Eu fico em algum ponto
+5667140 5667680 (12) Embaixo
+5667680 5668620 (12) Próximo ao campo
+5668620 5669840 (12) Pra ter uma visão
+5669840 5671220 (12) Diferente dos lugares
+5671220 5672460 (12) E se eu ver alguém
+5672460 5673200 (12) Indo em direção
+5673200 5674220 (12) Aonde tá a Iva
+5674220 5675660 (12) A gente se manda uma mensagem
+5675660 5676500 (12) Alguma coisa assim
+5676500 5677900 (12, 05) Iva, dois dados
+5677900 5680380 (12, 05) Cinco e três
+5680380 5681680 (10, 12, 05) Um acerto simples
+5681680 5683420 (05) Tu já começou
+5683420 5684120 (05) Como eu falei
+5684120 5684260 (05) A gente já começou
+5684280 5685320 (05) A muvuca toda
+5685320 5685800 (05) Tá chegando ali
+5685800 5686860 (05) O jogo já começou
+5686860 5687300 (05) Tá uma
+5687300 5688860 (05) Bastante gente
+5688860 5690060 (05) Pra todos os lados
+5690060 5690520 (05) Ali
+5690520 5691940 (05) Tem uma dificuldade
+5691940 5693060 (05) Até pra se locomover
+5693060 5694060 (05) Tu vai primeiro
+5694060 5695260 (05) Embaixo da arquibancada
+5695260 5695780 (05) Que rolou
+5695780 5696840 (05) Toda aquela comoção
+5696840 5698400 (05) Na noite anterior
+5698400 5700000 (05) Nada te chama
+5700000 5700800 (05) Atenção ali
+5700800 5702360 (05) Quando tu tá saindo
+5702360 5703160 (05) Tu vê
+5703160 5704320 (05) Na arquibancada
+5704320 5705340 (05) Do outro lado
+5705340 5706020 (05) Do campo
+5706020 5707500 (05) Aquele mesmo homem
+5707500 5707980 (05) Que tu viu
+5707980 5708800 (05) Na noite anterior
+5708800 5710360 (05) Saindo apressado
+5710360 5710980 (05) Debaixo
+5710980 5712460 (05) Da arquibancada
+5712460 5713320 (10, 05) Eu tenho certeza
+5713320 5714060 (10) Que as minhas amigas
+5714060 5714260 (10) Estão
+5714260 5715080 (10) Olhando pra mim
+5715080 5716360 (10) Cuidando de mim
+5716360 5717900 (10) Eu aponto pro cara
+5717900 5718560 (10) E grito
+5718560 5718780 (10) Ali
+5718780 5719380 (10) Ali
+5719380 5720020 (10) É ele
+5720020 5721380 (10) E corro atrás dele
+5721380 5722100 (08, 10) Eu tava
+5722100 5723680 (08, 10) Eu tava na arquibancada
+5723680 5724240 (10) Do outro lado
+5724240 5724580 (10) Né isso?
+5725040 5726200 (10) Ela foi do outro
+5726200 5726840 (10, 05) Isso
+5726840 5728140 (10, 05) Então eu tô mais perto
+5728140 5728780 (10) Do homem, né?
+5728900 5729220 (05) Isso
+5729220 5731200 (10, 05) Então nisso que ela fala
+5731200 5732500 (10) Que aponta ali
+5732500 5732720 (10) Ali
+5732720 5733260 (10) Eu já tava
+5733260 5734460 (10) Prestando atenção
+5734460 5735380 (10) Ver se viu o homem
+5735380 5737080 (10) Eu vou atrás do cara
+5737080 5737820 (12, 10, 05) Ah, né?
+5738140 5738440 (12) Eu
+5738440 5739580 (12) Eu vou gritar
+5739580 5740560 (12) Polícia
+5740560 5743300 (10, 12, 05) No meio de duas torcinhas de futebol
+5743300 5743800 (10, 05) Beleza
+5744260 5746360 (10, 05) Que não é dois dados
+5746360 5748740 (10, 09) Seis e um
+5748740 5750160 (05) O cara já tá fora do
+5750160 5752540 (05) Ele consegue sair ali da
+5752540 5753760 (05) Do ginásio
+5753760 5754600 (05) Como é que tu
+5754600 5755600 (05) O aborda ele?
+5755900 5756600 (09) Volta aqui
+5756600 5757100 (09) Seu
+5757100 5757560 (09) Seu
+5757560 5758780 (09) Explosivo
+5758780 5759680 (09) Volta aqui
+5759680 5760140 (09) Ele tentou
+5760140 5761460 (05) Ele tentou correr
+5761460 5762160 (05) E tu alcançou
+5762160 5762780 (05, 09) Aham
+5762780 5763960 (10, 09) Eu tento derrubar ele
+5763960 5764700 (10, 05, 09) Consegue
+5764700 5765480 (05) Tu derruba ele
+5765480 5767640 (10, 05) Eu tô imobilizando ele
+5767640 5768940 (10) Fazendo uma chave de braço
+5768940 5770220 (05) Adam
+5770220 5770980 (05) Ninguém ligou
+5770980 5772060 (05) Porque o polícia ali
+5772060 5772700 (05) Alguns até
+5772700 5773600 (05) Me seguem
+5773600 5774200 (05) Com a polícia
+5774200 5774960 (05) Também como fosse
+5774960 5775580 (05) Um dia de guerra
+5775580 5776960 (10, 05) Não
+5776960 5777600 (05) Eva
+5777600 5778620 (05) Viu que a tua amiga
+5778620 5779960 (05) Viu pela portinha
+5779960 5781240 (10, 05) Derrubou o cara lá fora
+5781240 5782180 (10) Bom, eu queria ir lá
+5782180 5783340 (10) Interrogar ele
+5783340 5784840 (10) Mas acho que é mais importante
+5784840 5785840 (10) Ver se ele colocou
+5785840 5786980 (10) Algum outro explosivo ali
+5786980 5788060 (10) Então eu vou dar uma olhada
+5788060 5788940 (10) Na bancada
+5788940 5790340 (10) De onde ele saiu
+5790340 5790960 (05) A Ada vai contar
+5790960 5791780 (05) Que ele tá no polícia
+5791780 5792440 (10, 05) Com a
+5792440 5792700 (10, 05) Não
+5792700 5793180 (05) Eu vou
+5793180 5795320 (13, 10, 05) Abraça a galera
+5795320 5796200 (13) E fica passando
+5796200 5797060 (12, 13) O meu intento
+5797060 5797700 (12, 13) Ele falhou
+5797700 5799160 (12, 13) Miserávelmente
+5799160 5800180 (12, 13) Eu vou correr
+5800180 5801240 (12, 05, 13) Pra ajudar minhas amigas
+5801240 5801860 (05) Qual das duas?
+5802240 5803080 (12) Eu vou tentar ajudar
+5803080 5803640 (12) A Kinoa
+5803640 5804040 (12) Que tá
+5804040 5805580 (12) Próxima do homem, né?
+5805760 5806160 (12, 05) Beleza
+5806160 5806820 (12, 05) Eva
+5806820 5808160 (05) Tá uma caixa de
+5808160 5809600 (05) Sapato lá no cantinho
+5809600 5811180 (05) Uma posição muito parecida
+5811180 5812140 (05) Da noite anterior
+5812140 5813120 (05) Fica agora nesse lado
+5813120 5813620 (10, 05) Ok
+5813620 5814620 (10) Vigadosamente
+5814620 5815300 (10) Da mesma forma
+5815300 5816260 (10) Eu abro a tampa
+5816260 5817820 (10, 05) É a mesma bomba
+5817820 5818800 (10) Aí eu mando mensagem
+5818800 5819220 (10) No grupo
+5819220 5820360 (10) Tem outra bomba aqui
+5820360 5821500 (10) Aí eu pergunto
+5821500 5821700 (10) Pro
+5821700 5822460 (10) Assim
+5822460 5823820 (10) Deduzo que a Ada
+5823820 5824600 (10, 09) Viu a mensagem
+5824600 5825040 (09) E me falou
+5825040 5826180 (09) Porque eu tô segurando o homem
+5826180 5826940 (09) Tem outra bomba
+5826940 5827540 (09) Ele tá falando
+5827540 5828520 (09) Que tem outra bomba
+5828520 5829320 (09) Como é que desaba
+5829320 5830340 (09) Essa bomba, moço?
+5830440 5830840 (09) Senão eu vou
+5830840 5831660 (05, 09) Ele só ri
+5831660 5832620 (05, 09) Eu tô puxando
+5832620 5833280 (09) O braço dele
+5833280 5833800 (09) No sentido
+5833800 5835000 (09) De que vai deslocar
+5835000 5835420 (10) O braço
+5835420 5836040 (10) Se ele não falar
+5836040 5836620 (10, 05, 07) Um dado
+5836620 5838520 (10, 05, 07) Dois
+5838520 5840840 (10, 07) Eu não sei
+5840840 5842340 (10, 07) Eu não sei desarmar
+5842340 5842940 (10, 07) Olha, meu irmão
+5842940 5843220 (10) Tu
+5843220 5844900 (10) Tu construiu a porra da bomba
+5844900 5846220 (10, 09) E não sabe como é que desarma
+5846220 5846760 (09) Ah
+5846760 5847280 (09) Ada
+5847280 5848120 (09) Fala pra Eva
+5848120 5850700 (12, 09) Eu mando mensagem, né?
+5850760 5852000 (12) Ele não sabe como desarmar
+5852000 5852460 (12) Mas
+5852460 5854220 (12) Eu vou chamar a polícia
+5854220 5855580 (12) Tô ligando pra polícia
+5855580 5856240 (12, 05) Eva
+5856240 5856900 (12, 05) Bom
+5856900 5858160 (10, 12) Eu tenho um alicate
+5858160 5859020 (10, 05) Tem
+5859020 5860480 (10, 05) Existem fios amarelos
+5860480 5861520 (10, 05) Um só
+5861520 5862840 (10, 05) Um único fio amarelo
+5862840 5863780 (10) Não tem fio amarelo
+5863780 5864660 (10) E cortagem regressiva
+5864660 5865220 (10) Novamente
+5865220 5866200 (10, 05) Tem um, né?
+5866280 5866800 (05) Um só
+5866800 5867960 (05) O horário local
+5867960 5868940 (05) Provavelmente
+5868940 5870060 (05) Em algum momento
+5870060 5870580 (05) Essa bomba
+5870580 5871040 (05) Foi programada
+5871040 5871600 (05) Pra explodir
+5871600 5873140 (10, 05) Eu olho
+5873140 5875060 (10) Pros meninos jogando
+5875060 5876040 (10) Meus amigos
+5876040 5877880 (10) Eu pego o alicate
+5877880 5878900 (10) E eu corto o fio amarelo
+5878900 5881000 (10, 05) O relógio apaga
+5881000 5881800 (10, 05) É
+5881800 5882780 (10) Aí eu pego
+5882780 5884100 (10) Não vou mandar áudio
+5884100 5885060 (10) Porque tá uma barulheira
+5885060 5885980 (10) Que elas não vão ouvir nada
+5885980 5886940 (10) Manda em texto
+5886940 5887700 (10) Com a mão tremendo
+5887700 5888260 (10) Obviamente
+5888260 5889880 (10) Tudo errado
+5889880 5890380 (10) Escrito
+5890380 5891340 (10) Não tinha como
+5891340 5892080 (10) Não ia ter como
+5892080 5893280 (10) Sair com a bomba daqui
+5893280 5894780 (10) Alguém ia trombar em mim
+5894780 5896820 (10) Então eu desarmei a bomba
+5896820 5897680 (10) E mando uma foto
+5897680 5898340 (10) Do fio cortado
+5898340 5899540 (10, 09) O que foi que aconteceu, Ana?
+5899600 5900300 (09) O que foi que aconteceu?
+5900660 5901380 (09) Essa maluca
+5901380 5902540 (09) Desarmou a bomba
+5902540 5902760 (09) É
+5902760 5903820 (12, 10, 09) Eu
+5903820 5904460 (12) Eu
+5904460 5905960 (12) Eu não acredito
+5905960 5906640 (12) Eu não acredito
+5906640 5907720 (12) Que ela se arriscou
+5907720 5909160 (12, 09) Liga pra Joyce também
+5909160 5910080 (09) A Joyce deve chegar
+5910080 5910920 (09) Antes da polícia
+5910920 5911800 (09) É verdade
+5911800 5912440 (09) Vamos
+5912440 5913920 (09) Vamos mandar mensagem pra ela
+5913920 5915440 (05, 09) A Joyce deve estar lá
+5915440 5916380 (05) Na torcida, né?
+5916540 5916660 (09) É
+5916660 5918060 (09) Eu mandei mensagens
+5918060 5918640 (09) Pra ela
+5918640 5919420 (09) Pra Joyce
+5919420 5920680 (09) O celular vai tremer
+5920680 5921480 (09) Mais fácil ela ver
+5921480 5922160 (09) Do que a gente ir
+5922160 5922920 (05, 09) Qual o intervalo
+5923280 5924400 (05) A polícia chega
+5924400 5925340 (05) O homem
+5925340 5926860 (05) Ele é preso
+5926860 5927860 (05) A bomba
+5927860 5928620 (05) É realmente
+5928620 5929640 (05) Identificada
+5929640 5930400 (05) Ali no lugar
+5930400 5931660 (05) Todo mundo é retirado
+5931660 5932380 (05) Da quadra
+5932380 5933700 (05) O jogo é interrompido
+5933700 5935080 (05) O grupo grande
+5935080 5935920 (05) De policiais
+5935920 5936760 (05) Chegam ali
+5936760 5939000 (05) Fazem toda aquela análise
+5939000 5939980 (05) Após um tempo
+5939980 5940540 (05) Um dos policiais
+5940540 5941220 (05) Chega até
+5941220 5942400 (05) A Iva
+5942400 5943560 (05) Foi você
+5943560 5944240 (04, 05) Que cortou o fio?
+5944400 5944600 (10, 04) Foi
+5944600 5945900 (10, 04) Como você sabia
+5945900 5946480 (04) O fio certo?
+5946640 5947460 (10) É sempre amarelo
+5947460 5948300 (10, 13, 03) E eu sorrio
+5948300 5949340 (10, 13, 03) Aquele sorriso
+5949340 5950580 (10) Bem confiante, sabe?
+5951000 5951680 (10, 13) Vamos dar um face tome
+5951680 5952440 (10, 04, 13) Eu sei das coisas
+5952440 5953260 (10, 04) Deveria ser
+5953260 5954140 (04) Brigar com você
+5954140 5955220 (04) Mas a explosão
+5955220 5955760 (04) Teria deixado
+5955760 5956440 (04) Muitas vítimas
+5956440 5957120 (04) Então
+5957120 5958180 (04) Parabéns
+5958180 5958940 (10) Obrigada
+5958940 5960820 (10) Foi uma aposta acertada
+5960820 5962020 (10) E eu dou de ônus
+5962020 5963200 (10) Eu queria perguntar
+5963200 5963880 (10) Pro policial
+5963880 5965240 (10) Ou pra algum policial
+5965240 5966220 (10) Se a Raíssa acordou
+5966220 5967120 (10, 09) E a Raíssa
+5967120 5967640 (10) Ela acordou?
+5968040 5968540 (04) Acordou
+5968540 5969720 (04) Ela confirmou
+5969720 5970440 (04) A história de vocês
+5970440 5971680 (04) Ela descreveu
+5971680 5972320 (04) O mesmo homem
+5972320 5973080 (04) Que vocês falaram
+5973080 5973720 (04) Como agressor
+5973720 5974740 (10, 04) Eu só balanço a cabeça
+5974740 5975440 (10) Eu falei pro senhor
+5975440 5976220 (10) Falei pro senhor
+5976220 5977360 (10, 05) Após um tempo
+5977360 5978640 (05) Considerável
+5978640 5979960 (05) As escolas
+5979960 5981320 (05) Decidem retomar
+5981320 5982460 (05) A partida
+5982460 5982780 (05) Né?
+5983260 5983720 (05) Muitos alunos
+5983720 5984580 (05) Já foram embora
+5984580 5985360 (05) O clima
+5985360 5986740 (05) Muitos pais ali
+5986740 5987840 (05) Levaram seus filhos
+5987840 5988980 (05) Embora principalmente
+5988980 5989620 (05) Com medo
+5989620 5991320 (05) Mas a polícia
+5991320 5992300 (05) Após essas horas
+5992300 5993060 (05) Todas garantidas
+5993060 5994100 (05) Estava tudo seguro
+5994100 5994400 (05) Ali
+5994400 5996420 (05) Os times começam
+5996420 5997460 (05) A se preparar
+5997460 5998240 (05) Pra jogar novamente
+5998240 5999620 (05) Vocês estão na arquibancada
+5999620 6000840 (05) A Raíssa
+6000840 6001980 (05) Senta do lado de vocês
+6001980 6003520 (05) Ela tá com uma parte
+6003520 6004020 (05) Assim na
+6004020 6005240 (05) Cabeça dela
+6005240 6006520 (05) Tá enfaixada
+6006520 6006800 (05) Né?
+6007340 6008020 (05) E ela fala
+6008020 6009880 (05, 07) Me deram alta
+6009880 6011060 (10, 05, 07) Ela sentou
+6011060 6011880 (10) Do meu lado
+6011880 6013240 (10) Eu passo um braço
+6013240 6014040 (10) Pelo ombro dela
+6014040 6014780 (10) É
+6014780 6016640 (10) Se voltou no tempo
+6016640 6018880 (10) Pra dizer uma bom gostada
+6018880 6020280 (10, 07) Tudo sumindo
+6020280 6021220 (07) Na minha cabeça
+6021220 6022960 (07) Eu não tenho certeza
+6022960 6024820 (12, 07) Não se preocupa
+6024820 6025300 (12) Vai ir
+6025300 6026520 (12) Você vai ficar bem
+6026520 6027440 (12) Aquele cara
+6027440 6028320 (12, 09) Que fez isso com você
+6028320 6029360 (09) Ele já tá preso
+6029360 6029980 (09) Pode ter sido
+6029980 6031120 (09) A partida na cabeça
+6031120 6031500 (09) Ou
+6031500 6032400 (09) Não sei
+6032400 6032980 (09) As memórias
+6032980 6033720 (09) Estão voltando
+6033720 6034640 (09) Sei lá
+6034640 6035360 (09) Eu não entendo muito
+6035360 6035900 (09) Dessas coisas
+6035900 6036520 (09) Mas que bom
+6036520 6038040 (09) Que você apareceu aqui
+6038040 6039220 (09) Senão tinha acontecido
+6039220 6040000 (09) Uma tragédia
+6040000 6040960 (09, 07) Eu ganhei
+6040960 6041900 (09, 07) A partida de xadrez?
+6042080 6042440 (09) Não
+6042440 6042980 (09) Você
+6042980 6045820 (05, 09) A partida de futebol
+6045820 6046920 (05) Continuou rolando
+6046920 6047520 (05) Lá embaixo
+6047520 6048820 (05) Ela olha
+6048820 6049960 (05) Por tua cara
+6049960 6050280 (05) Ali
+6050280 6051660 (05, 07) A 3 a 3
+6051660 6052840 (07) Eu lembro
+6052840 6055240 (05, 07) Deu 4 a 3
+6055240 6055920 (07) No final
+6055920 6057080 (07) O time de vocês
+6057080 6058060 (07) Venceu
+6058060 6058660 (08) E o Jean?
+6059160 6060100 (07) A gente só vai ser
+6060100 6060640 (07) Encontrado aqui
+6060640 6061200 (07) Dois anos
+6061200 6062440 (10, 07) Acho que as memórias
+6062440 6064040 (12, 10) Importantes ficaram
+6064040 6064760 (12) Pegou um tapinha
+6064760 6065280 (12) Nas costas
+6065280 6066260 (10, 12, 05, 07) Você quer falar
+6066260 6066800 (05) Mais alguma coisa?
+6067240 6067520 (12) Não
+6067520 6068460 (12) Eu só tô pensando
+6068460 6068880 (12) Que eu devo
+6068880 6070100 (12) Um pedido de desculpas
+6070100 6071400 (12) Pra Patrícia
+6071400 6072340 (12) Coitada
+6072340 6072900 (08, 12) Coitada?
+6072980 6073260 (08) Não, não
+6073260 6073520 (08) Ela fez
+6073520 6074060 (08, 12) Parece que ficou
+6074060 6074520 (08, 12) Bonita
+6074520 6080440 (08, 12, 05, 03) Vocês estão ali
+6080440 6081720 (05) Já relaxando
+6081720 6082340 (05) Rindo
+6082340 6083620 (05) A jornada de vocês
+6083620 6084380 (05) Tá apavorada
+6084380 6084820 (05) Como é que ela vai
+6084820 6085320 (05) Ficar tudo
+6085320 6085760 (05) Com os pais
+6085760 6087120 (05) Tem três medalhas
+6087120 6087560 (05) De ouro
+6087560 6088540 (05) O time beta
+6088540 6089680 (05) Tá com a bola
+6089680 6091400 (05) O tempo já tá terminando
+6091400 6092000 (05) Empate
+6092000 6092660 (05) Por causa do saúdo
+6092660 6093220 (05) De gols
+6093220 6094220 (05) A vitória
+6094220 6095380 (05) É do time
+6095380 6095820 (05) Malu
+6095820 6096940 (05) Quando o
+6096940 6098140 (05) Juiz
+6098140 6099320 (05) Olha pro relógio
+6099320 6100220 (05) Já está no final
+6100220 6101180 (05) O atacante
+6101180 6102180 (05) Do time de vocês
+6102180 6103020 (05) Chuta a bola
+6103020 6103440 (05) Pro gol
+6103440 6132160 (05) Música
+6132180 6134180 (unknown) .com.br
+6134180 6140220 (03) Escudo do Mestre
+6140220 6141560 (05, 03) Escudo do Mestre
+6141560 6141940 (05) É aquela estuda
+6141940 6142280 (05) De papelão
+6142280 6142680 (05) A madeira
+6142680 6143020 (05) Que o Mestre
+6143020 6143560 (05) Usa pra condicionar
+6143560 6143820 (05) O tosseu
+6143820 6144180 (05) No lançamento
+6144180 6144680 (05) De dado
+6144680 6145500 (05) Mas aqui
+6145500 6146380 (05) Eu conto pra vocês
+6146380 6147500 (05) Tudo o que aconteceu
+6147500 6148560 (05) Na aventura
+6148560 6149020 (05) Na verdade
+6149020 6149660 (05) Não tudo
+6149660 6150780 (05) Porque eu quero
+6150780 6151500 (05) Que você vá lá
+6151500 6152060 (05) No portal
+6152060 6152540 (05) Deviante
+6152540 6154000 (05) Deviante.com.br
+6154000 6155360 (05) Deixe seu comentário
+6155360 6156720 (05) No post desse episódio
+6156720 6158000 (05) Faça suas perguntas
+6158000 6159000 (05) Que eu vou responder
+6159000 6159940 (05) Ao vivo
+6159940 6160540 (05) Via Discord
+6160540 6161520 (05) Pra quem é padrinho
+6161520 6162140 (05) Mas depois
+6162140 6163580 (05) Isso sai editado
+6163580 6164140 (05) No feed
+6164140 6164680 (05) Onde
+6164680 6166240 (05) Eu acabo cortando
+6166240 6167080 (05) As melhores piadas
+6167080 6167800 (05) E histórias
+6167800 6168760 (05) Então seja padrinho
+6168760 6169620 (05) Pra ouvir tudo
+6169620 6170280 (05) E lá
+6170280 6171360 (05) Sim eu vou responder
+6171360 6172440 (05) Quase todas as perguntas
+6172440 6173040 (05) De vocês
+6173040 6174400 (05) Eu já deixei esse gol
+6174400 6174940 (05) No final
+6174940 6175620 (05) Se entrou ou não
+6175620 6176700 (05) Entrou em aberto
+6176700 6177020 (05) Pra
+6177020 6178520 (05) O episódio
+6178520 6179920 (05) Quando eu planejei ele
+6179920 6181100 (05) Ele era pra terminar
+6181100 6182720 (05) Um pouco mais vago
+6182720 6184440 (05) Sobre se era verdade
+6184440 6184980 (05) Ou não
+6184980 6185760 (05) Mas as jogadoras
+6185760 6186980 (05) Tiraram bastante crítico
+6186980 6188020 (05) E acabaram
+6188020 6189280 (05) Desvendando algumas coisas
+6189280 6190300 (05) Que eu preferia deixar
+6190300 6191760 (05) Meio nos bastidores
+6191760 6192120 (05) Né
+6192140 6192860 (05) Mas
+6192860 6194580 (05) Assim
+6194580 6195940 (05) Achei bem bacana
+6195940 6196680 (05) Como ficou
+6196680 6197500 (05) No final né
+6197500 6198960 (05) Vocês acompanharam ali
+6198960 6200400 (05) Elas criaram a NPC
+6200400 6201840 (05) Da Dona Rosa
+6201840 6203160 (05) As jogadoras foram
+6203160 6204400 (05) Como eu sempre digo
+6204400 6205960 (05) 50% do episódio
+6205960 6207260 (05) Então agradeço demais
+6207260 6208160 (05) Cada uma delas
+6208160 6208780 (05) Mas
+6208780 6209540 (05) Convido você
+6209540 6210640 (05) A deixar suas perguntas
+6210640 6211980 (05) Lá no post
+6211980 6213340 (05) Quer apoiar esse projeto?
+6213620 6214180 (05) Eu conheci
+6214180 6215060 (05) Essas três jogadoras
+6215060 6215860 (05) Não a Shelly não
+6215860 6216600 (05) A Shelly eu conheci
+6216600 6218220 (05) Antes de ela ser madrinha
+6218220 6218560 (05) Né
+6218560 6219840 (05) Mas tanto a Ju
+6219840 6220740 (05) Quanto a Fábio
+6220740 6221880 (05) Eu conheci lá no grupo
+6221880 6222120 (05) Não sei
+6222140 6222560 (05) Não estou dizendo
+6222560 6223260 (05) Que se você for padrinho
+6223260 6224080 (05) Você vai jogar
+6224080 6225420 (05) Provavelmente não
+6225420 6226260 (05) Mas
+6226260 6227180 (05) Você vai ter contato
+6227180 6228220 (05) Com essas três mulheres
+6228220 6229000 (05) Incríveis
+6229000 6230020 (05) Que jogaram essa aventura
+6230020 6231380 (05) Você vai ter contato comigo
+6231380 6232900 (05) Receber sinopse de aventura
+6232900 6234340 (05) E nem todos eu acabo mestrando
+6234340 6235760 (05) Vai ajudar a criar NPC
+6235760 6237900 (05) Vai gravar voz de NPC
+6237900 6239100 (05) Como eu vou falar daqui a pouco
+6239100 6240660 (05) Eu gravo tudo no Discord
+6240660 6242400 (05) Como um RPG normal né
+6242400 6244380 (05) Onde os dados vão conduzindo a história
+6244380 6245760 (05) Faço todas as vozes
+6245760 6246820 (05) E não sou muito bom nisso
+6246820 6247920 (05) E depois eu peço
+6247920 6249040 (05) Para os padrinhos
+6249040 6250620 (05) Com as suas próprias vozes
+6250620 6252120 (05) Substituir os personagens
+6252140 6253060 (05) E assim
+6253060 6254760 (05) Ele fica como se fosse
+6254760 6255960 (05) Um audiodrama né
+6255960 6256480 (05) Então você quer
+6256480 6258400 (05) Que sua voz nos episódios
+6258400 6260460 (05) Seja nosso padrinho
+6260460 6261240 (05) A partir de 10 reais
+6261240 6262640 (05) Para quem é maior de 18 anos
+6262640 6263100 (05) Né gente
+6263100 6263840 (05) Você faz parte
+6263840 6265200 (05) Do nosso grupo do Telegram
+6265200 6267020 (05) Onde você tem tudo isso lá
+6267020 6268020 (05) Onde você tem
+6268020 6269880 (05) Milhares de amigos
+6269880 6270900 (05) Para conhecer
+6270900 6273060 (05) Pessoas maravilhosas
+6273060 6274620 (05) Que conversam lá todo dia
+6274620 6276000 (05) Sobre os mais diversos temas
+6276000 6278080 (05) A taberna em si se divide
+6278080 6279620 (05) Tem um grupo de anime
+6279620 6280660 (05) Que o pessoal fica lá falando
+6280660 6281560 (05) Atualmente eles estão muito
+6281560 6282120 (05) Ficiados em dançar
+6282140 6282820 (05) E eu mexo
+6282820 6283520 (05) Mas se fala também
+6283520 6284220 (05) Em One Piece
+6284220 6285680 (05) Em Iruma
+6285680 6287380 (05) E um monte de outros animes
+6287380 6288140 (05) Que se fala lá
+6288140 6289100 (05) Tem o pessoal
+6289100 6290760 (05) Dos videogames né
+6290760 6292220 (05) Que tá sempre discutindo coisa
+6292220 6293320 (05) Eu tô sempre comentando
+6293320 6294100 (05) Lá das platinas
+6294100 6294960 (05) Que eu faço né
+6294960 6296060 (05) Eu no ano passado
+6296060 6297500 (05) Comecei a platinar
+6297500 6298100 (05) Todos os jogos
+6298100 6299340 (05) Da série Yakuza
+6299340 6300960 (05) Já estou nos spin-offs
+6300960 6301420 (05) Faltam
+6301420 6302980 (05) Acho que 3 jogos
+6302980 6304960 (05) Pra eu fechar minha saga
+6304960 6306060 (05) Todos os episódios
+6306060 6307440 (05) Todos os jogos de Yakuza
+6307440 6308800 (05) Que saíram pra PS4
+6308800 6309780 (05) Que é a plataforma
+6309780 6311260 (05) Que eu tenho no momento né
+6311260 6312060 (05) Um dia espero
+6312060 6312880 (05) Poder fazer o mesmo
+6312880 6314020 (05) Com o PS5
+6314020 6314900 (05) E talvez
+6314900 6316320 (05) Um dia assim
+6316320 6318140 (05) Ir atrás dos jogos
+6318140 6319680 (05) Do Playstation 3
+6319680 6320780 (05) Talvez
+6320780 6322360 (05) Mas por enquanto
+6322360 6323140 (05) Tem um grupo
+6323140 6324020 (05) Além do Arco-Íris
+6324020 6324820 (05) Tem um grupo
+6324820 6326480 (05) Dos perrengues domésticos
+6326480 6327640 (05) Grupo de idioma
+6327640 6328140 (05) Tem um grupo
+6328140 6328940 (05) Dos spoilers
+6328940 6330620 (05) Os spoilers
+6330620 6331300 (05) Dos episódios
+6331300 6332080 (05) Onde tem gente
+6332080 6332520 (05) Que tem um monte
+6332520 6333500 (05) De episódios decorados
+6333500 6334320 (05) E fazem umas ligações
+6334320 6335580 (05) Que não existem né
+6335580 6336140 (05) Porque o Ghost of the West
+6336140 6336680 (05) Não existe
+6336680 6337340 (05) Mas assim
+6337340 6338420 (05) É um ambiente
+6338420 6339160 (05) Muito maravilhoso
+6339160 6340020 (05) Convido vocês
+6340020 6340560 (05) E mágico
+6340560 6341060 (05) Que tudo isso
+6341060 6341620 (05) Não quer
+6341620 6342020 (05) Que é
+6342020 6342040 (05) Que é
+6342060 6342440 (05) Porra
+6342440 6343200 (05) Não quer participar
+6343200 6343740 (05) De grupo nenhum
+6343740 6344380 (05) Não quer conversar
+6344380 6344760 (05) Com ninguém
+6344760 6345680 (05) Ainda assim
+6345680 6347300 (05) Ao apoiar financeiramente
+6347300 6348380 (05) Você tá me ajudando
+6348380 6349280 (05) A pagar o editor
+6349280 6350340 (05) Rafael Zorzal
+6350340 6351160 (05) E
+6351160 6352920 (05) Ajudando esse projeto
+6352920 6353960 (05) A existir
+6353960 6354820 (05) Se eu não conseguisse
+6354820 6355960 (05) Pagar o editor
+6355960 6357100 (05) Esse podcast
+6357100 6358060 (05) Seria sei lá
+6358060 6358800 (05) Uma vez a cada
+6358800 6359580 (05) Dois meses
+6359580 6360440 (05) No que dependesse
+6360440 6361620 (05) Do meu tempo
+6361620 6362480 (05) Pra editar
+6362480 6363040 (05) E tal
+6363040 6363460 (05) E fazer
+6363460 6364860 (05) O que o Zorzal faz
+6364860 6365740 (05) Em dois dias
+6365740 6366840 (05) Porra
+6366840 6367460 (05) Em dois meses
+6367460 6368100 (05) Eu não faria
+6368100 6368680 (05) Então
+6368680 6370720 (05) Seja nosso padrinho
+6370720 6371240 (05) Pra ajudar
+6371240 6372020 (05) Você vai lá
+6372020 6373880 (05) No apoia.se
+6373880 6374920 (05) Barra
+6374920 6375300 (05) Rp
+6375300 6375920 (05) Guaxa
+6375920 6377100 (05) E apoia por lá
+6377100 6377980 (05) Apoia no mais
+6377980 6378540 (05) Dez reais
+6378540 6379900 (05) Você já vai ter acesso
+6379900 6380500 (05) A um post
+6380500 6381040 (05) No próprio
+6381040 6381600 (05) Apoia-se
+6381600 6382760 (05) Onde você vai clicar
+6382760 6383180 (05) No link
+6383180 6383880 (05) E vai direto
+6383880 6384760 (05) Pro grupo do Telegram
+6384760 6385740 (05) Dá pra apoiar
+6385740 6386640 (05) Pela Orelo também
+6386640 6387840 (05) Mas aí você vai depender
+6387840 6388720 (05) De eu olhar os e-mails
+6388720 6389740 (05) E tá respondendo
+6389740 6390680 (05) Essa semana
+6390680 6391220 (05) Teve um rapaz
+6391220 6391700 (05) Que assinou
+6391700 6392400 (05) Pelo PicPay
+6392400 6393260 (05) Na verdade
+6393260 6393800 (05) Ele achou
+6393800 6394800 (05) Meu usuário pessoal
+6394800 6395220 (05) Lá
+6395220 6397060 (05) E fez uma contribuição
+6397060 6397840 (05) De dez reais
+6397840 6399160 (05) Isso não é assinar
+6399160 6399380 (05) Gente
+6399380 6400160 (05) PicPay acabou
+6400160 6401860 (05) Na forma de assinatura
+6401860 6402920 (05) Agradeço demais
+6402920 6403600 (05) Vou mandar o link
+6403600 6404020 (05) Pra ele
+6404020 6404760 (05) E explicar
+6404760 6405720 (05) Como é que ele pode assinar
+6405720 6407120 (05) Pelo apoia.se
+6407120 6408960 (05) Pra ele poder continuar
+6408960 6410140 (05) Usando lá
+6410140 6410700 (05) Os grupos
+6410700 6412180 (05) Mas esqueçam
+6412180 6413020 (05) O que eu falava
+6413020 6413580 (05) Antigamente
+6413580 6414420 (05) Essas plataformas
+6414420 6415160 (05) Não existem mais
+6415160 6416280 (05) É apoia.se
+6416280 6417420 (05) E Orelo
+6417420 6418100 (05) Como falei
+6418100 6419320 (05) Agradeço aos jogadores
+6419320 6419960 (05) Incríveis
+6419960 6421480 (05) Agradeço ao Rafael Zorzal
+6421480 6422500 (05) Prestou de edição
+6422500 6423620 (05) Fala com o Rafael Zorzal
+6423620 6425260 (05) Comentei lá no começo
+6425260 6426400 (05) Dei aquela palhinha
+6426400 6427280 (05) Pra vocês
+6427280 6428260 (05) O Zorzal
+6428260 6429300 (05) Ele tá pra lançar
+6429300 6429760 (05) Um livro
+6429760 6431180 (05) Vai ser no dia nove
+6431180 6431620 (05) Então
+6431620 6432560 (05) Ainda não tenho o link
+6432560 6433160 (05) Pra venda
+6433160 6433560 (05) Vamos
+6433560 6434720 (05) Próximos episódios
+6434720 6436020 (05) Eu vou estar trazendo isso
+6436020 6436820 (05) Mas
+6436820 6438040 (05) O livro se chama
+6438040 6439260 (05) Fraternal
+6439260 6440700 (05) É um drama familiar
+6440700 6441920 (05) Com um toque de fantasia
+6441920 6442880 (05) Ele conta a história
+6442880 6443460 (05) Do Roberto
+6443460 6444280 (05) Que volta pra casa
+6444280 6445260 (05) Depois de sete anos
+6445260 6446760 (05) Roberto perdeu a mãe
+6446760 6447380 (05) Ele tem uma relação
+6447380 6448180 (05) Complicada
+6448180 6449520 (05) Em família
+6449520 6450480 (05) Mas
+6450480 6451780 (05) A mãe do Roberto
+6451780 6453260 (05) Deixou um presente
+6453260 6453820 (05) Pra ele
+6453820 6455540 (05) Uma habilidade especial
+6455540 6457020 (05) Pro seu irmão também
+6457020 6458460 (05) E isso acaba
+6458460 6460100 (05) Influenciando
+6460100 6461260 (05) Esse drama
+6461260 6461600 (05) Familiar
+6461620 6462880 (05) Com uns toques
+6462880 6463620 (05) Bem surpreendentes
+6464160 6465000 (05) É uma história
+6465000 6465500 (05) Que vai
+6465500 6466680 (05) Crescendo
+6466680 6467760 (05) E revelando
+6467760 6468720 (05) Uma superfície
+6468720 6469680 (05) Incrível
+6469680 6470900 (05) Vamos aguardar
+6470900 6471580 (05) Dia nove
+6471580 6472980 (05) Vocês vão ter uma surpresa
+6472980 6474160 (05) Como falei
+6474160 6474880 (05) Esse episódio
+6474880 6476020 (05) Teve vozes
+6476020 6476760 (05) Dos nossos
+6476760 6477580 (05) Queridos
+6477580 6478640 (05) Padrinhos
+6478640 6479620 (05) Que ajudaram
+6480460 6481660 (05) No episódio
+6481660 6482680 (05) Tivemos
+6482680 6483860 (05) A Tarinê
+6483860 6484520 (05) Que fez
+6484520 6485480 (05) A Patrícia
+6485480 6486720 (05) A Dani
+6486720 6487280 (05) Que fez
+6487280 6488200 (05) A Samira
+6488200 6489680 (05) A Agatha
+6489680 6490240 (05) Que fez
+6490240 6490620 (05) A Raíssa
+6490620 6491160 (05) A Raíssa
+6491160 6492240 (05) O Policial
+6492240 6492720 (05) Que foi feito
+6492720 6493460 (05) Pelo Tique
+6493460 6494620 (05) O Matias
+6494620 6495160 (05) Que foi feito
+6495160 6496140 (05) Pelo nosso querido amigo
+6496140 6496540 (05) André
+6496540 6497360 (05) O Psicopato
+6497360 6498180 (05) A Joyce
+6498180 6498800 (05) Coordenadora
+6498800 6499120 (05) Que foi feito
+6499120 6499860 (05) Pela Sara
+6499860 6500960 (05) A Dona Rosa
+6500960 6501320 (05) Que foi feito
+6501320 6503000 (05) Pela Laris Orzenone
+6503000 6504120 (05) A diretora
+6504120 6504580 (05) Que foi feito
+6504580 6505920 (05) Pela Rafa Marechesque
+6505920 6506400 (05) A Luna
+6506400 6507220 (05) Que deu uma informação
+6507220 6507960 (05) No início do episódio
+6507960 6510020 (05) Feito pela Amanda Evangelista
+6510020 6511500 (05) O Homem Suspeito
+6511500 6512260 (05) Foi feito
+6512260 6514260 (05) Pelo Rafael Rocha
+6514260 6515280 (05) Além disso
+6515280 6516300 (05) Teve alguns padrinhos
+6516300 6516900 (05) Que gravaram
+6516900 6517600 (05) O Polícia
+6517600 6518980 (05) Que a gente ouviu
+6518980 6519980 (05) Lá durante o jogo
+6519980 6520540 (05) De futebol
+6520540 6521960 (05) Tivemos o Diego
+6521960 6523820 (05) Tivemos o
+6523820 6524440 (05) Daikiri
+6524440 6525580 (05) O Stênio
+6525580 6526700 (05) O Tique
+6526700 6527500 (05) O Jean
+6527500 6529320 (05) A Mariane
+6529320 6531340 (05) A Rafa
+6531340 6532140 (05) O William
+6532140 6533240 (05) A Tarine
+6533240 6534100 (05) Novamente
+6534100 6536380 (05) E o Alexandre Duarte
+6536380 6537380 (05) Então agradeço
+6537380 6537780 (05) Todo mundo
+6537780 6538500 (05) Que deu voz
+6538500 6539660 (05) Para os NPCs
+6539660 6540480 (05) Rolem 6
+6540480 6541240 (05) Rolem 20
+6541240 6542220 (05) Dependendo do sistema
+6542220 6542760 (05) De vocês
+6542760 6543620 (05) Mas dependendo
+6543620 6544200 (05) Disso tudo
+6544200 6544860 (05) Se der errado
+6544860 6545440 (05) Rola no chão
+6545440 6546260 (05) Que apaga o fogo
+6546260 6546960 (05) E diverte
+6546960 6547700 (05) Um beijo no coração
+6547700 6548100 (05) De vocês
+6548100 6549100 (05) Tchau
+6550540 6565480 (02) Muitos são os números
+6565480 6566920 (02) Que regem o multiverso
+6566920 6569300 (02) Sete realidades paralelas
+6569300 6570500 (02) Que já foram três
+6570500 6572200 (02) Quatro linhas sagradas
+6572200 6573680 (02) Uma linha vazia
+6573680 6574740 (02) E duas
+6574740 6576260 (02) Preenchidas de escuridão
+6576260 6577660 (02) Um guaxinim
+6577660 6578780 (02) Representando um
+6578780 6580140 (02) Três meninas
+6580140 6580520 (02) Segurando a vida
+6580540 6582840 (02) E uma infinidade
+6582840 6584020 (02) De possibilidades
+6584020 6584820 (02) Entre eles
+6584820 6586000 (02) E você
+6586000 6587960 (02) Qual o seu número?

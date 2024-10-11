@@ -1,0 +1,10440 @@
+1
+00:00:00,000 --> 00:00:00,800
+Estamos prontos?
+
+2
+00:00:01,160 --> 00:00:01,980
+Estamos sim!
+
+3
+00:00:02,840 --> 00:00:05,180
+Ah, você prefere mestre ou narrador?
+
+4
+00:00:05,360 --> 00:00:07,060
+Na verdade, eu prefiro guache.
+
+5
+00:00:09,800 --> 00:00:13,940
+Olá, eu sou Marcelo Guaxinim, sou o guache da aventura de hoje e estou aqui com...
+
+6
+00:00:13,940 --> 00:00:19,840
+Oi, eu sou o Alan Piononi, vocês podem me encontrar na internet com o arroba Monstros Alados
+
+7
+00:00:19,840 --> 00:00:24,140
+e também pelo Alanizando Podcast, um podcast sobre livros.
+
+8
+00:00:24,140 --> 00:00:30,280
+Oi, eu sou a Dani, podem me achar na internet, acho que o lugar mais fácil de vocês me acharem
+
+9
+00:00:30,280 --> 00:00:32,860
+é na taberna do Guaxinim, então vira padrinho.
+
+10
+00:00:33,020 --> 00:00:36,900
+Oi, eu sou a Rafa e vocês também me encontram na taberna do Guaxinim.
+
+11
+00:00:37,960 --> 00:00:41,920
+O Realidades Paralelas do Guaxinim usa o sistema guaxinis e gambiarras.
+
+12
+00:00:42,320 --> 00:00:45,520
+Nele, cada jogador possui apenas um único atributo, que vai de dois a cinco.
+
+13
+00:00:46,000 --> 00:00:51,000
+Quanto maior o atributo, mais atlético é o personagem, quanto menor, mais inteligente e carismático.
+
+14
+00:00:51,180 --> 00:00:53,540
+Sempre que o jogador faz algo com mais chance de errar,
+
+15
+00:00:53,540 --> 00:00:58,120
+joga dois dados e precisa tirar seu atributo ou menos para ataques e ações físicas
+
+16
+00:00:58,120 --> 00:01:01,600
+e seu atributo ou mais para ações intelectuais ou sociais.
+
+17
+00:01:02,040 --> 00:01:04,800
+Se a jogada for fácil ou tiver algum auxílio, joga um dado a mais.
+
+18
+00:01:05,060 --> 00:01:07,120
+Se a jogada for difícil, rola-se um dado a menos.
+
+19
+00:01:07,440 --> 00:01:10,240
+Eu sou o Luiz Felipe Erdi e sou padrinho do RPG Guaxinim
+
+20
+00:01:10,240 --> 00:01:14,980
+porque é uma oportunidade incrível de conhecer pessoas que falam dos assuntos mais aleatórios possíveis
+
+21
+00:01:14,980 --> 00:01:18,360
+desde One Piece, Game of Thrones, futebol e coisas de gênero
+
+22
+00:01:18,360 --> 00:01:22,980
+e também porque é um canal muito bacana para marcar mesa de RPG, mestrar, jogar, enfim.
+
+23
+00:01:22,980 --> 00:01:26,700
+É uma comunidade muito interessante e que eu tenho muito prazer em fazer parte.
+
+24
+00:01:27,520 --> 00:01:32,240
+Convido você a ajudar esse projeto lá no apoia.se
+
+25
+00:01:32,240 --> 00:01:35,740
+para receber o episódio antes, gravar a voz do NPC, discutir os episódios,
+
+26
+00:01:36,380 --> 00:01:39,620
+principalmente ajudar o RPG Guaxinim a existir.
+
+27
+00:01:40,380 --> 00:01:41,200
+Conto com sua ajuda.
+
+28
+00:01:43,440 --> 00:01:45,640
+Episódio de hoje, Monster Chef.
+
+29
+00:01:52,980 --> 00:02:09,740
+Diz a lenda que o mundo dos pesadelos foi criado pelos medos dos humanos de uma realidade distante.
+
+30
+00:02:10,040 --> 00:02:11,680
+Isso é parcialmente verdade.
+
+31
+00:02:11,980 --> 00:02:15,480
+A base desse mundo veio de uma divindade chamada Ananda
+
+32
+00:02:15,480 --> 00:02:18,340
+que adorava assistir TV, animes e principalmente doramas.
+
+33
+00:02:18,340 --> 00:02:21,480
+Ela moldou esse mundo com seus próprios sonhos e,
+
+34
+00:02:21,520 --> 00:02:22,960
+graças aos gostos que ela tinha,
+
+35
+00:02:22,960 --> 00:02:24,420
+os sonhos peculiares de sua esposa,
+
+36
+00:02:24,940 --> 00:02:26,900
+movou o mundo com medos humanos.
+
+37
+00:02:27,240 --> 00:02:29,200
+Mas com suas versões...
+
+38
+00:02:29,200 --> 00:02:30,220
+doramizadas.
+
+39
+00:02:30,800 --> 00:02:33,040
+Hoje, alguns milênios depois,
+
+40
+00:02:33,700 --> 00:02:38,200
+muitos monstros e pesadelos de verdade acabaram por escolher esse mundo como lar.
+
+41
+00:02:38,820 --> 00:02:41,340
+E a própria Ananda há séculos não é mais vista.
+
+42
+00:02:41,940 --> 00:02:44,640
+O sistema de governo atual é a democracia monárquica,
+
+43
+00:02:44,900 --> 00:02:47,520
+pois a Ananda queria participação popular em um mundo de reis,
+
+44
+00:02:47,960 --> 00:02:49,180
+duques e princesas.
+
+45
+00:02:49,180 --> 00:02:52,680
+A eleição de quem realmente manda acontece a cada cinco anos,
+
+46
+00:02:52,960 --> 00:02:56,020
+com seus ministros, senadores, deputados, etc.
+
+47
+00:02:56,020 --> 00:02:59,020
+A eleição da família real ocorre uma vez por século,
+
+48
+00:02:59,020 --> 00:03:01,020
+ou quando o ministro determinar.
+
+49
+00:03:01,020 --> 00:03:04,860
+Mas isso envolve um dragão, soldados e é extremamente burocrática.
+
+50
+00:03:04,860 --> 00:03:07,120
+A família real até manda em alguma coisa.
+
+51
+00:03:07,120 --> 00:03:09,740
+Mas o sistema, como falei, é complexo.
+
+52
+00:03:09,740 --> 00:03:11,740
+E nada tem a ver com a aventura de hoje.
+
+53
+00:03:11,740 --> 00:03:13,740
+A princípio, pelo menos.
+
+54
+00:03:13,740 --> 00:03:16,940
+Mas chega de falar de sistemas políticos, pra isso existe o sidecast.
+
+55
+00:03:16,940 --> 00:03:22,040
+Basta saber que a família real é composta, atualmente, pelo rei Pyrrhus Ignis,
+
+56
+00:03:22,040 --> 00:03:24,040
+um gênio do fogo, um digim,
+
+57
+00:03:24,040 --> 00:03:28,040
+a rainha serpentina Naga, uma naga, obviamente,
+
+58
+00:03:28,040 --> 00:03:30,040
+a princesa Igna Ignis,
+
+59
+00:03:30,040 --> 00:03:34,040
+e seu irmão caçula, Seraph Ignis.
+
+60
+00:03:34,040 --> 00:03:38,040
+Mais famoso que a família real é Gordon Ramses,
+
+61
+00:03:38,040 --> 00:03:40,040
+a múmia mestre Kuka.
+
+62
+00:03:40,040 --> 00:03:44,040
+Conhecido por seu perfeccionismo e pela rigidez com que comanda sua cozinha,
+
+63
+00:03:44,040 --> 00:03:47,040
+ele é exigente, meticuloso e não tolera erros.
+
+64
+00:03:47,040 --> 00:03:50,040
+Mas também é extremamente talentoso e dedicado ao seu ofício.
+
+65
+00:03:50,040 --> 00:03:52,040
+Ele é famoso por seu temperamento.
+
+66
+00:03:52,040 --> 00:03:55,040
+Não só por ser explosivo, mas também por sua habilidade incomparável
+
+67
+00:03:55,040 --> 00:03:58,040
+de transformar ingredientes simples em obras de artes culinárias.
+
+68
+00:03:58,040 --> 00:04:00,040
+Ele apresenta o Monster Chef,
+
+69
+00:04:00,040 --> 00:04:02,040
+o programa de culinária mais famoso deste mundo.
+
+70
+00:04:02,040 --> 00:04:05,040
+E outros dois, mas isso definitivamente não vem ao caso agora.
+
+71
+00:04:05,040 --> 00:04:08,040
+Esse programa tem sua versão regular com adultos,
+
+72
+00:04:08,040 --> 00:04:10,040
+sua versão júnior com crianças,
+
+73
+00:04:10,040 --> 00:04:14,040
+e agora, pela primeira vez, a versão real.
+
+74
+00:04:14,040 --> 00:04:17,040
+Uma disputa entre adolescentes, com várias fases regionais,
+
+75
+00:04:17,040 --> 00:04:21,040
+e uma fase final, que ocorrerá no castelo da família real.
+
+76
+00:04:21,040 --> 00:04:23,040
+Com o próprio Rei avaliando os pratos.
+
+77
+00:04:23,040 --> 00:04:25,040
+E é aqui que os jogadores entram.
+
+78
+00:04:25,040 --> 00:04:29,040
+Eles são da mesma turma do terceiro ano do Coragem de Monstros.
+
+79
+00:04:29,040 --> 00:04:32,040
+E, supondo que ninguém tenha reprovado em algum ano,
+
+80
+00:04:32,040 --> 00:04:34,040
+eles se conhecem há muito tempo,
+
+81
+00:04:34,040 --> 00:04:38,040
+tendo crescido juntos e desenvolvido em comum gosto pela culinária.
+
+82
+00:04:38,040 --> 00:04:41,040
+Então vamos conhecer nossos alo-monstros de hoje.
+
+83
+00:04:41,040 --> 00:04:44,040
+Peço que o Alan fale sobre seu personagem, aparência e atributos.
+
+84
+00:04:44,040 --> 00:04:50,040
+O meu personagem é Xavi, que é um ser metamorfo adolescente de 17 anos.
+
+85
+00:04:50,040 --> 00:04:57,040
+A aparência mais comum de Xavi é um corpo humanoide com a cor verde,
+
+86
+00:04:57,040 --> 00:05:02,040
+se bem que recentemente ele tem aparecido com duas asas distintas.
+
+87
+00:05:02,040 --> 00:05:05,040
+Uma asa de morcego cadavérica de um lado,
+
+88
+00:05:05,040 --> 00:05:09,040
+e de outro lado uma asa de borboleta nas cores rosa, azul e branco.
+
+89
+00:05:09,040 --> 00:05:13,040
+Isso é uma referência a uns monstros alados poetas que ele gosta.
+
+90
+00:05:13,040 --> 00:05:17,040
+Xavi é um ser a gênero que utiliza qualquer pronome,
+
+91
+00:05:17,040 --> 00:05:20,040
+porque as categorias de gênero não fazem sentido.
+
+92
+00:05:20,040 --> 00:05:22,040
+Para um povo metamorfo.
+
+93
+00:05:22,040 --> 00:05:26,040
+A família de Xavi é bastante belicosa.
+
+94
+00:05:26,040 --> 00:05:30,040
+Eles utilizam esse poder de metamorfose para se infiltrar em povos inimigos
+
+95
+00:05:30,040 --> 00:05:32,040
+e causar uma discórdia interna.
+
+96
+00:05:32,040 --> 00:05:36,040
+Só que Xavi já é uma pessoa bastante pacifista,
+
+97
+00:05:36,040 --> 00:05:40,040
+que prefere usar os poderes para pregar alguma peça divertida,
+
+98
+00:05:40,040 --> 00:05:44,040
+ou então para ter alguma vantagem diplomática.
+
+99
+00:05:44,040 --> 00:05:49,040
+Afinal de contas, não há nada mais diplomático do que se disfarçar como general de um exército,
+
+100
+00:05:49,040 --> 00:05:52,040
+e mandar parar um ataque nuclear.
+
+101
+00:05:52,040 --> 00:05:57,040
+Não que Xavi tenha feito isso, mas definitivamente é uma coisa que está no bucket list dele.
+
+102
+00:05:57,040 --> 00:06:00,040
+Xavi está interessada no Monster Chef,
+
+103
+00:06:00,040 --> 00:06:05,040
+porque acredita que comida boa é uma das melhores formas de promover a diplomacia entre os povos.
+
+104
+00:06:05,040 --> 00:06:10,040
+E também é uma ótima oportunidade de exibir a sua vasta gama de imitações perfeitas.
+
+105
+00:06:10,040 --> 00:06:13,040
+Xavi consegue assumir qualquer forma que quiser,
+
+106
+00:06:13,040 --> 00:06:17,040
+mas ainda não é capaz de criar nenhum tipo de músculo e resistência física.
+
+107
+00:06:17,040 --> 00:06:19,040
+É por isso que seu atributo é o 2.
+
+108
+00:06:19,040 --> 00:06:22,040
+Dani, fala sobre o seu personagem, aparência e atributo.
+
+109
+00:06:22,040 --> 00:06:24,040
+Hoje eu vou jogar com a Lupita.
+
+110
+00:06:24,040 --> 00:06:27,040
+Ela é uma Omelobi.
+
+111
+00:06:27,040 --> 00:06:29,040
+É uma lobisomem que vira humana na lua cheia.
+
+112
+00:06:29,040 --> 00:06:33,040
+Ela é uma loba muito bonita, de mais ou menos 17 anos.
+
+113
+00:06:33,040 --> 00:06:38,040
+Normalmente utiliza um vestido azul, com um avental branco e um laço azul na cabeça.
+
+114
+00:06:38,040 --> 00:06:43,040
+Seu pelo é marrom, muito sedoso, e que ela ama deixar bem alinhadinho e penteado.
+
+115
+00:06:43,040 --> 00:06:46,040
+Muito amigável com todos na escola de monstro.
+
+116
+00:06:46,040 --> 00:06:50,040
+Faz parte do clube de culinária.
+
+117
+00:06:50,040 --> 00:06:54,040
+E adora fazer biscoitos, principalmente na forma de ossinhos.
+
+118
+00:06:54,040 --> 00:06:58,040
+Seu sonho é se tornar uma grande confeiteira e ter sua própria padaria.
+
+119
+00:06:58,040 --> 00:07:01,040
+E o atributo dela vai ser 3.
+
+120
+00:07:01,040 --> 00:07:03,040
+Rafa, fala sobre o seu personagem, aparência e atributo.
+
+121
+00:07:03,040 --> 00:07:05,040
+Hoje eu vou jogar com a Mixória.
+
+122
+00:07:05,040 --> 00:07:08,040
+Que os amigos dela chamam ela de Mix.
+
+123
+00:07:08,040 --> 00:07:10,040
+Ela é uma meio dragão de 16 anos.
+
+124
+00:07:10,040 --> 00:07:13,040
+Ela é alta, tem um cabelo curto rosa,
+
+125
+00:07:13,040 --> 00:07:15,040
+a pele rosada com escamas,
+
+126
+00:07:15,040 --> 00:07:17,040
+e dois pequenos chifres roxos.
+
+127
+00:07:17,040 --> 00:07:21,040
+Por ser meio dragão, ela consegue transformar algumas partes do seu corpo,
+
+128
+00:07:21,040 --> 00:07:23,040
+mas apenas uma parte de cada vez.
+
+129
+00:07:23,040 --> 00:07:26,040
+Então, ou ela usa suas asas, ou as garras,
+
+130
+00:07:26,040 --> 00:07:29,040
+ou consegue soltar fogo, mas só de vez em quando.
+
+131
+00:07:29,040 --> 00:07:34,040
+Apesar da sua descendência pressupor que ela teria um gosto pelo combate,
+
+132
+00:07:34,040 --> 00:07:37,040
+Mix é muito adepta das atividades artísticas e da culinária.
+
+133
+00:07:37,040 --> 00:07:40,040
+Pois adora usar a criatividade e passar tempo com os amigos.
+
+134
+00:07:40,040 --> 00:07:44,040
+Mesmo que a sua força as vezes a torne meio desastrada.
+
+135
+00:07:44,040 --> 00:07:46,040
+O atributo dela é o 4.
+
+136
+00:07:55,040 --> 00:07:59,040
+A quadra da escola, normalmente reservada para atividades esportivas,
+
+137
+00:07:59,040 --> 00:08:02,040
+foi transformada em um vibrante palco de competição culinária.
+
+138
+00:08:02,040 --> 00:08:06,040
+Refletindo a natureza peculiar de seus alunos monstros adolescentes.
+
+139
+00:08:06,040 --> 00:08:10,040
+O piso polido brilha sobre as luzes coloridas que piscam em tom verde e roxo.
+
+140
+00:08:10,040 --> 00:08:12,040
+Criando uma atmosfera mágica.
+
+141
+00:08:12,040 --> 00:08:16,040
+Bancadas de cozinha bem equipadas se alinham em filas organizadas.
+
+142
+00:08:16,040 --> 00:08:20,040
+Cada uma decorada com utensílios encantados e ingredientes exóticos.
+
+143
+00:08:20,040 --> 00:08:22,040
+Alguns ainda se mexendo.
+
+144
+00:08:22,040 --> 00:08:24,040
+Típicos do mundo monstruoso.
+
+145
+00:08:24,040 --> 00:08:27,040
+O telhado alto está adornado com bandeirolas e balões
+
+146
+00:08:27,040 --> 00:08:30,040
+em forma de caldeirões e olhos esbugalhados.
+
+147
+00:08:30,040 --> 00:08:33,040
+Nas arquibancadas, criaturas de todas as formas e tamanhos se aglomeram.
+
+148
+00:08:33,040 --> 00:08:37,040
+Ansiosos para verem seus colegas mostrarem suas habilidades.
+
+149
+00:08:37,040 --> 00:08:40,040
+Enquanto professores e o famoso guarda Ramses,
+
+150
+00:08:40,040 --> 00:08:44,040
+se preparam para avaliar cada prato com critérios que vão além do sabor,
+
+151
+00:08:44,040 --> 00:08:47,040
+incluindo criatividade monstruosa e apresentação arrebatadora.
+
+152
+00:08:47,040 --> 00:08:52,040
+O diretor esqueletiza não esconde essa caidinha pelo Gordon e não sai do lado dele.
+
+153
+00:08:52,040 --> 00:08:57,040
+Para essa final, que é a final regional de vocês, da escola de vocês,
+
+154
+00:08:57,040 --> 00:09:00,040
+como é a maior escola de monstros do mundo,
+
+155
+00:09:00,040 --> 00:09:05,040
+é a que mais tem vagas para avançar para a próxima fase.
+
+156
+00:09:05,040 --> 00:09:09,040
+Então, os seis alunos que chegaram nas finais foram separados
+
+157
+00:09:09,040 --> 00:09:12,040
+em dois grupos de três integrantes.
+
+158
+00:09:12,040 --> 00:09:16,040
+E, convenientemente, os jogadores ficaram juntos.
+
+159
+00:09:16,040 --> 00:09:19,040
+Outro trio é formado pela líder Lara,
+
+160
+00:09:19,040 --> 00:09:23,040
+que é uma vampira de lombos, cabelos negros e olhos vermelhos brilhantes.
+
+161
+00:09:23,040 --> 00:09:28,040
+Ela combina sua elegância gótica com sua habilidade impressionante para confeitar doces.
+
+162
+00:09:28,040 --> 00:09:33,040
+Ao seu lado está Bruno, um lobisomem de aparência robusta e sorriso canino.
+
+163
+00:09:33,040 --> 00:09:38,040
+É um lobisomem comum, aquele que vira lobo na noite lua cheia, ao contrário.
+
+164
+00:09:38,040 --> 00:09:43,040
+Cujos pratos sempre trazem um toque selvagem e ingredientes frescos,
+
+165
+00:09:43,040 --> 00:09:46,040
+que ele mesmo caça nas florestas próximas.
+
+166
+00:09:46,040 --> 00:09:51,040
+Completando o trio, temos Mia, que é um espectro de pele translúcida e cabelos flutuantes,
+
+167
+00:09:51,040 --> 00:09:56,040
+cujas especialidades são pratos etéreos e delicados que parecem derreter no ar,
+
+168
+00:09:56,040 --> 00:09:59,040
+misturando sabores que encantam e surpreendem.
+
+169
+00:09:59,040 --> 00:10:03,040
+Junto, eles formam uma equipe que mistura habilidades de criatividade e um toque sobrenatural,
+
+170
+00:10:03,040 --> 00:10:06,040
+prontos para impressionar os jurados e os colegas.
+
+171
+00:10:06,040 --> 00:10:11,040
+Então temos os três jogadores de um lado, com a sua bancada, com suas panelas, com vários ingredientes,
+
+172
+00:10:11,040 --> 00:10:14,040
+e os outros concorrentes do outro lado.
+
+173
+00:10:14,040 --> 00:10:17,040
+O Gordon fala...
+
+174
+00:10:17,040 --> 00:10:20,040
+Houve uma grande competição até chegarmos aqui.
+
+175
+00:10:20,040 --> 00:10:23,040
+Estamos com os seis melhores dessa escola,
+
+176
+00:10:23,040 --> 00:10:29,040
+e tenho certeza que quem se classificar para a próxima fase será um ótimo representante de vocês.
+
+177
+00:10:29,040 --> 00:10:35,040
+Tenho orgulho de ter feito essa seleção aqui, mas infelizmente não temos seis vagas.
+
+178
+00:10:35,040 --> 00:10:38,040
+Temos apenas três.
+
+179
+00:10:38,040 --> 00:10:42,040
+E eu quero que vocês entrem em consenso e criem o prato que impressione a mim,
+
+180
+00:10:42,040 --> 00:10:48,040
+a professora Esqueletiza, e o nosso terceiro avaliador misterioso, que vai chegar daqui a pouco.
+
+181
+00:10:48,040 --> 00:10:52,040
+Vocês três estão na bancada de vocês e podem definir o que vocês vão fazer.
+
+182
+00:10:52,040 --> 00:10:54,040
+Vocês têm que fazer um prato, os três.
+
+183
+00:10:54,040 --> 00:10:59,040
+Vocês gostam mais de cozinhar coisa doce ou salgada?
+
+184
+00:10:59,040 --> 00:11:02,040
+Gosto de doces, pães...
+
+185
+00:11:02,040 --> 00:11:04,040
+Mas a gente pode ver...
+
+186
+00:11:04,040 --> 00:11:07,040
+Pizza, talvez? Todo mundo gosta de pizza.
+
+187
+00:11:07,040 --> 00:11:11,040
+É uma boa opção, e a gente pode colocar uma montagem diferente, talvez?
+
+188
+00:11:11,040 --> 00:11:13,040
+Sabe o que eu estava pensando?
+
+189
+00:11:13,040 --> 00:11:19,040
+A gente pode fazer um prato que parece uma coisa, e na verdade é uma outra coisa totalmente diferente.
+
+190
+00:11:19,040 --> 00:11:20,040
+Parece uma boa ideia.
+
+191
+00:11:20,040 --> 00:11:24,040
+Então a gente pode fazer uma pizza, mas deixar ela com cara de...
+
+192
+00:11:24,040 --> 00:11:26,040
+Sei lá...
+
+193
+00:11:26,040 --> 00:11:27,040
+Torta de...
+
+194
+00:11:27,040 --> 00:11:29,040
+Rabo de lagartixa.
+
+195
+00:11:29,040 --> 00:11:32,040
+A gente pode fazer...
+
+196
+00:11:32,040 --> 00:11:33,040
+Um bolo?
+
+197
+00:11:33,040 --> 00:11:34,040
+Bolo.
+
+198
+00:11:34,040 --> 00:11:35,040
+Com cara de...
+
+199
+00:11:35,040 --> 00:11:38,040
+Espaguete de olho de salamandra.
+
+200
+00:11:38,040 --> 00:11:40,040
+Olha, é uma boa ideia.
+
+201
+00:11:40,040 --> 00:11:42,040
+Sim, gosto da ideia.
+
+202
+00:11:42,040 --> 00:11:44,040
+Então é um prato doce que vocês vão fazer.
+
+203
+00:11:44,040 --> 00:11:45,040
+Com aparência de salgado.
+
+204
+00:11:45,040 --> 00:11:48,040
+O que me interessa neste momento é o cheirinho doce.
+
+205
+00:11:48,040 --> 00:11:52,040
+Vocês começam então a fazer o prato ali, né?
+
+206
+00:11:52,040 --> 00:11:57,040
+Vocês vêem que a outra equipe, já assim que começou, eles nem discutiram muito com a Lara,
+
+207
+00:11:57,040 --> 00:12:01,040
+porque a vampira deu a ordem e os outros começaram a agir, né?
+
+208
+00:12:01,040 --> 00:12:05,040
+A fantasminha tá confeitando alguma coisa.
+
+209
+00:12:05,040 --> 00:12:10,040
+O grandão tá batendo alguma coisa, tá fazendo uma massa num caldeirãozinho pequeno.
+
+210
+00:12:10,040 --> 00:12:14,040
+Enquanto a vampira tá preparando, tá cortando alguma coisa.
+
+211
+00:12:14,040 --> 00:12:16,040
+O que cada um de vocês tá fazendo pra esse prato?
+
+212
+00:12:16,040 --> 00:12:19,040
+Eu tô fazendo a massa do bolo.
+
+213
+00:12:19,040 --> 00:12:21,040
+Eu posso ficar com a parte de decoração.
+
+214
+00:12:21,040 --> 00:12:22,040
+Ok, e eu faço o recheio.
+
+215
+00:12:22,040 --> 00:12:25,040
+Vocês estão lá fazendo o prato de vocês.
+
+216
+00:12:25,040 --> 00:12:27,040
+Dez minutos se passam, né?
+
+217
+00:12:27,040 --> 00:12:28,040
+Vocês já começam.
+
+218
+00:12:28,040 --> 00:12:30,040
+O Ramsés, ele se levanta.
+
+219
+00:12:30,040 --> 00:12:31,040
+Pega o microfone.
+
+220
+00:12:33,040 --> 00:12:38,040
+Agora que começamos a competição, está na hora de apresentarmos o nosso terceiro jurado.
+
+221
+00:12:38,040 --> 00:12:43,040
+E o nosso terceiro jurado não vai dar uma nota pra vocês nem avaliar o prato de maneira comum.
+
+222
+00:12:43,040 --> 00:12:46,040
+O terceiro jurado é o nosso querido zelador.
+
+223
+00:12:46,040 --> 00:12:48,040
+Fofuxo.
+
+224
+00:12:48,040 --> 00:12:54,040
+Um urso de pelúcia de um metro e sessenta que foi estufado com um buraco negro.
+
+225
+00:12:54,040 --> 00:12:57,040
+Ele é muito conhecido pelos alunos porque dá sempre...
+
+226
+00:12:57,040 --> 00:12:59,040
+Qualquer lixo que cai no chão ele tá devorando.
+
+227
+00:13:00,040 --> 00:13:07,040
+E, às vezes, material escolar ou qualquer coisa que é esquecida no chão também, ele acaba se alimentando daquilo e nunca mais é encontrado.
+
+228
+00:13:07,040 --> 00:13:10,040
+Ele é conhecido por sua fome gigantesca.
+
+229
+00:13:10,040 --> 00:13:13,040
+Ele começa a olhar os pratos e o Gordon diz...
+
+230
+00:13:13,040 --> 00:13:16,040
+O desafio de vocês é só terminar o prato.
+
+231
+00:13:16,040 --> 00:13:19,040
+Sem mexer no zelador, cumbia.
+
+232
+00:13:19,040 --> 00:13:20,040
+Pronto, pronto.
+
+233
+00:13:20,040 --> 00:13:21,040
+Então vamos fazer o seguinte, gente.
+
+234
+00:13:21,040 --> 00:13:23,040
+Primeiro, começamos na barricada.
+
+235
+00:13:23,040 --> 00:13:25,040
+Eu acho que é a melhor opção.
+
+236
+00:13:25,040 --> 00:13:26,040
+Enquanto a gente...
+
+237
+00:13:26,040 --> 00:13:27,040
+O bolo assa.
+
+238
+00:13:27,040 --> 00:13:28,040
+Eu monto a barricada.
+
+239
+00:13:28,040 --> 00:13:29,040
+Enquanto tá pensando isso, o urso já vai.
+
+240
+00:13:29,040 --> 00:13:32,040
+O urso já tá correndo em direção à bancada de vocês.
+
+241
+00:13:32,040 --> 00:13:34,040
+Quem vai parar o que tá fazendo pra tentar parar o urso?
+
+242
+00:13:34,040 --> 00:13:35,040
+Eu...
+
+243
+00:13:35,040 --> 00:13:38,040
+Eu já disse que eu tava botando a massa no forno.
+
+244
+00:13:38,040 --> 00:13:41,040
+Então, provavelmente, a massa já tá no forno e eu tô virando uma mesa.
+
+245
+00:13:41,040 --> 00:13:42,040
+Pra fazer uma barricada.
+
+246
+00:13:42,040 --> 00:13:47,040
+Eu vou me transformar na diretora esqueletiva.
+
+247
+00:13:47,040 --> 00:13:48,040
+Essa é boa, hein?
+
+248
+00:13:48,040 --> 00:13:50,040
+E eu vou...
+
+249
+00:13:50,040 --> 00:13:51,040
+Vou lá.
+
+250
+00:13:51,040 --> 00:13:52,040
+Vou fujo pra lá.
+
+251
+00:13:52,040 --> 00:13:54,040
+Na direção da outra mesa.
+
+252
+00:13:54,040 --> 00:13:56,040
+Fala dois dados que atributam mais.
+
+253
+00:13:56,040 --> 00:13:57,040
+É um excelente plano.
+
+254
+00:13:57,040 --> 00:13:58,040
+Eu tirei quatro.
+
+255
+00:13:58,040 --> 00:13:59,040
+Eu tirei quatro e um.
+
+256
+00:13:59,040 --> 00:14:00,040
+Um acerto simples.
+
+257
+00:14:00,040 --> 00:14:05,040
+O urso olha meio confuso pra ti, olha meio confuso pra esqueletiza de verdade, coça a
+
+258
+00:14:05,040 --> 00:14:10,040
+cabeça, dá de ombros e corre em direção ao outro grupo.
+
+259
+00:14:10,040 --> 00:14:16,040
+O lobisomem do outro grupo, né, ele tá cozinhando sem camisa, inclusive, só com a vental.
+
+260
+00:14:16,040 --> 00:14:22,040
+Ele larga o caldeirão que ele tava batendo e ele tenta agarrar e segurar o urso ali.
+
+261
+00:14:22,040 --> 00:14:27,040
+Os dois começam uma luta corporal enquanto a equipe dele tenta terminar o prato.
+
+262
+00:14:27,040 --> 00:14:29,040
+Eu volto pro grupo, né?
+
+263
+00:14:29,040 --> 00:14:34,040
+Vamos, gente, vamos preparar essa barricada aqui porque não sei quanto tempo ele vai continuar
+
+264
+00:14:34,040 --> 00:14:35,040
+lá.
+
+265
+00:14:35,040 --> 00:14:39,040
+Eu já vou montando a barricada ali, eu já tinha virado uma mesa, eu já vou puxando
+
+266
+00:14:39,040 --> 00:14:41,040
+os sacos de farinha e botando na frente.
+
+267
+00:14:41,040 --> 00:14:43,040
+Nyx, rola dois dados.
+
+268
+00:14:43,040 --> 00:14:45,040
+Eu tirei seis e dois.
+
+269
+00:14:45,040 --> 00:14:50,040
+Perfeito, assim, o prato de vocês tá avançando, foi um acerto simples ali.
+
+270
+00:14:50,040 --> 00:14:55,040
+Ele ainda não está perfeito, perfeito, mas tá bem encaminhado.
+
+271
+00:14:55,040 --> 00:14:59,040
+Os dois estão lá rolando de um lado pro outro.
+
+272
+00:14:59,040 --> 00:15:03,040
+Vocês notam que a qualquer momento eles vão esbarrar em alguma mesa, né?
+
+273
+00:15:03,040 --> 00:15:05,040
+De vocês, do outro lá.
+
+274
+00:15:05,040 --> 00:15:07,040
+A barricada tá bem segura ali.
+
+275
+00:15:07,040 --> 00:15:10,040
+Alguém tá segurando essa barricada pra continuar na proteção?
+
+276
+00:15:10,040 --> 00:15:12,040
+Ou todo mundo continua cozinhando?
+
+277
+00:15:12,040 --> 00:15:17,040
+Eu, enquanto a massa tá assando, eu fico segurando a barricada olhando pro forno.
+
+278
+00:15:17,040 --> 00:15:22,040
+Tipo assim, tentando deixar a barricada mais longe possível do forno e olhando pra ele.
+
+279
+00:15:22,040 --> 00:15:23,040
+Beleza.
+
+280
+00:15:23,040 --> 00:15:26,040
+Um dado pela barricada te atributou menos?
+
+281
+00:15:26,040 --> 00:15:27,040
+Cinco.
+
+282
+00:15:27,040 --> 00:15:29,040
+É uma falha.
+
+283
+00:15:29,040 --> 00:15:32,040
+Um dado te atributou mais pelo bolo?
+
+284
+00:15:32,040 --> 00:15:33,040
+Dois.
+
+285
+00:15:33,040 --> 00:15:35,040
+É óbvio.
+
+286
+00:15:35,040 --> 00:15:40,040
+O Bruno e o Gus começam a rolar de um lado pro outro ferozmente.
+
+287
+00:15:40,040 --> 00:15:42,040
+Acertam a mesa.
+
+288
+00:15:42,040 --> 00:15:43,040
+Chave e Nyx.
+
+289
+00:15:43,040 --> 00:15:48,040
+Tá começando a queimar a massa do bolo e a Lupita não vai conseguir segurar a mesa.
+
+290
+00:15:48,040 --> 00:15:49,040
+O que vocês vão fazer?
+
+291
+00:15:49,040 --> 00:15:52,040
+Eu vou no bolo que tá queimando.
+
+292
+00:15:52,040 --> 00:15:54,040
+Pra tentar salvar ele.
+
+293
+00:15:54,040 --> 00:15:55,040
+Tá.
+
+294
+00:15:55,040 --> 00:15:56,040
+Eu vou na mesa.
+
+295
+00:15:56,040 --> 00:15:59,040
+Vai botar as mãos, tentar usar a força pra segurar junto?
+
+296
+00:15:59,040 --> 00:16:00,040
+Isso.
+
+297
+00:16:00,040 --> 00:16:02,040
+Dois dados.
+
+298
+00:16:02,040 --> 00:16:04,040
+Eu tirei seis e cinco.
+
+299
+00:16:04,040 --> 00:16:06,040
+São duas falhas. Ótimo.
+
+300
+00:16:06,040 --> 00:16:07,040
+Chave.
+
+301
+00:16:07,040 --> 00:16:08,040
+Ok, cinco e três.
+
+302
+00:16:08,040 --> 00:16:09,040
+Atributo dois.
+
+303
+00:16:09,040 --> 00:16:12,040
+Tu tirou a tempo, assim, não queimou.
+
+304
+00:16:12,040 --> 00:16:14,040
+Começou a dar o cheirinho, mas tu tirou a tempo.
+
+305
+00:16:14,040 --> 00:16:18,040
+Se ficou uma coisinha, dá pra dar uma raspada sem ficar um gosto.
+
+306
+00:16:18,040 --> 00:16:21,040
+Mas a mesa se parte.
+
+307
+00:16:21,040 --> 00:16:29,040
+As tuas amigas cada uma cai pra um lado e vem uma bola formada pelo Bruno e o Urso, assim,
+
+308
+00:16:29,040 --> 00:16:36,040
+se chocando contra a mesa de vocês, derrubando ingredientes, virando o líquido que tem ali.
+
+309
+00:16:36,040 --> 00:16:37,040
+Tá uma bagunça.
+
+310
+00:16:37,040 --> 00:16:38,040
+Eu vou sair voando.
+
+311
+00:16:38,040 --> 00:16:39,040
+Com a massa do bolo.
+
+312
+00:16:39,040 --> 00:16:40,040
+Sim.
+
+313
+00:16:41,040 --> 00:16:43,040
+Ah, tu tava fazendo o que, Nyx? Tu tava fazendo?
+
+314
+00:16:43,040 --> 00:16:45,040
+Eu tava fazendo o recheio do bolo.
+
+315
+00:16:45,040 --> 00:16:49,040
+Tu vê que a travessa tá balançando, assim, com o recheio, que é mais molenga, né?
+
+316
+00:16:49,040 --> 00:16:51,040
+Vai cair da mesa.
+
+317
+00:16:51,040 --> 00:16:59,040
+Tá, eu vou tentar usar... transformar as minhas asinhas de dragão e tentar pegar antes que caia no chão.
+
+318
+00:16:59,040 --> 00:17:01,040
+Dois dados, um bom uso.
+
+319
+00:17:01,040 --> 00:17:03,040
+Eu tirei quatro e três.
+
+320
+00:17:03,040 --> 00:17:05,040
+Um acerto simples, um acerto crítico.
+
+321
+00:17:05,040 --> 00:17:07,040
+Perfeito.
+
+322
+00:17:07,040 --> 00:17:11,040
+O segura sem virar uma gota que seja e o recheio tá salvo.
+
+323
+00:17:11,040 --> 00:17:13,040
+Chave tava fazendo o que?
+
+324
+00:17:13,040 --> 00:17:15,040
+Eu saí voando com o bolo.
+
+325
+00:17:15,040 --> 00:17:17,040
+Ah não, mas antes de todo o problema começar...
+
+326
+00:17:17,040 --> 00:17:18,040
+Ah, eu tava preparando a decoração.
+
+327
+00:17:18,040 --> 00:17:20,040
+Eu tava preparando a decoração.
+
+328
+00:17:20,040 --> 00:17:27,040
+A decoração tá toda bagunçada ali, um pouco das coisas foi destruída nesse processo.
+
+329
+00:17:27,040 --> 00:17:31,040
+Os dois continuam lutando perto da bancada de vocês.
+
+330
+00:17:31,040 --> 00:17:39,040
+Não sei se o Bruno tá realmente pensando o que ele tá fazendo pra sacanear vocês ou simplesmente ele tá dando o máximo dele sem pensar.
+
+331
+00:17:39,040 --> 00:17:41,040
+Ele nunca foi muito inteligente.
+
+332
+00:17:41,040 --> 00:17:44,040
+Mas vocês precisam dar um jeito de organizar a cozinha de vocês, o que vão fazer.
+
+333
+00:17:44,040 --> 00:17:47,040
+Guaxa, tem outros ingredientes aí, não tem?
+
+334
+00:17:47,040 --> 00:17:48,040
+Tem.
+
+335
+00:17:48,040 --> 00:17:49,040
+Tem outros ingredientes que a gente tá usando.
+
+336
+00:17:49,040 --> 00:17:50,040
+Pronto.
+
+337
+00:17:50,040 --> 00:17:58,040
+Eu vou pegar uma meia velha, provavelmente deve ter de ingrediente, daquela com maior quantidade de chulé possível.
+
+338
+00:17:58,040 --> 00:18:04,040
+Amarrar numa colher de pau e chegar perto de onde eles estão lutando.
+
+339
+00:18:04,040 --> 00:18:07,040
+E botar assim perto do selador e jogar pro outro lado.
+
+340
+00:18:07,040 --> 00:18:09,040
+Lá da outra bancada.
+
+341
+00:18:09,040 --> 00:18:10,040
+Meus dados.
+
+342
+00:18:10,040 --> 00:18:12,040
+6 e 4.
+
+343
+00:18:12,040 --> 00:18:15,040
+Tá querendo fazer com que o bicho siga a meia, né?
+
+344
+00:18:15,040 --> 00:18:16,040
+Exato.
+
+345
+00:18:16,040 --> 00:18:17,040
+Um ataque então.
+
+346
+00:18:17,040 --> 00:18:23,040
+Tu joga a meia, o urso larga o Bruno ali e corre pra outra bancada.
+
+347
+00:18:23,040 --> 00:18:27,040
+O Bruno levanta meio tonto assim, ele olha o que vocês tão fazendo.
+
+348
+00:18:27,040 --> 00:18:30,040
+Ele prova um pouquinho do recheio, dá um sorriso assim.
+
+349
+00:18:30,040 --> 00:18:32,040
+Tá realmente muito bom aqui, hein?
+
+350
+00:18:32,040 --> 00:18:35,040
+Eu abro um sorrisinho pro Bruno e digo, você sabe que eu cozinho melhor que você.
+
+351
+00:18:35,040 --> 00:18:38,040
+A gente não vai começar essa discussão de novo, né?
+
+352
+00:18:38,040 --> 00:18:39,040
+Só quando você tiver como lobo.
+
+353
+00:18:39,040 --> 00:18:40,040
+Dá outro sorrisinho.
+
+354
+00:18:40,040 --> 00:18:43,040
+Ele dá um sorriso pra ti, fica ali distraído.
+
+355
+00:18:43,040 --> 00:18:46,040
+Enquanto isso, Lara, a vampira, está tentando parar o...
+
+356
+00:18:46,040 --> 00:18:47,040
+O urso, né?
+
+357
+00:18:47,040 --> 00:18:51,040
+A outra continua cozinhando lá, a fantasminha.
+
+358
+00:18:51,040 --> 00:18:54,040
+Mas a mesa de vocês tá uma bagunça.
+
+359
+00:18:54,040 --> 00:18:57,040
+Mas dá pra concluir ali o que vocês fizeram.
+
+360
+00:18:57,040 --> 00:19:01,040
+Peço que cada um rola um dado, seu atributo ou mais, pra terminar este prato.
+
+361
+00:19:01,040 --> 00:19:05,040
+Como virou uma bagunça a parte das decorações,
+
+362
+00:19:05,040 --> 00:19:08,040
+eu vou fazer com que vários braços surjam de mim.
+
+363
+00:19:08,040 --> 00:19:10,040
+Eu vou começar a trabalhar freneticamente.
+
+364
+00:19:10,040 --> 00:19:11,040
+Não sei se vai dar certo.
+
+365
+00:19:12,040 --> 00:19:13,040
+Eu tirei dois, Beth.
+
+366
+00:19:13,040 --> 00:19:15,040
+Então, a Lupita falhou, né?
+
+367
+00:19:15,040 --> 00:19:16,040
+Assim...
+
+368
+00:19:16,040 --> 00:19:22,040
+A sorte é que o dela era mais a massa e o Chaves já tinha dado uma ajuda ali antes.
+
+369
+00:19:22,040 --> 00:19:24,040
+O Chaves, então, com seus vários braços, tirou quanto?
+
+370
+00:19:24,040 --> 00:19:27,040
+Eu tirei dois, meu atributo.
+
+371
+00:19:27,040 --> 00:19:28,040
+Que é um acerto crítico.
+
+372
+00:19:28,040 --> 00:19:30,040
+A Mix, tirou quanto?
+
+373
+00:19:30,040 --> 00:19:31,040
+Tirei quatro.
+
+374
+00:19:31,040 --> 00:19:32,040
+Meu atributo também.
+
+375
+00:19:32,040 --> 00:19:34,040
+Então, dois acertos críticos.
+
+376
+00:19:34,040 --> 00:19:37,040
+A Lupita puxou um pouco o grupo pra baixo.
+
+377
+00:19:37,040 --> 00:19:41,040
+Mas o talento dos outros dois é tamanho.
+
+378
+00:19:41,040 --> 00:19:43,040
+E o prato ficou excelente.
+
+379
+00:19:43,040 --> 00:19:48,040
+O outro grupo consegue terminar alguma coisa.
+
+380
+00:19:48,040 --> 00:19:53,040
+A Lada, que está sempre muito bem vestida, bem penteada,
+
+381
+00:19:53,040 --> 00:19:56,040
+está completamente descabelada ali.
+
+382
+00:19:56,040 --> 00:19:58,040
+Ela está muito brava.
+
+383
+00:19:58,040 --> 00:20:01,040
+Parece que ela quebrou uma unha no processo.
+
+384
+00:20:01,040 --> 00:20:04,040
+Está uma situação meio complicada no outro grupo.
+
+385
+00:20:04,040 --> 00:20:10,040
+A diretora e o Gordon provam os pratos de vocês.
+
+386
+00:20:10,040 --> 00:20:12,040
+Primeiro prova do outro grupo.
+
+387
+00:20:12,040 --> 00:20:14,040
+Depois prova o de vocês.
+
+388
+00:20:14,040 --> 00:20:17,040
+E dois acertos críticos, né?
+
+389
+00:20:17,040 --> 00:20:19,040
+Fica bem óbvio quando o Gordon diz.
+
+390
+00:20:19,040 --> 00:20:23,040
+E classificados para a terceira fase, para a nossa semifinal,
+
+391
+00:20:23,040 --> 00:20:27,040
+onde vamos juntar os 13 melhores cozinheiros adolescentes do mundo,
+
+392
+00:20:27,040 --> 00:20:29,040
+temos...
+
+393
+00:20:29,040 --> 00:20:32,040
+Davi, Lupita e Mixora.
+
+394
+00:20:32,040 --> 00:20:34,040
+Parabéns, crianças.
+
+395
+00:20:34,040 --> 00:20:36,040
+A Lupita olha assim, abraça os dois.
+
+396
+00:20:36,040 --> 00:20:37,040
+Todo animado.
+
+397
+00:20:37,040 --> 00:20:39,040
+A gente conseguiu! A gente conseguiu!
+
+398
+00:20:39,040 --> 00:20:41,040
+A gente foi muito bem. Vocês arrasaram muito.
+
+399
+00:20:41,040 --> 00:20:44,040
+Eu me transformo no Gordon Ramsey.
+
+400
+00:20:44,040 --> 00:20:46,040
+Imito a voz dele.
+
+401
+00:20:46,040 --> 00:20:48,040
+Realmente, vocês foram muito bem.
+
+402
+00:20:48,040 --> 00:20:52,040
+O próprio Gordon olha assim, levanta o seu bracelho.
+
+403
+00:20:52,040 --> 00:20:54,040
+Ele provavelmente não tem nele a mão.
+
+404
+00:20:54,040 --> 00:20:56,040
+Ele levanta uma bandagem assim.
+
+405
+00:20:56,040 --> 00:20:58,040
+Mas ele sorri e sai conversando.
+
+406
+00:20:58,040 --> 00:21:01,040
+A professora esqueletiza e segura o braço dele assim.
+
+407
+00:21:01,040 --> 00:21:02,040
+Ele dá o braço para ela.
+
+408
+00:21:02,040 --> 00:21:04,040
+Os dois saem juntos conversando.
+
+409
+00:21:04,040 --> 00:21:07,040
+Os outros alunos invadem ali o local.
+
+410
+00:21:07,040 --> 00:21:09,040
+Todos começam a abraçar vocês.
+
+411
+00:21:09,040 --> 00:21:12,040
+A levantar vocês ali.
+
+412
+00:21:12,040 --> 00:21:15,040
+A própria outra equipe sorri para vocês.
+
+413
+00:21:15,040 --> 00:21:17,040
+Eles foram derrotados.
+
+414
+00:21:17,040 --> 00:21:20,040
+Mas aceitaram a derrota ali.
+
+415
+00:21:20,040 --> 00:21:25,040
+O zelador está comendo absolutamente todos os ingredientes das duas bancadas.
+
+416
+00:21:25,040 --> 00:21:27,040
+A comemoração vai um bom tempo ali.
+
+417
+00:21:27,040 --> 00:21:30,040
+Vocês querem fazer alguma coisa nessa comemoração?
+
+418
+00:21:30,040 --> 00:21:33,040
+Vocês têm algum lugar, um clube, talvez, que vocês se encontrem?
+
+419
+00:21:33,040 --> 00:21:37,040
+Onde é que vocês podem se preparar para a próxima fase?
+
+420
+00:21:37,040 --> 00:21:38,040
+Por partes.
+
+421
+00:21:38,040 --> 00:21:40,040
+Alguém quer fazer alguma coisa nessa comemoração?
+
+422
+00:21:40,040 --> 00:21:42,040
+Enquanto está tendo a comemoração.
+
+423
+00:21:42,040 --> 00:21:44,040
+Eu estou ali com os colegas.
+
+424
+00:21:44,040 --> 00:21:49,040
+Eu gosto de exibir a minha habilidade de ficar.
+
+425
+00:21:49,040 --> 00:21:51,040
+Então eu vou imitando os colegas.
+
+426
+00:21:51,040 --> 00:21:53,040
+Imitando o Fofuxo.
+
+427
+00:21:53,040 --> 00:21:55,040
+Imitando todo mundo que estava ali.
+
+428
+00:21:55,040 --> 00:21:57,040
+E fazendo piada.
+
+429
+00:21:57,040 --> 00:21:59,040
+Rindo o tempo todo.
+
+430
+00:21:59,040 --> 00:22:02,040
+A Mix também está ali comemorando com eles.
+
+431
+00:22:02,040 --> 00:22:06,040
+Ela está muito feliz que eles conseguiram passar para a próxima fase.
+
+432
+00:22:06,040 --> 00:22:07,040
+Então ela está comemorando ali.
+
+433
+00:22:07,040 --> 00:22:10,040
+Junto com os amigos do clube.
+
+434
+00:22:10,040 --> 00:22:15,040
+Eu acho que a Lupita fica um pouquinho sentindo mal.
+
+435
+00:22:15,040 --> 00:22:18,040
+Ela sabe que a massa não ficou exatamente como ela queria.
+
+436
+00:22:18,040 --> 00:22:21,040
+Então ela não fica para a comemoração.
+
+437
+00:22:21,040 --> 00:22:25,040
+Ela vai subindo direto para o clube de culinária para ler alguns livros de receita.
+
+438
+00:22:25,040 --> 00:22:27,040
+Para ver se ela consegue melhorar para a próxima fase.
+
+439
+00:22:27,040 --> 00:22:29,040
+A gente percebe ela saindo?
+
+440
+00:22:29,040 --> 00:22:31,040
+Fala dois dados. Vamos lá.
+
+441
+00:22:31,040 --> 00:22:33,040
+Tirei seis e quatro.
+
+442
+00:22:33,040 --> 00:22:35,040
+Assim, rolou pelo grupo. Vocês percebem.
+
+443
+00:22:35,040 --> 00:22:37,040
+Eu vou na direção dela.
+
+444
+00:22:37,040 --> 00:22:39,040
+Lupita, não.
+
+445
+00:22:39,040 --> 00:22:41,040
+Por que você está triste? A gente venceu.
+
+446
+00:22:41,040 --> 00:22:43,040
+Foi incrível.
+
+447
+00:22:43,040 --> 00:22:45,040
+Olha o trabalho que a gente fez em grupo.
+
+448
+00:22:45,040 --> 00:22:47,040
+Sim, sim, sim. Mas por pouco.
+
+449
+00:22:47,040 --> 00:22:50,040
+A outra equipe também foi muito boa.
+
+450
+00:22:50,040 --> 00:22:52,040
+E assim, foi por pouco.
+
+451
+00:22:52,040 --> 00:22:54,040
+E eu errei a massa, gente.
+
+452
+00:22:54,040 --> 00:22:56,040
+Eu quase deixei ela queimar.
+
+453
+00:22:56,040 --> 00:22:58,040
+Não liga para isso não. Esse tipo de coisa acontece.
+
+454
+00:22:58,040 --> 00:23:03,040
+Vai dizer que você acha que o Gordon Rancis nunca deixou alguma coisa queimar.
+
+455
+00:23:03,040 --> 00:23:06,040
+É óbvio que aquela múmia já errou a mão alguma vez.
+
+456
+00:23:06,040 --> 00:23:09,040
+Em alguns milênios de anos atrás, talvez.
+
+457
+00:23:09,040 --> 00:23:11,040
+Pois é, você é adolescente.
+
+458
+00:23:11,040 --> 00:23:13,040
+E estava tendo quase uma luta ao mesmo tempo.
+
+459
+00:23:13,040 --> 00:23:16,040
+Não tinha como se concentrar para fazer as duas coisas.
+
+460
+00:23:16,040 --> 00:23:18,040
+É muito difícil.
+
+461
+00:23:18,040 --> 00:23:22,040
+Eu acho que eu vou subir mesmo assim e dar mais uma ali.
+
+462
+00:23:22,040 --> 00:23:28,040
+Até porque ninguém sabe se a gente vai ter ingrediente vivo da próxima vez.
+
+463
+00:23:28,040 --> 00:23:31,040
+Mas hoje a gente festeja. Depois a gente estuda.
+
+464
+00:23:31,040 --> 00:23:33,040
+Hoje a gente já teve uma vitória.
+
+465
+00:23:33,040 --> 00:23:36,040
+Tá bom, tá bom, tá bom.
+
+466
+00:23:36,040 --> 00:23:37,040
+Só um pouquinho.
+
+467
+00:23:37,040 --> 00:23:41,040
+Daí ela vai lá festejar junto com o resto da turma.
+
+468
+00:23:41,040 --> 00:23:43,040
+Vocês então festejam ali.
+
+469
+00:23:43,040 --> 00:23:46,040
+Quando finalmente já é tarde.
+
+470
+00:23:46,040 --> 00:23:49,040
+Vocês dão aquela passada no clube de vocês.
+
+471
+00:23:49,040 --> 00:23:51,040
+Para pegar as mochilas.
+
+472
+00:23:51,040 --> 00:23:53,040
+Para pegar as coisas antes de ir embora.
+
+473
+00:23:53,040 --> 00:23:55,040
+Vocês abrem a porta do clube ali.
+
+474
+00:23:55,040 --> 00:23:58,040
+E algo chama a atenção de vocês.
+
+475
+00:23:58,040 --> 00:24:01,040
+Mas antes eu preciso perguntar.
+
+476
+00:24:01,040 --> 00:24:05,040
+Vocês acompanham o Monster Chef?
+
+477
+00:24:05,040 --> 00:24:07,040
+As outras edições pela televisão?
+
+478
+00:24:07,040 --> 00:24:08,040
+Vocês cresceram vendo?
+
+479
+00:24:08,040 --> 00:24:09,040
+Sim.
+
+480
+00:24:09,040 --> 00:24:10,040
+A Lupita com certeza.
+
+481
+00:24:10,040 --> 00:24:12,040
+Eu assisti alguns.
+
+482
+00:24:12,040 --> 00:24:13,040
+É, assim.
+
+483
+00:24:13,040 --> 00:24:15,040
+Numa edição de alguns anos atrás.
+
+484
+00:24:15,040 --> 00:24:17,040
+Do Monster Chef Junior.
+
+485
+00:24:17,040 --> 00:24:19,040
+Onde tem as crianças.
+
+486
+00:24:19,040 --> 00:24:21,040
+A grande vencedora.
+
+487
+00:24:21,040 --> 00:24:24,040
+E que chamou a atenção de todo mundo.
+
+488
+00:24:24,040 --> 00:24:26,040
+Pela sua simpatia.
+
+489
+00:24:26,040 --> 00:24:27,040
+Pela sua beleza.
+
+490
+00:24:27,040 --> 00:24:30,040
+Foi a princesa deste mundo.
+
+491
+00:24:30,040 --> 00:24:32,040
+E é a Igna.
+
+492
+00:24:32,040 --> 00:24:34,040
+Que é a filha mais velha do casal real.
+
+493
+00:24:34,040 --> 00:24:37,040
+Ela herdou partes do pai e da mãe.
+
+494
+00:24:37,040 --> 00:24:38,040
+O pai é um gênio.
+
+495
+00:24:38,040 --> 00:24:40,040
+A mãe é uma naga.
+
+496
+00:24:40,040 --> 00:24:43,040
+Então ela tem uma pele em tom coral.
+
+497
+00:24:43,040 --> 00:24:44,040
+Com escamas douradas.
+
+498
+00:24:44,040 --> 00:24:45,040
+Nos braços.
+
+499
+00:24:45,040 --> 00:24:47,040
+Os olhos dela são como chamas líquidas.
+
+500
+00:24:47,040 --> 00:24:50,040
+O cabelo dela é uma combinação de mechas flamejantes.
+
+501
+00:24:50,040 --> 00:24:52,040
+E serpentinas.
+
+502
+00:24:52,040 --> 00:24:55,040
+Costuma vestir roupas combinando elementos de fogo e serpente.
+
+503
+00:24:55,040 --> 00:24:57,040
+E da cintura para baixo.
+
+504
+00:24:57,040 --> 00:24:59,040
+Ela tem uma cauda vermelha.
+
+505
+00:24:59,040 --> 00:25:02,040
+Com escamas dourados.
+
+506
+00:25:02,040 --> 00:25:04,040
+Em relação a ela.
+
+507
+00:25:04,040 --> 00:25:05,040
+Vocês são fãs?
+
+508
+00:25:05,040 --> 00:25:06,040
+Vocês ignoram?
+
+509
+00:25:06,040 --> 00:25:07,040
+O que você pensa dela?
+
+510
+00:25:07,040 --> 00:25:08,040
+Chave.
+
+511
+00:25:08,040 --> 00:25:12,040
+Como eu gosto de estar imitando as pessoas.
+
+512
+00:25:12,040 --> 00:25:14,040
+E ela é uma pessoa bastante notável.
+
+513
+00:25:14,040 --> 00:25:17,040
+Ela é uma pessoa que eu presto atenção.
+
+514
+00:25:17,040 --> 00:25:19,040
+Para poder fazer as minhas imitações.
+
+515
+00:25:19,040 --> 00:25:21,040
+E piadas.
+
+516
+00:25:21,040 --> 00:25:23,040
+Mas não tem nada contra ela.
+
+517
+00:25:23,040 --> 00:25:27,040
+Mas também não tem nenhuma adoração.
+
+518
+00:25:27,040 --> 00:25:28,040
+Lupita.
+
+519
+00:25:28,040 --> 00:25:30,040
+A Lupita.
+
+520
+00:25:30,040 --> 00:25:33,040
+Além de ter visto no Monster Chef.
+
+521
+00:25:33,040 --> 00:25:37,040
+Ela tem uma admiração pela princesa.
+
+522
+00:25:37,040 --> 00:25:40,040
+Que ela fica meio que encantada.
+
+523
+00:25:40,040 --> 00:25:41,040
+Quando vê.
+
+524
+00:25:41,040 --> 00:25:44,040
+Digamos, quase uma tietagem.
+
+525
+00:25:44,040 --> 00:25:46,040
+Que ela tem pela princesa.
+
+526
+00:25:46,040 --> 00:25:48,040
+Tanto é que uma inspiração de cozinheira.
+
+527
+00:25:48,040 --> 00:25:50,040
+É a própria princesa para a Lupita.
+
+528
+00:25:50,040 --> 00:25:51,040
+Perfeito.
+
+529
+00:25:51,040 --> 00:25:52,040
+A Mix.
+
+530
+00:25:52,040 --> 00:25:54,040
+A Mix também tem um pouco essa admiração.
+
+531
+00:25:54,040 --> 00:25:56,040
+Por ela ser da família real.
+
+532
+00:25:56,040 --> 00:26:00,040
+Mas ela é mais fã da princesa.
+
+533
+00:26:00,040 --> 00:26:03,040
+Por conta da participação dela no Monster Chef.
+
+534
+00:26:03,040 --> 00:26:05,040
+Ao abrirem a porta.
+
+535
+00:26:05,040 --> 00:26:08,040
+Tem uma queimadura.
+
+536
+00:26:08,040 --> 00:26:09,040
+Está queimado assim.
+
+537
+00:26:09,040 --> 00:26:11,040
+Sobre a madeira da mesa.
+
+538
+00:26:11,040 --> 00:26:15,040
+E tem tipo cinzas assim.
+
+539
+00:26:15,040 --> 00:26:17,040
+No meio dessa queimadura ali.
+
+540
+00:26:17,040 --> 00:26:20,040
+Alguém vandalizou a mesa de vocês.
+
+541
+00:26:20,040 --> 00:26:22,040
+Eu olho assim.
+
+542
+00:26:22,040 --> 00:26:25,040
+Eu não acredito que eles subiram para fazer isso.
+
+543
+00:26:25,040 --> 00:26:28,040
+Eles pareciam estar alegres com a gente.
+
+544
+00:26:28,040 --> 00:26:30,040
+Será que eles fariam isso?
+
+545
+00:26:30,040 --> 00:26:32,040
+Isso aí tem cara de alguma pegadinha.
+
+546
+00:26:32,040 --> 00:26:33,040
+Que alguém tentou fazer.
+
+547
+00:26:33,040 --> 00:26:34,040
+Não deu muito certo.
+
+548
+00:26:34,040 --> 00:26:35,040
+Guaxa.
+
+549
+00:26:35,040 --> 00:26:36,040
+Existe algum padrão.
+
+550
+00:26:36,040 --> 00:26:38,040
+Que foi queimado.
+
+551
+00:26:38,040 --> 00:26:40,040
+Como se fosse para escrever algo.
+
+552
+00:26:40,040 --> 00:26:42,040
+Ou é só uma queimadura na mesa?
+
+553
+00:26:42,040 --> 00:26:43,040
+Dois dados.
+
+554
+00:26:43,040 --> 00:26:44,040
+Tu atributou mais.
+
+555
+00:26:44,040 --> 00:26:46,040
+Eu tirei três e um.
+
+556
+00:26:46,040 --> 00:26:47,040
+Parece que alguém só deu.
+
+557
+00:26:47,040 --> 00:26:48,040
+Tipo.
+
+558
+00:26:48,040 --> 00:26:49,040
+Bateu alguma coisa.
+
+559
+00:26:49,040 --> 00:26:50,040
+Sei lá.
+
+560
+00:26:50,040 --> 00:26:51,040
+Um punho de fogo.
+
+561
+00:26:51,040 --> 00:26:52,040
+Um tapa.
+
+562
+00:26:52,040 --> 00:26:53,040
+Um pedaço de palco.
+
+563
+00:26:53,040 --> 00:26:54,040
+Assim.
+
+564
+00:26:54,040 --> 00:26:55,040
+Mas pegando fogo.
+
+565
+00:26:55,040 --> 00:26:56,040
+Queimou mesmo.
+
+566
+00:26:56,040 --> 00:26:57,040
+Com impacto.
+
+567
+00:26:57,040 --> 00:26:59,040
+Parece ter algum poder de fogo ligado.
+
+568
+00:26:59,040 --> 00:27:00,040
+Aquilo ali.
+
+569
+00:27:00,040 --> 00:27:01,040
+Mas tu é um dragão.
+
+570
+00:27:01,040 --> 00:27:02,040
+Tu sabe disso.
+
+571
+00:27:02,040 --> 00:27:04,040
+Mas nenhuma informação que realmente vai te ajudar.
+
+572
+00:27:04,040 --> 00:27:05,040
+Porque tu falhou.
+
+573
+00:27:05,040 --> 00:27:06,040
+Parece que alguém.
+
+574
+00:27:06,040 --> 00:27:07,040
+Bateu nessa mesa.
+
+575
+00:27:07,040 --> 00:27:08,040
+E queimou.
+
+576
+00:27:08,040 --> 00:27:09,040
+Mas.
+
+577
+00:27:09,040 --> 00:27:10,040
+Quem faria isso?
+
+578
+00:27:10,040 --> 00:27:13,040
+Provavelmente alguém que não ficou feliz com a nossa vitória.
+
+579
+00:27:13,040 --> 00:27:15,040
+E alguém que tem poder de fogo.
+
+580
+00:27:15,040 --> 00:27:17,040
+Ou que queria colocar fogo na escola.
+
+581
+00:27:17,040 --> 00:27:18,040
+E botar a culpa na gente.
+
+582
+00:27:18,040 --> 00:27:19,040
+Também poderia ser.
+
+583
+00:27:19,040 --> 00:27:20,040
+Mas.
+
+584
+00:27:20,040 --> 00:27:21,040
+Essa segunda parte é melhor.
+
+585
+00:27:21,040 --> 00:27:22,040
+Acho que não deve ser.
+
+586
+00:27:22,040 --> 00:27:23,040
+Olhando em volta.
+
+587
+00:27:23,040 --> 00:27:24,040
+Tem alguma.
+
+588
+00:27:24,040 --> 00:27:25,040
+Algum outro indício.
+
+589
+00:27:25,040 --> 00:27:26,040
+De que alguém esteve ali?
+
+590
+00:27:26,040 --> 00:27:27,040
+Não.
+
+591
+00:27:27,040 --> 00:27:28,040
+Assim.
+
+592
+00:27:28,040 --> 00:27:29,040
+A mix rolou pelo grupo.
+
+593
+00:27:29,040 --> 00:27:30,040
+Nenhuma informação a mais.
+
+594
+00:27:30,040 --> 00:27:31,040
+Então.
+
+595
+00:27:31,040 --> 00:27:32,040
+Tirando a mix.
+
+596
+00:27:32,040 --> 00:27:36,040
+A gente sabe mais ou menos quem é que tem poder de fogo pela escola.
+
+597
+00:27:36,040 --> 00:27:37,040
+Né?
+
+598
+00:27:37,040 --> 00:27:38,040
+Algumas pessoas.
+
+599
+00:27:38,040 --> 00:27:39,040
+Mas não são muitos.
+
+600
+00:27:39,040 --> 00:27:40,040
+A gente pode.
+
+601
+00:27:40,040 --> 00:27:43,040
+Ver se tem mais alguém lá por baixo.
+
+602
+00:27:43,040 --> 00:27:44,040
+Por volta aqui.
+
+603
+00:27:44,040 --> 00:27:46,040
+Dos alunos que tem poder de fogo.
+
+604
+00:27:46,040 --> 00:27:47,040
+Pra ver se tiveram por aqui.
+
+605
+00:27:47,040 --> 00:27:48,040
+É.
+
+606
+00:27:48,040 --> 00:27:49,040
+A gente pode ver se.
+
+607
+00:27:49,040 --> 00:27:51,040
+Alguém não tava na comemoração.
+
+608
+00:27:51,040 --> 00:27:52,040
+A gente pode perguntar.
+
+609
+00:27:52,040 --> 00:27:54,040
+A gente pode perguntar pras pessoas que tavam lá embaixo.
+
+610
+00:27:54,040 --> 00:27:55,040
+Guaxa.
+
+611
+00:27:55,040 --> 00:27:56,040
+Eu.
+
+612
+00:27:56,040 --> 00:27:57,040
+Na hora que eu tava voando.
+
+613
+00:27:57,040 --> 00:27:59,040
+Eu devo ter tido uma boa vista assim.
+
+614
+00:27:59,040 --> 00:28:00,040
+De.
+
+615
+00:28:00,040 --> 00:28:01,040
+De quem tava lá.
+
+616
+00:28:01,040 --> 00:28:02,040
+Eu conseguiria.
+
+617
+00:28:02,040 --> 00:28:03,040
+Dizer.
+
+618
+00:28:03,040 --> 00:28:04,040
+Se.
+
+619
+00:28:04,040 --> 00:28:05,040
+Se tinha alguém faltando.
+
+620
+00:28:05,040 --> 00:28:06,040
+Alguém.
+
+621
+00:28:06,040 --> 00:28:07,040
+Diferente.
+
+622
+00:28:07,040 --> 00:28:08,040
+Um dado vai.
+
+623
+00:28:08,040 --> 00:28:09,040
+Que atributou mais.
+
+624
+00:28:09,040 --> 00:28:10,040
+Eu tirei.
+
+625
+00:28:10,040 --> 00:28:11,040
+Três.
+
+626
+00:28:11,040 --> 00:28:12,040
+Atributo dois.
+
+627
+00:28:12,040 --> 00:28:13,040
+Ninguém.
+
+628
+00:28:13,040 --> 00:28:14,040
+Assim.
+
+629
+00:28:14,040 --> 00:28:15,040
+Que.
+
+630
+00:28:15,040 --> 00:28:16,040
+Poderia fazer isso.
+
+631
+00:28:16,040 --> 00:28:17,040
+Saindo de lá.
+
+632
+00:28:17,040 --> 00:28:18,040
+Nada que te chame a atenção.
+
+633
+00:28:18,040 --> 00:28:19,040
+Bem.
+
+634
+00:28:19,040 --> 00:28:20,040
+Eu acho que é melhor a gente deixar uma denúncia formal com a diretora.
+
+635
+00:28:20,040 --> 00:28:21,040
+Porque.
+
+636
+00:28:21,040 --> 00:28:22,040
+Eu acho que é melhor a gente deixar uma denúncia formal com a diretora.
+
+637
+00:28:22,040 --> 00:28:23,040
+Caso alguém tenta arrombar de novo.
+
+638
+00:28:23,040 --> 00:28:24,040
+E botar fogo na escola.
+
+639
+00:28:24,040 --> 00:28:25,040
+Sim.
+
+640
+00:28:25,040 --> 00:28:26,040
+É bom a gente te avisar.
+
+641
+00:28:26,040 --> 00:28:27,040
+Você tem um piromaníaco por aqui.
+
+642
+00:28:27,040 --> 00:28:28,040
+É bom a escola saber.
+
+643
+00:28:28,040 --> 00:28:29,040
+Então.
+
+644
+00:28:29,040 --> 00:28:30,040
+Sala da diretora.
+
+645
+00:28:30,040 --> 00:28:31,040
+E depois.
+
+646
+00:28:31,040 --> 00:28:32,040
+Tentar lembrar quem.
+
+647
+00:28:32,040 --> 00:28:33,040
+Não tava na festa.
+
+648
+00:28:33,040 --> 00:28:34,040
+Não é isso?
+
+649
+00:28:34,040 --> 00:28:35,040
+Vocês.
+
+650
+00:28:35,040 --> 00:28:36,040
+Vão até a sala da.
+
+651
+00:28:36,040 --> 00:28:37,040
+Diretora.
+
+652
+00:28:37,040 --> 00:28:38,040
+Né.
+
+653
+00:28:38,040 --> 00:28:39,040
+Esse horário.
+
+654
+00:28:39,040 --> 00:28:40,040
+Corvini.
+
+655
+00:28:40,040 --> 00:28:41,040
+O que é o secretário.
+
+656
+00:28:41,040 --> 00:28:42,040
+Já foi embora ali.
+
+657
+00:28:42,040 --> 00:28:43,040
+É.
+
+658
+00:28:43,040 --> 00:28:44,040
+Vocês vêem que a.
+
+659
+00:28:44,040 --> 00:28:45,040
+Que a.
+
+660
+00:28:45,040 --> 00:28:46,040
+A porta tá.
+
+661
+00:28:46,040 --> 00:28:47,040
+Tá.
+
+662
+00:28:47,040 --> 00:28:48,040
+Fechada.
+
+663
+00:28:48,040 --> 00:28:49,040
+Né.
+
+664
+00:28:49,040 --> 00:28:50,040
+Tá.
+
+665
+00:28:50,040 --> 00:28:51,040
+Tá.
+
+666
+00:28:51,040 --> 00:28:52,040
+A porta.
+
+667
+00:28:52,040 --> 00:28:53,040
+Tá.
+
+668
+00:28:53,040 --> 00:28:54,040
+Chegou na porta.
+
+669
+00:28:54,040 --> 00:28:55,040
+Eu escuto alguns barulhos.
+
+670
+00:28:55,040 --> 00:28:56,040
+Né.
+
+671
+00:28:56,040 --> 00:28:57,040
+Então.
+
+672
+00:28:57,040 --> 00:28:58,040
+A professora esqueletiza.
+
+673
+00:28:58,040 --> 00:28:59,040
+Abre.
+
+674
+00:28:59,040 --> 00:29:00,040
+Ela abre a porta.
+
+675
+00:29:00,040 --> 00:29:01,040
+Sim.
+
+676
+00:29:01,040 --> 00:29:02,040
+Mas não abre a porta toda.
+
+677
+00:29:02,040 --> 00:29:03,040
+Coloca o corpo meio pra fora.
+
+678
+00:29:03,040 --> 00:29:04,040
+Assim.
+
+679
+00:29:04,040 --> 00:29:05,040
+Olha pra vocês.
+
+680
+00:29:05,040 --> 00:29:06,040
+Ah.
+
+681
+00:29:06,040 --> 00:29:07,040
+Crianças.
+
+682
+00:29:07,040 --> 00:29:08,040
+É.
+
+683
+00:29:08,040 --> 00:29:09,040
+Parabéns pela vitória.
+
+684
+00:29:09,040 --> 00:29:10,040
+Eu.
+
+685
+00:29:10,040 --> 00:29:12,540
+Sei que saí muito rápido.
+
+686
+00:29:12,540 --> 00:29:13,540
+Mas.
+
+687
+00:29:13,540 --> 00:29:14,540
+É.
+
+688
+00:29:14,540 --> 00:29:15,740
+Vocês precisam de algo?
+
+689
+00:29:15,740 --> 00:29:16,920
+A professora.
+
+690
+00:29:16,920 --> 00:29:17,920
+No.
+
+691
+00:29:17,920 --> 00:29:18,920
+Na roupa dela.
+
+692
+00:29:18,920 --> 00:29:19,920
+Tem um pedaço de bandagem.
+
+693
+00:29:19,920 --> 00:29:20,920
+Colada assim.
+
+694
+00:29:20,920 --> 00:29:24,240
+Eu olho assim pra bandagem
+
+695
+00:29:24,240 --> 00:29:25,340
+Olho pra baixo
+
+696
+00:29:25,340 --> 00:29:27,620
+Tentando não ficar vermelha
+
+697
+00:29:27,620 --> 00:29:30,340
+Olho pra bandagem de novo, olho pra baixo de novo
+
+698
+00:29:30,340 --> 00:29:32,380
+Tentaram botar fogo lá no clube
+
+699
+00:29:32,380 --> 00:29:34,300
+Tá, aguardem aí
+
+700
+00:29:34,300 --> 00:29:35,880
+Ela fecha a porta
+
+701
+00:29:35,880 --> 00:29:37,780
+Daí o Cuxuxi com os dois
+
+702
+00:29:37,780 --> 00:29:40,080
+Vocês viram a bandagem?
+
+703
+00:29:40,080 --> 00:29:42,080
+A diretora esqueletiza
+
+704
+00:29:42,640 --> 00:29:44,080
+Tá ó, de parabéns
+
+705
+00:29:45,100 --> 00:29:46,180
+Depois de um tempinho
+
+706
+00:29:46,180 --> 00:29:47,300
+A diretora sai
+
+707
+00:29:47,300 --> 00:29:49,940
+Pela porta dela ali, mas ela fecha
+
+708
+00:29:49,940 --> 00:29:52,100
+Atrás dela assim, ela abre o mínimo possível
+
+709
+00:29:52,100 --> 00:29:52,760
+Pra ela passar
+
+710
+00:29:52,760 --> 00:29:56,320
+E por ser um esqueleto, ela não precisa abrir muito pra estar passando
+
+711
+00:29:56,320 --> 00:29:58,280
+Ela senta ali
+
+712
+00:29:58,280 --> 00:30:00,480
+No computador do Covinho
+
+713
+00:30:00,480 --> 00:30:02,620
+Ela digita alguma coisa
+
+714
+00:30:02,620 --> 00:30:03,780
+E
+
+715
+00:30:03,780 --> 00:30:06,140
+Ela mostra a câmera
+
+716
+00:30:06,140 --> 00:30:08,300
+De segurança do lado do
+
+717
+00:30:08,300 --> 00:30:09,940
+Não é a câmera, é um monstro
+
+718
+00:30:09,940 --> 00:30:12,540
+Que fica o tempo todo observando e guarda as informações
+
+719
+00:30:12,540 --> 00:30:14,140
+Mas resumidamente é isso
+
+720
+00:30:14,140 --> 00:30:16,300
+E ela mostra pra vocês
+
+721
+00:30:16,300 --> 00:30:18,260
+Quem entrou
+
+722
+00:30:18,260 --> 00:30:19,280
+E saiu do clube
+
+723
+00:30:19,280 --> 00:30:21,040
+Não dá pra saber o que aconteceu lá dentro
+
+724
+00:30:21,040 --> 00:30:23,020
+Mas foi muito rápido
+
+725
+00:30:23,020 --> 00:30:24,240
+Foi a princesa
+
+726
+00:30:24,240 --> 00:30:25,200
+Pra surpresa de ninguém
+
+727
+00:30:25,200 --> 00:30:29,120
+A Lupita tá assim olhando as imagens
+
+728
+00:30:29,120 --> 00:30:32,500
+A gente pode ter uma cópia dessas imagens?
+
+729
+00:30:32,540 --> 00:30:33,120
+Por lei
+
+730
+00:30:33,120 --> 00:30:34,560
+Eu tenho que apagar
+
+731
+00:30:34,560 --> 00:30:36,500
+E a gente nunca viu isso
+
+732
+00:30:36,500 --> 00:30:38,540
+Ela já tá apertando delete ali nas imagens
+
+733
+00:30:38,540 --> 00:30:42,340
+Eu gosto do meu emprego aqui
+
+734
+00:30:42,340 --> 00:30:43,980
+Eu não quero
+
+735
+00:30:43,980 --> 00:30:46,700
+Aumentar o estigma dos metamorfos
+
+736
+00:30:46,700 --> 00:30:49,240
+Mas talvez não seja ela
+
+737
+00:30:49,280 --> 00:30:51,320
+Talvez seja alguém fingindo ser ela
+
+738
+00:30:51,320 --> 00:30:52,480
+Pode ser
+
+739
+00:30:52,480 --> 00:30:53,820
+Você fez isso?
+
+740
+00:30:54,040 --> 00:30:56,680
+Não, eu tava comemorando a nossa vitória
+
+741
+00:30:56,680 --> 00:30:57,760
+Mas
+
+742
+00:30:57,760 --> 00:30:59,640
+Metamorfo
+
+743
+00:30:59,640 --> 00:31:02,280
+Ele copia o poder também?
+
+744
+00:31:02,660 --> 00:31:04,940
+Porque tu viu o tamanho daquela mancha
+
+745
+00:31:04,940 --> 00:31:06,960
+Bom, mais fortes, né?
+
+746
+00:31:07,020 --> 00:31:08,620
+Eu ainda tô em treinamento, mas
+
+747
+00:31:08,620 --> 00:31:10,500
+Um metamorfo adulto
+
+748
+00:31:10,500 --> 00:31:13,200
+Bem treinado, poderia fazer isso
+
+749
+00:31:13,200 --> 00:31:14,520
+O importante
+
+750
+00:31:14,520 --> 00:31:16,940
+É que vocês se classificaram
+
+751
+00:31:16,940 --> 00:31:18,820
+Vão pro concurso
+
+752
+00:31:19,280 --> 00:31:20,560
+Fiquem longe dela
+
+753
+00:31:20,560 --> 00:31:22,980
+Mas ela é tão bonita
+
+754
+00:31:22,980 --> 00:31:25,180
+E cozinha tão bem, professora
+
+755
+00:31:25,180 --> 00:31:26,900
+Ah, Lupita
+
+756
+00:31:26,900 --> 00:31:31,480
+Eu também tenho uma queda por...
+
+757
+00:31:31,480 --> 00:31:32,780
+Falando nisso
+
+758
+00:31:32,780 --> 00:31:34,240
+Tá tarde, né?
+
+759
+00:31:34,700 --> 00:31:35,560
+Vamos pra casa
+
+760
+00:31:35,560 --> 00:31:38,620
+Tá bom, já que o tanto foi resolvido, então
+
+761
+00:31:38,620 --> 00:31:39,940
+Boa noite
+
+762
+00:31:39,940 --> 00:31:42,560
+Boa noite, crianças
+
+763
+00:31:42,560 --> 00:31:43,500
+Eu só falei valeu
+
+764
+00:31:43,500 --> 00:31:46,720
+Ela tá meio preocupada
+
+765
+00:31:46,720 --> 00:31:49,160
+E ela espera vocês embora antes de voltar
+
+766
+00:31:49,160 --> 00:31:49,880
+Pra sala dela
+
+767
+00:31:49,880 --> 00:31:53,380
+Por que a princesa faria isso aqui?
+
+768
+00:31:54,020 --> 00:31:55,260
+Será que ela não quer que a gente vá
+
+769
+00:31:55,260 --> 00:31:56,920
+Pra competição?
+
+770
+00:31:57,860 --> 00:32:00,180
+Ah, ela só pode ter brigado
+
+771
+00:32:00,180 --> 00:32:01,100
+Com o irmão
+
+772
+00:32:01,100 --> 00:32:02,520
+Ou com alguém da família
+
+773
+00:32:02,520 --> 00:32:04,180
+E tava com raiva e acabou
+
+774
+00:32:04,180 --> 00:32:06,200
+Batendo com força na mesa
+
+775
+00:32:06,200 --> 00:32:07,740
+Mas por que ela ia fazer isso
+
+776
+00:32:07,740 --> 00:32:09,900
+No nosso clube de cozinha?
+
+777
+00:32:09,940 --> 00:32:11,380
+Ela gosta de cozinhar
+
+778
+00:32:11,380 --> 00:32:13,780
+Talvez ela tivesse pensado que
+
+779
+00:32:13,780 --> 00:32:15,900
+Cozinhando ela ia relaxar
+
+780
+00:32:15,900 --> 00:32:17,680
+Mas viu que não relaxou
+
+781
+00:32:17,680 --> 00:32:19,100
+Ela nem foi assistir a...
+
+782
+00:32:19,160 --> 00:32:21,240
+A nossa competição
+
+783
+00:32:21,240 --> 00:32:22,900
+Tem alguma coisa muito estranha
+
+784
+00:32:22,900 --> 00:32:25,120
+Alguma coisa tá mal contada
+
+785
+00:32:25,120 --> 00:32:25,780
+Nessa história
+
+786
+00:32:25,780 --> 00:32:29,400
+Ai, gente, vocês estão desconfiando
+
+787
+00:32:29,400 --> 00:32:31,180
+Demais da pobre da princesa
+
+788
+00:32:31,180 --> 00:32:33,060
+Faria nada de errado, não
+
+789
+00:32:33,060 --> 00:32:35,080
+Como é que alguém que cozinha tão bem
+
+790
+00:32:35,080 --> 00:32:37,440
+E ainda por cima
+
+791
+00:32:37,440 --> 00:32:39,540
+É tão bonita
+
+792
+00:32:39,540 --> 00:32:41,080
+E, ai, vocês já repararam
+
+793
+00:32:41,080 --> 00:32:42,520
+Naquelas escamas dela?
+
+794
+00:32:43,020 --> 00:32:44,760
+Não pode fazer nada de errado
+
+795
+00:32:44,760 --> 00:32:46,380
+Ela tem escamas lindas mesmo
+
+796
+00:32:46,380 --> 00:32:48,360
+Isso que eu defino se a pessoa é boa ou não
+
+797
+00:32:48,360 --> 00:32:48,940
+É
+
+798
+00:32:49,160 --> 00:33:09,840
+Uma semana se passa
+
+799
+00:33:09,840 --> 00:33:11,320
+Vocês se preparam ali
+
+800
+00:33:11,320 --> 00:33:12,700
+Vocês estudam, né
+
+801
+00:33:12,700 --> 00:33:14,980
+Embora vocês tenham passado juntos
+
+802
+00:33:14,980 --> 00:33:17,160
+Não necessariamente vocês três
+
+803
+00:33:17,160 --> 00:33:18,500
+Continuarão juntos
+
+804
+00:33:18,500 --> 00:33:18,980
+Na próxima semana
+
+805
+00:33:19,160 --> 00:33:20,380
+Ou vocês não sabem
+
+806
+00:33:20,380 --> 00:33:22,620
+O que esperar da semifinal
+
+807
+00:33:22,620 --> 00:33:23,220
+Mas
+
+808
+00:33:23,220 --> 00:33:25,340
+Vocês são levados, né
+
+809
+00:33:25,340 --> 00:33:27,480
+A escola paga um pequeno ônibus
+
+810
+00:33:27,480 --> 00:33:28,360
+Pra levar vocês
+
+811
+00:33:28,360 --> 00:33:29,420
+E alguns estudantes
+
+812
+00:33:29,420 --> 00:33:31,300
+Pra torcerem pra vocês
+
+813
+00:33:31,300 --> 00:33:33,360
+Incluindo os três
+
+814
+00:33:33,360 --> 00:33:34,980
+Que perderam pra vocês
+
+815
+00:33:34,980 --> 00:33:36,240
+Nas finais regionais
+
+816
+00:33:36,240 --> 00:33:38,400
+Que perderam na final do colégio ali
+
+817
+00:33:38,400 --> 00:33:40,360
+Tá lá a Lara, o Bruno, a Miria
+
+818
+00:33:40,360 --> 00:33:41,780
+Todo mundo ali
+
+819
+00:33:41,780 --> 00:33:44,020
+Sentado, uma festa
+
+820
+00:33:44,020 --> 00:33:45,400
+Vocês estão indo
+
+821
+00:33:45,400 --> 00:33:47,380
+Pro local marcado
+
+822
+00:33:47,380 --> 00:33:49,140
+Da grande semifinal
+
+823
+00:33:49,160 --> 00:33:51,860
+Os outros alunos interagem com vocês ali
+
+824
+00:33:51,860 --> 00:33:53,420
+Dá aquele tapinha nas costas
+
+825
+00:33:53,420 --> 00:33:54,640
+Desejam sorte
+
+826
+00:33:54,640 --> 00:33:57,100
+Cada um rola um dado, por favor
+
+827
+00:33:57,100 --> 00:33:58,920
+Atributo ou mais
+
+828
+00:33:58,920 --> 00:34:01,360
+Lupita tirou quanto?
+
+829
+00:34:01,640 --> 00:34:01,840
+Um
+
+830
+00:34:01,840 --> 00:34:03,620
+Uma falha
+
+831
+00:34:03,620 --> 00:34:04,940
+Amix
+
+832
+00:34:04,940 --> 00:34:05,960
+Tirei dois
+
+833
+00:34:05,960 --> 00:34:07,020
+É uma falha
+
+834
+00:34:07,020 --> 00:34:08,040
+Um chavinho
+
+835
+00:34:08,040 --> 00:34:08,940
+Eu tirei seis
+
+836
+00:34:08,940 --> 00:34:09,660
+É um acerto
+
+837
+00:34:09,660 --> 00:34:10,320
+Todos
+
+838
+00:34:10,320 --> 00:34:11,620
+No ônibus
+
+839
+00:34:11,620 --> 00:34:14,220
+A esmagadora maioria, pelo menos
+
+840
+00:34:14,220 --> 00:34:16,480
+Torcem e têm certeza
+
+841
+00:34:16,480 --> 00:34:19,000
+Que quem volta campeão é chavinho
+
+842
+00:34:19,000 --> 00:34:20,900
+Eu fico envergonhado
+
+843
+00:34:20,900 --> 00:34:22,060
+Mas
+
+844
+00:34:22,060 --> 00:34:24,300
+Eu tento não
+
+845
+00:34:24,300 --> 00:34:25,880
+Não transparecer
+
+846
+00:34:25,880 --> 00:34:28,900
+E vou fazer o que a gente faz
+
+847
+00:34:28,900 --> 00:34:29,680
+Quando tá envergonhado
+
+848
+00:34:29,680 --> 00:34:30,320
+Faz piada
+
+849
+00:34:30,320 --> 00:34:31,820
+Então eu vou, né
+
+850
+00:34:31,820 --> 00:34:34,200
+Pegar pra imitar os colegas
+
+851
+00:34:34,200 --> 00:34:35,760
+E de novo imitar
+
+852
+00:34:35,760 --> 00:34:38,360
+A diretora esqueletiza
+
+853
+00:34:38,360 --> 00:34:40,360
+Imitar o Gordon
+
+854
+00:34:40,360 --> 00:34:42,300
+Imitar o Fofuxo
+
+855
+00:34:42,300 --> 00:34:43,380
+Tô imitando todo mundo
+
+856
+00:34:43,380 --> 00:34:45,640
+Pra esconder a minha ansiedade
+
+857
+00:34:45,640 --> 00:34:46,120
+Perfeito
+
+858
+00:34:46,120 --> 00:34:48,360
+Rola dois dados, vamos lá
+
+859
+00:34:49,000 --> 00:34:51,020
+Eu tirei quatro e três
+
+860
+00:34:51,020 --> 00:34:53,120
+Se já te amavam antes
+
+861
+00:34:53,120 --> 00:34:53,740
+Mais ainda
+
+862
+00:34:53,740 --> 00:34:54,460
+Todo mundo ri
+
+863
+00:34:54,460 --> 00:34:56,340
+Todo mundo tá contigo ali
+
+864
+00:34:56,340 --> 00:34:58,840
+Cada piada que faz eles tão lindos também
+
+865
+00:34:58,840 --> 00:35:01,360
+E o ônibus então para
+
+866
+00:35:01,360 --> 00:35:04,760
+Numa região onde tem uma floresta muito grande
+
+867
+00:35:04,760 --> 00:35:07,520
+Lá já tem toda a estrutura do programa
+
+868
+00:35:07,520 --> 00:35:09,860
+Tem vários dos monstrinhos que filmam
+
+869
+00:35:09,860 --> 00:35:11,340
+Voando de um lado pro outro
+
+870
+00:35:11,340 --> 00:35:14,720
+Tem ônibus de todas as pequenas escolas
+
+871
+00:35:14,720 --> 00:35:16,540
+Que compõem este mundo, né
+
+872
+00:35:16,540 --> 00:35:18,020
+O colégio de vocês é o maior
+
+873
+00:35:18,020 --> 00:35:18,980
+Mas existem pequenos colégios
+
+874
+00:35:19,000 --> 00:35:22,200
+Em regiões mais afastadas do centro
+
+875
+00:35:22,200 --> 00:35:23,420
+Vocês chegam lá
+
+876
+00:35:23,420 --> 00:35:25,260
+São colocados numa área
+
+877
+00:35:25,260 --> 00:35:27,180
+Onde estão os outros dez, né
+
+878
+00:35:27,180 --> 00:35:28,760
+São treze finalistas
+
+879
+00:35:28,760 --> 00:35:30,220
+Vocês são apresentados
+
+880
+00:35:30,220 --> 00:35:31,960
+Tem um jovem ciclope
+
+881
+00:35:31,960 --> 00:35:33,380
+Tem uma sereia
+
+882
+00:35:33,380 --> 00:35:34,920
+Tem um pequeno duende
+
+883
+00:35:34,920 --> 00:35:37,220
+Tem um golem de barro muito grande
+
+884
+00:35:37,220 --> 00:35:39,200
+Tem uma menina com olho de gato
+
+885
+00:35:39,200 --> 00:35:41,260
+Parece ser algum tipo de feiticeira
+
+886
+00:35:41,260 --> 00:35:44,980
+Existe um jovem dragão de escamas douradas
+
+887
+00:35:44,980 --> 00:35:47,380
+Qual era a cor das tuas escamas, Mix?
+
+888
+00:35:47,380 --> 00:35:49,000
+As da Mix são rosas
+
+889
+00:35:49,000 --> 00:35:49,900
+Então não é parente
+
+890
+00:35:49,900 --> 00:35:51,920
+Tem uma banshee
+
+891
+00:35:51,920 --> 00:35:53,160
+Tem uma múmia
+
+892
+00:35:53,160 --> 00:35:57,580
+E os rumores são que ela é sobrinha-neta do Gordon
+
+893
+00:35:57,580 --> 00:35:59,260
+Tem um elfo noturno
+
+894
+00:35:59,260 --> 00:36:00,300
+E tem um ogro
+
+895
+00:36:00,300 --> 00:36:02,500
+Além de vocês três ali, né
+
+896
+00:36:02,500 --> 00:36:04,140
+Tá todo mundo meio tenso ali
+
+897
+00:36:04,140 --> 00:36:06,580
+O pessoal tá olhando
+
+898
+00:36:06,580 --> 00:36:09,480
+Pras mesas onde tem os instrumentos
+
+899
+00:36:09,480 --> 00:36:10,400
+De cozinha
+
+900
+00:36:10,400 --> 00:36:12,800
+Não tem nenhum ingrediente naquele espaço ali
+
+901
+00:36:12,800 --> 00:36:14,640
+Vocês vão interagir entre vocês
+
+902
+00:36:14,640 --> 00:36:15,820
+Ou vocês vão interagir com alguém
+
+903
+00:36:15,820 --> 00:36:17,980
+O que vocês pretendem fazer antes de começar a competição?
+
+904
+00:36:18,480 --> 00:36:18,920
+Assim
+
+905
+00:36:19,000 --> 00:36:21,360
+Que eu vejo o dragão
+
+906
+00:36:21,360 --> 00:36:24,160
+Eu dou aquela cutucadinha assim na Mix
+
+907
+00:36:24,160 --> 00:36:25,260
+E aí, Mix
+
+908
+00:36:25,260 --> 00:36:26,420
+Quer que eu te apresente?
+
+909
+00:36:26,420 --> 00:36:28,460
+Ah, ah, é...
+
+910
+00:36:28,460 --> 00:36:30,120
+Talvez, é...
+
+911
+00:36:30,120 --> 00:36:32,460
+Eu, eu, eu tô nervosa
+
+912
+00:36:32,460 --> 00:36:33,460
+Pra, pra...
+
+913
+00:36:33,460 --> 00:36:34,540
+Ela dá uma desconversada
+
+914
+00:36:34,540 --> 00:36:37,000
+Eu tô nervosa pra apresentação
+
+915
+00:36:37,000 --> 00:36:39,740
+Pra competição
+
+916
+00:36:39,740 --> 00:36:41,980
+Mas...
+
+917
+00:36:41,980 --> 00:36:43,520
+Eu tenho certeza que você vai muito bem
+
+918
+00:36:43,520 --> 00:36:45,880
+Eu sei, mas a questão é
+
+919
+00:36:45,880 --> 00:36:47,400
+Olha, tem um dragão ali
+
+920
+00:36:47,400 --> 00:36:48,660
+É, eu...
+
+921
+00:36:48,660 --> 00:36:48,980
+Alô?
+
+922
+00:36:49,000 --> 00:36:50,860
+Pita-se, enfia no meio dos dois
+
+923
+00:36:50,860 --> 00:36:52,160
+Quando a Mix fica sem jeito
+
+924
+00:36:52,160 --> 00:36:52,460
+Fala
+
+925
+00:36:52,460 --> 00:36:54,360
+Vocês já viram a múmia?
+
+926
+00:36:55,040 --> 00:36:55,560
+Ah...
+
+927
+00:36:55,560 --> 00:36:56,320
+Aquela ali?
+
+928
+00:36:56,820 --> 00:36:58,520
+Parece que é...
+
+929
+00:36:58,520 --> 00:36:59,440
+Será que é parente?
+
+930
+00:36:59,520 --> 00:37:01,460
+Eu ouvi dizer que ela é...
+
+931
+00:37:01,460 --> 00:37:02,400
+Sobrinha-neta?
+
+932
+00:37:03,040 --> 00:37:03,840
+Ou...
+
+933
+00:37:03,840 --> 00:37:04,720
+Sobrinha-bisneta?
+
+934
+00:37:04,780 --> 00:37:05,620
+Alguma coisa assim
+
+935
+00:37:05,620 --> 00:37:07,340
+Será que vai ter arrumadinho de família?
+
+936
+00:37:07,940 --> 00:37:09,300
+Bom, fiquem de olho nela
+
+937
+00:37:09,300 --> 00:37:12,920
+Um grande palco assim
+
+938
+00:37:12,920 --> 00:37:14,520
+Abre as cortinas
+
+939
+00:37:14,520 --> 00:37:16,520
+Lá tá o Gordon Hanses
+
+940
+00:37:16,520 --> 00:37:18,600
+Tentado atrás dele em dois tronos
+
+941
+00:37:18,600 --> 00:37:19,840
+Muito altos assim
+
+942
+00:37:19,840 --> 00:37:22,240
+Feito de algum metal
+
+943
+00:37:22,240 --> 00:37:23,620
+Extremamente reluzente
+
+944
+00:37:23,620 --> 00:37:26,900
+Então, a princesa e o príncipe
+
+945
+00:37:26,900 --> 00:37:29,540
+O Gordon fala pra todos vocês
+
+946
+00:37:29,540 --> 00:37:31,140
+Então, chegamos
+
+947
+00:37:31,140 --> 00:37:32,600
+A nossa semifinal
+
+948
+00:37:32,600 --> 00:37:34,860
+Temos um grande desafio
+
+949
+00:37:34,860 --> 00:37:35,520
+A nossa frente
+
+950
+00:37:35,520 --> 00:37:38,880
+Queria dizer a vocês que não iria valer o prato de vocês
+
+951
+00:37:38,880 --> 00:37:40,420
+Para não me acusarem de nada
+
+952
+00:37:40,420 --> 00:37:42,920
+E os pratos serão provados
+
+953
+00:37:42,920 --> 00:37:45,760
+Pela princesa real e pelo príncipe real
+
+954
+00:37:45,760 --> 00:37:46,680
+Sua cidade, Lupita
+
+955
+00:37:46,680 --> 00:37:48,400
+Cinco
+
+956
+00:37:48,400 --> 00:37:49,160
+E quatro
+
+957
+00:37:49,160 --> 00:37:52,620
+A princesa tá te encarando nos olhos
+
+958
+00:37:52,620 --> 00:37:54,180
+Dá pra ver uma chama
+
+959
+00:37:54,180 --> 00:37:55,640
+No olhar dela
+
+960
+00:37:55,640 --> 00:37:57,660
+Os cabelos dela
+
+961
+00:37:57,660 --> 00:38:00,860
+Se mexem como serpentes
+
+962
+00:38:00,860 --> 00:38:01,900
+Ou como chamas
+
+963
+00:38:01,900 --> 00:38:03,760
+E ela te dá uma encarada
+
+964
+00:38:03,760 --> 00:38:07,080
+Eu tento não ficar nervosa
+
+965
+00:38:07,080 --> 00:38:08,440
+Mas com certeza meu rabinho
+
+966
+00:38:08,440 --> 00:38:09,740
+Começa a balançar bastante
+
+967
+00:38:09,740 --> 00:38:11,260
+E eu olho pro chão assim
+
+968
+00:38:11,260 --> 00:38:13,540
+Meio tentando não encarar ela
+
+969
+00:38:13,540 --> 00:38:15,800
+Mas eu olho pro chão, olho de volta
+
+970
+00:38:15,800 --> 00:38:17,460
+E tento não ficar nervosa
+
+971
+00:38:17,460 --> 00:38:19,120
+O Gordon continua
+
+972
+00:38:19,120 --> 00:38:21,160
+O desafio de vocês é muito simples
+
+973
+00:38:21,160 --> 00:38:24,160
+Vocês tem mochilas e apetrechos de cozinha
+
+974
+00:38:24,160 --> 00:38:25,960
+E podem pegar o que quiserem daqui
+
+975
+00:38:25,960 --> 00:38:27,440
+Para levarem a sua jornada
+
+976
+00:38:27,440 --> 00:38:29,480
+Vocês vão se aventurar pela floresta
+
+977
+00:38:29,480 --> 00:38:31,840
+Só podem voltar depois de 24 horas
+
+978
+00:38:31,840 --> 00:38:33,060
+E com o prato pronto
+
+979
+00:38:33,060 --> 00:38:36,060
+Os ingredientes serão algo que vocês mesmos
+
+980
+00:38:36,060 --> 00:38:37,220
+Irão caçar ou colher
+
+981
+00:38:37,220 --> 00:38:38,360
+Ou que vão fazer
+
+982
+00:38:38,360 --> 00:38:41,800
+Se 36 horas se passarem e vocês não voltarem
+
+983
+00:38:41,800 --> 00:38:43,340
+Estarão desclassificados
+
+984
+00:38:43,340 --> 00:38:46,140
+Se voltarem antes, estarão desclassificados
+
+985
+00:38:46,140 --> 00:38:47,340
+Se por alguma chance
+
+986
+00:38:47,460 --> 00:38:49,520
+Vocês ficarem incapacitados de continuar
+
+987
+00:38:49,520 --> 00:38:51,700
+Teremos uma equipe médica preparada
+
+988
+00:38:51,700 --> 00:38:52,900
+Com bruxas excelentes
+
+989
+00:38:52,900 --> 00:38:56,000
+Vamos montar, costurar e remendar vocês de volta
+
+990
+00:38:56,000 --> 00:38:57,940
+Na pior das hipóteses
+
+991
+00:38:57,940 --> 00:38:59,600
+Meu próprio embaçamador
+
+992
+00:38:59,600 --> 00:39:01,380
+Cuidará de vocês pessoalmente
+
+993
+00:39:01,380 --> 00:39:04,160
+Mas estarão desclassificados
+
+994
+00:39:04,160 --> 00:39:06,320
+Notem que não estão correndo
+
+995
+00:39:06,320 --> 00:39:07,400
+Para eliminar ninguém
+
+996
+00:39:07,400 --> 00:39:09,880
+Se os 13 saírem de lá no período correto
+
+997
+00:39:09,880 --> 00:39:12,180
+Com o prato, iremos avaliar os pratos
+
+998
+00:39:12,180 --> 00:39:14,120
+E se tiver um número mínimo
+
+999
+00:39:14,120 --> 00:39:16,340
+Vamos eliminar pelo prato também
+
+1000
+00:39:16,340 --> 00:39:17,440
+Se tiver mais um, vamos eliminar pelo prato também
+
+1001
+00:39:17,460 --> 00:39:18,820
+Se tiver mais vagas, que pessoas que voltarem
+
+1002
+00:39:18,820 --> 00:39:20,260
+Todos se classificam
+
+1003
+00:39:20,260 --> 00:39:22,020
+Alguém tem alguma dúvida?
+
+1004
+00:39:22,460 --> 00:39:24,560
+Daqui vocês não falam nada, o Ogro levanta a mão
+
+1005
+00:39:24,560 --> 00:39:25,700
+Boris, pode falar
+
+1006
+00:39:25,700 --> 00:39:29,000
+Eu posso usar meus companheiros como ingredientes?
+
+1007
+00:39:31,440 --> 00:39:33,460
+Ora, é uma competição que está sendo televisionada
+
+1008
+00:39:34,160 --> 00:39:35,580
+Eu realmente não gostaria
+
+1009
+00:39:35,580 --> 00:39:36,860
+De violência entre jovens
+
+1010
+00:39:36,860 --> 00:39:39,200
+Mas nada impede de vocês
+
+1011
+00:39:39,200 --> 00:39:40,480
+Atrapalharem seus colegas
+
+1012
+00:39:40,480 --> 00:39:43,360
+Caso machuquem alguém, serão desclassificados
+
+1013
+00:39:43,360 --> 00:39:45,460
+Mas nada impede de derrubarem
+
+1014
+00:39:45,460 --> 00:39:47,460
+Uma panela, apagarem uma fogueira
+
+1015
+00:39:47,460 --> 00:39:49,640
+Ou roubarem um ingrediente
+
+1016
+00:39:49,640 --> 00:39:51,360
+Mais alguma pergunta?
+
+1017
+00:39:51,900 --> 00:39:54,400
+Ah, a Mix meio tímida assim
+
+1018
+00:39:54,400 --> 00:39:55,460
+Ela levanta a mão
+
+1019
+00:39:55,460 --> 00:39:56,940
+Essa prova é nova?
+
+1020
+00:39:57,400 --> 00:39:59,640
+Ou já aconteceu antes?
+
+1021
+00:39:59,640 --> 00:40:00,820
+Ah, essa prova é nova
+
+1022
+00:40:00,820 --> 00:40:03,140
+Precisamos criar variedade a cada programa
+
+1023
+00:40:03,140 --> 00:40:05,680
+Já que os competidores aqui são jovens
+
+1024
+00:40:05,680 --> 00:40:07,460
+Pensamos em criar uma disputa
+
+1025
+00:40:07,460 --> 00:40:09,740
+Que possa servir pra vocês se ajudarem
+
+1026
+00:40:09,740 --> 00:40:12,000
+Até o final, igual o Battle Royale
+
+1027
+00:40:12,000 --> 00:40:14,560
+Acho que tem tudo a ver com a vibe jovem de vocês
+
+1028
+00:40:14,560 --> 00:40:16,300
+A Mix vai dar uma olhada
+
+1029
+00:40:16,300 --> 00:40:16,640
+Pra...
+
+1030
+00:40:17,460 --> 00:40:19,380
+Pras duas colegas, assim
+
+1031
+00:40:19,380 --> 00:40:21,840
+E ela tá meio, meio
+
+1032
+00:40:21,840 --> 00:40:23,000
+Em choque
+
+1033
+00:40:23,000 --> 00:40:26,240
+Eu vou cochichar pra Mix
+
+1034
+00:40:26,240 --> 00:40:28,680
+Não se preocupa não, a gente continua junto
+
+1035
+00:40:28,680 --> 00:40:30,200
+E a gente se ajuda
+
+1036
+00:40:30,200 --> 00:40:32,160
+Eu não vou deixar esses malucos
+
+1037
+00:40:32,160 --> 00:40:33,460
+Encostarem em vocês
+
+1038
+00:40:33,460 --> 00:40:36,440
+E, né, a Chave fala como se fosse
+
+1039
+00:40:36,440 --> 00:40:38,220
+A defensora, sendo que
+
+1040
+00:40:38,220 --> 00:40:39,500
+É o atributo 2 do grupo
+
+1041
+00:40:39,500 --> 00:40:42,400
+A Lupita
+
+1042
+00:40:42,400 --> 00:40:44,540
+Ela ainda tá distraída
+
+1043
+00:40:44,540 --> 00:40:45,740
+Com a princesa
+
+1044
+00:40:45,740 --> 00:40:47,680
+Meio que olhando pro chão
+
+1045
+00:40:47,680 --> 00:40:48,920
+Olhando pra princesa
+
+1046
+00:40:48,920 --> 00:40:50,680
+Ela não tá prestando muita atenção
+
+1047
+00:40:50,680 --> 00:40:53,600
+Nas informações da prova mesmo
+
+1048
+00:40:53,600 --> 00:40:54,940
+Por isso que ela não levantou a mão
+
+1049
+00:40:54,940 --> 00:40:56,740
+Já que ninguém tem mais nenhuma pergunta
+
+1050
+00:40:56,740 --> 00:41:00,200
+As 24 horas começam...
+
+1051
+00:41:00,200 --> 00:41:00,560
+Agora!
+
+1052
+00:41:00,940 --> 00:41:02,860
+O pessoal ali correndo, pegando mochila
+
+1053
+00:41:02,860 --> 00:41:05,060
+Jogando panela, jogando faca
+
+1054
+00:41:05,060 --> 00:41:07,520
+Dentro da mochila, preparando ali
+
+1055
+00:41:07,520 --> 00:41:09,920
+Em especial a feiticeira
+
+1056
+00:41:09,920 --> 00:41:11,860
+Ela tá pegando bastante faca
+
+1057
+00:41:11,860 --> 00:41:13,580
+Colocando dentro de uma panela
+
+1058
+00:41:13,580 --> 00:41:14,920
+Até pra não rasgar a mochila
+
+1059
+00:41:14,920 --> 00:41:15,620
+Fechando a panela
+
+1060
+00:41:15,620 --> 00:41:16,860
+Então, se arrumando
+
+1061
+00:41:16,860 --> 00:41:18,840
+Vocês vão pegar as coisas de vocês também, né?
+
+1062
+00:41:19,180 --> 00:41:21,000
+A Lupita vê todo mundo se mexendo
+
+1063
+00:41:21,000 --> 00:41:21,900
+Pegando coisa
+
+1064
+00:41:21,900 --> 00:41:22,900
+E olha pros dois
+
+1065
+00:41:22,900 --> 00:41:23,980
+O que que é pra fazer?
+
+1066
+00:41:24,160 --> 00:41:24,760
+Vem com a gente
+
+1067
+00:41:24,760 --> 00:41:26,140
+Que a gente te explica no caminho
+
+1068
+00:41:26,140 --> 00:41:27,520
+A Lupita vai...
+
+1069
+00:41:27,520 --> 00:41:28,420
+Pega a panela
+
+1070
+00:41:28,420 --> 00:41:29,300
+Pega as facas
+
+1071
+00:41:29,300 --> 00:41:30,520
+Vai ajeitar a mochila
+
+1072
+00:41:30,520 --> 00:41:31,380
+Pra ir com eles
+
+1073
+00:41:31,380 --> 00:41:35,120
+Vocês vão juntos
+
+1074
+00:41:35,120 --> 00:41:36,120
+Ficar juntos, então
+
+1075
+00:41:36,120 --> 00:41:37,280
+Nesse tempo na floresta
+
+1076
+00:41:37,280 --> 00:41:38,460
+Nessas 24 horas, é isso?
+
+1077
+00:41:38,600 --> 00:41:39,040
+Sim
+
+1078
+00:41:39,040 --> 00:41:40,040
+Querendo ou não
+
+1079
+00:41:40,040 --> 00:41:41,640
+Cada um precisa fazer seu próprio prato
+
+1080
+00:41:41,640 --> 00:41:42,500
+Desta vez, né?
+
+1081
+00:41:42,740 --> 00:41:43,900
+Vocês passam um tempo ali
+
+1082
+00:41:43,900 --> 00:41:44,740
+Andando pela floresta
+
+1083
+00:41:44,740 --> 00:41:45,400
+Se acostumando
+
+1084
+00:41:45,400 --> 00:41:46,880
+Um pouco com aquele ambiente ali
+
+1085
+00:41:46,880 --> 00:41:49,840
+Se separando dos outros competidores, né?
+
+1086
+00:41:50,080 --> 00:41:51,880
+A sereia e o golem
+
+1087
+00:41:51,880 --> 00:41:53,160
+Parece estar se ajudando
+
+1088
+00:41:53,160 --> 00:41:55,380
+A sereia subiu nas costas do golem, né?
+
+1089
+00:41:55,740 --> 00:41:57,060
+Ela é uma sereia
+
+1090
+00:41:57,060 --> 00:41:58,640
+Com a cauda
+
+1091
+00:41:58,640 --> 00:42:00,460
+Mesmo fora da água ali
+
+1092
+00:42:00,460 --> 00:42:01,720
+Ela é uma versão diferente
+
+1093
+00:42:01,720 --> 00:42:03,160
+Do que a que vocês conhecem
+
+1094
+00:42:03,160 --> 00:42:03,880
+Da sala de vocês
+
+1095
+00:42:03,880 --> 00:42:05,100
+Que podia ficar alternando
+
+1096
+00:42:05,100 --> 00:42:06,780
+Então ela precisa ser carregada
+
+1097
+00:42:06,780 --> 00:42:07,760
+Pelo amigo ali
+
+1098
+00:42:07,760 --> 00:42:09,300
+E os dois parecem estar se ajudando
+
+1099
+00:42:09,300 --> 00:42:10,920
+Mas fora eles, no geral
+
+1100
+00:42:10,920 --> 00:42:13,000
+Tá cada um meio que por si
+
+1101
+00:42:13,000 --> 00:42:14,160
+Cada um precisa fazer um...
+
+1102
+00:42:14,160 --> 00:42:14,520
+Um...
+
+1103
+00:42:14,520 --> 00:42:15,740
+Um prato
+
+1104
+00:42:15,740 --> 00:42:17,280
+Chave, tá procurando
+
+1105
+00:42:17,280 --> 00:42:18,480
+Que tipo de ingrediente
+
+1106
+00:42:18,480 --> 00:42:19,460
+Pretende fazer o quê?
+
+1107
+00:42:19,780 --> 00:42:20,820
+Eu tô procurando
+
+1108
+00:42:20,820 --> 00:42:22,220
+Cogumelos mágicos
+
+1109
+00:42:22,220 --> 00:42:23,800
+Que eu pretendo fazer
+
+1110
+00:42:23,800 --> 00:42:25,380
+Um creme
+
+1111
+00:42:25,380 --> 00:42:27,520
+Que vai...
+
+1112
+00:42:27,520 --> 00:42:28,720
+Permitir que a pessoa
+
+1113
+00:42:28,720 --> 00:42:30,760
+Experimente um pouquinho ali
+
+1114
+00:42:30,760 --> 00:42:32,720
+De uma fantasia diferente
+
+1115
+00:42:32,720 --> 00:42:34,820
+Daquele mundo que as pessoas
+
+1116
+00:42:34,820 --> 00:42:36,380
+Convivem sempre
+
+1117
+00:42:36,380 --> 00:42:37,640
+A Lupita?
+
+1118
+00:42:37,880 --> 00:42:38,820
+A Lupita
+
+1119
+00:42:38,820 --> 00:42:40,920
+Ela tá...
+
+1120
+00:42:40,920 --> 00:42:43,520
+Tentando parejar flores
+
+1121
+00:42:44,520 --> 00:42:45,440
+Comestíveis
+
+1122
+00:42:45,440 --> 00:42:48,640
+Que ela quer fazer...
+
+1123
+00:42:48,640 --> 00:42:49,460
+Panqueca
+
+1124
+00:42:49,460 --> 00:42:51,940
+Recheada com...
+
+1125
+00:42:51,940 --> 00:42:52,980
+Geleia de flores
+
+1126
+00:42:52,980 --> 00:42:53,940
+Perfeito, a mix
+
+1127
+00:42:53,940 --> 00:42:56,560
+Ela vai fazer um...
+
+1128
+00:42:56,560 --> 00:42:57,460
+Uma torta
+
+1129
+00:42:57,460 --> 00:43:00,600
+Com geleia de...
+
+1130
+00:43:00,600 --> 00:43:01,360
+Ela quer tá procurando
+
+1131
+00:43:01,360 --> 00:43:02,820
+Frutinhas exóticas
+
+1132
+00:43:02,820 --> 00:43:04,460
+Pra poder...
+
+1133
+00:43:04,460 --> 00:43:05,300
+Fazer um...
+
+1134
+00:43:05,300 --> 00:43:05,780
+Uma torta
+
+1135
+00:43:05,780 --> 00:43:06,480
+Perfeito
+
+1136
+00:43:06,480 --> 00:43:07,620
+Cada um rola dois dados
+
+1137
+00:43:07,620 --> 00:43:09,740
+A Lupita
+
+1138
+00:43:09,740 --> 00:43:10,860
+Cinco e dois
+
+1139
+00:43:10,860 --> 00:43:12,240
+Alguma coisa eu acertei dessa mix
+
+1140
+00:43:12,240 --> 00:43:13,040
+Um acerto simples
+
+1141
+00:43:13,040 --> 00:43:13,520
+Então...
+
+1142
+00:43:13,520 --> 00:43:14,360
+Como eu tenho que fazer isso?
+
+1143
+00:43:14,360 --> 00:43:14,400
+Então...
+
+1144
+00:43:14,400 --> 00:43:14,420
+Como eu tenho que fazer isso?
+
+1145
+00:43:14,420 --> 00:43:15,460
+Tu encontrou as flores
+
+1146
+00:43:15,460 --> 00:43:16,480
+Tu encontrou...
+
+1147
+00:43:16,480 --> 00:43:17,820
+Grande parte dos ingredientes
+
+1148
+00:43:17,820 --> 00:43:18,920
+Mas não tudo ainda
+
+1149
+00:43:18,920 --> 00:43:20,540
+E tá se encaminhando
+
+1150
+00:43:20,540 --> 00:43:21,960
+O...
+
+1151
+00:43:21,960 --> 00:43:23,020
+O que pretende fazer
+
+1152
+00:43:23,020 --> 00:43:23,500
+É...
+
+1153
+00:43:23,500 --> 00:43:23,860
+Chave
+
+1154
+00:43:23,860 --> 00:43:24,740
+Três e um
+
+1155
+00:43:24,740 --> 00:43:26,300
+Também um acerto
+
+1156
+00:43:26,300 --> 00:43:27,220
+E um erro
+
+1157
+00:43:27,220 --> 00:43:29,000
+Tá achando alguns cogumelos
+
+1158
+00:43:29,000 --> 00:43:29,180
+E tal
+
+1159
+00:43:29,180 --> 00:43:30,200
+Não exatamente o cogumelo
+
+1160
+00:43:30,200 --> 00:43:30,680
+Que tu queria
+
+1161
+00:43:30,680 --> 00:43:32,800
+Mas talvez esses dê
+
+1162
+00:43:32,800 --> 00:43:33,760
+Ou tu consiga achar
+
+1163
+00:43:33,760 --> 00:43:34,640
+Os melhores depois
+
+1164
+00:43:34,640 --> 00:43:36,460
+Mas o prato tá...
+
+1165
+00:43:36,460 --> 00:43:37,400
+Tá se encaminhando
+
+1166
+00:43:37,400 --> 00:43:38,360
+A mix
+
+1167
+00:43:38,360 --> 00:43:40,280
+Eu tirei quatro e um
+
+1168
+00:43:40,280 --> 00:43:41,000
+Um é um erro
+
+1169
+00:43:41,000 --> 00:43:43,440
+Mas quatro é um acerto crítico
+
+1170
+00:43:43,440 --> 00:43:44,300
+Eu consegui...
+
+1171
+00:43:44,300 --> 00:43:45,540
+Todos os ingredientes
+
+1172
+00:43:45,540 --> 00:43:46,960
+Que tu precisava ali
+
+1173
+00:43:46,960 --> 00:43:48,300
+Eu fui a primeira
+
+1174
+00:43:48,300 --> 00:43:49,340
+A conseguir
+
+1175
+00:43:49,340 --> 00:43:50,880
+Preparar os ingredientes
+
+1176
+00:43:50,880 --> 00:43:51,500
+Que tu precisa
+
+1177
+00:43:51,500 --> 00:43:52,400
+Se tu quiser
+
+1178
+00:43:52,400 --> 00:43:53,300
+Tu já pode parar
+
+1179
+00:43:53,300 --> 00:43:54,640
+E começar a fazer uma fogueira
+
+1180
+00:43:54,640 --> 00:43:55,460
+Fazer alguma coisa
+
+1181
+00:43:55,460 --> 00:43:57,380
+Pra tentar cozinhar na floresta
+
+1182
+00:43:57,380 --> 00:43:58,740
+Que é um outro desafio ali
+
+1183
+00:43:58,740 --> 00:44:00,080
+E pode continuar
+
+1184
+00:44:00,080 --> 00:44:01,240
+E ajudar os teus colegas
+
+1185
+00:44:01,240 --> 00:44:01,900
+Que tu vai fazer
+
+1186
+00:44:01,900 --> 00:44:03,680
+Eu quero ajudar eles
+
+1187
+00:44:03,680 --> 00:44:04,680
+Pra depois a gente conseguir
+
+1188
+00:44:04,680 --> 00:44:06,340
+Meio que montar um acampamento junto
+
+1189
+00:44:06,340 --> 00:44:08,160
+Então ela tá ajudando eles
+
+1190
+00:44:08,160 --> 00:44:10,480
+A conseguir o que eles precisam
+
+1191
+00:44:10,480 --> 00:44:11,900
+Pra ajudar o Chave
+
+1192
+00:44:11,900 --> 00:44:12,660
+Ou a...
+
+1193
+00:44:12,660 --> 00:44:13,300
+A Lupita
+
+1194
+00:44:14,300 --> 00:44:15,200
+A princípio
+
+1195
+00:44:15,200 --> 00:44:17,120
+O que tu acha que tá mais com dificuldade no momento
+
+1196
+00:44:17,120 --> 00:44:18,360
+Ela vai ajudar a Lupita
+
+1197
+00:44:18,360 --> 00:44:19,040
+Perfeito
+
+1198
+00:44:19,040 --> 00:44:19,980
+Lupita, dois dados
+
+1199
+00:44:19,980 --> 00:44:20,740
+Chave, um dado
+
+1200
+00:44:20,740 --> 00:44:22,760
+Quatro e um
+
+1201
+00:44:22,760 --> 00:44:23,760
+Um acerto simples
+
+1202
+00:44:23,760 --> 00:44:25,680
+Agora tu consegue completar
+
+1203
+00:44:25,680 --> 00:44:28,160
+Os ingredientes que tu precisava ali
+
+1204
+00:44:28,160 --> 00:44:29,980
+Precisava de dois acertos
+
+1205
+00:44:29,980 --> 00:44:31,160
+E o Chave
+
+1206
+00:44:31,160 --> 00:44:32,200
+Eu tirei três
+
+1207
+00:44:32,200 --> 00:44:33,840
+Um acerto simples também
+
+1208
+00:44:33,840 --> 00:44:36,240
+Tu consegue concluir ali os ingredientes
+
+1209
+00:44:36,240 --> 00:44:37,620
+Que tu realmente precisava
+
+1210
+00:44:37,620 --> 00:44:38,660
+Os cogumelos certinho
+
+1211
+00:44:38,660 --> 00:44:39,120
+Tu acha
+
+1212
+00:44:39,120 --> 00:44:40,100
+No final
+
+1213
+00:44:40,100 --> 00:44:42,300
+Essa era a última chance de você estar enrolando, né?
+
+1214
+00:44:42,800 --> 00:44:43,940
+Se alguém tivesse falhado
+
+1215
+00:44:43,940 --> 00:44:44,280
+Pra você
+
+1216
+00:44:44,300 --> 00:44:45,700
+Na verdade você já não ficaria tão bom
+
+1217
+00:44:45,700 --> 00:44:46,580
+Teria que torcer pra
+
+1218
+00:44:46,580 --> 00:44:49,300
+Ter menos classificado do que o esperado
+
+1219
+00:44:49,880 --> 00:44:52,160
+Mas vocês então montam ali um pequeno acampamento
+
+1220
+00:44:52,160 --> 00:44:53,060
+Vão fazer uma fogueira
+
+1221
+00:44:53,060 --> 00:44:54,320
+Isso pra começar a cozinhar
+
+1222
+00:44:54,320 --> 00:44:54,940
+Sim
+
+1223
+00:44:54,940 --> 00:44:55,520
+Exato
+
+1224
+00:44:55,520 --> 00:44:57,100
+Vocês estão lá
+
+1225
+00:44:57,100 --> 00:44:58,840
+Fazem a fogueira
+
+1226
+00:44:58,840 --> 00:45:00,780
+Sobe aquela fumaça, né?
+
+1227
+00:45:01,220 --> 00:45:01,940
+Agora vocês
+
+1228
+00:45:01,940 --> 00:45:03,680
+A localização de vocês
+
+1229
+00:45:03,680 --> 00:45:06,220
+É mais fácil de ser encontrada
+
+1230
+00:45:06,220 --> 00:45:07,260
+Se alguém assim quiser
+
+1231
+00:45:07,260 --> 00:45:09,400
+Vocês vão se concentrar em cozinhar ali, né?
+
+1232
+00:45:09,540 --> 00:45:10,360
+Antes disso
+
+1233
+00:45:10,360 --> 00:45:11,300
+Eu queria
+
+1234
+00:45:11,300 --> 00:45:12,560
+Eu queria pegar
+
+1235
+00:45:12,560 --> 00:45:14,120
+E colocar
+
+1236
+00:45:14,120 --> 00:45:15,780
+Algumas facas
+
+1237
+00:45:15,780 --> 00:45:16,900
+Que não fossem usadas
+
+1238
+00:45:16,900 --> 00:45:18,020
+Meio que na volta
+
+1239
+00:45:18,020 --> 00:45:19,360
+Com a ponta pra cima
+
+1240
+00:45:19,360 --> 00:45:20,600
+Meio que
+
+1241
+00:45:20,600 --> 00:45:21,940
+Escondendo elas na terra
+
+1242
+00:45:21,940 --> 00:45:23,280
+Pra qualquer um que tentasse
+
+1243
+00:45:23,280 --> 00:45:24,080
+Vim por terra
+
+1244
+00:45:24,080 --> 00:45:25,000
+Pisasse em cima
+
+1245
+00:45:25,000 --> 00:45:25,400
+Ok
+
+1246
+00:45:25,400 --> 00:45:26,260
+Ok
+
+1247
+00:45:26,260 --> 00:45:26,900
+Assustador
+
+1248
+00:45:26,900 --> 00:45:27,960
+Eu vou deixar
+
+1249
+00:45:27,960 --> 00:45:30,060
+Os meus cogumelos
+
+1250
+00:45:30,060 --> 00:45:32,000
+Com algumas ervas, né?
+
+1251
+00:45:32,280 --> 00:45:32,860
+Cozinhando
+
+1252
+00:45:32,860 --> 00:45:33,780
+E eu vou ficar
+
+1253
+00:45:33,780 --> 00:45:36,120
+Eu vou assumir a forma de um
+
+1254
+00:45:36,120 --> 00:45:37,200
+Morcego
+
+1255
+00:45:37,200 --> 00:45:37,800
+E vou ficar
+
+1256
+00:45:37,800 --> 00:45:40,640
+Em cima de uma árvore, né?
+
+1257
+00:45:40,740 --> 00:45:41,680
+Perto de onde a gente tá
+
+1258
+00:45:41,680 --> 00:45:42,580
+Prestando atenção
+
+1259
+00:45:42,580 --> 00:45:43,580
+No nosso redor
+
+1260
+00:45:43,580 --> 00:45:44,040
+Amigos
+
+1261
+00:45:44,040 --> 00:45:45,020
+Ela tá cuidando
+
+1262
+00:45:45,020 --> 00:45:46,640
+Das coisas em terra, então
+
+1263
+00:45:46,640 --> 00:45:47,360
+Tipo
+
+1264
+00:45:47,360 --> 00:45:49,660
+Enquanto a Lupita tá cozinhando
+
+1265
+00:45:49,660 --> 00:45:50,080
+Ela
+
+1266
+00:45:50,080 --> 00:45:51,100
+Ela fica
+
+1267
+00:45:51,100 --> 00:45:52,440
+Meio de guarda ali
+
+1268
+00:45:52,440 --> 00:45:53,720
+E aí ela vai ficar
+
+1269
+00:45:53,720 --> 00:45:54,900
+Tipo
+
+1270
+00:45:54,900 --> 00:45:55,660
+Pra manter
+
+1271
+00:45:55,660 --> 00:45:56,260
+Sei lá
+
+1272
+00:45:56,260 --> 00:45:57,540
+Eles tão fazendo a fogueira e tal
+
+1273
+00:45:57,540 --> 00:45:59,360
+Pra manter as coisas acesas
+
+1274
+00:45:59,360 --> 00:46:00,520
+Pra manter as coisas no lugar
+
+1275
+00:46:00,520 --> 00:46:01,000
+Os dados
+
+1276
+00:46:01,000 --> 00:46:01,760
+Chave
+
+1277
+00:46:01,760 --> 00:46:04,680
+Eu tirei seis e três
+
+1278
+00:46:04,680 --> 00:46:05,200
+Beleza
+
+1279
+00:46:05,200 --> 00:46:07,520
+O sol começa a se pôr, né?
+
+1280
+00:46:07,580 --> 00:46:08,220
+A noite
+
+1281
+00:46:08,220 --> 00:46:09,740
+Começa a cair
+
+1282
+00:46:09,740 --> 00:46:10,700
+Ela é fria
+
+1283
+00:46:10,700 --> 00:46:11,140
+Pra ti
+
+1284
+00:46:11,140 --> 00:46:12,380
+Que tá longe do fogo, né?
+
+1285
+00:46:12,380 --> 00:46:13,260
+Que tá mais em cima
+
+1286
+00:46:13,260 --> 00:46:14,020
+O sol começa a se pôr
+
+1287
+00:46:14,040 --> 00:46:15,480
+Tu não tá enxergando
+
+1288
+00:46:15,480 --> 00:46:16,760
+Mas tá usando aquele
+
+1289
+00:46:16,760 --> 00:46:18,500
+O sentido do morcego, né?
+
+1290
+00:46:18,540 --> 00:46:19,700
+Aquele sonar que ele tem
+
+1291
+00:46:19,700 --> 00:46:21,840
+E tu consegue detectar
+
+1292
+00:46:21,840 --> 00:46:23,660
+Que alguém muito magro
+
+1293
+00:46:23,660 --> 00:46:26,980
+Tá segurando um arco e flecha
+
+1294
+00:46:26,980 --> 00:46:28,300
+Numa outra árvore próxima
+
+1295
+00:46:28,300 --> 00:46:30,600
+E mirando pro acampamento de vocês
+
+1296
+00:46:30,600 --> 00:46:32,420
+Eu vou
+
+1297
+00:46:32,420 --> 00:46:35,260
+Dar um voo na direção
+
+1298
+00:46:35,260 --> 00:46:37,300
+Das minhas colegas
+
+1299
+00:46:37,300 --> 00:46:38,980
+E ainda como morcego falar
+
+1300
+00:46:38,980 --> 00:46:40,420
+Alguém na árvore
+
+1301
+00:46:40,420 --> 00:46:41,540
+Arco e flecha
+
+1302
+00:46:41,540 --> 00:46:42,720
+Eu vou
+
+1303
+00:46:42,720 --> 00:46:44,020
+Chegar no chão
+
+1304
+00:46:44,040 --> 00:46:45,620
+E voltar pra minha forma
+
+1305
+00:46:45,620 --> 00:46:49,820
+Quando o Chave fala isso
+
+1306
+00:46:49,820 --> 00:46:51,480
+Eu tento farejar
+
+1307
+00:46:51,480 --> 00:46:52,900
+Pra ver se eu consigo identificar
+
+1308
+00:46:52,900 --> 00:46:54,300
+Quem poderia ser
+
+1309
+00:46:54,300 --> 00:46:54,960
+Dois dados
+
+1310
+00:46:54,960 --> 00:46:57,120
+Dois e um
+
+1311
+00:46:57,120 --> 00:46:58,060
+É, duas falhas
+
+1312
+00:46:58,060 --> 00:47:00,620
+A comida que vocês estão preparando
+
+1313
+00:47:00,620 --> 00:47:01,500
+É tão cheirosa
+
+1314
+00:47:01,500 --> 00:47:03,160
+Que tu consegue sentir o cheiro
+
+1315
+00:47:03,160 --> 00:47:04,280
+Da comida de vocês
+
+1316
+00:47:04,280 --> 00:47:05,280
+É muito cheiro
+
+1317
+00:47:05,280 --> 00:47:06,420
+Eu não consigo identificar
+
+1318
+00:47:06,420 --> 00:47:07,320
+Que monstro é
+
+1319
+00:47:07,320 --> 00:47:08,440
+Então, Mix
+
+1320
+00:47:08,440 --> 00:47:09,700
+Que tal a gente tentar
+
+1321
+00:47:09,700 --> 00:47:10,980
+Derrubar aquela árvore ali?
+
+1322
+00:47:11,360 --> 00:47:12,140
+Pode ser
+
+1323
+00:47:12,140 --> 00:47:12,740
+Você acha que talvez
+
+1324
+00:47:12,740 --> 00:47:13,340
+O barulho
+
+1325
+00:47:13,340 --> 00:47:14,020
+Afasta-se
+
+1326
+00:47:14,040 --> 00:47:15,120
+Pelo menos
+
+1327
+00:47:15,120 --> 00:47:17,080
+Um susto deve dar
+
+1328
+00:47:17,080 --> 00:47:18,200
+Ok, eu te ajudo
+
+1329
+00:47:18,200 --> 00:47:20,040
+Vocês duas vão pra cima da árvore
+
+1330
+00:47:20,040 --> 00:47:21,320
+Com tudo pra derrubar a árvore
+
+1331
+00:47:21,320 --> 00:47:22,080
+É, eu já sabe
+
+1332
+00:47:22,080 --> 00:47:23,460
+Três dados então, Mix
+
+1333
+00:47:23,460 --> 00:47:24,140
+Tem mais um
+
+1334
+00:47:24,140 --> 00:47:25,000
+Com a ajuda da Lupita
+
+1335
+00:47:25,000 --> 00:47:25,880
+A Mix
+
+1336
+00:47:25,880 --> 00:47:26,460
+Ela
+
+1337
+00:47:26,460 --> 00:47:28,860
+Coloca as garras pra fora
+
+1338
+00:47:28,860 --> 00:47:29,300
+Assim
+
+1339
+00:47:29,300 --> 00:47:30,660
+E aí ela vai
+
+1340
+00:47:30,660 --> 00:47:31,340
+Tipo
+
+1341
+00:47:31,340 --> 00:47:32,360
+Agarrar assim
+
+1342
+00:47:32,360 --> 00:47:33,000
+Pra ter
+
+1343
+00:47:33,000 --> 00:47:35,200
+Conseguir segurar bem a árvore
+
+1344
+00:47:35,200 --> 00:47:36,100
+E tentar derrubar
+
+1345
+00:47:36,100 --> 00:47:36,820
+Três dados
+
+1346
+00:47:36,820 --> 00:47:39,120
+Eu tirei
+
+1347
+00:47:39,120 --> 00:47:39,960
+Seis
+
+1348
+00:47:39,960 --> 00:47:40,940
+Quatro
+
+1349
+00:47:40,940 --> 00:47:41,600
+E dois
+
+1350
+00:47:41,600 --> 00:47:42,660
+Um acerto crítico
+
+1351
+00:47:42,660 --> 00:47:43,580
+Um acerto simples
+
+1352
+00:47:43,580 --> 00:47:44,020
+Tchau
+
+1353
+00:47:44,040 --> 00:47:45,220
+A força das duas
+
+1354
+00:47:45,220 --> 00:47:45,560
+Assim
+
+1355
+00:47:45,560 --> 00:47:46,540
+É assustadora
+
+1356
+00:47:46,540 --> 00:47:47,620
+A maneira como ela derrubou
+
+1357
+00:47:47,620 --> 00:47:47,960
+Uma árvore
+
+1358
+00:47:47,960 --> 00:47:48,980
+Como se não fosse nada
+
+1359
+00:47:48,980 --> 00:47:52,140
+A árvore cai
+
+1360
+00:47:52,140 --> 00:47:52,780
+Fazendo assim
+
+1361
+00:47:52,780 --> 00:47:54,020
+Muito barulho
+
+1362
+00:47:54,020 --> 00:47:55,160
+Um acerto crítico
+
+1363
+00:47:55,160 --> 00:47:55,900
+Um acerto simples
+
+1364
+00:47:55,900 --> 00:47:58,120
+A árvore se choca
+
+1365
+00:47:58,120 --> 00:47:59,520
+Contra uma outra árvore
+
+1366
+00:47:59,520 --> 00:48:01,100
+E você escuta o barulho
+
+1367
+00:48:01,100 --> 00:48:02,260
+De algo caindo
+
+1368
+00:48:02,260 --> 00:48:03,080
+E alguém gritando
+
+1369
+00:48:03,080 --> 00:48:03,420
+Ai
+
+1370
+00:48:03,420 --> 00:48:04,840
+Quem tá aí?
+
+1371
+00:48:05,000 --> 00:48:05,880
+Eu me chamo Fim
+
+1372
+00:48:05,880 --> 00:48:07,260
+Eu queria furar
+
+1373
+00:48:07,260 --> 00:48:08,360
+A panela de vocês
+
+1374
+00:48:08,360 --> 00:48:09,360
+Desculpa
+
+1375
+00:48:09,360 --> 00:48:10,800
+O que você tá fazendo, Tibão?
+
+1376
+00:48:11,280 --> 00:48:13,000
+Eu tô fazendo uma salada
+
+1377
+00:48:13,000 --> 00:48:14,020
+Cara, se gostou
+
+1378
+00:48:14,040 --> 00:48:15,980
+Você não quer se juntar com a gente?
+
+1379
+00:48:16,200 --> 00:48:17,260
+Os dados estão de bom tamanho
+
+1380
+00:48:17,260 --> 00:48:19,960
+Quatro e três
+
+1381
+00:48:19,960 --> 00:48:20,960
+Um acerto simples
+
+1382
+00:48:20,960 --> 00:48:21,860
+Um acerto crítico
+
+1383
+00:48:21,860 --> 00:48:22,140
+Tá
+
+1384
+00:48:22,140 --> 00:48:23,500
+Eu vou me aproximar
+
+1385
+00:48:23,500 --> 00:48:25,560
+Ele se aproxima com as mãos pra cima
+
+1386
+00:48:25,560 --> 00:48:27,100
+Assim o arco já tá na escopeta
+
+1387
+00:48:27,100 --> 00:48:28,500
+Desculpa
+
+1388
+00:48:28,500 --> 00:48:31,940
+Eu vi que vocês estavam muito perganizados aqui
+
+1389
+00:48:31,940 --> 00:48:34,700
+De todos os monstros que encontrei pela floresta
+
+1390
+00:48:34,700 --> 00:48:36,720
+Vocês são os únicos que estão se ajudando
+
+1391
+00:48:36,720 --> 00:48:39,440
+Então eu pensei em atrapalhar
+
+1392
+00:48:39,440 --> 00:48:41,800
+Tô inseguro sobre meu prato
+
+1393
+00:48:41,800 --> 00:48:42,640
+Ele é o quê?
+
+1394
+00:48:42,640 --> 00:48:43,640
+Ele é um elfo noturno
+
+1395
+00:48:44,040 --> 00:48:47,420
+A gente pode provar e dar a nossa opinião
+
+1396
+00:48:47,420 --> 00:48:48,400
+Se você quiser
+
+1397
+00:48:48,400 --> 00:48:48,800
+Ah
+
+1398
+00:48:48,800 --> 00:48:50,660
+Ele tira as coisas da mochiladeira
+
+1399
+00:48:50,660 --> 00:48:53,480
+Ele pega os ingredientes que ele tava montando
+
+1400
+00:48:53,480 --> 00:48:57,280
+Ele coloca o molho que ele tava fazendo
+
+1401
+00:48:57,280 --> 00:49:00,000
+Ele tá colocando um pouquinho pra ti
+
+1402
+00:49:00,000 --> 00:49:01,220
+Eu experimento
+
+1403
+00:49:01,220 --> 00:49:02,140
+Sim, é bom
+
+1404
+00:49:02,140 --> 00:49:03,260
+Não faz nada especial
+
+1405
+00:49:03,260 --> 00:49:09,580
+Eu acho que tá faltando uma crocância, talvez
+
+1406
+00:49:09,580 --> 00:49:10,360
+Tipo o quê?
+
+1407
+00:49:10,760 --> 00:49:11,440
+Besouros?
+
+1408
+00:49:11,700 --> 00:49:12,000
+Não
+
+1409
+00:49:12,000 --> 00:49:13,000
+Eu só uso plantas
+
+1410
+00:49:13,520 --> 00:49:14,000
+Isso?
+
+1411
+00:49:14,040 --> 00:49:14,740
+Isso é um problema
+
+1412
+00:49:14,740 --> 00:49:17,260
+Porque a gente sabe que a princesa, quando concorreu
+
+1413
+00:49:17,260 --> 00:49:19,960
+Fez pratos só com carnes e insetos
+
+1414
+00:49:19,960 --> 00:49:22,420
+Ela é obviamente carnívora
+
+1415
+00:49:22,420 --> 00:49:24,640
+E eu só faço pratos vegetarianos
+
+1416
+00:49:24,640 --> 00:49:26,920
+Eu tô numa desvantagem tremenda
+
+1417
+00:49:26,920 --> 00:49:27,820
+Davi
+
+1418
+00:49:27,820 --> 00:49:28,540
+Oi
+
+1419
+00:49:28,540 --> 00:49:31,940
+Tu tá fazendo prato vegetariano com cocumelo, não é?
+
+1420
+00:49:32,120 --> 00:49:32,480
+Sim
+
+1421
+00:49:32,480 --> 00:49:34,260
+Experimenta aqui essa salada
+
+1422
+00:49:34,260 --> 00:49:36,580
+Vê o que você acha que daria pra botar nela
+
+1423
+00:49:36,580 --> 00:49:38,180
+Eu vou experimentar
+
+1424
+00:49:38,180 --> 00:49:41,880
+Sabe o que ficaria muito bom?
+
+1425
+00:49:42,640 --> 00:49:43,180
+Cebola
+
+1426
+00:49:43,180 --> 00:49:44,020
+Mas...
+
+1427
+00:49:44,040 --> 00:49:45,320
+Tem que ter cuidado
+
+1428
+00:49:45,320 --> 00:49:47,540
+Porque tem aquelas cebolas aqui
+
+1429
+00:49:47,540 --> 00:49:49,420
+Da floresta
+
+1430
+00:49:49,420 --> 00:49:51,920
+Que elas deixam um óleo bem ruim
+
+1431
+00:49:51,920 --> 00:49:54,380
+Então você tem que procurar aquelas
+
+1432
+00:49:54,380 --> 00:49:58,600
+Que elas não soltam um líquido quando você colhe
+
+1433
+00:49:58,600 --> 00:50:02,320
+Vai dar uma crocância que eu ouvi a Lupita falando
+
+1434
+00:50:02,320 --> 00:50:04,040
+E vai dar um gosto especial
+
+1435
+00:50:04,600 --> 00:50:06,120
+Agradeço a Tica
+
+1436
+00:50:06,120 --> 00:50:07,580
+Vou procurar isso
+
+1437
+00:50:07,580 --> 00:50:09,000
+Agradece vocês assim
+
+1438
+00:50:09,000 --> 00:50:09,960
+Pega as coisas dele
+
+1439
+00:50:09,960 --> 00:50:11,040
+E passa se afastando
+
+1440
+00:50:11,780 --> 00:50:12,700
+Boa sorte, cara
+
+1441
+00:50:12,700 --> 00:50:13,380
+Tchau
+
+1442
+00:50:13,380 --> 00:50:15,480
+Se você veja alguém vindo pra esse lado
+
+1443
+00:50:15,480 --> 00:50:17,400
+Puder avisar, a gente agradece
+
+1444
+00:50:17,400 --> 00:50:18,160
+Pode deixar
+
+1445
+00:50:18,160 --> 00:50:20,460
+Afasta ali de você
+
+1446
+00:50:20,460 --> 00:50:22,020
+Os dados, cada um
+
+1447
+00:50:22,020 --> 00:50:23,120
+Já tá amanhecendo
+
+1448
+00:50:23,120 --> 00:50:24,380
+Tá na hora de finalizar esse prato
+
+1449
+00:50:24,380 --> 00:50:26,680
+Avi, tirou quanto?
+
+1450
+00:50:26,920 --> 00:50:28,740
+Eu tirei 3 e 3
+
+1451
+00:50:28,740 --> 00:50:29,500
+2 acertos
+
+1452
+00:50:29,500 --> 00:50:31,720
+Seu prato tá do jeito que tu queria realmente
+
+1453
+00:50:31,720 --> 00:50:32,720
+Lupita
+
+1454
+00:50:32,720 --> 00:50:34,020
+4 e 3
+
+1455
+00:50:34,020 --> 00:50:35,600
+Sendo 3 um acerto crítico
+
+1456
+00:50:35,600 --> 00:50:37,100
+Um acerto crítico
+
+1457
+00:50:37,100 --> 00:50:40,020
+Tu não sabe o que tu fez assim de a mais
+
+1458
+00:50:40,020 --> 00:50:42,560
+Mas o prato, ele tá tudo que tu queria
+
+1459
+00:50:42,560 --> 00:50:44,320
+E ficou ainda mais gostoso
+
+1460
+00:50:44,320 --> 00:50:45,220
+A Mix
+
+1461
+00:50:45,220 --> 00:50:47,240
+Eu tirei 3 e 2
+
+1462
+00:50:47,240 --> 00:50:48,300
+São duas falhas
+
+1463
+00:50:48,300 --> 00:50:50,820
+Vocês notam que o prato da Mix tá ruim
+
+1464
+00:50:50,820 --> 00:50:52,220
+O que que tinha feito, Mix?
+
+1465
+00:50:52,440 --> 00:50:56,040
+Ela fez uma torta com geleia de frutos
+
+1466
+00:50:56,040 --> 00:51:01,320
+A torta, ela murchou, sabe, no meio
+
+1467
+00:51:01,320 --> 00:51:03,000
+Ela não tá bonita assim
+
+1468
+00:51:03,000 --> 00:51:04,440
+Ela tá esquisita
+
+1469
+00:51:04,440 --> 00:51:06,840
+Mix, por que que você não transforma isso
+
+1470
+00:51:06,840 --> 00:51:10,220
+Num crumble com a geleia?
+
+1471
+00:51:10,220 --> 00:51:12,540
+Porque isso não vai passar por torta?
+
+1472
+00:51:12,560 --> 00:51:12,780
+Não
+
+1473
+00:51:12,780 --> 00:51:15,440
+Ou uma torta desconstruída
+
+1474
+00:51:15,440 --> 00:51:17,440
+Numa taça
+
+1475
+00:51:17,440 --> 00:51:20,100
+Com creme?
+
+1476
+00:51:20,400 --> 00:51:21,700
+Tu não vai achar uma taça na floresta
+
+1477
+00:51:21,700 --> 00:51:23,180
+A gente pode pegar um
+
+1478
+00:51:23,180 --> 00:51:25,560
+Com boca, alguma coisa
+
+1479
+00:51:25,560 --> 00:51:26,800
+De uma planta
+
+1480
+00:51:26,800 --> 00:51:28,320
+Um copo de leite
+
+1481
+00:51:28,320 --> 00:51:30,080
+Pode ser uma boa ideia
+
+1482
+00:51:30,080 --> 00:51:31,760
+Fazer como se fossem camadas
+
+1483
+00:51:31,760 --> 00:51:34,120
+Um pouco de torta, um pouco de geleia
+
+1484
+00:51:34,120 --> 00:51:35,940
+Pode ser uma boa ideia
+
+1485
+00:51:35,940 --> 00:51:37,340
+Tu pegou a ideia da Lupita
+
+1486
+00:51:37,340 --> 00:51:39,600
+Dois dados, um teu e um da Lupita
+
+1487
+00:51:39,600 --> 00:51:41,780
+4 e 4
+
+1488
+00:51:41,780 --> 00:51:42,440
+2 acertos
+
+1489
+00:51:42,560 --> 00:51:45,460
+Viu? A Lupita tá com as boas ideias
+
+1490
+00:51:45,460 --> 00:51:47,960
+Tá incrível, assim, pelo negócio
+
+1491
+00:51:47,960 --> 00:51:48,640
+Incrível
+
+1492
+00:51:48,640 --> 00:51:51,380
+Caraca, ficou muito
+
+1493
+00:51:51,380 --> 00:51:53,560
+Ficou muito melhor agora
+
+1494
+00:51:53,560 --> 00:51:54,600
+Porque
+
+1495
+00:51:54,600 --> 00:51:57,540
+Acho que, não sei, por conta de ontem à noite
+
+1496
+00:51:57,540 --> 00:52:00,420
+O fogo apagou um pouco
+
+1497
+00:52:00,420 --> 00:52:02,180
+A torta tinha ficado meio estranha
+
+1498
+00:52:02,180 --> 00:52:03,160
+Mas agora
+
+1499
+00:52:03,160 --> 00:52:04,460
+Ficou muito bom
+
+1500
+00:52:04,460 --> 00:52:08,120
+Esse creme de frutinhas tá parecendo
+
+1501
+00:52:08,120 --> 00:52:09,640
+Até sangue
+
+1502
+00:52:09,640 --> 00:52:12,220
+O tempo de vocês, já passaram 24 horas
+
+1503
+00:52:12,560 --> 00:52:14,100
+Vocês agora tem 12 horas
+
+1504
+00:52:14,100 --> 00:52:15,240
+Pra sair da floresta
+
+1505
+00:52:15,240 --> 00:52:16,280
+E é bastante tempo
+
+1506
+00:52:16,280 --> 00:52:17,520
+Vão começar a sair
+
+1507
+00:52:17,520 --> 00:52:20,120
+Começam a caminhar em direção à entrada
+
+1508
+00:52:20,120 --> 00:52:21,420
+Da floresta
+
+1509
+00:52:21,420 --> 00:52:23,740
+Volta e meia
+
+1510
+00:52:23,740 --> 00:52:25,640
+Provavelmente o chave dá uma voz
+
+1511
+00:52:25,640 --> 00:52:27,120
+Pra se localizar
+
+1512
+00:52:27,120 --> 00:52:30,180
+E quando estão próximos à saída
+
+1513
+00:52:30,180 --> 00:52:31,940
+Vocês encontram o fim
+
+1514
+00:52:31,940 --> 00:52:34,760
+Ele tá caído, o prato dele tá virado
+
+1515
+00:52:34,760 --> 00:52:36,200
+Pro chão
+
+1516
+00:52:36,200 --> 00:52:38,120
+Os ingredientes estão jogados
+
+1517
+00:52:38,120 --> 00:52:39,440
+Na lama
+
+1518
+00:52:39,440 --> 00:52:42,080
+O local ali tá como se tivesse chovido
+
+1519
+00:52:42,560 --> 00:52:45,080
+Ele tá caído, bem sujo de lama
+
+1520
+00:52:45,080 --> 00:52:46,820
+Dou dois passinhos pra trás
+
+1521
+00:52:46,820 --> 00:52:48,120
+E tento farejar
+
+1522
+00:52:48,120 --> 00:52:48,840
+Dois dados
+
+1523
+00:52:48,840 --> 00:52:51,220
+Três e um
+
+1524
+00:52:51,220 --> 00:52:52,260
+A ser crítico
+
+1525
+00:52:52,260 --> 00:52:55,160
+Tu sente um cheiro de marizia
+
+1526
+00:52:55,160 --> 00:52:56,100
+De água do mar
+
+1527
+00:52:56,100 --> 00:52:58,920
+Muito forte naquela lama que tá por ali
+
+1528
+00:52:58,920 --> 00:53:01,980
+Vai seguindo esse cheiro
+
+1529
+00:53:01,980 --> 00:53:04,280
+Tu sabe que tem alguém escondido
+
+1530
+00:53:04,280 --> 00:53:06,620
+Atrás de algumas árvores
+
+1531
+00:53:06,620 --> 00:53:07,860
+Não muito longe dali
+
+1532
+00:53:07,860 --> 00:53:09,240
+Tem alguém escondido
+
+1533
+00:53:09,240 --> 00:53:12,300
+E o cheiro de mar
+
+1534
+00:53:12,300 --> 00:53:13,800
+Será que a sereia
+
+1535
+00:53:13,800 --> 00:53:15,540
+Será que ela afogou o fim?
+
+1536
+00:53:15,800 --> 00:53:17,640
+Eu quero olhar pro fim
+
+1537
+00:53:17,640 --> 00:53:20,600
+Se ele parece machucado
+
+1538
+00:53:20,600 --> 00:53:21,760
+Se ele só caiu
+
+1539
+00:53:21,760 --> 00:53:22,340
+Dois dados
+
+1540
+00:53:22,340 --> 00:53:25,220
+Eu tirei quatro e um
+
+1541
+00:53:25,220 --> 00:53:27,140
+Ah, quatro é uma ser crítico, né?
+
+1542
+00:53:27,440 --> 00:53:29,420
+Parece que ele tava andando assim
+
+1543
+00:53:29,420 --> 00:53:30,680
+Segurando o prato dele
+
+1544
+00:53:30,680 --> 00:53:33,920
+Quando de repente o chão ficou muita lama
+
+1545
+00:53:33,920 --> 00:53:36,220
+E ele escorregou e caiu
+
+1546
+00:53:36,220 --> 00:53:38,520
+Virando o prato dele ali
+
+1547
+00:53:38,520 --> 00:53:40,560
+As pernas dele
+
+1548
+00:53:40,560 --> 00:53:42,280
+Foram puxadas pela terra
+
+1549
+00:53:42,300 --> 00:53:43,780
+Estão meio enterrados
+
+1550
+00:53:43,780 --> 00:53:45,960
+Ele provavelmente não conseguiu levantar
+
+1551
+00:53:45,960 --> 00:53:47,740
+E ele na verdade tá dormindo
+
+1552
+00:53:47,740 --> 00:53:49,000
+Ele dormiu ali mesmo
+
+1553
+00:53:49,000 --> 00:53:51,200
+Eu chego pra acordar ele
+
+1554
+00:53:51,200 --> 00:53:52,940
+Beleza, um dado
+
+1555
+00:53:52,940 --> 00:53:55,520
+Eu tirei dois
+
+1556
+00:53:55,520 --> 00:53:57,860
+Começou a te aproximar, tu sentiu que o chão
+
+1557
+00:53:57,860 --> 00:53:59,420
+Cada vez mais lamacento
+
+1558
+00:53:59,420 --> 00:54:00,720
+Cada vez mais mole
+
+1559
+00:54:00,720 --> 00:54:03,880
+Como se alguma magia estivesse agindo
+
+1560
+00:54:03,880 --> 00:54:04,920
+Sobre aquele chão ali
+
+1561
+00:54:04,920 --> 00:54:07,160
+E tu para antes de continuar se aproximando
+
+1562
+00:54:07,160 --> 00:54:10,040
+Eu vou aproximar da lupita e perguntar
+
+1563
+00:54:10,040 --> 00:54:10,480
+Onde?
+
+1564
+00:54:10,480 --> 00:54:11,000
+Eu
+
+1565
+00:54:11,000 --> 00:54:14,540
+Aponto na direção das árvores
+
+1566
+00:54:14,540 --> 00:54:17,000
+Eu vou me transformar numa libélula
+
+1567
+00:54:17,000 --> 00:54:18,800
+E eu vou voar na direção
+
+1568
+00:54:18,800 --> 00:54:20,860
+Tu vê assim, abaixadinha atrás de uma árvore
+
+1569
+00:54:20,860 --> 00:54:23,120
+Tá aquele golem de pedra com as mãos no chão
+
+1570
+00:54:23,120 --> 00:54:25,540
+E assim, nas costas dele
+
+1571
+00:54:25,540 --> 00:54:26,800
+Montadinha
+
+1572
+00:54:26,800 --> 00:54:27,940
+Tá a sereia
+
+1573
+00:54:27,940 --> 00:54:30,320
+Eu vou voltar pra falar
+
+1574
+00:54:30,320 --> 00:54:31,780
+Pras minhas amigas
+
+1575
+00:54:31,780 --> 00:54:35,140
+Olha, tem duas pessoas ali aprontando
+
+1576
+00:54:35,140 --> 00:54:36,520
+O golem de pedra
+
+1577
+00:54:36,520 --> 00:54:38,460
+E aquela sereia
+
+1578
+00:54:38,460 --> 00:54:40,880
+Esse cheiro de marizia não me engano
+
+1579
+00:54:40,880 --> 00:54:40,980
+Eu vou voltar pra falar pra minhas amigas
+
+1580
+00:54:41,000 --> 00:54:42,140
+Tinha que ser peixe
+
+1581
+00:54:42,140 --> 00:54:43,340
+O que que a gente faz?
+
+1582
+00:54:43,900 --> 00:54:46,480
+Podemos dar a volta pelo outro lado
+
+1583
+00:54:46,480 --> 00:54:48,280
+Mas a gente vai deixar o fim aqui?
+
+1584
+00:54:48,780 --> 00:54:50,580
+Parece que o chão tá ficando
+
+1585
+00:54:50,580 --> 00:54:51,760
+Mais
+
+1586
+00:54:51,760 --> 00:54:54,560
+Mole, talvez ele
+
+1587
+00:54:54,560 --> 00:54:57,080
+Sei lá, com as pernas enterradas
+
+1588
+00:54:57,080 --> 00:54:57,580
+Depois
+
+1589
+00:54:57,580 --> 00:55:00,080
+Machucar eles não podem
+
+1590
+00:55:00,080 --> 00:55:02,160
+Senão vão ser desclassificados
+
+1591
+00:55:02,160 --> 00:55:04,680
+E lembra que disseram que
+
+1592
+00:55:04,680 --> 00:55:06,820
+Acho que tinha médico
+
+1593
+00:55:06,820 --> 00:55:08,160
+Ou alguma coisa do tipo
+
+1594
+00:55:08,160 --> 00:55:10,160
+É injusto ele ser desclassificado
+
+1595
+00:55:11,000 --> 00:55:12,100
+Por ter sido atacado
+
+1596
+00:55:12,100 --> 00:55:15,580
+Se eles acham que a comida deles é tão boa assim
+
+1597
+00:55:15,580 --> 00:55:16,980
+Eles não deviam estar
+
+1598
+00:55:16,980 --> 00:55:18,880
+Tentando eliminar os concorrentes
+
+1599
+00:55:18,880 --> 00:55:20,960
+Será que ele vai conseguir fazer outro prato?
+
+1600
+00:55:21,060 --> 00:55:23,220
+O prato dele tá só terra
+
+1601
+00:55:23,220 --> 00:55:25,240
+Bom, ele tem o que?
+
+1602
+00:55:25,340 --> 00:55:26,680
+Umas doze horas ainda
+
+1603
+00:55:26,680 --> 00:55:27,520
+Dá tempo
+
+1604
+00:55:27,520 --> 00:55:30,800
+Tá bom, você distrai
+
+1605
+00:55:30,800 --> 00:55:32,580
+E eu corro pelo outro lado
+
+1606
+00:55:32,580 --> 00:55:34,160
+Pra derrubar?
+
+1607
+00:55:34,400 --> 00:55:36,900
+Eu acho que é um ótimo plano
+
+1608
+00:55:36,900 --> 00:55:39,220
+Mas eu vou deixar
+
+1609
+00:55:39,220 --> 00:55:40,880
+Meu prato aqui
+
+1610
+00:55:40,880 --> 00:55:42,500
+Não quero virar ele não
+
+1611
+00:55:42,500 --> 00:55:44,020
+Tá tão bonitinho
+
+1612
+00:55:44,020 --> 00:55:46,800
+Eu vou assumir a forma do fim
+
+1613
+00:55:46,800 --> 00:55:49,520
+Quer dizer, eu vou primeiro como a libélula
+
+1614
+00:55:49,520 --> 00:55:50,920
+Voar pra trás
+
+1615
+00:55:50,920 --> 00:55:53,500
+Da sereia e do golem
+
+1616
+00:55:53,500 --> 00:55:55,200
+E atrás deles
+
+1617
+00:55:55,200 --> 00:55:56,360
+Assumir a forma do fim
+
+1618
+00:55:56,360 --> 00:55:58,420
+E cutucar eles
+
+1619
+00:55:58,420 --> 00:55:59,400
+Isso pra distrair
+
+1620
+00:55:59,400 --> 00:56:01,280
+E daí a Lupita vai correr e atacar
+
+1621
+00:56:01,280 --> 00:56:03,380
+E a Mix tá cuidando das coisas ou vai fazer o que?
+
+1622
+00:56:03,940 --> 00:56:05,840
+Bom, eu ia tentar ajudar a Lupita
+
+1623
+00:56:05,840 --> 00:56:07,840
+Mas eu posso ficar com as coisas também
+
+1624
+00:56:07,840 --> 00:56:09,640
+Ah, mas pode só deixar ali também
+
+1625
+00:56:09,640 --> 00:56:10,520
+Perigoso
+
+1626
+00:56:10,880 --> 00:56:13,160
+Correr o risco de perder os pratos
+
+1627
+00:56:13,160 --> 00:56:15,500
+Ela tá ali caso o fim acorde
+
+1628
+00:56:15,500 --> 00:56:17,460
+Lupita, três dados
+
+1629
+00:56:17,460 --> 00:56:18,840
+Tens um da ajuda
+
+1630
+00:56:18,840 --> 00:56:22,500
+Três, três e dois
+
+1631
+00:56:22,500 --> 00:56:24,620
+Três acertos críticos, dois acertos simples
+
+1632
+00:56:24,620 --> 00:56:25,380
+Beleza
+
+1633
+00:56:25,380 --> 00:56:27,520
+Como é que tu imobilizou, derrubou
+
+1634
+00:56:27,520 --> 00:56:30,120
+Eu imagino que os dois
+
+1635
+00:56:30,120 --> 00:56:31,440
+Estavam atrás de uma árvore, né?
+
+1636
+00:56:31,600 --> 00:56:31,920
+Isso
+
+1637
+00:56:31,920 --> 00:56:33,840
+Eu saí correndo
+
+1638
+00:56:33,840 --> 00:56:38,100
+Pulei no galho que tava acima deles
+
+1639
+00:56:38,100 --> 00:56:38,660
+Da árvore
+
+1640
+00:56:38,660 --> 00:56:40,860
+Provavelmente era um galho mais fino
+
+1641
+00:56:40,880 --> 00:56:42,100
+E o galho caiu
+
+1642
+00:56:42,100 --> 00:56:44,740
+Em cima da cabeça dos dois
+
+1643
+00:56:44,740 --> 00:56:45,880
+Pulando pro lado
+
+1644
+00:56:45,880 --> 00:56:48,840
+Beleza, então caiu um galho de árvore em cima deles
+
+1645
+00:56:48,840 --> 00:56:49,820
+Exato
+
+1646
+00:56:49,820 --> 00:56:52,080
+Beleza, tu derruba os dois ali
+
+1647
+00:56:52,080 --> 00:56:54,880
+Ai, ai, ai
+
+1648
+00:56:54,880 --> 00:56:56,360
+Eu me rendo
+
+1649
+00:56:56,360 --> 00:56:57,580
+Só tem um fim
+
+1650
+00:56:57,580 --> 00:56:59,260
+Ele não fez nada pra ninguém
+
+1651
+00:56:59,260 --> 00:57:01,660
+Ele só tava tentando fazer uma salada, gente
+
+1652
+00:57:01,660 --> 00:57:05,520
+A gente só queria diminuir a concorrência, sabe?
+
+1653
+00:57:05,640 --> 00:57:07,080
+Ai, façam pratos bons
+
+1654
+00:57:07,080 --> 00:57:09,840
+Vocês por acaso não confiam nas suas próprias habilidades?
+
+1655
+00:57:09,840 --> 00:57:09,940
+Vocês por acaso não confiam nas suas próprias habilidades?
+
+1656
+00:57:10,880 --> 00:57:12,720
+Atrapalhar os outros pra ter uma chance?
+
+1657
+00:57:12,820 --> 00:57:14,800
+Os dois se olham assim e olham pro chão
+
+1658
+00:57:14,800 --> 00:57:16,440
+O que vocês fizeram?
+
+1659
+00:57:16,640 --> 00:57:18,920
+A gente não conseguiu fazer muita coisa
+
+1660
+00:57:18,920 --> 00:57:20,980
+Minha especialidade é peixe
+
+1661
+00:57:20,980 --> 00:57:23,680
+E não encontrei muita coisa pra fazer aqui
+
+1662
+00:57:23,680 --> 00:57:24,820
+Tá vendo aquele
+
+1663
+00:57:24,820 --> 00:57:27,500
+Tá vendo aquele arbusto ali?
+
+1664
+00:57:28,380 --> 00:57:29,940
+Aquilo ali a gente chama de peixinho
+
+1665
+00:57:29,940 --> 00:57:31,340
+Se você
+
+1666
+00:57:31,340 --> 00:57:33,060
+Arranjar um jeito de fritar ele
+
+1667
+00:57:33,060 --> 00:57:35,980
+Você pode empanar ele
+
+1668
+00:57:35,980 --> 00:57:37,600
+E arranjar uma forma de fritar
+
+1669
+00:57:37,600 --> 00:57:39,560
+Fica parecendo muito com peixe
+
+1670
+00:57:39,560 --> 00:57:40,860
+Você pode
+
+1671
+00:57:40,880 --> 00:57:42,820
+Adaptar a sua receita
+
+1672
+00:57:42,820 --> 00:57:44,060
+Ela te olha assim
+
+1673
+00:57:44,060 --> 00:57:49,460
+Se fritar no óleo de coquinho
+
+1674
+00:57:49,460 --> 00:57:51,840
+Fica tão bom
+
+1675
+00:57:51,840 --> 00:57:53,840
+Ela olha pra vocês
+
+1676
+00:57:53,840 --> 00:57:54,540
+Levanta assim
+
+1677
+00:57:54,540 --> 00:57:55,920
+Então a gente pode ir?
+
+1678
+00:57:56,000 --> 00:57:57,520
+Só não atacar mais ninguém
+
+1679
+00:57:57,520 --> 00:57:58,600
+Prometo
+
+1680
+00:57:58,600 --> 00:58:01,620
+O Oren levanta, pega ela no colo assim
+
+1681
+00:58:01,620 --> 00:58:04,340
+E os dois vão lá em direção que vocês apontaram
+
+1682
+00:58:04,340 --> 00:58:05,780
+A Mix vê isso
+
+1683
+00:58:05,780 --> 00:58:08,220
+Que eles derrubaram os dois
+
+1684
+00:58:08,220 --> 00:58:10,120
+E os dois agora estão indo pra outro lugar
+
+1685
+00:58:10,120 --> 00:58:10,720
+Então volta
+
+1686
+00:58:10,880 --> 00:58:11,800
+Volta assim a ficar
+
+1687
+00:58:11,800 --> 00:58:14,240
+Seco, né?
+
+1688
+00:58:14,580 --> 00:58:16,540
+Tá, eu abaixo pra
+
+1689
+00:58:16,540 --> 00:58:19,160
+Tentar levantar o fim
+
+1690
+00:58:19,160 --> 00:58:20,560
+Ah, oi
+
+1691
+00:58:20,560 --> 00:58:22,500
+Eu fiquei preso
+
+1692
+00:58:22,500 --> 00:58:23,520
+Acabei dormindo
+
+1693
+00:58:23,520 --> 00:58:26,800
+Acho que não era pra ser mesmo
+
+1694
+00:58:26,800 --> 00:58:28,780
+Eu sinto muito que caiu
+
+1695
+00:58:28,780 --> 00:58:31,900
+Talvez você consiga fazer uma adaptação dele
+
+1696
+00:58:31,900 --> 00:58:33,780
+E nessas últimas horas
+
+1697
+00:58:33,780 --> 00:58:34,920
+Fazer um novo prato
+
+1698
+00:58:34,920 --> 00:58:35,820
+Eu já desisti
+
+1699
+00:58:35,820 --> 00:58:38,940
+Comecei errado quando tentei atacar vocês
+
+1700
+00:58:38,940 --> 00:58:39,940
+Vocês merecem
+
+1701
+00:58:39,940 --> 00:58:40,640
+Vocês merecem
+
+1702
+00:58:40,640 --> 00:58:42,360
+Essa vitória mais do que eu
+
+1703
+00:58:42,360 --> 00:58:44,600
+Eu irei torcer e me preparar
+
+1704
+00:58:44,600 --> 00:58:46,140
+Para o próximo Monster Chef
+
+1705
+00:58:46,140 --> 00:58:47,820
+Estarei na torcida por você
+
+1706
+00:58:47,820 --> 00:58:49,660
+Ele sorri pra vocês
+
+1707
+00:58:49,660 --> 00:58:50,860
+Eu vou ficar aqui
+
+1708
+00:58:50,860 --> 00:58:53,400
+Se alguém tentar atacar a retaguarda de vocês
+
+1709
+00:58:53,400 --> 00:58:54,980
+Eu vou protegê-los
+
+1710
+00:58:54,980 --> 00:58:56,500
+É uma coisa de grande ajuda
+
+1711
+00:58:56,500 --> 00:58:57,340
+Muito obrigada
+
+1712
+00:58:57,340 --> 00:58:58,260
+Valeu, cara
+
+1713
+00:58:58,260 --> 00:59:00,180
+Depois a gente pode trocar umas receitas
+
+1714
+00:59:00,180 --> 00:59:03,000
+Quem sabe você vai ter uma chance melhor na próxima vez
+
+1715
+00:59:03,000 --> 00:59:05,740
+A Lupita dá uma
+
+1716
+00:59:05,740 --> 00:59:07,420
+No lugar de te dar um beijo na bochecha
+
+1717
+00:59:07,420 --> 00:59:09,080
+Ela dá uma lambida na bochecha dele
+
+1718
+00:59:09,080 --> 00:59:10,420
+Muito obrigada
+
+1719
+00:59:10,640 --> 00:59:12,340
+Você vai ser de grande ajuda
+
+1720
+00:59:12,340 --> 00:59:13,600
+Vai estar dando empatia
+
+1721
+00:59:13,600 --> 00:59:15,020
+Ele fica assim
+
+1722
+00:59:15,020 --> 00:59:16,360
+Olho arregalado
+
+1723
+00:59:16,360 --> 00:59:18,080
+Pega o arco
+
+1724
+00:59:18,080 --> 00:59:21,180
+Começa já a procurar se tem alguém por perto ali
+
+1725
+00:59:21,180 --> 00:59:23,160
+Ele fica meio nervoso
+
+1726
+00:59:23,160 --> 00:59:25,040
+À medida que a gente vai caminhando
+
+1727
+00:59:25,040 --> 00:59:26,560
+Pra longe dele, né
+
+1728
+00:59:26,560 --> 00:59:26,900
+Fala assim
+
+1729
+00:59:26,900 --> 00:59:28,160
+Ei, dona Lupita
+
+1730
+00:59:28,160 --> 00:59:30,420
+Você não perde a chance mesmo, hein
+
+1731
+00:59:30,420 --> 00:59:32,780
+Ah, ele era bonitinho
+
+1732
+00:59:32,780 --> 00:59:34,400
+Mas é elfo
+
+1733
+00:59:34,400 --> 00:59:36,100
+Isso quer dizer o quê?
+
+1734
+00:59:36,680 --> 00:59:37,420
+Muito humano
+
+1735
+00:59:37,420 --> 00:59:38,720
+Ok, justo
+
+1736
+00:59:38,720 --> 00:59:40,260
+Vocês saem
+
+1737
+00:59:40,640 --> 00:59:43,140
+O pessoal começa a gritar e bater palma
+
+1738
+00:59:43,140 --> 00:59:46,080
+Parece que vocês foram
+
+1739
+00:59:46,080 --> 00:59:48,100
+O segundo, o terceiro e o quarto
+
+1740
+00:59:48,100 --> 00:59:49,100
+A saírem ali
+
+1741
+00:59:49,100 --> 00:59:52,820
+Lá fora também tem a menina com o olho de gato
+
+1742
+00:59:52,820 --> 00:59:55,440
+Ela tá com o prato dela
+
+1743
+00:59:55,440 --> 00:59:57,500
+Parece ser um tipo de porco do mato
+
+1744
+00:59:57,500 --> 00:59:59,660
+Bem decorado
+
+1745
+00:59:59,660 --> 01:00:00,840
+Bem feito
+
+1746
+01:00:00,840 --> 01:00:03,020
+O prato dela tá posicionado numa mesa
+
+1747
+01:00:03,020 --> 01:00:03,660
+Numa bancada
+
+1748
+01:00:03,660 --> 01:00:06,940
+O pessoal da produção do programa ajudou vocês
+
+1749
+01:00:06,940 --> 01:00:09,680
+A posicionar os pratos de vocês
+
+1750
+01:00:09,680 --> 01:00:10,440
+Ali também
+
+1751
+01:00:10,640 --> 01:00:14,080
+Uma bruxa faz uma magia pros pratos
+
+1752
+01:00:14,080 --> 01:00:15,580
+Não, daquele ponto em diante
+
+1753
+01:00:15,580 --> 01:00:18,520
+O tempo não passar mais pra esses pratos
+
+1754
+01:00:18,520 --> 01:00:20,340
+Pra manter temperatura
+
+1755
+01:00:20,340 --> 01:00:22,620
+Pra manter o sabor
+
+1756
+01:00:22,620 --> 01:00:24,680
+Pelas próximas horas, né
+
+1757
+01:00:24,680 --> 01:00:27,540
+Póris, o ogro que tinha perguntado
+
+1758
+01:00:27,540 --> 01:00:29,800
+Se podia cozinhar seus colegas
+
+1759
+01:00:29,800 --> 01:00:31,020
+Ele sai
+
+1760
+01:00:31,020 --> 01:00:32,040
+Assim, com um
+
+1761
+01:00:32,040 --> 01:00:33,380
+Um sopado
+
+1762
+01:00:33,380 --> 01:00:35,280
+Parece não conter nenhum dos colegas
+
+1763
+01:00:35,280 --> 01:00:37,040
+Era só uma piada, aparentemente
+
+1764
+01:00:37,040 --> 01:00:40,080
+Ele foi o último a sair ali
+
+1765
+01:00:40,080 --> 01:00:40,180
+E ele foi o último a sair ali
+
+1766
+01:00:40,180 --> 01:00:42,340
+E ninguém mais sai durante o tempo
+
+1767
+01:00:42,340 --> 01:00:43,740
+Previsto
+
+1768
+01:00:43,740 --> 01:00:46,320
+As pessoas são resgatadas, são separadas
+
+1769
+01:00:46,320 --> 01:00:48,320
+E vocês estão ali
+
+1770
+01:00:48,320 --> 01:00:50,480
+Diante daqueles dois tronos
+
+1771
+01:00:50,480 --> 01:00:54,320
+O primeiro a passar por vocês é o príncipe
+
+1772
+01:00:54,320 --> 01:00:55,920
+Que é o filho caçula
+
+1773
+01:00:55,920 --> 01:00:57,380
+Ele tem a
+
+1774
+01:00:57,380 --> 01:00:59,360
+A pele dele é avermelhada
+
+1775
+01:00:59,360 --> 01:01:02,180
+Coberta de escamas num tom mais esverdeado
+
+1776
+01:01:02,700 --> 01:01:03,960
+Puxou mais a cor da mãe
+
+1777
+01:01:03,960 --> 01:01:06,760
+Os olhos também são uma mistura de verde e vermelho
+
+1778
+01:01:06,760 --> 01:01:08,180
+Ele tem o cabelo curto e flamejante
+
+1779
+01:01:08,180 --> 01:01:09,700
+Ele tem
+
+1780
+01:01:10,180 --> 01:01:11,900
+Algumas escamas, né
+
+1781
+01:01:11,900 --> 01:01:12,840
+De serpente
+
+1782
+01:01:12,840 --> 01:01:15,740
+Ele tem duas pernas, ao contrário da irmã
+
+1783
+01:01:15,740 --> 01:01:17,620
+Que tem o cabelo de cobra, né
+
+1784
+01:01:17,620 --> 01:01:18,560
+Da cintura pra baixo
+
+1785
+01:01:18,560 --> 01:01:20,100
+E ele é o primeiro, assim, ele passa
+
+1786
+01:01:20,100 --> 01:01:22,980
+Ele deve ter uns 13 pra 14 anos
+
+1787
+01:01:22,980 --> 01:01:26,560
+Ele passa provando ali os pratos de vocês
+
+1788
+01:01:26,560 --> 01:01:28,500
+Alguém vai falar alguma coisa
+
+1789
+01:01:28,500 --> 01:01:29,640
+Vai esperar ele comer
+
+1790
+01:01:29,640 --> 01:01:31,760
+Eu só colo xixi pro chá
+
+1791
+01:01:31,760 --> 01:01:34,540
+Ele tá aqui bonitinho, mas é tão novinho
+
+1792
+01:01:34,540 --> 01:01:36,000
+Na hora que o
+
+1793
+01:01:36,000 --> 01:01:37,840
+Que ele for passar
+
+1794
+01:01:37,840 --> 01:01:38,800
+Perto de mim
+
+1795
+01:01:38,800 --> 01:01:40,140
+Eu vou
+
+1796
+01:01:40,180 --> 01:01:42,280
+Me transformar na Lupita
+
+1797
+01:01:42,280 --> 01:01:43,560
+E eu vou falar
+
+1798
+01:01:43,560 --> 01:01:46,140
+Nossa, você é bonitinho
+
+1799
+01:01:46,140 --> 01:01:47,440
+Mas você é bem novinho, né
+
+1800
+01:01:47,440 --> 01:01:49,440
+É a Lupita
+
+1801
+01:01:49,440 --> 01:01:52,240
+Eu tô pisão no pé do chave
+
+1802
+01:01:52,240 --> 01:01:53,800
+Já que agora ele tá com o pé
+
+1803
+01:01:53,800 --> 01:01:55,840
+Ele prova o prato da Mix
+
+1804
+01:01:55,840 --> 01:01:58,380
+Ela faz um aceno e ela fica
+
+1805
+01:01:58,380 --> 01:02:00,760
+Ansiosa, assim, tipo, olhando a reação dele
+
+1806
+01:02:00,760 --> 01:02:02,860
+Ele prova o último prato
+
+1807
+01:02:02,860 --> 01:02:04,840
+Ali, então ele vai até o
+
+1808
+01:02:04,840 --> 01:02:06,500
+Gordon, né
+
+1809
+01:02:06,500 --> 01:02:07,300
+O Gordon fala
+
+1810
+01:02:07,300 --> 01:02:09,620
+Já que temos 5 e precisamos eliminar
+
+1811
+01:02:09,620 --> 01:02:10,400
+Duas pessoas
+
+1812
+01:02:10,400 --> 01:02:12,520
+Vamos usar o seguinte método
+
+1813
+01:02:12,520 --> 01:02:13,600
+Príncipe
+
+1814
+01:02:13,600 --> 01:02:14,760
+Dos 5 pratos
+
+1815
+01:02:14,760 --> 01:02:16,740
+Qual você menos gostou?
+
+1816
+01:02:17,120 --> 01:02:18,780
+O príncipe para um tempo
+
+1817
+01:02:18,780 --> 01:02:22,020
+Aponta pra feiticeira com o olhinho de gato
+
+1818
+01:02:22,020 --> 01:02:23,500
+E ela vai embora triste
+
+1819
+01:02:23,500 --> 01:02:25,160
+Você correu muito pra ser a primeira
+
+1820
+01:02:25,160 --> 01:02:28,060
+Mas podia ter tido um pouco mais de calma
+
+1821
+01:02:28,060 --> 01:02:29,240
+Para preparar o seu prato
+
+1822
+01:02:29,240 --> 01:02:32,680
+A princesa prova a do ombro
+
+1823
+01:02:32,680 --> 01:02:35,840
+Prova a da Lupita, né
+
+1824
+01:02:35,840 --> 01:02:37,580
+E ela para diante da Lupita
+
+1825
+01:02:37,580 --> 01:02:38,820
+E fala
+
+1826
+01:02:38,820 --> 01:02:39,440
+Você não vai fazer isso?
+
+1827
+01:02:39,440 --> 01:02:40,620
+Você não vai me dizer nada?
+
+1828
+01:02:40,940 --> 01:02:43,320
+A Lupita, ela começa, assim, a gaguejar
+
+1829
+01:02:43,320 --> 01:02:45,440
+Espero que esteja
+
+1830
+01:02:45,440 --> 01:02:47,000
+Daí a Lupita baixa, assim, o olhar
+
+1831
+01:02:47,000 --> 01:02:48,500
+Ela não consegue falar
+
+1832
+01:02:48,500 --> 01:02:50,540
+Ela olha com muita raiva, assim, o cabelo dela
+
+1833
+01:02:50,540 --> 01:02:52,020
+Tá em chamas
+
+1834
+01:02:52,020 --> 01:02:53,940
+Ela prova, assim
+
+1835
+01:02:53,940 --> 01:02:56,300
+Ela tava pronta pra, sabe
+
+1836
+01:02:56,300 --> 01:02:58,340
+Já derrubar o teu prato
+
+1837
+01:02:58,340 --> 01:03:00,700
+Mas tá muito bom, tirou um crítico, né
+
+1838
+01:03:00,700 --> 01:03:03,460
+Um sorriso começa a se formar, mas ela segura
+
+1839
+01:03:03,460 --> 01:03:05,620
+Ela larga, assim, a colher
+
+1840
+01:03:05,620 --> 01:03:07,480
+Sobre o teu prato
+
+1841
+01:03:07,480 --> 01:03:08,440
+E vai pro próximo
+
+1842
+01:03:09,440 --> 01:03:11,820
+Sem me transformar, né
+
+1843
+01:03:11,820 --> 01:03:14,580
+Agora eu com a aparência que eu costumo ter
+
+1844
+01:03:14,580 --> 01:03:16,680
+Eu vou falar
+
+1845
+01:03:16,680 --> 01:03:17,420
+É bem sério
+
+1846
+01:03:17,420 --> 01:03:20,000
+Olha, eu não sei o que é que
+
+1847
+01:03:20,000 --> 01:03:21,620
+Tá acontecendo aqui
+
+1848
+01:03:21,620 --> 01:03:24,000
+Mas a minha amiga
+
+1849
+01:03:24,000 --> 01:03:25,520
+Ela gosta muito de você
+
+1850
+01:03:25,520 --> 01:03:26,900
+E, tipo assim, eu tô
+
+1851
+01:03:26,900 --> 01:03:29,160
+Agora não é pra humilhar, mas pra, tipo
+
+1852
+01:03:29,160 --> 01:03:31,960
+Jogar a bola dela pra cima mesmo
+
+1853
+01:03:31,960 --> 01:03:35,860
+Eu tirei 4 e 2
+
+1854
+01:03:35,860 --> 01:03:36,980
+E meu atributo é 2
+
+1855
+01:03:36,980 --> 01:03:39,080
+Ela dá um sorriso, assim
+
+1856
+01:03:39,440 --> 01:03:41,220
+O rosto meio pro lado, pra tentar esconder
+
+1857
+01:03:41,220 --> 01:03:44,420
+O rosto dela, assim, tá bem vermelho
+
+1858
+01:03:44,420 --> 01:03:45,660
+O cabelo dela, assim
+
+1859
+01:03:45,660 --> 01:03:48,240
+O calor do local ali
+
+1860
+01:03:48,240 --> 01:03:49,640
+Ele aumenta alguns graus
+
+1861
+01:03:49,640 --> 01:03:50,960
+E ela só
+
+1862
+01:03:50,960 --> 01:03:53,740
+Passa pro próximo e prova o da Mix
+
+1863
+01:03:53,740 --> 01:03:56,220
+Eu dou aquela piscadinha pra Lupita
+
+1864
+01:03:56,220 --> 01:03:57,900
+A Lupita, ela não sabe
+
+1865
+01:03:57,900 --> 01:04:00,660
+Se agradece ou se bate no chave
+
+1866
+01:04:00,660 --> 01:04:02,520
+Ela tá naquela sensação
+
+1867
+01:04:02,520 --> 01:04:03,860
+Meio vergonha, meio
+
+1868
+01:04:03,860 --> 01:04:05,480
+Obrigada
+
+1869
+01:04:05,480 --> 01:04:06,560
+Ela provou a da Mix
+
+1870
+01:04:06,560 --> 01:04:09,400
+É, eu sou muito
+
+1871
+01:04:09,440 --> 01:04:11,500
+A fã, a gente se esforçou muito
+
+1872
+01:04:11,500 --> 01:04:12,360
+E aí ela olha
+
+1873
+01:04:12,360 --> 01:04:14,200
+Para os dois colegas
+
+1874
+01:04:14,200 --> 01:04:17,060
+Ela prova, tu tinha tirado dois assentos críticos, né
+
+1875
+01:04:17,060 --> 01:04:19,360
+Ela, assim, abre
+
+1876
+01:04:19,360 --> 01:04:21,140
+Um grande sorriso
+
+1877
+01:04:21,140 --> 01:04:23,140
+Ela prova de novo, né
+
+1878
+01:04:23,140 --> 01:04:25,620
+O Gordon chega do lado dela
+
+1879
+01:04:25,620 --> 01:04:26,620
+Ele prova também
+
+1880
+01:04:26,620 --> 01:04:29,700
+Menina, em anos de competição
+
+1881
+01:04:29,700 --> 01:04:31,180
+Eu nunca vi um prato tão bom
+
+1882
+01:04:31,180 --> 01:04:33,540
+Com ingredientes que não vêm do mercado
+
+1883
+01:04:33,540 --> 01:04:35,720
+Meus parabéns
+
+1884
+01:04:35,720 --> 01:04:36,960
+Obrigada
+
+1885
+01:04:36,960 --> 01:04:39,200
+É, mas eu dei esse prato
+
+1886
+01:04:39,440 --> 01:04:41,240
+As minhas colegas também
+
+1887
+01:04:41,240 --> 01:04:42,140
+Ele dá um sorriso
+
+1888
+01:04:42,140 --> 01:04:44,760
+Uma boa equipe é a parte importante de uma cozinha
+
+1889
+01:04:44,760 --> 01:04:47,680
+Ele conversa com a princesa
+
+1890
+01:04:47,680 --> 01:04:50,140
+E a nossa princesa escolheu desclassificar
+
+1891
+01:04:50,140 --> 01:04:53,300
+O Boris
+
+1892
+01:04:53,300 --> 01:04:56,360
+Parabéns, Xavi, Lupita
+
+1893
+01:04:56,360 --> 01:04:57,520
+E Mixora
+
+1894
+01:04:57,520 --> 01:04:59,460
+Vocês vão para o Castelo Real
+
+1895
+01:04:59,460 --> 01:05:00,960
+Disputar a grande final
+
+1896
+01:05:00,960 --> 01:05:03,820
+E dessa vez, ao contrário das outras duas
+
+1897
+01:05:03,820 --> 01:05:05,440
+Nós só podemos ter
+
+1898
+01:05:05,440 --> 01:05:06,800
+Um vencedor
+
+1899
+01:05:06,800 --> 01:05:08,880
+Parabéns por terem chego na final
+
+1900
+01:05:09,440 --> 01:05:10,900
+Estou pulando para cima e para baixo
+
+1901
+01:05:10,900 --> 01:05:12,080
+Abraçando as minhas amigas
+
+1902
+01:05:12,080 --> 01:05:16,220
+A Lupita, dessa vez, ela está em estado de choque
+
+1903
+01:05:16,220 --> 01:05:18,320
+Ela não acredita que ela vai para o Castelo Real
+
+1904
+01:05:18,320 --> 01:05:20,740
+E muito menos que ela falou com
+
+1905
+01:05:20,740 --> 01:05:23,520
+Ou melhor, tentou falar com a princesa
+
+1906
+01:05:23,520 --> 01:05:25,720
+Ela está ali no estado de choque
+
+1907
+01:05:25,720 --> 01:05:27,440
+Está sentindo-se abraçado pelos dois
+
+1908
+01:05:27,440 --> 01:05:28,460
+E os dois pulando na volta
+
+1909
+01:05:28,460 --> 01:05:30,280
+Muita gente dá parabéns para vocês
+
+1910
+01:05:30,280 --> 01:05:32,980
+Em especial o pessoal da escola
+
+1911
+01:05:32,980 --> 01:05:34,960
+Grande parte da torcida do Xavi
+
+1912
+01:05:34,960 --> 01:05:37,460
+Virou a casaca nesse final
+
+1913
+01:05:37,460 --> 01:05:39,240
+E está do lado da Mix ali
+
+1914
+01:05:39,440 --> 01:05:40,480
+Mas, assim
+
+1915
+01:05:40,480 --> 01:05:42,300
+A volta é com bastante festa
+
+1916
+01:05:42,300 --> 01:05:43,540
+A professora Esqueletiza
+
+1917
+01:05:43,540 --> 01:05:45,700
+Está bem feliz lá na frente
+
+1918
+01:05:45,700 --> 01:05:48,560
+Dirigindo o pequeno ônibus de vocês
+
+1919
+01:05:48,560 --> 01:05:49,880
+A volta é animada
+
+1920
+01:05:49,880 --> 01:05:51,620
+Vocês passam mais uma semana
+
+1921
+01:05:52,640 --> 01:05:53,620
+Testando novos pratos
+
+1922
+01:05:54,140 --> 01:05:54,780
+Lendo
+
+1923
+01:05:54,780 --> 01:05:57,620
+Se preparando para essa
+
+1924
+01:05:57,620 --> 01:05:58,720
+Grande final
+
+1925
+01:05:58,720 --> 01:06:01,240
+Que vai acontecer no salão do castelo
+
+1926
+01:06:01,240 --> 01:06:03,640
+Foi preparado para essa
+
+1927
+01:06:03,640 --> 01:06:05,740
+Grande final do Monster Chef Real
+
+1928
+01:06:05,740 --> 01:06:07,320
+Ele é uma visão
+
+1929
+01:06:07,320 --> 01:06:08,860
+Deslumbrante e assustadora
+
+1930
+01:06:09,440 --> 01:06:11,360
+lustres feitos de ossos cintilantes
+
+1931
+01:06:11,360 --> 01:06:12,900
+pendem do teto
+
+1932
+01:06:12,900 --> 01:06:15,340
+abogodado, lançando
+
+1933
+01:06:15,340 --> 01:06:17,400
+uma luz fantasmagórica sobre o ambiente
+
+1934
+01:06:17,400 --> 01:06:19,380
+longas mesas de banquete
+
+1935
+01:06:19,380 --> 01:06:21,600
+foram substituídas por estações de cozinha
+
+1936
+01:06:21,600 --> 01:06:23,260
+equipadas com
+
+1937
+01:06:23,260 --> 01:06:25,340
+utensílios encantados
+
+1938
+01:06:25,340 --> 01:06:27,040
+e ingredientes místicos
+
+1939
+01:06:27,040 --> 01:06:29,340
+alguns ainda pulsando com vida
+
+1940
+01:06:29,340 --> 01:06:31,100
+tapeçarias antigas retratando
+
+1941
+01:06:31,100 --> 01:06:32,680
+cenas de banquete monstruosos
+
+1942
+01:06:32,680 --> 01:06:34,940
+adornam as paredes de pedra
+
+1943
+01:06:34,940 --> 01:06:36,600
+enquanto o piso de mármore negro
+
+1944
+01:06:36,600 --> 01:06:38,920
+reflete as chamas das tochas
+
+1945
+01:06:38,920 --> 01:06:39,940
+que iluminam o espaço
+
+1946
+01:06:39,940 --> 01:06:42,920
+no centro, num imponente trono de bronze
+
+1947
+01:06:42,920 --> 01:06:44,540
+descansa o jurado principal
+
+1948
+01:06:44,540 --> 01:06:46,100
+o rei Pyrrhus
+
+1949
+01:06:46,100 --> 01:06:48,580
+ungindo fogo de pele vermelha
+
+1950
+01:06:48,580 --> 01:06:50,940
+com marcas de chamas douradas
+
+1951
+01:06:50,940 --> 01:06:52,840
+seus olhos brilham como
+
+1952
+01:06:52,840 --> 01:06:54,440
+brasas incandescentes
+
+1953
+01:06:54,440 --> 01:06:56,740
+e ele tem uma crista de fogo que dança
+
+1954
+01:06:56,740 --> 01:06:58,780
+pelo vento que entra pelas janelas
+
+1955
+01:06:58,780 --> 01:07:00,580
+ele é alto e imponente
+
+1956
+01:07:00,580 --> 01:07:02,320
+com uma aura de calor constante
+
+1957
+01:07:02,320 --> 01:07:04,860
+ele usa roupas que são resistentes ao fogo
+
+1958
+01:07:04,860 --> 01:07:06,120
+adornado com joias
+
+1959
+01:07:06,120 --> 01:07:08,180
+que brilham como carvão em brasa
+
+1960
+01:07:08,180 --> 01:07:10,000
+as laterais foram colocadas
+
+1961
+01:07:10,000 --> 01:07:12,280
+arquibancadas de veludo carmesim
+
+1962
+01:07:12,280 --> 01:07:14,700
+que se encheram de criaturas
+
+1963
+01:07:14,700 --> 01:07:15,820
+de todos os tipos
+
+1964
+01:07:15,820 --> 01:07:18,460
+ansiosos para testemunhar a competição
+
+1965
+01:07:18,460 --> 01:07:20,100
+a atmosfera é eletrizante
+
+1966
+01:07:20,100 --> 01:07:21,860
+com um ar de magia e expectativa
+
+1967
+01:07:21,860 --> 01:07:23,880
+promovendo uma final inesquecível
+
+1968
+01:07:23,880 --> 01:07:26,280
+onde apenas o chefe mais criativo
+
+1969
+01:07:26,280 --> 01:07:27,660
+e habilidoso será
+
+1970
+01:07:27,660 --> 01:07:29,080
+vitorioso
+
+1971
+01:07:29,080 --> 01:07:32,300
+o Gordon está usando uma roupa muito, muito bonita
+
+1972
+01:07:32,300 --> 01:07:34,220
+cheio de detalhes de ouro
+
+1973
+01:07:34,220 --> 01:07:35,860
+escaravelhos de jade
+
+1974
+01:07:38,180 --> 01:07:40,160
+a graça de um monstro
+
+1975
+01:07:40,160 --> 01:07:41,060
+os monstros
+
+1976
+01:07:41,060 --> 01:07:42,460
+sejam todos bem-vindos
+
+1977
+01:07:42,460 --> 01:07:43,740
+à grande final
+
+1978
+01:07:43,740 --> 01:07:46,300
+do Monster Chef Real
+
+1979
+01:07:46,300 --> 01:07:56,420
+parabenza a todos por terem chegado até aqui
+
+1980
+01:07:56,420 --> 01:08:00,700
+quero dizer que temos algumas coisas preparadas hoje para vocês
+
+1981
+01:08:00,700 --> 01:08:02,880
+note que temos quatro bancadas para cozinhar
+
+1982
+01:08:02,880 --> 01:08:04,020
+ou seja
+
+1983
+01:08:04,020 --> 01:08:06,900
+temos um competidor extra para essa rodada final
+
+1984
+01:08:06,900 --> 01:08:07,960
+a nossa campanha é muito importante
+
+1985
+01:08:07,960 --> 01:08:10,540
+a nossa campeã do Monster Chef Júlio de alguns anos atrás
+
+1986
+01:08:10,540 --> 01:08:12,840
+a nossa querida Princesa Iglea
+
+1987
+01:08:12,840 --> 01:08:14,340
+pediu para participar dessa final
+
+1988
+01:08:14,340 --> 01:08:15,860
+e também vai cozinhar
+
+1989
+01:08:15,860 --> 01:08:17,980
+ela se posiciona assim do lado de vocês
+
+1990
+01:08:17,980 --> 01:08:20,280
+e sente a temperatura aumentar
+
+1991
+01:08:20,280 --> 01:08:21,740
+com a presença dela
+
+1992
+01:08:21,740 --> 01:08:24,620
+a Lupita fica de queixo caído, literalmente
+
+1993
+01:08:24,620 --> 01:08:26,220
+está com a boquinha assim aberta
+
+1994
+01:08:26,220 --> 01:08:27,420
+só olhando para a princesa
+
+1995
+01:08:27,420 --> 01:08:30,520
+vocês vão preparar um dos pratos mais gostosos que existem
+
+1996
+01:08:30,520 --> 01:08:32,800
+mas para a maioria dos chefes
+
+1997
+01:08:32,800 --> 01:08:34,220
+é muito simples você chegar
+
+1998
+01:08:34,220 --> 01:08:36,820
+comprar ingredientes, preparar e servir
+
+1999
+01:08:36,820 --> 01:08:37,900
+o que é o Monster Chef Júlio?
+
+2000
+01:08:37,900 --> 01:08:37,940
+o Monster Chef Júlio é um dos pratos mais gostosos
+
+2001
+01:08:37,940 --> 01:08:40,720
+um verdadeiro chefe pega seus próprios ingredientes
+
+2002
+01:08:40,720 --> 01:08:43,180
+e é por isso que vocês vão ser transportados
+
+2003
+01:08:43,180 --> 01:08:44,260
+para outra dimensão
+
+2004
+01:08:44,260 --> 01:08:45,380
+e em conjunto
+
+2005
+01:08:45,380 --> 01:08:48,260
+abater e dividir esse ingrediente
+
+2006
+01:08:48,260 --> 01:08:50,460
+e aí voltamos para a cozinha
+
+2007
+01:08:50,460 --> 01:08:52,140
+para a grande competição
+
+2008
+01:08:52,140 --> 01:08:53,700
+preparados?
+
+2009
+01:08:54,740 --> 01:08:56,960
+a Lupita só balança a cabeça positivamente
+
+2010
+01:08:56,960 --> 01:08:59,420
+porque ela ainda não conseguiu tirar os olhos da princesa
+
+2011
+01:08:59,420 --> 01:09:00,160
+a Chavi
+
+2012
+01:09:00,160 --> 01:09:02,700
+dá aquela engolida em seco
+
+2013
+01:09:02,700 --> 01:09:03,820
+e faz assim com a cabeça
+
+2014
+01:09:03,820 --> 01:09:06,980
+a Mitz também faz a cena com a cabeça
+
+2015
+01:09:06,980 --> 01:09:07,920
+o Gordo
+
+2016
+01:09:07,920 --> 01:09:09,720
+se pega um cajado
+
+2017
+01:09:09,720 --> 01:09:10,700
+bate no chão
+
+2018
+01:09:10,700 --> 01:09:14,560
+e vocês estão numa vila
+
+2019
+01:09:14,560 --> 01:09:16,960
+parece uma vila abandonada
+
+2020
+01:09:16,960 --> 01:09:20,160
+casas com as portas e janelas já caídas
+
+2021
+01:09:20,160 --> 01:09:21,840
+um lugar assim
+
+2022
+01:09:21,840 --> 01:09:24,140
+bem deteriorado
+
+2023
+01:09:24,140 --> 01:09:24,780
+pelo tempo
+
+2024
+01:09:24,780 --> 01:09:26,620
+e vocês quatro estão ali
+
+2025
+01:09:26,620 --> 01:09:28,620
+no centro desta vila
+
+2026
+01:09:28,620 --> 01:09:29,960
+onde antes era uma pracinha
+
+2027
+01:09:29,960 --> 01:09:32,620
+alguém prestou atenção em qual era o ingrediente?
+
+2028
+01:09:33,140 --> 01:09:35,520
+é... eles não falaram né
+
+2029
+01:09:35,520 --> 01:09:37,360
+o Gordon não falou nada
+
+2030
+01:09:37,360 --> 01:09:37,720
+eu não falei nada
+
+2031
+01:09:37,720 --> 01:09:41,620
+não, ele só falou sobre abater o ingrediente
+
+2032
+01:09:41,620 --> 01:09:43,440
+a princesa vira para a Lupita
+
+2033
+01:09:43,440 --> 01:09:45,400
+e por que você não me respondeu?
+
+2034
+01:09:45,400 --> 01:09:46,480
+desculpa
+
+2035
+01:09:46,480 --> 01:09:48,040
+é que...
+
+2036
+01:09:48,040 --> 01:09:49,720
+você me deixa sem palavras
+
+2037
+01:09:49,720 --> 01:09:51,100
+o chão treme
+
+2038
+01:09:51,100 --> 01:09:52,800
+o tremor vai aumentando cada vez mais
+
+2039
+01:09:52,800 --> 01:09:54,540
+algumas cartas desabam
+
+2040
+01:09:54,540 --> 01:09:56,240
+pelo visto sem chão também
+
+2041
+01:09:56,240 --> 01:09:57,800
+a Lupita tenta se equilibrar
+
+2042
+01:09:57,800 --> 01:09:59,880
+sem ver de onde é que está vindo o tremor
+
+2043
+01:09:59,880 --> 01:10:00,720
+princesa
+
+2044
+01:10:00,720 --> 01:10:02,440
+o que é que a gente tem que abater?
+
+2045
+01:10:02,440 --> 01:10:03,780
+eu não sei
+
+2046
+01:10:03,780 --> 01:10:05,980
+eu estou competindo de igual para igual aqui
+
+2047
+01:10:05,980 --> 01:10:07,520
+você... algo muito grande está correndo aqui
+
+2048
+01:10:07,520 --> 01:10:09,520
+está correndo na direção de vocês
+
+2049
+01:10:09,520 --> 01:10:11,520
+gigante, talvez?
+
+2050
+01:10:11,520 --> 01:10:14,520
+eu começo a bater minhas asas para
+
+2051
+01:10:14,520 --> 01:10:18,520
+ficar no ar e ter uma visão do que está vindo
+
+2052
+01:10:18,520 --> 01:10:23,520
+a pele do que está vindo é coberta por escamas ásperas e pontiagudas
+
+2053
+01:10:23,520 --> 01:10:26,520
+misturadas com penas brancas e douradas
+
+2054
+01:10:26,520 --> 01:10:30,520
+que formam uma crista imensa no topo de sua cabeça
+
+2055
+01:10:30,520 --> 01:10:32,520
+e se estendem pela espinha
+
+2056
+01:10:32,520 --> 01:10:34,520
+seus olhos são penetrantes e amarelos
+
+2057
+01:10:34,520 --> 01:10:36,520
+com pupilas afiadas de um réptil
+
+2058
+01:10:37,520 --> 01:10:40,520
+em vez de garras de lagarto
+
+2059
+01:10:40,520 --> 01:10:42,520
+ele possui pés de galinha enorme
+
+2060
+01:10:42,520 --> 01:10:45,520
+cada passo causando tremores no chão
+
+2061
+01:10:45,520 --> 01:10:48,520
+um bico massivo cheio de dentes afiados
+
+2062
+01:10:48,520 --> 01:10:51,520
+é capaz de emitir um cacarejo ensurdecedor
+
+2063
+01:10:53,520 --> 01:10:56,520
+que ressoa como um rugido de destruição
+
+2064
+01:10:56,520 --> 01:11:02,520
+as asas desproporcionais têm a força para levantar o monstro em poucos voos devastadores
+
+2065
+01:11:02,520 --> 01:11:06,520
+enquanto sua cauda longa e escamosa se move com a potência esmagadora
+
+2066
+01:11:06,520 --> 01:11:08,520
+é uma galinha zila
+
+2067
+01:11:08,520 --> 01:11:10,520
+até agora só quem viu isso foi o Chave, né?
+
+2068
+01:11:10,520 --> 01:11:14,520
+é, e vocês estão vendo casas sendo destruídas enquanto algo grande corre na direção de vocês
+
+2069
+01:11:14,520 --> 01:11:16,520
+é uma galinha zila
+
+2070
+01:11:16,520 --> 01:11:19,520
+assim, tem um bicho de uns 15 metros de altura
+
+2071
+01:11:19,520 --> 01:11:21,520
+correndo na direção de vocês
+
+2072
+01:11:21,520 --> 01:11:23,520
+algumas toneladas, se ele peça
+
+2073
+01:11:23,520 --> 01:11:25,520
+quer dizer, tirando o Chave que está voando
+
+2074
+01:11:25,520 --> 01:11:27,520
+vocês vão ser atropelados
+
+2075
+01:11:27,520 --> 01:11:29,520
+eu quero a ação de cada um
+
+2076
+01:11:29,520 --> 01:11:33,520
+eu corro por uma das laterais para sair da frente do bicho
+
+2077
+01:11:33,520 --> 01:11:35,520
+eu uso as minhas asas para sair da frente
+
+2078
+01:11:36,520 --> 01:11:37,520
+beleza
+
+2079
+01:11:37,520 --> 01:11:38,520
+o Chave
+
+2080
+01:11:38,520 --> 01:11:40,520
+eu vou voar mais para cima
+
+2081
+01:11:40,520 --> 01:11:42,520
+para sair do alcance do bicho
+
+2082
+01:11:42,520 --> 01:11:44,520
+o bicho voa assim
+
+2083
+01:11:44,520 --> 01:11:49,520
+ele dá aquele pequeno pulinho, aquele pequeno voo para ficar cada vez mais rápido
+
+2084
+01:11:49,520 --> 01:11:52,520
+mas não alcança os dois voadores ali
+
+2085
+01:11:52,520 --> 01:11:54,520
+Lupita, dois dados
+
+2086
+01:11:54,520 --> 01:11:56,520
+4 e 1
+
+2087
+01:11:56,520 --> 01:12:00,520
+um acerto simples, tu consegue rolar para o lado e sair da frente da criatura
+
+2088
+01:12:00,520 --> 01:12:04,520
+a princesa, as mãos dela começam a brilhar muito intensamente
+
+2089
+01:12:04,520 --> 01:12:05,520
+produzindo muito calor
+
+2090
+01:12:05,520 --> 01:12:08,520
+e ela dá um soco na criatura
+
+2091
+01:12:08,520 --> 01:12:11,520
+mas ela é lançada contra uma construção
+
+2092
+01:12:11,520 --> 01:12:13,520
+que desaba sobre ela
+
+2093
+01:12:13,520 --> 01:12:15,520
+a princesa está fora de combate por enquanto
+
+2094
+01:12:15,520 --> 01:12:16,520
+Chave, ação
+
+2095
+01:12:16,520 --> 01:12:19,520
+eu vou tentar passar na frente
+
+2096
+01:12:19,520 --> 01:12:24,520
+voar bem rápido na frente dos olhos dessa galinha zila
+
+2097
+01:12:24,520 --> 01:12:26,520
+para tentar deixar ela tonta
+
+2098
+01:12:26,520 --> 01:12:28,520
+dois dados, tu atributou mais
+
+2099
+01:12:28,520 --> 01:12:31,520
+tu está tentando criar uma distração
+
+2100
+01:12:31,520 --> 01:12:33,520
+eu tirei 4 e 3
+
+2101
+01:12:33,520 --> 01:12:34,520
+dois acertos
+
+2102
+01:12:34,520 --> 01:12:38,520
+o olho da galinha zila ele não é para frente
+
+2103
+01:12:38,520 --> 01:12:40,520
+ele é meio para cada lado ali
+
+2104
+01:12:40,520 --> 01:12:42,520
+como de uma galinha mesmo
+
+2105
+01:12:42,520 --> 01:12:45,520
+então ela começa a girar a minha cabeça
+
+2106
+01:12:45,520 --> 01:12:47,520
+e começa a ficar meio tonta ali
+
+2107
+01:12:47,520 --> 01:12:49,520
+Lupita ou Mixa são
+
+2108
+01:12:49,520 --> 01:12:50,520
+vão ter um bônus
+
+2109
+01:12:50,520 --> 01:12:53,520
+cada uma de vocês vai ter um dado a mais para o que for fazer
+
+2110
+01:12:53,520 --> 01:12:56,520
+que é um dado para cada acerto que o Chave trouxe
+
+2111
+01:12:56,520 --> 01:12:59,520
+como a gente está no vilarejo, provavelmente tem um poço aí, não tem?
+
+2112
+01:12:59,520 --> 01:13:00,520
+tem um poço, sim
+
+2113
+01:13:00,520 --> 01:13:02,520
+esse poço ainda possui um balde com corda?
+
+2114
+01:13:02,520 --> 01:13:04,520
+tem, tem, tem um balde com corda
+
+2115
+01:13:04,520 --> 01:13:07,520
+tá, a Lupita corre, pega essa corda
+
+2116
+01:13:07,520 --> 01:13:12,520
+e tenta lançar para enrolar no pescoço da galinha zila
+
+2117
+01:13:12,520 --> 01:13:15,520
+ok, três dados, tu atributa ou menos
+
+2118
+01:13:15,520 --> 01:13:18,520
+e com certeza eu errei com 5, 5, 5
+
+2119
+01:13:18,520 --> 01:13:19,520
+beleza
+
+2120
+01:13:19,520 --> 01:13:21,520
+a corda já estava meio velha, né
+
+2121
+01:13:21,520 --> 01:13:24,520
+então tu até consegue enrolar no pescoço
+
+2122
+01:13:24,520 --> 01:13:26,520
+mas ela simplesmente arrebenta
+
+2123
+01:13:26,520 --> 01:13:29,520
+e tu fica ali muito próxima da galinha zila
+
+2124
+01:13:29,520 --> 01:13:30,520
+ação Mixa
+
+2125
+01:13:30,520 --> 01:13:32,520
+ela viu que a Lupita tentou...
+
+2126
+01:13:32,520 --> 01:13:34,520
+atacar o pescoço, então ela quer
+
+2127
+01:13:34,520 --> 01:13:36,520
+destransformar as asas
+
+2128
+01:13:36,520 --> 01:13:38,520
+para conseguir cair em cima da galinha
+
+2129
+01:13:38,520 --> 01:13:40,520
+e aí ela transforma as garras
+
+2130
+01:13:40,520 --> 01:13:43,520
+para tentar, tipo, machucar, assim
+
+2131
+01:13:43,520 --> 01:13:46,520
+cair machucando a galinha perto do pescoço
+
+2132
+01:13:46,520 --> 01:13:48,520
+três dados
+
+2133
+01:13:48,520 --> 01:13:51,520
+eu tirei 5, 4 e 3
+
+2134
+01:13:51,520 --> 01:13:53,520
+um acerto simples, um acerto crítico
+
+2135
+01:13:53,520 --> 01:13:56,520
+a galinha grita
+
+2136
+01:13:56,520 --> 01:13:58,520
+de dor ali
+
+2137
+01:13:58,520 --> 01:14:00,520
+fica cravada nas costas dela
+
+2138
+01:14:00,520 --> 01:14:02,520
+e ela começa a debater as coisas
+
+2139
+01:14:02,520 --> 01:14:04,520
+as asas de um lado para o outro
+
+2140
+01:14:04,520 --> 01:14:06,520
+Lupita, dois dados
+
+2141
+01:14:06,520 --> 01:14:08,520
+5 e 4
+
+2142
+01:14:08,520 --> 01:14:11,520
+a galinha cai com o bico assim para cima de ti
+
+2143
+01:14:11,520 --> 01:14:13,520
+tu consegue rolar meio para o lado
+
+2144
+01:14:13,520 --> 01:14:15,520
+mas esse bico te acerta de raspão
+
+2145
+01:14:15,520 --> 01:14:18,520
+abrindo um bom buraco no chão ali
+
+2146
+01:14:18,520 --> 01:14:20,520
+e machucando bastante, assim
+
+2147
+01:14:20,520 --> 01:14:22,520
+a lateral do teu corpo
+
+2148
+01:14:22,520 --> 01:14:23,520
+tu tá ferida
+
+2149
+01:14:23,520 --> 01:14:24,520
+chave, ação
+
+2150
+01:14:24,520 --> 01:14:27,520
+então eu vou fazer uma loucura
+
+2151
+01:14:27,520 --> 01:14:31,520
+eu vou pousar em cima da cabeça da galinha
+
+2152
+01:14:31,520 --> 01:14:33,520
+e tampar os olhos dela
+
+2153
+01:14:33,520 --> 01:14:35,520
+dois dados, o teu atributo é o mais
+
+2154
+01:14:35,520 --> 01:14:37,520
+eu tirei 6 e 1
+
+2155
+01:14:37,520 --> 01:14:39,520
+tá, um dado a mais pra Lupita ou pra Mix?
+
+2156
+01:14:39,520 --> 01:14:41,520
+eu vou dar pra Mix
+
+2157
+01:14:41,520 --> 01:14:43,520
+Mix, tu tá grudado nas costas ali
+
+2158
+01:14:43,520 --> 01:14:46,520
+a galinha Zilla ganhou uma máscara agora
+
+2159
+01:14:46,520 --> 01:14:48,520
+no dia de dormir
+
+2160
+01:14:48,520 --> 01:14:50,520
+tá o teu colega tapando os olhos dela
+
+2161
+01:14:50,520 --> 01:14:52,520
+isso tá deixando ela muito, muito irritada
+
+2162
+01:14:52,520 --> 01:14:54,520
+ela tá se debatendo bastante
+
+2163
+01:14:54,520 --> 01:14:57,520
+tu viu que ela machucou a tua amiga, né?
+
+2164
+01:14:57,520 --> 01:14:58,520
+o que que tu vai fazer?
+
+2165
+01:14:58,520 --> 01:15:00,520
+tá, como eu vi que ela de pé
+
+2166
+01:15:00,520 --> 01:15:02,520
+ela vai derrubando tudo
+
+2167
+01:15:02,520 --> 01:15:04,520
+eu quero tentar derrubar ela no chão
+
+2168
+01:15:04,520 --> 01:15:07,520
+pra ela... fazer ela parar de se debater
+
+2169
+01:15:07,520 --> 01:15:09,520
+três dados, o teu atributo ao menos
+
+2170
+01:15:10,520 --> 01:15:13,520
+eu tirei 6, 6 e 5
+
+2171
+01:15:13,520 --> 01:15:14,520
+três erros
+
+2172
+01:15:14,520 --> 01:15:18,520
+a galinha, ela dá uma jogada assim com as costas pra cima
+
+2173
+01:15:18,520 --> 01:15:21,520
+quando tu tentou te desvincilhar pra derrubar ela
+
+2174
+01:15:21,520 --> 01:15:23,520
+isso te joga no chão ali
+
+2175
+01:15:23,520 --> 01:15:25,520
+tu tá ali do lado da Lupita
+
+2176
+01:15:25,520 --> 01:15:26,520
+Lupita, ação
+
+2177
+01:15:26,520 --> 01:15:29,520
+a galinha tá ali do lado, meio caída, né?
+
+2178
+01:15:29,520 --> 01:15:30,520
+não, ela não caiu
+
+2179
+01:15:30,520 --> 01:15:31,520
+ela tá em pé
+
+2180
+01:15:31,520 --> 01:15:32,520
+a tua amiga falhou
+
+2181
+01:15:32,520 --> 01:15:33,520
+a tua amiga queria cair ela
+
+2182
+01:15:33,520 --> 01:15:34,520
+mas não funcionou
+
+2183
+01:15:34,520 --> 01:15:35,520
+meio dolorida
+
+2184
+01:15:35,520 --> 01:15:38,520
+olho pra Mix caída então do meu lado
+
+2185
+01:15:38,520 --> 01:15:43,520
+e respiro fundo com aquela dor do corte
+
+2186
+01:15:43,520 --> 01:15:46,520
+tento pular no pescoço da galinha
+
+2187
+01:15:46,520 --> 01:15:48,520
+e dar uma boa mordida
+
+2188
+01:15:48,520 --> 01:15:49,520
+um dado
+
+2189
+01:15:49,520 --> 01:15:50,520
+peixe ferido
+
+2190
+01:15:50,520 --> 01:15:51,520
+seis
+
+2191
+01:15:51,520 --> 01:15:53,520
+seis, que é uma falha
+
+2192
+01:15:53,520 --> 01:15:55,520
+uma falha muito ruim
+
+2193
+01:15:55,520 --> 01:15:58,520
+tu pula no pescoço da galinha
+
+2194
+01:15:58,520 --> 01:16:03,520
+abre bem a boca mostrando aqueles dentes extremamente pontiagudos
+
+2195
+01:16:03,520 --> 01:16:07,520
+quando as nuvens se afastam mostrando uma lua cheia
+
+2196
+01:16:07,520 --> 01:16:12,520
+e você se torna uma humana tentando morder o pescoço da criatura
+
+2197
+01:16:12,520 --> 01:16:13,520
+maldita hora
+
+2198
+01:16:13,520 --> 01:16:16,520
+a galinha, ela não tá enxergando nada, né?
+
+2199
+01:16:16,520 --> 01:16:19,520
+ela levanta a pata assim, a galinhazinha
+
+2200
+01:16:19,520 --> 01:16:24,520
+e tenta bater assim contra o próprio olho pra tirar o que quer que esteja ali
+
+2201
+01:16:24,520 --> 01:16:27,520
+dois dados, Xavi, teu atributo ou menos
+
+2202
+01:16:28,520 --> 01:16:31,520
+tirei cinco e seis
+
+2203
+01:16:31,520 --> 01:16:35,520
+tu sente aquela garra da galinha gigante, da galinhazila
+
+2204
+01:16:35,520 --> 01:16:37,520
+te arranhando assim com força
+
+2205
+01:16:37,520 --> 01:16:41,520
+te arrancando e te jogando no chão daquela altura
+
+2206
+01:16:41,520 --> 01:16:43,520
+tu te machuca ali também
+
+2207
+01:16:43,520 --> 01:16:47,520
+se tu tivesse ossos normais assim
+
+2208
+01:16:47,520 --> 01:16:50,520
+que não ficassem se alterando de local
+
+2209
+01:16:50,520 --> 01:16:52,520
+talvez tu tivesse te machucado muito nisso
+
+2210
+01:16:52,520 --> 01:16:55,520
+mas tu te machucou um pouco, de qualquer forma
+
+2211
+01:16:55,520 --> 01:16:56,520
+e é você
+
+2212
+01:16:56,520 --> 01:16:57,520
+a situação é a seguinte
+
+2213
+01:16:57,520 --> 01:17:00,520
+a galinhazila tá sangrando bastante pelas costas
+
+2214
+01:17:00,520 --> 01:17:04,520
+parece que vocês conseguiram ferir ela, assim, uns cinquenta por cento, ou seja
+
+2215
+01:17:04,520 --> 01:17:07,520
+tu tem a tua amiglupita na forma humana
+
+2216
+01:17:07,520 --> 01:17:10,520
+tentando morder o pescoço daquela criatura que é muito dura
+
+2217
+01:17:10,520 --> 01:17:14,520
+e tu tem a amigx caída ali no chão também
+
+2218
+01:17:14,520 --> 01:17:19,520
+eu vou fazer o que eu imagino que um adolescente
+
+2219
+01:17:19,520 --> 01:17:23,520
+que gosta de pegadinhas e coisas assim
+
+2220
+01:17:23,520 --> 01:17:25,520
+ia fazer numa situação dessa
+
+2221
+01:17:25,520 --> 01:17:29,520
+eu vou tentar fazer cócegas no pé da galinha
+
+2222
+01:17:32,520 --> 01:17:34,520
+eu tirei seis e três
+
+2223
+01:17:34,520 --> 01:17:35,520
+dois acertos
+
+2224
+01:17:35,520 --> 01:17:37,520
+o mais bizarro que isso possa acontecer
+
+2225
+01:17:37,520 --> 01:17:40,520
+a galinha acha aquilo esquisito e tá distraída ali
+
+2226
+01:17:40,520 --> 01:17:44,520
+tentando balançar o pé pra te tirar
+
+2227
+01:17:44,520 --> 01:17:47,520
+isso dá um dado pra cada uma das tuas amigas
+
+2228
+01:17:47,520 --> 01:17:50,520
+a amigx, apesar de ter sido jogada no chão
+
+2229
+01:17:50,520 --> 01:17:52,520
+ela não tá ferida a ponto de perder um dado
+
+2230
+01:17:52,520 --> 01:17:54,520
+então ela vai rolar três pro que ela for fazer
+
+2231
+01:17:54,520 --> 01:17:56,520
+e a lupita, que tá ferida, vai rolar dois
+
+2232
+01:17:56,520 --> 01:17:58,520
+porque ela tá rolando um dado só
+
+2233
+01:17:58,520 --> 01:18:00,520
+mais um, com a ajuda do Xavi
+
+2234
+01:18:00,520 --> 01:18:02,520
+ação lupita
+
+2235
+01:18:02,520 --> 01:18:04,520
+tu tá no pescoço do bicho, na forma humana
+
+2236
+01:18:04,520 --> 01:18:06,520
+na forma humana
+
+2237
+01:18:06,520 --> 01:18:08,520
+começa a puxar as pernas da galinha
+
+2238
+01:18:08,520 --> 01:18:09,520
+ok, dois dados
+
+2239
+01:18:09,520 --> 01:18:11,520
+dois e um
+
+2240
+01:18:11,520 --> 01:18:13,520
+são dois acertos, né
+
+2241
+01:18:13,520 --> 01:18:17,520
+tu começa a puxar ali, algumas pernas são bem duras
+
+2242
+01:18:17,520 --> 01:18:20,520
+e bem profundas, sai até um filetezinho de sangue ali
+
+2243
+01:18:20,520 --> 01:18:23,520
+a galinha, ela se incomoda, tem um coçando a perna
+
+2244
+01:18:23,520 --> 01:18:26,520
+a outra perna dela acaba dobrando
+
+2245
+01:18:26,520 --> 01:18:28,520
+ela cai meio de mau jeito ali
+
+2246
+01:18:28,520 --> 01:18:30,520
+ela se feriu neste processo
+
+2247
+01:18:30,520 --> 01:18:32,520
+amigx, o que tu vai fazer?
+
+2248
+01:18:32,520 --> 01:18:34,520
+vê que a galinha tá meio cambaleante
+
+2249
+01:18:34,520 --> 01:18:38,520
+se antes ela parecia um ser colossal, indestrutível
+
+2250
+01:18:38,520 --> 01:18:40,520
+tu olha pra ela e sente que falta pouco
+
+2251
+01:18:40,520 --> 01:18:47,520
+tá, a amigx, ela transforma os dentes dela em presas
+
+2252
+01:18:47,520 --> 01:18:53,520
+e ela sai correndo pra tentar morder na perna
+
+2253
+01:18:53,520 --> 01:18:57,520
+da galinha pra tentar derrubar ela ali
+
+2254
+01:18:57,520 --> 01:18:58,520
+três dados
+
+2255
+01:18:58,520 --> 01:19:00,520
+você deu um acerto, vamos lá
+
+2256
+01:19:00,520 --> 01:19:04,520
+eu tirei seis, três e dois
+
+2257
+01:19:04,520 --> 01:19:07,520
+a criatura tinha seis incríveis pontos de vida
+
+2258
+01:19:07,520 --> 01:19:11,520
+e agora a última machucada foi feita ali
+
+2259
+01:19:11,520 --> 01:19:15,520
+tu machuca a galinhazinha que cai ali
+
+2260
+01:19:15,520 --> 01:19:17,520
+com um popó de dor
+
+2261
+01:19:17,520 --> 01:19:21,520
+vocês três caem meio cansados no chão
+
+2262
+01:19:21,520 --> 01:19:24,520
+especialmente chave e mix
+
+2263
+01:19:24,520 --> 01:19:26,520
+a galinhazilla por um último momento
+
+2264
+01:19:26,520 --> 01:19:28,520
+ela levanta a cabeça assim
+
+2265
+01:19:28,520 --> 01:19:32,520
+a bochecha dela começa a brilhar assim em azul
+
+2266
+01:19:32,520 --> 01:19:37,520
+ela abre a boca pra cuspir uma espécie de raio azulado
+
+2267
+01:19:37,520 --> 01:19:38,520
+na direção de vocês
+
+2268
+01:19:38,520 --> 01:19:43,520
+mas um raio vermelho acerta a cabeça da galinha antes
+
+2269
+01:19:43,520 --> 01:19:45,520
+e uma muito machucada princesa
+
+2270
+01:19:45,520 --> 01:19:49,520
+aparece ali do lado de vocês e fala
+
+2271
+01:19:49,520 --> 01:19:50,520
+pelo menos eu ajudei
+
+2272
+01:19:50,520 --> 01:19:52,520
+eu só olho pra ela
+
+2273
+01:19:52,520 --> 01:19:55,520
+a lupita fala pelo menos mais do que eu
+
+2274
+01:19:55,520 --> 01:19:57,520
+se escondendo atrás das pernas da galinha
+
+2275
+01:19:57,520 --> 01:19:58,520
+já que ela tá na forma humana
+
+2276
+01:19:58,520 --> 01:19:59,520
+ela volta a olhar pra ti
+
+2277
+01:19:59,520 --> 01:20:01,520
+você podia ter me respondido, né?
+
+2278
+01:20:01,520 --> 01:20:02,520
+desculpa
+
+2279
+01:20:02,520 --> 01:20:04,520
+sabe o que ela perguntou?
+
+2280
+01:20:04,520 --> 01:20:05,520
+assim, só pra...
+
+2281
+01:20:05,520 --> 01:20:06,520
+enough
+
+2282
+01:20:06,520 --> 01:20:10,520
+a lupita tá pensando que é na hora que ela falou com ela
+
+2283
+01:20:10,520 --> 01:20:11,520
+e ela ficou gaguejando
+
+2284
+01:20:11,520 --> 01:20:12,520
+ah, tá
+
+2285
+01:20:12,520 --> 01:20:14,520
+mas a jogadora desconfia o que que seja
+
+2286
+01:20:14,520 --> 01:20:16,520
+sem muito tempo pra conversar
+
+2287
+01:20:16,520 --> 01:20:18,520
+vocês voltam pra aquele grande salão
+
+2288
+01:20:18,520 --> 01:20:19,520
+cada um...
+
+2289
+01:20:19,520 --> 01:20:22,520
+cada um recuperado de seus ferimentos
+
+2290
+01:20:22,520 --> 01:20:26,520
+no centro dele tá a galinha zila caída
+
+2291
+01:20:26,520 --> 01:20:28,520
+o Gordon fala
+
+2292
+01:20:28,520 --> 01:20:30,520
+bem vindos de volta
+
+2293
+01:20:30,520 --> 01:20:32,520
+dividam agora a caça de vocês
+
+2294
+01:20:32,520 --> 01:20:36,520
+e preparem um prato especial para finalizarmos esse programa
+
+2295
+01:20:36,520 --> 01:20:38,520
+o que que vocês querem então?
+
+2296
+01:20:38,520 --> 01:20:39,520
+eu quero os pés da galinha
+
+2297
+01:20:39,520 --> 01:20:41,520
+eu posso ficar com as asas
+
+2298
+01:20:41,520 --> 01:20:43,520
+vossa majestade
+
+2299
+01:20:43,520 --> 01:20:45,520
+eu fui a que menos contribui mesmo
+
+2300
+01:20:45,520 --> 01:20:47,520
+o peito é bem grande, podemos dividir em dois
+
+2301
+01:20:47,520 --> 01:20:48,520
+acho que eu vou fazer o coração
+
+2302
+01:20:48,520 --> 01:20:51,520
+ela olha assim pra ti
+
+2303
+01:20:51,520 --> 01:20:52,520
+é uma boa
+
+2304
+01:20:52,520 --> 01:20:55,520
+vocês preparam os pratos de vocês
+
+2305
+01:20:55,520 --> 01:20:57,520
+os pratos são servidos ali
+
+2306
+01:20:57,520 --> 01:21:00,520
+o Gordon se aproxima, ele dá aquela cheirada
+
+2307
+01:21:00,520 --> 01:21:02,520
+dá aquela olhada assim pro que vocês fizeram
+
+2308
+01:21:02,520 --> 01:21:04,520
+Xavi, você está confiante?
+
+2309
+01:21:04,520 --> 01:21:06,520
+eu fiz o meu melhor
+
+2310
+01:21:06,520 --> 01:21:07,520
+parece que sim
+
+2311
+01:21:07,520 --> 01:21:08,520
+ele dá um passo pro lado
+
+2312
+01:21:08,520 --> 01:21:10,520
+lupita, você está confiante?
+
+2313
+01:21:10,520 --> 01:21:12,520
+coração de galinha é sempre uma boa
+
+2314
+01:21:12,520 --> 01:21:13,520
+ah, eu adoro
+
+2315
+01:21:13,520 --> 01:21:15,520
+vai pra mix
+
+2316
+01:21:15,520 --> 01:21:17,520
+você acha que fez o seu melhor?
+
+2317
+01:21:17,520 --> 01:21:20,520
+sim, eu... eu fiz tudo o que eu podia
+
+2318
+01:21:20,520 --> 01:21:22,520
+você foi uma das melhores em sua rodada
+
+2319
+01:21:22,520 --> 01:21:24,520
+e é melhor na semifinal
+
+2320
+01:21:24,520 --> 01:21:26,520
+as expectativas com você estão bem altas
+
+2321
+01:21:26,520 --> 01:21:29,520
+ela fica meio ruborizada assim, dá um passinho pra trás
+
+2322
+01:21:29,520 --> 01:21:32,520
+princesa, foi pelo seguro, né?
+
+2323
+01:21:32,520 --> 01:21:34,520
+e o peito?
+
+2324
+01:21:34,520 --> 01:21:36,520
+eu honestamente acho que você devia ter se arriscado mais
+
+2325
+01:21:36,520 --> 01:21:38,520
+eu já me arrisquei bastante por hoje
+
+2326
+01:21:38,520 --> 01:21:40,520
+ela dá uma encarada pra lupita
+
+2327
+01:21:40,520 --> 01:21:42,520
+a lupita fica vermelha
+
+2328
+01:21:42,520 --> 01:21:44,520
+além da premiação e dinheiro
+
+2329
+01:21:44,520 --> 01:21:46,520
+o Gordon fala enquanto se aproxima do trono
+
+2330
+01:21:46,520 --> 01:21:50,520
+quem vencer ganhará o título de duque ou duquesa
+
+2331
+01:21:50,520 --> 01:21:52,520
+e poderá frequentar o castelo real
+
+2332
+01:21:52,520 --> 01:21:55,520
+um dos motivos de nosso querido rei pedir para a criação desse programa
+
+2333
+01:21:55,520 --> 01:21:58,520
+é que em breve haverá uma nova eleição de família real
+
+2334
+01:21:58,520 --> 01:22:01,520
+e ele não estará disposto a tentar a reeleição
+
+2335
+01:22:01,520 --> 01:22:04,520
+mas ele precisa que seus filhos conheçam pessoas diferentes
+
+2336
+01:22:04,520 --> 01:22:09,520
+então, a ideia de ter adolescentes aqui veio da própria princesa
+
+2337
+01:22:09,520 --> 01:22:11,520
+eu estou só olhando pra lupita
+
+2338
+01:22:11,520 --> 01:22:16,520
+eu olho pra princesa assim, meio corada ainda
+
+2339
+01:22:16,520 --> 01:22:18,520
+olho pros dois
+
+2340
+01:22:18,520 --> 01:22:20,520
+é, mas vocês também estão aqui
+
+2341
+01:22:20,520 --> 01:22:22,520
+então é todo mundo
+
+2342
+01:22:22,520 --> 01:22:23,520
+mas chegou a hora
+
+2343
+01:22:23,520 --> 01:22:25,520
+Xavi, o que você preparou?
+
+2344
+01:22:25,520 --> 01:22:28,520
+eu preparei pés de galinha com um molho especial
+
+2345
+01:22:28,520 --> 01:22:32,520
+de penas e vísceras
+
+2346
+01:22:32,520 --> 01:22:34,520
+ok, vamos provar
+
+2347
+01:22:34,520 --> 01:22:36,520
+ele pega a colher dele
+
+2348
+01:22:36,520 --> 01:22:38,520
+o rei também tá ali do lado provando
+
+2349
+01:22:38,520 --> 01:22:41,520
+é um ingrediente muito especial
+
+2350
+01:22:41,520 --> 01:22:43,520
+então, três dados
+
+2351
+01:22:43,520 --> 01:22:46,520
+eu tirei cinco, quatro e dois
+
+2352
+01:22:46,520 --> 01:22:48,520
+cinco é um acerto
+
+2353
+01:22:48,520 --> 01:22:49,520
+quatro é um acerto
+
+2354
+01:22:49,520 --> 01:22:51,520
+dois são dois acertos
+
+2355
+01:22:51,520 --> 01:22:54,520
+então vamos colocar aqui uma nota quatro pra você
+
+2356
+01:22:54,520 --> 01:22:55,520
+pra este prato
+
+2357
+01:22:55,520 --> 01:22:57,520
+eles não falam nada, obviamente
+
+2358
+01:22:57,520 --> 01:22:59,520
+eles dão um passo pro lado
+
+2359
+01:22:59,520 --> 01:23:01,520
+senhorita lupita
+
+2360
+01:23:01,520 --> 01:23:02,520
+o que você fez para nós hoje?
+
+2361
+01:23:02,520 --> 01:23:04,520
+um pouco no clássico
+
+2362
+01:23:04,520 --> 01:23:07,520
+um coração de galinha assado
+
+2363
+01:23:07,520 --> 01:23:12,520
+e uma farofa com rins
+
+2364
+01:23:12,520 --> 01:23:13,520
+vamos provar
+
+2365
+01:23:13,520 --> 01:23:14,520
+o rei prova, o rei prova
+
+2366
+01:23:14,520 --> 01:23:15,520
+três dados
+
+2367
+01:23:16,520 --> 01:23:19,520
+cinco, quatro e dois
+
+2368
+01:23:19,520 --> 01:23:20,520
+dois acertos
+
+2369
+01:23:20,520 --> 01:23:22,520
+então uma nota dois
+
+2370
+01:23:22,520 --> 01:23:25,520
+Mix, o que a senhorita preparou para a gente?
+
+2371
+01:23:25,520 --> 01:23:33,520
+eu fiz asinha frita com acompanhamento de batatas com pesto de jambu
+
+2372
+01:23:33,520 --> 01:23:34,520
+parece muito bom
+
+2373
+01:23:34,520 --> 01:23:35,520
+três dados
+
+2374
+01:23:35,520 --> 01:23:37,520
+surgiu um jambu no mundo dos monstros
+
+2375
+01:23:39,520 --> 01:23:42,520
+eu tirei quatro, três e dois
+
+2376
+01:23:42,520 --> 01:23:44,520
+um acerto crítico, dá dois pontos
+
+2377
+01:23:44,520 --> 01:23:46,520
+os dois vão até o prato da princesa
+
+2378
+01:23:46,520 --> 01:23:47,520
+e o rei fala
+
+2379
+01:23:47,520 --> 01:23:48,520
+que bom, temos uma campeã
+
+2380
+01:23:48,520 --> 01:23:53,520
+o senhor tem que primeiro provar o prato
+
+2381
+01:23:53,520 --> 01:23:56,520
+o rei então fica vermelho, mais vermelho do que ele já é
+
+2382
+01:23:56,520 --> 01:23:58,520
+é claro, eu estava brincando
+
+2383
+01:23:58,520 --> 01:24:00,520
+e ele prova o prato
+
+2384
+01:24:00,520 --> 01:24:02,520
+o Gordon prova também
+
+2385
+01:24:02,520 --> 01:24:06,520
+o Gordon e o rei saem, começam a conversar
+
+2386
+01:24:06,520 --> 01:24:07,520
+eles estão discutindo alguma coisa
+
+2387
+01:24:07,520 --> 01:24:12,520
+e ficam vocês três ali esperando enquanto eles estão chegando a alguma conclusão
+
+2388
+01:24:12,520 --> 01:24:14,520
+a princesa olha pra Lucifer e diz
+
+2389
+01:24:14,520 --> 01:24:16,520
+por que você não me respondeu a carta?
+
+2390
+01:24:16,520 --> 01:24:17,520
+que carta?
+
+2391
+01:24:17,520 --> 01:24:19,520
+que eu deixei na mesa do clube
+
+2392
+01:24:19,520 --> 01:24:24,520
+não tinha carta nenhuma, só tinha uma mancha de fogo
+
+2393
+01:24:24,520 --> 01:24:26,520
+eu estava muito tímida
+
+2394
+01:24:26,520 --> 01:24:30,520
+devo ter me descontrolado, deixado bagunçado
+
+2395
+01:24:30,520 --> 01:24:33,520
+então você não deu a carta?
+
+2396
+01:24:33,520 --> 01:24:34,520
+não
+
+2397
+01:24:34,520 --> 01:24:36,520
+você deixou uma carta pra mim?
+
+2398
+01:24:36,520 --> 01:24:43,520
+eu estava torcendo por você
+
+2399
+01:24:43,520 --> 01:24:44,520
+sim
+
+2400
+01:24:44,520 --> 01:24:46,520
+a Lupita não consegue falar
+
+2401
+01:24:46,520 --> 01:24:48,520
+ela fica meio assim, sem jeito
+
+2402
+01:24:48,520 --> 01:24:53,520
+ela olha pro Xavi e pra Mix meio que procurando apoio dos dois
+
+2403
+01:24:53,520 --> 01:24:56,520
+eu só faço aquele sim insistente com a cabeça, tipo, vai, vai
+
+2404
+01:24:56,520 --> 01:24:58,520
+a Mix também
+
+2405
+01:24:58,520 --> 01:25:00,520
+e aí aquela mãozinha assim, tipo, de vai e sai
+
+2406
+01:25:00,520 --> 01:25:02,520
+o Gordon interrompe vocês
+
+2407
+01:25:02,520 --> 01:25:04,520
+chegamos a uma decisão
+
+2408
+01:25:04,520 --> 01:25:08,520
+embora o rei não concorde muito, o especialista aqui sou eu
+
+2409
+01:25:08,520 --> 01:25:12,520
+e o melhor prato, sem dúvida nenhuma, é o de Xavi!
+
+2410
+01:25:13,520 --> 01:25:20,520
+eu imediatamente me transformo no Gordon Ramsés
+
+2411
+01:25:20,520 --> 01:25:24,520
+e começo a fazer aquele gesto de vitória, sabe?
+
+2412
+01:25:24,520 --> 01:25:26,520
+colocando as duas mãos pro lado
+
+2413
+01:25:26,520 --> 01:25:29,520
+como se eu estivesse segurando um troféu
+
+2414
+01:25:29,520 --> 01:25:32,520
+o pessoal começa a comemorar ali
+
+2415
+01:25:32,520 --> 01:25:34,520
+o Gordon pede um pouco de silêncio
+
+2416
+01:25:34,520 --> 01:25:36,520
+calma gente, calma!
+
+2417
+01:25:36,520 --> 01:25:37,520
+temos o prêmio em dinheiro
+
+2418
+01:25:37,520 --> 01:25:40,520
+e o senhor agora é um monstro muito, muito rico, Xavi
+
+2419
+01:25:40,520 --> 01:25:42,520
+mas é pedido da família real
+
+2420
+01:25:42,520 --> 01:25:44,520
+os três possuem o título de nobreza
+
+2421
+01:25:44,520 --> 01:25:47,520
+e estão convidados a frequentar o castelo
+
+2422
+01:25:47,520 --> 01:25:49,520
+eu olho assim e...
+
+2423
+01:25:49,520 --> 01:25:52,520
+eu posso ter vencido essa competição
+
+2424
+01:25:52,520 --> 01:25:54,520
+mas...
+
+2425
+01:25:54,520 --> 01:25:57,520
+eu acho que a verdadeira vencedora aqui
+
+2426
+01:25:57,520 --> 01:25:59,520
+e aí eu olho pra Lupita
+
+2427
+01:25:59,520 --> 01:26:00,520
+é a minha amiga ali
+
+2428
+01:26:00,520 --> 01:26:02,520
+a Lupita, como ela tá na forma humana, né?
+
+2429
+01:26:02,520 --> 01:26:06,520
+ela tá meio que se balançando assim
+
+2430
+01:26:06,520 --> 01:26:09,520
+tá com as mãozinhas na frente do corpo
+
+2431
+01:26:09,520 --> 01:26:11,520
+segurando as mãozinhas, se balançando
+
+2432
+01:26:11,520 --> 01:26:12,520
+tá animadinha
+
+2433
+01:26:12,520 --> 01:26:14,520
+a princesa para do teu lado e diz
+
+2434
+01:26:14,520 --> 01:26:16,520
+você é normalmente...
+
+2435
+01:26:16,520 --> 01:26:18,520
+mais peluda, né?
+
+2436
+01:26:18,520 --> 01:26:20,520
+é que é lua cheia
+
+2437
+01:26:20,520 --> 01:26:21,520
+isso acontece...
+
+2438
+01:26:21,520 --> 01:26:22,520
+daí acontece isso
+
+2439
+01:26:22,520 --> 01:26:24,520
+eu sei, eu sei, eu não tô bem
+
+2440
+01:26:24,520 --> 01:26:26,520
+eu não tô bonita
+
+2441
+01:26:26,520 --> 01:26:28,520
+meu pelo é tão lindo, mas...
+
+2442
+01:26:28,520 --> 01:26:30,520
+é, acontece
+
+2443
+01:26:30,520 --> 01:26:31,520
+desculpa
+
+2444
+01:26:31,520 --> 01:26:33,520
+você fica linda assim
+
+2445
+01:26:33,520 --> 01:26:35,520
+a Lupita fica meio sem jeito
+
+2446
+01:26:35,520 --> 01:26:37,520
+só pega assim na mãozinha da princesa
+
+2447
+01:26:37,520 --> 01:26:38,520
+obrigada
+
+2448
+01:26:38,520 --> 01:26:40,520
+vocês dois tão ali meio de mãozinha dada
+
+2449
+01:26:40,520 --> 01:26:44,520
+os outros competidores das rodadas anteriores chegam ali também
+
+2450
+01:26:44,520 --> 01:26:45,520
+tão me comemorando
+
+2451
+01:26:45,520 --> 01:26:48,520
+o pessoal da escola, a diretora
+
+2452
+01:26:48,520 --> 01:26:51,520
+tá uma festa grande ali no castelo
+
+2453
+01:26:51,520 --> 01:26:53,520
+com direito a frequentar o castelo
+
+2454
+01:26:53,520 --> 01:26:56,520
+e agora sendo uma criatura extremamente rica
+
+2455
+01:26:56,520 --> 01:26:59,520
+o que o futuro reserva quando você tá no último ano
+
+2456
+01:26:59,520 --> 01:27:01,520
+tá no último ano do ensino médio
+
+2457
+01:27:01,520 --> 01:27:03,520
+depois disso, o que você vai fazer da sua vida?
+
+2458
+01:27:03,520 --> 01:27:08,520
+eu pretendo continuar com o meu objetivo
+
+2459
+01:27:08,520 --> 01:27:12,520
+de evitar uma guerra nuclear
+
+2460
+01:27:12,520 --> 01:27:16,520
+me passando pelo general de algum exército
+
+2461
+01:27:16,520 --> 01:27:19,520
+então eu vou utilizar o meu dinheiro
+
+2462
+01:27:19,520 --> 01:27:24,520
+justamente pra ir pra lugares em que as pessoas estão fazendo guerra
+
+2463
+01:27:24,520 --> 01:27:26,520
+me infiltrar pra acabar com as guerras
+
+2464
+01:27:26,520 --> 01:27:29,520
+ao contrário do que minha família quer que eu faça
+
+2465
+01:27:29,520 --> 01:27:30,520
+a Mix?
+
+2466
+01:27:30,520 --> 01:27:33,520
+a Mix ela vai continuar nessa coisa da cozinha
+
+2467
+01:27:33,520 --> 01:27:37,520
+ela ficou bem feliz de ter conseguido participar da competição
+
+2468
+01:27:37,520 --> 01:27:39,520
+de ter ido bem
+
+2469
+01:27:39,520 --> 01:27:42,520
+e ela viu o quanto a comida e a conexão
+
+2470
+01:27:42,520 --> 01:27:45,520
+que as pessoas podem ter por conta disso
+
+2471
+01:27:45,520 --> 01:27:48,520
+e aí pensando na Lupita e na princesa
+
+2472
+01:27:48,520 --> 01:27:51,520
+então ela quer, depois de terminar a escola
+
+2473
+01:27:51,520 --> 01:27:53,520
+ela vai especializar nisso
+
+2474
+01:27:53,520 --> 01:27:56,520
+e ela quer abrir um restaurante no mundo dos monstros
+
+2475
+01:27:56,520 --> 01:28:00,520
+o próprio Gordon coloca até pra trabalhar pra você
+
+2476
+01:28:00,520 --> 01:28:02,520
+pra te ajudar nesse teu restaurante
+
+2477
+01:28:02,520 --> 01:28:06,520
+a sobrinha neta dele, que ela tem muito a aprender ainda
+
+2478
+01:28:06,520 --> 01:28:08,520
+ele ficou realmente impressionado com o prato
+
+2479
+01:28:08,520 --> 01:28:11,520
+que te fez na segunda rodada
+
+2480
+01:28:11,520 --> 01:28:14,520
+ele vai, se você quiser te ajudar alguma coisa ali
+
+2481
+01:28:14,520 --> 01:28:17,520
+a crescer como cozinheira
+
+2482
+01:28:17,520 --> 01:28:20,520
+ele viu muito potencial em você ali
+
+2483
+01:28:20,520 --> 01:28:21,520
+Lupita?
+
+2484
+01:28:21,520 --> 01:28:24,520
+a Lupita quando terminou
+
+2485
+01:28:24,520 --> 01:28:28,520
+ela foi estudar mais a parte de
+
+2486
+01:28:28,520 --> 01:28:30,520
+de confeitaria
+
+2487
+01:28:30,520 --> 01:28:32,520
+pra abrir a confeitaria dela
+
+2488
+01:28:32,520 --> 01:28:35,520
+sempre que tinha um tempinho livre
+
+2489
+01:28:35,520 --> 01:28:39,520
+ela passava pelo castelo pra encontrar com a princesa
+
+2490
+01:28:39,520 --> 01:28:41,520
+alguns anos depois
+
+2491
+01:28:41,520 --> 01:28:44,520
+Xavi está no restaurante da Mix
+
+2492
+01:28:44,520 --> 01:28:46,520
+o pessoal que trabalha pra ela hoje
+
+2493
+01:28:46,520 --> 01:28:48,520
+preparou lá os pratos dela
+
+2494
+01:28:48,520 --> 01:28:50,520
+vocês estão lá
+
+2495
+01:28:50,520 --> 01:28:52,520
+comendo, conversando
+
+2496
+01:28:52,520 --> 01:28:54,520
+relembrando dos velhos tempos
+
+2497
+01:28:54,520 --> 01:28:56,520
+quando um dos garçons se aproxima
+
+2498
+01:28:56,520 --> 01:28:57,520
+senhor Xavi?
+
+2499
+01:28:57,520 --> 01:28:59,520
+opa meu bom, o que foi?
+
+2500
+01:28:59,520 --> 01:29:01,520
+desculpe incomodá-lo
+
+2501
+01:29:01,520 --> 01:29:03,520
+ele pega o jornal e coloca sobre a mesa
+
+2502
+01:29:03,520 --> 01:29:05,520
+mas acredito que isso seja
+
+2503
+01:29:05,520 --> 01:29:06,520
+do seu interesse
+
+2504
+01:29:06,520 --> 01:29:07,520
+opa
+
+2505
+01:29:07,520 --> 01:29:09,520
+a matéria do jornal
+
+2506
+01:29:09,520 --> 01:29:12,520
+fala sobre os candidatos
+
+2507
+01:29:12,520 --> 01:29:14,520
+a próxima família real
+
+2508
+01:29:14,520 --> 01:29:17,520
+e dois nomes pela primeira vez
+
+2509
+01:29:17,520 --> 01:29:18,520
+são femininos
+
+2510
+01:29:18,520 --> 01:29:20,520
+que vocês conhecem
+
+2511
+01:29:35,520 --> 01:29:36,520
+ridiculda
+
+2512
+01:29:36,520 --> 01:29:37,520
+realmente
+
+2513
+01:29:37,520 --> 01:29:38,520
+a ponta do país
+
+2514
+01:29:38,520 --> 01:29:39,520
+Davi
+
+2515
+01:29:39,520 --> 01:29:40,520
+éatted
+
+2516
+01:29:40,520 --> 01:29:41,520
+eku
+
+2517
+01:29:41,520 --> 01:29:42,520
+ladı
+
+2518
+01:29:49,440 --> 01:29:50,520
+tudo não cabe
+
+2519
+01:29:50,520 --> 01:29:51,520
+somente
+
+2520
+01:29:51,520 --> 01:29:52,520
+o tributo
+
+2521
+01:29:52,520 --> 01:29:54,520
+é
+
+2522
+01:29:55,520 --> 01:30:00,520
+e
+
+2523
+01:30:00,520 --> 01:30:01,520
+drogas
+
+2524
+01:30:01,520 --> 01:30:02,520
+You
+
+2525
+01:30:02,520 --> 01:30:03,520
+que
+
+2526
+01:30:03,520 --> 01:30:06,520
+A gente tá vendo aquele Next Level Chef, né?
+
+2527
+01:30:07,000 --> 01:30:10,720
+E a gente assiste aqueles programas dele visitando restaurante, ajudando também.
+
+2528
+01:30:11,200 --> 01:30:13,600
+Então é um programa que quando eu vou visitar meus pais,
+
+2529
+01:30:14,140 --> 01:30:16,420
+meu pai, minha esposa, dormem cedo, né?
+
+2530
+01:30:16,420 --> 01:30:17,540
+Eu costumo sentar lá com a mãe.
+
+2531
+01:30:18,080 --> 01:30:21,660
+E depois da novela, não tem nada de bom na televisão.
+
+2532
+01:30:21,660 --> 01:30:27,680
+A gente costuma pegar uma dessas streams e assistir programas de culinária.
+
+2533
+01:30:28,180 --> 01:30:29,620
+Então a ideia veio disso.
+
+2534
+01:30:29,620 --> 01:30:36,980
+Os padrinhos, numa chamada recente sobre ideias de aventuras, falaram em romance, né?
+
+2535
+01:30:37,460 --> 01:30:43,180
+Então eu tava com isso na cabeça e achei que seria legal revisitar o mundo dos monstros.
+
+2536
+01:30:43,760 --> 01:30:48,360
+Tenho certeza que vocês têm várias perguntas e vou adorar respondê-las no nosso Guaxaverso.
+
+2537
+01:30:48,360 --> 01:30:50,500
+Então deixe seus comentários lá no post.
+
+2538
+01:30:50,900 --> 01:30:55,900
+Se você quiser ver essa gravação ao vivo, trocar uma ideia comigo no dia da gravação,
+
+2539
+01:30:56,380 --> 01:30:57,680
+você pode ser nosso padrinho.
+
+2540
+01:30:57,760 --> 01:30:59,360
+Quem é padrinho faz parte do nosso...
+
+2541
+01:30:59,620 --> 01:31:02,940
+Telegram, que tem grupos maravilhosos, que discutem temas maravilhosos.
+
+2542
+01:31:03,320 --> 01:31:08,420
+E também eu faço a chamada quando tem o Guaxaverso lá no nosso Discord fechado.
+
+2543
+01:31:08,940 --> 01:31:11,840
+E daí quem é padrinho pode ouvir e interagir no dia.
+
+2544
+01:31:12,020 --> 01:31:17,200
+Além disso, recebe episódio antes, grava voz de NPC, como vocês vão ver aqui.
+
+2545
+01:31:17,200 --> 01:31:19,300
+Tem uma série de vantagens.
+
+2546
+01:31:19,440 --> 01:31:21,640
+Então convido você a ser nosso padrinho.
+
+2547
+01:31:22,100 --> 01:31:27,000
+Onde a maior vantagem, na verdade, é manter este projeto existindo.
+
+2548
+01:31:27,520 --> 01:31:29,160
+Padrinho não existe mais.
+
+2549
+01:31:29,160 --> 01:31:32,560
+A gente teve uma queda no nosso rendimento mensal.
+
+2550
+01:31:33,100 --> 01:31:36,160
+Editar podcast de RPG não é barato.
+
+2551
+01:31:37,180 --> 01:31:39,560
+Não é uma coisa fácil, não é uma coisa simples.
+
+2552
+01:31:39,980 --> 01:31:42,620
+Não é uma coisa que qualquer editor consegue.
+
+2553
+01:31:43,280 --> 01:31:44,160
+Então vamos prestigiar.
+
+2554
+01:31:45,380 --> 01:31:47,820
+O Zorzal recentemente recebeu um aumento, inclusive.
+
+2555
+01:31:48,380 --> 01:31:52,280
+Menos do que ele merecia, mas assim, no limite do que a gente pode pagar.
+
+2556
+01:31:52,780 --> 01:31:53,820
+Então seja nosso padrinho.
+
+2557
+01:31:53,960 --> 01:31:56,500
+Venha ajudar esse projeto a crescer cada vez mais.
+
+2558
+01:31:56,800 --> 01:31:58,320
+Outra forma de ajudar é seguir nas redes sociais.
+
+2559
+01:31:58,320 --> 01:31:58,980
+É só passar o gostei.
+
+2560
+01:31:59,160 --> 01:32:00,820
+Tanto no Twitter quanto no Instagram.
+
+2561
+01:32:01,300 --> 01:32:02,700
+Quero agradecer muito aos jogadores.
+
+2562
+01:32:02,860 --> 01:32:04,400
+Quero agradecer ao Zorzal.
+
+2563
+01:32:04,840 --> 01:32:06,720
+Professor de edição, fala com o Zorzal.
+
+2564
+01:32:06,900 --> 01:32:07,380
+Maravilhoso.
+
+2565
+01:32:07,740 --> 01:32:09,460
+Ele que editou esse episódio incrível.
+
+2566
+01:32:09,560 --> 01:32:10,880
+Só posso agradecê-lo.
+
+2567
+01:32:11,320 --> 01:32:13,360
+Esse episódio teve a revisão da Juleiva.
+
+2568
+01:32:13,800 --> 01:32:17,620
+E como eu falei, quem é padrinho acaba gravando vozes de NPCs.
+
+2569
+01:32:17,920 --> 01:32:20,540
+Porque pra quem não sabe, eu gravo lá pelo Discord.
+
+2570
+01:32:21,100 --> 01:32:22,280
+Como um RPG, né?
+
+2571
+01:32:22,280 --> 01:32:23,060
+A gente joga.
+
+2572
+01:32:23,400 --> 01:32:25,220
+Os jogadores tomam suas decisões.
+
+2573
+01:32:25,220 --> 01:32:28,420
+Eu faço todas as vozes de NPC.
+
+2574
+01:32:28,420 --> 01:32:33,280
+E no filme editor, quando ele vai fazer aquela primeira edição geral,
+
+2575
+01:32:33,700 --> 01:32:35,640
+ele anota as falas, passa pra mim.
+
+2576
+01:32:36,020 --> 01:32:37,840
+Eu jogo lá nos padrinhos, quem quiser gravar.
+
+2577
+01:32:38,280 --> 01:32:39,780
+E eles gravam pra mim.
+
+2578
+01:32:40,300 --> 01:32:43,320
+Esse episódio teve a Rebelbia fazendo a princesa.
+
+2579
+01:32:43,680 --> 01:32:45,100
+Teve o Tellerman fazendo o Finn.
+
+2580
+01:32:45,640 --> 01:32:50,180
+Teve a Raquel fazendo o garçom, no final.
+
+2581
+01:32:50,720 --> 01:32:55,740
+Teve a nossa querida Mônica de Faria, nossa querida professora, fez a sereia.
+
+2582
+01:32:55,740 --> 01:32:58,380
+O nosso querido Tiago fez o Bruno.
+
+2583
+01:32:58,420 --> 01:33:02,420
+A Esqueletiza foi feita mais uma vez pela Rafaela Maleschewski.
+
+2584
+01:33:02,420 --> 01:33:08,420
+Eu tentei de tudo não ter personagens nesse episódio que já tivessem NPCs nessa série antes.
+
+2585
+01:33:08,420 --> 01:33:13,420
+E eu esqueci completamente que a Maleschewski fazia a Esqueletiza.
+
+2586
+01:33:13,420 --> 01:33:16,420
+Então eu acabei tendo as duas.
+
+2587
+01:33:16,420 --> 01:33:17,420
+Mas ficou bem bacana.
+
+2588
+01:33:17,420 --> 01:33:19,420
+Ficou uma diferença muito boa das vozes ali.
+
+2589
+01:33:19,420 --> 01:33:21,420
+Espero não ter confundido ninguém.
+
+2590
+01:33:21,420 --> 01:33:23,420
+Mas ficou incrível.
+
+2591
+01:33:23,420 --> 01:33:27,420
+O Ogro foi feito pelo Lucas Cazotti.
+
+2592
+01:33:27,420 --> 01:33:28,300
+Lucas Cazotti.
+
+2593
+01:33:28,300 --> 01:33:32,300
+E o Rei foi feito pelo Rodrigo Figueiredo.
+
+2594
+01:33:32,300 --> 01:33:33,300
+Ah!
+
+2595
+01:33:33,300 --> 01:33:39,300
+O próprio chefe, Ramses, foi feito pelo nosso editor, Rafael Zorzal.
+
+2596
+01:33:39,300 --> 01:33:42,300
+Muito obrigado a todos que deram voz nesse episódio.
+
+2597
+01:33:42,300 --> 01:33:45,300
+Muito obrigado a você que apoia este projeto.
+
+2598
+01:33:45,300 --> 01:33:47,300
+Lembrem, sempre rola em 6, rola em 20.
+
+2599
+01:33:47,300 --> 01:33:49,300
+Isso depende do sistema que vocês estão jogando.
+
+2600
+01:33:49,300 --> 01:33:52,300
+Mas, independente disso, se tudo é errado, rola no chão.
+
+2601
+01:33:52,300 --> 01:33:53,300
+Que apague o fogo e diverte.
+
+2602
+01:33:53,300 --> 01:33:55,300
+Um beijo no coração de vocês, gente.
+
+2603
+01:33:58,300 --> 01:33:59,300
+Não!
+
+2604
+01:34:15,300 --> 01:34:19,300
+Muitos são os números que regem o multiverso.
+
+2605
+01:34:19,300 --> 01:34:22,300
+7 realidades paralelas que já foram 3.
+
+2606
+01:34:22,300 --> 01:34:24,300
+4 linhas sagradas.
+
+2607
+01:34:24,300 --> 01:34:25,300
+1 linha vazia.
+
+2608
+01:34:25,300 --> 01:34:27,300
+E 2 preenchidas de escuridão.
+
+2609
+01:34:28,300 --> 01:34:36,740
+Um guaxinim representando um, três meninas segurando um seis e uma infinidade de possibilidades entre eles.
+
+2610
+01:34:37,400 --> 01:34:39,840
+E você, qual o seu número?
+

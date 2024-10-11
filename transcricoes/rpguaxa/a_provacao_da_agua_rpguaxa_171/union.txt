@@ -1,0 +1,1791 @@
+0 800 (10) Estamos prontos?
+1140 1980 (04) Estamos sim!
+2440 4780 (04) Ah, você prefere mestre ou narrador?
+4960 6660 (10) Na verdade, eu prefiro guache.
+8880 12380 (10) Olá, eu sou Marcelo Guaxinim e antes de mais nada eu quero convidar você a ir lá no
+12380 15040 (10) premio mpb.com.br
+15040 20680 (10) MPB não é de música popular brasileira, é de melhores podcasts do Brasil.
+20940 26420 (10) O RPG Guache está concorrendo na categoria Ficção e Fantasia e eu conto com o voto de vocês.
+26420 31900 (10) Vocês podem votar todo dia, inclusive, mas se votar uma vez já ficarei imensamente grato.
+31940 36820 (07) Meu nome é Agatha Sofia, eu tenho um projeto na internet que se chama Buraco Atrás do Pôster,
+36980 39080 (07) que é um podcast mensal de videogames.
+39460 44220 (02) Oi, eu sou o Gilles, vocês me encontram na taberna, embora as pessoas digam que eu sou
+44220 48860 (02) um pouco ausente, mas eu estou lá e também nos episódios publicados do Nossa Poesia e
+48860 49540 (02) do Projeto Drama.
+49820 54800 (06) Oi, eu sou a Sarah Barbosa e vocês podem me encontrar na taberna do Guache ou então
+54800 55720 (06) no Instagram.
+56420 58380 (06) Com arroba Sarah Pereira B.
+58980 62720 (00) O Realidades Paralelas do Guaxinim usa o sistema Guaxinis e Gambiarras.
+63120 66360 (00) Nele, cada jogador possui apenas um único atributo, que vai de 2 a 5.
+66760 71060 (00) Quanto maior o atributo, mais atlético é o personagem, quanto menor, mais inteligente
+71060 71820 (00) e carismático.
+72300 76300 (00) Sempre que o jogador faz algo com mais chance de errar, joga dois dados e precisa tirar
+76300 80840 (00) seu atributo ou menos para ataques e ações físicas e seu atributo ou mais para ações
+80840 82400 (00) intelectuais ou sociais.
+82780 85600 (00) Se a jogada for fácil ou tiver algum auxílio, joga um dado a mais.
+85600 87920 (00) Se a jogada for difícil, rola-se um dado a menos.
+88240 92340 (00) Eu sou o Luiz Felipe Erdi e sou padrinho do RPG Guaxinim porque é uma oportunidade incrível
+92340 96600 (00) de conhecer pessoas que falam dos assuntos mais aleatórios possíveis, desde One Piece,
+96700 100920 (00) Game of Thrones, futebol e coisas do gênero e também porque é um canal muito bacana
+100920 105720 (00) para marcar mesa de RPG, menstruar, jogar, enfim, é uma comunidade muito interessante
+105720 107460 (00) e que eu tenho muito prazer em fazer parte.
+108380 112480 (10) O episódio de hoje não é recomendado para menores de 16 anos, pois trata de alguns temas
+112480 113280 (10) sensíveis.
+113280 123280 (10) Convido vocês a nos seguirem nas redes sociais e também nos apoiar, apoia.se barra rpguaxa
+123280 126800 (10) a partir de um real você ajuda esse podcast a continuar existindo, a partir de 10 reais
+126800 128660 (10) você faz parte do nosso grupo da taberna.
+128900 133340 (10) Como o Luiz Felipe acabou de convidar vocês, venham conhecer a taberna e ajudar esse projeto.
+134040 136940 (10) Episódio de hoje, aprovação da água.
+143280 162100 (10) Os irmãos estão deitados juntos em peles no chão do segundo andar da pequena casa,
+162700 168480 (10) cobertos por um lençol, enquanto sua mãe, uma linda mulher de cabelos loiros quase brancos,
+168880 173260 (10) dança pela casa apagando as velas e lhes contando sobre o lugar.
+173280 179980 (10, 03) Nossa pequena vila de Flor d'Alva foi esquecida pela deusa no meio dessa floresta.
+180700 186160 (03) Aqui, os moradores reverenciam a água como o elemento mais puro da criação.
+186760 193140 (03) A água que traz o peixe, que mata a sede, limpa as feridas e molha as plantas.
+193560 197180 (03) A água é tão boa e pura que rejeita todo o mal.
+197580 201440 (03) Com base nisso, os antigos realizam a aprovação da água.
+201440 206180 (03) Eles lançam as acusadas de bruxaria no ponto mais profundo do rio.
+206500 209920 (03) Se ela flutuar, ela é condenada ao fogo.
+209980 213240 (03) A rejeição da água confirma sua aliança com as trevas.
+214080 216620 (03) Se ela afundar, vai morrer afogada.
+217360 219160 (03) Isso prova que estavam errados.
+219960 224420 (03) Não que alguém ligue. Nunca testaram um homem. Quem diria?
+224420 230860 (10, 03) Diz a mãe enquanto segura a última vela, se aproxima de vocês e exibe seu rosto cheio de pontinhos,
+230860 234440 (10) como estrelas, e um sorriso que mal lhe cabe na boca.
+234800 240280 (03) Mas acredito que, se um rapaz for rejeitado pela água, será acusado de bruxaria também.
+240740 243460 (10) Por isso, meus filhos, eu lhes digo...
+243460 247240 (10) A mulher faz um pequeno silêncio e completa apagando a vela.
+247700 249860 (10) Na total escuridão, ela diz...
+250480 253860 (10, 03) Nunca, em hipótese alguma, entrei na água.
+253960 258540 (10) Mas antes de contar a história desta família, dessas crianças, para quem esta mãe contou essa história,
+258540 260060 (10) vamos conhecê-los.
+260860 263260 (10) Falar sobre os personagens, aparência e atributos.
+263320 265220 (07) Hoje eu vou jogar com a Isobel.
+265640 268980 (07) Ela tem 12 anos, é a mais nova dos três irmãos.
+269580 270820 (07) Ela é loira, como a mãe.
+271120 273820 (07) Ela tem olhos cassanhos claros e várias sardas no rosto.
+274020 277740 (07) Ela nunca teve um corpo muito forte e constantemente ficava doente.
+278300 281120 (07) E não conseguia acompanhar, principalmente a irmã do meio,
+281520 285260 (07) nas brincadeiras energéticas que aconteciam nos bosques e lá fora.
+285680 288760 (07) Então ela sempre ficou mais dentro de casa e acompanhada de livros.
+288760 290840 (07) E um amigo dela, que era farura,
+290840 293580 (07) um mercador que trazia livros de vez em quando para a vila,
+293840 297920 (07) dava para ela emprestado com livros que ela conseguia acompanhar, no caso.
+298300 301600 (07) Por ficar muito em casa, ela desenvolveu uma aptitude com matemática
+301600 304380 (07) e ela ajudou a mãe nas finanças do bar.
+304700 308140 (07) Ela constantemente fica lá no caixa ajudando durante o dia.
+308360 312720 (07) Ela também está numa fase rebelde da vida e principalmente voltada contra o pai deles,
+312860 314080 (07) que não aparece faz um tempo.
+314080 320820 (07) Ela está rebelde e afrontosa e quer muito, muito, muito brigar com o pai.
+320840 326300 (07) Ela também começou a pensar que, se a água é algo tão perigoso,
+326800 328660 (07) talvez o fogo seja o oposto.
+328860 332520 (07) Então ela desenvolveu um fascínio pelo fogo e fica horas na frente da lareira,
+332640 335200 (07) se aquecendo e olhando o criptar nas linhas.
+335500 336800 (07) O atributo dela é 2.
+337160 337600 (10) Perfeito.
+338340 340660 (10) Gilles, fala sobre o seu personagem, a aparência e o atributo.
+340820 342180 (02) Hoje eu vou jogar com o Caius.
+342660 344620 (02) Ele tem, na verdade, 15 anos.
+344800 345920 (02) Ele é o mais velho dos irmãos.
+346300 349640 (02) Ele tem uma estatura média, um peso médio, padrões para sua idade.
+349640 350640 (02) Ele tem cabelos...
+350840 356840 (02) Ele tem cabelos castanhos e são bem escuros comparados com os da mãe ou mesmo das irmãs.
+357780 359780 (02) Ele ajuda como pode na venda da família.
+360120 366040 (02) Ele aprendeu com a mãe nos últimos meses a fazer pães para abastecer a venda desse produto.
+366300 372840 (02) E também ele adquiriu braços mais robustos, sovando massa, mas ainda ele é mais esperto do que forte.
+373100 377600 (02) Ele pretende e busca sempre zelar pelo bem-estar da sua própria família.
+377600 379380 (02) E ele se cobra muito por isso.
+379640 380600 (02) Sobretudo pela ausência.
+380840 381740 (02) A ausência é frequente do pai.
+382260 387040 (02) Sempre que pode, se ele encontrar um livro, um numericador, ele traz para a Isobel.
+387200 391800 (02) Se ele encontrar uma ferramenta, uma arma nova, ele traz para a Tabata.
+392100 397120 (02) Buscando sempre tornar esse ambiente familiar agradável, porque é a base da estrutura dele.
+397420 404620 (02) Ele procura ser racional, mas o sentimento sempre prevalece quando o assunto envolve a mãe e as irmãs.
+404620 410020 (02) Ele respeita o pai, mas nem de perto tem o mesmo carinho por ele que tem por elas.
+410020 411720 (02) E o atributo dele é 3.
+411960 414140 (10, 06) A Sarah fala sobre o seu personagem, a aparência e o atributo.
+414220 416640 (06) Eu sou a Sarah, vou estar jogando com a Tabata.
+417040 421860 (06) A Tabata é uma adolescente alta, alguns centímetros mais alta que o seu irmão mais velho, Caius.
+422420 424860 (06) Seus cabelos são da mesma tonalidade dos da mãe.
+425220 429620 (06) Entretanto, ela tem uma enorme mecha de cabelos negros na lateral esquerda da cabeça.
+430280 435160 (06) Ela é bastante ágil e possui uma força descomunal para uma adolescente de 14 anos.
+435820 439020 (06) Seu biotipo se encaixaria no perfil de uma pessoa ectomorfa.
+439020 439560 (06) Seu biotipo se encaixaria no perfil de uma pessoa ectomorfa.
+440020 445740 (06) Dizem que ela lembra sua mãe nos traços faciais, mas a sua personalidade parece bastante com a do pai.
+446060 448000 (06) Segundo as pessoas da aldeia dizem.
+448200 451720 (06) Por esse motivo, a Tabata acredita que sua mãe tem certa rigidez com ela.
+452080 457320 (06) Em alguns momentos, a Tabata sente saudade do pai, mas não entende completamente seus sentimentos em relação a ele.
+457840 463300 (06) Às vezes ela até deseja ver ele mais uma vez, mas tem horas que ela deseja que ele suma, por completo.
+463500 465040 (06) Ela sabe que não ama ele.
+465340 466700 (06) Para ela, ele é só mais uma pessoa.
+466700 469700 (06) Por conta disso, ela acaba sofrendo e acaba vendo sofrimento.
+470020 472200 (06) E isso mexe muito com ela.
+472440 476100 (06) Ela acredita que ser comparada com o pai dela é como se fosse uma maldição.
+476280 477900 (06) Porque a Tabata é só a Tabata.
+478100 483220 (06) Apesar da dor e da confusão que ela sente em relação ao pai, a Tabata encontra consolo na natureza.
+483380 485620 (06) A floresta ao redor da aldeia é seu refúgio.
+485720 489020 (06) O lugar onde ela pode ser ela mesma, longe das expectativas e comparações.
+489880 493040 (06) Caçar é uma atividade que a faz sentir viva e conectada com o mundo.
+493180 496680 (06) Cada caça bem sucedida é uma prova da sua habilidade e sua força.
+496680 499860 (06) Algo que pode oferecer a sua mãe como uma forma de ajuda.
+500020 504680 (06) Sem contar a sua organização em deixar o estabelecimento sempre limpo e arejado.
+504780 508360 (06) Ela tem um melhor amigo chamado Ícaro, que é amigo dela desde a infância.
+508600 511680 (06) Ele é seu confidente e parceiro em todas as suas escapadas.
+511940 515260 (06) Ele compreende a Tabata de uma maneira que ninguém mais consegue entender.
+515500 519240 (06) Juntos, os dois enfrentam os perigos da floresta, compartilham segredos e sonhos.
+519780 523860 (06) Mas o Ícaro sabe que por trás da fachada de forte determinada da Tabata,
+524160 526980 (06) existe só uma jovem que carrega um peso emocional enorme.
+526980 529360 (06) E ele faz o possível para aliviar essa carga.
+529700 529980 (06) Mas o Ícaro...
+530020 535240 (06) Mas o que mais deixa a Tabata feliz é poder se juntar à irmã dela na lareira, a Isobel,
+536040 538340 (06) e ouvir as histórias que a irmã conta dos livros.
+538780 541540 (06) Da mesma forma, ela adora conversar com seu irmão Caius.
+542020 547680 (06) A sabedoria de vida e os conselhos e os ensinamentos dele sobre sovar perfeitamente a massa de um pão
+547680 549100 (06) acalmam o coração dela.
+549740 553780 (06) Ela sonha um dia ser uma heroína de sua própria história e de sua mãe.
+553780 557740 (06) Alguém tão importante para sua família ao ponto de fazê-los esquecerem do pai.
+558180 559340 (06) O atributo dela é o 4.
+560020 561060 (unknown) A Mãe de vocês
+561060 579180 (10) Nas histórias que a mãe de vocês contou, essa foi a mais macabra.
+579520 582900 (10) Ela parecia realmente querer ensinar algo para vocês.
+583440 584700 (10) Desde que o pai...
+584700 586380 (10) Vocês saíram de casa, né?
+586760 588040 (10) Há mais de dois anos.
+588320 589980 (10) Vocês passaram a ajudar.
+590180 594640 (10) Cada vez mais, a mãe de vocês agiria em um pequeno comércio que ela tem ali.
+594980 597740 (10) Entre os mais pobres, você consegue fazer trocas, né?
+598220 603740 (10) Apenas algumas pessoas realmente têm dinheiro, fazem comércio com outras regiões.
+604260 608180 (10) Mas o lugar serve para fazer troca entre aqueles que não têm dinheiro.
+608180 614520 (10) E entre aqueles poucos mais abonados da região, vocês conseguem vender alguns produtos.
+615100 619580 (10) Mas ainda é uma venda pequena, tem alguma bebida disponível.
+620020 622280 (10) Tem os pães, as massas que vocês fazem, né?
+622560 624300 (10) O pai de vocês ainda aparece de vez em quando.
+624620 626340 (10) Ele costuma ficar muito pouco.
+626700 629600 (10) E ele sempre vem para ver a mãe de vocês.
+629600 633720 (10) Ele não dá muita bola para vocês, embora ele não seja...
+633720 635980 (10) Ele não é carinhoso nem grosseiro.
+636580 639120 (10) Ele tenta sempre ser o mais neutro possível.
+639700 642600 (10) Mas com a mãe de vocês, ele é mais atencioso.
+643260 647780 (10) Mas, principalmente quando vocês estão juntos, ele vai embora rápido.
+648200 649660 (10) Ele corta lenha, né?
+649680 650000 (10) Ele fica...
+650020 651220 (10) Ele fica bastante tempo na floresta.
+651620 655760 (10) E desde que ele saiu de casa, ele passou a trabalhar com isso, né?
+656160 657280 (10) Vocês estão lá cuidando da venda.
+657360 660120 (10) A mãe de vocês, que se chama Marieta, ela saiu.
+660540 665080 (10) Ela foi trocar algumas coisas, buscar alguns peixes para colocar ali.
+665400 667160 (10) E deixou vocês três cuidando da venda.
+667360 670040 (10) O que cada um de vocês está fazendo na venda nessa manhã?
+670380 672280 (02) O Caio, ele já está lá atrás.
+672640 676340 (02) Quando eles acordam bem cedo, ele já colocou a massa para fermentar.
+676420 678740 (02) Pegou um pouco de levão, que eles cultivam já há alguns anos.
+678740 679540 (02) Na massa.
+679540 681780 (02) Ele mexeu um pouco, fez uma primeira sova ali.
+682480 684360 (02) Enquanto está descansando, ele vai atrás das irmãs.
+684400 686580 (02) Ver o que elas estão fazendo, se estão precisando de ajuda.
+686980 687820 (02) Está andando pela venda.
+688180 691000 (07) A Isabel está na frente ali do balcão, né?
+691300 694700 (07) Recepcionando pessoas e fazendo as trocas quando precisa.
+695360 697960 (07) Ela, de tempos em tempos, dá um grito lá para o Caio.
+698060 699980 (07) Fala, Caio, o pão está pronto?
+700600 702140 (07) E vê como é que estão as coisas.
+702720 703540 (07) Mas ela está ali, né?
+703600 706700 (07) Anotando um livrinho, o que precisa, o que foi trocado e quando.
+706700 709340 (06, 07) A Tabata está na parte de trás da casa.
+709540 710480 (06) Cortando alguma lenha.
+710820 714220 (06) Quando ela entra na cozinha, ela deixa as minhas lenhas perto do fogão.
+714620 717200 (06) Ela olha para o Caio e sorri preto, né?
+717800 721680 (06) E ela vai lá para a frente da loja, varrer e limpar as lenhas.
+721860 722240 (10) Perfeito.
+722320 728880 (10) Então, a Tabata, que está lá na frente, é a primeira a ver a dona Belinda.
+729560 731220 (10) Uma senhora que mora ali perto.
+731880 736020 (10) Chegando, ela sempre costuma chegar cedo, assim, para pegar pão.
+736020 739120 (10) O filho dela trabalha com o xerife da vila, né?
+739540 740980 (10) Tem acesso a algumas moedas.
+741200 743100 (10) Então, ela está chegando ali com as moedinhas dela.
+743280 745560 (10, 06) Bom dia, menina.
+745820 746360 (06) Bom dia.
+746520 747320 (06) Tudo bem com a senhora?
+747600 749260 (06, 04) Já saiu o pãozinho?
+749820 750640 (06) Já, já.
+751120 752440 (06) Eu olho para dentro.
+753180 755360 (06) Tem até algumas pessoas que já estão comendo agora.
+755780 756300 (06) A senhora quer entrar?
+756440 758400 (06) Sim, obrigada.
+758680 759920 (10) Ela vai entrando ali.
+760440 761860 (10) Ela vê o Caio, né?
+762620 765460 (10, 04) Menino, pegue quatro pãozinhos para mim.
+765460 767400 (10, 02) Ela coloca as moedinhas em cima do balcão.
+768220 769060 (04) Os melhores.
+769060 772060 (04) Para o meu filho, que vai dormir em casa.
+772060 773460 (04, 02) Pode deixar, dona Belinda.
+773460 775260 (02) Acabou de ser uma fornada aqui.
+775260 776860 (02) Vou colocar os melhores para a senhora, tá bem?
+776860 780060 (02) E ele acrescenta essa última parte, assim, bem baixinho, perto dela.
+780060 781460 (02) E vão ser os melhores mesmo, hein?
+781460 787060 (02) E ele vai lá, separa uma embalagem de seda, de papel, para colocar os pães para ela.
+787060 790260 (02) Faz um embrulho bem delicadinho, assim, bem bonitinho, assim, entrega para ela.
+790260 791460 (02) É só isso hoje?
+791460 792460 (02) A senhora não quer levar nada?
+792460 793660 (02) Uma criada para as galinhas?
+793660 795660 (04, 02) Alguma coisa para ajudar a senhora?
+795660 796660 (04) Não, não.
+796660 798820 (04) Só para o pãozinho.
+798820 799820 (04, 02) Então, tudo bem.
+799820 801820 (04, 02) Mas se a senhora precisar, a gente está aqui, tá?
+801820 802820 (04) Pode deixar.
+802820 804820 (10, 04, 02) Ela olha para a Isabel.
+804820 806820 (10, 04, 07) Você está boazinha.
+806820 807820 (10, 07) Boazinha?
+807820 808820 (10, 04, 07) Como assim?
+808820 813820 (04, 07) Você está sempre meio para baixo, meio doentinha.
+813820 816820 (07) A minha mãe trouxe mel da última vez.
+816820 819820 (07) Ela coloca junto com limão e alho.
+819820 821820 (04, 07) É ruim, mas está ajudando.
+821820 824820 (04) Eu achei que você não ia vingar.
+824820 827820 (04) Desde pequena, eu achei que você ia antes.
+827820 830820 (04, 02) Mas parabéns.
+830820 833820 (02) O Caís vai se aproximando, assim, ele vê a situação e fala assim...
+833820 835820 (02) Não, a Isabel está ótima, dona Belinda.
+835820 837820 (02) Está mais forte que um touro.
+837820 838820 (07, 02) A senhora vai ver só.
+838820 841820 (07) É, a senhora Belinda, eu também achei que não ia vingar, não.
+841820 842820 (07) Mas eu estou aqui, né?
+842820 843820 (07) Passa ruim, não quebra.
+843820 845820 (07) Acho que nós duas podemos provar esse ponto.
+845820 848820 (04, 07) A mãe de vocês tem muita sorte.
+848820 852820 (04, 07) É, eu não sei se foi sutil o suficiente, mas eu chamei ela de velha na cara dela.
+852820 853820 (04, 07) E eu queria.
+853820 855820 (04, 05, 02, 07) Eu também percebi.
+855820 856820 (07, 05, 02) Assim que ela vira de costas, o Caís...
+856820 858820 (02) Dá uma apertadinha de leve na bochecha dela, assim.
+858820 860820 (02) Respeito com os mais velhos.
+860820 861820 (02) E enche a bochecha dela de trigo.
+861820 864820 (07, 02) Eu estou tentando, estou tentando.
+864820 866820 (07) Tá, mas é só os pães hoje.
+866820 868820 (07) Ela anota no caderninho.
+868820 869820 (07) Ela deixou a moedinha.
+869820 871820 (07) Ok, volte sempre, tá?
+871820 873820 (10, 07) Tchau, dona Belinda.
+873820 876820 (10) Ela já dá um tchauzinho e sai feliz com o pacotinho dela.
+876820 879820 (10, 06) Quando ela está saindo dali, né?
+879820 881820 (06) Eu dou um esbarrão nela.
+881820 882820 (06) Mas, para opositar, eu olho para ela.
+882820 883820 (06) Ai, desculpa.
+883820 885820 (06, 04) Tem que tomar mais cuidado.
+885820 887820 (04) Mas, cuidado, querida.
+887820 889820 (04, 06) Ah, sim, sim, sim.
+889820 890820 (06) A senhora também.
+890820 891820 (06) Tem que tomar cuidado.
+891820 893820 (06) Eu ouvi dizer que tem gatos que comem línguas.
+893820 895820 (06) A senhora também, bastante cuidado.
+895820 896820 (06) Mas tenha um bom dia.
+896820 897820 (06, 02) E ela começa a cenar, assim, sabe?
+897820 898820 (06, 02) A velha sai meio apressada, assim.
+898820 901820 (02) Pés abaixo da cabeça, sujando a própria testa com a farinha.
+901820 903820 (07, 02) Eu olho para o Caís e falo...
+903820 904820 (07) Você...
+904820 905820 (07) Ela, você não puxa a bochecha, né?
+905820 906820 (02, 07) É.
+906820 908820 (02) Eu vou ter que levantar a mão para puxar a bochecha dela agora.
+908820 910820 (02) Ele dá um tapinho na lateral da tábua.
+910820 911820 (02) Então, você também.
+911820 912820 (02) Respeito com os mais velhos.
+912820 913820 (02) Além de tudo, ela é nossa cliente.
+913820 916820 (02) E ela vem aqui quase todo dia comprar pão, quando o filho dela está aqui.
+916820 919820 (05, 02) Ah, quem fala o que quer, escuta o que não quer, né?
+919820 920820 (05) Eu olho para o Isobel.
+920820 922820 (05) Acho que você deveria falar mais vezes.
+923820 926820 (05) E eu passo um carinhozinho na Isobel para o Caís não perceber.
+926820 928820 (05, 02) Vocês não têm jeito.
+928820 929820 (02) E ele volta lá para trás.
+929820 931820 (06, 05, 02) Mas, olha, o Caís tem razão.
+931820 932820 (06) A gente deveria melhorar esse nosso jeito.
+932820 934820 (06, 07) Ela que deveria usar menos perfume ruim.
+934820 936820 (07) Ele volta para o Caís, volta rapidinho.
+936820 938820 (05, 07) Ela comprou perfume aqui.
+938820 939820 (07) Estava vencido, né?
+939820 941820 (07) A gente não contou para ela, mas estava.
+941820 942820 (05, 07) Isso foi muita maldade.
+942820 943820 (05) E eu volto.
+943820 944820 (05) Eu volto para frente da loja.
+944820 945820 (05, 02) Ele volta para o fundo.
+945820 948820 (10, 02) O movimento sempre é bem tranquilo, assim.
+948820 950820 (10) Não há uma muvuca, né?
+950820 952820 (10) Sempre é uma, duas pessoas cada vez.
+952820 955820 (10) Mais para o meio da manhã, não tem nenhum cliente na loja.
+955820 959820 (10) Ali, vocês estão fazendo as atividades de vocês.
+959820 964820 (10) Quando se aproxima, entra na venda de vocês.
+964820 966820 (10) Albino é o xerife local.
+966820 972820 (10) Ele é um homem alto, assim, de cabelo escuro.
+972820 976820 (10) Tem um bigode grande, assim, que faz aquelas voltinhas na ponta.
+976820 983820 (10) É provavelmente a única pessoa da cidade que está sempre com uma roupa impecavelmente limpa.
+983820 988820 (10) Porque não é ele que limpa as roupas dele, as coisas dele, né?
+988820 991820 (10) Só as botas têm que andar para aquele chão de terra.
+991820 996820 (10) Estão estonando do resto da aparência dele.
+996820 1000820 (10) Ele tem uma pequena espada na cintura, né?
+1000820 1001820 (10) Um chapéu.
+1001820 1005820 (10) Ele coloca o chapéu num cabideiro que vocês têm ali na entrada da venda.
+1005820 1006820 (10, 09) E ele fala...
+1006820 1008820 (10, 09) Bom dia, crianças.
+1008820 1009820 (09) Bom dia, Sr. Albino.
+1009820 1010820 (09) Bom dia.
+1010820 1012820 (09) A mãe de vocês não está por aqui?
+1012820 1015820 (09, 02) Ela deu uma saída, mas ela já volta.
+1015820 1016820 (02) Só com ela mesmo?
+1016820 1019820 (09, 02) Geralmente a gente espera o senhor um pouco mais do fim da tarde.
+1019820 1023820 (09) A velha Belinda reclamou que vocês foram um pouco...
+1023820 1025820 (09) estúpidos com ela.
+1025820 1027820 (09, 02) Estúpidos aqui?
+1027820 1029820 (02) Não, o senhor está enganando.
+1029820 1033820 (02) Só se por um acaso alguém disser alguma coisa a algum dos outros clientes.
+1033820 1035820 (02) A gente nunca seria estúpido com a dona Belinda.
+1035820 1036820 (07, 02) Ela vem sempre aqui.
+1036820 1039820 (07) A Isabel só cruza os braços e olha para o lado, assim.
+1039820 1044820 (06, 07) Ah, com certeza ela confundia a gente com outras pessoas.
+1044820 1045820 (06) Não aconteceu nada.
+1045820 1051820 (06) Ela só comprou o pão dela, falou comigo, deu bom dia, falou com o Caio e com a Isabel.
+1051820 1053820 (06) Somente isso que aconteceu.
+1053820 1058820 (06) Bem, a não ser que ela tenha encontrado outra pessoa diferente no caminho e tenha confundido.
+1058820 1061820 (10, 06) Mas acredito que a gente é bem diferente dos outros adolescentes.
+1061820 1062820 (10) Rola dois dados.
+1063820 1064820 (10, 06) Seis e um.
+1064820 1066820 (10) Ele abre um sorriso, né?
+1066820 1068820 (09) Eu vou acreditar na sua palavra.
+1068820 1073820 (10, 09) Ele toca o teu cabelo, ele te olha de cima e embaixo.
+1073820 1076820 (10, 09) Você está com quantos anos mesmo, menina?
+1076820 1077820 (10, 07) Quatorze.
+1077820 1081820 (09) Já está namorando, pensando em casar?
+1081820 1083820 (09, 07) Ela já tem um namorado, tá? Ela já tem.
+1083820 1085820 (09, 07) Ah, isso é bom.
+1085820 1086820 (06, 09, 07) Eu tenho namorado?
+1086820 1087820 (06, 07) Aham, tem sim.
+1087820 1089820 (06, 02, 07) É, eu tenho.
+1089820 1092820 (02) O Caio se estranha, conversa dele e se coloca do lado dela.
+1092820 1096820 (09, 02) O senhor veio aqui realmente só pra falar da dona Belinda, seu Albino?
+1096820 1098820 (09) É, você quer pão? A gente traz pão.
+1098820 1100820 (09) Eu vim, na verdade, ver a mãe de vocês.
+1100820 1103820 (09, 02) Soube que ela tá meio sozinha.
+1103820 1108820 (02) Na verdade, não. Ela não tá sozinha, não. Ela tem a gente.
+1108820 1110820 (09, 02) E tem o nosso pai também.
+1110820 1111820 (09, 07) Ah, sim.
+1111820 1114820 (07) É que melhor sozinha do que mal acompanhada, né?
+1114820 1115820 (07) Meu Deus.
+1115820 1122820 (09) Eu soube que o Antero tá cada vez mais pro fundo da floresta, cortando muita madeira, né?
+1122820 1123820 (06, 09) É o trabalho dele.
+1123820 1127820 (06, 02) E não quer dizer que ele estando longe, ela tá sozinha.
+1127820 1129820 (09, 02) Tudo bem. Eu volto uma outra hora.
+1129820 1132820 (10, 09) Ele olha de novo pra Tabata?
+1132820 1136820 (10, 06) A Tabata tá limpando o nariz, assim, limpando na roupa, olhando pra cara dele, sabe?
+1136820 1142820 (06, 09) Quando você e o seu namoradinho quiserem se casar, falem comigo. Eu ajudo vocês.
+1142820 1144820 (06, 09) Ah, tá. Vou lembrar disso.
+1144820 1150820 (06) Aí a Tabata, ela puxa, assim, um ranho e dá uma cuspe, assim, no chão.
+1150820 1153820 (06) Mas, por enquanto, eu não preciso de ninguém, não. Tô bem, assim.
+1153820 1158820 (10, 06) Ele dá uma molhada pra Isobel, coça o bigode, faz, assim, um...
+1158820 1160820 (10, 09, 07, 06) Ah, não vale a pena.
+1160820 1161820 (10, 09, 07) E sai.
+1161820 1166820 (10, 07) Assim que ele pisa pra fora, a Isobel corre e abraça a Tabata.
+1166820 1170820 (07) Mas não fala nada. Só enfia a cara ali no vestido dela e fica ali, quietinha.
+1170820 1173820 (06, 07) Eu faço um carinho na cabeça dela.
+1173820 1180820 (06, 02) O cara se aproxima das duas, mas fala assim, que interesse ele tem em você se casar? Isso não faz sentido nenhum.
+1180820 1185820 (06) Ah, eu não quero pensar nisso. Eu, daqui a pouco, tenho que me encontrar com o Ícaro. Com certeza.
+1185820 1189820 (06, 05, 02) É, mas antes de se encontrar com ele, você vai limpar o chão.
+1189820 1190820 (05, 02) Ah...
+1190820 1191820 (05, 02) Nem você cuspir aqui.
+1191820 1192820 (05, 02) Eu limpo.
+1192820 1193820 (05) Ela olha de novo, tá limpando com o pé, assim, com...
+1193820 1194820 (05, 02) Eu limpo.
+1194820 1195820 (05, 02) Com o sapato.
+1195820 1196820 (07, 05, 02) Você pode ir, Tabata.
+1196820 1199820 (07, 05, 02) Não, Isobel. Não. Quem cuspiu é ela. Ela que tem que limpar.
+1199820 1202820 (07, 02) Não, mas cuspiu porque eu falei que ela tinha um namorado. Tá tudo bem.
+1202820 1212820 (06, 07) É, mas tá tudo bem. Eu limpo. Isobel, tá tudo bem, tá, irmãzinha? Eu dou um beijo na testa dela. Eu preciso também limpar a minha mão.
+1212820 1216820 (06, 02) Qualquer dia vocês duas se viram contra mim. E ele sai rindo. De novo.
+1216820 1218820 (06, 02) Não, o Caio de você é o melhor.
+1218820 1220820 (06, 02) Uhum. O que mais?
+1220820 1228820 (06) O melhor salvador de pão. O melhor irmão. E eu vou abraçando ele, sabe, fazendo um carinho na cabeça dele. E eu abraço a Isobel também, sim.
+1228820 1231820 (06) Vocês dois são os melhores. E a gente não precisa de pai nenhum.
+1231820 1236820 (06) Bem, até esse que a gente tem, a gente também não precisa dele. A gente jeito em tudo.
+1236820 1244820 (06) Vocês têm a grande Tabata. Eu posso caçar, eu posso cortar lenha, eu posso fazer tudo por isso. Nós não precisamos do papai.
+1244820 1246820 (02) Eu fico contente de ter vocês duas como irmãs.
+1246820 1251820 (02) Você, pra sustentar a casa com sua força. E a Isobel, pra sustentar a casa com o conhecimento dela.
+1251820 1252820 (07, 02) Tabata.
+1252820 1253820 (02, 07) Vocês são muito importantes pra mim.
+1253820 1254820 (07, 06, 02) É verdade.
+1254820 1257820 (06, 07) Você promete que você nunca vai na floresta e não voltar mais?
+1257820 1261820 (06) A Tabata, ela para. Ela abaixa, assim. Eu prometo.
+1261820 1265820 (06) E ela dá dedinho, assim, pra ela. Faz de promessa de dedinho.
+1265820 1267820 (06) Eu não vou embora.
+1267820 1273820 (07) Ela dá o dedinho também. Mas ela limpa os olhos, assim, e vai direto pros livros dela. Ela não fala mais nada.
+1273820 1277820 (06) Nossa, o coração da Tabata fica muito... muito pesadinho agora.
+1277820 1282820 (06) A Tabata, ela puxa o braço do Caio e dá um abraço, assim, pra se aniar no Caio.
+1282820 1288820 (06, 02) A Tabata puxa ela pro abraço. Embora ela seja mais alta que ele. Mas ele faz o possível pra acalentar ela.
+1288820 1291820 (10, 02) O dia se passa ali tranquilamente.
+1291820 1295820 (10) Vocês comem, vocês cuidam da loja, atendem as pessoas.
+1295820 1304820 (10) No meio da tarde, a mãe de vocês retorna. Ela joga um saco com um peixe, assim, em cima da mesa.
+1304820 1306820 (10) Ela parece bem irritada, não é, pra vocês?
+1306820 1308820 (10) Foi tudo tranquilo aqui hoje?
+1308820 1309820 (10, 06, 07) Sim, senhora.
+1309820 1313820 (07) Ah, teve aquela velha coroca que falou o que quis e ouviu o que não quis.
+1313820 1314820 (02, 07) Véu!
+1314820 1315820 (03, 02) Mas é verdade!
+1315820 1317820 (02, 03) O Albino esteve aqui, né?
+1317820 1318820 (02) É, ele passou aqui.
+1318820 1321820 (02) Ele falou que era pra falar da dona Belinda.
+1321820 1324820 (02) Mas não sei, ele ficou fazendo perguntas esquisitas aqui pra gente.
+1324820 1327820 (03, 02) Tabata, senta aqui do meu lado.
+1327820 1328820 (03) Por quê?
+1328820 1330820 (06, 03) Precisamos conversar.
+1330820 1334820 (06, 00, 03) Eu juro que eu não fiz nada. Eu esbarrei nela sem querer.
+1334820 1336820 (06, 04, 03) Do que você tá falando?
+1336820 1340820 (06) Eu olho pro Caio e pra Isabel. Nada eu sento do lado dela.
+1340820 1342820 (06, 03) Realmente não é nada, mãe.
+1342820 1347820 (06, 03) O maldito do xerife ficou falando que você pensa em casar. Isso é verdade?
+1347820 1350820 (06) Não, eu não quero casar com ninguém.
+1350820 1353820 (06, 07) Eu não me vejo casada.
+1353820 1359820 (07) Mãe, desculpa, fui eu que inventei isso. Eu achei que o xerife queria levar a Tabata pra longe da gente.
+1359820 1365820 (03, 07) Xerife já é casado, tem filhos. O que ele quer é uma outra coisa.
+1365820 1373820 (03) Mais pro sul tem uma cidade grande com uma regra antiga dos nobres que nosso querido xerife trouxe pra cá.
+1373820 1375820 (02, 03) Chama Primeira Noite.
+1375820 1377820 (03, 02) E que regra é essa, mãe?
+1377820 1378820 (02, 03) Que que é isso?
+1378820 1383820 (03) Temida a Mente, um nobre, como ele diz ser, pode ter a primeira noite de...
+1383820 1391820 (03) Bem, quando um homem, uma mulher casa o primeiro a estar com a esposa, será ele se ele assim o quiser.
+1391820 1392820 (06, 01, 03) Eu...
+1392820 1393820 (06, 03) Mas isso é errado!
+1394820 1399820 (06) É... e ele estava... insinuando isso pra mim?
+1399820 1406820 (06, 07, 03) É... agora ele tá bem puto e com o olho roxo. Eu vou atrás do pai de vocês. Trinquem tudo e vão dormir!
+1406820 1408920 (07) dormir. Pera, pera. Você não vai ficar aqui com a gente?
+1409020 1410880 (07) Você não pode ir ver o nosso pai de manhã?
+1411060 1413100 (03, 07) Tenho que trazer o Antero de volta.
+1413640 1414660 (03) Isso já está saindo
+1414660 1416920 (07, 03) do controle. A gente não precisa dele.
+1417520 1418460 (03) Ele nunca ajudou a gente.
+1418480 1420200 (03) É o mundo que não entende isso.
+1420340 1422920 (06) Mas mãe, eu posso resolver qualquer problema.
+1423120 1424840 (06) O pai de vocês tem o motivo dele.
+1425300 1426200 (06) Eu vou conversar com ele.
+1426300 1428580 (06) E o motivo dele é deixar a esposa e os três
+1428580 1431080 (06) filhos pra trás? Como ele sempre faz?
+1431300 1432520 (06) Vem uma vez ou outra?
+1433140 1434940 (06) E nunca diz o porquê que sumiu?
+1435300 1436140 (06) Quando que vai voltar?
+1436820 1439100 (06, 03) O pai de vocês é uma pessoa muito boa.
+1439340 1440820 (03) Mas meio limitado.
+1441100 1443200 (03) Eu vou trazer ele de volta. Tranquem tudo.
+1443940 1444960 (03) Acabou a venda por hoje.
+1445160 1446880 (03) Salvem o peixe e guardem, por favor.
+1447340 1448520 (10, 03) A senhora não vai demorar, né?
+1448540 1450360 (10, 03) Eu espero que não.
+1450640 1453160 (10) Tá bom, mãe. Ela sai e deixa vocês ali.
+1453600 1454400 (10) O que vão fazer?
+1454960 1456300 (06) Vocês viram a cara dela?
+1456880 1458800 (07) Ela parecia irritada.
+1459120 1460780 (02) E ela bateu nesse...
+1460780 1462100 (06, 02) Mereceu.
+1462900 1464980 (02) Sim. Se ele der aqui de novo, eu vou bater nele.
+1465160 1465960 (07) Eu vou bater primeiro?
+1465960 1468260 (06, 07) Ah, então eu bato por último, pra finalizar
+1468260 1469300 (06) o que vocês já bateram.
+1469340 1470820 (07) Isso finaliza com uma risadinha.
+1471800 1473760 (07) Mas, ainda assustada, a Isabel
+1473760 1475000 (07) começa a trancar a casa.
+1475860 1478220 (07) E vê se todas as janelas estão bem fechadas.
+1478460 1480260 (07) Se a porta tá trancada.
+1480640 1482180 (07) Por segurança, ela coloca uma cadeira
+1482180 1483100 (07) na frente da porta.
+1483780 1486320 (07) E vai acender a fogueira. A lareira, no caso.
+1486960 1488200 (06) Eu acho melhor a gente dormir
+1488200 1490020 (06) juntos essa noite. Todos juntos.
+1490260 1490940 (10, 02) Eu concordo.
+1491440 1492880 (10) Ok. Um dado cada um.
+1492880 1494880 (10) É, Isabel...
+1495960 1497260 (10) A tábata.
+1497580 1498320 (06) Tirei cinco.
+1498620 1499560 (10) E o Caio?
+1499860 1501540 (02) Eu tirei três, que é o meu atributo.
+1501680 1503860 (10) Dois acertos. Um acerto crítico.
+1504220 1506700 (10) Vocês três escutam barulho lá fora.
+1507460 1508820 (10) Uma movimentação
+1508820 1510700 (10) de pessoas e tal.
+1510900 1513080 (10) Caio vê até alguma luminosidade
+1513080 1514480 (10) passando pelas frestas,
+1514600 1515600 (10) nas janelas.
+1515960 1517540 (10) Algo está acontecendo lá fora.
+1518340 1520740 (02) Pela janela só dá pra ver que tá tendo uma movimentação.
+1520900 1521860 (10, 02) Não dá pra ver nada além disso.
+1521860 1523620 (10, 02) Só abre a janela e dá uma olhada, né?
+1523720 1525300 (02) Sim, bem escondido pela fresta.
+1525960 1526540 (02) Curitiba só.
+1527360 1528800 (10) Muitas pessoas com tocha
+1528800 1531840 (10) na praça principal, próxima ao rio.
+1532260 1534260 (10, 07) Caio, o que tá acontecendo?
+1534600 1536120 (07) A Isabel tá meio com sono, assim,
+1536160 1536720 (07) se pega no ar.
+1536900 1539260 (02) Parece que tem várias pessoas
+1539260 1542120 (02) indo pra praça e elas têm tochas na mão.
+1542940 1543960 (02) Guaxa, a gente já viu
+1543960 1545440 (02) esse tipo de comportamento na cidade?
+1545720 1546560 (02) Uma outra vez.
+1546740 1548340 (10, 02) E qual foi a ocasião? A gente sabe?
+1548400 1552080 (10) Foi um teste da água. Uma mulher foi lançada ao rio
+1552080 1554020 (10) pra saber se ela era bruxa ou não.
+1554020 1555340 (10) E ela se afogou.
+1555960 1558520 (02) De novo, aquele teste que fizeram
+1558520 1560680 (02) há muito tempo atrás. Eu não sei se você lembra,
+1560760 1562260 (02) Isabel, você era bem nova.
+1562900 1564480 (02) A mamãe chegou a comentar desse teste
+1564480 1566600 (02) um tempo atrás, que é pra saber
+1566600 1568040 (02) se uma mulher era bruxa ou não.
+1568420 1570340 (06) Aquele teste bobo, idiota.
+1570960 1572500 (02) Eu entendo, mas hoje,
+1572600 1574880 (02) do nada, a mamãe
+1574880 1576680 (02) não tá aqui. Você disse que a mamãe
+1576680 1578680 (02) não tá aqui? Não, ela saiu pra procurar
+1578680 1579960 (02) o nosso pai.
+1580520 1582400 (07, 02) A Isabel tem um estalo na cabeça dela
+1582400 1584520 (07) e ela não fala nada. Ela só joga os cobertores
+1584520 1585880 (07) pro lado e corre.
+1585960 1588100 (07) Lá pra baixo, eu presumo que a gente tá no segundo andar,
+1588660 1589800 (10, 01, 07) pra olhar pela janela
+1589800 1591860 (07) e se consegue ver quem que tá sendo
+1591860 1594480 (10, 07) feito o teste. Não, dá pra escorrer atrás.
+1594500 1596440 (10) É da distância de vocês ali, não dá pra ver.
+1596600 1598380 (06) Eu desço já, pego
+1598380 1600540 (06) um machado. A gente vai
+1600540 1602540 (06, 02) olhar o que tá acontecendo ou a gente fica aqui em casa?
+1602560 1603720 (06, 07, 02) Sim, a gente vai olhar. Sim.
+1604520 1606500 (02) Tá, mas a gente... Vamos tentar
+1606500 1608380 (02) ir devagar. Não sair
+1608380 1609820 (02) correndo se acontecer alguma coisa.
+1610300 1612280 (02) E se não for, ninguém é importante.
+1612280 1614560 (02) A gente volta pra casa e se fecha aqui.
+1614920 1615620 (06, 02) Tá bom? Tá.
+1615960 1618000 (02) Esperando a confirmação das duas.
+1618240 1619780 (06) Eu prometo, eu prometo, eu juro.
+1620280 1622580 (06) Ela bota a mão assim no peito e aí a outra
+1622580 1624100 (06, 05) tá cruzando pra trás.
+1624220 1626920 (06, 02) Bel? Tá, isso é suficiente
+1626920 1628720 (02) pra mim. Mas cuidado, tá?
+1629380 1631020 (02) Esse tipo de ritual
+1631020 1632780 (02) a gente não sabe como funciona, então
+1632780 1634920 (02) qualquer coisa a gente sai correndo e volta pra casa.
+1635380 1636600 (06) Tá, se não for mamãe,
+1636780 1638620 (06, 02) a gente volta. Não, não é mamãe.
+1638980 1640640 (02) É só por desencargo de consciência
+1640640 1641460 (02) que a gente vai olhar.
+1641760 1644480 (07) A Isabel já tá tirando a cadeira, já tá destrancando a porta
+1644480 1645280 (07) e indo lá pra fora.
+1645960 1648720 (06, 02) Eu tô indo atrás e eu tô com
+1648720 1650900 (06) o peito bem apertado e muito preocupada.
+1651440 1652700 (10) A cidade, assim,
+1653380 1654780 (10) tá... As casas
+1654780 1656240 (10) têm algumas luzes acesas, tem algumas
+1656240 1658680 (10) outras crianças pela janela ali
+1658680 1660660 (10) olhando, né? Mas os adultos
+1660660 1662180 (10) estão lá na praça central.
+1663260 1664720 (10) Vocês se aproximam
+1664720 1666700 (10) de lá. Tá o povo lá
+1666700 1668460 (10) com tochas e tal.
+1669200 1670640 (10) O xerife tá em cima
+1670640 1672860 (10) de uma estrutura
+1672860 1674680 (10) de madeira que foi montada ali
+1674680 1675840 (10) e...
+1675960 1678520 (10) segurando uma corda
+1678520 1680640 (10) e vocês veem a mãe de vocês
+1680640 1682660 (10) amarrada já sobre o rio
+1682660 1684460 (10, 06) sendo...
+1684460 1685900 (10, 06) lançada.
+1686520 1688320 (10) A pessoa não é só lançada ao rio, mas
+1688320 1690600 (10) ela poderia nadar. Ela tem os braços
+1690600 1692220 (10) e as pernas amarradas
+1692220 1693940 (10) e jogam ela no rio.
+1694220 1696280 (02) O Caio, quando ele vê isso,
+1696700 1698740 (02) ele olha pra tábua e tá...
+1698740 1700840 (02) Cuida da Bel. E ele sai correndo.
+1701120 1702100 (02) Ele vai em direção ao rio.
+1702540 1704420 (06) Meu Deus. Eu entro no desespero.
+1704540 1705940 (06) Eu olho pra Bel.
+1705960 1707760 (06) Eu pego a Bel no colo.
+1707840 1708640 (06) Você confia na irmã?
+1708920 1711220 (06) Eles vão matar a mãe. Eles vão matar a mãe.
+1711620 1713180 (06) Ninguém vai fazer nada com a nossa mãe.
+1713340 1715860 (06) Eu pego a Bel e saio correndo
+1715860 1718020 (06) na direção do rio, atrás do Caio.
+1718660 1719140 (06) Desesperada.
+1719380 1721720 (10) Caio, quando tu chega perto do rio,
+1722420 1723920 (10) sente uma mão assim
+1723920 1725900 (10) no teu peito, te empurrando
+1725900 1727020 (10) pro lado ali.
+1727640 1729460 (10) É o pai de vocês, né?
+1730000 1731380 (10) Ele olha pra ti.
+1731580 1733600 (10, 02) Espera mais um pouco. Não, você tá louco?
+1733600 1734580 (02) É a mamãe.
+1734920 1735600 (02) Eles vão...
+1735960 1736440 (08) Ele faz sinal.
+1736760 1739800 (08) Se vocês forem todos queimados, ela não vai nos perdoar.
+1739880 1741920 (08, 10) Eu prefiro ser queimado, a Bel não ser jogada no rio assim.
+1742060 1742740 (10) Eu vou buscar ela.
+1742880 1744880 (10) Vocês, as meninas chegam perto, né?
+1745540 1746660 (10) O pai de vocês fala bem alto.
+1746920 1750300 (10) Xerife, ela afundou. Ela passou no teste.
+1750520 1751940 (10) As pessoas em volta ali
+1751940 1754760 (10) começam a se olhar e tal.
+1755040 1756160 (10) Ela passou no teste.
+1756320 1757240 (10) Ele fala de novo.
+1757760 1759620 (10) O xerife fala.
+1759720 1761140 (10, 09) Ela passou no teste.
+1761140 1762880 (10) O pai de vocês
+1762880 1765000 (10) tira a camisa e mergulha no rio.
+1765960 1768880 (02) O cais espera as irmãs chegarem
+1768880 1771000 (02) e vai pra bela do rio. Ele tá, tipo, desesperado ali.
+1771140 1773200 (06) A taba tá cheia e coloca a Bel no chão.
+1774020 1774880 (06) O que que tá acontecendo?
+1775260 1775860 (06) Cadê a mãe?
+1776300 1778160 (02) O pai disse que vai pegar ela no rio.
+1778800 1779660 (02) Disse que se a gente
+1779660 1782040 (02) fizesse alguma coisa, a gente ia ser queimado também.
+1782160 1783140 (02) E ele pulou no rio atrás dela.
+1783280 1785000 (06, 02) O pai tá aqui? Ele tá atrás dela?
+1785140 1785980 (02) Sim, ele tá lá dentro.
+1786160 1787180 (02) Ele aponta pro rio.
+1787180 1787520 (02) Ele tá na sua casa.
+1787800 1789520 (02) Ele tem uma movimentação, deve ter mergulhado.
+1789680 1791900 (10) Muitas pessoas começam a ir embora
+1791900 1793920 (10) meio constrangidas, né?
+1794460 1795500 (10) Afinal, em teoria,
+1795960 1797700 (10) afogaram uma pessoa inocente.
+1798000 1799980 (10) O próprio xerife se vê ali
+1799980 1802360 (10) cada vez mais sozinho, embora os soldados
+1802360 1803380 (10) continuem perto dele.
+1804040 1805960 (10) E ele também decide ir embora.
+1806260 1808160 (10, 02) O cais tá fuzilando o xerife
+1808160 1809020 (10, 02) com o olhar, assim.
+1809160 1811620 (10) Ele tem um olho roxo ali.
+1811980 1813700 (02) Nossa, acho que só não vai pra cima
+1813700 1815580 (07, 02) porque tem guardas do lado.
+1815580 1816100 (10, 07, 01, 02) É, armados.
+1817680 1819380 (07) Isabel tá respirando
+1819380 1821240 (07) profundamente e
+1821240 1823600 (07) sem piscar, olhando pro rio, esperando
+1823600 1824980 (07) o pai e a mãe voltar.
+1825960 1828000 (10) O pai de vocês saindo, assim,
+1828080 1829280 (10) nadando, com a
+1829280 1832320 (10) mãe de vocês, segurando a mãe de vocês.
+1833200 1834060 (10) Ele então sai do rio
+1834060 1836180 (10) com ela no ombro. Ele grita pras pessoas
+1836180 1836920 (10) que sobraram ali.
+1837080 1838740 (10) Ela tá viva! Vão embora!
+1839140 1840880 (10) E ele começa a caminhar em direção à casa
+1840880 1842600 (10) à venda de vocês.
+1842600 1844060 (10, 07) Deixa eu ajudar, deixa eu ajudar.
+1844520 1845900 (10, 07) E ela tenta ajudar a levar a mãe.
+1846100 1848640 (10) Tu sente que ela tá gelada, assim.
+1848760 1849520 (10) Gelada, gelada.
+1849800 1852760 (10, 02, 07) O cais vai correndo na frente pra poder colocar lenha
+1852760 1854460 (02) no fogão da lenha.
+1854600 1855800 (02) Se já não tiver lenha, ele coloca mais.
+1855800 1856900 (02) Vai ficar bem quente.
+1858260 1859520 (02) Tentando manter o ambiente
+1859520 1861420 (02) o mais aquecido possível pra quando ela chegar.
+1861920 1863420 (10, 02) O pai de vocês chega, deita
+1863420 1865780 (10) o corpo da mãe perto
+1865780 1868080 (10) da madeira, sopra na boca dela,
+1868660 1869800 (10) ele tenta
+1869800 1871240 (10) sentir a respiração,
+1872060 1873400 (10) ele mexe nela ali,
+1874040 1875800 (10) então ele senta e começa a chorar.
+1876180 1877620 (06) A Tabata tá em pé, parada,
+1877680 1879660 (06) olhando pra ele e vendo ele fazer tudo isso.
+1879760 1880620 (06) Eu olho pra ele.
+1881720 1882780 (06) Por que você tá chorando?
+1882780 1884780 (06, 07) Por que a mãe não tá acordando?
+1884800 1885240 (06, 07) Ela tá aqui.
+1885800 1887620 (06) Continua soprando nela.
+1888880 1890500 (10, 06, 02, 07) Você falou que ia salvar ela.
+1891080 1891420 (06) Pai?
+1892160 1894200 (06) Mãe? Mãe, a senhora tá ouvindo?
+1895320 1895800 (06) Mãe?
+1896460 1898040 (06) A Tabata deita em cima da mãe
+1898040 1899620 (06) pra segurar a mãe dela.
+1900540 1903320 (06) Mamãe, a senhora prometeu que ia voltar, mãe.
+1903960 1905200 (06, 02) A senhora prometeu.
+1905880 1906960 (02) Já pode acordar, mãe.
+1907580 1908960 (02) Tá tudo bem, eles já foram embora.
+1909360 1910580 (02) O papai já trouxe você aqui pra dentro.
+1910580 1912800 (02) Ele olha pra vocês.
+1912940 1914700 (02) Vocês são meus filhos, né?
+1914700 1916700 (07, 02) Se a gente fosse filhos de vocês de verdade,
+1916700 1918700 (07) você tava aqui quando isso aconteceu, não?
+1918700 1920700 (07) Não sei aonde.
+1920700 1922700 (08, 07) Tem um jeito.
+1922700 1924700 (08) E eu preciso de vocês.
+1924700 1926700 (08) Tranquem o andar de cima.
+1926700 1928700 (08) Tenham um dia normal.
+1928700 1930700 (08) As pessoas vão vir perguntar e vocês vão dizer
+1930700 1932700 (08) que a mãe de vocês tá dormindo no quarto.
+1932700 1934700 (08, 06) Mas ela não tá dormindo.
+1934700 1936700 (08, 06) Mas digam isso pra todos.
+1936700 1938700 (08) E que jeito é esse?
+1938700 1939700 (08) Você vai fugir de novo?
+1939700 1940700 (08) Não.
+1940700 1943700 (08) Pra isso dar certo, o povo tem que achar que a mãe de vocês sobreviveu.
+1943700 1944200 (08) Pra isso dar certo, o povo tem que achar que a mãe de vocês sobreviveu.
+1944700 1945200 (unknown) Pra isso dar certo, o povo tem que achar que a mãe de vocês sobreviveu.
+1945200 1946700 (08) Fincham normalidade.
+1946700 1948700 (08) Engolam qualquer raiva que vocês tenham.
+1948700 1950700 (08) E o que vai acontecer?
+1950700 1952700 (08) A mamãe tá gelada, pai.
+1952700 1954700 (08) Eu trago ela de volta amanhã.
+1954700 1956700 (08, 06) De que jeito?
+1956700 1958700 (08) Do mesmo jeito que trouxe vocês de volta quando a praga levou as outras crianças.
+1958700 1960700 (08) Do mesmo jeito que trouxe vocês de volta quando a praga levou as outras crianças.
+1960700 1962700 (08) Ele coloca a mãe de vocês no ombro?
+1962700 1964700 (08) Normalidade.
+1964700 1966700 (08) Se alguém desconfiar que ela não tá aqui e não tá bem,
+1966700 1968700 (08) Se alguém desconfiar que ela não tá aqui e não tá bem,
+1968700 1970700 (08) vão fazer coisas muito piores com ela.
+1970700 1972700 (08) Ele sai da venda.
+1972700 1974700 (07) Ele...
+1974700 1976700 (07) Ele abandonou a gente.
+1976700 1978700 (07) E se a gente for atrás dele?
+1978700 1980700 (02) Meninas, eu sei que...
+1980700 1982700 (02) Nunca foi um pai pra gente.
+1982700 1984700 (02) Ele tá muito mais fora do que aqui.
+1984700 1986700 (02) Mas ele pareceu falar sério agora.
+1986700 1988700 (02) Mas ele pareceu falar sério agora.
+1988700 1990700 (02) Eu acho que a gente devia ter um pouco de esperança.
+1990700 1992700 (02) Não nele.
+1992700 1994700 (02) Mas a mamãe...
+1994700 1996700 (06, 02) Ela não vai abandonar a gente assim.
+1996700 1998700 (06) Ela prometeu, não prometeu, Caius? Ela prometeu.
+1998700 2000700 (06, 07) A mamãe morreu.
+2000700 2002700 (07) Vocês estão...
+2002700 2004700 (07) Vocês estão segurando a palavra daquele homem
+2004700 2006700 (07) que nem na nossa vida tá.
+2006700 2008700 (02, 07) Bel, olha só.
+2008700 2010700 (02) Eu sei.
+2010700 2012700 (02) Eu vou ser sincero com você.
+2012700 2014700 (02) Eu respeito ele, mas desgosto dele
+2014700 2016700 (02) Eu respeito ele, mas desgosto dele
+2016700 2018700 (02) tanto quanto você.
+2018700 2020700 (02) Por ele não ser um pai aqui pra gente.
+2020700 2022700 (02) Mas se a mamãe morreu mesmo,
+2022700 2024700 (02) o que a gente vai fazer agora?
+2024700 2026700 (02) A gente vai só ficar de luto?
+2026700 2028700 (02) Esperar?
+2028700 2030700 (02) Eu sei que a gente vai cuidar um do outro.
+2030700 2032700 (02) Mas se o que ele disse
+2032700 2034700 (02) tiver pelo menos um mínimo de verdade,
+2034700 2036700 (02) pode ser uma chance que a gente tem.
+2036700 2038700 (02) Ele olha pra Tabata pra ver
+2038700 2040700 (06, 02) alguma reação dela, o que ela acha.
+2040700 2042700 (06, 02) Você vê que a Tabata tá com
+2042700 2044700 (06) o maxilar bem trancado,
+2044700 2046700 (06) sabe? Muita raiva.
+2046700 2048700 (06) Ela não quer
+2048700 2050700 (06) desmentir o que o Caius tá falando.
+2050700 2052700 (06) Ela também quer acreditar muito no que o Caius
+2052700 2054700 (06) tá falando. Ela olha pra Isobel.
+2054700 2056700 (06) Ela olha pra lareira.
+2056700 2058700 (06) Eu vou cortar lenha. Ela pega o machado
+2058700 2060700 (06) e ela vai tentar sair pelas portas dos
+2060700 2062700 (06) fundos e cortar lenha.
+2062700 2064700 (06) Mas ela tá com muita raiva. Ela vai te contar a raiva dela
+2064700 2066700 (06, 07) na lenha. A Isobel
+2066700 2068700 (07) senta na frente do fogo e fica olhando.
+2068700 2070700 (02, 07) O Caius vai sentar do lado da
+2070700 2072700 (02) Isobel.
+2072700 2074700 (02) Mas ele vai deixar ela no luto
+2074700 2076700 (02) dela. Só vai se aproximar se ela
+2076700 2078700 (07, 02) perceber que ela permitir. Ela permite.
+2078700 2080700 (02, 07) Mas ela não fala nada. Então
+2080700 2082700 (02) senta atrás dela e
+2082700 2084700 (02) tenta alinhar ela pra ela ficar um pouco mais
+2084700 2086700 (06, 02) confortável. A Tabata demora um pouquinho.
+2086700 2088700 (06) Ela volta com lenha cortada.
+2088700 2090700 (06) Ela taca mais um pouco na lenha.
+2090700 2092700 (06) Ela senta do lado do Caius.
+2092700 2094700 (06) Pega na mão da Isobel.
+2094700 2096700 (06) E ela fica ali parada do lado deles.
+2096700 2098700 (06, 02) Se a raiva que você estiver sentindo
+2098700 2100700 (02) sobre você sabe quem
+2100700 2102700 (02) for a mesma que eu tô sentindo sobre você sabe quem
+2102700 2104700 (02) a gente dá um jeito nisso depois.
+2104700 2106700 (06, 02) A Tabata começa a chorar muito.
+2106700 2108700 (06) E a... assim...
+2108700 2110700 (06) se alinha assim no colo. Assim...
+2110700 2112700 (06, 07) na perna do Caius. É.
+2112700 2114700 (07) A gente dá um jeito depois.
+2114700 2116700 (07) E ela tá olhando pro fogo.
+2116700 2118700 (10) Vocês praticamente não dormem, né?
+2118700 2120700 (10) Imagino. Mas no dia seguinte
+2120700 2122700 (10) chega a hora de abrir a venda.
+2122700 2124700 (10, 06) Vocês vão fazer o que?
+2124700 2126700 (06) A Tabata vai fazer o que ela sabe fazer de melhor.
+2126700 2128700 (06) Botar um sorriso falso no rosto.
+2128700 2130700 (06, 07) E ficar na frente da venda varrendo.
+2130700 2132700 (07) A Isobel com olheiras gigantescas
+2132700 2134700 (07) e
+2134700 2136700 (07) provavelmente não só de passar a noite em claro
+2136700 2138700 (07) mas também de ter chorado muito.
+2138700 2140700 (07) Ela vai lá. Começa a arrumar
+2140700 2142700 (07) o... a parte
+2142700 2144700 (07) dentro, né? Da vendinha.
+2144700 2146700 (07) Ajudar a Tabata. E pegar um
+2146700 2148700 (07) livro ali pra começar a escrever as trocas
+2148700 2150700 (02, 07) de dia. O Caius, ele...
+2150700 2152700 (02) foi logo cedo pra cozinha.
+2152700 2154700 (02) Começou o processo dele matinal
+2154700 2156700 (02) de fazer os pães. Hoje os pães dele
+2156700 2158700 (02) mal tão crescendo. Ele tá tentando
+2158700 2160700 (02) fazer tudo que ele faz como se fosse
+2160700 2162700 (10, 02) um dia normal. As pessoas que costumam vir
+2162700 2164700 (10) não vêm.
+2164700 2166700 (10) A cidade meio que
+2166700 2168700 (10) ignora a existência da venda essa
+2168700 2170700 (10) manhã. Ou pode ser até bom.
+2170700 2172700 (10) Mas...
+2172700 2174700 (10) quando chega mais próximo do meio do dia
+2174700 2176700 (10) o xerife, acompanhado
+2176700 2178700 (10) de os dois
+2178700 2180700 (10) soldados dele, né? Todos com...
+2180700 2182700 (10) os dois soldados
+2182700 2184700 (10) com lanças. E o xerife
+2184700 2186700 (10) com a espada na cintura. Ele dá
+2186700 2188700 (10) um sorriso pra Tabata.
+2188700 2190700 (10, 09) Bom dia. Ou boa tarde.
+2190700 2192700 (09) Não sei se já comeu.
+2192700 2194700 (06, 09) Eu olho pra ele com um olhar mais...
+2194700 2196700 (06) Meu olhar é um olhar de raiva.
+2196700 2198700 (06) Mas tem um sorriso ali.
+2198700 2200700 (10, 06) Já comi. Ele se aproxima
+2200700 2202700 (10) assim da orelha de um soldado. Faz um
+2202700 2204700 (10) comentário. Tudo consegue ouvir.
+2204700 2206700 (10, 06) O soldado dá uma risadinha.
+2206700 2208700 (09) Fiquem aqui fora. Daqui a
+2208700 2210700 (09) pouco vocês entram.
+2210700 2212700 (06, 09) A venda tá aberta, né? Você vai querer
+2212700 2214700 (06, 09) alguma coisa? Eu queria falar com a
+2214700 2216700 (09) mãe de vocês.
+2216700 2218700 (09) Disseram que ela sobreviveu ao teste
+2218700 2220700 (09) de ontem. Espero que ela não
+2220700 2222700 (06, 09) tenha nenhuma mágoa.
+2222700 2224700 (06) Não. A mãe, ela precisou
+2224700 2226700 (06, 09) sair. Saia?
+2226700 2228700 (06, 07) É, ela foi pegar mais peixe. Não, não.
+2228700 2230700 (07) A Tabata, ela já voltou. Ela tá
+2230700 2232700 (02, 07) no quarto descansando. Mas houve
+2232700 2234700 (02) um movimento e também tá em direção
+2234700 2236700 (02) à frente da venda
+2236700 2238700 (10, 02) pra poder acompanhar a conversa.
+2238700 2240700 (10) Mas o Belko contou a mentira que foi aceita.
+2240700 2242700 (10) Então, dois dados.
+2242700 2244700 (10, 07) Eu tirei seis e quatro.
+2244700 2246700 (10) Dois acertos.
+2246700 2248700 (10) O xerife, ele joga
+2248700 2250700 (10) umas moedas no balcão. Ele pega
+2250700 2252700 (10) uns pães, come. Ele olha
+2252700 2254700 (10, 09) pro Caio.
+2254700 2256700 (09) Você tem quantos anos
+2256700 2258700 (09) mesmo? Quinze.
+2258700 2260700 (09) É um rapaz forte.
+2260700 2262700 (09) Você que fez os pães?
+2262700 2264700 (09, 02) Sim. E você vai querer mais alguma
+2264700 2266700 (09, 02) coisa dentro dos pães? Não, não.
+2266700 2268700 (09, 02) Mas você... A gente tá tendo muito trabalho
+2268700 2270700 (02) aqui hoje. A gente dormiu pouco.
+2270700 2272700 (02) Então, se o senhor não
+2272700 2274700 (02) quiser mais nada,
+2274700 2276700 (07, 02) a gente te acompanha até a porta. Não, não.
+2276700 2278700 (07) Espera. Eu tenho um pão especial
+2278700 2280700 (07) que a gente fez semana passada. Tem uma maionese.
+2280700 2282700 (07) Um minutinho, tá bom?
+2282700 2284700 (07) E a Isabel vai lá dentro.
+2284700 2286700 (07) Pega um pão.
+2286700 2288700 (07) Tira um miolinho, assim. E pega um pouquinho
+2288700 2290700 (07) de qualquer creme que tiver. Alguma pastinha
+2290700 2292700 (07) de ovos, alguma coisa. Ela dá
+2292700 2294700 (01, 07) umas três cuspidas com catarro.
+2294700 2296700 (07) Mistura e passa no pão.
+2296700 2298700 (07) Olha, tá aqui, ó. Pão especial
+2298700 2300700 (09, 07) que a gente fez de manhã. Ah, obrigado.
+2300700 2302700 (10, 09) Ele morde?
+2302700 2304700 (10) Continua a conversa dele.
+2304700 2306700 (10) Dá uma olhada assim, meio
+2306700 2308700 (10, 09) esquisito pro pão. Você seria
+2308700 2310700 (09) um bom soldado, Caius.
+2310700 2312700 (09) Eu posso te arrumar
+2312700 2314700 (09, 02) um trabalho. No momento,
+2314700 2316700 (02) eu prefiro ficar aqui com minhas irmãs
+2316700 2318700 (02) e minha mãe. Eu acho que eu rendo
+2318700 2320700 (09, 02) muito melhor aqui na venda. Eu vou te contar
+2320700 2322700 (09) um segredo. A sua mãe ficou
+2322700 2324700 (09) grávida de você logo que casou.
+2324700 2326700 (09) Talvez...
+2326700 2328700 (09, 02) você seja meu filho.
+2328700 2330700 (02) Caius fica muito vermelho, mas ele se
+2330700 2332700 (02) segura o máximo que ele pode e fala
+2332700 2334700 (02) eu vou te acompanhar até a porta. E eu prefiro
+2334700 2336700 (07, 09, 02) que você saia. Caius...
+2336700 2338700 (09) Olha, ser um bastardo de um nobre
+2338700 2340700 (09) como eu pode te abrir
+2340700 2342700 (09, 07) muitas portas. A gente
+2342700 2344700 (07) agradece a preocupação.
+2344700 2346700 (07) E ela dá a mão pro Caius.
+2346700 2348700 (02) O Caius aperta. Ele até aperta a mão
+2348700 2350700 (02) da Joadão um pouco mais forte do que ele
+2350700 2352700 (02) faz normalmente. Eu prefiro que você
+2352700 2354700 (09, 02) vá embora. Tudo bem.
+2354700 2356700 (09) Eu esperava que me chamasse de papai,
+2356700 2358700 (09) mais cedo. Mas quando
+2358700 2360700 (09) quiser, é só ir lá em casa
+2360700 2362700 (09, 02) e eu vou te dar trabalho. Ele vai
+2362700 2364700 (02) murmurando assim enquanto ele tá saindo.
+2364700 2366700 (02) Eu prefiro ser filho de um demônio do que filho seu.
+2366700 2368700 (09) Ah, mandem um abraço pra
+2368700 2370700 (09) mãe de vocês. Digam
+2370700 2372700 (09) que amanhã eu volto. Posso
+2372700 2374700 (09) deixar.
+2374700 2376700 (06) Tabata, ela puxa
+2376700 2378700 (06) a roupinha da
+2378700 2380700 (06) Isobel. Ela olha pra ela.
+2380700 2382700 (06) Desculpa, eu quase errei com tudo,
+2382700 2384700 (06) não foi? Não consegui pensar direito.
+2384700 2386700 (06, 07) Tá tudo bem, tá tudo bem. É...
+2386700 2388700 (06, 02, 07) Eu também quero fazer isso.
+2388700 2390700 (02) O Caius sai de perto da porta e vai até as irmãs
+2390700 2392700 (02) e abraça elas que estão perto
+2392700 2394700 (02) assim, sem nem falar nada. Ele só
+2394700 2396700 (06, 02) muito irritado e triste ao mesmo tempo.
+2396700 2398700 (06) Você não é filho daquele cara não, Caius.
+2398700 2400700 (06) Você é bonita.
+2400700 2402700 (05) Eu olho pra ele assim e dou um beijo na bochecha
+2402700 2404700 (05, 02) do Caius. Ele riu um pouco no meio
+2404700 2406700 (02) das lágrimas que tão
+2406700 2408700 (02) descendo e deu um beijo na
+2408700 2410700 (06, 02) mão dela. Não foi mais o próximo beijo.
+2410700 2412700 (06) A gente vai ficar bem. A gente só...
+2412700 2414700 (06, 02) Eu prometo que eu vou ficar com a boca fechada.
+2414700 2416700 (02) Nosso pai realmente falou a verdade
+2416700 2418700 (02) e a gente só tem que aguentar hoje.
+2418700 2420700 (07, 02) Ele deve chegar a qualquer momento.
+2420700 2422700 (07) Ei, aquele homem,
+2422700 2424700 (07) nosso pai, ele vive na
+2424700 2426700 (02, 07) floresta, não é? É o que a mamãe
+2426700 2428700 (07, 02) diz. Que ele corta
+2428700 2430700 (02) algum tipo de lenha na floresta.
+2430700 2432700 (07, 02) Mas se ela for melhor que aqui?
+2432700 2434700 (06, 07) Mas se a gente for lá,
+2434700 2436700 (06, 07) não vai estragar com o que ele disse?
+2436700 2438700 (06, 07) Eu não sei. Ele disse que
+2438700 2440700 (07) se descobrirem que ela
+2440700 2442700 (07) tá... vai ser
+2442700 2444700 (07) pior, mas...
+2444700 2446700 (07) a gente não estiver aqui se ninguém mais voltar
+2446700 2448700 (02, 07) aqui. Vamos esperar só até
+2448700 2450700 (02) hoje? Eu não sei.
+2450700 2452700 (02) Eu tenho talvez um pouco de esperança.
+2452700 2454700 (02) Mas se ele não voltar hoje, a gente
+2454700 2456700 (02) pode pensar em sair daqui. Eu não sei
+2456700 2458700 (02) se eu me sinto bem com a gente
+2458700 2460700 (06, 02) aqui e com aquele cara. Onde
+2460700 2462700 (06, 07, 02) vocês forem, eu vou junto. Só mais
+2462700 2464700 (06, 02, 07) hoje. Só mais hoje.
+2464700 2466700 (06) Só mais hoje.
+2474700 2482700 (10) A noite chega,
+2482700 2484700 (10) quando já está bem de madrugada,
+2484700 2486700 (10) batidas
+2486700 2488700 (10, 02) na porta. Dá pra gente olhar pela janela
+2488700 2490700 (02) quem tá na porta? Ou tá algum olho mágico?
+2490700 2492700 (10, 02) Aqui não vai ter olho mágico porque... Não. É.
+2492700 2494700 (10, 02) Dá pra olhar pela janela. Tá o
+2494700 2496700 (10) pai de vocês com a mãe de vocês.
+2496700 2498700 (10, 02) Ela tá de pé ou tá nos braços
+2498700 2500700 (10) dele? Tá apoiado assim...
+2500700 2502700 (10) Ele tá do lado... Ela tá em pé,
+2502700 2504700 (10) mas ele tá apoiado do lado dela, né?
+2504700 2506700 (10) Tá apoiado, o corpo dela apoiado nele.
+2506700 2508700 (10) O cais vai pra porta e abre imediatamente.
+2508700 2510700 (10) Ele entra rapidamente.
+2510700 2512700 (10) A mãe de vocês
+2512700 2514700 (10) dá passos. Ela
+2514700 2516700 (10) tá assim com os cabelos meio jogados pra
+2516700 2518700 (10, 02) frente e... Traguem a
+2518700 2520700 (10) porta. Ele obedece.
+2520700 2522700 (10) E depois vai pra mãe.
+2522700 2524700 (10) Ele solta a mãe de vocês e se afasta um pouco.
+2524700 2526700 (10) Ela fica parada em pé assim.
+2526700 2528700 (10) Ela encara lentamente
+2528700 2530700 (10) cada um de vocês
+2530700 2532700 (10, 07) e continua parada. Mãe?
+2532700 2534700 (10, 06, 07) Você tá bem? Mãe, você voltou?
+2534700 2536700 (06, 07) Ela se aproxima lentamente.
+2536700 2538700 (07) Ela tá meio incerta pra tentar abraçar.
+2538700 2540700 (06, 07) Eu seguro a
+2540700 2542700 (06) Isobel. Mãe? É a senhora?
+2542700 2544700 (08, 06) Eu não sei o que aconteceu.
+2544700 2546700 (08) Eu não fiquei quando vocês
+2546700 2548700 (08) voltaram. Eu não sei se isso é normal
+2548700 2550700 (08) ou se leva um tempo pras memórias voltarem,
+2550700 2552700 (08) mas ela voltou assim.
+2552700 2554700 (08, 06) Muda. Eu
+2554700 2556700 (06, 07) solto a Isobel. Mãe? Ela dá um
+2556700 2558700 (07) puxão assim no vestido, querendo chamar
+2558700 2560700 (10, 07) atenção. Ela te olha
+2560700 2562700 (10) assim com um olhar meio vazio, meio distante.
+2562700 2564700 (10, 02) Por que ela tá assim? Ela não tá nem falando com
+2564700 2566700 (10, 02) a gente. Que tipo de coisa você fez pra trazer
+2566700 2568700 (08, 02) ela? O tipo de coisa proibida.
+2568700 2570700 (08) Eu vou atrás de mais informações.
+2570700 2572700 (08) Levem ela para o quarto.
+2572700 2574700 (08) Talvez amanhã
+2574700 2576700 (08, 06) as memórias voltem. Eu seguro
+2576700 2578700 (06) no braço dele, mas
+2578700 2580700 (08, 06) ela vai ficar assim por muito tempo?
+2580700 2582700 (08) Eu não sei. Quando vocês voltaram
+2582700 2584700 (08, 07) eu saí. Vocês sempre saem.
+2584700 2586700 (08, 01, 07) Vocês morreram! O que a mãe de vocês
+2586700 2588700 (08) fez, eu só entendi
+2588700 2590700 (08, 07) hoje. O que que você fez?
+2590700 2592700 (08) Como assim a gente morreu?
+2592700 2594700 (08) Isso não faz nem sentido. Só...
+2594700 2596700 (08) Cuidem dela.
+2596700 2598700 (08, 07) E eles saem.
+2598700 2600700 (08, 07) Não acreditava.
+2600700 2602700 (07) Mãe, vamos ficar perto do fogo.
+2602700 2604700 (07) E eu pego na mão dela e vou
+2604700 2606700 (07) meio que puxando pra ir lá pra cima.
+2606700 2608700 (02, 07) Ela tá andando ou a gente
+2608700 2610700 (02) precisa apoiar
+2610700 2612700 (10, 02) ela na gente pra poder fazer ela andar?
+2612700 2614700 (10) Vocês puxam a mão dela, ela dá os passos.
+2614700 2616700 (10, 06, 02) A Tabatha fecha a porta,
+2616700 2618700 (06) coloca uma cadeira ali pra recostar.
+2618700 2620700 (06) Ela vem chegando perto do
+2620700 2622700 (06) Caius. Ela tá com uma cara de muito
+2622700 2624700 (06) assustada. A mão dela tá
+2624700 2626700 (06) bem gelada. Ela segura na cara dele.
+2626700 2628700 (06) Isso não...
+2628700 2630700 (06) Não é a mãe.
+2630700 2632700 (06) Não é possível que seja a mãe.
+2632700 2634700 (06, 02) Tá muito estranha. Será que é só
+2634700 2636700 (02) o susto
+2636700 2638700 (02) dela ter quase morrido
+2638700 2640700 (02) e ela ficou assim,
+2640700 2642700 (02) em um estado catatônico?
+2642700 2644700 (02) Vamos levar ela pro fogo. Vamos esperar
+2644700 2646700 (02) um pouco. Não quero mais esperar, mas vamos esperar
+2646700 2648700 (02) mais um pouco e ver se ela melhora.
+2648700 2650700 (02) Ela tá
+2650700 2652700 (02) viva e tá aqui com a gente.
+2652700 2654700 (06, 02) Isso já é mais do que a gente tinha ontem.
+2654700 2656700 (06, 02) E essa história de que a gente morreu?
+2656700 2658700 (02) Isso não faz muito sentido. Guaxa,
+2658700 2660700 (02) puxando qualquer parte da minha
+2660700 2662700 (02) memória, eu consigo alguma
+2662700 2664700 (02) coisa relacionada à morte nossa?
+2664700 2666700 (10, 02) Alguma coisa assim? Dois dados.
+2666700 2668700 (02) Eu tirei três
+2668700 2670700 (10, 02) e três, sendo três o meu atributo.
+2670700 2672700 (10, 02) Caraca! São dois acertos críticos,
+2672700 2674700 (10) né? Exatamente dois anos
+2674700 2676700 (10) atrás, teve uma doença
+2676700 2678700 (10) que ficou chamada como doença do nariz
+2678700 2680700 (10) vermelho. Tipo uma gripe forte.
+2680700 2682700 (10) Pegava principalmente em crianças.
+2682700 2684700 (10) Muitos colegas de vocês
+2684700 2686700 (10) acabaram falecendo naquele
+2686700 2688700 (10) tempo. Foi um inverno bem rigoroso.
+2688700 2690700 (10) Vocês lembram,
+2690700 2692700 (10) tu lembra, né? Tanto você
+2692700 2694700 (10) quanto as tuas irmãs.
+2694700 2696700 (10) Bem, bem doente.
+2696700 2698700 (10) O nariz inchado,
+2698700 2700700 (10) vermelho mesmo, dificuldade
+2700700 2702700 (10) de respirar e
+2702700 2704700 (10) te vem à memória
+2704700 2706700 (10) que tu tem lembranças disso
+2706700 2708700 (10) e depois as lembranças
+2708700 2710700 (10) como se tivesse uma lacuna
+2710700 2712700 (10) e então tava
+2712700 2714700 (10) tudo bem e tu tava ali
+2714700 2716700 (10) vivendo com a tua mãe e teu pai já não morava
+2716700 2718700 (10) mais ali. Tu não consegue lembrar
+2718700 2720700 (10) da briga ou do dia, por exemplo,
+2720700 2722700 (10) que teu pai saiu dali.
+2722700 2724700 (10) Parece que a história que
+2724700 2726700 (10, 02) te contaram é verdade.
+2726700 2728700 (02) É, o Cais vai andando
+2728700 2730700 (02) junto com a Tabata,
+2730700 2732700 (02) a mãe e a Isobel pra
+2732700 2734700 (02) tá perto da lareira.
+2734700 2736700 (02) Enquanto isso ele vai pensando
+2736700 2738700 (02) e ele vai
+2738700 2740700 (02) começar a falar com as meninas
+2740700 2742700 (02) eu não sei se vocês vão se lembrar
+2742700 2744700 (02) vocês lembram dessa
+2744700 2746700 (02) doença que teve há um tempo atrás
+2746700 2748700 (02) que a gente ficou bem mal
+2748700 2750700 (02) nosso nariz ficou bem inchado
+2750700 2752700 (02) por um momento
+2752700 2754700 (02) depois disso, da gente muito
+2754700 2756700 (02) doente, eu não consigo
+2756700 2758700 (02) lembrar de nada. É como
+2758700 2760700 (02) se minha memória desse um
+2760700 2762700 (02) salto e fosse pra logo depois disso
+2762700 2764700 (02) eu não consigo lembrar, parece que tem um
+2764700 2766700 (02) buraco na minha cabeça
+2766700 2768700 (02) isso, vocês lembram do que aconteceu
+2768700 2770700 (02) com a gente? Eu não lembro nem do papo
+2770700 2772700 (02) ai saindo daqui, de quando eles
+2772700 2774700 (02) brigaram, de quando ele parou
+2774700 2776700 (02) de ser parte da nossa, do nosso
+2776700 2778700 (06, 02) cotidiano. Eu não sei
+2778700 2780700 (06) a gente consegue lembrar também Guaxa?
+2780700 2782700 (10, 06) Agora com ele falando sim.
+2782700 2784700 (06) A Tabata passa a mão na
+2784700 2786700 (06) cabeça. Eu acho que eu
+2786700 2788700 (06) lembro que
+2788700 2790700 (06) dessa doença
+2790700 2792700 (06) depois disso
+2792700 2794700 (06) eu não lembro mais
+2794700 2796700 (06) só que seguimos
+2796700 2798700 (06, 07) uma vida normal. A Isobel
+2798700 2800700 (07) ela tá mais animada e ela
+2800700 2802700 (07) pegou um pente de cabelo e tá
+2802700 2804700 (07) passando no cabelo da mãe assim
+2804700 2806700 (07) claramente ela tá mais feliz desde que a mãe
+2806700 2808700 (07) voltou, não importa o estado que ela esteja
+2808700 2810700 (07) e ela fala
+2810700 2812700 (07) eu não sei, eu fiquei
+2812700 2814700 (07) tantas vezes doente que
+2814700 2816700 (07) tudo vira meio que a mesma
+2816700 2818700 (07) coisa na minha cabeça, mas
+2818700 2820700 (07) eu lembro de tá doente
+2820700 2822700 (07) de repente eu lembrar de
+2822700 2824700 (07) a gente tá junto
+2824700 2826700 (07) eu não sei, é tudo meio confuso
+2826700 2828700 (02, 07) Eu só parei pra pensar nisso
+2828700 2830700 (02) porque o pai disse que
+2830700 2832700 (02) a mãe fez o mesmo
+2832700 2834700 (02) a mamãe fez o mesmo com a gente
+2834700 2836700 (02) quando a gente morreu
+2836700 2838700 (02) e eu tentei lembrar se a gente
+2838700 2840700 (02) de fato tinha morrido, mas
+2840700 2842700 (02) eu só encontrei esse buraco
+2842700 2844700 (02) na cabeça. Será que isso
+2844700 2846700 (02) faz algum sentido? Será
+2846700 2848700 (02) que de fato a gente morreu tal como
+2848700 2850700 (02) o mesmo que aconteceu com a mamãe?
+2850700 2852700 (06) Se a gente morreu
+2852700 2854700 (06) e a gente não lembra
+2854700 2856700 (06) dessa parte do que
+2856700 2858700 (06) aconteceu com a gente
+2858700 2860700 (06) e a mamãe tá assim estranha e o papai disse que
+2860700 2862700 (06) era só pra gente ficar com ela
+2862700 2864700 (06) cuidar dela, deve fazer
+2864700 2866700 (06) algum sentido então. Então deu certo!
+2866700 2868700 (06, 07) É, a gente pode perguntar pra ela
+2868700 2870700 (07) quando amanhecer, né mamãe?
+2870700 2872700 (07) E ela meio que tá com
+2872700 2874700 (07) um olhar esperançoso olhando pro rosto da mãe
+2874700 2876700 (10, 07) Não tem uma má reação
+2876700 2878700 (07) Eu acho que ela disse assim
+2878700 2880700 (02, 07) O Caís vai levantar
+2880700 2882700 (02) e curar dentro dos pães
+2882700 2884700 (02) meio tronchos que ele fez
+2884700 2886700 (02) hoje, o pão mais bonito
+2886700 2888700 (02) e tentar dar pra mãe comer enquanto ela tá ali
+2888700 2890700 (02) pra ver se ela se alimenta um pouco ou menos
+2890700 2892700 (02) cortando de pedacinhos em pedacinhos
+2892700 2894700 (02) e colocando na boca dela
+2894700 2896700 (10, 02) ver se ela mexe a boca ou se ela deglute
+2896700 2898700 (10) Ela come uma dificuldade, mas ela
+2898700 2900700 (10) faz o que tá...
+2900700 2902700 (10) com muita ajuda, né, ela acaba fazendo
+2902700 2904700 (10, 06) comendo ali
+2904700 2906700 (06) Eu pego na mão da mãe, olho pra ela assim
+2906700 2908700 (06) Mãe, amanhã vai ter
+2908700 2910700 (06) guisado. Eu prometo que eu vou pegar
+2910700 2912700 (06) a melhor ave possível
+2912700 2914700 (06) que eu conseguir achar
+2914700 2916700 (10, 06) e a senhora vai comer o melhor guisado de todos
+2916700 2918700 (10) Eu imagino que os quatro acabam dormindo juntos, né?
+2918700 2920700 (10, 02) Sim, eu acho que ali mesmo, né?
+2920700 2922700 (10, 06, 02) É
+2922700 2924700 (10) Mas um novo dia se inicia
+2924700 2926700 (10, 02) O que vocês vão fazer?
+2926700 2928700 (02) Eu vou levar a mamãe pro quarto e vou deixar ela lá descansando
+2928700 2930700 (02) Eu acho que se a gente não abrir hoje
+2930700 2932700 (02) vai ficar um clima estranho
+2932700 2934700 (02) Então a gente deixa ela lá
+2934700 2936700 (02) e se alguém perguntar, ela tá descansando
+2936700 2938700 (02) que de fato é verdade
+2938700 2940700 (02) e a gente tenta tocar a vida hoje
+2940700 2942700 (02) e ver o que acontece. Tudo bem pra vocês?
+2942700 2944700 (06, 07) Tudo, tudo. Daqui a pouco ela tá melhor
+2944700 2946700 (02) Sim, eu também gosto de pensar
+2946700 2948700 (06, 02) dessa forma dela
+2948700 2950700 (06) Agora eu tô mais aliviada
+2950700 2952700 (06) e depois disso
+2952700 2954700 (06) vamos arrumar as coisas e descer
+2954700 2956700 (02) O Caio leva ela pro quarto
+2956700 2958700 (02) deixa ela deitada
+2958700 2960700 (02) na cama dela mesma, cobre ela
+2960700 2962700 (02) imagino, se estiver um pouco frio
+2962700 2964700 (02) ele cobre com uma coberta um pouco mais
+2964700 2966700 (02) grossa, com uma pele um pouco mais
+2966700 2968700 (02) quente e deixa ela no quarto
+2968700 2970700 (02) o mais confortável que ele consegue
+2970700 2972700 (02) é deixar ela
+2972700 2974700 (02) um copo d'água do lado
+2974700 2976700 (02) um jarro
+2976700 2978700 (02) pra ela
+2978700 2980700 (02) por acaso acordar
+2980700 2982700 (02) e aí ele dá um beijo na testa dela
+2982700 2984700 (06, 02) e desce
+2984700 2986700 (06) Eu puxo de cantinho a Bel
+2986700 2988700 (06, 07) Você tá bem, Bel?
+2988700 2990700 (06, 07) Eu tô. Por que que eu não estaria?
+2990700 2992700 (06) Não. É que a mana se preocupa
+2992700 2994700 (06, 07) Eu tô bem. A mãe voltou e ela
+2994700 2996700 (07) ela vai ficar bem, né?
+2996700 2998700 (07) Ela vai ficar bem
+2998700 3000700 (06, 07) Você vê que tem um pouquinho
+3000700 3002700 (06, 07) A mãe vai ficar bem, sim
+3002700 3004700 (06, 07) Tem um pouquinho de incerteza nos olhos dela
+3004700 3006700 (06) A Tabata segura o rosto da Bel
+3006700 3008700 (06) Ela encosta assim
+3008700 3010700 (06) a testa, o nariz
+3010700 3012700 (06) Quando que a irmã mentir pra você?
+3012700 3014700 (06) A mãe vai ficar bem
+3014700 3016700 (07) Ela vai ficar bem
+3016700 3018700 (07) A gente tem que arrumar a loja, tá bom?
+3018700 3020700 (06, 07) E ela meio que safaça e vai arrumar
+3020700 3022700 (06) A Tabata vai arrumando as coisas e fazendo palhaçada
+3022700 3024700 (06) pra Bel rir
+3024700 3026700 (06, 02) porque ela viu que a Bel fica meio tristinha
+3026700 3028700 (02) Cai espaço também
+3028700 3030700 (02) Enche elas de trigo, umas bochechas no cabelo
+3030700 3032700 (02) na roupa
+3032700 3034700 (02) Tenta ajudar um pouco a Tabata
+3034700 3036700 (10, 02) a não mais errar
+3036700 3038700 (10) Amanhã novamente
+3038700 3040700 (10) procura ali
+3040700 3042700 (10) uma ou outra pessoa até passa
+3042700 3044700 (10) troca alguma coisa
+3044700 3046700 (10) compra um pão
+3046700 3048700 (10) Mas é óbvio que o momento que chama a atenção
+3048700 3050700 (10) logo no início da tarde
+3050700 3052700 (10) o xerife Albino
+3052700 3054700 (10) com a sua roupa
+3054700 3056700 (10) perfeitamente limpinha
+3056700 3058700 (10) seu chapéu, sua espada, seu bigode
+3058700 3060700 (10) ele faz sinal
+3060700 3062700 (10) pros guardas dele ficarem mais
+3062700 3064700 (10) distantes
+3064700 3066700 (10, 09) e ele entra na venda
+3066700 3068700 (09, 02) Boa tarde, crianças
+3068700 3070700 (09, 02) Seu Albino
+3070700 3072700 (09, 02) A mãe de vocês tá por aí?
+3072700 3074700 (02) Não, ela tá descansando lá em cima
+3074700 3076700 (02) Mas dois dias?
+3076700 3078700 (02) Bom, se não tivessem jogado ela na água
+3078700 3080700 (09, 02) amarrada
+3080700 3082700 (09) O povo desconfiava que ela fosse uma bruxa
+3082700 3084700 (09) Eu fiz, foi um bem pra ela
+3084700 3086700 (09, 02) Ninguém desconfia mais
+3086700 3088700 (02) Isso não parece culpa só do povo
+3088700 3090700 (09, 02) Parece muito bem culpa sua
+3090700 3092700 (09) Eu sou apenas um instrumento da lei
+3092700 3094700 (09) Tenho que ser imparcial
+3094700 3096700 (09) Por mais que eu goste de você e da sua mãe
+3096700 3098700 (09, 07) Parcial?
+3098700 3100700 (09, 07) Ah, era sobre isso mesmo
+3100700 3102700 (09) que eu queria falar com vocês
+3102700 3104700 (09) Ele vai até a Taba?
+3104700 3106700 (06, 09) Eu tô deixando tudo pronto para o seu casamento
+3106700 3108700 (06, 09, 02) Meu casamento?
+3108700 3110700 (02) O Kai se coloca do lado dela
+3110700 3112700 (09, 02) Você falou que queria casar
+3112700 3114700 (09) Eu tô providenciando
+3114700 3116700 (09) Não sei se já contaram
+3116700 3118700 (09) pra você, mas
+3118700 3120700 (09) existe uma tradição
+3120700 3122700 (10, 09) antes do casamento
+3122700 3124700 (10, 09, 06) Ele coloca a mão no teu cabelo
+3124700 3126700 (06) Eu tiro a mão dele do meu cabelo
+3126700 3128700 (06) Não é algo que eu pretendo fazer agora
+3128700 3130700 (02) O Kai está do lado dele
+3130700 3132700 (02) e ele empurra ele pra trás
+3132700 3134700 (10, 02) Não coloca as mãos na minha irmã
+3134700 3136700 (10, 02) Dois lados
+3136700 3138700 (10, 02) Não, quatro e quatro
+3138700 3140700 (10) Ele dá um passo pra trás rindo assim
+3140700 3142700 (10) Ele te empurra com força
+3142700 3144700 (10) Tu bate contra o balcão
+3144700 3146700 (10) derrubando pão, derrubando algumas coisas
+3150700 3152700 (09) Talvez você não seja mesmo meu filho
+3152700 3154700 (06, 09) Quando ele fez isso
+3154700 3156700 (06) Depois de falar isso eu empurro ele
+3156700 3158700 (06) Eu estou com muita raiva
+3158700 3160700 (10, 06) Tudo o que ele fez
+3160700 3162700 (06) Dois lados
+3162700 3164700 (10, 06) Cinco e três
+3164700 3166700 (10, 09) Ele dá uns passos pra trás
+3166700 3168700 (10, 09) Mais fraco que a sua irmãzinha
+3168700 3170700 (10) Ele saca a espada e aponta ela pro teu rosto
+3170700 3172700 (10, 09) Eu não queria machucar essa pele
+3172700 3174700 (09) mas você deveria ficar longe de mim
+3174700 3176700 (09, 07) A Isobel entra na frente da espada
+3176700 3178700 (07) e fala
+3178700 3180700 (07) Senhor Albino, por favor
+3180700 3182700 (07) A gente só tá muito assustado
+3182700 3184700 (07) que o que aconteceu com nossa mãe
+3184700 3186700 (07) Mas ela já tá melhor
+3186700 3188700 (07) E tá tudo certo
+3188700 3190700 (07) A gente se prepara pro casamento, tá bom?
+3190700 3192700 (09, 07) Os seus pães estão ali em cima do balcão
+3192700 3194700 (09) Talvez a bruxa dessa casa seja uma de vocês
+3194700 3196700 (09) Eu pensaria duas vezes
+3196700 3198700 (09) Antes de me tratar com insolências
+3198700 3200700 (09, 07) Não, não
+3200700 3202700 (07) Não tem nenhuma pretensão a pessoas tentando viver
+3202700 3204700 (07) Tá tudo bem, eu juro
+3204700 3206700 (02, 07) Tá tudo bem
+3206700 3208700 (02) Caio se levanta e fala assim
+3208700 3210700 (02) Só vai haver casamento se a Tabata quiser
+3210700 3212700 (02) E você não vai impor
+3212700 3214700 (02) Nenhuma vontade sua sobre ela
+3214700 3216700 (02) Não tem, meu rapaz
+3216700 3218700 (02) Essa lei que você inventou e trouxe pra cá
+3218700 3220700 (02) Não tinha lei nenhuma aqui
+3220700 3222700 (02) Você fala de imparcialidade
+3222700 3224700 (02) E como imparcializar esse olho oposto seu?
+3224700 3226700 (07, 02) Caio, Caio
+3226700 3228700 (02, 07) Não
+3228700 3230700 (02) Ele olha pra Bel e tenta se acalmar
+3230700 3232700 (10, 02) A porta do quarto da mãe de você se abre
+3232700 3234700 (10) Todo mundo olhando assustado
+3236700 3238700 (10, 09) Parece que já está melhor
+3238700 3240700 (10) A mãe de você está de pé
+3240700 3242700 (10) Ela dá um passo
+3242700 3244700 (10) Ela dá dois
+3244700 3246700 (10) Ela se abaixa
+3246700 3248700 (10) Como um bicho mesmo
+3248700 3250700 (10) Nas mãos e nos pés
+3250700 3252700 (10) E ela corre e pula
+3252700 3254700 (10) Com as quatro patas
+3254700 3256700 (10) Com a mão e os pés
+3256700 3258700 (10) Cada vez mais rápido
+3258700 3260700 (10) Salta sobre o xerife
+3260700 3262700 (10) Ele cai no chão
+3262700 3264700 (10) Ela em pé sobre o corpo dele
+3264700 3266700 (10) Ela segura a cabeça dele
+3266700 3268700 (10) Começa a bater com muita força no chão
+3268700 3270700 (10, 06) E o sangue começa a espalhar
+3270700 3272700 (06, 02) Nossa, vou tentar segurar a mãe
+3272700 3274700 (02) Já foi em direção a mãe
+3274700 3276700 (02) E ele vai em direção a porta
+3276700 3278700 (10, 02) Tentar trancar a porta e colocar alguma coisa na frente
+3278700 3280700 (10, 02) Dois dados
+3280700 3282700 (02) Tirei três e um sendo três
+3282700 3284700 (10, 02) Tu olha pela fresta da porta
+3284700 3286700 (10) Os dois soldados que acompanhavam o xerife
+3286700 3288700 (10) Correndo
+3288700 3290700 (10, 02) Então tu fecha a porta ali
+3290700 3292700 (02) Eu estou com medo deles tentarem arrumar a porta
+3292700 3294700 (02) Então estou forçando a porta
+3294700 3296700 (02) Colocando cadeira
+3296700 3298700 (07, 02) Tudo que eu puder ali
+3298700 3300700 (07) Eu fui ajudar a Sábata
+3300700 3302700 (07) Para tirar a mãe de cima do corpo
+3302700 3304700 (10, 07) A mãe de vocês larga a cabeça do xerife
+3304700 3306700 (10) Que já está bem esmagada
+3306700 3308700 (10) Tem muito do xerife
+3308700 3310700 (10, 03, 06) Espalhada pelo chão
+3310700 3312700 (10, 03) A mãe se afasta um pouco
+3312700 3314700 (10, 03) E diz
+3314700 3316700 (06, 03) Você não vai mexer com os meus filhos
+3316700 3318700 (10, 06, 03) A Sábata agarra a mãe dela e começa a chorar
+3318700 3320700 (06, 07) Desesperada
+3320700 3322700 (07) A Isabel fica uns minutos olhando para o nada
+3322700 3324700 (07) Olhando para a mãe, olhando para o chão
+3324700 3326700 (07) Vendo o sangue que espirrou nela
+3326700 3328700 (07) E ela vira para o cais e fala
+3328700 3330700 (07) Pega suas coisas, a gente tem que sair pela porta de fora
+3330700 3332700 (02, 07) Eu concordo, eu concordo
+3332700 3334700 (07, 02) Mãe, mãe
+3334700 3336700 (07) A gente vai para a floresta, tá bom?
+3336700 3338700 (10, 07) A gente vai encontrar o pai
+3338700 3340700 (10) Vocês se afastam ali, pegam as coisas
+3340700 3342700 (10) Os soldados estão tendo dificuldade para arrumar a porta ali
+3342700 3344700 (10) Não dá tempo para vocês pegarem as coisas
+3344700 3346700 (10) E saírem por trás
+3346700 3348700 (10) Vocês vão em direção a floresta, é isso?
+3348700 3350700 (10, 02) Sim
+3350700 3352700 (02) No caminho, Caio, se der tempo
+3352700 3354700 (02) Ele só pega um pedaço de papel qualquer
+3354700 3356700 (02) Escreve com carvão floresta e deixa do lado da lareira
+3356700 3358700 (02) Mas assim, na ponta do fogo
+3358700 3360700 (10, 02) Só para ficar ali um papelzinho
+3360700 3362700 (10, 02) Tipo num lugar escondido
+3362700 3364700 (02) Porque ele acha que a lareira é um local
+3364700 3366700 (02) Que as crianças sempre ficam
+3366700 3368700 (06, 02) E o pai dele procuraria ali
+3368700 3370700 (06) Quando a gente está saindo
+3370700 3372700 (06) A Tabatela passa onde fica o machado
+3372700 3374700 (06) Ela pega o machado
+3374700 3376700 (06) E fica preparada para qualquer coisa
+3376700 3378700 (06) Então ela vai fazer a retaguarda
+3378700 3380700 (06) Enquanto o Caio está ali
+3380700 3382700 (06, 07) E a Isabel também
+3382700 3384700 (07) Puxando a mãe
+3384700 3386700 (07) No meio tempo a Isabel está perguntando para a mãe
+3386700 3388700 (07) Mãe, você está bem?
+3388700 3390700 (07) Sim
+3390700 3392700 (07) Como é que você conseguiu fazer aquilo?
+3392700 3394700 (03, 07) Meus olhos alçam mais de admiração do que medo
+3394700 3396700 (03) Eu não sei
+3396700 3398700 (03) Me jogaram no rio
+3398700 3400700 (07, 03) Eu acordei com muita raiva
+3400700 3402700 (03, 07) Não da gente, né?
+3402700 3404700 (03) Não, não
+3404700 3406700 (03) Mas foi o que aconteceu com o Caio também
+3406700 3408700 (07, 03, 02) Como assim, mãe?
+3408700 3410700 (03) Eu fiquei desesperada quando perdi vocês
+3410700 3412700 (03) E...
+3412700 3414700 (03) A minha avó é uma bruxa de verdade
+3414700 3416700 (03) Ela mora nessa floresta
+3416700 3418700 (03) Eu levei vocês até lá
+3418700 3420700 (03) E ela trouxe vocês de volta para mim
+3420700 3422700 (03) Disse que vocês estariam
+3422700 3424700 (03) Marcados pelas trevas
+3424700 3426700 (03) Mas vivos
+3426700 3428700 (03) Quando vocês voltaram, não lembraram de nada
+3428700 3430700 (02, 03) Então...
+3430700 3432700 (02) O que o pai disse era verdade?
+3432700 3434700 (03, 02) Ele ficou desesperado
+3434700 3436700 (03) Disse que o que eu fiz
+3436700 3438700 (03) Era errado
+3438700 3440700 (03) Ele estava discutindo comigo
+3440700 3442700 (03) Mas só com palavras
+3442700 3444700 (03) Caio se levantou
+3444700 3446700 (03) Você saltou sobre ele
+3446700 3448700 (03) Se eu não te segurasse
+3448700 3450700 (03) Ele teria morrido naquele momento também
+3450700 3452700 (03) Ele...
+3452700 3454700 (02, 03) Tem medo de vocês
+3454700 3456700 (03, 02) E por isso que ele foi embora?
+3456700 3458700 (03) Ele tinha medo de dormir no mesmo lugar
+3458700 3460700 (03) Ele nunca foi embora
+3460700 3462700 (03) Sempre esteve de olho
+3462700 3464700 (03) Acho que ele nunca entendeu o que eu fiz
+3464700 3466700 (06, 03) Até agora
+3466700 3468700 (06) Então foi por isso que ele perguntou se a gente era realmente filho dele
+3468700 3470700 (06) O pai não vê a gente como filho então
+3470700 3472700 (06) Não mesmo
+3472700 3474700 (10, 06) Eu não sei
+3474700 3476700 (10) Ela passou a estar guiando vocês ali pela floresta
+3476700 3478700 (10) Para as coisas serem bem
+3478700 3480700 (10, 03, 07) E ela para diante do rio
+3480700 3482700 (07, 03) Se cruzarmos esse rio, não tem mais volta
+3482700 3484700 (07) E por que a gente voltaria?
+3484700 3486700 (07) Para uma cidade que odeia a gente?
+3486700 3488700 (07) E tentou matar
+3488700 3490700 (07) Você uma vez
+3490700 3492700 (07) E tentou vender
+3492700 3494700 (07) Tentou...
+3494700 3496700 (07) Eu não quero nem imaginar o que aquele xerife queria com a tábua
+3496700 3498700 (07) A gente só tem a gente
+3498700 3500700 (07) E não importa o que o pai falou
+3500700 3502700 (07) Se as pessoas chamam de trevas ou não
+3502700 3504700 (07) É o que está protegendo a gente
+3504700 3506700 (10, 02, 07) Então eu fico com você mãe
+3506700 3508700 (10, 02) Olha para os outros
+3508700 3510700 (02) E se coloca do lado delas no mesmo momento
+3510700 3512700 (06, 02) Que ele percebe que ela está vendo para ele
+3512700 3514700 (06) A tábua até ela para
+3514700 3516700 (06) Ela olha um pouco para trás
+3516700 3518700 (06) Ela lembra do Ícaro
+3518700 3520700 (06) Ela sente uma pontada no coração
+3520700 3522700 (06) Mas ela olha para a mãe e os irmãos
+3522700 3524700 (06) Eu vou para onde vocês forem
+3524700 3526700 (06) Então não faz mal a gente ir embora
+3526700 3528700 (06, 03) Eu sempre tive medo
+3528700 3530700 (03) Cresci ouvindo que as trevas e as bruxas eram más
+3530700 3532700 (03) Que eu tinha que crescer
+3532700 3534700 (03) Vivendo nas cidades
+3534700 3536700 (10, 03) Mas vocês estão certos
+3536700 3538700 (10) Ela dá as mãos assim para vocês
+3538700 3540700 (10) E um de vocês dá a mão para um terceiro
+3540700 3542700 (10, 03) Da onde vamos
+3542700 3544700 (03) É o mundo das bruxas
+3544700 3546700 (03) O mundo das trevas
+3546700 3548700 (03) Vamos juntos?
+3548700 3550700 (07, 03) Aí sua pai vai balançar a cabeça
+3550700 3552700 (06, 07) Pensa com calma que eu também vou balançar a cabeça
+3552700 3554700 (10, 06) Antes a senhora foi eu vou mãe
+3554700 3556700 (10) A mãe de vocês dá um passo sobre o rio
+3556700 3558700 (10) E ela não afunda
+3558700 3560700 (10) Nem um de vocês afunda
+3560700 3562700 (10) Vocês atravessa o rio caminhando
+3566700 3568700 (unknown) O rio caminhando
+3594700 3596700 (09) Escuta o mestre
+3596700 3598700 (10) O segundo mestre caiu de tudo em papelão e madeira
+3598700 3600700 (10) Que o mestre usa para soltar suas lançamentos de dados
+3600700 3602700 (10) Mas aqui eu baixo para vocês e conto tudo o que aconteceu
+3602700 3604700 (10) Na aventura
+3604700 3606700 (10) A ideia dessa aventura começou com algo que eu nem posso explicar ainda
+3606700 3608700 (10) Porque a ideia se desdobrou
+3608700 3610700 (10) Em duas aventuras
+3610700 3612700 (10) Então existe uma outra aventura
+3612700 3614700 (10) Com a ideia que originou isso aqui
+3614700 3616700 (10) Que eu quero contar com vocês
+3616700 3618700 (10) Mais resumidamente sem dar futuros spoilers
+3618700 3620700 (10) Era pensando em bruxas
+3620700 3622700 (10) E como na idade média
+3622700 3624700 (10) Elas eram testadas
+3624700 3626700 (10) Na água
+3626700 3628700 (10) Eu vi alguma coisa sobre bruxas
+3628700 3630700 (10) Sobre jogá-las amarradas no rio
+3630700 3632700 (10) E descobrir se eram bruxas ou não
+3632700 3634700 (10) E isso acabou me marcando recentemente
+3634700 3636700 (10) Então eu trouxe isso para essa aventura
+3636700 3638700 (10) Junto com outros elementos
+3638700 3640700 (10) Que vocês ouviram no episódio
+3640700 3642700 (10) A parte no final inclusive
+3642700 3644700 (10) Da mãe andar sobre a água
+3644700 3646700 (10) Foi algo que eu decidi na hora
+3646700 3648700 (10) Por um motivo também
+3648700 3650700 (10) Que eu acho que combinou
+3650700 3652700 (10) Com o fechamento da aventura
+3652700 3654700 (10) Com aquela família indo
+3654700 3656700 (10) Para um lugar místico
+3656700 3658700 (10) Sem o pai novamente
+3658700 3660700 (10) Talvez porque ele não pudesse ir lá
+3660700 3662700 (10) Talvez porque a família não o quisesse ir lá
+3662700 3664700 (10) Talvez futuramente ele vá
+3664700 3666700 (10) Mas...
+3666700 3668700 (10) Eu achei que a história fechou bem
+3668700 3670700 (10) Embora ela trabalhe com temas fortes
+3670700 3672700 (10) Espero que vocês tenham gostado
+3672700 3674700 (10) Da aventura de hoje
+3674700 3676700 (10) Agradeço demais aos jogadores
+3676700 3678700 (10) Agradeço demais ao Caio Lorenzo
+3678700 3680700 (10) Que foi quem fez a revisão deste episódio
+3680700 3682700 (10) A Ju não pôde
+3682700 3684700 (10) Ele me quebrou este galhão
+3684700 3686700 (10) O Caio Lorenzo
+3686700 3688700 (10) Fez um trabalho incrível
+3688700 3690700 (10) Agradeço ao Rafael Zorzal
+3690700 3692700 (10) Como a gente já ouviu falar
+3692700 3694700 (10) O Rafael Zorzal lançou seu livro Fraternal
+3694700 3696700 (10) Lá na Amazon
+3696700 3698700 (10) Eu vou deixar o link aqui no post
+3698700 3700700 (10) Para vocês estarem adquirindo
+3700700 3702700 (10) É um livro bem bacana
+3702700 3704700 (10) Eu ainda não terminei de ler
+3704700 3706700 (10) Mas o que li eu gostei bastante
+3706700 3708700 (10) É uma história de família
+3708700 3710700 (10) Com algumas reviravoltas
+3710700 3712700 (10) E um toque meio sobrenatural
+3712700 3714700 (10) Que eu não consegui definir
+3714700 3716700 (10) Mas vão lá conheçam
+3716700 3718700 (10) Vou colocar aqui um trechinho
+3718700 3720700 (08, 10) Que o Zorzal preparou para a gente
+3720700 3722700 (08) Vamos dar uma conferida
+3722700 3724700 (08) A respiração dele era pesada
+3724700 3726700 (08) A adrenalina que corria pelo seu corpo
+3726700 3728700 (08) Ainda pulsava como um raio cortante
+3728700 3730700 (08) Seus olhos, travados para frente
+3730700 3732700 (08) Contemplavam o ato que havia cometido
+3732700 3734700 (08) O ato que sempre precisou acontecer
+3734700 3736700 (08) Tudo foi muito mais rápido
+3736700 3738700 (08) Do que tinha parecido ser
+3738700 3740700 (08) Ele piscou os olhos duas vezes
+3740700 3742700 (08) Acima de si próprio
+3742700 3744700 (08) Por tamanha desrealização
+3744700 3746700 (08) Balançou a cabeça
+3746700 3748700 (08) Com o intuito de chamar sua consciência
+3748700 3750700 (08) De volta para seu corpo
+3750700 3752700 (08) Fazendo-a descer em si mesmo
+3752700 3754700 (08) Sentiu um frio descendo sua espinha
+3754700 3756700 (08) Enquanto retornava
+3756700 3758700 (08) E começou a perder as forças na perna
+3758700 3760700 (08) Devido ao alívio abrupto de tensão
+3760700 3762700 (08) Ele olhou para o lado
+3762700 3764700 (08) E viu a grande poça de sangue
+3764700 3766700 (08) Que ainda crescia pelo carpete
+3766700 3768700 (08) Saindo do cadáver
+3768700 3770700 (08) Ele sentiu uma repulsa enorme
+3770700 3772700 (08) De incerto transe pelo ocorrido
+3772700 3774700 (08) Ele não esboçou nenhuma reação
+3774700 3776700 (08) A não se recuar em direção à parede
+3776700 3778700 (08) Ele escorregou até se encostar
+3778700 3780700 (08) Totalmente no chão
+3780700 3782700 (08) Permitindo ao seu corpo um relaxamento quase automático
+3782700 3784700 (08) E lá estava ele
+3784700 3786700 (08) A sua frente
+3786700 3788700 (08) Seu irmão
+3788700 3790700 (08) Preso, incapaz de fazer qualquer coisa
+3790700 3792700 (08) Para se soltar
+3792700 3794700 (08) Os olhos dele giravam com raiva
+3794700 3796700 (08) De forma zonza enquanto seu corpo balançava na corda
+3796700 3798700 (08) Que o prendia na cadeira
+3798700 3800700 (08) Mas ele viu o primeiro irmão à sua frente
+3800700 3802700 (08) O irmão que o obrigou a fazer tudo o que ele havia feito
+3802700 3804700 (08) O irmão que fez com que essa situação escalasse
+3804700 3806700 (08) Ao conto em que havia chegado
+3806700 3808700 (08) O irmão que o prendeu a uma cadeira
+3808700 3810700 (08) O feriu
+3810700 3812700 (08) E o fez perder tudo
+3830700 3832700 (unknown) Chegou ao sentimento de mal
+3832700 3834700 (unknown) E mentiu
+3834700 3836700 (10) Já foi
+3836700 3838540 (10) Um dia
+3838540 3839100 (10) Para não ser tão difícil
+3839100 3859100 (10) Em shu
+3859100 3859320 (10) Para não ser tão difícil
+3859320 3859820 (10) Um dia
+3859820 3859860 (10) Mas ainda era quase
+3859880 3860400 (10) Um dia
+3860520 3860540 (10) Vamos se feudar
+3860540 3860580 (10) Vamos se feudar
+3860580 3860680 (10) Já foi um tempito
+3860680 3862260 (10) projeto vai em apoia.se
+3862260 3864060 (10) barra rp guaxa
+3864060 3865900 (10) a partir de um real você está me ajudando
+3865900 3868560 (10) a partir de 10 reais você faz parte da taberna do guaxinim
+3868560 3870720 (10) do nosso grupo de apoiadores
+3870720 3872440 (10) onde você vai conhecer
+3872440 3874880 (10) pessoas incríveis, as pessoas que jogaram este episódio
+3874880 3876180 (10) as pessoas que jogaram
+3876180 3877600 (10) vários outros episódios
+3877600 3880460 (10) eu raramente chamo alguém que não
+3880460 3882240 (10) seja padrinho para jogar
+3882240 3883800 (10) embora o que eu sempre digo
+3883800 3885900 (10) não seja padrinho para jogar
+3885900 3887900 (10) você pode ser padrinho por vários motivos
+3887900 3889140 (10) conhecer pessoas maravilhosas
+3889140 3892200 (10) tem vários grupos lá falando de anime, de videogame
+3892200 3893880 (10) de perrengue doméstico
+3893880 3896580 (10) tem o pessoal da lei do arco-íris, tem o grupo das meninas
+3896580 3898900 (10) tem o grupo de idiomas
+3898900 3899700 (10) tem o grupo
+3899700 3901920 (10) agora está começando o novo reality show
+3901920 3902920 (10) da rede globo
+3902920 3905980 (10) talvez o nosso grupo que era de BBB
+3905980 3907620 (10) volte a ficar agitado
+3907620 3909100 (10) se o programa for realmente bom
+3909100 3912060 (10) eu não sei, mas sim, existem vários grupos
+3912060 3913620 (10) menores, existem grupos maiores
+3913620 3916320 (10) existem pessoas maravilhosas que vocês podem conhecer
+3916320 3917920 (10) e vocês podem
+3917920 3918940 (10) conversar comigo
+3918940 3920520 (10) lá diretamente
+3920520 3921720 (10) além disso
+3921720 3924360 (10) você pode gravar voz de NPC
+3924360 3926640 (10) tirando alguns personagens específicos
+3926640 3928400 (10) que eu peço para pessoas-chave
+3928400 3929980 (10) porque eu acho que vai combinar
+3929980 3932320 (10) ou porque são personagens mais complexos
+3932320 3933860 (10) e tal, normalmente
+3933860 3935960 (10) eu chego em algum horário do dia
+3935960 3938320 (10) posto na taberna, preciso de
+3938320 3940600 (10) um ferreiro, homem
+3940600 3943080 (10) poucas falas
+3943080 3944640 (10) mulher
+3944640 3946860 (10) ajudante de ferreiro
+3946860 3948560 (10) jovem, arrogante
+3948940 3949660 (10) ou jovem
+3949660 3951540 (10) eu dou algumas características
+3951540 3954080 (10) e quem acha que a sua voz combina
+3954080 3955820 (10) e que tem um microfone legal
+3955820 3956840 (10) para a voz ficar legal
+3956840 3959000 (10) ele diz, eu quero fazer tal voz
+3959000 3962260 (10) e pela ordem que as pessoas vão chegando
+3962260 3964380 (10) a gente vai distribuindo essas vozes
+3964380 3965400 (10) para o pessoal fazer
+3965400 3967880 (10) nesse episódio em específico
+3967880 3970120 (10) o próprio Zorzal, nosso querido editor
+3970120 3972600 (10) ele fez o pai da família
+3972600 3974260 (10) por ser um spoiler
+3974260 3976420 (10) eu não gosto de dar muito spoiler para os padrinhos
+3976420 3978680 (10) e por ser um personagem que tem
+3978680 3980820 (10) alguns momentos que é mais fácil
+3980820 3982100 (10) para ele que eu ouvir o episódio
+3982100 3984160 (10) do que para eu descrever para as pessoas
+3984160 3986580 (10) olha, o sentimento aqui é assim
+3986580 3988360 (10) assado, então ficou muito bom
+3988360 3990680 (10) a Rafa Rangel fez a mãe
+3990680 3992540 (10) e isso futuramente
+3992540 3993760 (10) me cria um problema
+3993760 3996860 (10) eu não vou explicar porque, mas vocês vão descobrir
+3996860 3998560 (10) mas assim
+3998560 4000120 (10) ela fez a mãe neste episódio
+4000120 4002980 (10) ponto, guardem isso na cabeça de vocês
+4002980 4005100 (10) o Trota fez o xerife
+4005100 4006900 (10) maravilhoso, quem está acostumado
+4006900 4008600 (10) a ver ele fazendo
+4008680 4011140 (10) personagens mais cômicos
+4011140 4013720 (10) mais tipo Silvio
+4013720 4015540 (10) ver ele num personagem
+4015540 4017320 (10) num dos piores vilões talvez
+4017320 4018940 (10) que passou pelo RPG
+4018940 4020900 (10) e por último
+4020900 4022280 (10) a senhorinha
+4022280 4024400 (10) aquela senhorinha que vem no início do episódio
+4024400 4026420 (10) foi feita pela Tarine
+4026420 4028260 (10) porque está sem o acento aqui
+4028260 4030940 (10) agradeço demais a todo mundo que apoia este mês
+4030940 4032880 (10) agradeço a você que apoia este projeto
+4032880 4034580 (10) estou preparando muita coisa bacana
+4034580 4037000 (10) graças a pessoas como vocês
+4037000 4038620 (10) então este mês
+4038620 4040240 (10) tem três episódios, ele ficou caro
+4040240 4042580 (10) espero que vocês lembrem disso na hora de fazer
+4042580 4045080 (10) suas doações e quem já é padrinho
+4045080 4047080 (10) confere lá se está caindo direitinho
+4047080 4048240 (10) se está cobrando cartão
+4048240 4049980 (10) se você está lembrando de pagar os boletos
+4049980 4051860 (10) porque cada centavo importa
+4051860 4053840 (10) muito obrigado, lembrem sempre
+4053840 4056240 (10) role 6, role 20, isso depende do sistema
+4056240 4058400 (10) que vocês estão jogando, mas independente disso
+4058400 4059580 (10) se tudo é errado, rola no chão
+4059580 4061400 (10) que apaga o fogo e diverte
+4061400 4062740 (10) um beijo no coração de vocês
+4068620 4072000 (01) 말�inos
+4072000 4073500 (01) muito são os números que regem um multiverso
+4073500 4074760 (01) multipuh
+4074760 4075180 (01) posso
+4075180 4076880 (01) sete realidades paralelas
+4076880 4077300 (01) Modelos
+4077300 4078160 (01) que já foram 3
+4078160 4078820 (01) delas
+4078820 4080300 (01) 4 linhas sagradas
+4080300 4081540 (01) uma linha vazia
+4081540 4082260 (01) Инwen
+4082260 4082500 (01) além do прs
+4082500 4083160 (01) axii
+4083160 4083220 (01) ny
+4083220 4084260 (01) dividão
+4084260 4084600 (01) sol
+4084600 4085300 (01) visiting
+4085300 4085820 (01) linda
+4085820 4088020 (01) apresentou
+4088020 4088820 (01) agora não sei
+4088820 4089500 (01) NEW
+4089500 4090200 (01) produtos
+4090200 4090760 (01) que
+4090760 4091700 (01) girluk
+4091700 4092860 (01) ele
+4092860 4097220 (01) ainda
+4097220 4097580 (unknown) o
+4097580 4098460 (unknown) plates
+4098460 4098500 (unknown) o
+4098500 4098560 (unknown) o
+4098560 4098620 (unknown) venerável
+4098620 4099620 (unknown) Obrigado.

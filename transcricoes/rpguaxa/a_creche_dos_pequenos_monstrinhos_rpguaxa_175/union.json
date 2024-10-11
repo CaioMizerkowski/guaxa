@@ -1,0 +1,6757 @@
+[
+    {
+        "id": 0,
+        "start": "0",
+        "end": "800",
+        "speakers": "\"09\"",
+        "text": "Estamos prontos?"
+    },
+    {
+        "id": 1,
+        "start": "1160",
+        "end": "1980",
+        "speakers": "\"13\"",
+        "text": "Estamos sim!"
+    },
+    {
+        "id": 2,
+        "start": "2440",
+        "end": "4780",
+        "speakers": "\"13\"",
+        "text": "Ah, você prefere mestre ou narrador?"
+    },
+    {
+        "id": 3,
+        "start": "4960",
+        "end": "6660",
+        "speakers": "\"09\"",
+        "text": "Na verdade, eu prefiro guache."
+    },
+    {
+        "id": 4,
+        "start": "9020",
+        "end": "11520",
+        "speakers": "\"09\"",
+        "text": "Olá, eu sou Marcelo Guaxinim, o guache da aventura de hoje."
+    },
+    {
+        "id": 5,
+        "start": "11720",
+        "end": "15420",
+        "speakers": "\"09\"",
+        "text": "Queria convidar você a ir em apoia.se barra rpguache."
+    },
+    {
+        "id": 6,
+        "start": "15640",
+        "end": "18240",
+        "speakers": "\"09\"",
+        "text": "Desde que o PicPay e o Padrim deixaram de existir,"
+    },
+    {
+        "id": 7,
+        "start": "18440",
+        "end": "20920",
+        "speakers": "\"09\"",
+        "text": "o Apoia.se tem se tornado a nossa principal fonte de renda"
+    },
+    {
+        "id": 8,
+        "start": "20920",
+        "end": "24700",
+        "speakers": "\"09\"",
+        "text": "e eu preciso dela para pagar o editor e todos os gastos que o rpguache tem."
+    },
+    {
+        "id": 9,
+        "start": "24900",
+        "end": "27800",
+        "speakers": "\"09\"",
+        "text": "Me ajude a este projeto continuar existindo."
+    },
+    {
+        "id": 10,
+        "start": "27800",
+        "end": "32080",
+        "speakers": "\"09\"",
+        "text": "Outra forma de ajudar, você pode ir lá no MPB, Melhores Podcasts do Brasil."
+    },
+    {
+        "id": 11,
+        "start": "32320",
+        "end": "34640",
+        "speakers": "\"09\"",
+        "text": "O prêmio que o rpguache passou na primeira fase graças a você"
+    },
+    {
+        "id": 12,
+        "start": "34640",
+        "end": "36200",
+        "speakers": "\"09\"",
+        "text": "e agora está na fase final."
+    },
+    {
+        "id": 13,
+        "start": "36380",
+        "end": "40840",
+        "speakers": "\"09\"",
+        "text": "Você pode votar todo dia em prêmio mpb.com.br."
+    },
+    {
+        "id": 14,
+        "start": "41060",
+        "end": "44100",
+        "speakers": "\"09\"",
+        "text": "Você vai lá, vai na categoria Ficção e Fantasia"
+    },
+    {
+        "id": 15,
+        "start": "44100",
+        "end": "46800",
+        "speakers": "\"09\"",
+        "text": "e vota no Realidades Paralelas do Guaxinim."
+    },
+    {
+        "id": 16,
+        "start": "47660",
+        "end": "49640",
+        "speakers": "\"09\"",
+        "text": "Agradeço demais o seu voto."
+    },
+    {
+        "id": 17,
+        "start": "49780",
+        "end": "51740",
+        "speakers": "\"09\"",
+        "text": "Outra forma de ajudar, segue a gente nas redes sociais"
+    },
+    {
+        "id": 18,
+        "start": "51740",
+        "end": "53800",
+        "speakers": "\"09\"",
+        "text": "arroba Marcelo Guaxinim, arroba rpguache,"
+    },
+    {
+        "id": 19,
+        "start": "54500",
+        "end": "56860",
+        "speakers": "\"09\"",
+        "text": "tanto no Blue Sky quanto no Instagram."
+    },
+    {
+        "id": 20,
+        "start": "56860",
+        "end": "58800",
+        "speakers": "\"05, 09\"",
+        "text": "E os jogadores de hoje são..."
+    },
+    {
+        "id": 21,
+        "start": "58800",
+        "end": "62240",
+        "speakers": "\"05\"",
+        "text": "Caio Lourencio e vocês podem me encontrar na Taverna do Guaxinim"
+    },
+    {
+        "id": 22,
+        "start": "62240",
+        "end": "64560",
+        "speakers": "\"05\"",
+        "text": "ou no Blue Sky como Caio Lourencio."
+    },
+    {
+        "id": 23,
+        "start": "64660",
+        "end": "68600",
+        "speakers": "\"13\"",
+        "text": "Oi, eu sou a Sara Barbosa e vocês podem me achar na Taverna do Guaxinim"
+    },
+    {
+        "id": 24,
+        "start": "68600",
+        "end": "70740",
+        "speakers": "\"13\"",
+        "text": "como Sara Barbosa com Z."
+    },
+    {
+        "id": 25,
+        "start": "70860",
+        "end": "74920",
+        "speakers": "\"04, 13\"",
+        "text": "Oi, eu sou a Káfika e vocês podem me achar também na Taverna."
+    },
+    {
+        "id": 26,
+        "start": "75440",
+        "end": "78420",
+        "speakers": "\"06\"",
+        "text": "Ana Lilian, vamos jogar RPG?"
+    },
+    {
+        "id": 27,
+        "start": "79480",
+        "end": "82880",
+        "speakers": "\"00\"",
+        "text": "O jogo do rpguache sim, eu quero!"
+    },
+    {
+        "id": 28,
+        "start": "83560",
+        "end": "86780",
+        "speakers": "\"06\"",
+        "text": "Mas você sabe como que o rpguache funciona?"
+    },
+    {
+        "id": 29,
+        "start": "86860",
+        "end": "89080",
+        "speakers": "\"06, 00\"",
+        "text": "Sim, eu sei!"
+    },
+    {
+        "id": 30,
+        "start": "90140",
+        "end": "93860",
+        "speakers": "\"00\"",
+        "text": "O Realidades Paralelas do Guaxinim"
+    },
+    {
+        "id": 31,
+        "start": "94380",
+        "end": "98980",
+        "speakers": "\"00\"",
+        "text": "usa sistema guaxinim e gambiarra."
+    },
+    {
+        "id": 32,
+        "start": "99460",
+        "end": "106200",
+        "speakers": "\"00\"",
+        "text": "Nele, cada jogador possui apenas um único atributo"
+    },
+    {
+        "id": 33,
+        "start": "106200",
+        "end": "108800",
+        "speakers": "\"00\"",
+        "text": "que vai de 2 a 5."
+    },
+    {
+        "id": 34,
+        "start": "108800",
+        "end": "116800",
+        "speakers": "\"00\"",
+        "text": "Quanto maior o atributo, mais atlético é o jogo."
+    },
+    {
+        "id": 35,
+        "start": "116860",
+        "end": "126500",
+        "speakers": "\"00\"",
+        "text": "O personagem, enquanto menor, mais inteligente é carimático."
+    },
+    {
+        "id": 36,
+        "start": "129000",
+        "end": "134940",
+        "speakers": "\"00\"",
+        "text": "Sempre que o jogador faz algo com uma chance de errar,"
+    },
+    {
+        "id": 37,
+        "start": "135500",
+        "end": "141560",
+        "speakers": "\"00\"",
+        "text": "joga dois dados e precisa tirar seu atributo ao menos"
+    },
+    {
+        "id": 38,
+        "start": "141560",
+        "end": "145740",
+        "speakers": "\"00\"",
+        "text": "para ataques e ações físicas."
+    },
+    {
+        "id": 39,
+        "start": "145740",
+        "end": "146100",
+        "speakers": "\"00\"",
+        "text": "Ok."
+    },
+    {
+        "id": 40,
+        "start": "146860",
+        "end": "168360",
+        "speakers": "\"00\"",
+        "text": "O seu atributo ou mais para ações intelectuais ou sociais e se a jogada for fácil ou tiver algum auxílio, joga um dado a mais."
+    },
+    {
+        "id": 41,
+        "start": "168360",
+        "end": "175160",
+        "speakers": "\"00\"",
+        "text": "E se a jogada for difícil, rola um dado a menos."
+    },
+    {
+        "id": 42,
+        "start": "175160",
+        "end": "182500",
+        "speakers": "\"00\"",
+        "text": "Eu sou a Ana Lília e eu já joguei o jogo do RP Guaxa com meu papai."
+    },
+    {
+        "id": 43,
+        "start": "182880",
+        "end": "188500",
+        "speakers": "\"06\"",
+        "text": "E eu sou o Anderson e eu já narrei o RP Guaxa para muitas crianças."
+    },
+    {
+        "id": 44,
+        "start": "190720",
+        "end": "194000",
+        "speakers": "\"09\"",
+        "text": "Episódio de hoje, a creche dos pequenos monstrinhos."
+    },
+    {
+        "id": 45,
+        "start": "205160",
+        "end": "218280",
+        "speakers": "\"09, 07\"",
+        "text": "A creche Monstrinhos Alados é um lugar onde a diversidade monstruosa é celebrada com cores vibrantes e estruturas excêntricas."
+    },
+    {
+        "id": 46,
+        "start": "218280",
+        "end": "222900",
+        "speakers": "\"09\"",
+        "text": "As portas de entrada são enormes, esculpidas como uma boca aberta de dragão."
+    },
+    {
+        "id": 47,
+        "start": "223140",
+        "end": "229780",
+        "speakers": "\"09\"",
+        "text": "E o parque tem brinquedos feitos de ossos gigantes e plantas carnívoras, que na verdade são inofensivas, na maior parte das vezes."
+    },
+    {
+        "id": 48,
+        "start": "230340",
+        "end": "234780",
+        "speakers": "\"09\"",
+        "text": "Ao redor, pequenos monstros de todos os tipos chegam, com suas mochilinhas personalizadas."
+    },
+    {
+        "id": 49,
+        "start": "235620",
+        "end": "238980",
+        "speakers": "\"09\"",
+        "text": "Bebês gelatinosos de várias cores, que escorregam e se arrastam pelo chão."
+    },
+    {
+        "id": 50,
+        "start": "239500",
+        "end": "243200",
+        "speakers": "\"09\"",
+        "text": "Pequenos ciclopes de um olho só, pulando, de forma desajeitada."
+    },
+    {
+        "id": 51,
+        "start": "243340",
+        "end": "247680",
+        "speakers": "\"09\"",
+        "text": "Zumbis de passos lentos, nobres homenzinhos peludos, correndo de um lado para o outro."
+    },
+    {
+        "id": 52,
+        "start": "248220",
+        "end": "255200",
+        "speakers": "\"09\"",
+        "text": "E uma criaturinha com olhos espalhados por seus tentáculos viscosos, que se move flutuando no ar enquanto sussurra sons incompreensíveis."
+    },
+    {
+        "id": 53,
+        "start": "255740",
+        "end": "258400",
+        "speakers": "\"09\"",
+        "text": "Ela desliza de forma curiosa até a porta."
+    },
+    {
+        "id": 54,
+        "start": "258540",
+        "end": "265140",
+        "speakers": "\"09\"",
+        "text": "Completando o cenário, estranho e encantador, chegada da creche, temos os professores, uma mistura de múmias, bruxas e outros."
+    },
+    {
+        "id": 55,
+        "start": "265580",
+        "end": "272660",
+        "speakers": "\"09\"",
+        "text": "Recebe as crianças com sorrisos, alguns com presas e dentes afiados, prontos para mais um dia de diversão e aprendizado caótico."
+    },
+    {
+        "id": 56,
+        "start": "272660",
+        "end": "275400",
+        "speakers": "\"09\"",
+        "text": "Hoje, em especial, é o dia do passeio."
+    },
+    {
+        "id": 57,
+        "start": "275740",
+        "end": "284020",
+        "speakers": "\"09\"",
+        "text": "E a empolgação está no ar, enquanto as turmas se preparam para voar de dragão até o Vale das Cordas, onde uma peça de marionete será exibida."
+    },
+    {
+        "id": 58,
+        "start": "284200",
+        "end": "289260",
+        "speakers": "\"09\"",
+        "text": "A escola, infelizmente, dispõe apenas de um dragão, então as viagens serão em pequenos grupos."
+    },
+    {
+        "id": 59,
+        "start": "289820",
+        "end": "292860",
+        "speakers": "\"09\"",
+        "text": "E a turma B, o pré-2, será a última a ir."
+    },
+    {
+        "id": 60,
+        "start": "293260",
+        "end": "294660",
+        "speakers": "\"09\"",
+        "text": "Pois Dedé, o destruidor..."
+    },
+    {
+        "id": 61,
+        "start": "295160",
+        "end": "297480",
+        "speakers": "\"09\"",
+        "text": "Explodiu o teto da creche na semana passada."
+    },
+    {
+        "id": 62,
+        "start": "297740",
+        "end": "300100",
+        "speakers": "\"09\"",
+        "text": "E comeu tudo o lanche dos professores na anterior."
+    },
+    {
+        "id": 63,
+        "start": "300500",
+        "end": "303260",
+        "speakers": "\"09\"",
+        "text": "Transformou o parquinho em uma cratera fumegante no mês passado."
+    },
+    {
+        "id": 64,
+        "start": "303860",
+        "end": "306020",
+        "speakers": "\"09\"",
+        "text": "E, bem, a lista é muito longa."
+    },
+    {
+        "id": 65,
+        "start": "306440",
+        "end": "308980",
+        "speakers": "\"09\"",
+        "text": "A sala B é composta por cinco alu-monstrinhos."
+    },
+    {
+        "id": 66,
+        "start": "309500",
+        "end": "312820",
+        "speakers": "\"09\"",
+        "text": "Crianças-monstros precisam de mais espaço que crianças humanas."
+    },
+    {
+        "id": 67,
+        "start": "312820",
+        "end": "320040",
+        "speakers": "\"09\"",
+        "text": "Lila é uma monstrinha gelatinosa de 5 anos, com um corpo translúcido em tons roxo e verde, que muda de cor conforme seu humor."
+    },
+    {
+        "id": 68,
+        "start": "320320",
+        "end": "325120",
+        "speakers": "\"09\"",
+        "text": "Seu formato é amorfo, podendo se esticar ou se encolher conforme sua vontade."
+    },
+    {
+        "id": 69,
+        "start": "325160",
+        "end": "332660",
+        "speakers": "\"09\"",
+        "text": "Mas ela geralmente mantém uma forma arredondada e adorável, com pequenos braços e pernas flutuantes que emergem de seu corpo gelatinoso."
+    },
+    {
+        "id": 70,
+        "start": "332660",
+        "end": "338580",
+        "speakers": "\"09\"",
+        "text": "Seus grandes olhos redondos flutuam livremente dentro dela, brilhando de curiosidades sempre sorridentes."
+    },
+    {
+        "id": 71,
+        "start": "338580",
+        "end": "342280",
+        "speakers": "\"09\"",
+        "text": "Suas expressões são um pouco derretidas, literalmente."
+    },
+    {
+        "id": 72,
+        "start": "342280",
+        "end": "348960",
+        "speakers": "\"09\"",
+        "text": "E ela adora escorregar pelos corredores da creche, deixando um rastro brilhante e pegajoso para onde passe."
+    },
+    {
+        "id": 73,
+        "start": "348960",
+        "end": "354460",
+        "speakers": "\"09\"",
+        "text": "Outro aluno desta turma é Dedé, o destruidor, que é um monstrinho de 5 anos também,"
+    },
+    {
+        "id": 74,
+        "start": "354460",
+        "end": "360960",
+        "speakers": "\"09\"",
+        "text": "que se resume a uma pequena caveira alada, com um crânio branco e reluzente, que está sempre com um sorriso travesso,"
+    },
+    {
+        "id": 75,
+        "start": "360960",
+        "end": "364460",
+        "speakers": "\"09\"",
+        "text": "com grandes órbitas vazias que brilham com chamas verdes."
+    },
+    {
+        "id": 76,
+        "start": "364460",
+        "end": "372760",
+        "speakers": "\"09\"",
+        "text": "Suas asas de anjo enormes, para seu corpo minúsculo, batem ruidosamente enquanto ele flutua com uma graça inquietante."
+    },
+    {
+        "id": 77,
+        "start": "372760",
+        "end": "378040",
+        "speakers": "\"09\"",
+        "text": "Além dos dois, para completar essa turma de 5 monstrinhos, temos os três jogadores."
+    },
+    {
+        "id": 78,
+        "start": "378040",
+        "end": "380760",
+        "speakers": "\"05, 09\"",
+        "text": "Então, Caio, fala sobre esse personagem, aparência e atributos."
+    },
+    {
+        "id": 79,
+        "start": "380760",
+        "end": "383420",
+        "speakers": "\"05\"",
+        "text": "Olá, pessoal. Eu sou o Caio."
+    },
+    {
+        "id": 80,
+        "start": "383420",
+        "end": "383580",
+        "speakers": "\"unknown\"",
+        "text": "Olá, pessoal. Eu sou o Caio."
+    },
+    {
+        "id": 81,
+        "start": "383580",
+        "end": "383620",
+        "speakers": "\"05\"",
+        "text": "Olá, pessoal. Eu sou o Caio."
+    },
+    {
+        "id": 82,
+        "start": "383620",
+        "end": "383660",
+        "speakers": "\"05\"",
+        "text": "Olá, pessoal. Eu sou o Caio."
+    },
+    {
+        "id": 83,
+        "start": "383660",
+        "end": "383760",
+        "speakers": "\"05\"",
+        "text": "Olá, pessoal. Eu sou o Caio."
+    },
+    {
+        "id": 84,
+        "start": "383760",
+        "end": "383820",
+        "speakers": "\"05\"",
+        "text": "Olá, pessoal. Eu sou o Caio."
+    },
+    {
+        "id": 85,
+        "start": "383820",
+        "end": "383880",
+        "speakers": "\"05\"",
+        "text": "Olá, pessoal. Eu sou o Caio."
+    },
+    {
+        "id": 86,
+        "start": "383880",
+        "end": "384700",
+        "speakers": "\"05\"",
+        "text": "Olá, pessoal. Eu sou o Caio."
+    },
+    {
+        "id": 87,
+        "start": "384760",
+        "end": "390800",
+        "speakers": "\"05\"",
+        "text": "Hoje, eu vou jogar com o Kiki. Ele também tem cinco anos, e ele descendte de dois monstros especialistas em técnicas de transformação."
+    },
+    {
+        "id": 88,
+        "start": "391020",
+        "end": "398380",
+        "speakers": "\"05\"",
+        "text": "Seu pai, que é um Yokai Tanuki, basicamente uma versão mágica do Cão Guaxini, e sua mãe, que é uma Yokai Kitsune, a versão mágica da raposa."
+    },
+    {
+        "id": 89,
+        "start": "398820",
+        "end": "401600",
+        "speakers": "\"05\"",
+        "text": "O que torna o Kiki algo como um Tanukitsune."
+    },
+    {
+        "id": 90,
+        "start": "401780",
+        "end": "407940",
+        "speakers": "\"05\"",
+        "text": "A aparência dele é uma mescla da do Cão Guaxini com a da raposa, do pai ele herdou as manchas escuras em volta dos olhos,"
+    },
+    {
+        "id": 91,
+        "start": "408520",
+        "end": "411480",
+        "speakers": "\"05\"",
+        "text": "e da sua mãe ele herdou a pelagem branca e o corpo mais esguio."
+    },
+    {
+        "id": 92,
+        "start": "411480",
+        "end": "413480",
+        "speakers": "\"05\"",
+        "text": "O Kiki é um Kiki, ele possui características antropomórficas,"
+    },
+    {
+        "id": 93,
+        "start": "413880",
+        "end": "418140",
+        "speakers": "\"05\"",
+        "text": "e costuma se vestir com um kimono azul, com uma estampa de folhas e labaredas."
+    },
+    {
+        "id": 94,
+        "start": "418280",
+        "end": "421560",
+        "speakers": "\"05\"",
+        "text": "Por estar começando a desenvolver suas habilidades de transformação,"
+    },
+    {
+        "id": 95,
+        "start": "422060",
+        "end": "427080",
+        "speakers": "\"05\"",
+        "text": "por hora ele só consegue mudar sua forma se ele colocar uma folha no topo da sua cabeça."
+    },
+    {
+        "id": 96,
+        "start": "427320",
+        "end": "429800",
+        "speakers": "\"05\"",
+        "text": "Kiki é capaz de se transformar em objetos diversos,"
+    },
+    {
+        "id": 97,
+        "start": "429960",
+        "end": "435560",
+        "speakers": "\"05\"",
+        "text": "mas diferente dos seus pais, até então ele não consegue assumir a forma de outras criaturas ou de humanos."
+    },
+    {
+        "id": 98,
+        "start": "435900",
+        "end": "438120",
+        "speakers": "\"05\"",
+        "text": "Kiki é muito curioso e bastante brincalhão,"
+    },
+    {
+        "id": 99,
+        "start": "438540",
+        "end": "442600",
+        "speakers": "\"05\"",
+        "text": "o que combinado com seu poder de transformação dá muito trabalho para os adultos."
+    },
+    {
+        "id": 100,
+        "start": "442600",
+        "end": "444780",
+        "speakers": "\"05\"",
+        "text": "E o atributo dele é o 2."
+    },
+    {
+        "id": 101,
+        "start": "445140",
+        "end": "447640",
+        "speakers": "\"09\"",
+        "text": "Sarah, fala sobre o personagem e a aparência e atributo."
+    },
+    {
+        "id": 102,
+        "start": "472600",
+        "end": "476940",
+        "speakers": "\"13\"",
+        "text": "Sarah, fala sobre o personagem e a aparência e atributo."
+    },
+    {
+        "id": 103,
+        "start": "476940",
+        "end": "495340",
+        "speakers": "\"13\"",
+        "text": "A história de Rania começa com seus pais, o Sr. Saulo, conhecido como o Sapo da Lagoa,"
+    },
+    {
+        "id": 104,
+        "start": "495640",
+        "end": "498080",
+        "speakers": "\"13\"",
+        "text": "e sua mãe, Serafina, que é uma lâmia."
+    },
+    {
+        "id": 105,
+        "start": "498080",
+        "end": "500900",
+        "speakers": "\"13\"",
+        "text": "Saulo, um simples vendedor de talco para chulé,"
+    },
+    {
+        "id": 106,
+        "start": "500900",
+        "end": "505680",
+        "speakers": "\"13\"",
+        "text": "estava cansado da infame música infantil que associava seu nome ao produto."
+    },
+    {
+        "id": 107,
+        "start": "505800",
+        "end": "510160",
+        "speakers": "\"13\"",
+        "text": "Vendo a tristeza de seu amor, Serafina sugeriu que se mudassem para um novo lugar,"
+    },
+    {
+        "id": 108,
+        "start": "510520",
+        "end": "512960",
+        "speakers": "\"13\"",
+        "text": "buscando um recomeço profissional para ambos."
+    },
+    {
+        "id": 109,
+        "start": "513140",
+        "end": "518320",
+        "speakers": "\"13\"",
+        "text": "Serafina e Saulo, desejando proporcionar uma educação de oportunidades para sua filha,"
+    },
+    {
+        "id": 110,
+        "start": "518620",
+        "end": "524540",
+        "speakers": "\"13\"",
+        "text": "explorar e crescer monstruosamente, matricularam Rania na creche Monstrinho Alados."
+    },
+    {
+        "id": 111,
+        "start": "524860",
+        "end": "526380",
+        "speakers": "\"13\"",
+        "text": "O atributo dela é o 4."
+    },
+    {
+        "id": 112,
+        "start": "526720",
+        "end": "527180",
+        "speakers": "\"09\"",
+        "text": "Perfeito."
+    },
+    {
+        "id": 113,
+        "start": "527660",
+        "end": "530020",
+        "speakers": "\"09\"",
+        "text": "Kafka, fala sobre o personagem e a aparência e atributo."
+    },
+    {
+        "id": 114,
+        "start": "530020",
+        "end": "530420",
+        "speakers": "\"04, 09\"",
+        "text": "Olá!"
+    },
+    {
+        "id": 115,
+        "start": "530900",
+        "end": "535600",
+        "speakers": "\"04\"",
+        "text": "Hoje eu vou jogar com a Raio de Sol, a Sunny."
+    },
+    {
+        "id": 116,
+        "start": "536400",
+        "end": "538280",
+        "speakers": "\"04\"",
+        "text": "Ela também tem 5 aninhos."
+    },
+    {
+        "id": 117,
+        "start": "538820",
+        "end": "546120",
+        "speakers": "\"04\"",
+        "text": "A Sunny é uma lobinha muito animada, de pelo cinza claro, com manchinhas brancas no peito,"
+    },
+    {
+        "id": 118,
+        "start": "546220",
+        "end": "548700",
+        "speakers": "\"04\"",
+        "text": "nas patinhas e na pontinha do rabo."
+    },
+    {
+        "id": 119,
+        "start": "549240",
+        "end": "554020",
+        "speakers": "\"04\"",
+        "text": "Ela tem heterocromia, sendo o olho direito azul e o esquerdo branco."
+    },
+    {
+        "id": 120,
+        "start": "554560",
+        "end": "559300",
+        "speakers": "\"04\"",
+        "text": "Ela é a mais jovem da sua matilha e uma das mais jovens da sua alcateia."
+    },
+    {
+        "id": 121,
+        "start": "559300",
+        "end": "560300",
+        "speakers": "\"04\"",
+        "text": "Sunny vem de uma..."
+    },
+    {
+        "id": 122,
+        "start": "560900",
+        "end": "567940",
+        "speakers": "\"04\"",
+        "text": "Tradicional família de lobisomens, onde cresce sendo assistida e orientada por todos os adultos da sua comunidade."
+    },
+    {
+        "id": 123,
+        "start": "568140",
+        "end": "574420",
+        "speakers": "\"04\"",
+        "text": "Seus pais querem que ela tenha acesso às melhores oportunidades e por isso colocaram na creche Monstrinhos Alados,"
+    },
+    {
+        "id": 124,
+        "start": "574980",
+        "end": "580000",
+        "speakers": "\"04\"",
+        "text": "onde esperam que ela se desenvolva e faça amizades com filhos de outros monstros influentes."
+    },
+    {
+        "id": 125,
+        "start": "580480",
+        "end": "586120",
+        "speakers": "\"04\"",
+        "text": "Eles também esperam que isso a ajude a largar a chupeta, mas segue sendo uma negociação difícil."
+    },
+    {
+        "id": 126,
+        "start": "586280",
+        "end": "590720",
+        "speakers": "\"04\"",
+        "text": "Sunny é muito extrovertida e adora brincar na caixa de areia na hora do recreio."
+    },
+    {
+        "id": 127,
+        "start": "590900",
+        "end": "597820",
+        "speakers": "\"04\"",
+        "text": "Onde sempre fica algum assistente de olho para garantir que ela não pegou nenhum osso dos brinquedos e o interrompe."
+    },
+    {
+        "id": 128,
+        "start": "597920",
+        "end": "604720",
+        "speakers": "\"04\"",
+        "text": "É muito afeiçoada aos seus coleguinhas e sempre confia no seu faro e no seu rabo, que parece ter vida própria."
+    },
+    {
+        "id": 129,
+        "start": "605000",
+        "end": "606420",
+        "speakers": "\"04\"",
+        "text": "Ela o chama de Maggie."
+    },
+    {
+        "id": 130,
+        "start": "620900",
+        "end": "645400",
+        "speakers": "\"09\"",
+        "text": "A Lila, ela tá grudada no teto e ela moldou o corpinho dela gelatinoso pra ficar tipo um arco, né?"
+    },
+    {
+        "id": 131,
+        "start": "645400",
+        "end": "650880",
+        "speakers": "\"09\"",
+        "text": "E o Dedé, ele tá voando assim e ele fica atravessando o arco e dando voltas."
+    },
+    {
+        "id": 132,
+        "start": "650900",
+        "end": "652260",
+        "speakers": "\"09\"",
+        "text": "Cada vez mais rápido."
+    },
+    {
+        "id": 133,
+        "start": "652360",
+        "end": "655580",
+        "speakers": "\"09\"",
+        "text": "A professora de vocês ainda não chegou, o que vocês estão fazendo?"
+    },
+    {
+        "id": 134,
+        "start": "655880",
+        "end": "664720",
+        "speakers": "\"05\"",
+        "text": "O Kiki, ele se transformou em um placar e cada vez que o Dedé dá uma volta, ele marca um ponto e toca."
+    },
+    {
+        "id": 135,
+        "start": "667300",
+        "end": "671200",
+        "speakers": "\"13\"",
+        "text": "A Rania, ela tá mostrando que ela também pode saltar bem alto."
+    },
+    {
+        "id": 136,
+        "start": "671660",
+        "end": "673860",
+        "speakers": "\"13\"",
+        "text": "Olha aqui, eu consigo saltar tão alto!"
+    },
+    {
+        "id": 137,
+        "start": "674140",
+        "end": "677960",
+        "speakers": "\"09\"",
+        "text": "Tu tá pulando, é isso? Mas tentando alcançar a argola ou não?"
+    },
+    {
+        "id": 138,
+        "start": "678160",
+        "end": "679120",
+        "speakers": "\"13\"",
+        "text": "Tentando alcançar."
+    },
+    {
+        "id": 139,
+        "start": "679120",
+        "end": "679940",
+        "speakers": "\"13, 09\"",
+        "text": "Dois dados."
+    },
+    {
+        "id": 140,
+        "start": "680900",
+        "end": "682160",
+        "speakers": "\"13\"",
+        "text": "Seis e três."
+    },
+    {
+        "id": 141,
+        "start": "682400",
+        "end": "685200",
+        "speakers": "\"09\"",
+        "text": "É difícil assim, aquela viscosidade da Lili."
+    },
+    {
+        "id": 142,
+        "start": "685360",
+        "end": "687840",
+        "speakers": "\"09\"",
+        "text": "Tá se misturando com a tua viscosidade natural, né?"
+    },
+    {
+        "id": 143,
+        "start": "688320",
+        "end": "696460",
+        "speakers": "\"09\"",
+        "text": "Porque volta e meia tu acaba passando muito perto do arco e dá aquela raspadinha, mas tu tem um acerto, então tu tá conseguindo fazer isso."
+    },
+    {
+        "id": 144,
+        "start": "696640",
+        "end": "698780",
+        "speakers": "\"04\"",
+        "text": "Eu olho pra Lili e falo, que maneiro!"
+    },
+    {
+        "id": 145,
+        "start": "699140",
+        "end": "707840",
+        "speakers": "\"04\"",
+        "text": "A Sunny, ela tá tentando pular um pouco, mas ela tá ali mais assim, sentadinha no chão, abanando o rabinho e..."
+    },
+    {
+        "id": 146,
+        "start": "707840",
+        "end": "710600",
+        "speakers": "\"04\"",
+        "text": "Eu, eu, eu também consigo!"
+    },
+    {
+        "id": 147,
+        "start": "710900",
+        "end": "711660",
+        "speakers": "\"04\"",
+        "text": "Eu também consigo!"
+    },
+    {
+        "id": 148,
+        "start": "711820",
+        "end": "716620",
+        "speakers": "\"04\"",
+        "text": "E dá uns pulinhos assim, mas sai muito, muito pouco do chão."
+    },
+    {
+        "id": 149,
+        "start": "717160",
+        "end": "721120",
+        "speakers": "\"04, 09\"",
+        "text": "Ela fica querendo alcançar a Rania, mas sai muito pouquinho do chão."
+    },
+    {
+        "id": 150,
+        "start": "721380",
+        "end": "726080",
+        "speakers": "\"09\"",
+        "text": "Ok, tu chega a dar uma cambalhota pra trás, igual aqueles cachorrinhos de pilha, não?"
+    },
+    {
+        "id": 151,
+        "start": "726080",
+        "end": "739780",
+        "speakers": "\"04, 09, 07\"",
+        "text": "É que talvez a Sunny, ela tem os ossos um pouquinho largos e aí ela é um pouquinho fofinha, então ela, na verdade, ela pula e meio que se esparrama um pouquinho no chão, assim."
+    },
+    {
+        "id": 152,
+        "start": "739780",
+        "end": "740780",
+        "speakers": "\"04, 09\"",
+        "text": "Quando ela volta..."
+    },
+    {
+        "id": 153,
+        "start": "740900",
+        "end": "745300",
+        "speakers": "\"09\"",
+        "text": "Perfeito, vocês estão ali brincando, né, na salinha de vocês."
+    },
+    {
+        "id": 154,
+        "start": "745520",
+        "end": "753160",
+        "speakers": "\"09\"",
+        "text": "A diretora aqui é uma bruxa, assim, bem curvada, o nariz bem grande, com várias verrugas, assim, pelo nariz."
+    },
+    {
+        "id": 155,
+        "start": "753240",
+        "end": "757340",
+        "speakers": "\"09\"",
+        "text": "Ela usa um chapéu, assim, já bem velho, cabelo bem, bem branquinho."
+    },
+    {
+        "id": 156,
+        "start": "757940",
+        "end": "765760",
+        "speakers": "\"09\"",
+        "text": "Ela chega até a sala de vocês, ela fecha aquele portãozinho que fica na porta, tem a porta, né, e tem um pequeno portãozinho de grade embaixo,"
+    },
+    {
+        "id": 157,
+        "start": "765760",
+        "end": "770820",
+        "speakers": "\"09\"",
+        "text": "que não para a menina gelatinosa, não para a menina que pula, não para o menino que voa."
+    },
+    {
+        "id": 158,
+        "start": "770900",
+        "end": "774120",
+        "speakers": "\"09\"",
+        "text": "Provavelmente não para também o Kiki."
+    },
+    {
+        "id": 159,
+        "start": "774360",
+        "end": "779540",
+        "speakers": "\"09\"",
+        "text": "Provavelmente só a Sunny fique realmente, a grade realmente adiante de alguma coisa."
+    },
+    {
+        "id": 160,
+        "start": "780100",
+        "end": "785820",
+        "speakers": "\"09\"",
+        "text": "Mas, por padrão, vocês sabem, né, a grade tanto fechada, vocês não podem estar saindo da sala ali."
+    },
+    {
+        "id": 161,
+        "start": "786020",
+        "end": "797860",
+        "speakers": "\"09\"",
+        "text": "Embora, principalmente o Dedé, né, é conhecido por, pelo menos uma vez por semana, fazer algo que talvez, se ele não fosse filho de quem é, ele já teria sido expulso dessa escola."
+    },
+    {
+        "id": 162,
+        "start": "797860",
+        "end": "800860",
+        "speakers": "\"09\"",
+        "text": "Mas o fato é que hoje, então, é o dia do..."
+    },
+    {
+        "id": 163,
+        "start": "800860",
+        "end": "801740",
+        "speakers": "\"09\"",
+        "text": "Passeio, né?"
+    },
+    {
+        "id": 164,
+        "start": "802120",
+        "end": "804580",
+        "speakers": "\"09\"",
+        "text": "A diretora fechou ali, ela fala pra vocês."
+    },
+    {
+        "id": 165,
+        "start": "805520",
+        "end": "809620",
+        "speakers": "\"10\"",
+        "text": "Hahahaha! Crianças, hoje vamos ver o teatro."
+    },
+    {
+        "id": 166,
+        "start": "809980",
+        "end": "812320",
+        "speakers": "\"09\"",
+        "text": "E ela dá uma olhada especificamente pro Dedé."
+    },
+    {
+        "id": 167,
+        "start": "812380",
+        "end": "816460",
+        "speakers": "\"10, 09\"",
+        "text": "Mas a turma de vocês não costuma se comportar."
+    },
+    {
+        "id": 168,
+        "start": "816840",
+        "end": "821360",
+        "speakers": "\"10\"",
+        "text": "Então vocês vão pegar o último voo para a última sessão."
+    },
+    {
+        "id": 169,
+        "start": "821940",
+        "end": "826500",
+        "speakers": "\"10\"",
+        "text": "Vamos torcer para o dragão não ficar muito cansado na vez de vocês."
+    },
+    {
+        "id": 170,
+        "start": "828360",
+        "end": "830820",
+        "speakers": "\"05\"",
+        "text": "Mas tia, se a gente chegar por último..."
+    },
+    {
+        "id": 171,
+        "start": "830860",
+        "end": "832600",
+        "speakers": "\"05\"",
+        "text": "Último, vai ter acabado a comida, não vai?"
+    },
+    {
+        "id": 172,
+        "start": "833100",
+        "end": "838980",
+        "speakers": "\"10, 04\"",
+        "text": "Acabar a comida? Ah não, não é justo, a comida..."
+    },
+    {
+        "id": 173,
+        "start": "838980",
+        "end": "843800",
+        "speakers": "\"10\"",
+        "text": "Não se preocupem, vai ter comida para todo mundo."
+    },
+    {
+        "id": 174,
+        "start": "844240",
+        "end": "848540",
+        "speakers": "\"10\"",
+        "text": "Os pais de vocês já providenciaram bastante comida pra gente."
+    },
+    {
+        "id": 175,
+        "start": "848920",
+        "end": "853420",
+        "speakers": "\"05\"",
+        "text": "O Kiki, ele olha pra barriga dele, bate na barriga dele duas vezes e fala,"
+    },
+    {
+        "id": 176,
+        "start": "853700",
+        "end": "858140",
+        "speakers": "\"05\"",
+        "text": "viu barriguinha, eu falei, logo logo você ia ter comida, calma barriguinha, calma."
+    },
+    {
+        "id": 177,
+        "start": "858140",
+        "end": "861140",
+        "speakers": "\"05, 02\"",
+        "text": "Não se preocupem, amiguinhos, eu trouxe bisourinho."
+    },
+    {
+        "id": 178,
+        "start": "861920",
+        "end": "864660",
+        "speakers": "\"12, 13\"",
+        "text": "Ela abre a mochila sem cheiro de bisourinhos, assim."
+    },
+    {
+        "id": 179,
+        "start": "866180",
+        "end": "871140",
+        "speakers": "\"04\"",
+        "text": "Eu prefiro coisinhas com sangue."
+    },
+    {
+        "id": 180,
+        "start": "872280",
+        "end": "873860",
+        "speakers": "\"04\"",
+        "text": "Deixa eu ver um bisourinho."
+    },
+    {
+        "id": 181,
+        "start": "874260",
+        "end": "880420",
+        "speakers": "\"04, 02\"",
+        "text": "E aí a Sunny vai chegando, fuçando com o nariz pra parejar."
+    },
+    {
+        "id": 182,
+        "start": "880760",
+        "end": "883140",
+        "speakers": "\"02\"",
+        "text": "Pode pegar, minha mãe que preparou."
+    },
+    {
+        "id": 183,
+        "start": "883140",
+        "end": "888140",
+        "speakers": "\"04, 02\"",
+        "text": "A Sunny puxa um com alívio."
+    },
+    {
+        "id": 184,
+        "start": "888140",
+        "end": "888760",
+        "speakers": "\"04\"",
+        "text": "Língua, né?"
+    },
+    {
+        "id": 185,
+        "start": "888980",
+        "end": "895320",
+        "speakers": "\"04\"",
+        "text": "E começa a mastigar e faz uma cara estranha e..."
+    },
+    {
+        "id": 186,
+        "start": "895320",
+        "end": "896740",
+        "speakers": "\"04, 02\"",
+        "text": "Hum, gostoso, né?"
+    },
+    {
+        "id": 187,
+        "start": "897140",
+        "end": "899340",
+        "speakers": "\"02\"",
+        "text": "Biscoço mais gostoso."
+    },
+    {
+        "id": 188,
+        "start": "900080",
+        "end": "902360",
+        "speakers": "\"11, 02\"",
+        "text": "É, melhor que o meu cocô."
+    },
+    {
+        "id": 189,
+        "start": "903060",
+        "end": "904240",
+        "speakers": "\"11\"",
+        "text": "Ah, então..."
+    },
+    {
+        "id": 190,
+        "start": "904240",
+        "end": "907120",
+        "speakers": "\"11\"",
+        "text": "Ô, tia, não tem como a gente..."
+    },
+    {
+        "id": 191,
+        "start": "907120",
+        "end": "911120",
+        "speakers": "\"11\"",
+        "text": "Não, olha só, elas são muito crianças."
+    },
+    {
+        "id": 192,
+        "start": "911520",
+        "end": "913220",
+        "speakers": "\"04, 11\"",
+        "text": "Você quer também, Kiki?"
+    },
+    {
+        "id": 193,
+        "start": "913640",
+        "end": "914640",
+        "speakers": "\"04\"",
+        "text": "Tem pra você."
+    },
+    {
+        "id": 194,
+        "start": "915120",
+        "end": "917040",
+        "speakers": "\"04\"",
+        "text": "Vai, Kiki, pega, pega."
+    },
+    {
+        "id": 195,
+        "start": "917040",
+        "end": "918040",
+        "speakers": "\"04\"",
+        "text": "E aí eu chego..."
+    },
+    {
+        "id": 196,
+        "start": "918140",
+        "end": "922840",
+        "speakers": "\"04\"",
+        "text": "Eu chego nele e fico empurrando o meu focinho nele e me esfregando nele."
+    },
+    {
+        "id": 197,
+        "start": "923040",
+        "end": "925540",
+        "speakers": "\"13\"",
+        "text": "Ei, Kiki, esse daqui é especial."
+    },
+    {
+        "id": 198,
+        "start": "925720",
+        "end": "929360",
+        "speakers": "\"13\"",
+        "text": "Você vê que tá, assim, com aquela terra, assim, a mãozinha da mochila de terra."
+    },
+    {
+        "id": 199,
+        "start": "929800",
+        "end": "930980",
+        "speakers": "\"05, 13\"",
+        "text": "É especial?"
+    },
+    {
+        "id": 200,
+        "start": "931440",
+        "end": "933580",
+        "speakers": "\"05\"",
+        "text": "Não, minha mãe não me dá isso."
+    },
+    {
+        "id": 201,
+        "start": "933740",
+        "end": "935020",
+        "speakers": "\"05\"",
+        "text": "Não deixa eu comer isso, não."
+    },
+    {
+        "id": 202,
+        "start": "935100",
+        "end": "935680",
+        "speakers": "\"05\"",
+        "text": "Eu não posso."
+    },
+    {
+        "id": 203,
+        "start": "935820",
+        "end": "937300",
+        "speakers": "\"05\"",
+        "text": "Eu tenho alergia."
+    },
+    {
+        "id": 204,
+        "start": "938300",
+        "end": "939720",
+        "speakers": "\"05\"",
+        "text": "Não, não, não quero."
+    },
+    {
+        "id": 205,
+        "start": "940240",
+        "end": "946080",
+        "speakers": "\"05\"",
+        "text": "E ele vai saindo e ele vai pra trás da professora, assim, e esconder perto dela."
+    },
+    {
+        "id": 206,
+        "start": "947040",
+        "end": "948080",
+        "speakers": "\"09\"",
+        "text": "Ela tá do lado de fora."
+    },
+    {
+        "id": 207,
+        "start": "948080",
+        "end": "949960",
+        "speakers": "\"09\"",
+        "text": "Fora da cerquinha, né?"
+    },
+    {
+        "id": 208,
+        "start": "950040",
+        "end": "951080",
+        "speakers": "\"09\"",
+        "text": "Mas tu fica mais perto da porta."
+    },
+    {
+        "id": 209,
+        "start": "951080",
+        "end": "955800",
+        "speakers": "\"05, 09\"",
+        "text": "Tá, então ele vai ficar mais perto da cerca e o mais longe do besouro possível."
+    },
+    {
+        "id": 210,
+        "start": "956300",
+        "end": "957480",
+        "speakers": "\"09\"",
+        "text": "A diretora fala."
+    },
+    {
+        "id": 211,
+        "start": "957540",
+        "end": "960920",
+        "speakers": "\"10, 05\"",
+        "text": "Olha só, eu vou com as primeiras turmas."
+    },
+    {
+        "id": 212,
+        "start": "960920",
+        "end": "968100",
+        "speakers": "\"10, 04\"",
+        "text": "Da última vez que Dedé explodiu o nosso telhado, a professora de vocês teve um colapso nervoso."
+    },
+    {
+        "id": 213,
+        "start": "968460",
+        "end": "970500",
+        "speakers": "\"10, 04\"",
+        "text": "Ah, Sunny levanta a mão e..."
+    },
+    {
+        "id": 214,
+        "start": "970500",
+        "end": "972920",
+        "speakers": "\"04\"",
+        "text": "O que é um colapso nervoso?"
+    },
+    {
+        "id": 215,
+        "start": "973700",
+        "end": "974920",
+        "speakers": "\"10\"",
+        "text": "Ela ficou muito assustada."
+    },
+    {
+        "id": 216,
+        "start": "976080",
+        "end": "977580",
+        "speakers": "\"10\"",
+        "text": "Não tá se sentindo bem."
+    },
+    {
+        "id": 217,
+        "start": "977580",
+        "end": "979580",
+        "speakers": "\"10\"",
+        "text": "E até tá de atestado."
+    },
+    {
+        "id": 218,
+        "start": "980480",
+        "end": "980960",
+        "speakers": "\"10\"",
+        "text": "Entendi."
+    },
+    {
+        "id": 219,
+        "start": "981260",
+        "end": "986520",
+        "speakers": "\"10\"",
+        "text": "Daí, a gente contrata um professor substituto para ficar com vocês."
+    },
+    {
+        "id": 220,
+        "start": "986800",
+        "end": "994000",
+        "speakers": "\"10\"",
+        "text": "Se vocês não se comportarem com o professor substituto, ele não vai levar vocês para verem a peça."
+    },
+    {
+        "id": 221,
+        "start": "994200",
+        "end": "996260",
+        "speakers": "\"10\"",
+        "text": "Mas ele é legal igual a tia?"
+    },
+    {
+        "id": 222,
+        "start": "996420",
+        "end": "1000600",
+        "speakers": "\"10\"",
+        "text": "Ele é alguém mais resistente, eu espero."
+    },
+    {
+        "id": 223,
+        "start": "1000600",
+        "end": "1006420",
+        "speakers": "\"10, 09\"",
+        "text": "E se aproxima do lado dela um ser muito alto, assim, com uns dois metros e tanto."
+    },
+    {
+        "id": 224,
+        "start": "1006420",
+        "end": "1009700",
+        "speakers": "\"09\"",
+        "text": "Parece feito de escuridão."
+    },
+    {
+        "id": 225,
+        "start": "1010460",
+        "end": "1016420",
+        "speakers": "\"09\"",
+        "text": "Ele tem, assim, unhas muito grandes, afiadas, ele tem chifres, ele tem um olho, assim, com um brilho vermelho."
+    },
+    {
+        "id": 226,
+        "start": "1017940",
+        "end": "1020020",
+        "speakers": "\"04\"",
+        "text": "Esse aqui é o tio Raster."
+    },
+    {
+        "id": 227,
+        "start": "1020280",
+        "end": "1022420",
+        "speakers": "\"04\"",
+        "text": "Muito prazer, tio Raster."
+    },
+    {
+        "id": 228,
+        "start": "1024580",
+        "end": "1026380",
+        "speakers": "\"04\"",
+        "text": "E a Sunny fica olhando pra cima."
+    },
+    {
+        "id": 229,
+        "start": "1026720",
+        "end": "1028620",
+        "speakers": "\"08\"",
+        "text": "O prazer é meu, criança."
+    },
+    {
+        "id": 230,
+        "start": "1028840",
+        "end": "1031960",
+        "speakers": "\"08, 02\"",
+        "text": "Eu trouxe um besouro pra você, tio."
+    },
+    {
+        "id": 231,
+        "start": "1032140",
+        "end": "1033160",
+        "speakers": "\"08, 09\"",
+        "text": "Muito obrigado."
+    },
+    {
+        "id": 232,
+        "start": "1033160",
+        "end": "1036280",
+        "speakers": "\"09\"",
+        "text": "Ele pega, assim, com a pontinha das unhas e ele come."
+    },
+    {
+        "id": 233,
+        "start": "1036420",
+        "end": "1041980",
+        "speakers": "\"09\"",
+        "text": "A diretora dá um sorriso pra ele e tá indo embora montar no dragão com uma outra turma."
+    },
+    {
+        "id": 234,
+        "start": "1042060",
+        "end": "1047380",
+        "speakers": "\"08, 13\"",
+        "text": "A Rani, ela passa e dá a língua pro Kiki porque ele não quis o besouro que ela deu pro professor."
+    },
+    {
+        "id": 235,
+        "start": "1047580",
+        "end": "1049880",
+        "speakers": "\"08\"",
+        "text": "Eu posso entrar nessa aula de vocês?"
+    },
+    {
+        "id": 236,
+        "start": "1051040",
+        "end": "1052580",
+        "speakers": "\"08\"",
+        "text": "Depende. Você é forte?"
+    },
+    {
+        "id": 237,
+        "start": "1052680",
+        "end": "1054120",
+        "speakers": "\"08, 05\"",
+        "text": "Eu imagino que sim."
+    },
+    {
+        "id": 238,
+        "start": "1055120",
+        "end": "1057060",
+        "speakers": "\"04, 05\"",
+        "text": "E... e... o que você sabe fazer?"
+    },
+    {
+        "id": 239,
+        "start": "1057080",
+        "end": "1059160",
+        "speakers": "\"08, 04, 05\"",
+        "text": "Você sabe correr atrás do rabo?"
+    },
+    {
+        "id": 240,
+        "start": "1059660",
+        "end": "1062980",
+        "speakers": "\"04\"",
+        "text": "Aí a Sunny começa, enlouquecida, a correr atrás do rabo."
+    },
+    {
+        "id": 241,
+        "start": "1063200",
+        "end": "1065800",
+        "speakers": "\"08\"",
+        "text": "Ah, eu posso aprender com você."
+    },
+    {
+        "id": 242,
+        "start": "1065800",
+        "end": "1067460",
+        "speakers": "\"08, 04, 02\"",
+        "text": "E... e você pula alto?"
+    },
+    {
+        "id": 243,
+        "start": "1067920",
+        "end": "1069760",
+        "speakers": "\"08\"",
+        "text": "Ah, eu pulo alto, eu pulo alto."
+    },
+    {
+        "id": 244,
+        "start": "1069880",
+        "end": "1071020",
+        "speakers": "\"08\"",
+        "text": "Eu voava, até."
+    },
+    {
+        "id": 245,
+        "start": "1071820",
+        "end": "1073760",
+        "speakers": "\"08\"",
+        "text": "Mas estou meio enferrujado."
+    },
+    {
+        "id": 246,
+        "start": "1075360",
+        "end": "1077740",
+        "speakers": "\"05\"",
+        "text": "E... e... você sabe explodir coisa?"
+    },
+    {
+        "id": 247,
+        "start": "1077840",
+        "end": "1079960",
+        "speakers": "\"05\"",
+        "text": "Porque o Dedé... o Dedé é bom de explodir."
+    },
+    {
+        "id": 248,
+        "start": "1080080",
+        "end": "1080500",
+        "speakers": "\"05, 02\"",
+        "text": "Não é, Dedé?"
+    },
+    {
+        "id": 249,
+        "start": "1080560",
+        "end": "1083680",
+        "speakers": "\"04, 05, 11, 02\"",
+        "text": "É, é. O Dedé, ele faz muita coisa."
+    },
+    {
+        "id": 250,
+        "start": "1083920",
+        "end": "1085520",
+        "speakers": "\"11, 09, 02\"",
+        "text": "É verdade, é verdade, é verdade."
+    },
+    {
+        "id": 251,
+        "start": "1085900",
+        "end": "1087600",
+        "speakers": "\"09\"",
+        "text": "Então é o famoso Dedé."
+    },
+    {
+        "id": 252,
+        "start": "1087740",
+        "end": "1089520",
+        "speakers": "\"09\"",
+        "text": "Ele encara, o Dedé tava lá brincando."
+    },
+    {
+        "id": 253,
+        "start": "1089940",
+        "end": "1092920",
+        "speakers": "\"09\"",
+        "text": "O Dedé parece tomar conhecimento do professor novo."
+    },
+    {
+        "id": 254,
+        "start": "1092920",
+        "end": "1094920",
+        "speakers": "\"09\"",
+        "text": "Ele encara o professor novo."
+    },
+    {
+        "id": 255,
+        "start": "1095120",
+        "end": "1095720",
+        "speakers": "\"09\"",
+        "text": "Ele voa."
+    },
+    {
+        "id": 256,
+        "start": "1095880",
+        "end": "1098340",
+        "speakers": "\"09\"",
+        "text": "Em velocidade, assim, pra colidir com o professor."
+    },
+    {
+        "id": 257,
+        "start": "1098740",
+        "end": "1100300",
+        "speakers": "\"03\"",
+        "text": "Olha, ele gostou do professor."
+    },
+    {
+        "id": 258,
+        "start": "1100880",
+        "end": "1102040",
+        "speakers": "\"03\"",
+        "text": "Cuidado, tio!"
+    },
+    {
+        "id": 259,
+        "start": "1102580",
+        "end": "1103020",
+        "speakers": "\"03\"",
+        "text": "Dedé!"
+    },
+    {
+        "id": 260,
+        "start": "1103800",
+        "end": "1106380",
+        "speakers": "\"09\"",
+        "text": "O Dedé acerta o..."
+    },
+    {
+        "id": 261,
+        "start": "1106380",
+        "end": "1108840",
+        "speakers": "\"09\"",
+        "text": "O professor tenta desviar, acerta o ombro do professor."
+    },
+    {
+        "id": 262,
+        "start": "1109040",
+        "end": "1111060",
+        "speakers": "\"08, 09\"",
+        "text": "Que é jogado pra trás."
+    },
+    {
+        "id": 263,
+        "start": "1111240",
+        "end": "1111960",
+        "speakers": "\"08\"",
+        "text": "O professor fala..."
+    },
+    {
+        "id": 264,
+        "start": "1111960",
+        "end": "1115180",
+        "speakers": "\"08\"",
+        "text": "Você prometeu pro seu pai que não ia bater nos professores."
+    },
+    {
+        "id": 265,
+        "start": "1115360",
+        "end": "1116560",
+        "speakers": "\"05\"",
+        "text": "Eu sou um professor."
+    },
+    {
+        "id": 266,
+        "start": "1116700",
+        "end": "1117660",
+        "speakers": "\"05\"",
+        "text": "E o Dedé sai voando."
+    },
+    {
+        "id": 267,
+        "start": "1117860",
+        "end": "1122340",
+        "speakers": "\"05\"",
+        "text": "O Kiki, ele tá sorrindo, porque ele gosta de ver o Dedé causando confusão."
+    },
+    {
+        "id": 268,
+        "start": "1122340",
+        "end": "1125340",
+        "speakers": "\"04, 05, 07\"",
+        "text": "Ai, a gente vai perder o passeio!"
+    },
+    {
+        "id": 269,
+        "start": "1125800",
+        "end": "1133800",
+        "speakers": "\"04, 09, 03\"",
+        "text": "O professor levanta, limpa, assim, uma poeira imaginária que ele teria caído ali."
+    },
+    {
+        "id": 270,
+        "start": "1134540",
+        "end": "1136680",
+        "speakers": "\"09\"",
+        "text": "Ele olha pra vocês e fala o seguinte."
+    },
+    {
+        "id": 271,
+        "start": "1137160",
+        "end": "1139720",
+        "speakers": "\"08\"",
+        "text": "Crianças, vocês poderiam me ajudar?"
+    },
+    {
+        "id": 272,
+        "start": "1140200",
+        "end": "1141800",
+        "speakers": "\"13\"",
+        "text": "Mas, eu posso."
+    },
+    {
+        "id": 273,
+        "start": "1142340",
+        "end": "1143240",
+        "speakers": "\"13\"",
+        "text": "Escolhe eu."
+    },
+    {
+        "id": 274,
+        "start": "1143740",
+        "end": "1145680",
+        "speakers": "\"13\"",
+        "text": "E a Rania tá com a mãozinha levantada."
+    },
+    {
+        "id": 275,
+        "start": "1146160",
+        "end": "1147880",
+        "speakers": "\"08\"",
+        "text": "Vamos fazer uma brincadeira."
+    },
+    {
+        "id": 276,
+        "start": "1148400",
+        "end": "1153280",
+        "speakers": "\"08\"",
+        "text": "Eu vou abrir o cercado e vocês encontram um amigo de vocês e tragam ele pra cá."
+    },
+    {
+        "id": 277,
+        "start": "1153280",
+        "end": "1153360",
+        "speakers": "\"08\"",
+        "text": "Por quê?"
+    },
+    {
+        "id": 278,
+        "start": "1154040",
+        "end": "1155280",
+        "speakers": "\"08\"",
+        "text": "Porque se o dragão voltar..."
+    },
+    {
+        "id": 279,
+        "start": "1155800",
+        "end": "1159160",
+        "speakers": "\"08\"",
+        "text": "Se tiver faltando criança, vocês não vão pra peça."
+    },
+    {
+        "id": 280,
+        "start": "1159360",
+        "end": "1161100",
+        "speakers": "\"04\"",
+        "text": "A Sunny levanta a patinha, né?"
+    },
+    {
+        "id": 281,
+        "start": "1161140",
+        "end": "1163560",
+        "speakers": "\"04\"",
+        "text": "Ela tá com a linguinha pra fora."
+    },
+    {
+        "id": 282,
+        "start": "1163640",
+        "end": "1167720",
+        "speakers": "\"04\"",
+        "text": "Ela levanta a patinha e fica esperando ele dar a vez pra ela falar."
+    },
+    {
+        "id": 283,
+        "start": "1168000",
+        "end": "1168940",
+        "speakers": "\"08\"",
+        "text": "Fale, criança."
+    },
+    {
+        "id": 284,
+        "start": "1169600",
+        "end": "1171680",
+        "speakers": "\"04\"",
+        "text": "É uma gincana?"
+    },
+    {
+        "id": 285,
+        "start": "1172160",
+        "end": "1173480",
+        "speakers": "\"08\"",
+        "text": "Podemos chamá-la assim."
+    },
+    {
+        "id": 286,
+        "start": "1173980",
+        "end": "1178560",
+        "speakers": "\"08, 04\"",
+        "text": "E eu vou ganhar almoço no final da gincana?"
+    },
+    {
+        "id": 287,
+        "start": "1178600",
+        "end": "1181520",
+        "speakers": "\"08, 04\"",
+        "text": "Posso dar um presente a quem conseguir trazê-la."
+    },
+    {
+        "id": 288,
+        "start": "1183520",
+        "end": "1185720",
+        "speakers": "\"04\"",
+        "text": "Eu gostei. Você gostou, Rania?"
+    },
+    {
+        "id": 289,
+        "start": "1186320",
+        "end": "1187880",
+        "speakers": "\"04, 02\"",
+        "text": "Vamos, Rania. Vamos, vamos."
+    },
+    {
+        "id": 290,
+        "start": "1188060",
+        "end": "1192440",
+        "speakers": "\"02\"",
+        "text": "Eu adorei. Tem presente. E o Kiki? Você vai ficar, Kiki?"
+    },
+    {
+        "id": 291,
+        "start": "1192920",
+        "end": "1194000",
+        "speakers": "\"02\"",
+        "text": "Cadê a Lila?"
+    },
+    {
+        "id": 292,
+        "start": "1194620",
+        "end": "1195060",
+        "speakers": "\"02\"",
+        "text": "Lila?"
+    },
+    {
+        "id": 293,
+        "start": "1195520",
+        "end": "1196420",
+        "speakers": "\"02\"",
+        "text": "Vamos, Lila."
+    },
+    {
+        "id": 294,
+        "start": "1196660",
+        "end": "1199300",
+        "speakers": "\"09\"",
+        "text": "Ela cai do teto, assim, faz aquele splash no chão."
+    },
+    {
+        "id": 295,
+        "start": "1199780",
+        "end": "1203100",
+        "speakers": "\"09\"",
+        "text": "Ela se remonta e ela tá ali do ladinho de vocês."
+    },
+    {
+        "id": 296,
+        "start": "1203820",
+        "end": "1206340",
+        "speakers": "\"09\"",
+        "text": "Ela não fala, mas ela se expressa, assim."
+    },
+    {
+        "id": 297,
+        "start": "1206900",
+        "end": "1209840",
+        "speakers": "\"09\"",
+        "text": "Ela se movimenta bastante, como se fosse um sim."
+    },
+    {
+        "id": 298,
+        "start": "1209840",
+        "end": "1211940",
+        "speakers": "\"04, 09\"",
+        "text": "Ai, que legal, que legal."
+    },
+    {
+        "id": 299,
+        "start": "1212300",
+        "end": "1213900",
+        "speakers": "\"04\"",
+        "text": "Ai, vamos brincar, então."
+    },
+    {
+        "id": 300,
+        "start": "1214680",
+        "end": "1215640",
+        "speakers": "\"04\"",
+        "text": "E a Sunny..."
+    },
+    {
+        "id": 301,
+        "start": "1215800",
+        "end": "1219500",
+        "speakers": "\"04\"",
+        "text": "Ela tá pulando e muito animada."
+    },
+    {
+        "id": 302,
+        "start": "1219660",
+        "end": "1220400",
+        "speakers": "\"04\"",
+        "text": "Muito animada."
+    },
+    {
+        "id": 303,
+        "start": "1220680",
+        "end": "1222920",
+        "speakers": "\"04\"",
+        "text": "Olha, a Maggie quer brincar também."
+    },
+    {
+        "id": 304,
+        "start": "1223160",
+        "end": "1226920",
+        "speakers": "\"04, 00\"",
+        "text": "E ela olha pro rabo, porque o rabo tá todo eriçado e alto."
+    },
+    {
+        "id": 305,
+        "start": "1227100",
+        "end": "1228580",
+        "speakers": "\"04\"",
+        "text": "Quer, não quer, Maggie, brincar?"
+    },
+    {
+        "id": 306,
+        "start": "1228760",
+        "end": "1230840",
+        "speakers": "\"04\"",
+        "text": "E aí o rabo dela começa a balançar."
+    },
+    {
+        "id": 307,
+        "start": "1231140",
+        "end": "1232920",
+        "speakers": "\"04\"",
+        "text": "Tá vendo? A Maggie também quer brincar."
+    },
+    {
+        "id": 308,
+        "start": "1233180",
+        "end": "1235700",
+        "speakers": "\"04\"",
+        "text": "Vamos, vamos, vamos. Já pode ir, professor?"
+    },
+    {
+        "id": 309,
+        "start": "1235700",
+        "end": "1239800",
+        "speakers": "\"04, 09\"",
+        "text": "Ele abre a portinola ali de vocês."
+    },
+    {
+        "id": 310,
+        "start": "1240780",
+        "end": "1241260",
+        "speakers": "\"09\"",
+        "text": "Por favor."
+    },
+    {
+        "id": 311,
+        "start": "1241820",
+        "end": "1242500",
+        "speakers": "\"04\"",
+        "text": "Ai, vamos."
+    },
+    {
+        "id": 312,
+        "start": "1242800",
+        "end": "1244820",
+        "speakers": "\"04\"",
+        "text": "A Sunny sai disparada."
+    },
+    {
+        "id": 313,
+        "start": "1245000",
+        "end": "1245700",
+        "speakers": "\"04\"",
+        "text": "Sabe aqueles cachorros?"
+    },
+    {
+        "id": 314,
+        "start": "1245800",
+        "end": "1252120",
+        "speakers": "\"04\"",
+        "text": "Os cachorrinhos, assim, que fica só esperando uma brechinha de porta pra sair correndo de casa?"
+    },
+    {
+        "id": 315,
+        "start": "1252560",
+        "end": "1259540",
+        "speakers": "\"04\"",
+        "text": "Pronto, ela sai, assim, disparada pelos corredores, tentando farejar onde tá o Dedé."
+    },
+    {
+        "id": 316,
+        "start": "1259640",
+        "end": "1260580",
+        "speakers": "\"09\"",
+        "text": "Ok, os outros?"
+    },
+    {
+        "id": 317,
+        "start": "1260880",
+        "end": "1266720",
+        "speakers": "\"13\"",
+        "text": "A Honey, ela sai olhando pro lado, ela olha pra Lila, aí ela olha pro Kiki."
+    },
+    {
+        "id": 318,
+        "start": "1266720",
+        "end": "1269520",
+        "speakers": "\"05, 13\"",
+        "text": "Você tá esperando o quê, Kiki?"
+    },
+    {
+        "id": 319,
+        "start": "1269880",
+        "end": "1274780",
+        "speakers": "\"05\"",
+        "text": "Eu, eu, eu tava olhando como vocês iam fazer, porque, né?"
+    },
+    {
+        "id": 320,
+        "start": "1275800",
+        "end": "1278240",
+        "speakers": "\"05\"",
+        "text": "Pra saber minha estratégia."
+    },
+    {
+        "id": 321,
+        "start": "1278700",
+        "end": "1282900",
+        "speakers": "\"05\"",
+        "text": "Porque o importante, eu aprendi que é observar."
+    },
+    {
+        "id": 322,
+        "start": "1283100",
+        "end": "1286320",
+        "speakers": "\"05\"",
+        "text": "E aí, depois que você observa, você vê o que que você faz."
+    },
+    {
+        "id": 323,
+        "start": "1286580",
+        "end": "1290920",
+        "speakers": "\"05\"",
+        "text": "A, a, a Sunny já saiu na frente e ela vai, ela vai achar o Dedé pra gente."
+    },
+    {
+        "id": 324,
+        "start": "1291500",
+        "end": "1294380",
+        "speakers": "\"13, 05\"",
+        "text": "E aí, a gente, a gente segue ela."
+    },
+    {
+        "id": 325,
+        "start": "1294600",
+        "end": "1295280",
+        "speakers": "\"13\"",
+        "text": "Tá bom, então."
+    },
+    {
+        "id": 326,
+        "start": "1295760",
+        "end": "1298480",
+        "speakers": "\"13\"",
+        "text": "Ela faz um joinha, assim, com aquele dedinho de ventosa, professor."
+    },
+    {
+        "id": 327,
+        "start": "1298480",
+        "end": "1302340",
+        "speakers": "\"05, 13\"",
+        "text": "O, o, o Kiki vai olhar pra, ele, ele olha pra Lila."
+    },
+    {
+        "id": 328,
+        "start": "1302960",
+        "end": "1303840",
+        "speakers": "\"05\"",
+        "text": "Você, você quer ajuda?"
+    },
+    {
+        "id": 329,
+        "start": "1304200",
+        "end": "1305300",
+        "speakers": "\"05\"",
+        "text": "Ela, ela anda devagar, né?"
+    },
+    {
+        "id": 330,
+        "start": "1305300",
+        "end": "1306460",
+        "speakers": "\"05\"",
+        "text": "Muito devagar."
+    },
+    {
+        "id": 331,
+        "start": "1306820",
+        "end": "1309900",
+        "speakers": "\"05\"",
+        "text": "Ele olha pra ela e pergunta, você quer, você quer ajuda?"
+    },
+    {
+        "id": 332,
+        "start": "1310020",
+        "end": "1311900",
+        "speakers": "\"05\"",
+        "text": "Ela, ela faz com a mãozinha que não precisa."
+    },
+    {
+        "id": 333,
+        "start": "1312320",
+        "end": "1313120",
+        "speakers": "\"05, 07\"",
+        "text": "Ah, então tá."
+    },
+    {
+        "id": 334,
+        "start": "1313360",
+        "end": "1315100",
+        "speakers": "\"05\"",
+        "text": "Faz pra vocês vindo que ela acompanha."
+    },
+    {
+        "id": 335,
+        "start": "1315420",
+        "end": "1321320",
+        "speakers": "\"05\"",
+        "text": "Ele vai, ele vai andando, então, atrás da, ele espera a Honey aí na frente e ele vai atrás dela."
+    },
+    {
+        "id": 336,
+        "start": "1321660",
+        "end": "1325580",
+        "speakers": "\"09\"",
+        "text": "A Sunny já tinha ido na frente, dois dados, pra farejar."
+    },
+    {
+        "id": 337,
+        "start": "1325580",
+        "end": "1334580",
+        "speakers": "\"04, 09\"",
+        "text": "É, antes da, da Sunny, de fato, ir procurar o Dedé, pode ser que ela tenha passado em frente a caixa,"
+    },
+    {
+        "id": 338,
+        "start": "1335300",
+        "end": "1342140",
+        "speakers": "\"04, 09\"",
+        "text": "de areia, e ela tenha lembrado que ela tinha escondido um osso lá e ela esteja brincando com o osso."
+    },
+    {
+        "id": 339,
+        "start": "1342180",
+        "end": "1343800",
+        "speakers": "\"09\"",
+        "text": "Ah, tá, tu te perdeu no caminho, pode."
+    },
+    {
+        "id": 340,
+        "start": "1344160",
+        "end": "1350340",
+        "speakers": "\"04\"",
+        "text": "É, a, a Sunny meio que passou pela caixa de areia, ela lembrou que ela tinha um osso enterrado"
+    },
+    {
+        "id": 341,
+        "start": "1350340",
+        "end": "1353120",
+        "speakers": "\"04\"",
+        "text": "e ela foi desenterrar o osso pra brincar."
+    },
+    {
+        "id": 342,
+        "start": "1353380",
+        "end": "1357360",
+        "speakers": "\"09\"",
+        "text": "Vocês acabam encontrando a amiga de vocês ali, que não fez a procura."
+    },
+    {
+        "id": 343,
+        "start": "1357680",
+        "end": "1360120",
+        "speakers": "\"05\"",
+        "text": "Ô, ô, Sunny, o, o Dedé tá aí dentro?"
+    },
+    {
+        "id": 344,
+        "start": "1360260",
+        "end": "1360540",
+        "speakers": "\"02\"",
+        "text": "O quê?"
+    },
+    {
+        "id": 345,
+        "start": "1360940",
+        "end": "1361700",
+        "speakers": "\"02\"",
+        "text": "É nóis, senhor."
+    },
+    {
+        "id": 346,
+        "start": "1361900",
+        "end": "1363380",
+        "speakers": "\"05\"",
+        "text": "O Dedé tá aí dentro da areia?"
+    },
+    {
+        "id": 347,
+        "start": "1363380",
+        "end": "1364620",
+        "speakers": "\"05, 02\"",
+        "text": "Ué, ué, ué."
+    },
+    {
+        "id": 348,
+        "start": "1364620",
+        "end": "1365060",
+        "speakers": "\"unknown\"",
+        "text": "Que?"
+    },
+    {
+        "id": 349,
+        "start": "1365300",
+        "end": "1368080",
+        "speakers": "\"04, 02\"",
+        "text": "É, o, ah, o, o Dedé, né?"
+    },
+    {
+        "id": 350,
+        "start": "1368740",
+        "end": "1373160",
+        "speakers": "\"04, 07\"",
+        "text": "Sim, ah, sim, procurar o Dedé, procurar o Dedé, sim, eu vou procurar o Dedé."
+    },
+    {
+        "id": 351,
+        "start": "1373340",
+        "end": "1377920",
+        "speakers": "\"04\"",
+        "text": "Pera, calma, deixa, deixa, eu, eu, eu, como é que, que o tio falou?"
+    },
+    {
+        "id": 352,
+        "start": "1378140",
+        "end": "1381440",
+        "speakers": "\"04, 13\"",
+        "text": "Ah, farejar, sim, eu vou farejar o Dedé."
+    },
+    {
+        "id": 353,
+        "start": "1381600",
+        "end": "1384640",
+        "speakers": "\"13, 02\"",
+        "text": "Ah, Sunny é tão engraçada."
+    },
+    {
+        "id": 354,
+        "start": "1388220",
+        "end": "1390620",
+        "speakers": "\"04, 02\"",
+        "text": "Sunny, você lembra do cheiro dele?"
+    },
+    {
+        "id": 355,
+        "start": "1390620",
+        "end": "1395280",
+        "speakers": "\"04\"",
+        "text": "Lembro, lembro, tem um, um cheiro de, é, é, pena queimar."
+    },
+    {
+        "id": 356,
+        "start": "1395300",
+        "end": "1396980",
+        "speakers": "\"04\"",
+        "text": "É mais ou menos assim."
+    },
+    {
+        "id": 357,
+        "start": "1397240",
+        "end": "1400660",
+        "speakers": "\"04\"",
+        "text": "Ah, cheiro de pena queimada."
+    },
+    {
+        "id": 358,
+        "start": "1400860",
+        "end": "1410140",
+        "speakers": "\"04, 09\"",
+        "text": "E aí a Sunny agora vai tentar farejar o, o, o Dedé, pra ver se ela sente algum cheiro ali no ali perto desse, tentar saber por onde ele pode ter ido."
+    },
+    {
+        "id": 359,
+        "start": "1410180",
+        "end": "1410640",
+        "speakers": "\"09\"",
+        "text": "Dois dados."
+    },
+    {
+        "id": 360,
+        "start": "1412120",
+        "end": "1418020",
+        "speakers": "\"04, 09\"",
+        "text": "Eu tirei três e três, que talvez seja o meu atributo."
+    },
+    {
+        "id": 361,
+        "start": "1418220",
+        "end": "1424140",
+        "speakers": "\"09\"",
+        "text": "Então, dois acertos críticos, tu tem certeza absoluta, o Dedé tá escondido na cantina."
+    },
+    {
+        "id": 362,
+        "start": "1424140",
+        "end": "1425140",
+        "speakers": "\"04, 09\"",
+        "text": "Ha, ha."
+    },
+    {
+        "id": 363,
+        "start": "1425300",
+        "end": "1427500",
+        "speakers": "\"04\"",
+        "text": "Ah, ele escolheu o melhor lugar."
+    },
+    {
+        "id": 364,
+        "start": "1428100",
+        "end": "1431420",
+        "speakers": "\"04\"",
+        "text": "Vamos, gente, ele tá na cantina, vamos, vamos, vamos."
+    },
+    {
+        "id": 365,
+        "start": "1431700",
+        "end": "1433460",
+        "speakers": "\"04, 13\"",
+        "text": "Ai, que espertinho."
+    },
+    {
+        "id": 366,
+        "start": "1433520",
+        "end": "1434960",
+        "speakers": "\"04, 13, 02\"",
+        "text": "E aí ela parte correndo."
+    },
+    {
+        "id": 367,
+        "start": "1435300",
+        "end": "1437920",
+        "speakers": "\"13\"",
+        "text": "Me espera, quero, quero, me espera."
+    },
+    {
+        "id": 368,
+        "start": "1438360",
+        "end": "1439680",
+        "speakers": "\"13\"",
+        "text": "E ela vai pulando atrás."
+    },
+    {
+        "id": 369,
+        "start": "1439880",
+        "end": "1446420",
+        "speakers": "\"05\"",
+        "text": "O Kiki, ele coloca uma folhinha na cabeça dele e ele transforma num cachecol e se enrola na Rania pra ele já pegar carona."
+    },
+    {
+        "id": 370,
+        "start": "1446620",
+        "end": "1447760",
+        "speakers": "\"12, 05, 09\"",
+        "text": "Que bonitinho."
+    },
+    {
+        "id": 371,
+        "start": "1447760",
+        "end": "1454900",
+        "speakers": "\"05, 09\"",
+        "text": "Então, Sunny, Rania e o seu cachecol chegam até onde é ali a, a cantina, né?"
+    },
+    {
+        "id": 372,
+        "start": "1455300",
+        "end": "1458060",
+        "speakers": "\"09\"",
+        "text": "Tirou dois acertos críticos, não vou pedir pra, pra rolar de novo."
+    },
+    {
+        "id": 373,
+        "start": "1458840",
+        "end": "1468360",
+        "speakers": "\"09\"",
+        "text": "Tem uma prateleira com muitas panelas na área restrita, né, da cozinha, que hoje não tem ninguém trabalhando, já que, como não ia ter aula, elas não ficaram por ali."
+    },
+    {
+        "id": 374,
+        "start": "1469080",
+        "end": "1474200",
+        "speakers": "\"09\"",
+        "text": "E tu sabe que o Dedé tá embaixo de uma das panelas, no alto, assim, da, da estante."
+    },
+    {
+        "id": 375,
+        "start": "1474440",
+        "end": "1477300",
+        "speakers": "\"04\"",
+        "text": "Fica difícil, né, provavelmente, pra Sunny alcançar."
+    },
+    {
+        "id": 376,
+        "start": "1477580",
+        "end": "1480340",
+        "speakers": "\"09\"",
+        "text": "No teu caso, pode tentar escalar, né?"
+    },
+    {
+        "id": 377,
+        "start": "1480740",
+        "end": "1482300",
+        "speakers": "\"09\"",
+        "text": "Ou na Rania podia tentar pular."
+    },
+    {
+        "id": 378,
+        "start": "1482300",
+        "end": "1482580",
+        "speakers": "\"04, 09\"",
+        "text": "Tá bom."
+    },
+    {
+        "id": 379,
+        "start": "1482760",
+        "end": "1484680",
+        "speakers": "\"04\"",
+        "text": "A gente, a gente chega na porta, né?"
+    },
+    {
+        "id": 380,
+        "start": "1484680",
+        "end": "1491840",
+        "speakers": "\"04, 02\"",
+        "text": "E eu achando que não tô fazendo barulho, eu olho pra ele e digo assim, pra ele não saber que a gente tá aqui."
+    },
+    {
+        "id": 381,
+        "start": "1493140",
+        "end": "1496900",
+        "speakers": "\"02\"",
+        "text": "Ah, tá bom, tá bom, é pra falar baixinho."
+    },
+    {
+        "id": 382,
+        "start": "1497380",
+        "end": "1501500",
+        "speakers": "\"04, 02\"",
+        "text": "Isso, é pra gente falar baixinho."
+    },
+    {
+        "id": 383,
+        "start": "1502340",
+        "end": "1507280",
+        "speakers": "\"04\"",
+        "text": "E aí eu fico apontando com o nariz pra onde eu senti que ele tá."
+    },
+    {
+        "id": 384,
+        "start": "1507700",
+        "end": "1512140",
+        "speakers": "\"02\"",
+        "text": "Ele tá ali no alto, ele tá ali no alto, você quer que eu pegue ele?"
+    },
+    {
+        "id": 385,
+        "start": "1512140",
+        "end": "1514140",
+        "speakers": "\"02\"",
+        "text": "É, é, Rania, você, você..."
+    },
+    {
+        "id": 386,
+        "start": "1514680",
+        "end": "1517500",
+        "speakers": "\"02\"",
+        "text": "Você pula, pula mais alto, né?"
+    },
+    {
+        "id": 387,
+        "start": "1517640",
+        "end": "1520980",
+        "speakers": "\"13, 02\"",
+        "text": "Aham, mas eu também consigo escalar."
+    },
+    {
+        "id": 388,
+        "start": "1521400",
+        "end": "1523620",
+        "speakers": "\"13\"",
+        "text": "Aí eu mostro os dedinhos com as ventosas."
+    },
+    {
+        "id": 389,
+        "start": "1524080",
+        "end": "1528460",
+        "speakers": "\"13, 02\"",
+        "text": "Ai, é verdade, verdade, você fica pregadinha, né?"
+    },
+    {
+        "id": 390,
+        "start": "1528940",
+        "end": "1532180",
+        "speakers": "\"02\"",
+        "text": "Aham, o meu pai demora a me pegar."
+    },
+    {
+        "id": 391,
+        "start": "1534480",
+        "end": "1539560",
+        "speakers": "\"13\"",
+        "text": "Aí ela vai e vai tentar escalar pra poder pegar o Dedé."
+    },
+    {
+        "id": 392,
+        "start": "1540000",
+        "end": "1540540",
+        "speakers": "\"09\"",
+        "text": "Dois dados."
+    },
+    {
+        "id": 393,
+        "start": "1541940",
+        "end": "1542860",
+        "speakers": "\"13\"",
+        "text": "Seis e dois."
+    },
+    {
+        "id": 394,
+        "start": "1542860",
+        "end": "1544340",
+        "speakers": "\"13, 09\"",
+        "text": "Um acerto simples."
+    },
+    {
+        "id": 395,
+        "start": "1544680",
+        "end": "1546140",
+        "speakers": "\"09\"",
+        "text": "E um... e um erro."
+    },
+    {
+        "id": 396,
+        "start": "1546600",
+        "end": "1549840",
+        "speakers": "\"09\"",
+        "text": "Tá, tu consegue escalar, tu chega lá em cima, né?"
+    },
+    {
+        "id": 397,
+        "start": "1550180",
+        "end": "1553560",
+        "speakers": "\"09\"",
+        "text": "Só que tu sabe qual é a panela, tu tá ali perto dela, como é que tu vai fazer?"
+    },
+    {
+        "id": 398,
+        "start": "1553820",
+        "end": "1557080",
+        "speakers": "\"13\"",
+        "text": "Eu olho pra... pra Sunny, eu fico apontando."
+    },
+    {
+        "id": 399,
+        "start": "1557440",
+        "end": "1558340",
+        "speakers": "\"13\"",
+        "text": "É essa?"
+    },
+    {
+        "id": 400,
+        "start": "1558820",
+        "end": "1562020",
+        "speakers": "\"13\"",
+        "text": "É, é, é sim, é, é, tá nessa daí."
+    },
+    {
+        "id": 401,
+        "start": "1562300",
+        "end": "1563880",
+        "speakers": "\"13\"",
+        "text": "Ah, tá bom então."
+    },
+    {
+        "id": 402,
+        "start": "1564240",
+        "end": "1569200",
+        "speakers": "\"13\"",
+        "text": "Aí eu vou tentar pegar a panela que ele tá e segurar ele com a língua."
+    },
+    {
+        "id": 403,
+        "start": "1569560",
+        "end": "1572100",
+        "speakers": "\"13\"",
+        "text": "Igual as rãs fazem, tentar pegar ele com a língua."
+    },
+    {
+        "id": 404,
+        "start": "1572100",
+        "end": "1573300",
+        "speakers": "\"13, 09\"",
+        "text": "Beleza, um dado."
+    },
+    {
+        "id": 405,
+        "start": "1574680",
+        "end": "1576300",
+        "speakers": "\"09\"",
+        "text": "Tirou um, que é um acerto."
+    },
+    {
+        "id": 406,
+        "start": "1576980",
+        "end": "1587540",
+        "speakers": "\"09\"",
+        "text": "O Dedé levanta a voo com panela e tudo, e tu tá preso ali naquela panela, tu levanta a voo junto assim, ele começa a voar em círculos assim pelo teto."
+    },
+    {
+        "id": 407,
+        "start": "1587540",
+        "end": "1591540",
+        "speakers": "\"05, 09\"",
+        "text": "O Kiki, na verdade, ele tava com um cachecol preso na rânia."
+    },
+    {
+        "id": 408,
+        "start": "1592220",
+        "end": "1604540",
+        "speakers": "\"05\"",
+        "text": "Então na hora que ela começa a levantar a voo ali com o Dedé, ele destransforma e sobe em cima da panela, põe a folhinha de novo na cabeça, e ele vira um peso, igual esses de desenho animado."
+    },
+    {
+        "id": 409,
+        "start": "1604680",
+        "end": "1606160",
+        "speakers": "\"05, 09\"",
+        "text": "Pra descer a panela de uma vez."
+    },
+    {
+        "id": 410,
+        "start": "1606560",
+        "end": "1607980",
+        "speakers": "\"09\"",
+        "text": "Ok, ok, dois dados."
+    },
+    {
+        "id": 411,
+        "start": "1609600",
+        "end": "1610420",
+        "speakers": "\"09\"",
+        "text": "Cinco e quatro."
+    },
+    {
+        "id": 412,
+        "start": "1610840",
+        "end": "1612220",
+        "speakers": "\"09\"",
+        "text": "O teu atributo é dois, né?"
+    },
+    {
+        "id": 413,
+        "start": "1612540",
+        "end": "1612940",
+        "speakers": "\"09\"",
+        "text": "Aham."
+    },
+    {
+        "id": 414,
+        "start": "1612940",
+        "end": "1618800",
+        "speakers": "\"09\"",
+        "text": "Tu virou o peso, tu tá lá, mas o Dedé é muito forte, e tu tá sendo arrastado também."
+    },
+    {
+        "id": 415,
+        "start": "1619300",
+        "end": "1619480",
+        "speakers": "\"03\"",
+        "text": "Ai!"
+    },
+    {
+        "id": 416,
+        "start": "1619740",
+        "end": "1620940",
+        "speakers": "\"09, 03\"",
+        "text": "Eita, eita!"
+    },
+    {
+        "id": 417,
+        "start": "1621060",
+        "end": "1630200",
+        "speakers": "\"11, 09, 03\"",
+        "text": "O Dedé tá dentro de uma panela, enrolado nessa panela tem a língua da rânia, o Kiki em forma de peso tá preso na rânia, né?"
+    },
+    {
+        "id": 418,
+        "start": "1630500",
+        "end": "1630800",
+        "speakers": "\"05, 09\"",
+        "text": "Aham."
+    },
+    {
+        "id": 419,
+        "start": "1630800",
+        "end": "1633940",
+        "speakers": "\"05, 09\"",
+        "text": "Ele tá em cima da panela, assim, ele tá tipo tentando pesar a panela, mas..."
+    },
+    {
+        "id": 420,
+        "start": "1634680",
+        "end": "1636280",
+        "speakers": "\"05\"",
+        "text": "Agora ele vai ter que segurar, provavelmente."
+    },
+    {
+        "id": 421,
+        "start": "1636580",
+        "end": "1639560",
+        "speakers": "\"09\"",
+        "text": "Em cima da panela ali, e lá embaixo tá a Sunny."
+    },
+    {
+        "id": 422,
+        "start": "1639740",
+        "end": "1640620",
+        "speakers": "\"04, 09\"",
+        "text": "Sunny, o que tu vai fazer?"
+    },
+    {
+        "id": 423,
+        "start": "1640620",
+        "end": "1646700",
+        "speakers": "\"04, 09\"",
+        "text": "Eu vou tentar subir em cima da mesa e tentar pular em cima deles, né?"
+    },
+    {
+        "id": 424,
+        "start": "1646760",
+        "end": "1652640",
+        "speakers": "\"04\"",
+        "text": "Pra ver se, sei lá, se esbarrando, se cai todo mundo no chão de repente e vou..."
+    },
+    {
+        "id": 425,
+        "start": "1652640",
+        "end": "1657340",
+        "speakers": "\"04\"",
+        "text": "Dedé! Dedé! É só uma brincadeira, Dedé! Anda!"
+    },
+    {
+        "id": 426,
+        "start": "1657960",
+        "end": "1661100",
+        "speakers": "\"04\"",
+        "text": "Não faz assim, a gente vai perder o passeio!"
+    },
+    {
+        "id": 427,
+        "start": "1661380",
+        "end": "1664260",
+        "speakers": "\"09\"",
+        "text": "Tu vai tentar escalar pra ir pra cima da panela ou tu tá só falando?"
+    },
+    {
+        "id": 428,
+        "start": "1664260",
+        "end": "1664500",
+        "speakers": "\"04, 09\"",
+        "text": "Eu tô falando."
+    },
+    {
+        "id": 429,
+        "start": "1664500",
+        "end": "1664520",
+        "speakers": "\"04\"",
+        "text": "Eu tô falando."
+    },
+    {
+        "id": 430,
+        "start": "1664520",
+        "end": "1664560",
+        "speakers": "\"04\"",
+        "text": "Eu tô falando."
+    },
+    {
+        "id": 431,
+        "start": "1664560",
+        "end": "1664660",
+        "speakers": "\"04\"",
+        "text": "Eu tô falando."
+    },
+    {
+        "id": 432,
+        "start": "1664660",
+        "end": "1673140",
+        "speakers": "\"04\"",
+        "text": "Eu tô falando e tentando correr pra, tipo, sei lá, pegar impulso em uma cadeira, uma mesa e tentar pular pra cima deles."
+    },
+    {
+        "id": 433,
+        "start": "1673600",
+        "end": "1677380",
+        "speakers": "\"09\"",
+        "text": "Já que tu definiu que pular não era muito teu forte andado."
+    },
+    {
+        "id": 434,
+        "start": "1679140",
+        "end": "1679740",
+        "speakers": "\"07\"",
+        "text": "Yes!"
+    },
+    {
+        "id": 435,
+        "start": "1680360",
+        "end": "1682860",
+        "speakers": "\"09\"",
+        "text": "Mais um acerto crítico, né?"
+    },
+    {
+        "id": 436,
+        "start": "1682880",
+        "end": "1690980",
+        "speakers": "\"09\"",
+        "text": "Pra você ouvinte, os dados são jogados por um bot aqui, que tá no meu servidor,"
+    },
+    {
+        "id": 437,
+        "start": "1690980",
+        "end": "1694540",
+        "speakers": "\"09\"",
+        "text": "antes que alguém acuse a Kafka de estar alterando..."
+    },
+    {
+        "id": 438,
+        "start": "1694540",
+        "end": "1699580",
+        "speakers": "\"09\"",
+        "text": "coitado, ou de estar rolando em casa, como antigamente a gente fazia no RPG Watch, cara."
+    },
+    {
+        "id": 439,
+        "start": "1699760",
+        "end": "1705300",
+        "speakers": "\"09\"",
+        "text": "Então, legitimamente, ela rolou três dados e os três foram três, que é o atributo dela."
+    },
+    {
+        "id": 440,
+        "start": "1705720",
+        "end": "1708980",
+        "speakers": "\"09\"",
+        "text": "Então, agora, com um dado só, ela tirou três e consegue."
+    },
+    {
+        "id": 441,
+        "start": "1709440",
+        "end": "1715560",
+        "speakers": "\"09\"",
+        "text": "Tu escala, tu dá uns pulos, assim, se apoiando em algumas instantes, derruba um monte de panela,"
+    },
+    {
+        "id": 442,
+        "start": "1716160",
+        "end": "1722680",
+        "speakers": "\"09\"",
+        "text": "tu pula, já segurando o Kiki que tava deslizando pra cair dessa panela lá em cima,"
+    },
+    {
+        "id": 443,
+        "start": "1722680",
+        "end": "1723680",
+        "speakers": "\"09\"",
+        "text": "e vocês..."
+    },
+    {
+        "id": 444,
+        "start": "1723680",
+        "end": "1730000",
+        "speakers": "\"09\"",
+        "text": "jogam essa panela no chão, tá os três, assim, em cima dessa panela, e o Dedé tá aí embaixo."
+    },
+    {
+        "id": 445,
+        "start": "1730600",
+        "end": "1731400",
+        "speakers": "\"02\"",
+        "text": "Alguém que..."
+    },
+    {
+        "id": 446,
+        "start": "1731400",
+        "end": "1734360",
+        "speakers": "\"02\"",
+        "text": "Alguém que irá lidar aí, a canhólinga tá..."
+    },
+    {
+        "id": 447,
+        "start": "1734360",
+        "end": "1734840",
+        "speakers": "\"02\"",
+        "text": "lisa."
+    },
+    {
+        "id": 448,
+        "start": "1735520",
+        "end": "1737280",
+        "speakers": "\"02\"",
+        "text": "Nossa, Dedé..."
+    },
+    {
+        "id": 449,
+        "start": "1737280",
+        "end": "1738180",
+        "speakers": "\"02\"",
+        "text": "Cansei."
+    },
+    {
+        "id": 450,
+        "start": "1738480",
+        "end": "1740240",
+        "speakers": "\"09\"",
+        "text": "O professor se aproxima."
+    },
+    {
+        "id": 451,
+        "start": "1740320",
+        "end": "1741620",
+        "speakers": "\"09\"",
+        "text": "Ele está..."
+    },
+    {
+        "id": 452,
+        "start": "1741620",
+        "end": "1742260",
+        "speakers": "\"09\"",
+        "text": "na panela?"
+    },
+    {
+        "id": 453,
+        "start": "1742800",
+        "end": "1743680",
+        "speakers": "\"03\"",
+        "text": "Tá, ué."
+    },
+    {
+        "id": 454,
+        "start": "1743900",
+        "end": "1748580",
+        "speakers": "\"09\"",
+        "text": "O professor faz sinal pra vocês, assim, o professor coloca a mão em cima da panela"
+    },
+    {
+        "id": 455,
+        "start": "1748580",
+        "end": "1750580",
+        "speakers": "\"09\"",
+        "text": "e faz sinal pra vocês se afastarem."
+    },
+    {
+        "id": 456,
+        "start": "1750580",
+        "end": "1753580",
+        "speakers": "\"05, 09\"",
+        "text": "O Kiki volta à forma normal e ele vai andando."
+    },
+    {
+        "id": 457,
+        "start": "1753680",
+        "end": "1757620",
+        "speakers": "\"05\"",
+        "text": "Ele vai andando, assim, pra trás e olhando pra ver o que vai acontecer, porque ele tá muito curioso."
+    },
+    {
+        "id": 458,
+        "start": "1757620",
+        "end": "1763020",
+        "speakers": "\"05, 09\"",
+        "text": "O professor, ele coloca a mão, assim, ele pressiona bem a parte de cima da panela,"
+    },
+    {
+        "id": 459,
+        "start": "1763460",
+        "end": "1767100",
+        "speakers": "\"09\"",
+        "text": "ele abre as asas dele, alguém rola dois dados pelo grupo."
+    },
+    {
+        "id": 460,
+        "start": "1768360",
+        "end": "1769920",
+        "speakers": "\"04\"",
+        "text": "Nem sei pra que rolagem, né?"
+    },
+    {
+        "id": 461,
+        "start": "1769960",
+        "end": "1771440",
+        "speakers": "\"04\"",
+        "text": "Foram seis e um cinco."
+    },
+    {
+        "id": 462,
+        "start": "1771540",
+        "end": "1774380",
+        "speakers": "\"10, 09\"",
+        "text": "Era pra anotar, esse é o atributo ao mais, são dois acertos."
+    },
+    {
+        "id": 463,
+        "start": "1774400",
+        "end": "1774780",
+        "speakers": "\"10, 04, 09\"",
+        "text": "Graças."
+    },
+    {
+        "id": 464,
+        "start": "1775400",
+        "end": "1782400",
+        "speakers": "\"09\"",
+        "text": "O professor abre as asas, uma das asas tá intacta, é uma grande asa, como se fosse de um morcego, né?"
+    },
+    {
+        "id": 465,
+        "start": "1782400",
+        "end": "1783640",
+        "speakers": "\"09\"",
+        "text": "A outra."
+    },
+    {
+        "id": 466,
+        "start": "1783680",
+        "end": "1785260",
+        "speakers": "\"09\"",
+        "text": "A outra, ela tá toda rasgada."
+    },
+    {
+        "id": 467,
+        "start": "1785940",
+        "end": "1791860",
+        "speakers": "\"09\"",
+        "text": "São dois acertos, tu tem certeza que a outra asa foi rasgada pelo Dedé?"
+    },
+    {
+        "id": 468,
+        "start": "1792220",
+        "end": "1799460",
+        "speakers": "\"09\"",
+        "text": "A mão do professor brilha, assim, uma luz vermelha e aquela panela se torna uma gaiolinha."
+    },
+    {
+        "id": 469,
+        "start": "1800580",
+        "end": "1801340",
+        "speakers": "\"08\"",
+        "text": "Finalmente."
+    },
+    {
+        "id": 470,
+        "start": "1803200",
+        "end": "1805980",
+        "speakers": "\"08\"",
+        "text": "Meu arco rival está pego."
+    },
+    {
+        "id": 471,
+        "start": "1807420",
+        "end": "1813660",
+        "speakers": "\"08\"",
+        "text": "Eu, Rasturaki, eu vou usar seus poderes para conquistar esse mundo."
+    },
+    {
+        "id": 472,
+        "start": "1813680",
+        "end": "1823580",
+        "speakers": "\"08\"",
+        "text": "Quando eu tentei invadir a creche por cima, você conseguiu notar a minha presença e você me derrubou."
+    },
+    {
+        "id": 473,
+        "start": "1824140",
+        "end": "1830340",
+        "speakers": "\"08\"",
+        "text": "Quando eu envenenei a comida de todos os professores, você de alguma forma se livrou desta comida."
+    },
+    {
+        "id": 474,
+        "start": "1831000",
+        "end": "1836680",
+        "speakers": "\"08\"",
+        "text": "Estou há anos tentando invadir essa creche e sou impedido por essa criaturinha."
+    },
+    {
+        "id": 475,
+        "start": "1837700",
+        "end": "1840860",
+        "speakers": "\"08\"",
+        "text": "Mas hoje, hoje eu consegui."
+    },
+    {
+        "id": 476,
+        "start": "1843680",
+        "end": "1854160",
+        "speakers": "\"04\"",
+        "text": "A Sunny começa a ficar em posição de ataque e começa a rosnar pra ele e corre pra pegar o calcanhar dele."
+    },
+    {
+        "id": 477,
+        "start": "1854180",
+        "end": "1854640",
+        "speakers": "\"05\"",
+        "text": "Os outros."
+    },
+    {
+        "id": 478,
+        "start": "1854860",
+        "end": "1859420",
+        "speakers": "\"05, 11\"",
+        "text": "Acho que esse professor aí é meio estressado, né?"
+    },
+    {
+        "id": 479,
+        "start": "1860080",
+        "end": "1863220",
+        "speakers": "\"11\"",
+        "text": "Aham, ele é esquisitinho, né?"
+    },
+    {
+        "id": 480,
+        "start": "1863840",
+        "end": "1867560",
+        "speakers": "\"11\"",
+        "text": "Eu acho que a gente devia ajudar também, viu?"
+    },
+    {
+        "id": 481,
+        "start": "1868000",
+        "end": "1869840",
+        "speakers": "\"05, 11\"",
+        "text": "Você quer bater nele?"
+    },
+    {
+        "id": 482,
+        "start": "1869960",
+        "end": "1871380",
+        "speakers": "\"13, 11\"",
+        "text": "Ah, eu quero."
+    },
+    {
+        "id": 483,
+        "start": "1871380",
+        "end": "1871440",
+        "speakers": "\"13\"",
+        "text": "Eu quero."
+    },
+    {
+        "id": 484,
+        "start": "1871440",
+        "end": "1875140",
+        "speakers": "\"05, 13\"",
+        "text": "E o Kiki vira uma marreta, assim, na hora."
+    },
+    {
+        "id": 485,
+        "start": "1875620",
+        "end": "1877940",
+        "speakers": "\"13\"",
+        "text": "Nossa, a Honey, ela pega a marreta."
+    },
+    {
+        "id": 486,
+        "start": "1878400",
+        "end": "1880660",
+        "speakers": "\"13\"",
+        "text": "Ai, que marreta bonita."
+    },
+    {
+        "id": 487,
+        "start": "1881240",
+        "end": "1882420",
+        "speakers": "\"13\"",
+        "text": "Ela faz uma carinha."
+    },
+    {
+        "id": 488,
+        "start": "1883440",
+        "end": "1886520",
+        "speakers": "\"13\"",
+        "text": "Igual naquele brinquedo, marretar ele."
+    },
+    {
+        "id": 489,
+        "start": "1886820",
+        "end": "1890060",
+        "speakers": "\"13\"",
+        "text": "Ela vai pra poder bater no professor, né?"
+    },
+    {
+        "id": 490,
+        "start": "1890220",
+        "end": "1892220",
+        "speakers": "\"13\"",
+        "text": "Nesse pseudo professor, que ele não é o professor."
+    },
+    {
+        "id": 491,
+        "start": "1892540",
+        "end": "1894480",
+        "speakers": "\"13\"",
+        "text": "Só que ela vai tentar pular."
+    },
+    {
+        "id": 492,
+        "start": "1894800",
+        "end": "1897580",
+        "speakers": "\"13, 09\"",
+        "text": "Pular e marretar o quê? A cabeça dele, a mão dele, a gaiola?"
+    },
+    {
+        "id": 493,
+        "start": "1897580",
+        "end": "1900760",
+        "speakers": "\"13, 09\"",
+        "text": "A cabeça dele, pra ele poder ficar tonto e soltar."
+    },
+    {
+        "id": 494,
+        "start": "1901440",
+        "end": "1901940",
+        "speakers": "\"13\"",
+        "text": "A gaiola."
+    },
+    {
+        "id": 495,
+        "start": "1902140",
+        "end": "1902940",
+        "speakers": "\"09\"",
+        "text": "Três dados."
+    },
+    {
+        "id": 496,
+        "start": "1903180",
+        "end": "1903680",
+        "speakers": "\"09\"",
+        "text": "Tens a..."
+    },
+    {
+        "id": 497,
+        "start": "1903940",
+        "end": "1905440",
+        "speakers": "\"09\"",
+        "text": "Dois teu e um do Caio, né?"
+    },
+    {
+        "id": 498,
+        "start": "1905640",
+        "end": "1909260",
+        "speakers": "\"13, 09\"",
+        "text": "Seis, cinco e quatro."
+    },
+    {
+        "id": 499,
+        "start": "1909460",
+        "end": "1910460",
+        "speakers": "\"13\"",
+        "text": "Sendo quatro o meu tributo."
+    },
+    {
+        "id": 500,
+        "start": "1910660",
+        "end": "1912660",
+        "speakers": "\"09\"",
+        "text": "Os dois primeiros seriam falha, né?"
+    },
+    {
+        "id": 501,
+        "start": "1912860",
+        "end": "1915220",
+        "speakers": "\"09\"",
+        "text": "Mas a marreta parece ser uma ótima marreta."
+    },
+    {
+        "id": 502,
+        "start": "1915420",
+        "end": "1918420",
+        "speakers": "\"09, 07\"",
+        "text": "Então, tem um acerto crítico ali."
+    },
+    {
+        "id": 503,
+        "start": "1918620",
+        "end": "1922620",
+        "speakers": "\"09\"",
+        "text": "Bate com força com a marreta na cabeça do professor."
+    },
+    {
+        "id": 504,
+        "start": "1922820",
+        "end": "1924620",
+        "speakers": "\"09\"",
+        "text": "Que solta a gaiola, né?"
+    },
+    {
+        "id": 505,
+        "start": "1924820",
+        "end": "1926320",
+        "speakers": "\"04, 09, 02\"",
+        "text": "Solta ele!"
+    },
+    {
+        "id": 506,
+        "start": "1926520",
+        "end": "1927620",
+        "speakers": "\"04, 09\"",
+        "text": "A gaiola cai no chão."
+    },
+    {
+        "id": 507,
+        "start": "1927820",
+        "end": "1928820",
+        "speakers": "\"09\"",
+        "text": "Sunny, ação."
+    },
+    {
+        "id": 508,
+        "start": "1929020",
+        "end": "1930020",
+        "speakers": "\"04\"",
+        "text": "A Sunny, né?"
+    },
+    {
+        "id": 509,
+        "start": "1930220",
+        "end": "1931320",
+        "speakers": "\"04\"",
+        "text": "Que ia correr pra morrer."
+    },
+    {
+        "id": 510,
+        "start": "1931320",
+        "end": "1932820",
+        "speakers": "\"04\"",
+        "text": "Ela mordeu o calcanhar dele."
+    },
+    {
+        "id": 511,
+        "start": "1933020",
+        "end": "1939320",
+        "speakers": "\"04\"",
+        "text": "Como ele já caiu no chão, ela passa perto da gaiola e tenta puxar a gaiola com a boca"
+    },
+    {
+        "id": 512,
+        "start": "1939520",
+        "end": "1944820",
+        "speakers": "\"04, 09\"",
+        "text": "pra afastar o coleguinha de perto desse homem mau que tava prendendo o coleguinha."
+    },
+    {
+        "id": 513,
+        "start": "1945020",
+        "end": "1945520",
+        "speakers": "\"09\"",
+        "text": "Perfeito."
+    },
+    {
+        "id": 514,
+        "start": "1945720",
+        "end": "1947320",
+        "speakers": "\"09\"",
+        "text": "Dois dados."
+    },
+    {
+        "id": 515,
+        "start": "1947520",
+        "end": "1948620",
+        "speakers": "\"04\"",
+        "text": "Tirei três e um."
+    },
+    {
+        "id": 516,
+        "start": "1948820",
+        "end": "1950020",
+        "speakers": "\"09\"",
+        "text": "Sendo três o teu atributo."
+    },
+    {
+        "id": 517,
+        "start": "1950220",
+        "end": "1950720",
+        "speakers": "\"09\"",
+        "text": "Isso."
+    },
+    {
+        "id": 518,
+        "start": "1950920",
+        "end": "1953320",
+        "speakers": "\"09\"",
+        "text": "Então, temos um acerto crítico, um acerto simples."
+    },
+    {
+        "id": 519,
+        "start": "1953520",
+        "end": "1955320",
+        "speakers": "\"04, 09\"",
+        "text": "Me descreve o que que tu fez, tu conseguiu."
+    },
+    {
+        "id": 520,
+        "start": "1955520",
+        "end": "1959820",
+        "speakers": "\"04\"",
+        "text": "Eu fui puxar a gaiola lá de perto com a boca, né?"
+    },
+    {
+        "id": 521,
+        "start": "1960020",
+        "end": "1960820",
+        "speakers": "\"04\"",
+        "text": "E ver se eu consegui."
+    },
+    {
+        "id": 522,
+        "start": "1960820",
+        "end": "1962420",
+        "speakers": "\"04\"",
+        "text": "E ajudar ele a sair dali."
+    },
+    {
+        "id": 523,
+        "start": "1962620",
+        "end": "1964620",
+        "speakers": "\"04\"",
+        "text": "Puxei, afastando, né?"
+    },
+    {
+        "id": 524,
+        "start": "1964820",
+        "end": "1966620",
+        "speakers": "\"04\"",
+        "text": "De ladinho, assim, de bundinha."
+    },
+    {
+        "id": 525,
+        "start": "1966820",
+        "end": "1973420",
+        "speakers": "\"04\"",
+        "text": "Com ela na boca, afastando e falando assim, a gente vai te soltar."
+    },
+    {
+        "id": 526,
+        "start": "1973620",
+        "end": "1975820",
+        "speakers": "\"04\"",
+        "text": "E depois comecei a tentar com a patinha, né?"
+    },
+    {
+        "id": 527,
+        "start": "1976020",
+        "end": "1981820",
+        "speakers": "\"04\"",
+        "text": "Ver se tinha algum cantinho, se era, não sei como é a gaiola, sei lá, tinha alguma forma de abrir."
+    },
+    {
+        "id": 528,
+        "start": "1982020",
+        "end": "1987820",
+        "speakers": "\"09\"",
+        "text": "Tu nota que a gaiola parece não ter uma maneira fácil de ser aberta ali."
+    },
+    {
+        "id": 529,
+        "start": "1988020",
+        "end": "1990620",
+        "speakers": "\"09\"",
+        "text": "Tu sente também que tem uma energia saindo da gaiola."
+    },
+    {
+        "id": 530,
+        "start": "1990620",
+        "end": "1992820",
+        "speakers": "\"09\"",
+        "text": "E indo em direção ao professor, né?"
+    },
+    {
+        "id": 531,
+        "start": "1993020",
+        "end": "1997020",
+        "speakers": "\"09\"",
+        "text": "Como se ela estivesse sugando a força do dedé ali."
+    },
+    {
+        "id": 532,
+        "start": "1997220",
+        "end": "2002020",
+        "speakers": "\"09\"",
+        "text": "Inclusive, a sensação de estar segurando essa gaiola não é uma sensação muito boa."
+    },
+    {
+        "id": 533,
+        "start": "2002220",
+        "end": "2003620",
+        "speakers": "\"09\"",
+        "text": "Mas quebrar tu não conseguiu."
+    },
+    {
+        "id": 534,
+        "start": "2003820",
+        "end": "2007020",
+        "speakers": "\"09\"",
+        "text": "Mas tu afastou ela o quanto tu quis do professor ali."
+    },
+    {
+        "id": 535,
+        "start": "2007220",
+        "end": "2010820",
+        "speakers": "\"09\"",
+        "text": "Que tá lá preocupado com Sunny e Kiki."
+    },
+    {
+        "id": 536,
+        "start": "2011020",
+        "end": "2012020",
+        "speakers": "\"09\"",
+        "text": "Kiki, dois dados."
+    },
+    {
+        "id": 537,
+        "start": "2013420",
+        "end": "2014820",
+        "speakers": "\"09\"",
+        "text": "Eu tirei quatro e um."
+    },
+    {
+        "id": 538,
+        "start": "2015020",
+        "end": "2016020",
+        "speakers": "\"09\"",
+        "text": "Ok, um acerto simples."
+    },
+    {
+        "id": 539,
+        "start": "2016220",
+        "end": "2020220",
+        "speakers": "\"09\"",
+        "text": "O professor aponta aquelas unhas compridas dele."
+    },
+    {
+        "id": 540,
+        "start": "2020220",
+        "end": "2026420",
+        "speakers": "\"09\"",
+        "text": "Pra ti, tentou te transformar em alguma coisa ali, talvez te transformar em pedra e tal."
+    },
+    {
+        "id": 541,
+        "start": "2026620",
+        "end": "2030620",
+        "speakers": "\"09\"",
+        "text": "Mas o máximo que ele conseguiu, ele te reverteu pra tua forma normal."
+    },
+    {
+        "id": 542,
+        "start": "2030820",
+        "end": "2033620",
+        "speakers": "\"09\"",
+        "text": "Tu voltou a ser a tua forma padrão, né?"
+    },
+    {
+        "id": 543,
+        "start": "2033820",
+        "end": "2035020",
+        "speakers": "\"09\"",
+        "text": "De tanuki ali."
+    },
+    {
+        "id": 544,
+        "start": "2035220",
+        "end": "2041020",
+        "speakers": "\"05\"",
+        "text": "Na hora que ele me transforma, eu aproveito e eu me transformo como se fosse num lençol, assim."
+    },
+    {
+        "id": 545,
+        "start": "2041220",
+        "end": "2042220",
+        "speakers": "\"05\"",
+        "text": "E cubro ele."
+    },
+    {
+        "id": 546,
+        "start": "2042420",
+        "end": "2045420",
+        "speakers": "\"05\"",
+        "text": "E aí fica a carinha no lençol e eu vou tentar falar com o pessoal."
+    },
+    {
+        "id": 547,
+        "start": "2045620",
+        "end": "2048620",
+        "speakers": "\"05, 11\"",
+        "text": "Vai, corre, corre, solta o dedé, o dedé é o mais forte."
+    },
+    {
+        "id": 548,
+        "start": "2048620",
+        "end": "2051020",
+        "speakers": "\"05, 09, 11\"",
+        "text": "Antes disso, um dado."
+    },
+    {
+        "id": 549,
+        "start": "2051220",
+        "end": "2052220",
+        "speakers": "\"09\"",
+        "text": "Eu tirei cinco."
+    },
+    {
+        "id": 550,
+        "start": "2052420",
+        "end": "2055420",
+        "speakers": "\"09\"",
+        "text": "O professor com a unha, ele corta a folhinha."
+    },
+    {
+        "id": 551,
+        "start": "2055620",
+        "end": "2056620",
+        "speakers": "\"05, 09\"",
+        "text": "Tá sem folhinha agora."
+    },
+    {
+        "id": 552,
+        "start": "2056820",
+        "end": "2057620",
+        "speakers": "\"13, 05\"",
+        "text": "Ah, não."
+    },
+    {
+        "id": 553,
+        "start": "2057820",
+        "end": "2062620",
+        "speakers": "\"05, 13\"",
+        "text": "O Kiki olha pra... ele cai assim e ele ignora que é uma briga séria."
+    },
+    {
+        "id": 554,
+        "start": "2062820",
+        "end": "2064820",
+        "speakers": "\"05\"",
+        "text": "Ele olha pra folhinha, olha pro professor."
+    },
+    {
+        "id": 555,
+        "start": "2065020",
+        "end": "2069020",
+        "speakers": "\"05, 11\"",
+        "text": "Vocês estragam minhas folhas, foi meu pai que me deu."
+    },
+    {
+        "id": 556,
+        "start": "2069220",
+        "end": "2075220",
+        "speakers": "\"11\"",
+        "text": "Eu, eu, eu, eu vou falar com a diretora, você não, não sabe ser professor."
+    },
+    {
+        "id": 557,
+        "start": "2075420",
+        "end": "2078220",
+        "speakers": "\"05, 11\"",
+        "text": "E o Kiki tá, tipo, olhando pra folha."
+    },
+    {
+        "id": 558,
+        "start": "2078620",
+        "end": "2079020",
+        "speakers": "\"05\"",
+        "text": "Triste."
+    },
+    {
+        "id": 559,
+        "start": "2079220",
+        "end": "2082020",
+        "speakers": "\"13\"",
+        "text": "Nananina não, que maldade."
+    },
+    {
+        "id": 560,
+        "start": "2082220",
+        "end": "2086020",
+        "speakers": "\"13, 09\"",
+        "text": "Ai, a ranha vai tentar cuspir um veneno paralisante no professor."
+    },
+    {
+        "id": 561,
+        "start": "2086220",
+        "end": "2089020",
+        "speakers": "\"09\"",
+        "text": "É, um dado é difícil."
+    },
+    {
+        "id": 562,
+        "start": "2089220",
+        "end": "2090020",
+        "speakers": "\"13, 09\"",
+        "text": "Cinco."
+    },
+    {
+        "id": 563,
+        "start": "2090220",
+        "end": "2094420",
+        "speakers": "\"09\"",
+        "text": "Até acerta ele, mas não parece ter feito nenhum efeito."
+    },
+    {
+        "id": 564,
+        "start": "2094620",
+        "end": "2100020",
+        "speakers": "\"09\"",
+        "text": "E ele, as pernas dele se partem, né, e começam a se expandir."
+    },
+    {
+        "id": 565,
+        "start": "2100220",
+        "end": "2107220",
+        "speakers": "\"09\"",
+        "text": "Ele fica com a parte de baixo do torso dele como se fosse de um pequeno cavalo, quase um pônei."
+    },
+    {
+        "id": 566,
+        "start": "2107220",
+        "end": "2110820",
+        "speakers": "\"09\"",
+        "text": "E ele começa a correr em velocidade pra cima da Sunny."
+    },
+    {
+        "id": 567,
+        "start": "2111020",
+        "end": "2111620",
+        "speakers": "\"09\"",
+        "text": "Sunny, ação."
+    },
+    {
+        "id": 568,
+        "start": "2111820",
+        "end": "2119620",
+        "speakers": "\"04, 09\"",
+        "text": "A Sunny tá correndo o máximo que ela consegue no sentido de voltar pra sala de aula deles, né."
+    },
+    {
+        "id": 569,
+        "start": "2119820",
+        "end": "2126820",
+        "speakers": "\"04\"",
+        "text": "E depois que ela pegou na gaiola é que ela sentiu que tem algo de fato estranho acontecendo."
+    },
+    {
+        "id": 570,
+        "start": "2127020",
+        "end": "2129220",
+        "speakers": "\"04\"",
+        "text": "Então ela foi correndo pra sala."
+    },
+    {
+        "id": 571,
+        "start": "2129420",
+        "end": "2131620",
+        "speakers": "\"04, 09\"",
+        "text": "No meio do caminho eu passei pela Lila."
+    },
+    {
+        "id": 572,
+        "start": "2131820",
+        "end": "2136620",
+        "speakers": "\"09\"",
+        "text": "Sim, ela tá indo no máximo que ela pode pra cozinha ali, mas ela tá no meio do corredor."
+    },
+    {
+        "id": 573,
+        "start": "2136620",
+        "end": "2144620",
+        "speakers": "\"04, 09\"",
+        "text": "Lila, Lila, ajuda! O professor é mau! O professor é mau! Ele prendeu o Dedé!"
+    },
+    {
+        "id": 574,
+        "start": "2144820",
+        "end": "2149220",
+        "speakers": "\"04\"",
+        "text": "Continuei correndo pra sala de aula, que pra mim é o canto mais seguro que existe na escola."
+    },
+    {
+        "id": 575,
+        "start": "2149420",
+        "end": "2150820",
+        "speakers": "\"04, 09\"",
+        "text": "Perfeito. Os outros dois?"
+    },
+    {
+        "id": 576,
+        "start": "2151020",
+        "end": "2154020",
+        "speakers": "\"09\"",
+        "text": "O professor ignorou vocês, deixou vocês pra trás, né."
+    },
+    {
+        "id": 577,
+        "start": "2154220",
+        "end": "2160820",
+        "speakers": "\"09\"",
+        "text": "Vocês estão num ambiente que é uma cantina, né, tem mesas, cadeiras, tem toda a parte de cozinha onde vocês estão, né."
+    },
+    {
+        "id": 578,
+        "start": "2161020",
+        "end": "2165020",
+        "speakers": "\"13, 09\"",
+        "text": "Mas o professor tá correndo em direção pra trás da amiga de vocês."
+    },
+    {
+        "id": 579,
+        "start": "2165220",
+        "end": "2166020",
+        "speakers": "\"09\"",
+        "text": "Nesse caminho?"
+    },
+    {
+        "id": 580,
+        "start": "2166020",
+        "end": "2173820",
+        "speakers": "\"13, 09\"",
+        "text": "Nesse caminho da cantina até a sala é aberto? Tem algumas árvores ou plantinhas no meio do caminho?"
+    },
+    {
+        "id": 581,
+        "start": "2174020",
+        "end": "2176420",
+        "speakers": "\"09\"",
+        "text": "Não. Ali é só o ambiente interno."
+    },
+    {
+        "id": 582,
+        "start": "2176620",
+        "end": "2179220",
+        "speakers": "\"13\"",
+        "text": "A Honey, ela pega na mãozinha do Kiki."
+    },
+    {
+        "id": 583,
+        "start": "2179420",
+        "end": "2183020",
+        "speakers": "\"13\"",
+        "text": "É só essa sua folhinha que te transforma, Kiki?"
+    },
+    {
+        "id": 584,
+        "start": "2183220",
+        "end": "2187220",
+        "speakers": "\"05, 13\"",
+        "text": "O Kiki olha pra Honey assim, pega na mão, ele limpa a lágrima."
+    },
+    {
+        "id": 585,
+        "start": "2187420",
+        "end": "2191820",
+        "speakers": "\"05\"",
+        "text": "Pode ajudar o Dedé, pode deixar que eu vou dar um jeito."
+    },
+    {
+        "id": 586,
+        "start": "2192020",
+        "end": "2195220",
+        "speakers": "\"05\"",
+        "text": "E ele corre na direção da geladeira."
+    },
+    {
+        "id": 587,
+        "start": "2195220",
+        "end": "2199420",
+        "speakers": "\"05\"",
+        "text": "E ele vai procurar alguma coisa, tipo uma alface, uma couve, alguma coisa do tipo."
+    },
+    {
+        "id": 588,
+        "start": "2199620",
+        "end": "2202020",
+        "speakers": "\"05, 09\"",
+        "text": "Perfeito. Honey, ela vai esperar ou vai atrás da Sunny?"
+    },
+    {
+        "id": 589,
+        "start": "2202220",
+        "end": "2210020",
+        "speakers": "\"13\"",
+        "text": "A Honey vai atrás da Sunny e ela vai pulando, soltando o mais longe possível de tentar alcançar a Sunny e o professor."
+    },
+    {
+        "id": 590,
+        "start": "2210220",
+        "end": "2217220",
+        "speakers": "\"13, 09\"",
+        "text": "Beleza. Sunny, tu chega na sala de aula, tens um momento ali, tu vai fazer o que com essa gaiola, o que tu vai fazer ali?"
+    },
+    {
+        "id": 591,
+        "start": "2217420",
+        "end": "2225020",
+        "speakers": "\"04\"",
+        "text": "Eu vou ver se tem algum local onde eu consiga esconder o Dedé, mas aí eu vou falando com ele."
+    },
+    {
+        "id": 592,
+        "start": "2225020",
+        "end": "2231020",
+        "speakers": "\"04\"",
+        "text": "Dedé, Dedé, quem é esse homem mau? Quem é, quem é?"
+    },
+    {
+        "id": 593,
+        "start": "2231220",
+        "end": "2234420",
+        "speakers": "\"09\"",
+        "text": "Ele não fala, ele não tem cordas vocais."
+    },
+    {
+        "id": 594,
+        "start": "2234620",
+        "end": "2240020",
+        "speakers": "\"04, 09, 03\"",
+        "text": "Ai, Dedé, o que foi que você se meteu dessa vez? Você não consegue sair daí?"
+    },
+    {
+        "id": 595,
+        "start": "2240220",
+        "end": "2244220",
+        "speakers": "\"04, 09\"",
+        "text": "Ele tenta bater de um lado pro outro da grade, mas não consegue."
+    },
+    {
+        "id": 596,
+        "start": "2244420",
+        "end": "2253020",
+        "speakers": "\"09\"",
+        "text": "A Honey, quando chega no corredor, vê que a lila se espalhou pelo chão e o professor, ele escorregou no corredor."
+    },
+    {
+        "id": 597,
+        "start": "2253020",
+        "end": "2258020",
+        "speakers": "\"09\"",
+        "text": "Ele caiu de cara assim, saiu escorregando até o outro lado ali daquele corredor."
+    },
+    {
+        "id": 598,
+        "start": "2258220",
+        "end": "2263020",
+        "speakers": "\"09\"",
+        "text": "Ele vai ficar caído um tempinho. Honey, vai pra cima do professor caído ou vai entrar na sala de aula?"
+    },
+    {
+        "id": 599,
+        "start": "2263220",
+        "end": "2269020",
+        "speakers": "\"13, 09\"",
+        "text": "Eu vou tentar tacar veneno paralisante nele de novo antes de ir pra sala, agora que ele tá caído."
+    },
+    {
+        "id": 600,
+        "start": "2269220",
+        "end": "2270020",
+        "speakers": "\"13, 09\"",
+        "text": "Um dado."
+    },
+    {
+        "id": 601,
+        "start": "2270220",
+        "end": "2272020",
+        "speakers": "\"13\"",
+        "text": "Tirei seis."
+    },
+    {
+        "id": 602,
+        "start": "2272220",
+        "end": "2280020",
+        "speakers": "\"09\"",
+        "text": "O veneno parece só irritar ele, ele levanta ali, bravo, ele volta a ter as pernas normais, né?"
+    },
+    {
+        "id": 603,
+        "start": "2280220",
+        "end": "2283020",
+        "speakers": "\"09\"",
+        "text": "Ele olha com raiva assim pra você."
+    },
+    {
+        "id": 604,
+        "start": "2283220",
+        "end": "2288020",
+        "speakers": "\"09\"",
+        "text": "A lila volta a ser uma bolinha de massinha, né?"
+    },
+    {
+        "id": 605,
+        "start": "2288220",
+        "end": "2293020",
+        "speakers": "\"09\"",
+        "text": "Kiki, joga dois dados do seu tributo a mais pra achar uma folhinha."
+    },
+    {
+        "id": 606,
+        "start": "2293220",
+        "end": "2294020",
+        "speakers": "\"09\"",
+        "text": "Cinco e quatro."
+    },
+    {
+        "id": 607,
+        "start": "2294220",
+        "end": "2297020",
+        "speakers": "\"09\"",
+        "text": "Ah, encontrou. O que que tu achou ali?"
+    },
+    {
+        "id": 608,
+        "start": "2297220",
+        "end": "2298020",
+        "speakers": "\"09\"",
+        "text": "Alface."
+    },
+    {
+        "id": 609,
+        "start": "2298220",
+        "end": "2301020",
+        "speakers": "\"09\"",
+        "text": "Alface, ok. Uma folha de alface ou um alface?"
+    },
+    {
+        "id": 610,
+        "start": "2301220",
+        "end": "2303020",
+        "speakers": "\"05, 09\"",
+        "text": "Não, ele achou um alface inteiro."
+    },
+    {
+        "id": 611,
+        "start": "2303220",
+        "end": "2304020",
+        "speakers": "\"05\"",
+        "text": "Beleza."
+    },
+    {
+        "id": 612,
+        "start": "2304220",
+        "end": "2310020",
+        "speakers": "\"05\"",
+        "text": "Então ele, tipo, segura o alface assim e ele já tira uma folhinha e já põe na cabeça e ele vira um..."
+    },
+    {
+        "id": 613,
+        "start": "2310220",
+        "end": "2312820",
+        "speakers": "\"05\"",
+        "text": "Como se fosse um rolo compressor."
+    },
+    {
+        "id": 614,
+        "start": "2313220",
+        "end": "2316220",
+        "speakers": "\"05, 09\"",
+        "text": "E ele vai indo na direção pra fora."
+    },
+    {
+        "id": 615,
+        "start": "2316420",
+        "end": "2317220",
+        "speakers": "\"05, 09\"",
+        "text": "Beleza."
+    },
+    {
+        "id": 616,
+        "start": "2317420",
+        "end": "2321220",
+        "speakers": "\"09\"",
+        "text": "A lila sobe no rolo compressor quando tu passa, né?"
+    },
+    {
+        "id": 617,
+        "start": "2321420",
+        "end": "2322220",
+        "speakers": "\"09\"",
+        "text": "Porque é uma carona."
+    },
+    {
+        "id": 618,
+        "start": "2322420",
+        "end": "2325220",
+        "speakers": "\"09\"",
+        "text": "Sunny, tá uma comoção lá fora, tá tendo briga lá fora."
+    },
+    {
+        "id": 619,
+        "start": "2325420",
+        "end": "2329220",
+        "speakers": "\"04, 09\"",
+        "text": "Eu preciso esconder o Dedé, então eu procuro algo..."
+    },
+    {
+        "id": 620,
+        "start": "2329420",
+        "end": "2333220",
+        "speakers": "\"04\"",
+        "text": "É uma sala, né? De aula de jardim."
+    },
+    {
+        "id": 621,
+        "start": "2333420",
+        "end": "2334220",
+        "speakers": "\"04, 09\"",
+        "text": "De creche."
+    },
+    {
+        "id": 622,
+        "start": "2334420",
+        "end": "2342020",
+        "speakers": "\"04, 09\"",
+        "text": "Então, com certeza tem algum canto, uma estante, alguma coisa, eu jogo ele lá dentro, atrás."
+    },
+    {
+        "id": 623,
+        "start": "2342020",
+        "end": "2350020",
+        "speakers": "\"04\"",
+        "text": "Das nossas roupinhas de... aquelas cobertazinhas pra dormir na sala, tudo."
+    },
+    {
+        "id": 624,
+        "start": "2350220",
+        "end": "2353620",
+        "speakers": "\"04\"",
+        "text": "E coloco ele ali atrás, tento cobrir, fecho e vou lá pra fora."
+    },
+    {
+        "id": 625,
+        "start": "2353820",
+        "end": "2354820",
+        "speakers": "\"04, 09\"",
+        "text": "Perfeito."
+    },
+    {
+        "id": 626,
+        "start": "2355020",
+        "end": "2366820",
+        "speakers": "\"09\"",
+        "text": "Tu vê aquela cena, ele tá no fim do corredor levantando, tá vindo um rolo compressor com a lila em cima e no meio do corredor tá ali a Rania."
+    },
+    {
+        "id": 627,
+        "start": "2367020",
+        "end": "2371820",
+        "speakers": "\"04\"",
+        "text": "A Sunny vai tentar pular nele na jugular."
+    },
+    {
+        "id": 628,
+        "start": "2372020",
+        "end": "2374020",
+        "speakers": "\"09\"",
+        "text": "Ok, dois dados."
+    },
+    {
+        "id": 629,
+        "start": "2374220",
+        "end": "2376020",
+        "speakers": "\"04\"",
+        "text": "Quatro e dois."
+    },
+    {
+        "id": 630,
+        "start": "2376220",
+        "end": "2377220",
+        "speakers": "\"04, 09\"",
+        "text": "Um acerto simples."
+    },
+    {
+        "id": 631,
+        "start": "2377420",
+        "end": "2384820",
+        "speakers": "\"09\"",
+        "text": "Não acerta a jugular, ele coloca o braço na frente, o braço dele tem umas escamas bem, bem grossas."
+    },
+    {
+        "id": 632,
+        "start": "2385020",
+        "end": "2391020",
+        "speakers": "\"09\"",
+        "text": "Tu sente morder algo muito duro, tu não sente os dentes cravarem, né?"
+    },
+    {
+        "id": 633,
+        "start": "2391220",
+        "end": "2393620",
+        "speakers": "\"09\"",
+        "text": "É ação Rania ou Kiki."
+    },
+    {
+        "id": 634,
+        "start": "2393820",
+        "end": "2397820",
+        "speakers": "\"13\"",
+        "text": "A sala da diretora ali perto, não tem ninguém na escola?"
+    },
+    {
+        "id": 635,
+        "start": "2398020",
+        "end": "2400420",
+        "speakers": "\"13, 09\"",
+        "text": "Só tá vocês na escola, todo mundo foi pra apresentação."
+    },
+    {
+        "id": 636,
+        "start": "2400620",
+        "end": "2401820",
+        "speakers": "\"13, 09\"",
+        "text": "No teto ali."
+    },
+    {
+        "id": 637,
+        "start": "2402220",
+        "end": "2408220",
+        "speakers": "\"13\"",
+        "text": "Tem algum lugar onde a Rania poderia puxar com a língua pra desmoronar em cima do professor?"
+    },
+    {
+        "id": 638,
+        "start": "2408420",
+        "end": "2410620",
+        "speakers": "\"13, 09\"",
+        "text": "Não, foi tudo consertado já."
+    },
+    {
+        "id": 639,
+        "start": "2410820",
+        "end": "2413820",
+        "speakers": "\"13, 09\"",
+        "text": "Acerta, eu vou tentar pular na cara dele pra poder atrapalhar a visão dele."
+    },
+    {
+        "id": 640,
+        "start": "2414020",
+        "end": "2415020",
+        "speakers": "\"13, 09\"",
+        "text": "Dois dados."
+    },
+    {
+        "id": 641,
+        "start": "2415220",
+        "end": "2417020",
+        "speakers": "\"13\"",
+        "text": "Eu tirei quatro e dois."
+    },
+    {
+        "id": 642,
+        "start": "2417220",
+        "end": "2421220",
+        "speakers": "\"13, 09\"",
+        "text": "Sendo quatro o teu atributo, dois um acerto simples, então três acertos."
+    },
+    {
+        "id": 643,
+        "start": "2421420",
+        "end": "2428220",
+        "speakers": "\"13, 09\"",
+        "text": "O professor cai pra trás assim, tá em cima, tá segurando a cara dele, não tá enxergando nada."
+    },
+    {
+        "id": 644,
+        "start": "2428420",
+        "end": "2431820",
+        "speakers": "\"13, 09\"",
+        "text": "Sim, eu tô com os dedinhos assim, bem na cara dele assim."
+    },
+    {
+        "id": 645,
+        "start": "2431820",
+        "end": "2435020",
+        "speakers": "\"13, 02\"",
+        "text": "Sabe, tapando os olhos, falando assim, cadê o professor Mau?"
+    },
+    {
+        "id": 646,
+        "start": "2435220",
+        "end": "2437020",
+        "speakers": "\"02\"",
+        "text": "Não é isso, não é isso."
+    },
+    {
+        "id": 647,
+        "start": "2437220",
+        "end": "2442620",
+        "speakers": "\"09\"",
+        "text": "A Sani tá grudada no braço dele, ele tá debatendo as pernas ali no corredor."
+    },
+    {
+        "id": 648,
+        "start": "2442820",
+        "end": "2444820",
+        "speakers": "\"05, 09\"",
+        "text": "Kiki, ação."
+    },
+    {
+        "id": 649,
+        "start": "2445020",
+        "end": "2453820",
+        "speakers": "\"05\"",
+        "text": "O Kiki tava indo como rolo compressor, e na hora que ele tá chegando mais perto, começa a fazer o som de buzina."
+    },
+    {
+        "id": 650,
+        "start": "2454020",
+        "end": "2458820",
+        "speakers": "\"05\"",
+        "text": "Alunos, saírem! Alunos, deixem só o professor chato!"
+    },
+    {
+        "id": 651,
+        "start": "2459020",
+        "end": "2460820",
+        "speakers": "\"09\"",
+        "text": "E ele vai ir pra cima."
+    },
+    {
+        "id": 652,
+        "start": "2460820",
+        "end": "2468820",
+        "speakers": "\"09\"",
+        "text": "A Lila, que tem o corpo todo maleável, ela transformou o topo da cabeça num chapéu de condutor de trem, sabe, de maquinista."
+    },
+    {
+        "id": 653,
+        "start": "2469020",
+        "end": "2475820",
+        "speakers": "\"09\"",
+        "text": "E ela tá ali feliz em estar montada no rolo compressor, né."
+    },
+    {
+        "id": 654,
+        "start": "2476020",
+        "end": "2476820",
+        "speakers": "\"09\"",
+        "text": "Dois dados."
+    },
+    {
+        "id": 655,
+        "start": "2477020",
+        "end": "2479820",
+        "speakers": "\"05\"",
+        "text": "Cinco e quatro."
+    },
+    {
+        "id": 656,
+        "start": "2480020",
+        "end": "2481420",
+        "speakers": "\"09\"",
+        "text": "São duas falhas, né."
+    },
+    {
+        "id": 657,
+        "start": "2481620",
+        "end": "2487820",
+        "speakers": "\"09\"",
+        "text": "O professor chuta o rolo compressor chegando, que cai de ladinho assim, e ele para de rodar."
+    },
+    {
+        "id": 658,
+        "start": "2488020",
+        "end": "2490620",
+        "speakers": "\"09\"",
+        "text": "Sani, o braço tá preso, a cara tá presa."
+    },
+    {
+        "id": 659,
+        "start": "2490820",
+        "end": "2493020",
+        "speakers": "\"09\"",
+        "text": "Mas logo ele vai sair dali, o que que tu faz?"
+    },
+    {
+        "id": 660,
+        "start": "2493220",
+        "end": "2500020",
+        "speakers": "\"09\"",
+        "text": "E tu sente que ele tá cada vez mais forte, tu sente que a gaiola tá alimentando de energia esse cara."
+    },
+    {
+        "id": 661,
+        "start": "2500220",
+        "end": "2503020",
+        "speakers": "\"04, 09\"",
+        "text": "A gaiola segue alimentando ele de energia, né."
+    },
+    {
+        "id": 662,
+        "start": "2503220",
+        "end": "2515020",
+        "speakers": "\"04\"",
+        "text": "Olho pro Kiki e digo assim, solto rapidamente o braço dele, né, assim, um pouquinho olho pro Kiki e digo"
+    },
+    {
+        "id": 663,
+        "start": "2515220",
+        "end": "2520620",
+        "speakers": "\"04, 03\"",
+        "text": "Kiki, tem que tirar o dedé, tem que soltar o dedé."
+    },
+    {
+        "id": 664,
+        "start": "2520620",
+        "end": "2525620",
+        "speakers": "\"03\"",
+        "text": "Ele tá ficando fraco, ele vai, ele tá muito fraco."
+    },
+    {
+        "id": 665,
+        "start": "2525820",
+        "end": "2528820",
+        "speakers": "\"03\"",
+        "text": "Mas eu também sou fraco, eu não tô conseguindo."
+    },
+    {
+        "id": 666,
+        "start": "2529020",
+        "end": "2533820",
+        "speakers": "\"13, 03\"",
+        "text": "O dedé lá, ele tá lá dentro, ajuda o dedé."
+    },
+    {
+        "id": 667,
+        "start": "2534020",
+        "end": "2540020",
+        "speakers": "\"13\"",
+        "text": "É uma gaiola, Guaxa, essa gaiola tem fechadura? Tem, pra colocar chave?"
+    },
+    {
+        "id": 668,
+        "start": "2540220",
+        "end": "2541020",
+        "speakers": "\"13, 09\"",
+        "text": "Tem um buraco pra chave."
+    },
+    {
+        "id": 669,
+        "start": "2541220",
+        "end": "2547020",
+        "speakers": "\"13, 09, 02\"",
+        "text": "Eu olho pro Kiki, vira uma chave, tenta tirar ele de lá."
+    },
+    {
+        "id": 670,
+        "start": "2547220",
+        "end": "2550420",
+        "speakers": "\"05, 02\"",
+        "text": "O Kiki des-transforma, né, que ele tava no modo rolo compressor."
+    },
+    {
+        "id": 671,
+        "start": "2550620",
+        "end": "2556620",
+        "speakers": "\"05\"",
+        "text": "E ele vai correndo até a gaiolinha, e aí quando ele chegar perto, ele vai virar uma chave e encaixar."
+    },
+    {
+        "id": 672,
+        "start": "2556820",
+        "end": "2557220",
+        "speakers": "\"09\"",
+        "text": "Beleza."
+    },
+    {
+        "id": 673,
+        "start": "2557420",
+        "end": "2562020",
+        "speakers": "\"09\"",
+        "text": "Quando tu correu pra gaiolinha, tu tinha um chapéu gelatinoso na tua cabeça."
+    },
+    {
+        "id": 674,
+        "start": "2562220",
+        "end": "2565220",
+        "speakers": "\"09\"",
+        "text": "Quando tu virou chave, tu tinha um chaveiro pendurado em cima."
+    },
+    {
+        "id": 675,
+        "start": "2565420",
+        "end": "2566420",
+        "speakers": "\"05\"",
+        "text": "Ok, perfeito."
+    },
+    {
+        "id": 676,
+        "start": "2566620",
+        "end": "2574220",
+        "speakers": "\"05, 09\"",
+        "text": "Não é uma ação física, tu tá querendo ter um modelo exato da chave, é algo intelectual."
+    },
+    {
+        "id": 677,
+        "start": "2574420",
+        "end": "2576420",
+        "speakers": "\"09\"",
+        "text": "Não rola ainda, vamos ver primeiro."
+    },
+    {
+        "id": 678,
+        "start": "2576620",
+        "end": "2579420",
+        "speakers": "\"09\"",
+        "text": "Tu já virou a chave e já girou."
+    },
+    {
+        "id": 679,
+        "start": "2579620",
+        "end": "2580420",
+        "speakers": "\"09\"",
+        "text": "Só que as tuas amigas..."
+    },
+    {
+        "id": 680,
+        "start": "2580620",
+        "end": "2582620",
+        "speakers": "\"09\"",
+        "text": "As tuas amigas ainda não sabem o que aconteceu."
+    },
+    {
+        "id": 681,
+        "start": "2582820",
+        "end": "2585820",
+        "speakers": "\"09\"",
+        "text": "Ação Sunny, ou Honey ali, pode ser a Sunny."
+    },
+    {
+        "id": 682,
+        "start": "2586020",
+        "end": "2589420",
+        "speakers": "\"09\"",
+        "text": "Ele tá levantando assim, ele tá se debatendo pra tirar você, e você tá levantando."
+    },
+    {
+        "id": 683,
+        "start": "2589620",
+        "end": "2596020",
+        "speakers": "\"04\"",
+        "text": "Eu vou morder, eu vou tentar botar meus dentinhos pra jogo onde pegar."
+    },
+    {
+        "id": 684,
+        "start": "2596220",
+        "end": "2598220",
+        "speakers": "\"09\"",
+        "text": "Dois dados."
+    },
+    {
+        "id": 685,
+        "start": "2598420",
+        "end": "2599420",
+        "speakers": "\"04\"",
+        "text": "Cinco e três."
+    },
+    {
+        "id": 686,
+        "start": "2599620",
+        "end": "2601420",
+        "speakers": "\"09\"",
+        "text": "Três acertos críticos."
+    },
+    {
+        "id": 687,
+        "start": "2601620",
+        "end": "2607620",
+        "speakers": "\"09\"",
+        "text": "Agora tu sentiu morder, ele não sangra, né, mas ele vaza, tipo, mais sombras dele ali."
+    },
+    {
+        "id": 688,
+        "start": "2607820",
+        "end": "2609620",
+        "speakers": "\"09\"",
+        "text": "Tu sente cravar."
+    },
+    {
+        "id": 689,
+        "start": "2609620",
+        "end": "2611620",
+        "speakers": "\"09\"",
+        "text": "É a Rania."
+    },
+    {
+        "id": 690,
+        "start": "2611820",
+        "end": "2620620",
+        "speakers": "\"13, 09\"",
+        "text": "A Rania, ela pega um visorinho, coloca na boca, ela tira o visorinho da boca, visorinho embabado de veneno,"
+    },
+    {
+        "id": 691,
+        "start": "2620820",
+        "end": "2622620",
+        "speakers": "\"13\"",
+        "text": "ela vai tentar enfiar na boca do professor."
+    },
+    {
+        "id": 692,
+        "start": "2622820",
+        "end": "2628620",
+        "speakers": "\"13, 09\"",
+        "text": "Ok, tu tinha tirado já críticos antes, tu tá em cima do professor, pode rolar três dados."
+    },
+    {
+        "id": 693,
+        "start": "2628820",
+        "end": "2631620",
+        "speakers": "\"12\"",
+        "text": "Quatro, dois e um."
+    },
+    {
+        "id": 694,
+        "start": "2631820",
+        "end": "2638620",
+        "speakers": "\"09\"",
+        "text": "O professor engole, assim, ele começa a mudar de cor, assim, um escuro, assim, que é quase uma tinta."
+    },
+    {
+        "id": 695,
+        "start": "2638620",
+        "end": "2647620",
+        "speakers": "\"09\"",
+        "text": "Começa a ficar cada vez mais roxo, assim, um negócio, ele fica meio inchado ali, ele começa a se tremer todo."
+    },
+    {
+        "id": 696,
+        "start": "2647820",
+        "end": "2649620",
+        "speakers": "\"09\"",
+        "text": "Kiki, dois dados."
+    },
+    {
+        "id": 697,
+        "start": "2649820",
+        "end": "2652620",
+        "speakers": "\"09\"",
+        "text": "Kiki tirou cinco e dois."
+    },
+    {
+        "id": 698,
+        "start": "2652820",
+        "end": "2664620",
+        "speakers": "\"09\"",
+        "text": "Não adiantaria nada se ele continuasse sugando o poder do Dedé, mas tu gira a chave, o Dedé sai em velocidade ali."
+    },
+    {
+        "id": 699,
+        "start": "2664820",
+        "end": "2666620",
+        "speakers": "\"09\"",
+        "text": "Ele chega até o corredor pronto pra salvar vocês."
+    },
+    {
+        "id": 700,
+        "start": "2666620",
+        "end": "2668620",
+        "speakers": "\"09\"",
+        "text": "E ele não precisa."
+    },
+    {
+        "id": 701,
+        "start": "2668820",
+        "end": "2673620",
+        "speakers": "\"09\"",
+        "text": "O professor, ele tá se desfazendo, assim, sombras, ele tá derretendo."
+    },
+    {
+        "id": 702,
+        "start": "2673820",
+        "end": "2679620",
+        "speakers": "\"13, 09, 02\"",
+        "text": "Agora o professor tá no cantinho do pensamento pra pensar nas atitudes."
+    },
+    {
+        "id": 703,
+        "start": "2679820",
+        "end": "2682620",
+        "speakers": "\"13, 09\"",
+        "text": "O professor desaparece completamente."
+    },
+    {
+        "id": 704,
+        "start": "2682820",
+        "end": "2688620",
+        "speakers": "\"13, 09\"",
+        "text": "A Rania, ela abraça a Sunny e faz um carinhozinho, assim, atrás da orelha dela."
+    },
+    {
+        "id": 705,
+        "start": "2688820",
+        "end": "2690620",
+        "speakers": "\"04, 13\"",
+        "text": "Você foi muito bem, Sunny."
+    },
+    {
+        "id": 706,
+        "start": "2690820",
+        "end": "2696420",
+        "speakers": "\"04\"",
+        "text": "A Sunny recebe o carinho, fica com o rabinho balançando e a perninha, assim, sabe?"
+    },
+    {
+        "id": 707,
+        "start": "2696420",
+        "end": "2700620",
+        "speakers": "\"04\"",
+        "text": "Quando você tem aquele movimento involuntário porque coçaram outra parte do corpo."
+    },
+    {
+        "id": 708,
+        "start": "2700820",
+        "end": "2704620",
+        "speakers": "\"04\"",
+        "text": "E aí ela tá ali com a perninha balançando e o rabinho balançando, ela..."
+    },
+    {
+        "id": 709,
+        "start": "2704820",
+        "end": "2707620",
+        "speakers": "\"04\"",
+        "text": "Ai, obrigada, Rania!"
+    },
+    {
+        "id": 710,
+        "start": "2707820",
+        "end": "2714620",
+        "speakers": "\"04\"",
+        "text": "E aí ela dá uma lambida na Rania, assim, e fica se chegando nela."
+    },
+    {
+        "id": 711,
+        "start": "2714820",
+        "end": "2720620",
+        "speakers": "\"04, 05\"",
+        "text": "O Kiki vai andando pro lado de vocês e ele vai meio chutando, assim, o chão."
+    },
+    {
+        "id": 712,
+        "start": "2720820",
+        "end": "2726220",
+        "speakers": "\"05\"",
+        "text": "Gente, o que que vocês... a gente não vai poder ir no teatro."
+    },
+    {
+        "id": 713,
+        "start": "2726220",
+        "end": "2732020",
+        "speakers": "\"05, 11, 07\"",
+        "text": "A gente acabou com o professor. Ele não aguentou."
+    },
+    {
+        "id": 714,
+        "start": "2732220",
+        "end": "2740020",
+        "speakers": "\"13, 05, 02\"",
+        "text": "É verdade, Kiki. Bem lembrado. Ah, não, não, não, não, não."
+    },
+    {
+        "id": 715,
+        "start": "2740220",
+        "end": "2746020",
+        "speakers": "\"12, 13\"",
+        "text": "Aí a Rania, ela cruza os bracinhos e fica sentada no chão, emburradinha, sabe?"
+    },
+    {
+        "id": 716,
+        "start": "2746220",
+        "end": "2752020",
+        "speakers": "\"12, 03\"",
+        "text": "Mas foi o professor que começou. Ele tava fazendo mal pro Dedé."
+    },
+    {
+        "id": 717,
+        "start": "2752220",
+        "end": "2756020",
+        "speakers": "\"03\"",
+        "text": "Ele tava. Eu senti, eu senti."
+    },
+    {
+        "id": 718,
+        "start": "2756220",
+        "end": "2758020",
+        "speakers": "\"03\"",
+        "text": "Né, Dedé?"
+    },
+    {
+        "id": 719,
+        "start": "2758220",
+        "end": "2763020",
+        "speakers": "\"05, 09\"",
+        "text": "O Dedé, ele encosta a testa dele no Kiki."
+    },
+    {
+        "id": 720,
+        "start": "2763220",
+        "end": "2767020",
+        "speakers": "\"05\"",
+        "text": "O Kiki deixa, né? Tipo, encosta também, assim, responde encostando."
+    },
+    {
+        "id": 721,
+        "start": "2767220",
+        "end": "2769020",
+        "speakers": "\"05, 09\"",
+        "text": "Ele voa em direção à folha."
+    },
+    {
+        "id": 722,
+        "start": "2769220",
+        "end": "2775020",
+        "speakers": "\"05, 09\"",
+        "text": "O Kiki vai junto na direção dele. Vai junto atrás dele, no verdade."
+    },
+    {
+        "id": 723,
+        "start": "2775220",
+        "end": "2778020",
+        "speakers": "\"05, 09\"",
+        "text": "Ele segura a folha, assim, com os dentinhos e coloca na tua testa."
+    },
+    {
+        "id": 724,
+        "start": "2778220",
+        "end": "2781020",
+        "speakers": "\"05\"",
+        "text": "Ah, é. Obrigado, Dedé."
+    },
+    {
+        "id": 725,
+        "start": "2781220",
+        "end": "2786020",
+        "speakers": "\"05\"",
+        "text": "Eles vivem falando que você destrói tudo, mas olha só."
+    },
+    {
+        "id": 726,
+        "start": "2786020",
+        "end": "2787820",
+        "speakers": "\"05\"",
+        "text": "O Dedé consertou pra mim."
+    },
+    {
+        "id": 727,
+        "start": "2788020",
+        "end": "2792820",
+        "speakers": "\"12, 05, 11\"",
+        "text": "E ele levanta a folhinha e mostra pra Sunny, pra Rania e pra Lila."
+    },
+    {
+        "id": 728,
+        "start": "2793020",
+        "end": "2795820",
+        "speakers": "\"12, 11\"",
+        "text": "Olha, o Dedé consertou pra mim."
+    },
+    {
+        "id": 729,
+        "start": "2796020",
+        "end": "2798820",
+        "speakers": "\"12\"",
+        "text": "Olha só que legal."
+    },
+    {
+        "id": 730,
+        "start": "2799020",
+        "end": "2802820",
+        "speakers": "\"12\"",
+        "text": "E ela fica pulandinha, assim, com os bracinhos pra cima."
+    },
+    {
+        "id": 731,
+        "start": "2803020",
+        "end": "2808820",
+        "speakers": "\"09\"",
+        "text": "Você escuta as asas do dragão batendo. Ele tá voando lá fora pra pousar."
+    },
+    {
+        "id": 732,
+        "start": "2809020",
+        "end": "2814820",
+        "speakers": "\"03\"",
+        "text": "E a diretora chegou. E agora? O que que a gente fala?"
+    },
+    {
+        "id": 733,
+        "start": "2814820",
+        "end": "2820620",
+        "speakers": "\"13, 03\"",
+        "text": "A Rania faz uma cara de criança que tá aprontando. Ela olha pro Kiki."
+    },
+    {
+        "id": 734,
+        "start": "2820820",
+        "end": "2828620",
+        "speakers": "\"02\"",
+        "text": "Ô Kiki, eu acho que o Dedé quer que você vire aquele professor."
+    },
+    {
+        "id": 735,
+        "start": "2828820",
+        "end": "2830620",
+        "speakers": "\"09, 02\"",
+        "text": "O Dedé dá uma pirueta."
+    },
+    {
+        "id": 736,
+        "start": "2830820",
+        "end": "2838620",
+        "speakers": "\"05, 09, 11\"",
+        "text": "Mas eu, eu, eu, eu não sei. Eu vou tentar."
+    },
+    {
+        "id": 737,
+        "start": "2838820",
+        "end": "2842620",
+        "speakers": "\"05, 09\"",
+        "text": "E ele vai tentar transformar também."
+    },
+    {
+        "id": 738,
+        "start": "2842620",
+        "end": "2847420",
+        "speakers": "\"05, 09\"",
+        "text": "O Dedé faz sinal pra todo mundo ficar em volta do Kiki."
+    },
+    {
+        "id": 739,
+        "start": "2847620",
+        "end": "2850420",
+        "speakers": "\"13, 09\"",
+        "text": "A gente vai? Eu vou. Em volta do Kiki."
+    },
+    {
+        "id": 740,
+        "start": "2850620",
+        "end": "2853420",
+        "speakers": "\"09\"",
+        "text": "Três dados, Kiki. Teus amigos estão ali torcendo por você."
+    },
+    {
+        "id": 741,
+        "start": "2853620",
+        "end": "2856420",
+        "speakers": "\"05, 09\"",
+        "text": "E o Dedé tá emprestando energia."
+    },
+    {
+        "id": 742,
+        "start": "2856620",
+        "end": "2860420",
+        "speakers": "\"05\"",
+        "text": "E eu tirei seis, três e dois. Sendo dois o meu atributo."
+    },
+    {
+        "id": 743,
+        "start": "2860620",
+        "end": "2863420",
+        "speakers": "\"05, 09\"",
+        "text": "Dois acertos, mas acerto crítico."
+    },
+    {
+        "id": 744,
+        "start": "2863620",
+        "end": "2867420",
+        "speakers": "\"09\"",
+        "text": "Tu não só é o professor, como no teu colo tem você mesmo."
+    },
+    {
+        "id": 745,
+        "start": "2867620",
+        "end": "2870420",
+        "speakers": "\"05, 09\"",
+        "text": "Tu tá segurando você mesmo."
+    },
+    {
+        "id": 746,
+        "start": "2870420",
+        "end": "2875220",
+        "speakers": "\"05\"",
+        "text": "Eu vou lá pro, pro pessoal e faço tipo, faço uma dancinha assim no corpo do professor."
+    },
+    {
+        "id": 747,
+        "start": "2875420",
+        "end": "2877220",
+        "speakers": "\"05\"",
+        "text": "Uns joinhas e..."
+    },
+    {
+        "id": 748,
+        "start": "2877420",
+        "end": "2884220",
+        "speakers": "\"08, 05\"",
+        "text": "É, vamos lá pro teatro, é. Pro dragão e pro teatro."
+    },
+    {
+        "id": 749,
+        "start": "2884420",
+        "end": "2889220",
+        "speakers": "\"02\"",
+        "text": "Esse é o melhor dia da minha vida."
+    },
+    {
+        "id": 750,
+        "start": "2889420",
+        "end": "2896220",
+        "speakers": "\"12\"",
+        "text": "A Rania, ela segura, tá pra segurar o que poderia ser a mãozinha da Lila e a mãozinha da Sânia."
+    },
+    {
+        "id": 751,
+        "start": "2896420",
+        "end": "2899220",
+        "speakers": "\"12, 09\"",
+        "text": "O dragão começa a levantar voo com vocês ali."
+    },
+    {
+        "id": 752,
+        "start": "2899220",
+        "end": "2903020",
+        "speakers": "\"09\"",
+        "text": "A diretora vira pro professor e pergunta."
+    },
+    {
+        "id": 753,
+        "start": "2903220",
+        "end": "2905020",
+        "speakers": "\"10, 09\"",
+        "text": "Eles se comportaram?"
+    },
+    {
+        "id": 754,
+        "start": "2905220",
+        "end": "2910020",
+        "speakers": "\"08, 09\"",
+        "text": "Ah, é... Sim, sim, eles se comportaram."
+    },
+    {
+        "id": 755,
+        "start": "2910220",
+        "end": "2913020",
+        "speakers": "\"08\"",
+        "text": "Eles queriam... os lanches."
+    },
+    {
+        "id": 756,
+        "start": "2913220",
+        "end": "2915020",
+        "speakers": "\"08, 10\"",
+        "text": "Os lanches?"
+    },
+    {
+        "id": 757,
+        "start": "2915220",
+        "end": "2918020",
+        "speakers": "\"08\"",
+        "text": "É, eles ficaram falando de comida."
+    },
+    {
+        "id": 758,
+        "start": "2918220",
+        "end": "2921020",
+        "speakers": "\"08\"",
+        "text": "E aí eles ficaram quietinhos."
+    },
+    {
+        "id": 759,
+        "start": "2921220",
+        "end": "2924020",
+        "speakers": "\"08\"",
+        "text": "Falei que chegando lá ia ter bastante lanche pra eles."
+    },
+    {
+        "id": 760,
+        "start": "2924220",
+        "end": "2929020",
+        "speakers": "\"08, 10\"",
+        "text": "Certo. E a escola espero que esteja inteira, né?"
+    },
+    {
+        "id": 761,
+        "start": "2929020",
+        "end": "2932820",
+        "speakers": "\"08, 10\"",
+        "text": "Ah, tá sim, tá sim. Eu acho que tá."
+    },
+    {
+        "id": 762,
+        "start": "2933020",
+        "end": "2936820",
+        "speakers": "\"08\"",
+        "text": "Pelo menos na sala deles tá tudo certo."
+    },
+    {
+        "id": 763,
+        "start": "2937020",
+        "end": "2940820",
+        "speakers": "\"09\"",
+        "text": "Vocês vão até o local lá que vai ter a apresentação, né?"
+    },
+    {
+        "id": 764,
+        "start": "2941020",
+        "end": "2943820",
+        "speakers": "\"09\"",
+        "text": "O dragão pousa lá."
+    },
+    {
+        "id": 765,
+        "start": "2944020",
+        "end": "2945820",
+        "speakers": "\"09\"",
+        "text": "É..."
+    },
+    {
+        "id": 766,
+        "start": "2946020",
+        "end": "2951820",
+        "speakers": "\"09\"",
+        "text": "Alguns anjos, grandes humanoides assim com asas, cercam ali o dragão."
+    },
+    {
+        "id": 767,
+        "start": "2952020",
+        "end": "2955820",
+        "speakers": "\"09\"",
+        "text": "Fazem sinal pra diretora e pras crianças se afastarem."
+    },
+    {
+        "id": 768,
+        "start": "2956020",
+        "end": "2957820",
+        "speakers": "\"09\"",
+        "text": "E começam a cercar."
+    },
+    {
+        "id": 769,
+        "start": "2957820",
+        "end": "2959620",
+        "speakers": "\"09\"",
+        "text": "Ah, o Kiki."
+    },
+    {
+        "id": 770,
+        "start": "2959820",
+        "end": "2961620",
+        "speakers": "\"01\"",
+        "text": "Bom dia, professor."
+    },
+    {
+        "id": 771,
+        "start": "2961820",
+        "end": "2965620",
+        "speakers": "\"01\"",
+        "text": "A gente deu uma analisada no seu currículo e queria conversar com o senhor."
+    },
+    {
+        "id": 772,
+        "start": "2965820",
+        "end": "2967620",
+        "speakers": "\"01\"",
+        "text": "Comigo? Comigo?"
+    },
+    {
+        "id": 773,
+        "start": "2967820",
+        "end": "2970620",
+        "speakers": "\"01, 05\"",
+        "text": "Eu... eu... Olha aqui, gente."
+    },
+    {
+        "id": 774,
+        "start": "2970820",
+        "end": "2972620",
+        "speakers": "\"05\"",
+        "text": "E aí eu destransformo na hora, assim."
+    },
+    {
+        "id": 775,
+        "start": "2972820",
+        "end": "2975620",
+        "speakers": "\"05, 09\"",
+        "text": "É, eu não sou professor, não."
+    },
+    {
+        "id": 776,
+        "start": "2975820",
+        "end": "2977620",
+        "speakers": "\"09\"",
+        "text": "A diretora incrédula, assim."
+    },
+    {
+        "id": 777,
+        "start": "2977820",
+        "end": "2981620",
+        "speakers": "\"10, 09\"",
+        "text": "Ela já tava preocupada no caso dos anjos, ela olha pra vocês."
+    },
+    {
+        "id": 778,
+        "start": "2981820",
+        "end": "2983620",
+        "speakers": "\"10\"",
+        "text": "A escola está inteira, pelo menos?"
+    },
+    {
+        "id": 779,
+        "start": "2983820",
+        "end": "2985620",
+        "speakers": "\"10\"",
+        "text": "Aham, aham, aham."
+    },
+    {
+        "id": 780,
+        "start": "2985620",
+        "end": "2991420",
+        "speakers": "\"10, 04, 05\"",
+        "text": "Mas o professor, eu acho que não."
+    },
+    {
+        "id": 781,
+        "start": "2991620",
+        "end": "2996420",
+        "speakers": "\"04\"",
+        "text": "Foi ele que começou. Ele que... que... que... começou."
+    },
+    {
+        "id": 782,
+        "start": "2996620",
+        "end": "2999420",
+        "speakers": "\"04, 02\"",
+        "text": "Eu só mordi porque ele era mau."
+    },
+    {
+        "id": 783,
+        "start": "2999620",
+        "end": "3002420",
+        "speakers": "\"02\"",
+        "text": "A gente deu uma lição nele."
+    },
+    {
+        "id": 784,
+        "start": "3002620",
+        "end": "3009420",
+        "speakers": "\"09\"",
+        "text": "O dia depois de vocês serem liberados, a peça é reiniciada pra que vocês possam ver desde o começo."
+    },
+    {
+        "id": 785,
+        "start": "3009620",
+        "end": "3011420",
+        "speakers": "\"09\"",
+        "text": "Porque ela já tinha começado."
+    },
+    {
+        "id": 786,
+        "start": "3011620",
+        "end": "3013420",
+        "speakers": "\"09\"",
+        "text": "Mas ninguém reclamou."
+    },
+    {
+        "id": 787,
+        "start": "3013420",
+        "end": "3016220",
+        "speakers": "\"09\"",
+        "text": "A comida naquele dia era muito boa."
+    },
+    {
+        "id": 788,
+        "start": "3016420",
+        "end": "3020220",
+        "speakers": "\"09\"",
+        "text": "Na semana seguinte, a escola já reconstruída novamente."
+    },
+    {
+        "id": 789,
+        "start": "3020420",
+        "end": "3023220",
+        "speakers": "\"09\"",
+        "text": "Vocês estão lá na salinha de vocês, esperando."
+    },
+    {
+        "id": 790,
+        "start": "3023420",
+        "end": "3027220",
+        "speakers": "\"09\"",
+        "text": "A professora, parece que o atestado acabou e ela vai voltar."
+    },
+    {
+        "id": 791,
+        "start": "3027420",
+        "end": "3030220",
+        "speakers": "\"09\"",
+        "text": "A diretora vai até a portinha de vocês."
+    },
+    {
+        "id": 792,
+        "start": "3030420",
+        "end": "3035220",
+        "speakers": "\"10, 09\"",
+        "text": "Crianças, o certo era eu botar vocês de castigo."
+    },
+    {
+        "id": 793,
+        "start": "3035420",
+        "end": "3037220",
+        "speakers": "\"10, 05\"",
+        "text": "Mas?"
+    },
+    {
+        "id": 794,
+        "start": "3037420",
+        "end": "3041220",
+        "speakers": "\"10\"",
+        "text": "A imperatriz mandou uma medalha para cada um de vocês."
+    },
+    {
+        "id": 795,
+        "start": "3041220",
+        "end": "3044020",
+        "speakers": "\"10\"",
+        "text": "Eu pedi que fosse chocolate."
+    },
+    {
+        "id": 796,
+        "start": "3044220",
+        "end": "3047020",
+        "speakers": "\"10\"",
+        "text": "É uma coisa humana, que eles adoram bastante."
+    },
+    {
+        "id": 797,
+        "start": "3047220",
+        "end": "3049020",
+        "speakers": "\"10\"",
+        "text": "Eu não sei o que fizeram."
+    },
+    {
+        "id": 798,
+        "start": "3049220",
+        "end": "3052020",
+        "speakers": "\"10\"",
+        "text": "Mas, parabéns."
+    },
+    {
+        "id": 799,
+        "start": "3064220",
+        "end": "3066020",
+        "speakers": "\"00, 09\"",
+        "text": "Escudo do Mestre."
+    },
+    {
+        "id": 800,
+        "start": "3066220",
+        "end": "3069020",
+        "speakers": "\"09\"",
+        "text": "Escudo do Mestre, que é o estudo de papelão e madeira que o mestre dispôs para o seu lançamento de dados."
+    },
+    {
+        "id": 801,
+        "start": "3069020",
+        "end": "3073820",
+        "speakers": "\"09\"",
+        "text": "A ideia da aventura é muito simples."
+    },
+    {
+        "id": 802,
+        "start": "3074020",
+        "end": "3076820",
+        "speakers": "\"09\"",
+        "text": "Eu queria um episódio de Dia das Crianças."
+    },
+    {
+        "id": 803,
+        "start": "3077020",
+        "end": "3079820",
+        "speakers": "\"09\"",
+        "text": "Então, lembrei que ano passado foi um episódio na creche."
+    },
+    {
+        "id": 804,
+        "start": "3080020",
+        "end": "3081820",
+        "speakers": "\"09\"",
+        "text": "Que foi muito divertido, o pessoal gostou bastante."
+    },
+    {
+        "id": 805,
+        "start": "3082020",
+        "end": "3086820",
+        "speakers": "\"09\"",
+        "text": "E esse ano, o pessoal tem dado ideias de explorar mais esse mundo dos monstros."
+    },
+    {
+        "id": 806,
+        "start": "3087020",
+        "end": "3088820",
+        "speakers": "\"09\"",
+        "text": "De trazer episódios numa faculdade."
+    },
+    {
+        "id": 807,
+        "start": "3089020",
+        "end": "3090820",
+        "speakers": "\"09\"",
+        "text": "E, por que não, na creche."
+    },
+    {
+        "id": 808,
+        "start": "3091020",
+        "end": "3095820",
+        "speakers": "\"09\"",
+        "text": "Se eu não me engano, a ideia de ser uma creche, especificamente, surgiu em algum guachaverso."
+    },
+    {
+        "id": 809,
+        "start": "3096020",
+        "end": "3097820",
+        "speakers": "\"09\"",
+        "text": "Seja na parte ao vivo, que você deve ter ouvido aí."
+    },
+    {
+        "id": 810,
+        "start": "3097820",
+        "end": "3099620",
+        "speakers": "\"09\"",
+        "text": "No seu feed."
+    },
+    {
+        "id": 811,
+        "start": "3099820",
+        "end": "3101620",
+        "speakers": "\"09\"",
+        "text": "Ou, talvez, batendo papo com os padrinhos."
+    },
+    {
+        "id": 812,
+        "start": "3101820",
+        "end": "3104620",
+        "speakers": "\"09\"",
+        "text": "Que a gente sempre faz antes de começar a gravar."
+    },
+    {
+        "id": 813,
+        "start": "3104820",
+        "end": "3106620",
+        "speakers": "\"09\"",
+        "text": "E, às vezes, até durante a gravação. E a gente corta depois."
+    },
+    {
+        "id": 814,
+        "start": "3106820",
+        "end": "3108620",
+        "speakers": "\"09\"",
+        "text": "Então, antes de mais nada."
+    },
+    {
+        "id": 815,
+        "start": "3108820",
+        "end": "3109620",
+        "speakers": "\"09\"",
+        "text": "Já que falei dos padrinhos."
+    },
+    {
+        "id": 816,
+        "start": "3109820",
+        "end": "3112620",
+        "speakers": "\"09\"",
+        "text": "Você quer fazer parte do melhor grupo do Telegram?"
+    },
+    {
+        "id": 817,
+        "start": "3112820",
+        "end": "3114620",
+        "speakers": "\"09\"",
+        "text": "Da internet brasileira?"
+    },
+    {
+        "id": 818,
+        "start": "3114820",
+        "end": "3115620",
+        "speakers": "\"09\"",
+        "text": "Dos RPGistas?"
+    },
+    {
+        "id": 819,
+        "start": "3115820",
+        "end": "3116620",
+        "speakers": "\"09\"",
+        "text": "Dos nerds?"
+    },
+    {
+        "id": 820,
+        "start": "3116820",
+        "end": "3118620",
+        "speakers": "\"09\"",
+        "text": "É só a partir de 10 reais em apoia.se"
+    },
+    {
+        "id": 821,
+        "start": "3118820",
+        "end": "3119620",
+        "speakers": "\"09\"",
+        "text": "Você assinou?"
+    },
+    {
+        "id": 822,
+        "start": "3119820",
+        "end": "3122620",
+        "speakers": "\"09\"",
+        "text": "Tem um post lá com o Caio Diado que vai abrir para você."
+    },
+    {
+        "id": 823,
+        "start": "3122820",
+        "end": "3124620",
+        "speakers": "\"09\"",
+        "text": "Nesse post tem um link para você ir direto para o Telegram."
+    },
+    {
+        "id": 824,
+        "start": "3124820",
+        "end": "3125620",
+        "speakers": "\"09\"",
+        "text": "Você vai para lá."
+    },
+    {
+        "id": 825,
+        "start": "3125820",
+        "end": "3127620",
+        "speakers": "\"09\"",
+        "text": "Tem vários subgrupos."
+    },
+    {
+        "id": 826,
+        "start": "3127620",
+        "end": "3129420",
+        "speakers": "\"09\"",
+        "text": "Grupos para marcar a aventura."
+    },
+    {
+        "id": 827,
+        "start": "3129620",
+        "end": "3131420",
+        "speakers": "\"09\"",
+        "text": "Lá tem um monte de gente se disponibilizando."
+    },
+    {
+        "id": 828,
+        "start": "3131620",
+        "end": "3133420",
+        "speakers": "\"09\"",
+        "text": "Está narrando o tempo todo."
+    },
+    {
+        "id": 829,
+        "start": "3133620",
+        "end": "3134420",
+        "speakers": "\"09\"",
+        "text": "Então, vamos lá."
+    },
+    {
+        "id": 830,
+        "start": "3134620",
+        "end": "3135420",
+        "speakers": "\"09\"",
+        "text": "Precisa de jogador?"
+    },
+    {
+        "id": 831,
+        "start": "3135620",
+        "end": "3136420",
+        "speakers": "\"09\"",
+        "text": "Tem lá."
+    },
+    {
+        "id": 832,
+        "start": "3136620",
+        "end": "3137420",
+        "speakers": "\"09\"",
+        "text": "Precisa de narrador?"
+    },
+    {
+        "id": 833,
+        "start": "3137620",
+        "end": "3138420",
+        "speakers": "\"09\"",
+        "text": "Tem lá."
+    },
+    {
+        "id": 834,
+        "start": "3138620",
+        "end": "3139420",
+        "speakers": "\"09\"",
+        "text": "Quer conversar sobre anime?"
+    },
+    {
+        "id": 835,
+        "start": "3139620",
+        "end": "3140420",
+        "speakers": "\"09\"",
+        "text": "Sobre videogame?"
+    },
+    {
+        "id": 836,
+        "start": "3140620",
+        "end": "3141420",
+        "speakers": "\"09\"",
+        "text": "Tem vários subgrupos."
+    },
+    {
+        "id": 837,
+        "start": "3141620",
+        "end": "3143420",
+        "speakers": "\"09\"",
+        "text": "Tem o pessoal além do arco-íris."
+    },
+    {
+        "id": 838,
+        "start": "3143620",
+        "end": "3146420",
+        "speakers": "\"09\"",
+        "text": "O pessoal da comunidade LGBTQIA+."
+    },
+    {
+        "id": 839,
+        "start": "3146620",
+        "end": "3148420",
+        "speakers": "\"09\"",
+        "text": "Tem o grupo só das meninas."
+    },
+    {
+        "id": 840,
+        "start": "3148620",
+        "end": "3149420",
+        "speakers": "\"09\"",
+        "text": "Que eu não faço ideia do que elas aprontam."
+    },
+    {
+        "id": 841,
+        "start": "3149620",
+        "end": "3151420",
+        "speakers": "\"09\"",
+        "text": "Porque eu não posso entrar lá."
+    },
+    {
+        "id": 842,
+        "start": "3151620",
+        "end": "3152420",
+        "speakers": "\"09\"",
+        "text": "Tem o grupo de spoilers."
+    },
+    {
+        "id": 843,
+        "start": "3152620",
+        "end": "3154420",
+        "speakers": "\"09\"",
+        "text": "Onde vocês discutem teorias."
+    },
+    {
+        "id": 844,
+        "start": "3154620",
+        "end": "3155420",
+        "speakers": "\"09\"",
+        "text": "Nossa."
+    },
+    {
+        "id": 845,
+        "start": "3155620",
+        "end": "3156420",
+        "speakers": "\"09\"",
+        "text": "Muitas vantagens."
+    },
+    {
+        "id": 846,
+        "start": "3156420",
+        "end": "3157620",
+        "speakers": "\"09\"",
+        "text": "E a maior delas."
+    },
+    {
+        "id": 847,
+        "start": "3157820",
+        "end": "3160220",
+        "speakers": "\"09\"",
+        "text": "O RPG Guaxa continuar existindo."
+    },
+    {
+        "id": 848,
+        "start": "3160420",
+        "end": "3162220",
+        "speakers": "\"09\"",
+        "text": "O RPG Guaxa é um hobby para mim."
+    },
+    {
+        "id": 849,
+        "start": "3162420",
+        "end": "3164220",
+        "speakers": "\"09\"",
+        "text": "Eu trabalho o dia inteiro."
+    },
+    {
+        "id": 850,
+        "start": "3164420",
+        "end": "3165220",
+        "speakers": "\"09\"",
+        "text": "De segunda a sexta."
+    },
+    {
+        "id": 851,
+        "start": "3165420",
+        "end": "3167220",
+        "speakers": "\"09\"",
+        "text": "Às vezes até um sábado ou outro."
+    },
+    {
+        "id": 852,
+        "start": "3167420",
+        "end": "3168220",
+        "speakers": "\"09\"",
+        "text": "E no meu tempo livre."
+    },
+    {
+        "id": 853,
+        "start": "3168420",
+        "end": "3170220",
+        "speakers": "\"09\"",
+        "text": "Quando eu não estou jogando videogame."
+    },
+    {
+        "id": 854,
+        "start": "3170420",
+        "end": "3171220",
+        "speakers": "\"09\"",
+        "text": "Ou com a minha filha."
+    },
+    {
+        "id": 855,
+        "start": "3171420",
+        "end": "3172220",
+        "speakers": "\"09\"",
+        "text": "Ou com a minha esposa."
+    },
+    {
+        "id": 856,
+        "start": "3172420",
+        "end": "3173220",
+        "speakers": "\"09\"",
+        "text": "Eu estou aqui narrando."
+    },
+    {
+        "id": 857,
+        "start": "3173420",
+        "end": "3174220",
+        "speakers": "\"09\"",
+        "text": "Editando."
+    },
+    {
+        "id": 858,
+        "start": "3174420",
+        "end": "3175220",
+        "speakers": "\"09\"",
+        "text": "Escrevendo."
+    },
+    {
+        "id": 859,
+        "start": "3175420",
+        "end": "3176220",
+        "speakers": "\"09\"",
+        "text": "Então, poxa."
+    },
+    {
+        "id": 860,
+        "start": "3176420",
+        "end": "3177220",
+        "speakers": "\"09\"",
+        "text": "O mínimo."
+    },
+    {
+        "id": 861,
+        "start": "3177420",
+        "end": "3178220",
+        "speakers": "\"09\"",
+        "text": "O mínimo que eu peço a você."
+    },
+    {
+        "id": 862,
+        "start": "3178420",
+        "end": "3179220",
+        "speakers": "\"09\"",
+        "text": "Apoie esse projeto."
+    },
+    {
+        "id": 863,
+        "start": "3179420",
+        "end": "3180220",
+        "speakers": "\"09\"",
+        "text": "Se não financeiramente."
+    },
+    {
+        "id": 864,
+        "start": "3180420",
+        "end": "3182220",
+        "speakers": "\"09\"",
+        "text": "Porque eu sei que não está fácil para todo mundo."
+    },
+    {
+        "id": 865,
+        "start": "3182420",
+        "end": "3183220",
+        "speakers": "\"09\"",
+        "text": "Segue a gente nas redes sociais."
+    },
+    {
+        "id": 866,
+        "start": "3183420",
+        "end": "3184220",
+        "speakers": "\"09\"",
+        "text": "É o Marcelo Guaxinim."
+    },
+    {
+        "id": 867,
+        "start": "3184420",
+        "end": "3185220",
+        "speakers": "\"09\"",
+        "text": "É o Roberto RPG Guaxa."
+    },
+    {
+        "id": 868,
+        "start": "3185220",
+        "end": "3186220",
+        "speakers": "\"09\"",
+        "text": "Lá no Blue Sky."
+    },
+    {
+        "id": 869,
+        "start": "3186420",
+        "end": "3187820",
+        "speakers": "\"09\"",
+        "text": "E no Instagram."
+    },
+    {
+        "id": 870,
+        "start": "3188020",
+        "end": "3189220",
+        "speakers": "\"09\"",
+        "text": "Outra forma de estar ajudando a gente."
+    },
+    {
+        "id": 871,
+        "start": "3189420",
+        "end": "3190820",
+        "speakers": "\"09\"",
+        "text": "Prêmio MPB."
+    },
+    {
+        "id": 872,
+        "start": "3191020",
+        "end": "3192620",
+        "speakers": "\"09\"",
+        "text": "Melhores Podcasts do Brasil."
+    },
+    {
+        "id": 873,
+        "start": "3192820",
+        "end": "3194220",
+        "speakers": "\"09\"",
+        "text": "O RPG Guaxa passou da primeira fase."
+    },
+    {
+        "id": 874,
+        "start": "3194420",
+        "end": "3197220",
+        "speakers": "\"09\"",
+        "text": "E conta com o seu voto agora nessa fase final."
+    },
+    {
+        "id": 875,
+        "start": "3197420",
+        "end": "3198820",
+        "speakers": "\"09\"",
+        "text": "Você pode votar todo dia."
+    },
+    {
+        "id": 876,
+        "start": "3199020",
+        "end": "3202020",
+        "speakers": "\"09\"",
+        "text": "E embora obviamente um voto já vai me ajudar muito."
+    },
+    {
+        "id": 877,
+        "start": "3202220",
+        "end": "3203620",
+        "speakers": "\"09\"",
+        "text": "Se você sempre que lembrar."
+    },
+    {
+        "id": 878,
+        "start": "3203820",
+        "end": "3204620",
+        "speakers": "\"09\"",
+        "text": "Deu uma passada lá."
+    },
+    {
+        "id": 879,
+        "start": "3204820",
+        "end": "3205820",
+        "speakers": "\"09\"",
+        "text": "Agradeço demais."
+    },
+    {
+        "id": 880,
+        "start": "3206020",
+        "end": "3207820",
+        "speakers": "\"09\"",
+        "text": "Categoria Ficção e Fantasia."
+    },
+    {
+        "id": 881,
+        "start": "3208020",
+        "end": "3210220",
+        "speakers": "\"09\"",
+        "text": "Você vota em Realidades Paralelas do Guaxinim."
+    },
+    {
+        "id": 882,
+        "start": "3210420",
+        "end": "3211420",
+        "speakers": "\"09\"",
+        "text": "E já que você está lá."
+    },
+    {
+        "id": 883,
+        "start": "3211620",
+        "end": "3213020",
+        "speakers": "\"09\"",
+        "text": "Tem várias outras categorias."
+    },
+    {
+        "id": 884,
+        "start": "3213220",
+        "end": "3214220",
+        "speakers": "\"09\"",
+        "text": "Convido você também."
+    },
+    {
+        "id": 885,
+        "start": "3214420",
+        "end": "3215020",
+        "speakers": "\"09\"",
+        "text": "Em Cultura Pop."
+    },
+    {
+        "id": 886,
+        "start": "3215220",
+        "end": "3218220",
+        "speakers": "\"09\"",
+        "text": "Onde a nossa querida amiga Agatha e o Jojo."
+    },
+    {
+        "id": 887,
+        "start": "3218420",
+        "end": "3221220",
+        "speakers": "\"09\"",
+        "text": "Tem um podcast de videogame chamado Buraco Atrás do Pôster."
+    },
+    {
+        "id": 888,
+        "start": "3221420",
+        "end": "3222820",
+        "speakers": "\"09\"",
+        "text": "Então você vai lá em Cultura Pop."
+    },
+    {
+        "id": 889,
+        "start": "3223020",
+        "end": "3224420",
+        "speakers": "\"09\"",
+        "text": "E vota no Buraco Atrás do Pôster."
+    },
+    {
+        "id": 890,
+        "start": "3224620",
+        "end": "3225620",
+        "speakers": "\"09\"",
+        "text": "Você vai em Ficção e Fantasia."
+    },
+    {
+        "id": 891,
+        "start": "3225820",
+        "end": "3227220",
+        "speakers": "\"09\"",
+        "text": "E vota no RPG Guaxa."
+    },
+    {
+        "id": 892,
+        "start": "3227420",
+        "end": "3228420",
+        "speakers": "\"09\"",
+        "text": "Agradeço demais aos jogadores."
+    },
+    {
+        "id": 893,
+        "start": "3228620",
+        "end": "3230220",
+        "speakers": "\"09\"",
+        "text": "Agradeço ao editor Rafael Zorzal."
+    },
+    {
+        "id": 894,
+        "start": "3230420",
+        "end": "3231020",
+        "speakers": "\"09\"",
+        "text": "Preciso de edição."
+    },
+    {
+        "id": 895,
+        "start": "3231220",
+        "end": "3232620",
+        "speakers": "\"09\"",
+        "text": "Fala com o Zorzal."
+    },
+    {
+        "id": 896,
+        "start": "3232820",
+        "end": "3233620",
+        "speakers": "\"09\"",
+        "text": "Lembrar vocês ainda."
+    },
+    {
+        "id": 897,
+        "start": "3233820",
+        "end": "3235820",
+        "speakers": "\"09\"",
+        "text": "Que o livro dele está disponível lá na Amazon."
+    },
+    {
+        "id": 898,
+        "start": "3236020",
+        "end": "3237020",
+        "speakers": "\"09\"",
+        "text": "Fraternal."
+    },
+    {
+        "id": 899,
+        "start": "3237220",
+        "end": "3238220",
+        "speakers": "\"09\"",
+        "text": "Livro incrível assim."
+    },
+    {
+        "id": 900,
+        "start": "3238420",
+        "end": "3239020",
+        "speakers": "\"09\"",
+        "text": "Até agora."
+    },
+    {
+        "id": 901,
+        "start": "3239220",
+        "end": "3240020",
+        "speakers": "\"09\"",
+        "text": "Só elogios."
+    },
+    {
+        "id": 902,
+        "start": "3240220",
+        "end": "3241820",
+        "speakers": "\"09\"",
+        "text": "A todo mundo que terminou o livro."
+    },
+    {
+        "id": 903,
+        "start": "3242020",
+        "end": "3242620",
+        "speakers": "\"09\"",
+        "text": "Amou."
+    },
+    {
+        "id": 904,
+        "start": "3242820",
+        "end": "3243820",
+        "speakers": "\"09\"",
+        "text": "Eu ainda não terminei."
+    },
+    {
+        "id": 905,
+        "start": "3244020",
+        "end": "3244620",
+        "speakers": "\"09\"",
+        "text": "Como eu falei."
+    },
+    {
+        "id": 906,
+        "start": "3244620",
+        "end": "3246020",
+        "speakers": "\"09\"",
+        "text": "Meu tempo livre é bem pequeno."
+    },
+    {
+        "id": 907,
+        "start": "3246220",
+        "end": "3246620",
+        "speakers": "\"09\"",
+        "text": "Mas assim."
+    },
+    {
+        "id": 908,
+        "start": "3246820",
+        "end": "3247620",
+        "speakers": "\"09\"",
+        "text": "Tudo que li amei."
+    },
+    {
+        "id": 909,
+        "start": "3247820",
+        "end": "3249020",
+        "speakers": "\"09\"",
+        "text": "Então recomendo a vocês."
+    },
+    {
+        "id": 910,
+        "start": "3249220",
+        "end": "3250620",
+        "speakers": "\"09\"",
+        "text": "Fraternal do Zorzal."
+    },
+    {
+        "id": 911,
+        "start": "3250820",
+        "end": "3252420",
+        "speakers": "\"09\"",
+        "text": "Lá na Amazon."
+    },
+    {
+        "id": 912,
+        "start": "3252620",
+        "end": "3254220",
+        "speakers": "\"09\"",
+        "text": "Esse episódio teve a visão do Caio Lourenço."
+    },
+    {
+        "id": 913,
+        "start": "3254420",
+        "end": "3255820",
+        "speakers": "\"09\"",
+        "text": "Agradeço demais o Caio."
+    },
+    {
+        "id": 914,
+        "start": "3256020",
+        "end": "3257420",
+        "speakers": "\"09\"",
+        "text": "Esse amigo incrível."
+    },
+    {
+        "id": 915,
+        "start": "3257620",
+        "end": "3258820",
+        "speakers": "\"09\"",
+        "text": "Que o RPG Guaxa me trouxe."
+    },
+    {
+        "id": 916,
+        "start": "3259020",
+        "end": "3260420",
+        "speakers": "\"09\"",
+        "text": "E quem é padrinho."
+    },
+    {
+        "id": 917,
+        "start": "3260620",
+        "end": "3262420",
+        "speakers": "\"09\"",
+        "text": "Além de participar daquele monte de grupo bacana."
+    },
+    {
+        "id": 918,
+        "start": "3262620",
+        "end": "3263220",
+        "speakers": "\"09\"",
+        "text": "Que eu falei para vocês."
+    },
+    {
+        "id": 919,
+        "start": "3263420",
+        "end": "3265020",
+        "speakers": "\"09\"",
+        "text": "Também faz voz de NPC."
+    },
+    {
+        "id": 920,
+        "start": "3265220",
+        "end": "3267020",
+        "speakers": "\"09\"",
+        "text": "Esse episódio teve poucos NPCs."
+    },
+    {
+        "id": 921,
+        "start": "3267220",
+        "end": "3269420",
+        "speakers": "\"09\"",
+        "text": "O próprio vilão foi feito pelo Zorzal."
+    },
+    {
+        "id": 922,
+        "start": "3269620",
+        "end": "3271820",
+        "speakers": "\"09\"",
+        "text": "Talvez porque ele já tenha feito essa voz antes."
+    },
+    {
+        "id": 923,
+        "start": "3272020",
+        "end": "3273820",
+        "speakers": "\"09\"",
+        "text": "A bruxa que cuida da escola."
+    },
+    {
+        "id": 924,
+        "start": "3273820",
+        "end": "3275020",
+        "speakers": "\"09\"",
+        "text": "Foi feita pela Rebelbia."
+    },
+    {
+        "id": 925,
+        "start": "3275220",
+        "end": "3276820",
+        "speakers": "\"09\"",
+        "text": "E o anjo policial."
+    },
+    {
+        "id": 926,
+        "start": "3277020",
+        "end": "3278820",
+        "speakers": "\"09\"",
+        "text": "Foi feito pela Rafa Rangel."
+    },
+    {
+        "id": 927,
+        "start": "3279020",
+        "end": "3280620",
+        "speakers": "\"09\"",
+        "text": "Muito obrigado a quem deu voz para esse episódio."
+    },
+    {
+        "id": 928,
+        "start": "3280820",
+        "end": "3283420",
+        "speakers": "\"09\"",
+        "text": "Quero a voz de você no próximo episódio."
+    },
+    {
+        "id": 929,
+        "start": "3283620",
+        "end": "3285020",
+        "speakers": "\"09\"",
+        "text": "Quero você sendo padrinho."
+    },
+    {
+        "id": 930,
+        "start": "3285220",
+        "end": "3287220",
+        "speakers": "\"09\"",
+        "text": "Quero te dar oi lá no Telegram."
+    },
+    {
+        "id": 931,
+        "start": "3287420",
+        "end": "3289020",
+        "speakers": "\"09\"",
+        "text": "E principalmente."
+    },
+    {
+        "id": 932,
+        "start": "3289220",
+        "end": "3291220",
+        "speakers": "\"09\"",
+        "text": "Quero que você role 6, role 20."
+    },
+    {
+        "id": 933,
+        "start": "3291420",
+        "end": "3293420",
+        "speakers": "\"09\"",
+        "text": "Independente do sistema que você estiver jogando."
+    },
+    {
+        "id": 934,
+        "start": "3293620",
+        "end": "3294220",
+        "speakers": "\"09\"",
+        "text": "Se tudo é errado."
+    },
+    {
+        "id": 935,
+        "start": "3294420",
+        "end": "3295020",
+        "speakers": "\"09\"",
+        "text": "Rola no chão."
+    },
+    {
+        "id": 936,
+        "start": "3295220",
+        "end": "3296420",
+        "speakers": "\"09\"",
+        "text": "Que apaga o fogo e diverte."
+    },
+    {
+        "id": 937,
+        "start": "3296620",
+        "end": "3297820",
+        "speakers": "\"09\"",
+        "text": "Beijo no coração de vocês, gente."
+    },
+    {
+        "id": 938,
+        "start": "3303820",
+        "end": "3310820",
+        "speakers": "\"08\"",
+        "text": "Mais uma vez eu fui derrotado por aquela criança."
+    },
+    {
+        "id": 939,
+        "start": "3311020",
+        "end": "3314820",
+        "speakers": "\"08\"",
+        "text": "Preciso drenar seus poderes para voltar a minha antiga forma."
+    },
+    {
+        "id": 940,
+        "start": "3315020",
+        "end": "3317420",
+        "speakers": "\"08\"",
+        "text": "Foram milhares de anos para me regenerar."
+    },
+    {
+        "id": 941,
+        "start": "3317620",
+        "end": "3320620",
+        "speakers": "\"08\"",
+        "text": "A Ananda levou a maioria dos meus poderes."
+    },
+    {
+        "id": 942,
+        "start": "3320820",
+        "end": "3323820",
+        "speakers": "\"08\"",
+        "text": "Mas sei que posso me reerguer."
+    },
+    {
+        "id": 943,
+        "start": "3324020",
+        "end": "3326820",
+        "speakers": "\"08\"",
+        "text": "Como está a construção do robô gigante?"
+    },
+    {
+        "id": 944,
+        "start": "3327020",
+        "end": "3331620",
+        "speakers": "\"08, 07\"",
+        "text": "."
+    },
+    {
+        "id": 945,
+        "start": "3331620",
+        "end": "3333620",
+        "speakers": "\"08\"",
+        "text": "."
+    },
+    {
+        "id": 946,
+        "start": "3333820",
+        "end": "3337820",
+        "speakers": "\"08\"",
+        "text": "Semana que vem aquela creche será reduzida a pó."
+    },
+    {
+        "id": 947,
+        "start": "3338020",
+        "end": "3340620",
+        "speakers": "\"08\"",
+        "text": "Traga o artefato comunicador."
+    },
+    {
+        "id": 948,
+        "start": "3340820",
+        "end": "3346620",
+        "speakers": "\"08\"",
+        "text": "Ativem-no."
+    },
+    {
+        "id": 949,
+        "start": "3346820",
+        "end": "3348220",
+        "speakers": "\"08\"",
+        "text": "É o ícone verde ali."
+    },
+    {
+        "id": 950,
+        "start": "3348420",
+        "end": "3350420",
+        "speakers": "\"08\"",
+        "text": "Isso."
+    },
+    {
+        "id": 951,
+        "start": "3350620",
+        "end": "3352820",
+        "speakers": "\"08\"",
+        "text": "Escreve aí para mim."
+    },
+    {
+        "id": 952,
+        "start": "3353020",
+        "end": "3354620",
+        "speakers": "\"08\"",
+        "text": "Olá, minha querida."
+    },
+    {
+        "id": 953,
+        "start": "3354820",
+        "end": "3356020",
+        "speakers": "\"08\"",
+        "text": "Como você está?"
+    },
+    {
+        "id": 954,
+        "start": "3356220",
+        "end": "3359020",
+        "speakers": "\"08\"",
+        "text": "Como foram seus primeiros dias na escola nova?"
+    },
+    {
+        "id": 955,
+        "start": "3359220",
+        "end": "3360620",
+        "speakers": "\"08\"",
+        "text": "Estou com saudades."
+    },
+    {
+        "id": 956,
+        "start": "3360820",
+        "end": "3361420",
+        "speakers": "\"08\"",
+        "text": "Beijo, papai."
+    },
+    {
+        "id": 957,
+        "start": "3361620",
+        "end": "3364620",
+        "speakers": "\"08\"",
+        "text": "Agora manda a figurinha do morcego."
+    },
+    {
+        "id": 958,
+        "start": "3364820",
+        "end": "3367620",
+        "speakers": "\"08\"",
+        "text": "Aquela que o filho faz assim, com o coração com a mão."
+    },
+    {
+        "id": 959,
+        "start": "3367820",
+        "end": "3368620",
+        "speakers": "\"08\"",
+        "text": "Isso."
+    },
+    {
+        "id": 960,
+        "start": "3368820",
+        "end": "3370620",
+        "speakers": "\"08\"",
+        "text": "Muito obrigado."
+    },
+    {
+        "id": 961,
+        "start": "3370820",
+        "end": "3373620",
+        "speakers": "\"08, 07\"",
+        "text": "."
+    },
+    {
+        "id": 962,
+        "start": "3373820",
+        "end": "3378620",
+        "speakers": "\"unknown\"",
+        "text": "."
+    },
+    {
+        "id": 963,
+        "start": "3378820",
+        "end": "3383620",
+        "speakers": "\"unknown\"",
+        "text": "."
+    },
+    {
+        "id": 964,
+        "start": "3383820",
+        "end": "3388620",
+        "speakers": "\"unknown\"",
+        "text": "."
+    }
+]

@@ -1,0 +1,3665 @@
+0 800 (03) Estamos prontos?
+1160 1980 (15) Estamos sim!
+2440 4780 (15) Ah, você prefere mestre ou narrador?
+4980 6660 (03) Na verdade, eu prefiro guache.
+8880 12040 (03) Olá, eu sou o Marcelo Guaxinim e quero convidar você a ir lá em
+12040 17880 (03) premio.mpb.com.br e votar no RP Guaxa na categoria Ficção e Fantasia.
+18140 23620 (03) Você pode votar todo dia, mas um votinho já ajuda, mas se for todo dia é melhor ainda.
+23820 26600 (03) Muito obrigado, convido você a seguir nas redes sociais, é o Marcelo Guaxinim, arroba
+26600 28020 (07, 03) RP Guaxa.
+28020 34760 (07) Jean Macedo, e você me encontra como MacedoJG7 em todas as redes sociais e na taberna do Guaxinim.
+35000 39860 (06) Caio Lourencio, e vocês me encontram também nas redes sociais como Caio Lourencio e na
+39860 41740 (06) taberna ali, conversando fiado.
+41880 47680 (14) Rafaela Rangel, vocês me encontram em todas as redes sociais como arroba Rafita Chan e
+47680 48860 (14) na taberna do Guaxinim.
+49520 54260 (10) O Realidades Paralelas do Guaxinim usa o sistema Guaxinins e Gambiarras.
+54260 58000 (10) Nele, cada jogador possui apenas um único atributo.
+58020 60080 (10) Que vai de 2 a 5.
+60740 64280 (10) Quanto maior o atributo, mais atlético é o personagem.
+64960 67960 (10) Quanto menor, mais inteligente e carismático.
+68380 72780 (10) Sempre que o jogador faz algo com uma chance de errar, joga dois dados.
+73320 78080 (10) E precisa tirar seu atributo ou menos para ataques e ações físicas.
+78300 82760 (10) E seu atributo ou mais para ações intelectuais ou sociais.
+82760 86720 (10) Se a jogada for fácil, ou tiver algum tipo de auxílio,
+86720 88720 (10) joga um dado a mais.
+88720 92320 (10) Se a jogada for difícil, rola-se um dado a menos.
+92320 98740 (10) Eu sou o Bruno Ishimoto e eu sou padrinho do RP Guaxa, porque eu sou apaixonado por cada
+98740 101840 (10) história que o Guaxa cria e conta.
+101840 107120 (10) Além disso, o RP Guaxa fez eu e a minha esposa voltarmos a jogar RPG.
+107120 112560 (10) Se ele fez e faz tanto por mim, o mínimo que eu podia fazer era entrar para o bando
+112560 113560 (10) do Panda do Lixo.
+113560 116480 (10) E você que está ouvindo isso?
+116480 118480 (10) Quer fazer parte dessa família também?
+118480 125240 (03) O episódio de hoje não é uma continuação do episódio anterior, mas ele se passa nas
+125240 131060 (03) imediações e talvez em alguns temas sensíveis do episódio anterior ele vá até um pouco
+131060 132320 (03) mais fundo.
+132320 139480 (03) Por isso, este episódio é recomendado para maiores de 16 anos e ele trata de temas sensíveis.
+139480 142440 (03) Episódio de hoje Açúcar, Sangue e Madeira
+146480 159780 (03) Embora longe da capital, a pequena cidade de Sombra a Corda é rica, pois produz beterrabas
+159780 165020 (03) e seus nobres alquimistas guardam a fórmula para o inestimável açúcar, iguaria amada
+165020 168700 (03) em todo o continente, que traz grande riqueza à região.
+168700 173120 (03) Ao redor da cidade, existem algumas vilas floresta adentro, que extraem madeira e caça
+173120 175480 (03) para abastecer Sombra a Corda.
+175480 179340 (03) Mas a maioria dos moradores da região está dentro da segurança de seus muros, com os
+179340 184620 (03) mais ricos habitando seu centro, cercados pelas plantações e com os trabalhadores
+184620 186600 (03) exprimidos entre o muro e o cultivo.
+186600 192240 (03) A cidade é tranquila, mesmo na área mais pobre, com uma criminalidade baixa, a punição
+192240 198600 (03) mais comum na região é enviar os encrenqueiros e os endividados para as vilas além dos muros,
+198600 205400 (03) um local de pessoas supersticiosas e atrasadas, segundo os moradores de Sombra a Corda.
+205400 211460 (03) Na aventura de hoje, vamos conhecer a responsável pelo portão oeste dessa muralha, que leva
+211460 216580 (03) para a floresta, onde fica também uma grande quantidade de trabalhadores.
+216740 224040 (03) A responsável local e seus auxiliares cuidam das leis daquela região, embora, como falei,
+224040 228020 (03) não costuma ter grandes problemas, ao menos até hoje.
+228180 232860 (03) Então, vamos começar conhecendo o personagem do Jean, fala sobre seu personagem, aparência
+232860 233440 (03) e atributos.
+233560 235380 (07, 03) Eu vou jogar hoje com o Azad.
+235400 241020 (07) O Azad, ele é um caçador meio ladino, uma mistura de Robin Hood com um Aladdin.
+241380 243260 (07) Ele nem é dessa região, pra falar a verdade.
+243440 247380 (07) Talvez ele tenha saído de uma outra aventura problemática, com outro grupo, em um lugar
+247380 252000 (07) muito distante, mas ele acabou se embrenhando por aqui em Sombra a Corda pra descansar e
+252000 253360 (07) retomar as forças, né?
+253680 258400 (07) Numa bela noite, ele planejava roubar umas beterrabas ali e acabou esbarrando com uma
+258400 261180 (07) tentativa de sequestro do filho de alguém importante.
+261180 264000 (07) Por instinto, ele acabou salvando o garoto.
+264460 265300 (07) E assim ele ganhou.
+265400 267180 (07) Da sua mãe rica, um pouco de gratidão.
+267580 271700 (07) Mas só um pouquinho, porque gente rica não se porta com gente pobre, né?
+271820 274760 (07) E junto, a recomendação pra fazer parte da patrulha da xerife.
+275000 278460 (07) Já que ele tava precisando de um dinheirinho mesmo, ele decidiu aceitar o trabalho.
+278660 280340 (07) Até a hora que ele decidiu vazar dali.
+280720 286080 (07) O Azad é um homem por volta dos 25 anos, de pele oliva bronzeada, olhos verde musgo
+286080 288980 (07) e cabelos pretos na altura dos ombros, presos pra trás.
+289140 294460 (07) Ele veste comumente mantos de cor verde e roupas escuras leves, que favorecem o jeito
+294460 295380 (07) ágil e furtivo.
+295400 299360 (07) Ele possui uma excepcional pontaria, sendo um ótimo arqueiro.
+299900 302760 (07) E ele não conhece muito da região, mas ele aprende rápido.
+303140 304540 (07) É um sobrevivente versátil.
+304920 306440 (07) E o atributo dele é 4.
+306740 307200 (03, 07) Perfeito.
+307580 309820 (03) Caio, fala sobre esse personagem, aparência e atributo.
+310000 310720 (06) Olá novamente.
+311160 312440 (06) Hoje eu vou jogar com o Dimitri.
+312660 316300 (06) O Dimitri é um jovem em torno dos 20 anos, magro, pequenino.
+316600 321340 (06) Ele tem uma pele morena e um cabelo preto, bem encaracolado e completamente indomável.
+321620 324800 (06) O Dimitri é visto como um garoto excêntrico e problemático.
+324800 325380 (06) Desde que ele foi um jovem, ele é visto como um garoto excêntrico e problemático.
+325400 328320 (06) Desde que ele era criança, ele mostrava o interesse por livros e inventos.
+328500 331060 (06) Ninguém sabe como e quando ele aprendeu a ler.
+331600 335160 (06) Mas desde que a população de Sombra Corda se lembra, o Dimitri sempre está inventando
+335160 338260 (06) alguma coisa, criando teorias ou dando pitacos em ser chamado.
+338560 343480 (06) Depois de algumas explosões e vários acidentes, o povo de Sombra Corda já estava cansado
+343480 347240 (06) das confusões do Dimitri e pedindo para que a xerife desse um jeito nele de uma vez por
+347240 347580 (06) todas.
+347940 351980 (06) A população esperava que ele enfim fosse banido da cidade, mas por algum motivo, para
+351980 354920 (06) surpresa de todos, a xerife decidiu transformá-lo em seu auxiliar.
+355160 355380 (06) Agora, o Dimitri é um jovem que não sabe o que fazer.
+355380 360300 (06) Agora, trajando seu estranho casaco com bolsos e mais bolsos, cheio de parafernália,
+360460 365400 (06) a energia destrutiva do Dimitri tem sido canalizada em favor da população de Sombra Corda, ao
+365400 366700 (06) menos a maior parte das vezes.
+367020 368140 (06) E o atributo dele é o 3.
+368460 368940 (03) Perfeito.
+369520 372280 (03) E Rafa, fala sobre seu personagem, aparência e atributo.
+372540 378640 (14) Hoje eu vou jogar com a Joana Manuela Guilhermina Castanhari Gabriela Constantina Vasconcelos
+378640 383820 (14) de Carvalho Albuquerque e Teslone, ou simplesmente Madame Joana Teslone.
+383820 385140 (14) Ela é uma mulher alta.
+385140 385880 (14) É imponente.
+385980 389540 (14) Tem a pele clara, os cabelos longos, lisos e escuros.
+389940 392400 (14) Os olhos também escuros e lábios cheios.
+392920 397720 (14) Ela é uma mulher bela, com um rosto com linhas suaves, mas está sempre cisuda.
+398080 401160 (14) Nasceu na nobreza e não sabe como é a vida fora dela.
+401460 404840 (14) Sempre pede para os seus subalternos fazerem tudo o que ela precisar.
+405020 409540 (14) É uma pessoa que está sempre atenta às leis e quer que tudo esteja correto o tempo inteiro.
+410180 413400 (14) Sabe de cor todas as leis do nosso reino Sombra Corda.
+413400 415000 (14) Faz as rondas pelo reino.
+415140 421720 (14) Faz as rondas pelo portão oeste e precisou aceitar entre seus subalternos Dimitri para evitar maiores problemas na cidade.
+422200 423860 (14) Bom, o garoto parece que tem potencial.
+424100 427320 (14) E recentemente também teve que acrescentar o garoto Azat.
+427500 430640 (14) Mas esse só entrou pois estava devendo um favor para uma outra nobre.
+431160 434300 (14) Melhor assim, esse menino não parece que está indo pelo caminho da lei.
+434660 436640 (14) Então acho que consigo colocar ele no lugar certo.
+436840 438160 (14) Seu atributo é 2.
+445140 463260 (03) A estrutura que funciona de sede ali para o xerife, além de tribunal e prisão, além de ter quartos para vocês, caso vocês decidam dormir por ali.
+463260 473880 (03) É uma estrutura feita de pedra, coberta com um telhado de palha, embora tenha bastante madeira entre um espaço e outro para não ser possível fugir por ali.
+474260 475120 (03) É modesta, mas é perfeita.
+475140 476760 (03) É bem robusta assim as paredes.
+477280 479280 (03) Demonstra a importância da função.
+479500 480620 (03) As paredes são bem grossas.
+481060 484080 (03) Projetada para resistir ataques e interpéries.
+484480 486440 (03) Não é que ela é encostada do muro.
+486820 489580 (03) Uma das paredes dessa estrutura é muro.
+489940 494100 (03) Foi construído colado nele ali, ao lado do portão.
+494480 495820 (03) Que normalmente está fechado.
+496240 501060 (03) Saindo por ali tu vai para a floresta, tem algumas trilhas, alguns caminhos para algumas vilas.
+501300 504860 (03) Mas eles costumam vir uma vez por mês, uma vez a cada dois meses.
+505140 507640 (03) Não é um caminho muito usado.
+507640 512200 (03) A cidade no entorno ali é formada por uma estrada de terra batida.
+512680 516740 (03) Acaba sendo circular, como eu falei, o muro fica em volta dessa cidade.
+516860 522260 (03) O centro fica com os nobres, plantação e vocês estão mais para o canto desse muro ali.
+522600 524980 (03) Tem pequenas estalagens, oficinas de artesões.
+525120 533700 (03) A praça central da região é visível ao longe, pela porta da estrutura que vocês usam ali de sede.
+533700 537820 (03) Lá dá para ver uma fonte de pedra, jorrando água cristalina.
+538280 544700 (03) Cercada normalmente durante o dia por barracas de mercado coloridas, vendendo frutas, utensílios.
+545500 547720 (03) As casas são construídas principalmente de madeira e pedra.
+547880 551360 (03) Tem telhados inclinados, coberto de palha também, ou telhas de barro.
+551600 555600 (03) As fachadas das construções são decoradas com flores em janelas e varandas.
+555920 559200 (03) Trazendo um pouco de cor para aquela região de pedra cinzenta.
+559200 561380 (03) As ruas são estreitas, sinuosas.
+561380 566880 (03) Todos os moradores viajando esse movimento, carregando cestas de mercadoria, conversando, rindo.
+566880 571880 (03) As crianças correm, brincam, enquanto cães vagam em busca de comida.
+571880 579880 (03) O som de martelos e bigornas ressoa em uma ferraria próxima de onde vocês estão ali.
+579880 585880 (03) O ferreiro costuma trabalhar incansavelmente, moldando ferramentas e ferraduras.
+585880 590880 (03) É manhã e vocês estão ali nessa estrutura, na sede.
+591380 594880 (03) O que cada um está fazendo?
+594880 599880 (07) O Azad pode estar sentado em algum lugar.
+599880 605880 (07) Talvez até dentro da parte onde ficam as jaulas ou prisões da galera que fica presa.
+605880 608880 (07) Não sei se tem muitos prisioneiros, mas ele está por ali.
+608880 610880 (07) Nenhum, no momento nenhum.
+610880 612880 (11, 07) Normalmente não tem nenhum.
+612880 616880 (07) Perfeito, então isso faz mais sentido ainda porque ele está completamente entediado.
+616880 618880 (07) Com os pés em cima da mesa.
+618880 620880 (07) E aí ele dá uma olhada para os lados assim.
+620880 623880 (07) E ele puxa uma cenoura ou qualquer coisa assim.
+623880 625880 (07) Que ele não deveria ter ali na hora.
+625880 627880 (07) E ele começa a comer.
+627880 628880 (07) E dá um suspiro.
+628880 630880 (06, 07) Nossa, isso aqui está parado demais.
+630880 635380 (06) Na hora que você dá um suspiro, você escuta alguma coisa caindo.
+635380 637380 (06) Vindo de alguma das celas ali.
+637380 639380 (06) Porque é o Dimitri.
+639380 642380 (06) Ele costuma fazer isso quase sempre.
+642380 644380 (06) Ele coloca uma toalha no chão.
+644380 646380 (06) Pega uma das celas que está vazia.
+646380 650380 (06) E começa a anotar, misturar elementos.
+650880 653880 (06) Fazer como se fossem pequenas poções.
+653880 655880 (06) E ele está ali.
+655880 658880 (06) Etiquetando alguns tubos.
+658880 660880 (06) Ah, isso aqui é alegria.
+660880 662880 (06) E ele vai e escreve.
+662880 664880 (06) Isso aqui é paixão.
+664880 665880 (06) E escreve.
+665880 667880 (06) E de repente ele vai guardando tudo nos bolsos assim.
+667880 669880 (06) E já vai terminando de arrumar.
+669880 672880 (06, 07) Pelo azar de ovo, a pecinha cai e ele...
+672880 674880 (07) Dimitri!
+674880 676880 (07) Vê se não explode nada dessa vez, tá?
+676880 679880 (07) É para a gente manter quem for preso aqui.
+679880 681380 (07) Para ajudar na fuga.
+681380 682380 (06, 07) E destruir a cela.
+682380 683880 (06) Ih, preocupa não, Azê.
+683880 684880 (06) Eu já...
+684880 686880 (06) Está tudo sob controle.
+686880 689880 (06) Ele pega assim, quase deixa cair um.
+689880 691880 (06, 11) Está tudo sob controle, como eu disse.
+691880 692880 (11) Ai, ai.
+692880 694880 (06, 14) Ele volta a conhecer.
+694880 700880 (14) A Joana, ela já terminou de conferir todos os papéis de novo.
+700880 704880 (14) Porque ela gosta de olhar novamente todos os formulários.
+704880 708880 (14) E todas as papeladas burocráticas que ela precisa.
+708880 711880 (14) E aí ela está chegando perto do...
+711880 713880 (14) De onde os meninos estão.
+713880 714880 (14) Dali das celas.
+714880 716880 (14, 07) Eu tiro o pé da mesa quando ela chega.
+716880 719880 (14) Azad, já te falei que não pode colocar o pé na mesa.
+719880 721880 (14) Já vi você aí colocando esse pé aí.
+721880 722880 (14) Está fora.
+722880 726880 (14) Você já está violando a lei 32 de novo.
+726880 728880 (07) Opa, desculpa, chefa.
+728880 729880 (07) Você.
+729880 730880 (07) Uma coruja, hein.
+730880 731880 (14, 07) Sempre a tempo.
+731880 732880 (14) Onde está o Dimitri?
+732880 733880 (14) Ele está...
+733880 735880 (06, 14, 07) Vou esperar ele fazer um barulho.
+735880 736880 (06) O Dimitri...
+736880 737880 (06) Nick...
+737880 739880 (06) Coloca as coisas assim de qualquer jeito.
+739880 740880 (06) Enrola a toalha.
+740880 742880 (06) Coloca dentro do casaco que ele usa.
+742880 744880 (06) E ele coloca a cabecinha para fora da cela assim.
+744880 746880 (06) Eu estou aqui, dona Joana.
+746880 747880 (06, 14) Bom.
+747880 749880 (14) Então, já que estamos aqui.
+749880 752880 (14) Vamos fazer a nossa ronda agora da manhã.
+752880 753880 (14, 07) Ah, finalmente.
+753880 755880 (07) Um pouquinho de ração.
+755880 756880 (03) Vamos, vamos, vamos.
+756880 757880 (03) Por favor.
+757880 760880 (03) Os três vão sair juntos ali da estrutura?
+760880 761880 (14, 03) Acho que sim, né?
+761880 762880 (14, 03) Não tem ninguém mesmo.
+762880 764880 (14) Vou colocar...
+764880 766880 (14) Chamar os dois para ficar perto de mim.
+766880 773880 (14, 03) Não, ao sair ali da estrutura, tu já vê uma carruagem assim muito bem ornamentada.
+773880 776880 (03) Aquela carruagem que é fechada, né?
+776880 779880 (03) Que só os nobres com muito dinheiro costumam usar ali.
+779880 783880 (03) Fechado por dois cavalos assim de primeira linha.
+783880 787880 (03) Essa carruagem está vindo em direção à estrutura de vocês, né?
+787880 788880 (03) Ela para.
+788880 792880 (03) O cocheiro ali que estava conduzindo, ele desce rapidamente.
+792880 794880 (03) Ele abre a porta.
+794880 797880 (03) E desta porta sai um nobre.
+797880 800880 (03) Talvez a Joana vá se lembrar dele.
+800880 802880 (14, 03) Dois dados.
+802880 804880 (14, 03) Tirei cinco e dois.
+804880 805880 (03) Sendo dois o meu tributo.
+805880 806880 (03) Perfeito.
+806880 808880 (03) Tu reconhece ele, né?
+808880 812880 (03) Leofric Sugar tem alguns nomes no meio.
+812880 815880 (03) Mas o primeiro e último nome pelo menos tu lembra.
+815880 817880 (03) Ele é um nobre já de meia idade.
+817880 819880 (03) Ele tem 1,80m de altura.
+819880 822880 (03) Ele tem uma postura até imponente.
+822880 825880 (03) Ele está levemente acima do peso ali.
+825880 830880 (03) O que, pelos padrões dos nobres da região homens, né?
+830880 832880 (03) Ele até que não está tão mal assim.
+832880 837880 (03) Ele tem cabelos castanhos meio salpicados no grisalho já agora.
+837880 840880 (03) Tu viu ele algumas vezes quando era mais jovem.
+840880 843880 (03) E vivia mais na área central junto com os nobres, né?
+843880 845880 (03) Tu tirou um crítico.
+845880 848880 (03) Tu sabe que ele é casado com uma prima de segundo grau tua.
+848880 850880 (03) Que tu nunca teve muito contato, né?
+850880 855880 (03) Ele faz um broche assim de ouro, de uma beterraba no peito.
+855880 857880 (03) É uma das famílias principais ali.
+857880 859880 (03) Uma das famílias mais ricas.
+859880 862880 (03) Ele sai e abre um sorriso assim pra ti.
+862880 863880 (02, 03) E fala...
+863880 866880 (02) Que bom ver uma flor no meio dessas pedras cinzentas.
+866880 868880 (02) Olá, senhora Joana. Como está?
+868880 871880 (14, 02) Ah, que bom vê-lo, senhor Leofric.
+871880 873880 (14) É bom vê-lo.
+873880 877880 (14) Vê um parente tão querido por perto.
+877880 879880 (14) O que o senhor está fazendo por aqui?
+879880 884880 (14, 02) Nessas partes tão cinzentas da cidade.
+884880 885880 (02) É verdade.
+885880 887880 (02) Não costumo vir para essas bandas.
+887880 890880 (02) Mas tive um problema relacionado aos seus.
+890880 893880 (02) E achei conveniente trazê-lo até você.
+893880 897880 (02) Mas antes de falar de trabalho, sei que a senhorita ainda está solteira.
+897880 900880 (02) Se precisar de ajuda para encontrar marido, estarei à disposição.
+900880 904880 (02) Embora a maior parte dos nobres solteiros seja muito nova ou muito velha para você.
+904880 907880 (02) Acredito que podemos chegar a um bom casamento.
+907880 910880 (02) Talvez arrumar algo mais simples para a senhora se ocupar.
+910880 913880 (02) Algo que combine com a sua beleza.
+913880 914880 (14, 02) Ah, eu agradeço.
+914880 922880 (14) Realmente faz parte das leis que as senhoras tenham seu companheiro.
+922880 924880 (14) Faz parte da sua missão.
+924880 925880 (14) Mas...
+925880 931880 (14) No momento ainda não encontrei ninguém que chegue à minha altura.
+931880 933880 (14, 02) Entendo, entendo.
+933880 935880 (02) Prometo ficar de olho entre as casas nobres.
+935880 939880 (02) E se eu achar algo que combine ou se a própria senhorita encontrar alguém...
+939880 941880 (02) Estou inteiramente à sua disposição.
+941880 943880 (02) Sou seu criado.
+943880 944880 (02, 03) Falando em criado...
+944880 947880 (03) Ele faz o sinal para o cocheiro dele.
+947880 952880 (03) O cocheiro dá uma moeda de ouro para o Dimitri e uma para o Azad.
+952880 954880 (07) Eu pego e mordo.
+954880 955880 (03, 07) Obrigado.
+955880 957880 (02, 03) Uh, brilhante!
+957880 961880 (02) Isso é para vocês comerem uma refeição quente no fim do dia, garotos.
+961880 964880 (02) E claro, para se lembrarem do seu amigo Leófric.
+964880 965880 (02) Claro.
+965880 966880 (07, 02) É.
+966880 970880 (07) Muito obrigado, senhor vossa excelência nobreza.
+970880 971880 (07) Obrigado.
+971880 972880 (02) Somos amigos.
+972880 974880 (02) Amigos de Joana são meus amigos.
+974880 978880 (02) Agora, vou trazer meu pequeno probleminha até vocês.
+978880 980880 (02) Mas tenho certeza que vão poder me ajudar.
+980880 982880 (03, 02) Ele faz outro sinal para o cocheiro.
+982880 989880 (03) O cocheiro tira um homem já praticamente morto de dentro da carruagem, né?
+989880 991880 (03) Joga no chão ali.
+991880 993880 (02, 03) Este homem mora por aqui.
+993880 997880 (02) Ele costumava vir uma vez por semana olhar meus cavalos.
+997880 1000880 (02) Por algum motivo, ele tentou me matar.
+1000880 1002880 (02) Tive que me defender.
+1002880 1005880 (02) Imagino que ele possa ser exilado.
+1005880 1007880 (02) Não sei exatamente como trabalham aqui.
+1007880 1011880 (02) Mas sei que você, Lady Joana, saberá o que fazer.
+1011880 1013880 (02) Tenha um ótimo dia.
+1018880 1022880 (07) Enquanto ele está indo embora e a Joana estava ali ouvindo, eu dou uma cutucada no Dimitri assim.
+1022880 1025880 (07) Eu falo assim, sussurrando, né?
+1025880 1027880 (07) É, funcionário do IMSS.
+1027880 1029880 (07) Está concorrido, hein?
+1029880 1031880 (07) Dá uma despinta aí pelo coração da chefa.
+1031880 1033880 (07) Primeiro você mostrar serviço.
+1033880 1035880 (06, 07) E ele dá um sorrisinho safado.
+1035880 1036880 (06, 07) Eu?
+1036880 1038880 (06, 07) Mas eu nem sou da altura dela.
+1038880 1039880 (06) Eu sou mais baixo.
+1039880 1040880 (06, 07) Você que é da altura dela.
+1040880 1041880 (06, 07) Você não viu o que ele falou?
+1041880 1043880 (07) Sério, tu acha mesmo?
+1043880 1045880 (07) Essa galera rica fala só para se gabar.
+1045880 1047880 (07) Eles não gostam de ninguém.
+1047880 1049880 (07) Na vida eles só gostam da chefa.
+1049880 1050880 (07) Da gente, não.
+1050880 1051880 (07) É, eu também não gosto.
+1051880 1054880 (06, 07) Eu não gosto deles, então está tudo bem.
+1054880 1058880 (06, 11) Mas o Dimitri vai olhando para você e vai olhando para o cara.
+1058880 1062880 (06) Esse cara, a gente vai exilar ele, ele está vivo.
+1062880 1064880 (06, 07) E ele vai cutucar o cara.
+1064880 1065880 (06, 14, 07) Esse aí já passou do ponto.
+1065880 1072880 (14) Eu quero chegar perto dele, só olhando assim, sem querer encostar em nada.
+1072880 1080880 (14) É, se fez esse tipo de atitude, já violou pelo menos umas três leis aqui.
+1081880 1087880 (14) Então, o senhor, o senhor, meu primo Leofric, está na razão dele, né?
+1087880 1090880 (14) Então, não posso, não posso discordar dele, não.
+1090880 1092880 (14, 07) Aham, claro.
+1092880 1093880 (07) Com certeza.
+1093880 1095880 (14, 07) Ele fala isso bem sonso.
+1095880 1098880 (14) Diga lá, forasteiro, o que você estava fazendo aqui?
+1098880 1100880 (14) É daqui mesmo que você mora?
+1100880 1103880 (14) Está vivo ainda, o coleguinha?
+1103880 1105880 (14, 03) Dois dados, Joana.
+1105880 1109880 (14) Tirei cinco e dois, sendo dois o meu atributo.
+1109880 1110880 (14, 03) Um acerto simples, um acerto crítico.
+1110880 1115880 (03) Esse cara tem muitos ferimentos, muitos, muitos ferimentos mesmo.
+1115880 1118880 (03) Ele não deveria estar vivo, mas está respirando.
+1118880 1122880 (03) Com dificuldade, embora ele esteja desmaiado.
+1122880 1123880 (03) Um acerto crítico.
+1123880 1131880 (03) Ele quase não tem sangue na roupa, ou ali, esse corpo foi lavado antes de ser trazido para cá.
+1131880 1132880 (03) Entendi.
+1132880 1138880 (03) Ou algo assim, tem muito buraco e pouco sangue nesse corpo aí, jogado.
+1138880 1141880 (03) Nesse corpo aí, jogado no chão.
+1141880 1143880 (03) Dimitri, rola dois dados.
+1143880 1145880 (03) Seis e quatro.
+1145880 1150880 (03) Como tu veio das áreas mais pobres dali, esse cara realmente, ele está sempre com o ferreiro,
+1150880 1157880 (03) porque o ferreiro próximo de vocês ali, sempre vai pegar algumas pecinhas de ferro, alguma coisa que está planejando.
+1157880 1166880 (03) Volta e meia, estava lá com o ferreiro, e esse rapaz, ele estava lá em treinamento, era um aprendiz do ferreiro mais velho.
+1166880 1173880 (06, 03) Era um aprendiz do ferreiro mais velho ali da região, e sempre foi uma pessoa tranquila.
+1173880 1178880 (06, 14) Ih, dona Joana, esse moço, eu conheço ele, ele é aprendiz do ferreiro.
+1178880 1180880 (14) Hum, então ele é daqui mesmo.
+1180880 1187880 (06, 14) É, e assim, pelo menos comigo, e olha que não é bem comum isso, mas comigo ele era bem gentil.
+1187880 1190880 (06) Já até me deu uns pedaços de ferro, que eu já pedi.
+1190880 1192880 (06) Que estranho, hein?
+1192880 1195880 (06, 14) Esse seu parente aí, deve ser meio chato também.
+1195880 1202880 (14) Dmitry, você não pode falar mal da realeza, isso também fere uma outra lei, a lei 43.
+1202880 1207880 (14) Então não vai tentando se bancar o espertão, não.
+1207880 1211880 (14, 07) O Azad tenta salvar o Dmitry, desviando a atenção da chefa.
+1211880 1217880 (14, 07) E ele fala, chefa, você não acha que a gente devia levar ele lá para dentro para interrogar, ou deixar ele descansar para falar alguma coisa?
+1217880 1219880 (14) Mal está vivo o pobre coitado.
+1219880 1221880 (14, 07) Será que a gente consegue fazer alguma coisa com ele?
+1221880 1224880 (14, 07) Sei lá, né? O Azad dá uma olhada para o lado baixo.
+1224880 1228880 (07) Existem pessoas ali andando pela rua, observando essa cena aí da gente?
+1228880 1236880 (03, 07) Algumas pessoas estão ali, assim, ninguém tem coragem de se aproximar muito, mas acho, pelo contrário, né, as pessoas estão até desviando ali o caminho.
+1236880 1241880 (03) Já que é um primeiro avião nobre, né, e as pessoas costumam não se envolver com essas pessoas.
+1241880 1244880 (03) E segundo, agora, há um corpo ali nos pés de vocês, né?
+1244880 1250880 (07, 03) É, eu queria ver se as pessoas estão reagindo mal, ou se é comum isso aí, sabe?
+1250880 1252880 (07) Mas ok, pelo visto ninguém quer se meter.
+1252880 1255880 (07) É, mas dois dados então, vamos ver.
+1255880 1258880 (07, 03) Eu tirei 4 e 2, sendo 4 o meu atributo.
+1258880 1262880 (03) Com um acerto crítico vocês começam muito bem essa aventura.
+1262880 1264880 (03) As pessoas estão olhando assim, incrédulas.
+1264880 1269880 (03) Ninguém está, não é comum, né, ver algum morto na região.
+1269880 1275880 (03) Você vê que algumas pessoas reconhecem aquele homem caído ali, e essas são as mais assustadas, assim.
+1275880 1280880 (07, 03) Então, chefa, será que não é melhor a gente levar ele lá para dentro do que ficar aqui na rua?
+1280880 1281880 (14) É, tá bom.
+1282880 1287880 (14) Vocês dois, vamos? Carreguem esse corpo quase inanimado aí para dentro.
+1287880 1288880 (06, 14) Filhos.
+1288880 1289880 (06) Sim, senhor.
+1289880 1293880 (06) O Dmitry corre para o lado do ataque. Carregue ele com cuidado.
+1293880 1294880 (06) Talvez...
+1294880 1295880 (06) Tá.
+1295880 1301880 (06) A gente, né, sei lá, deve ter alguma lei também que, né, impede a gente de deixar a pessoa morrer.
+1301880 1302880 (06) É, de preferência.
+1302880 1303880 (06) É, sim.
+1303880 1307880 (06, 07) Espera aí, deixa eu pegar. Ai, eu pego no pé. Nossa, que cara pesado.
+1307880 1308880 (07) Não, ele é bem leve.
+1308880 1310880 (07) Ah, então ele é leve.
+1310880 1311880 (06, 11, 07) Até que ele é leve.
+1312880 1319880 (06, 11, 03) Eu acho que ele tá leve porque perdeu muito sangue, não?
+1319880 1322880 (06) Pode ser. Ele tá pálido, né? Me surpreende que ele tá vivo ainda.
+1322880 1327880 (06, 03) Vocês vão colocar ele numa cela? Vão trancar essa cela? Vão botar ele numa cama? O que vocês pretendem?
+1327880 1329880 (14, 03) Vai ter cama nas celas, né?
+1329880 1330880 (14, 03) Sim.
+1330880 1333880 (14, 03) Vamos colocar ele numa cama dentro de uma cela?
+1333880 1337880 (14, 07) Isso. Eu não sei se... Ele tá... Ele tá desacordado, né, que você falou.
+1337880 1338880 (07) Desacordado.
+1338880 1340880 (07) Não dá nem para dar uma água, nem nada assim.
+1340880 1344880 (07) O Lazare tenta mexer nele para ver se ele reage ou ele acorda. Ele reage?
+1344880 1345880 (07) Não.
+1345880 1351880 (07) Pelo visto, pessoal, acho que a gente vai ter que esperar ele recobrar um pouco das energias, talvez.
+1351880 1356880 (07) Aliás, será que era bom a gente chamar um curandeiro aqui para dar uma olhada nessas feridas?
+1356880 1365880 (06, 07) Ah, assim, se você quiser eu posso dar uma olhada. Eu já me machuquei muito, então eu acabei, né, cuidando de algumas coisas minhas, assim. Talvez serve para ele também.
+1365880 1367880 (06) Por favor. Ele sai e faz um gesto.
+1367880 1368880 (06) Deixa eu ver aqui onde é que eu deixei, onde é que eu deixei.
+1368880 1373880 (06) Ele vai procurando assim, ver se ele acha alguma coisa.
+1373880 1375880 (06) Ah, eu acho que isso aqui deve servir.
+1375880 1383880 (06) E ele vai tentar, tipo, passar algum, tipo, a erva, alguma coisa assim na pele do cara, alguma coisa que tenha um cheiro para ver se ele desperta, pelo menos.
+1383880 1384880 (06) Dois dados.
+1384880 1387880 (06, 03) Cinco e dois.
+1387880 1397880 (03) Um acerto simples. Passa ali alguma coisa nos ferimentos. Tu nota que, apesar de muitos ferimentos e da ausência de sangue,
+1397880 1406880 (03) ele não está, assim, os feridos não estão inflamando ou, assim, se tu apertar, não estão jorrando sangue.
+1406880 1414880 (03) Tem uma aparência de estar muito ferido, embora tu sinta ali que ele não está, assim, tão mal.
+1414880 1418880 (06, 03) Tu acha que daqui a pouco ele vai até acordar.
+1418880 1425880 (06) Eu olho para a Joana, né, que é a chefe. Ô, ô, ô, dona Joana.
+1425880 1426880 (06) Sei lá, hein.
+1426880 1430880 (06) Ele parece que está muito mal, mas ele também não parece que está tão mal, assim.
+1430880 1434880 (06) É estranho, porque o instante de machucada era para ele estar pior.
+1434880 1436880 (06) Mas eu acho que ele vai acordar daqui a pouco.
+1436880 1442880 (06, 14) Bom, se ele vai acordar, a gente pode esperar para poder fazer o interrogatório.
+1442880 1450880 (14) Já que ele, aparentemente, foi contra as nossas leis, então, vai ser um prisioneiro também.
+1450880 1455880 (14, 07) É, se eu puder sugerir, dona Joana, a gente deixa ele aí trancado.
+1455880 1457880 (07) Ele não vai se mexer mesmo daí mesmo.
+1457880 1459880 (07) Ninguém vai entrar na cela.
+1459880 1463880 (07) E a gente podia ir dar uma olhada no ferreiro, não é isso, Dmitry?
+1463880 1465880 (07) É lá onde você disse que ele trabalhava, né?
+1465880 1468880 (06, 07) É, é. Eu já vi ele lá no ferreiro.
+1468880 1470880 (06) Talvez o ferreiro pode explicar um pouco mais.
+1470880 1472880 (06) Tem que investigar essas coisas, não é, dona Joana?
+1472880 1476880 (06, 14) Muito bem, garotos. Vocês estão aprendendo direitinho.
+1476880 1478880 (14) Esse é o procedimento correto.
+1478880 1484880 (14) Deixar o prisioneiro fechado na cela e vamos investigar o que está acontecendo.
+1484880 1485880 (14, 07) Ok.
+1485880 1487880 (07) Vê se é bom andar um pouquinho também.
+1487880 1489880 (07) Ele já vai pegando as coisas dele para se arrumar.
+1489880 1491880 (14, 07) Então, vamos, vamos, vamos.
+1491880 1493880 (14) Deixa ele aqui descansando.
+1493880 1495880 (14) Vai ser bom ter um prisioneiro aqui.
+1495880 1497880 (14) Enquanto isso, a gente vai investigar.
+1497880 1499880 (07, 14, 03) Ok. Vocês vão até o ferreiro, é isso?
+1499880 1500880 (07) Isso.
+1500880 1503880 (07) Perguntar sobre o garoto, perguntar o que aconteceu.
+1503880 1507880 (03, 07) Como ele se comportava, se aconteceu alguma coisa estranha.
+1507880 1511880 (03) Havia algumas pessoas ali observando a sede de vocês, né?
+1511880 1513880 (03) Mas assim que vocês saem, eles dispersam rapidamente.
+1513880 1517880 (03) O caminho até o ferreiro não é tão distante, como eu falei.
+1517880 1521880 (03) Vocês escutam as marteladas dali, dependendo da hora do dia.
+1521880 1523880 (03) E você chega até o ferreiro e ele está lá.
+1523880 1530880 (03) Ele está batendo numa bigorna, fazendo algumas ferraduras.
+1530880 1536880 (03) Ao avistar a xerife, ele faz sinal para uma aprendiz dele.
+1536880 1539880 (03) A menina continua ali a bater.
+1539880 1542880 (03) Ele passa as mãos no avental que ele usa.
+1542880 1545880 (03) Ele já é um senhor de idade, assim.
+1545880 1548880 (03) Ele está sem camisa, mas usa um avental pesado ali.
+1548880 1551880 (03) Ele larga o martelo, se aproxima.
+1551880 1553880 (04, 03) Bom dia, xerife. Senhores.
+1553880 1556880 (04, 14, 03) Eu sei o nome dele, eu sei o nome dele, eu acho.
+1556880 1557880 (14) Theobald.
+1557880 1561880 (14) Seu Theobald. Como vai, senhor?
+1561880 1563880 (14) Vou bem, vou bem.
+1563880 1564880 (14) Que bom.
+1564880 1571880 (14) Estamos vindo aqui para falar com o senhor a respeito de um suposto aprendiz.
+1571880 1577880 (14) Que estava com o senhor e que atacou um nobre.
+1577880 1579880 (04, 14) Foi o Merrick, né?
+1579880 1582880 (04, 14) Ah, eu não sei o nome dele.
+1582880 1584880 (14) Foi trazido até mim.
+1584880 1587880 (14) Aparentemente ele atacou um nobre.
+1587880 1593880 (14) E acabou chegando até mim já depois desse acontecimento.
+1593880 1596880 (14, 03) Ele dá uma titubeada, assim.
+1596880 1599880 (04, 03) Hum? Atacou um nobre?
+1599880 1603880 (04) A senhora me poderia me desculpar se eu fosse um pouco sincera?
+1603880 1605880 (04) Por favor, seja.
+1605880 1610880 (04) Ele era um rapaz muito bom, ia casar, nunca fez mal a ninguém.
+1610880 1618880 (14) Bom, se ele nunca fez mal a ninguém, talvez aconteceu algo para ele ter feito algum mal para este nobre.
+1618880 1620880 (14) Ô, ô, seu primo estava mentindo, hein?
+1620880 1626880 (14) Dmitry, já falei que não pode falar mal da nobreza. Dmitry está na lei 43.
+1626880 1627880 (06, 14) Tá bom.
+1627880 1628880 (06) Foi mal da nobreza.
+1628880 1629880 (06) Foi mal, dona Joana.
+1629880 1632880 (06) Mas, né, vai que ele mente.
+1632880 1639880 (06, 07) Mas vai dar uma risadinha e ele vai dispersando, ele vai olhar pela forja enquanto a Joana está conversando com ele.
+1639880 1640880 (07) O teu balde com a Joana.
+1640880 1647880 (04, 07) O Merrick tinha acesso a uma espada que ele mesmo fez, mas ainda assim acho difícil.
+1647880 1657880 (04, 14) Bom, se ele nunca fez mal a ninguém, o senhor nunca viu ele fazendo algum tipo de comportamento estranho?
+1657880 1667880 (04, 14) Não, senhora. Ele está comigo há muitos anos. Um rapaz que aprende bastante, sempre gostou de construir coisas.
+1667880 1675880 (04) E estava feliz com o casamento. Sempre senti ele um pouco diferente. A senhora deve me entender, em bom sentido, sabe?
+1675880 1685880 (04, 14) É, agora ele está lá na cela, lá nas nossas celas. Ele ficou preso até descobrirmos o que realmente aconteceu.
+1685880 1686880 (14) E ele está vivo?
+1686880 1688880 (04, 14) Ele está vivo, então?
+1688880 1693880 (14) Ah, está, mas não muito.
+1693880 1701880 (04, 14) Eu não vi, mas a fofoca voa nas asas de um corvo. As pessoas disseram que ele tinha chegado morto.
+1701880 1704880 (14) Morto não está. Ele estava muito, muito ferido.
+1704880 1706880 (14) Fico contente.
+1706880 1714880 (14) Precisamos descobrir o que realmente aconteceu. Se ele realmente atacou o nobre, como foi que aconteceu.
+1714880 1715880 (14) E...
+1715880 1716880 (14) E...
+1716880 1717880 (14) O que o levou a fazer isso?
+1717880 1722880 (06, 14) Dona Joana, eu posso... Eu posso... Tem permissão para falar?
+1722880 1723880 (06) Tem permissão, Dmitry.
+1723880 1729880 (06) Mas como que vai acontecer para a gente poder investigar se a gente não pode suspeitar do nobre?
+1729880 1730880 (06) Porque você falou que tem uma lei.
+1730880 1735880 (06, 14) Não, não, não. Não falei que não pode suspeitar do nobre. Falei que não pode falar mal do nobre.
+1735880 1736880 (06, 14) Ah...
+1736880 1737880 (06, 14) Essa que é a lei.
+1737880 1740880 (06) Mas e se o nobre cometer um crime? A gente pode falar mal dele?
+1740880 1744880 (06, 14) Não, não pode falar mal do nobre. Está na lei. Não pode.
+1744880 1747880 (06, 14) Essas leis, elas são meio injustas, né?
+1747880 1748880 (06) Porra.
+1748880 1749880 (06) Porra.
+1749880 1750880 (06) Teu bosta.
+1751880 1754880 (04) Ele então fica vermelho assim.
+1754880 1762880 (04) Eu estava falando com minha assistente. Se for isso, eu queria voltar para o meu trabalho.
+1762880 1765880 (07) Enquanto eu estava rodando essa discussão, o Azad tinha dispersado ali, né?
+1765880 1771880 (04, 11, 07) E aí ele foi para perto da auxiliar enquanto o Theobald estava falando.
+1771880 1772880 (07) E...
+1772880 1773880 (07) Ele vai...
+1773880 1780880 (07) Ele vai aproveitar a deixa da discussão sobre nobres ficarem impunes e vai dar uma risadinha e falar assim...
+1780880 1784880 (07) Nobre, quando quebra a lei, é só contraventor, né?
+1784880 1785880 (17) Nem me fala.
+1785880 1786880 (17, 07) Mas...
+1786880 1789880 (17, 07) Você conhecia bem o garoto aí, o Merrick?
+1789880 1794880 (17) Sim, meio caladão. Mas trabalhava bem. Esquisito tudo isso.
+1794880 1801880 (17, 07) É, não. É aquele ali, ó. Está vendo? Ele faz com a cabeça assim de mito. Ele é meio esquisitinho, mas é gente boa. Isso não quer dizer nada.
+1801880 1802880 (07) Fala dois dados.
+1803880 1805880 (03, 07) Eu tirei cinco e um.
+1805880 1807880 (03) Ela olha assim, séria para ti e fala...
+1807880 1810880 (17) Ele lembra bastante o Merrick, né?
+1810880 1812880 (07) Lembra. Ele parece fisicamente?
+1812880 1814880 (07) Não, não parece fisicamente.
+1814880 1815880 (07) Aham.
+1815880 1820880 (07) Aí o Azad dá uma encostada assim, meio despretensioso, cruzo de baixo. Mas e aí?
+1820880 1824880 (07) Você não sabe se esse garoto estava andando por muitos lugares ou não? Ou fora da cidade?
+1824880 1826880 (07) Dizem que tem uns negócios aí na floresta, né?
+1826880 1828880 (17, 07) A noiva dele, a Gisela.
+1828880 1832880 (17) O pessoal sempre falou que ela mexia com ervas, plantas...
+1832880 1838880 (17) Umas coisas meio estranhas, assim. Talvez ela tenha drogado ele.
+1838880 1840880 (07) Drogado? Que coisa!
+1840880 1845880 (07) Minha mãe também fazia uns negócios desses. Mas era só remédio. Não tinha nada demais.
+1845880 1849880 (07) Mas você sabe onde ela vive, essa moça aí?
+1849880 1856880 (17) Um pouco mais afastado. Na parte baixa da cidade. Mas a Gisela. Pode perguntar pro Lark e vão te informar.
+1856880 1859880 (17, 07) Gisela. Tá bom. Qual o seu nome mesmo?
+1859880 1861880 (17, 07) O pessoal aqui me chama de Burga.
+1861880 1864880 (17, 07) Burga? Burga. Obrigado pela ajuda, hein?
+1864880 1866880 (17) Olha só. Não confio em nenhum nobre.
+1866880 1871880 (17, 07) Aí ele sussurra assim. Ele chega perto dela, sabe? Esconde a mão assim, na frente da boca. Fala assim...
+1871880 1876880 (07) Olha, deixa eu te falar a verdade. Eu não confio nem em gente podre.
+1876880 1877880 (07) Quem dirá?
+1877880 1879880 (17, 03, 07) É uma boa filosofia.
+1879880 1880880 (03) E ela volta a bater o martelo.
+1880880 1883880 (07, 03) E eu volto pra Joana e o Jimmy.
+1883880 1886880 (07) E daí chega no fim daquela discussão deles ali.
+1886880 1890880 (07) Isso. Aí eu chego e sussurro pra xerife, né?
+1890880 1892880 (07) Pra dar informação só pra ela.
+1892880 1894880 (07) Aí eu dou um sussurrado assim pra...
+1894880 1895880 (07) Chefe.
+1895880 1899880 (07) Parece que ele tinha uma namorada que mexia com as ervas aí.
+1899880 1904880 (07) E segundo a moça ali, a auxiliar do Dr. Balde, talvez ela possa ter informações.
+1904880 1906880 (07) O que você acha da gente dar uma passada lá?
+1906880 1909880 (07) Ela disse que vive na parte... Naquela parte ali da cidade, sabe?
+1909880 1912880 (03, 07) É. Uma informação extra pra Joana.
+1912880 1918880 (03) Embora não exista bruxas nem bruxarias, exceto por uma pessoa muito crente, né?
+1918880 1921880 (14, 03) A bruxaria é proibida por lei.
+1921880 1923880 (14, 03) Claro, claro.
+1923880 1925880 (14) Claro que a bruxaria é proibida por lei.
+1925880 1930880 (14) Assim como o uso de entorpecentes na lei 372.
+1930880 1933880 (14, 07) E aí eu falo e me afasto. Fico do lado do Dimitri de novo.
+1933880 1940880 (14, 07) Bom, Sr. Dr. Balde, acho que tivemos a nossa conversa aqui, precisávamos.
+1940880 1947880 (14) Agora eu vou buscar a Sra. Merrick. A senhora do Sr. Merrick.
+1947880 1949880 (14) Eu sei onde ela mora?
+1949880 1952880 (14, 03) Mais ou menos a região e o nome, né? Onde ela mora.
+1952880 1954880 (03) Dá pra gente perguntar, né? Por lá.
+1954880 1966880 (07, 14, 03) O Sr. Dr. Balde, o senhor poderia me informar onde seu ajudante e a namorada noiva dele moram?
+1966880 1969880 (04, 14) Ou eles moram separados? Moram juntos?
+1969880 1971880 (04) Ele, às vezes, dormia aqui.
+1971880 1976880 (04) Ela, até onde eu sei, mora na parte baixa da cidade, na área dos casetos.
+1976880 1977880 (04, 14) Tem que ir lá.
+1977880 1984880 (14, 07) Ah, com licença, chefe. Ele dormia aqui? Ele deixa coisas dele por aqui? A gente pode dar uma olhadinha?
+1984880 1989880 (03, 07) Ele aponta, assim, um canto, uma cama improvisada com palha, algum esquecido.
+1989880 1997880 (04, 03) Ele sempre andava com uma mochila. Mas desde que ele falou que ia casar, ele levou as coisas pessoais dele.
+1997880 2001880 (04) Deve ter algumas roupas e coisas esquecidas só.
+2001880 2004880 (04, 07) Eu olho pra Joana e pro Dimitri, tipo, hum, aí ó.
+2004880 2005880 (06, 07) Dá um lugar pra gente procurar mesmo.
+2005880 2006880 (06) Mas aqui, hein?
+2006880 2012880 (06) Ele saiu só pra casar? O digníssimo parente da Dona Joana não falou que trabalhava pra ele?
+2012880 2017880 (06, 14) Falou que ele ia uma vez por semana pra olhar os cavalos e as ferraduras.
+2017880 2023880 (06, 14) Ah, tá. Então tudo bem. O Dimitri só deixa pra lá. Então vamos?
+2023880 2028880 (14, 03) Sabendo onde fica, a gente vai em direção à casa da Giselle.
+2028880 2035880 (03) Vocês se afastam ali da área mais classe média dessa região, né? Vão até uma área que são algumas barracas mais improvisadas,
+2035880 2040880 (03) feitas pra alguns troncos. Não foram trabalhados pra madeira, quase, né?
+2040880 2051880 (03) A população ali tá trabalhando, um de lado pro outro. Quando vê a xerife, a maioria entra na casa ou troca o caminho indo pra uma outra rua, né?
+2051880 2053880 (07, 03) Vão tentar falar com alguém, é isso?
+2053880 2063880 (07) É, perguntar, né, pela Giselle. De preferência, se puder, eu queria até me afastar da Joana um pouco, pra me, sabe, misturar com a galera.
+2063880 2070880 (07) Eu não sei se eles me conhecem de muito tempo. Talvez eu consiga mais informações se eu não estiver perto da xerife, sabe?
+2070880 2080880 (11, 03, 07) Com a galera ali que tá bebendo num bar, com um amontoadozinho de gente vendendo coisa. Ele vai soltar uma conversa assim pra ir rastreando onde fica a Giselle.
+2080880 2085880 (03, 07) Tá, então Joana e Dimitri vão estar andando junto e o Azad vai dar uma separada.
+2085880 2087880 (08, 07, 03) Isso, isso, isso, isso.
+2087880 2091880 (03) A presença da Joana realmente espanta as pessoas, né? Talvez por ser xerife também.
+2091880 2092880 (03) Talvez por ser xerife também, né? Talvez por ser xerife também.
+2092880 2093880 (03) Talvez por ser xerife também.
+2093880 2095880 (03) Talvez por ser nobre, provavelmente os dois.
+2095880 2102880 (03) O Azad, assim, encontra algumas pessoas numa rua lateral, assim, cochichando, conversando.
+2102880 2109880 (03) Eles parecem não ter visto você junto com a xerife e não parecem te conhecer, né?
+2109880 2120880 (03) Eles tão só ali batendo papo e tal. Aí tu vai te aproximar, né? São duas meninas, elas param assim, uma delas olha pra ti, uns 17, 18 anos.
+2120880 2122880 (03) Elas ficam em silêncio te olhando.
+2122880 2124880 (03) Bom dia, moças, tudo bem?
+2124880 2126880 (03) Fala dois dados, vamo ver qual foi a impressão que passou pra ela.
+2126880 2128880 (07, 03) Tá bem importante a aula, sim.
+2128880 2130880 (07, 03) Seis e seis.
+2130880 2132880 (07, 03) Dois acertos. Ela... deu um sorriso?
+2132880 2133880 (03) Dois acertos. Ela... deu um sorriso?
+2133880 2138880 (16, 03) Tudo bem, sim. Anda bem agitado por aqui ultimamente, mas estamos bem.
+2138880 2150880 (16, 07) Não é? Caramba, olha... Depois que o seu Frederic começou a plantação de beterrabas ali na área sul da cidade, sabe? Nossa, eu tô vendo o movimento aumentar demais.
+2150880 2153440 (07) Inclusive, eu tô procurando
+2153440 2155440 (07) Eu recebi um recado
+2155440 2157500 (07) Pra dar pra uma tal de Gisela
+2157500 2160080 (07) Eu acho que tem a ver com alguma coisa de trabalho
+2160080 2161900 (07) Alguém ia chamar ela pra alguma coisa
+2161900 2162880 (07) Você sabe onde ela mora?
+2162900 2164360 (03, 07) As duas se olham assim
+2164360 2166080 (03) Tinha dois acertos
+2166080 2168900 (15, 03) Ela mora umas três casas pra lá
+2168900 2171100 (15) Mas...
+2171100 2172640 (03) Elas se olham e ficam em silêncio
+2172640 2175160 (07, 03) Mas...
+2175160 2176560 (07) Tem algum problema?
+2176560 2178160 (07) Alguma coisa aconteceu?
+2178380 2179520 (07) Ele se faz de desentendido
+2179520 2180640 (07) Elas se olham
+2180640 2182800 (15, 03, 07) Parece que houve uma briga lá
+2182800 2185400 (15) Ela não tem saído muito de casa, sabe?
+2185560 2187340 (15) E ninguém tem coragem de se meter
+2187340 2189420 (15, 07) Ih, caramba
+2189420 2190920 (07) Eu espero que a moça esteja bem
+2190920 2194100 (07) Vocês pelo menos veem ela na janela
+2194100 2194760 (07) Ou alguma coisa assim?
+2194840 2195980 (07) Ela só não apareceu mais?
+2196100 2198400 (03) Uma das meninas olha assim
+2198400 2200080 (03) Faz sinal que não com a cabeça
+2200080 2201800 (03) E daí ela fala
+2201800 2203140 (16, 07, 03) A gente só não viu
+2203140 2204900 (16) Acho que a gente tem que ir agora
+2204900 2206700 (16, 07) Ele aperta os olhinhos assim
+2206700 2208320 (07) Desconfiado pras duas
+2208320 2209520 (07) Tudo bem
+2209520 2210600 (07) Se ficar...
+2210640 2211940 (07) Se ficarem sabendo de qualquer coisa
+2211940 2212920 (07) Vocês me avisam
+2212920 2214060 (07) Nunca se sabe, né?
+2214280 2215260 (07) A gente podendo ajudar
+2215260 2216460 (07) A gente ajuda a Gisela
+2216460 2217740 (15, 07) Você...
+2217740 2218920 (15) Você conhecia ela?
+2219440 2219800 (07) Não
+2219800 2221000 (07) Ainda não
+2221000 2222760 (07) Eu estava pra conhecer, na verdade
+2222760 2224160 (07) Eu sou novo na cidade
+2224160 2225060 (07) Você vem de onde?
+2225580 2227080 (07) Eu venho de...
+2227080 2228540 (07) Ele coça a cabeça assim
+2228540 2231920 (07) Eu venho bem de longe, sabe?
+2232140 2232980 (07) Eu me perdi
+2232980 2235500 (07) Faz muito tempo que eu tô longe de casa
+2235500 2236960 (15, 07) Eu não sou daqui da região
+2236960 2237960 (15, 07) Você sabe nadar?
+2237960 2239960 (15, 07) O Azad se surpreende com a pergunta inesperada
+2240640 2242220 (07) Aí ele olha assim
+2242220 2243180 (07) Ele dá um sorrisinho
+2243180 2244400 (07) Na verdade eu sei, tá?
+2245020 2246240 (07, 03) E sei muito bem
+2246240 2247780 (03) As duas se olham assim
+2247780 2249440 (07, 03) A gente se enganou
+2249440 2250560 (07) E tem que ir
+2250560 2251220 (07) Aham
+2251220 2257280 (07) Vocês, por acaso, conhecem algum riacho ou lago interessante pra natação por aqui?
+2257740 2260320 (03, 07) As duas ficam meio brancas, assim
+2260320 2261340 (15) Ahn...
+2261340 2262480 (15) Tem o rio, né?
+2263100 2264860 (15) Que passa fora da cidade
+2264860 2266420 (15) É um bom lugar
+2266420 2267880 (15, 07) Entendido
+2267880 2268720 (07) Tá bom, moças
+2268720 2269640 (07) Obrigado pelas informações
+2269640 2270120 (07) Obrigado pelas informações
+2270120 2270480 (07) Obrigado pelas informações
+2270480 2270620 (07) Obrigado pelas informações
+2270640 2273440 (07) Fiquem livres de problemas e se cuidem, hein?
+2273540 2274760 (07) Qualquer coisa é só me procurar
+2274760 2275680 (07) Tô aqui pra ajudar
+2275680 2277600 (07) E aí ele vai andando
+2277600 2280020 (07) Rumo às três casas lá que ela falou
+2280020 2281160 (07) Aliás, ele vai primeiro...
+2281160 2282760 (07) É, ele vai dar uma olhada primeiro na casa
+2282760 2283520 (07) Separado aí
+2283520 2284040 (03, 07) Ok
+2284040 2285400 (03) Joana e Dmitry
+2285400 2286940 (03) Joana rola dois dados
+2286940 2290060 (14, 03) Eu tirei quatro e um
+2290060 2291860 (03) Uma senhora, assim
+2291860 2294060 (03) Já meio curvada pelo tempo
+2294060 2296660 (03) Quase dente nenhum ali na boca
+2296660 2298180 (03) Um lenço assim sobre a cabeça
+2298180 2300480 (03) Ela abre a porta
+2300480 2301020 (03) Tinha dela
+2301020 2303920 (03) Senta assim na entrada, né?
+2304040 2305200 (03) Ela olha pra ti
+2305200 2307920 (14, 13, 03) É de longe hoje, hein, xerife?
+2308080 2309860 (14) Eu conheço...
+2309860 2311240 (14) É uma pessoa aleatória
+2311240 2313680 (14, 03) É uma senhora aleatória pra ti
+2313680 2314660 (14, 03) Sim, senhora
+2314660 2316820 (14) Viemos fazer a nossa ronda
+2316820 2319120 (14) E estamos buscando
+2319120 2321200 (14) Um crime que aconteceu
+2321200 2324320 (14) Algum nobre perdeu o lenço?
+2324640 2326560 (14) Oh, muito mais grave do que isso
+2326560 2328020 (14) Um nobre foi atacado?
+2328120 2329380 (14, 13) Ah, poxa
+2329380 2330460 (14, 13) Quem diria?
+2330480 2334800 (06, 14, 13) Das vezes em que eles atacam de nós
+2334800 2337860 (06, 13) Você não costuma ver por aqui
+2337860 2339100 (13) Isso não vem ao caso
+2339100 2339460 (06, 13) É, não
+2339460 2341360 (06) E nesse caso específico, inclusive
+2341360 2343080 (06) Eu acho que o nobre é que tem culpa
+2343080 2344360 (06) Fala isso ou tu pensou?
+2344420 2345120 (06) Não, ele fala
+2345120 2348400 (06, 03) A senhora dá um sorriso pra ti?
+2348960 2350440 (06, 13) Dmitry, teu nome
+2350440 2351820 (06, 13) É, é, é sim
+2351820 2352600 (06) Eu te conheço
+2352600 2353580 (06) Desculpa, tá, dona?
+2353660 2354400 (06) É porque...
+2354400 2356040 (06) Eu não lembro muito bem das coisas
+2356040 2358100 (06, 13) Eu lembro de tudo
+2358100 2360460 (13) Mas entendo sua falta
+2360480 2361740 (13) Falta de memória
+2361740 2364500 (13) Eu coordeno essas pessoas aqui
+2364500 2367740 (14, 01, 13) E o que eu posso dizer é que
+2367740 2371580 (14, 13) Não queremos encrenca com os nobres
+2371580 2374260 (14) E nós não queremos encrenca com vocês
+2374260 2375780 (14) Fique tranquilo
+2375780 2379240 (14) Só estamos tentando entender o que está acontecendo
+2379240 2379940 (06, 14) É, é
+2379940 2382280 (06) A gente tá aqui pra tentar entender o que aconteceu
+2382280 2384160 (06) Com um rapaz
+2384160 2386200 (06) Que é o aprendiz do Ferreiro
+2386200 2387120 (06) O do Sorriso
+2387120 2388680 (06) Acho que é Merrick o nome dele
+2388680 2390320 (06, 13) Merrick, bom
+2390320 2390940 (06) Rapaz
+2390940 2392920 (06) É, eu falei isso com a dona Joana
+2392920 2395080 (06) Que ele, pelo menos comigo, ele era bonzinho
+2395080 2397480 (06) E normalmente o pessoal não é tão bonzinho comigo assim
+2397480 2398940 (06) Mas...
+2398940 2400520 (06) Parece que ele tava trabalhando
+2400520 2401540 (06) Ou alguma coisa
+2401540 2402840 (06) E com...
+2402840 2404920 (06) Qual que é o nome mesmo do nobre, dona Joana?
+2405100 2407740 (14) Sim, o senhor Lelfrick Sugar
+2407740 2410060 (14) É um primo distante meu
+2410060 2410440 (14) Ah
+2410440 2413940 (14, 13) É parente do engomadinho
+2413940 2416240 (13) Com a beterraba dourada?
+2416400 2418120 (13) É, pode ser
+2418120 2420120 (06, 13) O Dmitry olha pra dona Joana
+2420320 2422440 (06) Que chamou o cara de engomadinho
+2422440 2423500 (06) Olha pra Joana
+2423500 2426060 (06) Vê que a Joana não falou nada que não podia falar mal
+2426060 2428120 (06) E ele olha de novo pra dona
+2428120 2431460 (06) Ele falou que o aprendiz do Ferreiro
+2431460 2432540 (06) Agrediu ele
+2432540 2434860 (06) Mas quem chegou agredido foi o aprendiz do Ferreiro
+2434860 2435420 (06) Coitado
+2435420 2437320 (06) Eu achei que ele ia morrer
+2437320 2439580 (06) Aí a gente tá tentando investigar aqui
+2439580 2441960 (06) Pra ver se tem mais alguma informação
+2441960 2443740 (06) Você sabe de alguma coisa que aconteceu, dona?
+2444040 2446260 (06, 13) Eu sei que infelizmente
+2446260 2448260 (13) O Merrick não conseguiu
+2448260 2450300 (13) Cortar a garganta
+2450320 2452340 (06, 13) Daquele desgraçado
+2452340 2454940 (06) Ih, ele atacou mesmo?
+2455120 2456980 (06, 13) Eu espero que sim
+2456980 2458920 (06, 14) A senhora sabe
+2458920 2460780 (14) Que não pode falar mal da nobreza
+2460780 2462480 (14) De acordo com a lei
+2462480 2464400 (14, 13) A senhora sabe
+2464400 2467560 (14, 13) Que daqui uns dois ou três anos
+2467560 2469540 (13) A lei dos erros
+2469540 2471140 (13) Não vai mais
+2471140 2472100 (06, 13) Servir pra mim
+2472100 2474440 (06, 13) Não importa, enquanto estiver servindo
+2474440 2475400 (06, 13) Deve ser seguida
+2475400 2477780 (06, 13) Mas dona Joana, a gente precisa investigar, não precisa?
+2478020 2480100 (06) Ah, boa sorte pra você
+2480320 2483040 (06) Mas por que ele queria cortar a garganta?
+2483380 2484740 (06) O Dmitri já atropela
+2484740 2486400 (06) Antes da dona ir embora
+2486400 2489360 (03) Ela olha pra você
+2489360 2491520 (13, 03) A pessoa que tem
+2491520 2492920 (13) As respostas
+2492920 2495660 (14, 13, 03) É pra ser a xerife
+2495660 2497020 (03) E ela volta pra dentro de casa
+2497020 2499040 (14, 03) Ué, xerife, você já resolveu o caso?
+2499160 2501000 (14) Estamos aqui exatamente
+2501000 2502720 (14) Para descobrir o que aconteceu
+2502720 2504980 (06, 14) Mas que respostas que você tem?
+2505440 2506840 (14) Por enquanto eu não tenho ainda
+2506840 2508240 (14) Nós estamos ainda buscando
+2508240 2510040 (14) A vovó tá amedrontada
+2510320 2512980 (14, 07) Azad, tu ia ter a casa ou tu ia ter eles?
+2513000 2515060 (07) Eu ia chamar eles, eu acho que é melhor ir os três juntos
+2515060 2516500 (07) Em vez de a gente ficar separando o grupo
+2516500 2518960 (07) O Azad chega quando a velhinha bate a pó
+2518960 2519720 (07) Isso
+2519720 2523460 (07) Pessoal, eu achei a casa da tal da Gisela
+2523460 2524280 (07) E
+2524280 2527340 (07) Achei uma coisa interessante também
+2527340 2528740 (07) Teve umas moças ali
+2528740 2530600 (07) Umas garotas que elas falaram
+2530600 2532820 (07) Sobre um tal de rios
+2532820 2535380 (07) Elas pareciam um pouco misteriosas
+2535380 2537560 (07) Demais sobre a questão de nadar
+2537560 2539400 (07) Talvez seja bom a gente dar uma olhada
+2539400 2540260 (07) Por lá depois, hein?
+2540320 2541040 (07) Ok
+2541040 2544400 (06, 07) Nadar não é muito minha praia não
+2544400 2547160 (06) Mas se vocês forem nadar
+2547160 2548640 (06) Eu fico de longe observando
+2548640 2550980 (06, 07) É, não necessariamente nadar, né, Dmitry
+2550980 2553180 (07) O que eu quis dizer é olhar a ilha em volta
+2553180 2554300 (07) Dar uma rastreada
+2554300 2556920 (06, 11, 07) Esse tipo de coisa, investigar a região
+2556920 2559380 (06, 07) Tá, tá
+2559380 2561160 (06) Se eu precisar ir com vocês
+2561160 2563380 (06) Eu vou, mas eu prefiro ficar de longe
+2563380 2564120 (06, 07) Não passo muito de água
+2564120 2564920 (06, 07) Não, tudo bem
+2564920 2566720 (06, 07) Olha só, chefe, é o seguinte
+2566720 2570000 (07) A tal da Gisela vive em umas três casas ali pra baixo
+2570320 2573220 (07) E disseram que ela não sai de casa há um tempão
+2573220 2574840 (07) Parece que aconteceu uma briga
+2574840 2575760 (07) Uns barulhos
+2575760 2576940 (07) E desde então ninguém vê ela
+2576940 2578660 (07) É bom a gente dar uma olhada lá
+2578660 2582200 (14, 07) Bom, bom, então já descobriu onde ela mora
+2582200 2582980 (14) Vamos lá
+2582980 2583540 (14, 07) Beleza
+2583540 2586280 (07) E mostrando o meu local
+2586280 2590560 (14, 03, 07) Perfeito, vocês vão até a casa dela
+2590560 2593040 (03) Estranhamente a casa dela é maior até
+2593040 2595360 (03) Do que a daquela senhora que vocês encontraram
+2595360 2596180 (03) Antes ali
+2596180 2599260 (03) Embora não seja nenhum tipo de estabelecimento
+2599260 2600240 (03) É só uma casa
+2600320 2601680 (03) Maior que as outras
+2601680 2604340 (03) O Azad confere a porta ali
+2604340 2606520 (03) Tá encostada, mas não tá trancada
+2606520 2608800 (07, 03) Eu olho pra trás esperando permissão da Joana
+2608800 2610240 (07) Se a gente pode entrar
+2610240 2613060 (14, 07) Tem alguma outra coisa estranha?
+2613140 2614040 (14) Alguma marca?
+2614300 2615760 (14) Alguma, sei lá
+2615760 2617840 (14) Foi arrombada a porta?
+2618400 2619900 (14, 03) Janela? Alguma coisa assim?
+2619980 2620540 (03) Dois dados
+2620540 2623300 (14, 03) Tirei cinco e três
+2623300 2626100 (14, 03) Não, assim, não parece ter nenhum sinal
+2626100 2627760 (03) De arrombamento ali
+2627760 2629240 (03) Mas ao olhar em volta
+2629240 2630480 (03) As ruas ali
+2630480 2633480 (03) São de barro, né?
+2633540 2634520 (03) O lugar é meio apertado
+2634520 2636660 (03) Não choveu recentemente
+2636660 2639360 (03) Algo que destoa daquele lugar
+2639360 2642400 (03) Tanto marcas de ferraduras
+2642400 2645280 (03) Quanto rodas de carruagem
+2645280 2648340 (03) Vindo da região da cidade
+2648340 2649800 (03) Até aquela casa
+2649800 2651100 (14, 11, 03) Ok
+2651100 2652840 (14) Beleza
+2652840 2653480 (14) Então
+2653480 2656100 (14) Com essa informação
+2656100 2658060 (14) A gente vai entrar na casa
+2658060 2659220 (14, 07) Tá, o Azad abre a porta
+2659240 2660400 (07) Abro
+2660400 2662900 (07) E eu tô com uma mão na maçaneta
+2662900 2664840 (07) E a outra mão
+2664840 2666120 (07) Eu tô com uma
+2666120 2667700 (07) Porque eu uso arco, né?
+2667720 2669000 (07) Mas eu tenho uma faquinha também
+2669000 2670140 (07) Porque eu sou um caçador, né?
+2670520 2672540 (07) Então ele tá com uma mão assim na maçaneta
+2672540 2674560 (07) E a outra mão perto da cintura
+2674560 2676960 (07) Caso ele precise se defender, sabe?
+2677040 2678460 (07) E ele vai abrindo bem devagar
+2678460 2679680 (07) Ao abrir a porta
+2679680 2681320 (07) Um cheiro forte
+2681320 2684640 (03, 07) Toma conta das tos narinas ali
+2684640 2687320 (03) O barulho de moscas
+2687320 2689020 (03) Insetos de um lado pro outro
+2689240 2692080 (03) No grande salão ali
+2692080 2693360 (03) Tem bastante imóveis
+2693360 2695500 (03) Assim, até amontoados pelos cantos
+2695500 2697240 (03) Caída no meio
+2697240 2699400 (03) Está uma mulher
+2699400 2701040 (03) Jovem
+2701040 2702500 (03) De cabelos assim
+2702500 2705140 (03) Caracolados, né?
+2706480 2708460 (03) Claramente com a garganta cortada
+2708460 2709660 (03) Muito sangue
+2709660 2710800 (03) Em volta dela
+2710800 2712120 (03) E ela tá caída
+2712120 2714980 (07, 03) O Azad, ele sente o impulso de ir na moça
+2714980 2717220 (07) Mas ele fica, ele olha pros lados
+2717220 2718720 (07) E ele tenta olhar a cena
+2719240 2722140 (07) Ele quer olhar se tem pegadas
+2722140 2725020 (07) Sabe, assim, pra ver se tem movimentação
+2725020 2726600 (07) Sinais de luta
+2726600 2727640 (07) Esse tipo de coisa
+2727640 2728220 (07) Dois dados
+2728220 2731080 (03, 07) Eu tirei seis e três
+2731080 2731880 (07, 03) Houve luta
+2731880 2734660 (03) A roupa dela, simples
+2734660 2736540 (03) Tá rasgada em alguns pontos
+2736540 2739140 (03) Como se tivesse sido puxada, né?
+2739720 2741140 (03) Ela tem alguns ferimentos
+2741140 2742680 (03) Na boca
+2742680 2744900 (03) Alguns hematomas ali
+2744900 2747280 (03) Nos braços, principalmente
+2747280 2749080 (07, 03) Ele se agacha, então, perto do...
+2749240 2750180 (07) Do corpo dela
+2750180 2751840 (07) Examinando, assim
+2751840 2754180 (07) Se ela tiver com o olho aberto, ele vai fechar também, né?
+2754400 2755560 (07) Por questão de respeito
+2755560 2758020 (07) E ele vai olhar pro Dimitri e pra Joana
+2758020 2760800 (07) E falar, olha só, dona Joana
+2760800 2762160 (07) Talvez
+2762160 2764800 (07) O nobre seja o errado nessa história
+2764800 2766560 (07) Você tá preparada pra lidar com isso, né?
+2766860 2768880 (14) Talvez ele pode ter
+2768880 2770320 (14) Sofrido algum
+2770320 2771700 (14) Algum ataque
+2771700 2773320 (14) Mas
+2773320 2775640 (14) Não sabemos ainda quem
+2775640 2777480 (14) Foi o errado nessa história
+2777480 2778520 (14) Não temos provas
+2778520 2779220 (14) Não temos nada
+2779240 2780940 (06, 14) O Dimitri
+2780940 2782840 (06) Na hora que a Joana vai falando isso
+2782840 2785340 (06) Ele anda na direção do corpo
+2785340 2787400 (06) E ele quer abaixar pra ver se
+2787400 2789320 (06) Os machucados dela são parecidos
+2789320 2790180 (06) Com os do Merrick
+2790180 2790820 (06) Dois dados
+2790820 2793520 (06, 03) Seis e três
+2793520 2794960 (06, 03) E três é o meu atributo
+2794960 2795760 (03) Não, assim
+2795760 2797520 (03) Ela tem muito sangue
+2797520 2799220 (03) Parece que ela foi agredida
+2799220 2802260 (03) E depois cortaram a garganta dela ali
+2802260 2805400 (03) O sangue jorrou pra todos os lados
+2805400 2806760 (03) Ela parece ter sido
+2806760 2808280 (03) O jeito que ela se feriu
+2808280 2809220 (03) É como se ela tivesse sido
+2809240 2811100 (03) Quase tivesse ferido menos
+2811100 2813300 (03) Só que funcionou
+2813300 2817340 (03) Ela morreu com o sangramento ali
+2817340 2818420 (03) Tu tirou um crítico
+2818420 2819520 (03) Tu lembra
+2819520 2821520 (03) Há uns cinco anos atrás
+2821520 2823020 (03) Tu tá deitado
+2823020 2825080 (03) Tem uma senhora assim
+2825080 2825780 (03) Te olhando
+2825780 2827900 (03) Mexendo assim
+2827900 2828980 (03) O motivo
+2828980 2830180 (03) Mexendo no teu cabelo
+2830180 2833000 (03) E essa mesma mulher aí no chão
+2833000 2833920 (03) Na época
+2833920 2835900 (03) Uma jovem, né?
+2835900 2837060 (03) Uma adolescente
+2837060 2837760 (15, 03) Perguntando
+2837760 2838520 (15, 03) A mulher
+2838520 2839220 (15) Ela ficou assim
+2839240 2841800 (06, 15) O Dimitri vai
+2841800 2843520 (06) Vai regalando o olho, assim
+2843520 2845580 (06) Meio que cai pra trás
+2845580 2848140 (06) E volta, assim
+2848140 2849140 (06) E para
+2849140 2850620 (06) Ele olha pra Joana
+2850620 2851640 (06) Olha pra Azad
+2851640 2853760 (06) Olha de novo pra moça, assim
+2853760 2855360 (06) Tentando ver se ele consegue
+2855360 2856900 (06) Identificar quem
+2856900 2858600 (06) Alguma coisa nela
+2858600 2859220 (06, 03) Que lembra ele
+2859220 2859700 (06, 03) Só lembra
+2859700 2861060 (03) Dessa cena
+2861060 2861620 (03) E que depois
+2861620 2862700 (03) Apagou de novo
+2862700 2863740 (03) Joana e Azad
+2863740 2864660 (03) O Dimitri
+2864660 2866020 (03) Reagiu estranho
+2866020 2866700 (03) Ao ver a mulher
+2866700 2868300 (14, 03) Ô, Dimitri
+2868300 2869100 (14) O que aconteceu?
+2869240 2869960 (06, 14) É
+2869960 2871820 (06) Eu acho que
+2871820 2872940 (06) Né
+2872940 2873740 (06) Ela foi
+2873740 2874940 (06) Foi atacada
+2874940 2875200 (06) Que
+2875200 2877280 (06) Foi diferente do
+2877280 2877780 (06) Do Merrick
+2877780 2878060 (06) Mas
+2878060 2879180 (06) Foi
+2879180 2880600 (06) Foi algo bem violento
+2880600 2880820 (06) É
+2880820 2882840 (06) A gente tem que investigar isso, né?
+2883180 2883820 (06, 14) Obviamente
+2883820 2884960 (14) Ela foi atacada
+2884960 2887020 (14) Percebemos isso
+2887020 2887720 (14) Não sabemos
+2887720 2888760 (14) Por quem
+2888760 2889800 (14, 07) É, mas
+2889800 2891660 (06, 14, 07) Você tá bem, cara?
+2891820 2893600 (07) A gente já viu outros corpos por aí
+2893600 2895300 (07) Você não reagiu assim
+2895300 2896560 (07) Tá tudo bem?
+2896700 2897300 (07) Você tá passando mal?
+2897300 2897660 (07) É
+2897660 2898800 (06, 07) É
+2899240 2900200 (06) , é
+2900200 2901600 (06) É só porque eu lembrei de uma coisa
+2901600 2902300 (06) Mas
+2902300 2903080 (06) É
+2903080 2903940 (06) Né
+2903940 2905960 (06) Não é nada demais, não
+2905960 2906860 (06) Mas
+2906860 2908020 (06) É
+2908020 2909120 (06) Tem algo
+2909120 2910080 (06) Tem algo estranho
+2910080 2911380 (06) Ele fala assim
+2911380 2911800 (06) Meio
+2911800 2912340 (06) E
+2912340 2913020 (06) Tipo
+2913020 2914280 (06, 07) Tenta desviar o olhar
+2914280 2914660 (07) É
+2914660 2915040 (07) Dele
+2915040 2915560 (07) Tem
+2915560 2916980 (07) Ele se levanta do corpo
+2916980 2917620 (07) E
+2917620 2920020 (07) Acho que é bom a gente dar uma fuçada nessa casa, né?
+2920500 2921860 (07) Talvez ela tenha alguma anotação
+2921860 2922560 (07) Diário
+2922560 2923340 (07) Qualquer coisa assim
+2923340 2924580 (07) Qualquer pista serve
+2924580 2925960 (07) E aí ele vai começar a procurar
+2925960 2926600 (07) É
+2926600 2927520 (07) Ligar a pita
+2927520 2928800 (07) Esses lugares assim
+2928800 2928860 (14, 07) Bom, a gente vai ver se a gente consegue fazer isso
+2928860 2929220 (14, 07) É
+2929220 2931140 (14) A minha tarefa como xerife é
+2931140 2932500 (14) Buscar
+2932500 2933820 (14) Deve ter algum
+2933820 2935220 (14) Serviço de
+2935220 2937020 (14) Coletar os corpos
+2937020 2938180 (14) E levar pra
+2938180 2939480 (14) Ser enterrado
+2939480 2940140 (14) Sei lá
+2940140 2941160 (14) Alguma carroça
+2941160 2941740 (14) Algum
+2941740 2943440 (14) Medieval
+2943440 2944220 (14) Geralmente o
+2944220 2945140 (14) Pessoal
+2945140 2945860 (14) Passa
+2945860 2947220 (14, 11) Com uma carroça
+2947220 2947860 (14) E vai
+2947860 2949860 (14) Jogando os corpos mortos
+2949860 2951600 (14) E aí joga todo mundo junto
+2951600 2952020 (14) Depois
+2952020 2953080 (14) Não sei como é que funciona
+2953080 2954440 (06, 14, 07) Leva pro couveiro, né?
+2954480 2955120 (06) O couveiro cuide
+2955120 2956740 (06) O Dimitri, né?
+2956840 2957020 (06) Ele
+2957020 2958180 (06) Gosta da ideia
+2958180 2958640 (06) Do
+2958640 2958840 (06) Do
+2958840 2959440 (06) Do azê
+2959440 2960300 (06) E ele
+2960300 2961620 (06) Levanta
+2961620 2962360 (06) E vai também
+2962360 2963560 (06) Tentar procurar coisas
+2963560 2964580 (06) Mas ele
+2964580 2965600 (06) Ele quer procurar
+2965600 2967040 (06) Outras coisas
+2967040 2968340 (06) Talvez alguma coisa que ligue
+2968340 2969260 (06) Essa memória que ele teve
+2969260 2970200 (06) Quem faz a busca então
+2970200 2971220 (06) É o Dimitri ou a Joana?
+2971560 2972100 (06) Dimitri
+2972100 2972780 (06) Dois dados
+2972780 2975120 (06, 11) Três e dois
+2975120 2976680 (06, 03) Sendo três o meu tributo
+2976680 2977320 (03) Assim, a casa
+2977320 2978140 (03) É uma casa
+2978140 2979440 (03) Comum até
+2979440 2980000 (03) Assim
+2980000 2981400 (03) Tem uma mesa
+2981400 2982160 (03) Muito grande
+2982160 2983320 (03) Pra uma pessoa que
+2983320 2983980 (03) Que mora
+2983980 2984840 (03) Sozinha
+2984840 2986840 (03) A cozinha também é
+2986840 2987600 (03) É
+2987600 2988800 (03) É grande
+2988800 2990520 (03) Pro padrão ali
+2990520 2991780 (03) Tem um móvel
+2991780 2992160 (03) Com
+2992160 2994020 (03) Alguns livros
+2994020 2995300 (03) O que é raro, né?
+2995580 2997280 (03) Atrás desse móvel
+2997280 2997760 (03) Tu
+2997760 2998900 (03) Tu encontra assim
+2998900 2999440 (03) No chão
+2999440 3000240 (03) Há uma marca
+3000240 3001740 (03) De arrastar
+3001740 3002520 (03) Há uma porta
+3002520 3003480 (03) Escondida ali
+3003480 3004780 (06, 03) O Dimitri primeiro
+3004780 3005660 (06) Olha pra trás
+3005660 3006900 (06) Pra ver se
+3006900 3007460 (06) A Joana
+3007460 3008600 (06) Tá prestando atenção nele
+3008600 3009520 (06, 14) A Joana
+3009520 3009940 (14) Tá
+3009940 3011740 (14) Pensando aqui
+3011740 3013540 (14) Como que ela vai chamar
+3013540 3014640 (14) Se ela consegue
+3014640 3015440 (14) Algum guarda
+3015440 3016280 (14) Pra poder chamar
+3016280 3017920 (14) Que ela não vai ir até
+3017920 3018640 (14) Se ela não vai ir até
+3018640 3018780 (14) Se ela não vai ir até
+3018800 3019500 (14) Sei lá onde
+3019500 3020080 (14) Pra poder
+3020080 3021360 (14) Chamar
+3021360 3022800 (14) Pra poder tirar aquele corpo
+3022800 3023280 (14) Então
+3023280 3024380 (14) Ou ela tava pensando
+3024380 3025100 (14) Se ela chama
+3025100 3026720 (14) O pé de plazade
+3026720 3027320 (14) E ir
+3027320 3028220 (14) Ou se ela vai achar
+3028220 3029620 (14) Algum outro guarda
+3029620 3031380 (14) Ela não tá prestando atenção
+3031380 3033120 (14, 07) Ela tá pensando
+3033120 3034060 (07) Na papelada já
+3034060 3034740 (14, 07) Na burocracia
+3034740 3035280 (14, 07) É
+3035280 3036480 (06, 14, 00) Ela não tá pensando
+3036480 3038080 (14, 00) Ela não tá pensando
+3038080 3039700 (14) Em procurar as coisas não
+3039700 3041120 (06, 14) Ele vê que ela não
+3041120 3042820 (06) Tá meio distraída
+3042820 3045000 (06) E ele tenta um contato visual
+3045000 3045800 (06) Com o Azad
+3045800 3046640 (06) O Azad olha
+3046640 3047700 (06, 11) Dá uma olhada assim
+3047700 3048060 (06, 11) Aham
+3048060 3048780 (06, 11) E ele faz um menino
+3048800 3049860 (06) E com a cabeça que sim
+3049860 3050900 (06) E ele vai se aproximando
+3050900 3052160 (06) O Azad
+3052160 3053900 (06) Me ajuda aqui
+3053900 3054960 (06) Olha isso
+3054960 3055580 (06) E ele tipo
+3055580 3056700 (06) Mostra que tem uma porta
+3056700 3058120 (06) Caraca
+3058120 3059140 (06) O que que
+3059140 3059800 (06) Tinha aqui
+3059800 3060420 (06) Mas aqui
+3060420 3062080 (06) Não fala com a dona Joana
+3062080 3062560 (06) Ainda não
+3062560 3063400 (06) Ela
+3063400 3064780 (06, 07) Ela fica muito preocupada
+3064780 3065380 (06) Com essa lei
+3065380 3067440 (06) De não xingar a nobre
+3067440 3068840 (06) E eu acho que atrapalha
+3068840 3069320 (06, 07) Beleza
+3069320 3070280 (07) Então um de nós dois
+3070280 3071020 (07) Tem que descer né
+3071020 3071960 (06, 07) Você quer ir lá
+3071960 3072560 (06) E eu fico aqui
+3072560 3073240 (06) Distraindo ela
+3073240 3073920 (06) De guarda
+3073920 3074520 (06, 07) Tá
+3074520 3076200 (06) Eu vou rapidinho
+3076200 3077520 (06) Mas se tiver alguma coisa lá
+3077520 3077960 (06) Eu vou gritar
+3077960 3078660 (06) Ok
+3078660 3079540 (06) Eu fico pronto
+3079540 3080080 (06) Vai lá
+3080080 3082400 (06, 07) O que que tu vai fazer Azad?
+3082600 3082760 (07) É
+3082760 3083300 (07) Aí então
+3083300 3084380 (07) Aí quando ele entrar
+3084380 3085920 (07) Eu saio ali
+3085920 3086920 (07) E eu vou
+3086920 3088080 (07) Começar a conversar
+3088080 3089360 (07) Com a dona Joana né
+3089360 3090260 (07) Então dona Joana
+3090260 3091100 (07) Eu não sei assim
+3091100 3092860 (07) A gente podia chamar um guarda
+3092860 3093700 (07) Mas de repente
+3093700 3095180 (07) Vai chamar atenção demais
+3095180 3095860 (07) A cena do crime
+3095860 3097000 (07) Vai ficar contaminada
+3097000 3097760 (07) Aí ele começa a falar
+3097760 3098560 (07) Um monte de coisa assim
+3098560 3099700 (07) De preferência
+3099700 3100860 (07) Com ela virada
+3100860 3101720 (07) Contra a porta
+3101720 3102180 (07) Sabe
+3102180 3103620 (07) Pra ela não ver a porta
+3103620 3105140 (03, 07) Enquanto o Dimitri desce
+3105140 3105620 (03) Tá
+3105620 3107220 (03) Joana vai cair nesse papinho
+3107220 3107860 (03) Ou quer tentar
+3107860 3109360 (03) Ou tá desconfiada
+3109360 3110000 (14, 03) Ah não
+3110000 3110860 (14) A Joana não tá
+3110860 3112800 (14) Não tá nem preocupada não
+3112800 3113500 (14) Ela tá
+3113500 3115140 (14) Vai cair no papinho
+3115140 3115740 (14, 03) Beleza
+3115740 3117420 (14, 03) Mais preocupada com as coisas aqui
+3117420 3118280 (14, 03) Dimitri então
+3118280 3119300 (06, 03) Entra rapidinho
+3119300 3120340 (06) Pela porta secreta
+3120340 3120680 (06) Isso
+3120680 3121480 (06) Isso
+3121480 3122640 (06) Ele vai tentar fazer
+3122640 3123520 (06) O mínimo de barulho
+3123520 3124280 (06) Mas ele sabe
+3124280 3125500 (06) Que ele não é bom nisso
+3125500 3126620 (06, 03) A porta termina
+3126620 3127740 (03) Numa escada
+3127740 3128660 (03) Pra uma área
+3128660 3129620 (03) Que foi escavada
+3129620 3130260 (03) Ali embaixo
+3130260 3131880 (03) Da própria casa né
+3131880 3133820 (03) Tu chega até essa área
+3133820 3135440 (03) Tudo escuro
+3135440 3136500 (06) Eita
+3136500 3137840 (06) Eu não pensei
+3137840 3138160 (06) Nisso
+3138160 3139760 (06) Ele olha assim
+3139760 3140340 (06) Pra ver se ele tem
+3140340 3141080 (06) Alguma coisa
+3141080 3142400 (06) Que ele consegue acender
+3142400 3143560 (06) Se tem uma tocha
+3143560 3144100 (06) Dois dados
+3144100 3146520 (06, 03) Cinco e dois
+3146520 3147920 (03) Cinco é um acerto simples
+3147920 3149060 (03) Tu nota que pendurado
+3149060 3150040 (03) Assim do lado de dentro
+3150040 3151100 (03) Dessa estrutura
+3151100 3152640 (03) Tem um
+3152640 3154060 (03) Tipo de um
+3154060 3155120 (03) Lampião né
+3155120 3156780 (03) Uma estrutura de vidro ali
+3156780 3157780 (03) Por trás de uma chama
+3157780 3158440 (03) Um óleo
+3158440 3159720 (06, 03) Que tu consegue acender
+3159720 3161260 (06, 11, 03) Nossa que sorte
+3161260 3161880 (06) E ele
+3161880 3163280 (06) Acende ele assim
+3163280 3164640 (06) E ele tá meio
+3164640 3166120 (06) Dividido entre
+3166120 3167820 (06) Investigar a direita
+3167840 3168860 (06) E agir rápido
+3168860 3169400 (06) Bastante
+3169400 3170240 (06) Pra Joana
+3170240 3171680 (06) Não sentir falta dele
+3171680 3172700 (03) O lugar ali
+3172700 3173900 (03) É bem direto
+3173900 3174120 (03) Assim
+3174120 3175400 (03) Tem uma mesa
+3175400 3177040 (03) No meio né
+3177040 3178000 (03) Parece
+3178000 3179680 (03) Uma mesa mais baixa
+3179680 3181260 (03) Talvez funcionando
+3181260 3182180 (03) Como uma maca
+3182180 3183100 (03) Embora esse conceito
+3183100 3183640 (03) Ainda não
+3183640 3185520 (03) Não tenha sido criado
+3185520 3187000 (03) E uma mesa maior
+3187000 3188060 (03) Com muitos vidros
+3188060 3188460 (03) Assim
+3188460 3189760 (03) Olho de bicho
+3189760 3190920 (03) Pedaço de bicho
+3190920 3191900 (03) Um monte de coisa
+3191900 3192320 (03) Estranha
+3192320 3193500 (03) Muitas ervas secas
+3193500 3193760 (03) Assim
+3193760 3194900 (03) Amarradas
+3194900 3195980 (03) Pelas paredes
+3195980 3196760 (03) E
+3196760 3197820 (03) Uma das
+3197840 3199440 (03) Paredes em especial
+3199440 3201160 (03) Tem algumas
+3201160 3202260 (03) Partes
+3202260 3203360 (03) Humanas
+3203360 3204660 (03) Feitas em madeira
+3204660 3205380 (03) Assim
+3205380 3206220 (03) Talhadas
+3206220 3207460 (03) Como se fossem
+3207460 3208560 (03) Peças de
+3208560 3209460 (03) Marionetes
+3209460 3209920 (06, 03) Ele
+3209920 3211060 (06, 03) Vai dar uma
+3211060 3212660 (06) Foi a coisa assim
+3212660 3214020 (06) Que mais chamou a atenção dele
+3214020 3214980 (06) As outras coisas
+3214980 3215720 (06) Ele tá acostumado a trabalhar
+3215720 3216900 (06) Ele vai chegar perto
+3216900 3217640 (06) Pra dar uma olhada
+3217640 3218200 (06) Nessas
+3218200 3219700 (06) Nessas marionetes
+3219700 3220800 (03) A tua lembrança
+3220800 3221280 (03) Lá em cima
+3221280 3222240 (03) Foi nesta sala
+3222240 3223180 (06) Olha assim
+3223180 3223540 (06) Ele
+3223540 3225000 (06) Encosta na marionete
+3225000 3226040 (06) Ele encosta nele
+3226040 3227000 (06) Será que é a sua?
+3227300 3227700 (06, 03) Não
+3227840 3228780 (06) Não é carne
+3228780 3229400 (06, 11, 03) E ele
+3229400 3231180 (06) Olha assim
+3231180 3232020 (06) Ele tá
+3232020 3233060 (06) Ele tá confuso
+3233060 3233840 (06) Ele não
+3233840 3234660 (06) Não tá sabendo
+3234660 3235680 (06) O que que ele faz direito
+3235680 3236460 (06) Ele vai pegar
+3236460 3237480 (06) Vai tentar pegar uma peça
+3237480 3238380 (06) Dessa marionete
+3238380 3239080 (06) Alguma peça
+3239080 3240360 (06) E colocar dentro de um bolso
+3240360 3241660 (06) Colocar dentro do casaco dele
+3241660 3242400 (06) Um pedaço que
+3242400 3243420 (06) Uma mão então
+3243420 3244000 (06) Talvez
+3244000 3244600 (06) Pode
+3244600 3245080 (06) Pode ser
+3245080 3246020 (06) Beleza
+3246020 3246720 (06) É isso?
+3247040 3248980 (06) Se ele não viu mais nada
+3248980 3249700 (06) Que chama atenção
+3249700 3251520 (06) Ele vai dar um grito
+3251520 3253160 (06) E vai gritar assim
+3253160 3254200 (06) Dona Joana
+3254200 3255000 (06) Azad
+3255000 3257300 (06, 07) Eu achei uma passagem secreta
+3257300 3258540 (07) Opa
+3258540 3259920 (07) Eu acho que o Dimitri
+3259920 3260820 (07) Achou alguma coisa ali
+3260820 3262100 (07) Desperto
+3262100 3263460 (07) Vamos lá Dona Joana
+3263460 3264940 (14, 07) Mais coisa pra eu poder
+3264940 3267580 (14) Anotar no processo
+3267580 3268280 (14) Vamos lá
+3268280 3269340 (06, 14, 07) Vou descer também
+3269340 3271020 (06, 07) O Dimitri
+3271020 3272220 (06) Tá com um braço
+3272220 3273180 (06) De marionete assim
+3273180 3273880 (06) E ele balança
+3273880 3274660 (06) Dá um tchauzinho
+3274660 3275600 (06) Pra vocês
+3275600 3276300 (06) Um oi
+3276300 3277120 (06) Quando vocês vêm
+3277120 3279480 (06) Eu achei essa sala aqui
+3279480 3280520 (06) Mas eu não
+3280520 3281620 (06) Eu dei uma olhada
+3281620 3281940 (06) E não
+3281940 3283820 (06) Não achei nada demais
+3283820 3284380 (06) Também não
+3284380 3285260 (06, 03) Dona Joana
+3285260 3286460 (03) Claramente por chaleiro
+3286460 3287280 (03) Não é
+3287300 3288360 (14, 03) Gente
+3288360 3290000 (14) Mas tem tantas leis
+3290000 3291320 (14) Que eles foram contra
+3291320 3292220 (14) Que não tem
+3292220 3293240 (14) Não consigo nem
+3293240 3294120 (14) Pensar
+3294120 3295800 (14) Quantas eles já foram
+3295800 3297020 (14) Ai
+3297020 3298460 (14) Mas é muita coisa
+3298460 3299720 (14) Que eu vou ter que anotar
+3299720 3300460 (14, 07) O Azad
+3300460 3301740 (07) Que é mais da rua
+3301740 3302520 (07) Assim sabe
+3302520 3303000 (07) Da vida
+3303000 3303320 (07) Ele fala
+3303320 3303900 (07) Dona Joana
+3303900 3305400 (07) Claramente um laboratório
+3305400 3306080 (07) De estudos
+3306080 3306920 (07) Nada demais
+3306920 3307260 (07) É
+3307260 3308820 (07) Isso não é magia não
+3308820 3309640 (07) É tecnologia
+3309640 3310440 (14, 07) Mas
+3310440 3312180 (14) Só o fato de escavar
+3312180 3313400 (14) Pra dentro da terra
+3313400 3313660 (14) Não
+3313660 3315220 (14) Já tá fora da lei
+3315220 3316020 (14) Aí
+3316020 3316800 (14) Ele vai
+3316800 3317220 (14) Construir
+3317300 3318800 (14) Não tá
+3318800 3319500 (14) Não tá
+3319500 3320360 (14) A verbada
+3320360 3321200 (14) Essa casa aqui
+3321200 3322200 (14) Vai ter que colocar
+3322200 3322940 (14) Isso dentro
+3322940 3324300 (14) Da legislação
+3324300 3325480 (14) E aí depois
+3325480 3326520 (14) Olha todas
+3326520 3327940 (14) Essas plantas
+3327940 3329300 (14) Pedaço de animal
+3329300 3329960 (14) Aqui ó
+3329960 3330640 (14) Isso daqui
+3330640 3331480 (14) Não tá
+3331480 3332200 (14) Não pode
+3332200 3332640 (14) Isso
+3332640 3333980 (14) Essa daqui
+3333980 3334460 (14) Contra
+3334460 3335200 (14) Esse daqui
+3335200 3336560 (14) Tá na lei 723
+3336560 3338900 (14) Não tem como
+3338900 3339460 (14) Eles poderem
+3339460 3340240 (14) Colocar isso daqui
+3340240 3341800 (14) Exposto desse jeito
+3341800 3342560 (07) Caramba
+3342560 3343920 (07) Que interessante
+3343920 3344220 (07) Né
+3344220 3345140 (07) Aí ele vai se aproximando
+3345140 3346100 (07) Dos vidros guacha
+3346100 3346600 (07) Do
+3346600 3347780 (07) Você falou que tinha
+3347780 3348920 (07) Olhos né
+3348920 3349900 (07) Pedaços de bicho
+3349900 3350120 (07) Assim
+3350120 3352240 (11, 07) E aí ele vai tentar
+3352240 3353260 (07) Identificar se são
+3353260 3354300 (07) Partes
+3354300 3355200 (07) Humanas
+3355200 3356360 (07) Ou se são coisas de bichos
+3356360 3357280 (07) Animais etc
+3357280 3357820 (07) Dois dados
+3357820 3359820 (07) Eu tirei
+3359820 3360560 (07) Seis e um
+3360560 3361720 (03, 07) Parecem todas
+3361720 3362720 (07) De animais
+3362720 3363580 (07) É
+3363580 3364620 (07) Dona Joana
+3364620 3365560 (07) Eu acho que
+3365560 3366880 (07) Tirando essa parte aí
+3366880 3367740 (07) Que você falou né
+3367740 3369100 (07) Do puxadinho
+3369100 3369680 (07) Ou sei lá
+3369680 3371120 (07) Que não tá na legislação
+3371120 3372220 (07) Aparentemente
+3372220 3372880 (07) Era só uma
+3372880 3373840 (07) Questão de estudo
+3373840 3374700 (07) Não que
+3374700 3375640 (07) Mataram animais
+3375640 3376240 (07) Assim pra isso
+3376240 3376440 (07) Ou seja
+3376440 3376580 (07) Ele é um animal
+3376600 3377160 (07) Legal né
+3377160 3377720 (07) Mas assim
+3377720 3378840 (07) Eu acho que não tem
+3378840 3379660 (07) Nada demais não
+3379660 3380960 (14, 07) Nós vamos ter que
+3380960 3383200 (14) Ver com o senhor
+3383200 3384100 (14) Merrick depois
+3384100 3384560 (14) Porque
+3384560 3385900 (14) Infelizmente
+3385900 3386840 (14) A senhora Gisela
+3386840 3387980 (14) Ah
+3387980 3388920 (14) Mas vou ter que
+3388920 3389560 (14) Puxar
+3389560 3390360 (14) Osados
+3390360 3391300 (14) A gente vai ter que
+3391300 3392360 (14) Puxar alguém aqui
+3392360 3392960 (14) Pra poder
+3392960 3394720 (14) Tirar ela lá de cima
+3394720 3396360 (14) Vamos
+3396360 3397480 (14) O que a gente pode
+3397480 3398200 (14) Fazer aqui
+3398200 3399440 (14) Ela já
+3399440 3399880 (14) Não tá
+3399880 3400260 (14) Ela já
+3400260 3401260 (14) Ela já passou
+3401260 3402980 (14) A ignorar as coisas ali
+3402980 3404120 (14) Já tá pensando de novo
+3404120 3404560 (14) No corpo
+3404560 3405100 (14) Que ela vai ter que
+3405100 3405900 (06, 14) Resolver lá em cima
+3405900 3406440 (06, 14) Então se o senhor
+3406440 3407000 (14) Se os meninos
+3407000 3408600 (14) Quiserem fazer alguma coisa
+3408600 3409020 (06, 14) Olha
+3409020 3411880 (06, 14) A dona aí
+3411880 3412520 (06) A moça
+3412520 3413320 (06) Já morreu
+3413320 3413860 (06) Tem tempo
+3413860 3414900 (06) Vamos
+3414900 3415980 (06) Vamos olhar então
+3415980 3416760 (06) A questão do Merrick
+3416760 3417280 (06) Primeiro
+3417280 3419200 (06) Talvez ele tenha acordado
+3419200 3420480 (06) E ele tenha algumas respostas
+3420480 3420940 (06, 07) Tá
+3420940 3421780 (07) E eu tava pensando
+3421780 3422900 (07) De dar uma olhada no lago
+3422900 3423660 (07) Então vocês querem
+3423660 3424620 (07) Voltar pra
+3424620 3425460 (07) Pra prisão
+3425460 3426840 (07) E eu posso rastrear lá
+3426840 3427280 (07) Pelo lago
+3427280 3428020 (07) Se vocês quiserem
+3428020 3429340 (07) Eu sou bom na floresta
+3429340 3429640 (14, 07) Bom
+3429640 3430920 (14) A gente pode voltar
+3430920 3431580 (14) Pra eu poder
+3431580 3433500 (14) Pedir pra algum guarda
+3433500 3434280 (14) Poder vir buscar
+3434280 3435100 (14) Esse corpo
+3435100 3436280 (14) E aproveitar
+3436440 3438800 (14) E conversar com o Merrick
+3438800 3440180 (14, 00, 07) Mas
+3440180 3441680 (14, 00) Azad
+3441680 3442720 (14) Acho que
+3442720 3444080 (14) Essa missão
+3444080 3445000 (14) Pode ser pra você
+3445000 3445800 (14) Nesse momento
+3445800 3446080 (14) Eu?
+3446220 3447000 (14, 07) Carregar o corpo?
+3447320 3447720 (14) Não
+3447720 3448780 (14) Você
+3448780 3449380 (14) Tava
+3449380 3450280 (14) Tava falando
+3450280 3451160 (14) Da missão
+3451160 3452120 (14) De ir até o lago
+3452120 3452760 (06, 14) Ah tá
+3452760 3453140 (06) Ufa
+3453140 3455240 (06) Mas ele vai sozinho
+3455240 3455960 (06, 14) O lago é perigoso
+3455960 3457560 (06, 14) Você quer ir junto com ele?
+3457820 3458240 (06) Eu não
+3458240 3462040 (06, 14) A senhora
+3462040 3462880 (06, 07) Não
+3462880 3463920 (14, 07) Eu não vou ir
+3463920 3465560 (07) Eu não vou ir lá no lago
+3465560 3466120 (07) Não
+3466120 3466420 (07) Eu me sinto
+3466440 3466940 (07) Viro bem
+3466940 3468060 (07) Eu nasci quase
+3468060 3468660 (07) Na floresta
+3468660 3470660 (07) Depois é que eu me embreei
+3470660 3471680 (07) Dentro das cidades
+3471680 3472720 (07) Em tabernas
+3472720 3473180 (07) E no
+3473180 3474060 (07) Quer dizer
+3474060 3474660 (07) É
+3474660 3475140 (07) Nas cidades
+3475140 3475640 (07) Entendeu?
+3476040 3477080 (07) Eu posso dar uma olhada lá
+3477080 3477800 (07) Qualquer coisa
+3477800 3478440 (07) Eu fujo
+3478440 3479580 (07) Rapidinho
+3479580 3480580 (14, 07) Cuidado então
+3480580 3481920 (14) Nós vamos cuidar
+3481920 3482220 (14) Dessa
+3482220 3483660 (14) Dessa burocracia aqui
+3483660 3483880 (14) É
+3483880 3484600 (14, 07) Quanto ao corpo
+3484600 3485720 (07) Eu acho que não tem problema não
+3485720 3486620 (07) Essa casa tava fechada
+3486620 3487880 (07) Ninguém tava se aproximando mesmo
+3487880 3488760 (07) Eu acho que dá tempo
+3488760 3489520 (07) De vocês irem lá
+3489520 3490120 (07) Chamar um guarda
+3490120 3490780 (07) E trazer gente
+3490780 3491900 (07) Pra levar a moça
+3491900 3492480 (14, 07) Ah
+3492480 3493820 (14) Eu não vou voltar aqui não
+3493820 3495040 (14) Eu vou já pedir os guardas
+3495040 3496380 (14) Já vou sinalizar onde é
+3496380 3497160 (14) Eles vêm aqui
+3497160 3498000 (14, 07) Eles buscam
+3498000 3498620 (07) Tá certo
+3498620 3498900 (07) Bom
+3498900 3500080 (07) Então eu vou adiantar
+3500080 3500300 (07) Pra
+3500300 3501900 (07) Pras pistas não esfriarem né
+3501900 3503180 (14, 07) Então com licença
+3503180 3504220 (14, 07) Quando você terminar
+3504220 3505100 (14) Volta pra
+3505100 3506500 (14, 07) Pro nosso central
+3506500 3507340 (14, 07) Sim senhora
+3507340 3508420 (07) Ele já tá falando assim
+3508420 3509040 (07) De costas
+3509040 3509680 (07) Dando um ok
+3509680 3510640 (07) Com a mãozinha assim
+3510640 3511660 (14, 07) Vamos voltar Dimitri?
+3511700 3512400 (14) Vamos vamos
+3512400 3514360 (14, 03, 07) A porta secreta
+3514360 3515800 (03) Tá escancarada
+3515800 3517300 (06, 03) Ou foi escondida de novo?
+3517400 3517700 (06) O
+3517700 3518840 (06) O Dimitri
+3518840 3519760 (06) Passando por último
+3519760 3520840 (06) Ele vai fechar ela de novo
+3520840 3521660 (06) Beleza
+3521660 3521940 (06, 14) Ok
+3521940 3522280 (14) Eu vou
+3522280 3523140 (14) Eu vou permitir
+3523140 3524180 (14) Que fique fechada
+3526380 3535720 (03) Beleza
+3535720 3536620 (03) Joana e Dimitri
+3536620 3537560 (03) Voltando pra
+3537560 3538800 (03) Pra sede
+3538800 3540560 (03) Azad vai até o rio né
+3540560 3541300 (07, 03) Isso
+3541300 3543300 (07, 03) Ele vai bem assim
+3543300 3544920 (07) Furtivo
+3544920 3545260 (07) Entendeu?
+3545380 3547200 (07) Ele vai se misturando ali na floresta
+3547200 3548500 (07) Pra não dar a pinta
+3548500 3549500 (07) De que ele está passando
+3549500 3550460 (03, 07) Dois dados vai
+3550460 3552820 (07, 03) Ele tirou cinco e uma
+3552820 3553420 (03, 07) Perfeito
+3553420 3554780 (03) Um acerto simples
+3554780 3556200 (03) Uma outra pessoa pescada
+3556380 3557280 (03) Pescando assim
+3557280 3559080 (03) Algumas crianças
+3559080 3561320 (03) Nada que te chame a atenção
+3561320 3563120 (07, 03) Nada suspeito né?
+3563220 3563420 (11, 03, 07) Não
+3563420 3564860 (11, 03, 07) Nenhum tipo de atividade assim
+3564860 3566440 (07) Ah eu vou me aproximar
+3566440 3567300 (07) Do cara pescando
+3567300 3567840 (07) Uhum
+3567840 3569460 (07) Sentar com quem não quer nada
+3569460 3570500 (07) Bom dia
+3570500 3571600 (07) Bom dia
+3571600 3575840 (07) Foi bom respirar um pouquinho de ar puro sabe?
+3576400 3576960 (07) Sim sim
+3576960 3578400 (07) O senhor vive aqui há muito tempo?
+3578760 3579900 (07) Desde que eu era criança
+3579900 3580700 (07) É mesmo
+3580700 3582100 (07) Deve conhecer o pessoal bem né?
+3582180 3583220 (07) Ele te olha assim
+3583220 3584940 (07) Você não é daqui né?
+3585060 3585800 (07) Ah não não não
+3585800 3586300 (07) Eu tô de passagem
+3586380 3588240 (07) Eu sou um aventureiro
+3588240 3589240 (07) Ou coisa assim
+3589240 3592120 (07) Na verdade eu vim visitar uma amiga
+3592120 3593200 (07) X ela
+3593200 3594080 (07) Você conhece?
+3594380 3595560 (07) Ele olha pra ti
+3595560 3597220 (08, 07) É de nome?
+3598180 3598520 (07) É
+3598520 3600120 (07) Ele se recosta assim sabe?
+3600320 3602240 (07) Bota as braços pra trás assim
+3602240 3604700 (07) Essa moça já salvou minha vida uma vez
+3604700 3605760 (07) Eu devo muito a ela
+3605760 3607300 (07) Aí eu ouvi que
+3607300 3609180 (07) Aconteceram uns problemas aí
+3609180 3610440 (07) E resolvi vir ajudar
+3610440 3611280 (07) Sabe
+3611280 3612760 (07) Parece que nessa cidade
+3612760 3614260 (07) Tem um certo problema
+3614260 3615540 (07) Aí ele sussurra assim
+3615540 3616080 (07) Chega perto
+3616080 3617980 (07) Com a galera nobre
+3617980 3619140 (07) Se é que você me entende
+3619140 3621100 (07) Um pouco de injustiça sabe?
+3621420 3622140 (07) Coisa errada
+3622140 3623660 (03) Ele olha assim pra ti
+3623660 3625440 (08, 03) A Gisela já te ajudou né?
+3625720 3626120 (08, 03) Aham
+3626120 3627000 (03) Um dado já
+3627000 3629460 (07, 03) Eu tirei quatro
+3629460 3630700 (07) Que é o meu atributo
+3630700 3633260 (03, 07) Tu tá ali abaixado né?
+3634100 3634680 (03) Tentando
+3634680 3635800 (03) Falando com ele
+3635800 3638780 (03) Ele tentou te passar uma rasteira
+3638780 3639640 (03) E te jogar no rio
+3639640 3640560 (03) Caramba
+3640560 3641720 (03) O que que tu fez?
+3642200 3642540 (07) Nossa
+3642540 3643620 (07) Se ele tentou fazer isso
+3643620 3644780 (07) O azar de que é bem ágil
+3644780 3645540 (07) Ele salta
+3645540 3645920 (07) Pra fugir
+3645920 3646040 (07) Ele tentou fazer isso
+3646080 3646860 (07) Fugir da rasteira
+3646860 3648320 (07) E ele já vai descer
+3648320 3649080 (07) Com uma ajoelhada
+3649080 3650220 (07) Nos peitos do cara
+3650220 3651160 (07) Peraí
+3651160 3651520 (07) Peraí
+3651520 3652180 (07) Calminha
+3652180 3652880 (07) Calminha
+3652880 3653580 (07) Que que foi isso?
+3653660 3654940 (07) E ele tá olhando pros lados também
+3654940 3656420 (07) Pra ver se o cara não tem comparsas
+3656420 3658420 (03, 07) As poucas pessoas da rubra ali
+3658420 3659560 (03) Correram pra bem longe
+3659560 3660860 (07, 03) O que foi isso amigão?
+3661040 3662460 (07) A gente tava conversando de boa
+3662460 3664040 (07) Que agressividade é essa?
+3665120 3666200 (08) Eu só queria testar
+3666200 3667840 (08) Se era verdade o que você disse
+3667840 3668280 (08, 07) É
+3668280 3669080 (07) Eu sou um aventureiro
+3669680 3670600 (07) Como você pode ver
+3670600 3671620 (07) A Gisela salvou minha vida
+3671620 3673080 (07) E eu tô bem saudável
+3673080 3673660 (07) Inclusive
+3673660 3675440 (07) Saudável o suficiente
+3675440 3675920 (07) Pra você
+3675920 3677640 (07) Pra você não me agredir
+3677640 3678600 (07) Não vai fazer muito bem
+3678600 3679360 (07) Pra sua saúde
+3679360 3680180 (07) Agora
+3680180 3681720 (07) Vamos soltar a língua aí
+3681720 3682700 (07) E falar alguma coisa?
+3682840 3684040 (08, 07) Gisela nunca te ajudou
+3684040 3684540 (07) É mesmo?
+3684620 3684900 (07) Por quê?
+3685000 3685720 (07) Como é que você chegou
+3685720 3686860 (07) A essa conclusão brilhante?
+3687000 3687620 (07) Entra no rio
+3687620 3688540 (07) Eu olho pro rio
+3688540 3689040 (07) Tu acha?
+3689200 3689480 (07) O que que
+3689480 3691280 (07) Vê alguma coisa estranha no rio?
+3691480 3691880 (07) Ah, agora
+3691880 3694700 (07) Entra no rio por quê?
+3694900 3696360 (07) Tem alguma coisa especial no rio?
+3696480 3696660 (08, 07) Ele fala
+3696660 3697520 (08, 07) Quer respostas?
+3698000 3698700 (08, 07) Entra no rio
+3698700 3699940 (08, 07) Eu não queria te atacar
+3699940 3701440 (08) Eu queria te jogar na água
+3701440 3703060 (07) Pois é, meu caro
+3703060 3703780 (07) E eu também
+3703780 3705680 (07) Tô realmente querendo
+3705680 3706860 (07) Ajudar a Gisela, sabe?
+3707400 3707920 (07) Eu não quero
+3707920 3708720 (07) Ficar do lado
+3708720 3709700 (07) Do engomadinho
+3709700 3711060 (07) Que veio falar com a gente
+3711060 3712460 (07) Mais cedo
+3712460 3713760 (07) E pedir ajuda
+3713760 3715680 (08, 07) Eu quero resolver a situação
+3715680 3716460 (08) Ela morreu, né?
+3716860 3717120 (07) É
+3717120 3719080 (07) Aparentemente assassinada
+3719080 3721200 (07) E eu acho que
+3721200 3722660 (07) Ela é inocente
+3722660 3724040 (07) Se é que eu posso
+3724040 3724420 (07) Dizer
+3724420 3725600 (08, 07) Eu acredito que sim
+3725600 3726500 (08) Não havia
+3726500 3728460 (08) Pessoa melhor que ela por aqui
+3728460 3730080 (08) E o pior
+3730080 3731540 (08) É o que ela fez pela gente
+3731540 3733700 (08) Ninguém pode fazer por ela, né?
+3733860 3734920 (07) Ah, sei
+3734920 3735660 (07) Vamos fazer uma coisa
+3735680 3736280 (07) Vamos fazer o seguinte
+3736280 3737660 (07) Eu vou entrar no rio
+3737660 3738660 (07) Aí ele puxa a faca
+3738660 3739740 (07) Bota no pescoço do cara
+3739740 3741280 (07) Mas você vai junto comigo
+3741280 3742600 (07) E aí ele vai empurrando o cara
+3742600 3743100 (07) Pra frente
+3743100 3744340 (07) E vai tentando entrar no rio
+3744340 3745420 (08, 07) Ela nunca me ajudou
+3745420 3747000 (03, 07) Ele entra no rio
+3747000 3748580 (03) Vocês dois com água
+3748580 3749680 (03) Assim, batendo no joelho
+3749680 3751140 (03) Ele olha pra ti e ri
+3751140 3753000 (08, 03) Ela nunca te ajudou também
+3753000 3753680 (08) Nunca precisou
+3754380 3755140 (07) Eu tô esperando
+3755140 3755680 (07) Eu tô observando
+3756600 3757600 (07) Pra ver se acontece
+3757600 3758860 (07) Alguma coisa muito estranha
+3758860 3760140 (07) Mas eu tô meio que na beira, viu?
+3760260 3760900 (07) Acho que qualquer coisa
+3760900 3761940 (07) Eu quero pular pra fora
+3761940 3763500 (03, 07) Não, nada estranho acontece
+3763500 3765040 (07) Tá, aí ele olha pro lado
+3765040 3765660 (07) Ele ainda tá com a faca
+3765680 3766760 (07) Ele tem uma adaga assim
+3766760 3767760 (07) No pescoço do cara
+3767760 3768860 (07) Ele olha assim
+3768860 3769860 (07) Pras árvores
+3769860 3771020 (07) Pras margens
+3771020 3773100 (07) E aí qual é a ideia brilhante?
+3773200 3773980 (07) O que é que tem esse rio?
+3774180 3774580 (07) Qual é...
+3774580 3775560 (07) O que é que tem de especial aqui?
+3775840 3776460 (08) A Gisela
+3776460 3778280 (08) Ajuda as pessoas por um preço
+3778280 3779360 (08) E esse preço
+3779360 3780620 (08, 07) É a água te rejeitar
+3780620 3782860 (08, 07) E era pra acontecer alguma coisa
+3782860 3783640 (07) Comigo
+3783640 3784520 (07) Ou a água
+3784520 3785500 (07) Não deixava eu entrar?
+3785860 3786260 (08, 07) É isso?
+3786600 3786900 (08) Isso
+3786900 3788060 (08) Você não estaria aqui
+3788060 3789660 (08) Por livre e espontânea vontade
+3789660 3790560 (08, 07) Acho que eu não vou conseguir
+3790560 3791760 (07) Muita coisa com você, né?
+3791980 3792580 (08) A Gisela
+3792580 3793860 (08) Era uma pessoa boa
+3793860 3795520 (08) Ajudava quem precisava
+3795520 3795660 (08) Você tá vendo?
+3795680 3796400 (08) Eu tava muito feliz
+3796400 3797580 (08) Que ia casar
+3797580 3798640 (08) Foi o erro dela
+3798640 3799880 (08) Quer saber de uma coisa?
+3800220 3800700 (08) Vai atrás
+3800700 3801720 (08) Daquele tal engomadinho
+3801720 3802100 (07) É
+3802100 3803300 (07) É uma boa ideia
+3803300 3804400 (07) A Gisela parece
+3804400 3805560 (07) Uma pessoa boa
+3805560 3806720 (07) Pelo que tão falando mesmo
+3806720 3807900 (07) Sorte dela
+3807900 3808580 (07) Que eu não sou
+3808580 3809700 (07) Uma pessoa tão boa assim
+3809700 3810740 (07) Eu espero que
+3810740 3812340 (07) Isso sirva de alguma coisa
+3812340 3813240 (07) Pra gente investir
+3813240 3814280 (07) Aí eu vou tirando
+3814280 3815320 (07) O cara de dentro da água
+3815320 3819460 (07) Obrigado pelo banho de rio
+3819460 3820940 (07) E pela pista
+3820940 3821860 (07) Fico te devendo
+3821860 3823000 (07) Uma cerveja mais tarde
+3823000 3823860 (08, 07) Pode deixar
+3823860 3824540 (08) Que eu vou cobrar
+3824540 3825220 (08, 07) Qualquer coisa
+3825220 3825520 (07) Avisa
+3825520 3826780 (07) Lembra
+3826780 3828160 (07) Tô aqui pra ajudar
+3828160 3829400 (07) Não tô do lado da nobreza
+3829400 3831100 (07) E aí ele vai andando
+3831100 3831960 (03, 07) O João e o Dmitri
+3831960 3833240 (03) Chegam até a sede
+3833240 3835520 (03) Assim que vocês entram
+3835520 3837120 (03) O rapaz vai até a grade
+3837120 3838340 (03) Ele fala
+3838340 3839200 (06, 03) Gisela
+3839200 3839900 (06) Ah
+3839900 3842280 (06, 14) Você tá vivo, moço
+3842280 3842660 (14) Que bom
+3842660 3843120 (14) Ufa
+3843120 3844720 (14) Como que ele tá, Guaxa?
+3845000 3845760 (03) Ele tá meio
+3845760 3846980 (03) Ele tá meio curvado
+3846980 3847560 (03) Assim, meio
+3847560 3848740 (03) Meio esquisito
+3848740 3849580 (03) Até o jeito
+3849580 3850820 (03) De ele andar ali
+3850820 3852260 (03) Mas ele tá
+3852260 3853500 (03) Ele tá estendendo a mão
+3853500 3854100 (03) Assim pra fora
+3854100 3854880 (03) Da cela
+3854880 3855500 (03) E ele vai
+3855520 3855780 (03) Repete
+3855780 3856320 (03) Gisela
+3856320 3857640 (14, 03) Bom, o senhor
+3857640 3859080 (14) É o senhor Merrick, né?
+3861080 3862040 (14) Fiquei sabendo
+3862040 3862700 (14) Que era
+3862700 3864360 (14) Noivo
+3864360 3865440 (14) Da senhora Gisela
+3865440 3866540 (14) Infelizmente
+3866540 3867120 (14) Não tenho
+3867120 3868000 (14) Boas notícias
+3868000 3868840 (14) Pra dar ao senhor
+3868840 3869860 (14, 03) Cai sentado assim
+3869860 3870520 (03) Ele vai pra trás
+3870520 3871580 (03) Cai sentado na cama
+3871580 3872900 (05, 03) Ele a matou
+3872900 3874820 (05) Quem matou ela?
+3875040 3876340 (05) Leófric matou ela
+3876340 3877540 (05) Mas por quê?
+3878120 3878880 (05) Eu não sei
+3878880 3880680 (05) Ela foi me ajudar um dia
+3880680 3882200 (05) E quis mostrar
+3882200 3883260 (05) Como era a nobreza
+3883260 3884120 (05) A gente ia casar
+3884120 3884380 (05) E
+3884380 3884860 (05) Ela foi me ajudar
+3884860 3884880 (05) E ela foi me ajudar
+3884880 3884900 (05) E ela foi me ajudar
+3884900 3884980 (05) E ela foi me ajudar
+3884980 3885060 (05) E ela foi me ajudar
+3885060 3885120 (05) E ela foi me ajudar
+3885120 3885360 (05) E ela foi me ajudar
+3885360 3885380 (05) E ela foi me ajudar
+3885380 3886060 (05) Ela foi comigo
+3886060 3888620 (05) O Leófric gostou muito dela
+3888620 3890500 (05) Depois me disseram
+3890500 3891240 (05) Que ele foi
+3891240 3892540 (05) Importunado em sua casa
+3892540 3893660 (05) E quando eu fui até lá
+3893660 3894440 (05) Ela
+3894440 3896120 (05) Ela
+3896120 3898780 (05) Já tinha morrido
+3898780 3899440 (06) E
+3899440 3900920 (06) E foi por isso
+3900920 3901680 (06) Que você
+3901680 3903220 (06) Foi atacar o Leófric?
+3903240 3904100 (06) Vou matar
+3904100 3905400 (06) Aquele desgraçado
+3905400 3906780 (06) Dona Joana
+3906780 3907820 (06) No caso
+3907820 3909060 (06) Ele não fez
+3909060 3910020 (06) Nada de errado, né?
+3910100 3910760 (06) Quem fez primeiro
+3910760 3911600 (06) Foi o Leófric, né?
+3912000 3912920 (14) É, na verdade
+3912920 3914920 (14) Os dois fizeram errado, né?
+3914920 3915220 (14) Então
+3915220 3917640 (14) Um erro não justifica o outro
+3917640 3918540 (14) Então
+3918540 3919060 (14) Então
+3919060 3920620 (14) O Merrick já tá preso
+3920620 3921860 (14) Então tem que prender o Leófric
+3921860 3923320 (14) Nós vamos atrás do
+3923320 3924720 (14) Senhor Leófric
+3924720 3926360 (14) Pra conversar com ele agora
+3926360 3927400 (14) Mas
+3927400 3929980 (14) O Merrick não vai poder sair, não
+3929980 3931380 (14, 03) Ele olha pro
+3931380 3932220 (03) Pro Dmitry
+3932220 3933300 (03) E abre um sorriso
+3933300 3933780 (03) Assim, meio
+3933780 3934480 (03) Meio macabro
+3934480 3934920 (06, 03) É
+3934920 3936560 (06) O Dmitry vai
+3936560 3937320 (06) Vai tentando
+3937320 3938520 (06) Aproximar um pouco
+3938520 3939600 (06) Perto dele, assim
+3939600 3940160 (06) Aqui
+3940160 3940800 (06) Ah
+3940800 3941600 (06) Ah
+3941600 3943660 (06) Você me conhece
+3943660 3944500 (06) De
+3944500 3944700 (06) De
+3944700 3944760 (06) De
+3944760 3946220 (06) De algum lugar
+3946220 3947000 (06) Fora do
+3947000 3947940 (06) Do Ferreira?
+3948460 3949060 (05) Sempre fui
+3949060 3950240 (05) Com a sua cara
+3950240 3951040 (05) E no fundo
+3951040 3952960 (05) Sempre soube o porquê
+3952960 3953640 (06) E
+3953640 3954420 (06) E
+3954420 3954960 (06) E é porquê?
+3956140 3956880 (06) O Dmitry olha
+3956880 3957240 (06) Tipo
+3957240 3958760 (06) Genuinamente curioso
+3959540 3960320 (05) Você não lembra?
+3961340 3961740 (06) É
+3961740 3962280 (06) Eu
+3962280 3963140 (06) Sabe
+3963140 3965400 (06, 05) Eu já participei
+3965400 3966440 (05) De muitas explosões
+3966440 3966800 (05) Eu não
+3966800 3967840 (06, 05) Eu não lembro
+3967840 3968520 (06, 05) Muitas coisas
+3968520 3969540 (05) A gente acabou gostando
+3969540 3970240 (05) De máquinas
+3970240 3971220 (06, 05) E coisas esquisitas, né?
+3971240 3971700 (06, 05) É
+3971700 3972380 (06) Mas
+3972380 3973220 (06) Mas
+3973220 3973800 (06) É
+3973800 3974240 (06) E
+3974240 3974900 (06) , assim
+3974900 3975240 (06) Ele olha
+3975240 3975840 (06) Ele olha pra
+3975840 3976760 (06) Pra Joana
+3976760 3977780 (06) Olha pro
+3977780 3978700 (06) Pro cara
+3978700 3979700 (06) Chega um pouco mais perto
+3979700 3980360 (06) Ah
+3980360 3982600 (06) A sua esposa já me ajudou, não já?
+3983060 3983740 (05) A mãe dela
+3983740 3984400 (05) Ah
+3984400 3987320 (05) A mãe dela foi unida pra floresta
+3987320 3989000 (05) Com um bruxa há muito tempo
+3989000 3990660 (05) Mas ela continuou por aqui
+3990660 3991560 (05) Ajudando as pessoas
+3991560 3993200 (05) Me ajudando
+3993200 3995700 (05) Ajudando aqueles que precisam
+3995700 3996660 (06) Ah, tá
+3996660 3997240 (06) Ela é
+3997240 3998660 (06) Tipo uma médica, então
+3998660 4000160 (06) Eu vi
+4000160 4000720 (06) Eu vi a sala
+4000720 4002320 (06) Tinha umas ervas, né?
+4002680 4003420 (06, 03) A Joana tá
+4003420 4003700 (03) Pensando
+4004240 4005500 (03) O que é dessa conversa maluca
+4005500 4005860 (06, 14, 03) Dos dois
+4005860 4006920 (14, 03) A Joana tá
+4006920 4008100 (14) Muito curiosa
+4008100 4008900 (14) Tentando entender
+4008900 4010140 (14) Do que que eles estão falando
+4010140 4011420 (14) Ela tá
+4011420 4012000 (14) Agora
+4012000 4012520 (14) Agora
+4012520 4013460 (14) Chamou bastante
+4013460 4014260 (14) A atenção dela
+4014260 4015840 (14, 05) O rapaz olha pro Dmitry
+4015840 4017180 (05) Eu vou descansar um pouco
+4017180 4018300 (05) Vou sair daqui
+4018300 4018940 (05) E vou matar
+4018940 4020000 (05) Aquele filho da puta
+4020000 4021020 (06) Ca-ca-calma
+4021020 4021320 (06) Calma
+4021320 4021480 (06) Você
+4021480 4024160 (06) Deixa a gente resolver isso
+4024160 4025000 (06) A
+4025000 4026360 (06) Dona Joana
+4026360 4027520 (06) Conhece todas as leis
+4027520 4027960 (06) Do reino
+4027960 4028580 (06) De Kó
+4028580 4030280 (06) E a gente resolve as coisas
+4030280 4030960 (05) A lei dos ricos?
+4031820 4032600 (05) Tudo bem
+4032600 4033740 (05) Assim que a noite cair
+4033740 4034200 (05) Eu estou
+4034200 4034780 (05) Eu estou fora daqui
+4034780 4036140 (05) E ele deita na cama
+4036140 4038160 (06, 05) O Dmitry olha pra Dona Joana
+4038160 4038560 (06) Tipo
+4038560 4039720 (06) Eu não fiz nada
+4039720 4040980 (06, 14) Dmitry
+4040980 4041800 (14) Tá tudo bem
+4041800 4043040 (14) Merrick
+4043040 4044820 (14) Eu só queria deixar bem claro
+4044820 4045960 (14) Que de acordo com a lei
+4045960 4047740 (14) 3, 2, 5
+4047740 4049480 (14) Você não pode sair da cadeia
+4049480 4050240 (14) Tá?
+4050380 4050780 (14) Então
+4050780 4052060 (14) Fica quietinho aí
+4052060 4053260 (03) O Azad chega
+4053260 4055260 (03) Meio molhado assim
+4055260 4055960 (07, 03) Opa
+4055960 4057420 (07) Conseguiram alguma coisa aí?
+4058360 4058720 (07) Eu
+4058720 4060760 (07) Só reforcei o que eu já tava pensando
+4060760 4061460 (07) É viu, Dona Joana?
+4061600 4061860 (14, 07) É
+4061860 4063060 (14, 07) O que que você descobriu, Azad?
+4063340 4064040 (07) Parece que
+4064040 4066100 (07) O povo gostava bastante
+4066100 4066800 (07) Dessa GZ
+4066800 4068580 (07) Ela parecia ajudar o pessoal
+4068580 4069360 (07) E
+4069360 4070920 (07) Aparentemente
+4070920 4072560 (07) Quem se engraçou
+4072560 4073500 (07) Pro lado dela
+4073500 4075400 (07) Foi o tal do Leofric
+4075400 4077220 (07) Sinto lhe dizer, chefa
+4077220 4077660 (07) Mas
+4077660 4079560 (07) Tudo cheira mal
+4079560 4080960 (07) Pro lado da nobreza
+4080960 4082480 (06, 07) Olha só, Dona Joana
+4082480 4083160 (06) Nós temos
+4083160 4084800 (06) Duas fontes
+4084800 4085140 (06) Então
+4085140 4086280 (06) Falando a mesma coisa
+4086280 4087320 (06) Porque foi o que o Merrick
+4087320 4088460 (06) Acabou de relatar pra gente
+4088460 4089340 (06) Ele olha pro
+4089340 4090760 (06) Pro Azad assim
+4090760 4092140 (06) E dá um joia pra ele
+4092140 4092980 (06, 14) É verdade
+4092980 4093640 (14) É verdade
+4093640 4094020 (14) É verdade
+4094040 4095600 (14) Nós temos que correr
+4095600 4096620 (14) Atrás da verdade
+4096620 4097500 (14) Então
+4097500 4098780 (14) Se temos
+4098780 4100780 (14) Duas fontes
+4100780 4102280 (14) Precisamos investigar
+4102280 4103360 (14) Se essa informação
+4103360 4105380 (14) O que podemos fazer com ela
+4105380 4106360 (14) Se aconteceu
+4106360 4108300 (14) Vamos atrás do Leofric
+4108300 4109100 (14, 07) Exato
+4109100 4110640 (07) As informações estão batendo, né?
+4111180 4112540 (07) A gente já verificou
+4112540 4114640 (07) O lado do Merrick
+4114640 4116060 (07) A gente já olhou
+4116060 4117400 (07) A galera da população
+4117400 4118480 (07) A casa da Gisele
+4118480 4120580 (07) Falta interrogar
+4120580 4121900 (07) O almofadinho
+4121900 4123580 (07) Se me permite dizer
+4123580 4124020 (07) Ele não está
+4124040 4124560 (07) Ele está um pouco
+4124560 4125940 (06, 07) Debochado agora
+4125940 4128000 (06) E parece que
+4128000 4129140 (06) A mãe da Gisele
+4129140 4130380 (06) Também era médica
+4130380 4132300 (06) O Merrick me falou aqui
+4132300 4133020 (06) Parece que ela até
+4133020 4133660 (06) Já cuidou de mim
+4133660 4134740 (06) Mas eu não
+4134740 4135860 (06) Eu não lembro muito bem
+4135860 4136660 (06, 14) Eu estava ouvindo
+4136660 4138200 (14) Vocês conversando
+4138200 4139680 (14) E...
+4139680 4140600 (14) É, não sei
+4140600 4142000 (14) Essa coisa aí
+4142000 4143220 (14) De médica
+4143220 4144800 (14) Pra mim está cheirando
+4144800 4145820 (14) Mais a bruxaria
+4145820 4146780 (14, 07) Ah, não
+4146780 4148120 (14, 07) Que isso, Dona Joana
+4148120 4149020 (07) Você é tão esperta
+4149020 4150040 (07) Você vai acreditar nisso?
+4150160 4150960 (07) Minha mãe era chamada
+4150960 4152380 (07) De bruxa também, Dona Joana
+4152380 4153300 (07) E ela era uma mulher
+4153300 4153740 (07) Que ajudava
+4153740 4154420 (07) Muita gente
+4154420 4155260 (14, 07) Ajudar
+4155260 4156760 (14) Ajudar é uma coisa
+4156760 4158120 (14) Fazer bruxaria é outra
+4158120 4159340 (14, 07) Sei, sei
+4159340 4160720 (07) Sabe o que eu estava pensando
+4160720 4161320 (07) Dona Joana?
+4161500 4162780 (07) Talvez seja difícil
+4162780 4163560 (07) O nobre
+4163560 4164920 (07) Querer se envolver no caso
+4164920 4166160 (07) Principalmente
+4166160 4167000 (07) Se ele tiver culpa
+4167000 4167560 (07) Realmente
+4167560 4168720 (07) Mas ele parece
+4168720 4170280 (07) Simpatizar com você
+4170280 4171180 (07) O que você acha
+4171180 4172460 (07) De você chamar ele
+4172460 4173660 (07) Atrair pra algum lugar
+4173660 4175180 (07) E aí a gente conversa
+4175180 4176520 (07) Com o cidadão
+4176520 4177400 (07) O cidadão de bem
+4177400 4178100 (14, 07) Infelizmente
+4178100 4179180 (14) De acordo com a lei
+4179180 4180660 (14) 722
+4180660 4182080 (14) A gente não vai poder
+4182080 4183320 (14) Prender o nobre
+4183320 4183720 (14) E a gente não vai poder
+4183740 4211440 (06, 14) Prender o senhor Leófric
+4211440 4212560 (14) Mas a gente pode
+4212560 4213500 (14) Conversar com ele
+4213500 4213720 (14) E a gente não vai poder
+4213740 4214480 (07) Uhum
+4214480 4216060 (14, 11, 07) Conversar
+4216060 4216880 (14, 07) Claro
+4216880 4217740 (07) Conversar
+4217740 4219020 (14, 07) Fazer ele falar
+4219020 4219900 (07) Você quer dizer, né?
+4220220 4220540 (14) Vamos
+4220540 4222700 (14) O que vocês sugerem de plano?
+4223020 4224180 (07) Você poderia
+4224180 4225840 (07) Marcar um encontro
+4225840 4227340 (07) Talvez
+4227340 4229080 (07) No rio
+4229080 4230620 (07) Ou algum lugar mais afastado
+4230620 4231700 (07) Que não seja tão público
+4231700 4233220 (07) Um lugar que ele se sinta
+4233220 4234600 (07) À vontade
+4234600 4236480 (07) Pra não ir com muitos guardas
+4236480 4239060 (07) E aí a gente vai ter a vantagem
+4239060 4239760 (07) Numérica
+4239760 4240800 (07) E a gente pode
+4240800 4242640 (07) Ele dar um sorriso assim
+4242640 4243080 (07) Maldoso
+4243080 4243720 (07) Com o cidadão
+4243740 4244680 (07) Conversar com ele
+4244680 4246160 (14, 07) É que ele é casado, né?
+4246400 4247660 (14) Então eu não sei
+4247660 4248520 (14) Se ele vai querer ir
+4248520 4249600 (14) Num encontro comigo
+4249600 4250440 (06, 14, 07) Chefe
+4250440 4251540 (06) Mas dona Joana
+4251540 4253700 (06) É o trabalho, não é?
+4253740 4254800 (06) Você falou com a gente, ó
+4254800 4256700 (06) Vocês têm que fazer os trabalhos
+4256700 4258080 (06) Têm que fazer a investigação
+4258080 4259380 (06) Têm que anotar
+4259380 4260960 (06) Têm que obedecer as leis
+4260960 4261920 (06) Têm que fazer não sei o que
+4261920 4264120 (06, 14) E agora você vai fazer corpo mole, dona Joana?
+4264180 4265760 (14) Não, tô fazendo corpo mole não
+4265760 4266480 (14) Eu só tô
+4266480 4267780 (14) Só tô tentando entender
+4267780 4269660 (14) Ver um pensamento de
+4269660 4272100 (14) Como que vai ser um plano bem feito
+4272100 4273580 (14) Um plano que
+4273580 4275900 (14) Chamar ele pra um encontro comigo
+4275900 4277260 (14) Sendo que a pessoa é casada
+4277260 4278520 (14, 07) Eu não sei se ele vai querer participar
+4278520 4279320 (14, 07) Ah, não, não
+4279320 4280480 (07) É apenas um
+4280480 4281560 (07) Conversa
+4281560 4281840 (07) Um
+4281840 4283300 (07) Tratar de negócio
+4283300 4284220 (07) Algo do tipo
+4284220 4286720 (07) Se ele tiver com mais intenções
+4286720 4288140 (07) Você já enquadra ele
+4288140 4289420 (07) Por outras coisas também
+4289420 4290620 (07) Olha aí, que beleza
+4290620 4292640 (14, 07) Se tiver fazendo alguma coisa de errado
+4292640 4293900 (14) Eu tenho que ter provas
+4293900 4294680 (14) E aí ele vai ser
+4294680 4295920 (14) Vai pra cadeia também
+4295920 4296380 (14, 07) Ótimo
+4296380 4297920 (07) Mas e aí, o que você acha?
+4298120 4299460 (07) A gente põe em prática?
+4299640 4300240 (07) Não, mas
+4300240 4300660 (07) Mas
+4300660 4302060 (07) Se tem que ter prova
+4302060 4303520 (07) Ele que vai entregar
+4303520 4304040 (07) Prova?
+4304260 4304540 (07) Ah
+4304540 4306400 (07) A gente faz ele falar
+4306400 4308680 (07) A gente faz ele dizer a verdade
+4308680 4310720 (07) Quem sabe ele não confessa
+4310720 4312020 (06, 07) Ou dá informação
+4312020 4314720 (06) O Dimitri volta na cela do Merrick
+4314720 4315600 (06) Ô Merrick
+4315600 4316360 (06) Você tá ouvindo?
+4316860 4318120 (06) Essa conversa, não tá?
+4318500 4319860 (06) Você não consegue ajudar a gente, não?
+4320060 4320940 (06) Se me saudarem daqui
+4320940 4321920 (06) Eu acabo com ele
+4321920 4323940 (06) Mas isso não vai resolver nada
+4323940 4325140 (06, 05, 07) A gente precisa de provas
+4325140 4326360 (05, 07) Eu não preciso de provas
+4326360 4327980 (05) Eu preciso da cabeça dele
+4327980 4329000 (05, 07) Olha, Dono Joano
+4329000 4329820 (07) Pra mim
+4329820 4331040 (07) Tá bem claro
+4331040 4333080 (07) A gente não precisa tirar a corcozão precipitada
+4333080 4333500 (07) Mas o que que a gente vai fazer?
+4333500 4334740 (07) O que que um nobre ia fazer
+4334740 4336420 (07) Na parte pobre da cidade
+4336420 4338520 (07) Procurando uma curandeira
+4338520 4340700 (07) Se não fosse pra ter mais intenções
+4340700 4342820 (07) E tinha roda de carroça lá, né?
+4342860 4343340 (14, 07) Exato
+4343340 4347140 (14, 07) Eu vi essa suspeita aí também
+4347140 4348460 (14) Realmente
+4348460 4350540 (14) A gente não sabe de qual carroça era
+4350540 4353140 (14) Mas também leva a crer
+4353140 4353740 (14) Ok
+4353740 4354820 (14) Então
+4354820 4357320 (14) O que eu posso fazer é
+4357320 4358880 (14) Tentar conversar com ele
+4358880 4361460 (14) Chamar ele pra poder conversar comigo
+4361460 4362500 (14) Em particular
+4362500 4363240 (14, 07) Isso
+4363240 4365440 (06, 07) De preferência no lugar não público
+4365440 4367960 (14) Essa parte eu ainda não sei como eu vou fazer
+4367960 4370040 (06, 14) A gente pode ir na casa dele também, não?
+4370140 4371340 (06) Mas às vezes lá vai ter provas
+4371340 4373340 (06, 07) É, eu acho difícil
+4373340 4374140 (07) Será?
+4374620 4378060 (14, 07) Na casa dele com certeza vai ter guardas
+4378060 4380060 (14, 07) Eu posso tentar
+4380060 4381760 (07) Um jeitinho
+4381760 4383160 (07) Se a senhora permitir, claro
+4383160 4385480 (07) Não que eu esteja dizendo que eu sei fazer isso, mas
+4385480 4386840 (14, 07) Qual a sua intenção, Azad?
+4387200 4388560 (07) Ué, a gente pode
+4388560 4390960 (07) Enquanto você tá falando com ele
+4390960 4393060 (07) Dou uma escalada pela janela
+4393240 4395420 (07) Me escondo dos guardas
+4395420 4396980 (07) Dou uma olhada no quarto
+4396980 4398960 (07) Não que eu já tenha feito esse tipo de coisa
+4398960 4400280 (14, 07) Mas eu sou capaz
+4400280 4401420 (14) Eu preferia não saber
+4401420 4404460 (14) Agora eu fico sabendo disso e vou
+4404460 4407620 (14, 07) Acabar sendo enquadrada em algum crime também
+4407620 4409140 (14, 07) Não, a senhora tá investigando
+4409140 4411720 (14, 07) Pela lei 213 eu não posso ficar
+4411720 4414160 (14) Junto com o criminoso
+4414160 4416180 (14) Então se eu estiver junto com você
+4416180 4417820 (14) Fazendo algum tipo de crime
+4417820 4418960 (14) Não vai dar certo
+4418960 4420180 (14, 07) Se ninguém ver
+4420180 4421940 (14, 07) Não existiu crime
+4421940 4422520 (14, 07) Ai
+4423240 4424880 (14, 07) Tá bom, Azad, tá bom
+4424880 4426900 (14, 07) Vou pegar meu gancho e acordo
+4426900 4428500 (03, 07) E ele vai se preparar
+4428500 4430320 (03) Como é que vocês vão fazer isso?
+4430760 4432060 (03) Vocês vão direto pra casa dele?
+4432180 4433840 (07) Olha, a gente podia, sabe, fazer o que?
+4433940 4436540 (07) Enquanto a Joana tá conversando com ele na casa dele
+4436540 4438420 (07) Tendo tipo uma audiência ali
+4438420 4439760 (07) Ela pode até perguntar, né?
+4440000 4441860 (07) Eu posso ir até com o Dimitri também
+4441860 4444260 (07) A gente tenta, assim, né?
+4444640 4446840 (07) Mocosado assim, fugir ali pelo escanto
+4446840 4447980 (07) Pela parte de trás
+4447980 4451360 (07) E tentar entrar pelos fundos da casa
+4451360 4452960 (07) Ou subir pelo quarto
+4453240 4453720 (07) Sendo alto
+4453720 4455200 (07) Ele deve morar numa mansão e tal
+4455200 4457540 (07) E aí a gente fuça o quarto dele
+4457540 4459320 (07) Enquanto ela tá conversando
+4459320 4460200 (07) O que é que vocês acham?
+4460200 4462200 (06, 07) O Dimitri tá dentro
+4462800 4463940 (14, 07) Eu acho que eu
+4463940 4466640 (14) Se eu chamar ele pra conversar sozinho
+4466640 4468220 (14) Aí ele fica sem guarda
+4468220 4470420 (14) Mas eu também não vou conseguir me defender
+4470420 4471400 (14) Se precisar
+4471400 4474180 (14, 07) É que o Dimitri investiga melhor do que o Azad
+4474180 4476320 (14, 07) É, não, eu tô falando só porque assim
+4476320 4478940 (14) Se eu for junto com o Dimitri
+4478940 4480840 (14) Ele vai querer ir junto com alguém também
+4480840 4482580 (14) Ele não vai ficar sozinho comigo
+4482580 4483200 (14, 07) Ah, então
+4483200 4485220 (07) Então é melhor, no caso, né, tu ir só
+4485220 4487440 (07) Porque aí você fica ele
+4487440 4489820 (07) Tete a tete ali, conversando
+4489820 4492120 (07) E às vezes ele solta uma informação que a gente nem sabia
+4492120 4494660 (07) Enquanto isso, a gente tá fuçando lá as coisas
+4494660 4495960 (07) O que é que vocês acham?
+4496040 4497560 (14) Como eu sou a representante da lei
+4497560 4500540 (14) Se ele falar comigo, já é prova o suficiente
+4500540 4502020 (14, 07) Exato, o senhor é conhecido
+4502020 4503300 (07) Ele não vai fazer nada com você, não
+4503300 4504020 (07) Ele não é maluco
+4504020 4508360 (06, 03, 07) Eu pensei isso, mas eu não quis falar
+4508360 4509440 (06, 07, 03) Pra não jogar praga
+4509440 4511280 (03) Então, Joana, vai pela porta da frente
+4511280 4513040 (07, 06, 03) E vocês vão dar a volta na casa
+4513040 4513120 (03) E vocês vão dar a volta na casa
+4513120 4513180 (03) E vocês vão dar a volta na casa
+4513200 4515320 (03) Isso, fugindo dos guardas
+4515320 4516620 (07, 03) Bem Assassin's Creed
+4516620 4519180 (03, 07) Tu chega até a entrada da mansão
+4519180 4520420 (03) Onde ele mora, né
+4520420 4524420 (03) Tem empregados cuidando do jardim
+4524420 4524780 (03) Ali
+4524780 4527360 (03) Já é mais final do dia, né
+4527360 4529000 (03) Pra ver fumaça saindo
+4529000 4531580 (03) Da chabinela e da cozinha
+4531580 4531960 (03) E tal
+4531960 4534340 (03) Os dois, eles se separam antes de ti
+4534340 4536060 (03) Então tu se aproxima sozinho
+4536060 4539500 (03) Os funcionários te vê, né
+4539500 4542120 (03) Uma mulher que parece ser a governante
+4542120 4543120 (03) Ela se aproxima
+4543120 4543540 (03) De você
+4543540 4544620 (14, 03) Pois não
+4544620 4545960 (14) Boa tarde, querida
+4545960 4548560 (14) Madame Joana Teslone
+4548560 4552040 (14) Vim para poder conversar com o senhor Leó
+4552040 4552700 (14) Sugar
+4552700 4554720 (14, 00) Desculpe, senhora
+4554720 4557520 (00) Não notei caras da nobreza
+4557520 4559260 (00) Mas vou anunciá-lo
+4559260 4563200 (00) Por favor, entre e sente-se no hall da recepção
+4563200 4564620 (00) Ok, obrigada
+4564620 4567240 (03) Enquanto isso, os outros dois vão tentar pular uma janela, é isso?
+4567500 4567980 (06, 03) Isso
+4567980 4571240 (06) O Dimitri olha pro Azad
+4571240 4573040 (06) Se você quiser, eu tenho uma janela
+4573040 4573700 (06) Um negócio aqui
+4573700 4575320 (06, 07) Que explode
+4575320 4576880 (07) Ah, não
+4576880 4578560 (07) Vamos guardar isso pro final
+4578560 4580920 (07) Vamos tentar sem chamar atenção, beleza?
+4581380 4582080 (07) Ah, tá
+4582080 4583360 (07) Ele guarda assim
+4583360 4583840 (07) Isso
+4583840 4585480 (07) Tem um gancho aí ou qualquer coisa assim?
+4585580 4586120 (07) Isso vai servir
+4586120 4589000 (06, 07) Não, mas você tem o seu gancho
+4589000 4589700 (07) Você me empresta, né?
+4589940 4590900 (07) É, beleza
+4590900 4592040 (07) Então eu vou subir
+4592040 4593280 (07) E aí eu te ajudo a subir
+4593280 4594120 (06, 07) Ok, ok
+4594120 4594760 (06) Fica de olho
+4594760 4596480 (06, 07) E aí eu vou tentar jogar
+4596480 4600120 (07) Pra tentar escalar ali pelo lado de fora da mansão
+4600120 4600900 (07) Beleza
+4600900 4601500 (07) Dois dados
+4601500 4603020 (03, 07) Eu tirei isso aqui
+4603040 4603980 (03) Seis e dois
+4603980 4605080 (03) Um acerto simples
+4605080 4608240 (03) Tu joga o gancho e consegue escalar pela janela
+4608240 4611100 (03) Mas como foi só um acerto, tu não ajuda ninguém
+4611100 4611700 (03) Dimitri
+4611700 4612300 (03) Dois dados
+4612300 4615060 (06, 03) Dimitri tira cinco e um
+4615060 4616000 (06, 03) Um acerto simples
+4616000 4619920 (03) Vocês dois escalam ali até um dos quartos, né?
+4620480 4621800 (03) Parece ser um quarto de visita
+4621800 4624060 (03) Ele tá com um lençol assim sobre a cama
+4624060 4626620 (03) Tem lençol sobre alguns móveis, né?
+4627140 4630100 (03) É um quarto de visita que parece estar fechado no momento
+4630100 4632080 (03) A gente só tem que achar o principal agora
+4632080 4632380 (03) Então...
+4632380 4632880 (03) Então...
+4632880 4634220 (03) Dimitri, dois dados
+4634220 4636380 (06, 03) Dimitri, vai dando uma olhada assim
+4636380 4637300 (06) Olha
+4637300 4639560 (06) Eu acho que, né?
+4639740 4640520 (06) Talvez por aqui
+4640520 4641740 (06) Eu tiro cinco e cinco
+4641740 4643200 (06, 03) Tu acha fácil assim
+4643200 4647060 (03) Vocês conseguem evitar os trabalhadores lá da casa
+4647060 4649140 (03) Parece que tá concentrado no primeiro andar
+4649140 4652980 (03) Vocês conseguem achar o quarto principal da casa
+4652980 4654700 (07, 03) Ok, a gente vai entrar
+4654700 4656160 (03, 07) E fecha a porta
+4656160 4657180 (03) Do jeito que tá
+4657180 4662700 (03) Uma jovem levanta da cama assustada assim
+4662700 4664120 (12, 06, 03) Que quem são vocês?
+4664280 4664800 (06, 03) Pois
+4664800 4667440 (06) Nós somos agentes
+4667440 4670540 (06) E a gente trabalha pra manter a ordem das coisas
+4670540 4671620 (06) A senhorita, quem é?
+4671980 4674600 (12) Sou a Lady Sugar, a esposa do dono dessa casa
+4674600 4678700 (12, 06) Dimitri, ele tentou dar uma embromada
+4678700 4680180 (06) Mas agora que ela falou que ela é Lady
+4680180 4682080 (06) Ele dá uma tremida e olha pro Azai
+4682080 4683240 (06) Tipo, me ajuda
+4683240 4684880 (06, 07) Ah, Lady Sugar
+4684880 4688540 (07) Prazer, como o parceiro disse
+4688540 4690820 (07) Somos agentes da lei
+4690820 4692680 (07) E, na verdade, estamos aqui para fazer uma coisa
+4692700 4693900 (07) Pra dar uma olhada
+4693900 4696700 (07) O seu marido pediu pra gente pegar alguma coisa importante
+4697320 4698640 (07) Se a senhora me permite
+4698640 4701280 (07) Ele tá, assim, agora azedou, né?
+4701360 4702460 (07) Ele tá só andando ali
+4702460 4704500 (07) E vai na direção de gaveta
+4704500 4706780 (07) Ou alguma coisa assim, antes que ela tome uma atitude
+4706780 4708100 (07) Dois dados
+4708100 4711140 (07) Eu tirei seis e cinco
+4711140 4712140 (07) A levanta
+4712140 4713800 (12) Agentes, certo
+4713800 4716640 (12) As sopas sujas de sangue estão ali no canto
+4716640 4717900 (12) Livre-se disso
+4717900 4719780 (12) É por isso que estão aqui, né?
+4720200 4720720 (07) Exato
+4720720 4722040 (07) Ainda bem que a senhora
+4722040 4723780 (07) Não se impressiona com essas coisas
+4723780 4725020 (07) Facilita o nosso trabalho
+4725020 4727280 (07) E facilita pro senhor Leofric também
+4727280 4728460 (07) A propósito
+4728460 4731560 (07) A senhora sabe de quem são as roupas?
+4731700 4733740 (07) Isso ajuda a gente a achar os corpos, sabe?
+4733740 4735500 (07) E o povo não desconfiar de nada?
+4735780 4736640 (07) Esse tipo de coisa?
+4737020 4738040 (03) Foram dois acertos
+4738040 4739380 (03) Ela acha meio esquisito
+4739380 4741560 (12, 03) As roupas são do meu marido, né?
+4741680 4743260 (12) Ah, sim, mas eu tava dizendo
+4743260 4745480 (12, 07) Sabe, as pessoas
+4745480 4747160 (07) As outras pessoas
+4747160 4749640 (12, 07) Você não ouviu ele falar nada sobre o caso?
+4749660 4751740 (12, 07) Não, ele só chegou todo sujo de sangue
+4752040 4753460 (12) Eu perguntei o que tinha sido
+4753460 4754540 (12) E ele gritou comigo
+4754540 4757020 (12) Aí teve o caso do rapaz
+4757020 4758760 (12) Que tentou matá-lo sem sucesso
+4758760 4761960 (12) Ai, mas imagino que essas duas coisas
+4761960 4762780 (12) Tenham ligação
+4762780 4764420 (12, 07) Ah, não, não, tudo bem, tudo bem
+4764420 4768040 (07) Era só pra uma questão da gente limpar as coisas pro senhor Sugar
+4768040 4770320 (07) Com licença, senhora, deixa eu pegar as roupas aqui
+4770320 4772780 (06, 07) E a senhora tá bem, né?
+4773000 4774140 (06) Não precisa de mais nada
+4774140 4775980 (12, 06) Não, não precisa de mais nada
+4775980 4776680 (12) Obrigada
+4776680 4779780 (12, 06) Se precisar, você sempre pode contar com nós
+4779780 4780900 (06) Que somos os agentes
+4780900 4781880 (06) E a gente tá...
+4782040 4783140 (06) Aqui pra ajudar
+4783140 4784200 (06) Rola dois dados
+4784200 4788920 (12, 06, 03) Ela olha meio com nojo, assim, pra ti
+4788920 4790980 (12, 06) Se eu precisar, eu chamo
+4790980 4792940 (06) Tudo bem, dona Lady, senhora
+4792940 4795780 (06) E ele vai saindo, assim
+4795780 4797600 (06, 07) Enquanto eu fui pegar as roupas
+4797600 4799620 (07) Não tinha mais nada estranho no armário
+4799620 4801420 (07) Ou no canto que as roupas estavam jogadas
+4801420 4802060 (07) Não
+4802060 4804020 (07) Não tava num banheiro, assim
+4804020 4805740 (11, 07) Ela tava na cama, né? Eu imagino
+4805740 4808360 (11, 07) Não deu pra fuçar nada, nenhum tipo de
+4808360 4810440 (03, 07) Coisa suspeita que eu pudesse levar
+4810440 4811780 (03, 07) Assim, tô até dando uma olhada, assim
+4811780 4813640 (07, 03) Mas nada que chame a atenção
+4813640 4816440 (07) Tá certo, vou carregar as roupas, porque já serve aí de alguma coisa
+4816440 4818260 (07) E aí eu faço uma mesura pra ela
+4818260 4819440 (07) E fecho a porta
+4819440 4822060 (03) Lá embaixo, Leofk
+4822060 4823440 (03) Ele chega, assim
+4823440 4825420 (03) Uma espécie de roupão
+4825420 4826400 (03) Ele sorri
+4826400 4829880 (02, 03) Ah, Lady Joana, eu não esperava a sua visita tão cedo
+4829880 4832120 (03, 02) Tem um guarda acompanhando ele
+4832120 4834320 (03) Mas ele faz sinal pra ficar mais afastado
+4834320 4836060 (03) Ele senta num sofá
+4836060 4837880 (03) Diante do sofá que você está
+4837880 4839880 (02, 03) A que devo a honra de sua visita
+4839880 4841580 (14) Ah, senhor Leofk, é um prato
+4841780 4843320 (14) Prazer estar aqui, mas
+4843320 4845780 (14) Infelizmente, pra tratar de assuntos
+4846440 4847540 (14) Meio chatos
+4847540 4849540 (14) Essa questão toda desse
+4849540 4851360 (14) Plebeu que atacou o senhor
+4851360 4852560 (14) Foi, foi
+4852560 4855720 (14) Infelizmente, foi muito triste
+4855720 4858240 (14) Não é? Mas, nós o prendemos
+4858240 4860020 (14) Ele está preso na cela
+4860020 4861040 (14, 02) Lá no
+4861040 4864220 (14, 02) Então ele sobreviveu? Sim, ele sobreviveu
+4864220 4865260 (14) Ele estava vivo
+4865260 4867780 (14) Quando deixou lá conosco
+4868300 4869580 (14) E
+4869580 4870400 (14) Ele ficou
+4870400 4871580 (14) Melhoroso
+4871780 4873980 (14) Ao longo do tempo que passou lá
+4873980 4876040 (14) Agora estava preso
+4876040 4876660 (14) Lá na cela
+4876660 4879860 (14, 03) Ele olha feio pro guarda que está mais distante
+4879860 4880960 (03) E volta a olhar pra você
+4880960 4882340 (03) Certo
+4882340 4884520 (03, 02) Ele será punido, eu imagino
+4884520 4886600 (14) No momento ele ficará preso
+4886600 4889860 (14) Até pensarmos na punição adequada
+4889860 4890400 (14) Pra ele
+4890400 4893620 (14) Mas também precisamos conversar sobre
+4893620 4895400 (14) Gostaria de saber mais informações
+4895400 4897520 (14) Sobre como aconteceu
+4897520 4899720 (14) Esse ataque
+4899720 4900200 (14) O
+4900200 4900440 (14) O
+4930440 4932140 (14) , o senhor sabe o que aconteceu?
+4932140 4934400 (14) O motivo dele ter tentado atacá-lo?
+4934400 4936480 (14, 02) Está tentando puxar a informação dele
+4936480 4938280 (02) Eu não consigo me recordar
+4938280 4940940 (02) Talvez não concordasse com os pagamentos que recebia
+4940940 4944320 (02) Mas devo lhe dizer que eram sacos bem gordos de moeda
+4944320 4946280 (02) Talvez o Ferreira esteja roubando
+4946280 4948860 (14, 02) Já que eu pagava diretamente ao seu chefe
+4948860 4949980 (14) Eu
+4949980 4954020 (14) Gostaria de saber se ele não falou nada quando tentou atacá-lo
+4954020 4955500 (14) Não
+4955500 4958240 (14) Geralmente quando tentam atacar
+4958240 4960140 (14) Eles falam alguma coisa?
+4960140 4960880 (14) Gritam
+4960880 4963100 (14) Não se lembra de nada, senhor?
+4963240 4966060 (02) Se ele está vivo, ele falou com a senhora, certo?
+4966240 4969340 (14) Eu gostaria de saber a sua versão dos fatos
+4969340 4971440 (14, 02) Ele olha pro guarda-costas?
+4971520 4972200 (02) Ele olha pra ti?
+4972660 4973960 (02) A maioria dos nobres de hoje
+4973960 4975920 (02) Tem amantes
+4975920 4978020 (02) Empregadas para servi-los
+4978020 4980520 (02) Eu sou um homem à moda antiga
+4980520 4982060 (02) E sou contra esse tipo de coisa
+4982060 4983840 (02) Mas existe uma lei
+4983840 4986620 (02) E eu sei que a senhorita gosta muito de leis
+4986620 4988800 (02) Que embora não esteja mais em uso
+4988800 4989700 (02) É uma das primeiras leis que criou o senhor
+4989700 4990120 (02) E é uma das primeiras leis que criou o senhor
+4990120 4990820 (02) E é uma das primeiras leis que criamos na região
+4990820 4992300 (02) Chamamos de
+4992300 4993440 (02) Primeira noite
+4993440 4996060 (02) Um nobre tem o direito, segundo as leis
+4996060 4998780 (02) De ter a primeira noite com qualquer plebeia
+4998780 5000120 (02) Que vai se casar
+5000120 5002000 (02) Apenas fui exigir meu direito
+5002000 5003860 (02) E fui atacado por aquela vil mulher
+5003860 5005280 (02) Me defendi
+5005280 5008500 (02) O rapaz não gostou e veio me atacar
+5008500 5009220 (02) Mas como vê
+5009220 5011460 (02) Fui duas vezes vítima nessa história
+5011460 5013400 (14, 02) Entendo, entendo
+5013400 5016820 (14) A Joana está tentando absorver
+5016820 5017900 (14, 02) Essa informação toda
+5017900 5019140 (14, 02) Entendo também, seu lado
+5019140 5020100 (02) Sei que você não é um homem de verdade, mas você é um homem de verdade
+5020100 5022060 (02) Sei que é complicado para uma mulher como você
+5022060 5024100 (02) Em vez de a família ter te arrumado um casamento
+5024620 5026060 (02) Te jogaram naquele buraco
+5026060 5027960 (02) Posso te arrumar terras, dinheiro
+5027960 5030880 (02) O que você precisar para que todos nós
+5030880 5033500 (02) Possamos dormir melhor essa noite
+5033500 5034440 (14, 02) Senhor, entenda
+5034440 5036940 (14) Não estou aqui buscando
+5036940 5038580 (14) Nada em favor próprio
+5038580 5041240 (14) Estou buscando a verdade
+5041240 5042440 (14, 02) Somente a verdade
+5042440 5044460 (02) Quero lembá-la que sou casado
+5044460 5045580 (02) Com uma prima sua
+5045580 5047780 (02) Estou até um pouco ofendido
+5047780 5049420 (02) Com o que acho que está pensando de mim
+5049420 5050080 (02) Não quero que ela me diga que eu sou um homem de verdade
+5050100 5051560 (02) Não quero que eu tenha que me separar
+5051560 5054000 (02) E isso cairia sobre o nome de sua família
+5054000 5055900 (02) Imagine quantas dores
+5055900 5057440 (02) Estraria para o nome de sua família
+5057440 5059260 (02) Uma família em ascensão
+5059260 5061580 (02) Que ainda não chegou onde cheguei
+5061580 5064720 (02) Pode ter mais problemas se não formos mais amigos
+5064720 5066660 (14, 02) Claro, é claro
+5066660 5070340 (14) É tudo pelo bem da nossa família
+5070340 5071400 (14, 02) Com certeza
+5071400 5073640 (14, 02) A Joana está um pouco
+5073640 5075160 (14) Perdida agora
+5075160 5077680 (14) Porque as coisas que ela acreditava
+5077680 5079060 (14) Estão caindo por terra
+5079060 5079820 (14, 03) Então...
+5080100 5081060 (03) É um choque de realidade
+5081060 5082840 (07, 14, 03) Mais o abandono do G.I. do Caio
+5082840 5086720 (07, 14, 03) Eu estou esperando para ver se a gente vai descer aí
+5086720 5091060 (03, 07) Porque o Azad quer chegar ali pela escada
+5091060 5092620 (07) Com a roupa suja na mão
+5092620 5094060 (03, 07) Beleza, é isso que vocês dois vão fazer?
+5094220 5095480 (07, 03) Se o Dimitri concordar
+5095480 5097200 (06, 07) Dimitri está seguindo a deixa
+5097200 5100760 (06, 03) A Joana está com aquele choque de realidade
+5100760 5102340 (03) Meio consternada ali
+5102340 5103980 (03) Vocês dois
+5103980 5106920 (03) Começam a descer a escada
+5106920 5108740 (03) Azad, dois dados
+5110100 5111940 (03) Eu tirei quatro e quatro
+5111940 5113160 (03) Que são do atributo
+5113160 5113820 (03) Perfeito
+5113820 5116380 (03) Tu vê um pouco mais distante da escada
+5116380 5119120 (03) Dois sofás virados de frente um para o outro
+5119120 5120720 (03) Com uma mesinha de centro
+5120720 5123480 (03) De um lado está o Leofric
+5123480 5125700 (03) E do outro está a Joana
+5125700 5127700 (03) Uma Joana assim meio perdida
+5127700 5128880 (03) Como tu nunca viu
+5128880 5132420 (03) Meio apavorada com a situação toda
+5132420 5134340 (03) Te chama a atenção também
+5134340 5135780 (03) O único guarda
+5135780 5137440 (03) Que acompanha aquela discussão
+5137440 5139140 (03) Ele está mais distante
+5140100 5141680 (03) Um homem careca
+5141680 5144000 (03) Ele tem uma cicatriz
+5144000 5144860 (03) No olho
+5144860 5147120 (03) Embora tu não esteja vendo ele de frente
+5147120 5149080 (03) Tu sabe que ele tem essa cicatriz
+5149080 5150680 (03) O nome dele é Gartling
+5150680 5152520 (03) Ele antes
+5152520 5154740 (03) De ser agora
+5154740 5157120 (03) Uma espécie de guarda-costas
+5157120 5159680 (03) Tu conheceu ele ao chegar na cidade
+5159680 5161880 (03) Ele liderava um grupo
+5161880 5164260 (03) De saqueadores
+5164260 5165640 (03) E sequestradores
+5165640 5167940 (03) Essa cicatriz que ele tem no olho
+5167940 5169440 (03) Foi tu que deixou
+5169440 5170080 (03) E ele tem uma cicatriz
+5170100 5171120 (03) E foi uma das vezes
+5171120 5173000 (03) Que tu mais chegou perto de morrer
+5173000 5174700 (03) Lutando contra alguém
+5174700 5177160 (03) É um guerreiro que maneja a espada
+5177160 5178580 (03) Como ninguém ali
+5178580 5181340 (03) O sol escapou porque deu muita sorte
+5181340 5183400 (03) Mas ele era o responsável
+5183400 5185100 (03) Por aquele sequestro
+5185100 5187300 (03) Enquanto a sua pena foi trabalhar pro xerife
+5187300 5189500 (03) Parece que ele caiu pra cima
+5189500 5191740 (03) E está ali muito bem vestido
+5191740 5194420 (03) Com anéis dourados
+5194420 5196960 (03) A própria espada dele é ornamentada
+5196960 5199380 (03) Ele está de costas ali pra vocês
+5199380 5199660 (03) Observem o que ele está fazendo
+5199660 5199680 (unknown) Ele está de costas ali pra vocês
+5199680 5199720 (unknown) Observem o que ele está fazendo
+5199720 5199740 (unknown) Ele está de costas ali pra vocês
+5199740 5199800 (unknown) Observem o que ele está fazendo
+5199800 5202820 (03) Observando o nobre que ele serve
+5202820 5203600 (07, 03) Tá certo
+5203600 5204960 (07) O Azad vai fazer o seguinte
+5204960 5207140 (07) Quando ele está descendo a escada
+5207140 5208720 (07) E ele escaneou essa cena inteira
+5208720 5211100 (07) Ele está vendo a Joana de frente
+5211100 5213880 (07) Ele vai levantar a blusa
+5213880 5216500 (07) A roupa manchada de sangue
+5216500 5219320 (07) E ele vai olhar muito sério pra Joana
+5219320 5221260 (07) A Joana já é a essa altura
+5221260 5223420 (07) Sabe que ele não é
+5223420 5225500 (07) Exatamente dado a leis
+5225500 5228040 (07) Então o Azad vai olhar sério pra ela
+5228040 5229580 (07) Primeiro mostrando que ele é culpado
+5229580 5229620 (07) Primeiro mostrando que ele é culpado
+5229620 5229780 (07) Primeiro mostrando que ele é culpado
+5229800 5231680 (07) E com esse contato visual
+5231680 5233560 (07) Ele está basicamente falando assim
+5233560 5235460 (07) Eu vou agir
+5235460 5237320 (07) E ele está esperando pra ver a reação dela
+5237320 5239240 (03, 07) Antes da Joana dizer a reação dela
+5239240 5241720 (03) O Dimitri está atrás do Azad
+5241720 5242700 (03) E está fazendo o que?
+5242980 5244700 (06) O Dimitri está nesse momento
+5244700 5247800 (06) Entre o Azad, olhando pro Azad levantando
+5248400 5249980 (06) Mostrando a roupa
+5249980 5251200 (06) Olhando pra Joana
+5251200 5253440 (06) Ele olha de novo pro Azad
+5253440 5255080 (06) E ele olha pra ele e fala
+5255080 5256100 (06) Pode fazer boom?
+5258060 5259100 (06, 14, 03) Pode fazer boom
+5259100 5259620 (03) Pode fazer boom
+5259620 5260400 (03) Joana
+5260400 5262740 (14, 03) A Joana
+5262740 5267020 (14) Ela olhou pro Azad com a roupa
+5267020 5268940 (14) Ela entendeu tudo o que aconteceu
+5268940 5271420 (14) Ela está muito em choque
+5271420 5272440 (14) Mas
+5272440 5274540 (14) Ela pensa de novo
+5274540 5276940 (14) Sobre tudo o que ele falou
+5276940 5279580 (14) Sobre o bem da família
+5279580 5281160 (14) Sobre
+5281160 5283500 (14) As coisas que ela acredita
+5283500 5284980 (14) Que são corretas
+5284980 5286280 (14) Que é seguir a lei
+5286280 5288980 (14) Mas alguma coisa nela
+5288980 5289440 (14) Está correndo pra ela
+5289440 5290380 (14) Está clicando
+5290380 5292760 (14) Que não é só
+5292760 5294740 (14) Algumas leis estão aí
+5294740 5296980 (14) Mas talvez algumas leis
+5296980 5297780 (14) Precisam mudar
+5297780 5300300 (14) E ela olha pro Azad
+5300300 5302700 (14) Depois olha pro Leofric
+5302700 5303940 (14) É primo
+5303940 5306640 (14) Acho que algumas coisas
+5306640 5308980 (14) A gente vai precisar
+5308980 5310300 (14) Conversar mais sério
+5310300 5312100 (14) Porque talvez
+5312100 5314500 (14) Talvez
+5314500 5316720 (14) Eu não concorde com algumas coisas
+5316720 5318260 (14) Que você esteja fazendo
+5318260 5319360 (14) E ela olha pro
+5319440 5320400 (14) Azad
+5320400 5322920 (14) E ela faz um
+5322920 5324520 (14) Concordando com a cabeça
+5324520 5325500 (14, 07) Ótimo
+5325500 5326580 (07) Era o que ele precisava
+5326580 5328020 (07) O Azad estava esperando
+5328020 5328780 (07) A dona Joana
+5328780 5329780 (07) Ele sabia que no fundo
+5329780 5332180 (07) Ela ia prevalecer a justiça
+5332180 5332800 (07) Acima da lei
+5332800 5334180 (07) Ele larga a roupa
+5334180 5335080 (07) Puxa o arco
+5335080 5335980 (07) E ele vai se preparar
+5335980 5336540 (07) Pra atirar
+5336540 5337880 (07) Na cabeça do Leofric
+5337880 5338540 (07) O Leofric
+5338540 5339540 (07) Ok, dois dados
+5339540 5341960 (07) Eu tirei um e um
+5341960 5343000 (07) Como é que o Leofric morreu?
+5343220 5344400 (07) O Azad puxa a flecha
+5344400 5345300 (07) Ele vê
+5345300 5346180 (07) Ele lembra
+5346180 5346940 (07) Mentaliza
+5346940 5347680 (07) O rosto
+5347680 5349180 (07) Pálido da Gisele
+5349180 5350380 (07) Aquela moça tão jovem
+5350380 5351640 (07) Tinha tanto pela frente
+5351640 5353480 (07) E que ajudava as pessoas
+5353480 5355520 (07) E aquilo meio que dá raiva
+5355520 5357660 (07) O arco chega a retezar um pouco mais
+5357660 5359540 (07) E ele solta aquela flecha
+5359540 5360660 (07) Cheia de rancor
+5360660 5362440 (07) No meio da cabeça
+5362440 5364440 (07) Pra atravessar e sair do outro lado
+5364440 5366260 (03, 07) Dimitri
+5366260 5367620 (06, 03) O Dimitri
+5367620 5369200 (06) Vê a flecha passando
+5369200 5371000 (06) Ele olha pro frasco
+5371000 5372160 (06) Que ele tava tirando
+5372160 5373900 (06) E ele guarda ele de volta assim
+5373900 5376420 (06, 03) Tem um mercenário armado com uma espada
+5376420 5378180 (06, 03) Na base da escada, né?
+5378300 5378760 (06, 03) Lembrando isso
+5378760 5379020 (06, 03) Se quiser
+5379020 5381040 (03) Pode explodir o amigo aí, viu?
+5381120 5381720 (03) Que ele é bravo
+5381720 5384840 (06) Ele olha
+5384840 5386000 (06) Ele olha assim
+5386000 5387680 (06) E vê o mercenário
+5387680 5389080 (06) Ele tá fazendo algum sinal
+5389080 5390000 (06) De vai movimentar
+5390000 5390600 (06) Vai atacar
+5390600 5392060 (06) Ele levou a mão e a espada
+5392060 5392840 (06) E ele tá virando
+5392840 5394360 (06) Tá tudo acontecendo ao mesmo tempo
+5394360 5395080 (06) Então assim
+5395080 5396680 (06) Ele começa a guardar
+5396680 5398380 (06) O frasco que ele tava tirando
+5398380 5400160 (06) E aí ele olha e vê o mercenário
+5400160 5401800 (06) E ele puxa de novo o frasco
+5401800 5402520 (06) E ele manda
+5402520 5403340 (06) O frasco
+5403340 5404520 (06) Ele tem uma etiquetazinha
+5404520 5405480 (06) Escrito paixão
+5405480 5407800 (06, 03) Dois dados
+5409020 5410360 (03) Dois e dois
+5410360 5412860 (03) Joga o frasco no mercenário
+5412860 5414300 (03) Ele saca a espada
+5414300 5417200 (03) Ele bate a espada contra esse frasco no ar
+5417200 5420040 (03) Que não ajuda, né?
+5420340 5421280 (03) A explosão
+5421280 5424900 (03) Acaba jogando o mercenário pro chão
+5424900 5426900 (03) Com o rosto
+5426900 5429800 (03) E a roupa em chamas
+5429800 5432060 (03) Ele larga a espada ali
+5432060 5434040 (03) Ele cai desacordado
+5434040 5434840 (03) Joana?
+5435060 5437940 (14) A Joana acaba se protegendo um pouco
+5437940 5438720 (14) Por causa da explosão
+5439020 5441140 (14) E por causa da flecha
+5441140 5444100 (14) Coloca os braços na frente do rosto
+5444100 5446780 (14) E tenta se afastar
+5446780 5448860 (14, 03) O melhor que ela pode ali
+5448860 5449700 (03) Desse local
+5449700 5450840 (03) Começa a
+5450840 5452280 (03) Tá se afastando ali
+5452280 5455180 (03) Começa a entrar funcionários e tal
+5455180 5457960 (03) Alguns soldados ali
+5457960 5458980 (03) Assim meio assustados
+5458980 5461280 (03) Eles olham pro corpo do
+5461280 5461840 (03) Do seu
+5461840 5462760 (03) O Suga
+5462760 5464460 (03) Olha pra você
+5464460 5466260 (03) Eles tão meio perdidos ali
+5466260 5467280 (14, 03) Senhores
+5467280 5468020 (14) Infelizmente
+5469020 5470920 (14) O senhor Leófrio
+5470920 5472600 (14) Que cometeu alguns
+5472600 5475520 (14) Alguns problemas aqui
+5475520 5476940 (14) Foi contra a lei
+5476940 5479620 (14) E tivemos que agir
+5479620 5480440 (03) Dois dados
+5480440 5481780 (03) Pós da autoridade
+5481780 5484500 (14, 03) Tirei cinco e quatro
+5484500 5486020 (14, 03) Tu sente que aquelas pessoas
+5486020 5486740 (03) Ninguém
+5486740 5490160 (03) Ninguém gostava daquele homem ali
+5490160 5492220 (03) Em especial assim
+5492220 5494000 (03) Não os soldados, né?
+5494040 5494340 (03) Aqueles
+5494340 5496020 (03) Os trabalhadores ali
+5496020 5497040 (03) São os que mais olham com
+5497040 5499000 (03) Até um sorrisinho de cara
+5499020 5499780 (03) No canto de boca
+5499780 5501020 (03) O Leófrio
+5501020 5502140 (03) Caído ali
+5502140 5504540 (03) Os soldados ficam um pouco mais
+5504540 5505880 (03) Indecisos
+5505880 5507360 (03) Mas eles decidem
+5507360 5509720 (03) Ouvir a tua autoridade ali
+5509720 5511800 (03) Eles guardam as armas
+5511800 5513180 (07) É, senhora Joana
+5513180 5514440 (07) Se me permite falar
+5514440 5516660 (07) Aquele grandalhão ali, ó
+5516660 5517680 (07) Gartling
+5517680 5519660 (07) Ele é um criminoso de verdade
+5519660 5521620 (07) Inclusive eu tive um breve encontro com ele
+5521620 5522480 (07) Quando eu cheguei aqui
+5522480 5524440 (07) Ele tentou sequestrar um nobre
+5524440 5525860 (07) Foi eu que fiz essa
+5525860 5527780 (07) Cicatriz bonita no rosto dele
+5527780 5528800 (14, 07) Só uma pergunta
+5528800 5531200 (14) O mercenário
+5531200 5533020 (14) Ele ainda tá vivo?
+5533720 5534320 (14, 03) Tá vivo
+5534320 5537000 (03) Tá com queimaduras terríveis ali
+5537000 5537760 (03) Mas ele tá vivo
+5537760 5538440 (03) Entendi
+5538440 5540380 (03) Vou deixar esse problema na tua mão ainda
+5540380 5544020 (06, 03) Vai empilhar na papelada
+5544020 5544720 (06, 03) É
+5544720 5548040 (06, 14, 03) Bom, se ele fez todas essas coisas
+5548040 5550480 (14) Então ele também foi contra várias leis
+5550480 5551800 (14) Então realmente
+5551800 5554220 (14) Teremos que verificar aí
+5554220 5555640 (14) O que nós poderemos fazer com ele
+5555640 5556400 (14) Mas
+5556400 5558760 (14) Acho que no momento
+5558760 5560920 (14) Ele precisa ser tratado
+5560920 5561820 (14) Desses ferimentos
+5561820 5564100 (14) Apaga o fogo dele, por favor, Azad
+5564100 5566260 (14, 07) Ah, com prazer
+5566260 5568380 (07) O Azad se agacha perto dele
+5568380 5569160 (07) Com uma faca
+5569160 5571440 (07) E ele vai terminar o serviço ali
+5571440 5574100 (14, 07) Não era isso que eu queria dizer
+5574100 5574880 (14) Mas tudo bem
+5574880 5576860 (07, 14, 03) Na frente dos funcionários todos
+5576860 5577780 (03) Que fique registrado
+5577780 5580780 (03) O Azad está muito, muito puto da vida
+5580780 5581580 (03) Beleza
+5581580 5582900 (03) Azad, dois dados
+5582900 5585640 (03) Cinco e um
+5585640 5587100 (03) Dimitri, dois dados
+5587100 5588600 (03) Seis e um
+5588600 5589140 (03) E quatro
+5589140 5589960 (03) O Azad
+5589960 5591800 (03) Tirou um acerto, né
+5591800 5593140 (03) Alguns soldados
+5593140 5594180 (03) Instintivamente
+5594180 5595660 (03) Atiraram com
+5595660 5596900 (03) Com bestas
+5596900 5598820 (03) Na direção de vocês dois
+5598820 5601040 (03) O Azad acaba se abaixando
+5601040 5603960 (03) Alguns tiros acertam o Dimitri
+5603960 5604960 (07) Eu vou fazer o seguinte
+5604960 5606700 (07) Posso fazer uma ação a mais?
+5606920 5607100 (03, 07) Hum
+5607100 5608200 (03, 07) Eu vou
+5608200 5610020 (07) Empurrar a Joana
+5610020 5612960 (07) Eu quero fazer com que as pessoas pensem que eu sou o criminoso
+5612960 5614360 (07) E ela não tem nada a ver com isso
+5614360 5615340 (03, 07) Nem ela, nem o Dimitri
+5615340 5617140 (03) Vai empurrar ela e sair dali correndo
+5617140 5618560 (03) Isso, e tentar fugir
+5618600 5618980 (03) Ok
+5618980 5620260 (03) Dois dados
+5620260 5623120 (03) Eu tirei quatro, que é meu atributo
+5623120 5623540 (03) E uma
+5623540 5627680 (03) Tu empurra com carinho a Joana pro sofá, né
+5627680 5630640 (00, 03) E salta sobre a cabeça dos guardas
+5630640 5632060 (03) Dou uma piscadela pra ela
+5632060 5636000 (03) Estão colocando de volta os virotes na arma, né
+5636000 5637500 (03) E tu sai correndo
+5637500 5638040 (03) E disparado
+5638040 5639780 (03) Alguns tentam te perseguir
+5639780 5641700 (03) Mas nada acontece
+5641700 5644120 (03) Eles não conseguem te alcançar, né
+5644120 5646080 (03) Não é a primeira vez que eu fujo de guardas
+5646080 5648280 (14, 03) Eu ia mandar eles pararem de atacar
+5648600 5651020 (14) Mas agora, depois dessa
+5651020 5653320 (14) Eu não falo nada
+5653320 5654920 (14) Porque eu
+5654920 5657880 (14) A hora que ele deu a piscadinha
+5657880 5658900 (14) Eu falei, tá bom
+5658900 5660980 (14) Obrigada pela ajuda
+5660980 5664820 (14, 07) Eu espero que o Dimitri fique bem
+5664820 5669580 (14, 07) Aí ela vai levantar e ir atrás do Dimitri
+5669580 5670660 (14) Pra poder ajudar ele
+5670660 5673200 (14, 03) Tu vê que o Dimitri, assim, foi perfurado
+5673200 5674760 (03) Por algumas daqueles virotes
+5674760 5677280 (03) Os ferimentos não saem sangue
+5677280 5678560 (03) Ele deveria estar
+5678600 5679740 (03) Morto, mas ele está vivo
+5679740 5681960 (14, 03) Dimitri, tá tudo bem com você?
+5683460 5684300 (14) Eu acho
+5684300 5685300 (06, 14) Eu acho que tá
+5685300 5689040 (06) Eu já me explodi algumas vezes
+5689040 5690300 (06) Já me furei
+5690300 5692800 (06) Eu sou bem resistente
+5692800 5695020 (06, 14) Eu tô percebendo
+5695020 5696120 (14) Era pra
+5696120 5698360 (14) Você tá sangrando aqui
+5698360 5701040 (06, 14) Ele olha assim na hora que ela fala isso
+5701040 5702840 (06) E tipo, olha pra onde que tá os negócios
+5702840 5703720 (06, 14) Era?
+5704100 5707500 (14) É o que geralmente acontece com as pessoas
+5707500 5708580 (06, 14) Nessa hora?
+5708600 5709660 (06) Nessa hora, você vê que
+5709660 5711740 (06) O olho dele brilha, assim
+5711740 5715000 (06) E ele vai olhar onde que tá os ferimentos
+5715000 5715680 (06) Ah!
+5716040 5717380 (06) Então eu acho que eu sei
+5717380 5720360 (06) E ele, tipo, levanta, assim, procurando os ferimentos
+5720360 5722040 (06) Ele quer dar uma olhada na carne dele
+5722040 5723120 (06, 03) Tem carne
+5723120 5726380 (03) Mas, assim, depois dessa carne
+5726380 5729080 (03) Tu sente algo que lembra madeira
+5729080 5730680 (06, 03) Caraca
+5730680 5732280 (06) Ah, é
+5732280 5733780 (06) Eu, eu
+5733780 5736020 (06) Cicatrizo muito rápido
+5736020 5738580 (06) Mas, mas eu tô bem
+5738600 5739440 (06) Dona Joana
+5739440 5741340 (06, 03) Algumas semanas depois
+5741340 5744040 (07, 03) O Azad já tá bem longe dali, né?
+5744260 5745820 (07) Talvez ele tenha deixado algum recado
+5745820 5747460 (07) Pra, pro Dmitry, pra Joana
+5747460 5748440 (07) De tipo, obrigado
+5748440 5750740 (03, 07) Algum recado na delegacia?
+5750960 5752580 (11, 07) É, tipo uma flecha de longe, assim, sabe?
+5752660 5753620 (03, 07) Aquela, um bilhete
+5753620 5756720 (03, 07) Ele não se arriscou, nem ferrando que ele voltou pra cidade
+5756720 5757860 (07) Ah, tá, beleza
+5757860 5758860 (07) Vai pra que direção?
+5759040 5760060 (07) Eu vou voltar pro Rio
+5760060 5763840 (07) De preferência pro local ali onde tinha o pescador
+5763840 5765080 (07) E aquelas pessoas
+5765080 5768500 (11, 07) Se possível, eu gostaria de comprar
+5768500 5770680 (07) Um barco de um desses pescadores
+5770680 5772480 (11, 07) Com aquela moeda que o Leofric me deu
+5772480 5773600 (11, 07) Lá no início da aventura
+5773600 5776240 (11, 07) E meio que mostrar pra galera que, tipo assim
+5776240 5778040 (07) Me desculpa por tudo
+5778040 5779760 (07) Tentei fazer justiça
+5779760 5780880 (03) Pela Gisele
+5780880 5783480 (03) O Dmitry vai continuar trabalhando com a Xerife?
+5783780 5785620 (06) O Dmitry, ele
+5785620 5787900 (06) Vai tentar
+5787900 5790640 (06) Identificar ou descobrir mais informações
+5790640 5791960 (06) Tanto sobre ele
+5791960 5793540 (06) Então ele vai fazer testes
+5793540 5795260 (06) E vai ver o que aconteceu com o corpo dele
+5795260 5797920 (06) E depois disso, ele vai procurar outras pessoas
+5797920 5798480 (06) E vai procurar outras pessoas
+5798500 5801460 (06) Que saibam qual era o procedimento
+5801460 5804380 (06) Que era feito
+5804380 5805060 (06) Porque
+5805060 5807220 (06) Agora precisava de alguém
+5807220 5809240 (06) Pra fazer esse tipo de serviço
+5809240 5810280 (06) Pra cuidar da população
+5810280 5813920 (06, 03) Antes de dizer o que você fez de tudo isso
+5813920 5814920 (03) Joana, acho que o principal
+5814920 5816900 (03) O Merrick, que fim ele levou?
+5817180 5818540 (14) O Merrick, ele
+5818540 5822400 (14) Precisa ficar preso durante um tempo
+5822400 5824200 (14) Mas depois ele vai ser solto
+5824200 5825280 (14) Ele
+5825280 5826960 (14) Cumpriu a pena dele
+5826960 5828040 (14) Perante a sociedade
+5828500 5831220 (14) E depois ele volta a ter a vida dele normal
+5831220 5832840 (14) Eu acho que
+5832840 5835300 (14) É o que faria sentido pra Joana
+5835300 5836300 (14, 03) Por um tempo
+5836300 5838300 (03) Tu fica sem saber
+5838300 5841540 (03) O que vai ser de você e de sua família
+5841540 5843640 (03) Mas tu é chamada
+5843640 5844600 (03) Depois desse tempo
+5844600 5846280 (03) Pra ir até
+5846280 5848740 (03) O regente, né
+5848740 5850780 (03) A pessoa que comanda aquele
+5850780 5852380 (03) Lugar ali
+5852380 5854360 (03) Vai até lá, eu imagino, né?
+5854660 5857200 (14, 03) Tu vai com roupa de xerife ou com roupa de nobre?
+5857200 5858460 (03) O xerife vai andar com
+5858500 5860560 (03) Uma calça, uma coisa mais inobre
+5860560 5862520 (03) Tem aqueles vestidos gigantescos, né?
+5862660 5864180 (14) Eu quero ir com
+5864180 5866340 (14) Uma roupa que
+5866340 5869600 (14) É mais próxima da nobreza
+5869600 5870580 (14) Mas
+5870580 5871760 (14) Não tão chique
+5871760 5874940 (14) Ela tá acostumada agora
+5874940 5876460 (14) Com a roupa de xerife
+5876460 5878980 (14) Então ela não se adaptou bem
+5878980 5880620 (14) A nobreza
+5880620 5881500 (14, 03) Perfeito
+5881500 5884840 (03) Tu tá numa mesa, assim, grande
+5884840 5887120 (03) Com bastante comida, bebida
+5887120 5888260 (03) Um cinto
+5888500 5889420 (03) Um senhor, assim, bem
+5889420 5891980 (03) Já de muita idade
+5891980 5894260 (03) Chamado Baldrick
+5894260 5896420 (03) Que é o regente, né? Ele olha pra ti
+5896420 5899060 (09, 03) Você fez o impensável, garota
+5899060 5900600 (14, 09) Senhor, eu
+5900600 5902120 (14) Cumpri a lei
+5902120 5904380 (14, 09) Aquele bostinha do Sugar
+5904380 5907160 (09) Realmente passava dos limites
+5907160 5908960 (09) Era um mau exemplo
+5908960 5910080 (09) Entre os nobres
+5910080 5911600 (09) Para a população em geral
+5911600 5914300 (09) Eu soube que o povo da região
+5914300 5915320 (09) Que você cuida
+5915320 5917540 (14, 09) Está muito feliz com você
+5917540 5918320 (09) Não é verdade?
+5918500 5921160 (14, 09) Feliz que esteja cumprindo o meu papel
+5921160 5922060 (14, 09) Oficialmente
+5922060 5923560 (09) O rapaz
+5923560 5925320 (09) O tal do Azad
+5925320 5926760 (09) Ficou com a culpa toda
+5926760 5928420 (09) Podemos deixar assim
+5928420 5931380 (14, 09) Ele veio rápido
+5931380 5934420 (14) Chegou cedo demais na nossa vida
+5934420 5936100 (14) Foi embora muito rápido
+5936100 5938520 (14) Queria ter agradecido ele melhor
+5938520 5940000 (14) Mas
+5940000 5942660 (14, 09) Ele sabe se virar
+5942660 5943640 (14, 09) Faremos assim
+5943640 5946000 (09) Mantemos a história
+5946000 5947720 (09) De que o tal Azad
+5948500 5949760 (09) É culpado de tudo
+5949760 5951880 (09) O imbecil do Sugar
+5951880 5954540 (09) É enterrado com as honras dele
+5954540 5956380 (09) E eu prometo
+5956380 5958400 (09) Ficar do seu lado nesse caso
+5958400 5960020 (09) Envolvendo os nobres
+5960020 5961440 (09) E talvez
+5961440 5964520 (09) Aumentar o investimento na sua região
+5964520 5965920 (09) Eu quero algo
+5965920 5968040 (09) Que não gere uma guerra
+5968040 5970340 (09) Entre o povo e nós
+5970340 5971640 (14, 09) Senhor Baldrick
+5971640 5973600 (14) Se eu puder dar uma sugestão
+5973600 5975280 (14) Quem sabe
+5975280 5977240 (14) A gente poderia conversar um pouco
+5977240 5978280 (14) Sobre as leis
+5978500 5979880 (14) Tem algumas coisas
+5979880 5981340 (14) Que nós poderíamos rever
+5981340 5984200 (14, 09, 03) Ele se recosta na cadeira
+5984200 5985380 (09, 03) Eu
+5985380 5988920 (09) Preciso chamar meus conselheiros
+5988920 5989360 (09) Mas
+5989360 5991620 (09) Acho justo
+5991620 5994080 (09, 03) O regente realmente se coloca
+5994080 5995680 (03) A disposição
+5995680 5998460 (03) Para leis mais antigas
+5998460 6000640 (03) E tentar criar um pouco
+6000640 6001060 (03) De
+6001060 6003660 (03) Diminuir um pouco a distância
+6003660 6005500 (03) Entre os dois lados
+6005500 6005960 (03) Ali
+6005960 6007260 (03) Dimitri
+6007260 6008440 (03) Depois de algum
+6008440 6009940 (03) Tempo procurando
+6009940 6011040 (03) Indo atrás
+6011040 6011940 (03) Tu recebeu
+6011940 6013760 (03) Informações
+6013760 6015120 (03) Sobre
+6015120 6016500 (03) Bruxas
+6016500 6017520 (03) Como essa
+6017520 6018700 (03) Que vivem
+6018700 6020300 (03) Muito além da floresta
+6020300 6021940 (03) E imagino
+6021940 6022920 (03) Que tu vai atrás disso
+6022920 6023880 (03) Que era o que tu queria
+6023880 6024580 (03) Encontrar alguém
+6024580 6025320 (03) Para substituir
+6025320 6026060 (03) Era isso, né?
+6026320 6027000 (06) Sim, sim
+6027000 6028280 (06) Ele vai ir tentar
+6028280 6029940 (06) Aprender alguma coisa com ela
+6029940 6031500 (06, 03) Depois de muito andar
+6031500 6032620 (03) Pela floresta
+6032620 6033520 (03) E
+6033520 6034780 (03) Junto com
+6034780 6036360 (03) O Merrick, inclusive
+6036360 6038020 (03) Ele te ajuda
+6038020 6038420 (03) Nessa
+6038440 6039220 (03) Tua busca
+6039220 6039380 (03) Ali
+6039380 6040360 (03) Vocês partem
+6040360 6042020 (03) Em algumas aventuras
+6042020 6042440 (03) Ali
+6042440 6044620 (03) Passam por algumas regiões
+6044620 6046320 (03) Até que vocês chegam
+6046320 6046980 (03) Num lugar
+6046980 6048340 (03) Atravessam o rio
+6048340 6049040 (03) O rio
+6049040 6049820 (03) Atravessam o rio
+6049820 6051920 (03) Num ponto muito específico
+6051920 6053840 (03) Atravessam, inclusive
+6053840 6055700 (03) Andando sobre ele
+6055700 6057120 (03) Vocês chegam ao lugar
+6057120 6059100 (03) Com muitas pessoas
+6059100 6060320 (03) Em especial
+6060320 6060940 (03) Mulheres
+6060940 6061860 (03) Assim
+6061860 6063180 (03) Dançando
+6063180 6064240 (03) Em volta de
+6064240 6065360 (03) Fogueiras
+6065360 6066080 (03) Eles estão rindo
+6066080 6066940 (03) Conversando
+6066940 6068140 (03) Parece ter uma
+6068140 6069940 (03) Uma festa acontecendo ali
+6069940 6071860 (03) Tu sente que há muitas pessoas
+6071860 6072740 (03) Como você
+6072740 6074040 (03) No meio daqueles
+6074040 6074820 (03) Daqueles ali
+6074820 6075880 (03) Poucos são
+6075880 6077640 (03) De carne e osso, né?
+6077740 6078240 (03) E não de
+6078240 6079440 (03) Carne e madeira
+6079440 6081280 (03) Como vocês dois são
+6081280 6083280 (03) Tu te sente aliviado
+6083280 6083880 (03) De estar no meio
+6083880 6084560 (03) Daquelas pessoas
+6084560 6086080 (03) Tu sabe que ali
+6086080 6087700 (03) Tu vai encontrar
+6087700 6088360 (03) Alguém
+6088360 6090020 (03) Que se encaixe
+6090020 6091220 (03) Para substituir
+6091220 6092080 (03) O espaço
+6092080 6093160 (03) Da Gisele
+6093160 6094400 (03) E mais do que isso
+6094400 6096140 (03) Sentado próximo
+6096140 6096960 (03) Da fogueira
+6096960 6096980 (03) Bebendo
+6098140 6099220 (03) E rindo
+6099220 6100240 (03) Tal azar
+6128140 6137360 (15) O escudo do mestre
+6137360 6138760 (15, 03) O escudo do mestre
+6138760 6139060 (03) Que é a atitude
+6139060 6139620 (03) Para pelar madeira
+6139620 6140000 (03) Que o mestre usa
+6140000 6140580 (03) Quando se notação
+6140580 6141360 (03) Nesse ambiente de dado
+6141360 6142260 (03) Mas aqui eu baixo
+6142260 6142760 (03) Para vocês
+6142760 6143600 (03) E conto tudo
+6143600 6144520 (03) O que aconteceu
+6144520 6145400 (03) No episódio
+6145400 6146380 (03) Esse episódio anterior
+6146380 6147680 (03) Deixou várias perguntas
+6147680 6148320 (03) Que eu não quis responder
+6148320 6148960 (03) No Guaxaverso
+6148960 6149540 (03) Agora
+6149540 6150580 (03) Eu não pretendo
+6150580 6151840 (03) Fazer uma trilogia
+6151840 6152860 (03) Eu não farei
+6152860 6153480 (03) Imediatamente
+6153480 6154560 (03) Uma terceira aventura
+6154560 6155980 (03) Se passando em um outro lugar
+6155980 6157080 (03) Ou coisa parecida
+6157080 6157540 (03) Então
+6157540 6158500 (03) Pode perguntar
+6158500 6159700 (03) O que vocês quiserem
+6159700 6160940 (03) Mas muita coisa
+6160940 6161560 (03) Ficou
+6161560 6163100 (03) Explícita
+6163100 6164480 (03) Tem uma conta
+6164480 6165140 (03) No Twitter
+6165140 6165960 (03) Que eu sigo
+6165960 6167260 (03) Que ela é fechada
+6167260 6168620 (03) Ela tem um
+6168620 6169600 (03) Cadeado
+6169600 6170340 (03) Mas
+6170340 6171100 (03) Dou a dica
+6171100 6171580 (03) Que essa pessoa
+6171580 6172380 (03) Já jogou um RPG
+6172380 6173460 (03) Boa sorte
+6173460 6174360 (03) Para descobrir quem é
+6174360 6175440 (03) E no comentário
+6175440 6177240 (03) Fixado desta pessoa
+6177240 6178240 (03) Ela fixou
+6178240 6178660 (03) Uma
+6178660 6180400 (03) Uma mulher
+6180400 6181660 (03) Fazendo uma espécie
+6181660 6182360 (03) De cosplay
+6182360 6183760 (03) Onde as juntas
+6183760 6184700 (03) Dos braços
+6184700 6186280 (03) Eram como se fossem
+6186280 6187240 (03) De uma marionete
+6187540 6188020 (03) Sabe
+6188020 6189300 (03) Como se ela fosse
+6189300 6191420 (03) Uma grande marionete
+6191420 6191900 (03) Humana
+6191900 6193260 (03) E sim
+6193260 6194220 (03) Foi olhando
+6194220 6195280 (03) Essa foto
+6195280 6196860 (03) Que eu tive a ideia
+6196860 6197920 (03) Do episódio de hoje
+6197920 6199820 (03) Todo o resto
+6199820 6200620 (03) Veio depois
+6200620 6200960 (03) Assim
+6200960 6201920 (03) Bruxaria
+6201920 6202420 (03) E tal
+6202420 6203840 (03) No episódio anterior
+6203840 6204720 (03) Bem
+6204720 6205400 (03) É melhor não falar
+6205400 6206200 (03) Do episódio anterior
+6206200 6207700 (03) Mas façam as ligações
+6207700 6208400 (03) Nos comentários
+6208400 6209460 (03) Que eu prometo responder
+6209460 6210180 (03) Tudo
+6210180 6211040 (03) Convido vocês
+6211040 6211600 (03) A seguir a agenda
+6211600 6212080 (03) Nas redes sociais
+6212080 6214540 (03) A votar no prêmio
+6214540 6215340 (03) MPB
+6215340 6216440 (03) Que é o melhor podcast
+6216440 6216940 (03) Do Brasil
+6216940 6217520 (03) Na categoria
+6217540 6218680 (03) Ficção e fantasia
+6218680 6219500 (03) Se você está lá
+6219500 6220000 (03) Votando
+6220000 6220820 (03) A nossa querida
+6220820 6221360 (03) Deus
+6221360 6222060 (03) A nossa querida
+6222060 6223040 (03) Agatha Sofia
+6223040 6224560 (03) Já jogou vários episódios
+6224560 6224800 (03) Aqui
+6224800 6225740 (03) Ela tem um podcast
+6225740 6226920 (03) De videogames
+6226920 6227920 (03) Eu convido você
+6227920 6228420 (03) A conhecer
+6228420 6228860 (03) Chamado
+6228860 6229880 (03) Buraco atrás do pôster
+6229880 6230800 (03) Além disso
+6230800 6231460 (03) Ela está concorrendo
+6231460 6231980 (03) Na categoria
+6231980 6233020 (03) Cultura pop
+6233020 6234180 (03) Então você pode ir lá
+6234180 6234840 (03) Além de votar
+6234840 6235600 (03) No RPG Guaxa
+6235600 6236800 (03) Se quiser
+6236800 6238140 (03) Pode votar na Agatha
+6238140 6239320 (03) Que ela merece também
+6239320 6239760 (03) Então
+6239760 6240740 (03) Buraco atrás do pôster
+6240740 6242380 (03) Em cultura pop
+6242380 6243460 (03) O nosso querido
+6243460 6244680 (03) Editor Rafael Zorzal
+6244680 6245520 (03) Como você sabe
+6245520 6246020 (03) Lançou um livro
+6246020 6246980 (03) Chamado Fraternal
+6246980 6247520 (03) Está vendo?
+6247540 6247800 (03) Está vendo lá
+6247800 6248900 (03) Na Amazon
+6248900 6250220 (03) Dá uma conferida lá
+6250220 6251340 (03) É um livro incrível
+6251340 6252660 (03) Quem tem o
+6252660 6253540 (03) Amazon Unlimited
+6254280 6255020 (03) Pelo menos
+6255020 6256080 (03) Até o fim de semana
+6256080 6256940 (03) Estava com ele
+6256940 6257420 (03) Gratuito
+6257420 6258320 (03) Dá uma conferida lá
+6258320 6259340 (03) Está bem bacana
+6259340 6260180 (03) O livro também
+6260180 6262000 (03) Recomendo a todos
+6262000 6263320 (03) Falando em Zorzal
+6263320 6264460 (03) Precisou de edição
+6264460 6265500 (03) Fala com o Rafael Zorzal
+6265500 6266080 (03) Nosso editor
+6266080 6266840 (03) Querido e amado
+6266840 6268500 (03) Do RPG Guaxa
+6268500 6268940 (03) Esse episódio
+6268940 6269640 (03) Teve a revisão
+6269640 6270220 (03) Da Ju
+6270220 6271240 (03) Eu não falei antes
+6271240 6272520 (03) Mas se você quiser
+6272520 6273440 (03) Apoiar esse projeto
+6273440 6274180 (03) De verdade
+6274180 6274820 (03) Vai no
+6274820 6276440 (03) Apoia.se
+6276440 6277520 (03) Barra
+6277520 6278960 (03) RP Guaxa
+6278960 6279760 (03) Lá a partir
+6279760 6280680 (03) De 10 reais
+6280680 6281560 (03) Fez a doação
+6281560 6282160 (03) De 10 reais
+6282160 6283140 (03) Tem um post lá
+6283140 6283700 (03) Com o Cardeado
+6283700 6284360 (03) Que vai liberar
+6284360 6284860 (03) Para você
+6284860 6285920 (03) Nesse post
+6285920 6286400 (03) Tem o link
+6286400 6286920 (03) Para ir direto
+6286920 6287340 (03) Para o nosso
+6287340 6288040 (03) Telegram
+6288040 6289320 (03) Lá ele se divide
+6289320 6290720 (03) Em várias subcategorias
+6290720 6291920 (03) Tem grupos
+6291920 6294080 (03) Maravilhosos lá
+6294080 6295020 (03) Não só o grupo
+6295020 6295480 (03) Principal
+6295480 6296440 (03) Como tem o grupo
+6296440 6296980 (03) De spoiler
+6296980 6297520 (03) Tem o grupo
+6297520 6298500 (03) De anime
+6298500 6299440 (03) Tem o
+6299440 6300000 (03) Que na verdade
+6300000 6300780 (03) É o grupo de otaku
+6300780 6301960 (03) Eu discuto muito mais
+6301960 6303300 (03) Mangá lá
+6303300 6304360 (03) One Piece
+6304360 6305040 (03) Principalmente
+6305040 6306080 (03) Do que qualquer
+6306080 6306720 (03) Outra obra
+6306720 6307480 (03) No momento
+6307520 6308260 (03) Mas tem o grupo
+6308260 6309180 (03) De videogames
+6309180 6310220 (03) Tem o grupo
+6310220 6310900 (03) De spoilers
+6310900 6311600 (03) Dos episódios
+6311600 6312400 (03) Você recebe os episódios
+6312400 6312800 (03) Antes
+6312800 6313440 (03) Tem o grupo
+6313440 6314620 (03) Das irmãs da taberna
+6314620 6316020 (03) Só para as meninas
+6316020 6316580 (03) Tem o grupo
+6316580 6317320 (03) Pessoal além
+6317320 6318200 (03) Do arco-íris
+6318200 6319200 (03) É uma comunidade
+6319200 6319940 (03) Extremamente
+6319940 6321020 (03) Receptiva
+6321020 6321720 (03) Inclusiva
+6321720 6323080 (03) Eu recomendo
+6323080 6324300 (03) Eu convido você
+6324300 6325280 (03) A fazer parte
+6325280 6326620 (03) Mas acima de tudo isso
+6326620 6327620 (03) Eu convido você
+6327620 6328160 (03) A ajudar
+6328160 6329140 (03) Esse projeto
+6329140 6330440 (03) Para continuar existindo
+6330440 6331120 (03) O RP Guaxa
+6331120 6331780 (03) É um hobby
+6331780 6332560 (03) Meu gente
+6332560 6333200 (03) O RP Guaxa
+6333200 6334420 (03) É só um hobby
+6334420 6335240 (03) Eu pago
+6335240 6335980 (03) A edição
+6335980 6336860 (03) Tem outros custos
+6336860 6337360 (03) Envolvidos
+6337360 6338080 (03) Com ele aqui
+6338080 6339120 (03) Não é o que paga
+6339120 6339860 (03) As minhas contas
+6339860 6341500 (03) Infelizmente
+6341500 6342860 (03) Mas é uma coisa
+6342860 6344160 (03) Que consome tempo
+6344160 6344660 (03) Eu sou pai
+6344660 6345120 (03) De uma menina
+6345120 6345980 (03) De 11 anos
+6345980 6346880 (03) Está crescendo bastante
+6346880 6347980 (03) Está ouvindo o RP Guaxa agora
+6347980 6348860 (03) Estou bem feliz com isso
+6348860 6350540 (03) Sou casado
+6350540 6351280 (03) Tenho um emprego
+6351280 6352880 (03) De 8 horas semanais
+6352880 6353940 (03) Que me consome 9
+6353940 6354400 (03) Porque eu tenho
+6354400 6355220 (03) Hora de almoço
+6355220 6356220 (03) Mais deslocamento
+6356220 6356640 (03) Para ir
+6356640 6357460 (03) Mais deslocamento
+6357460 6357980 (03) Para voltar
+6357980 6358740 (03) Então assim
+6358740 6359620 (03) É um tempo
+6359620 6360880 (03) Que eu tenho muito escasso
+6360880 6362340 (03) E que eu gasto
+6362340 6363080 (03) Nesse projeto
+6363080 6364280 (03) E poxa
+6364280 6365180 (03) Uma maneira
+6365180 6366200 (03) De você apoiar
+6366200 6366780 (03) Esse projeto
+6366780 6367140 (03) A continuar
+6367140 6368220 (03) Me motivando
+6368220 6370220 (03) É apoiando ele
+6370220 6371660 (03) Em apoia.se
+6371660 6372120 (03) Barra
+6372120 6373380 (03) RP Guaxa
+6373380 6374000 (03) Uma das
+6374000 6374840 (03) Vantagens
+6374840 6376020 (03) Que você vai ter fazendo isso
+6376020 6376820 (03) É poder fazer
+6376820 6377740 (03) Vros de NPC
+6377740 6378560 (03) Porque eu gravo
+6378560 6379100 (03) O episódio
+6379100 6380240 (03) Como se fosse
+6380240 6380760 (03) Uma
+6380760 6382340 (03) Eu gravo ele
+6382340 6383580 (03) Como um RPG mesmo
+6383580 6384640 (03) Lá no
+6384640 6385380 (03) Discord
+6385380 6386320 (03) E depois
+6386320 6386960 (03) Na edição
+6386960 6387880 (03) A gente tira
+6387880 6388700 (03) As minhas vozes
+6388700 6389580 (03) As minhas falas
+6389580 6390260 (03) Tipo
+6390260 6390500 (03) Eu
+6390500 6392500 (03) Aprendiz do
+6392500 6394480 (03) Aprendiz do taberneiro
+6394480 6395940 (03) Eu fiz a voz dela
+6395940 6396640 (03) Quando eu estava
+6396640 6397120 (03) Narrando
+6397120 6397900 (03) Mas depois
+6397900 6398740 (03) Na hora da edição
+6398740 6399980 (03) A gente troca
+6399980 6401180 (03) Essas vozes
+6401180 6401840 (03) Então
+6401840 6402940 (03) Os padrinhos
+6402940 6404200 (03) Fazem essas vozes
+6404200 6404860 (03) Para mim
+6404860 6405680 (03) Então vamos lá
+6405680 6406760 (03) A burga
+6406760 6407820 (03) A ajudante
+6407820 6408960 (03) Do ferreiro
+6408960 6409420 (03) Foi feita pela
+6409420 6410640 (03) Rafaela Malecheschi
+6410640 6411680 (03) A criança
+6411680 6412620 (03) No episódio
+6412620 6413480 (03) Foi feita pela
+6413480 6414460 (03) Ana Lilia
+6414460 6415500 (03) Lá a filhinha
+6415500 6416100 (03) Do nosso querido
+6416100 6417800 (03) Padrinho Anderson
+6417800 6418960 (03) Ela não é madrinha
+6418960 6419560 (03) O pai dela
+6419560 6420000 (03) É o grupo
+6420000 6421280 (03) Destinado a maiores de 18
+6421280 6422100 (03) A gente mais
+6422100 6423240 (03) Indiretamente
+6423240 6423880 (03) Ela participa
+6423880 6424800 (03) Graças ao pai dela
+6424800 6425460 (03) O ferreiro
+6425460 6426060 (03) Foi feito pelo
+6426060 6426600 (03) Estênio
+6426600 6427500 (03) A governanta
+6427500 6428060 (03) Foi feito
+6428060 6429080 (03) Pela Dani
+6429080 6430100 (03) O
+6430100 6431420 (03) Inexistente
+6431420 6432460 (03) Fez o
+6432460 6433120 (03) Baldrick
+6433120 6434500 (03) A Lady Sugar
+6434500 6435240 (03) Foi feito
+6435240 6436160 (03) Pela Deba
+6436160 6437480 (03) O Leofric
+6437480 6438880 (03) O grande vilão
+6438880 6439640 (03) Da aventura de hoje
+6439640 6440160 (03) Foi feito pelo
+6440160 6440560 (03) Tic
+6440560 6441640 (03) O Merrick
+6441640 6442640 (03) Foi feito pelo
+6442640 6443620 (03) Rafael Andrade
+6443620 6444620 (03) As duas moças
+6444620 6445480 (03) Que conversam lá
+6445480 6445940 (03) Na cidade
+6445940 6447080 (03) Na parte mais pobre
+6447080 6448200 (03) Foi feito pela
+6448200 6448780 (03) Thaís Uzu
+6448780 6450220 (03) E pela Rebelbia
+6450220 6451060 (03) O pescador
+6451060 6451680 (03) Foi feito pelo
+6451680 6452280 (03) Andrei
+6452280 6453200 (03) Pelo psicopato
+6453200 6454160 (03) E a Tarine
+6454160 6455500 (03) Fez a idosinha
+6455500 6456280 (03) Lá da casa
+6456280 6457580 (03) Ficou maravilhosa
+6457580 6458660 (03) Obrigado
+6458660 6459880 (03) A todos vocês
+6459880 6461080 (03) Que deram voz ao episódio
+6461080 6462180 (03) Obrigado a todos vocês
+6462180 6463200 (03) Que fazem esse sonho
+6463200 6463920 (03) Ser possível
+6463920 6465280 (03) E lembrem sempre
+6465280 6466080 (03) Rola em 6
+6466080 6466680 (03) Rola em 20
+6466680 6467380 (03) Depende do sistema
+6467380 6468300 (03) Que vocês estão jogando
+6468300 6469280 (03) Mas dependendo disso
+6469280 6470260 (03) Se der tudo errado
+6470260 6470860 (03) Rola no chão
+6470860 6471880 (03) Que apaga o fogo
+6471880 6472360 (03) E diverte
+6472360 6472820 (03) Um beijo no coração
+6472820 6473640 (03) De vocês gente
+6486280 6488280 (unknown) , não se esqueçam de deixar o seu like
+6488280 6489280 (unknown) Se inscrever no canal
+6489280 6490280 (01) E ativar as notificações
+6490280 6491280 (01) Para receber notificações de novos vídeos
+6491280 6492280 (01) Muitos são os números
+6492280 6493280 (01) Que regem o multiverso
+6493280 6494280 (01) Sete realidades paralelas
+6494280 6495280 (01) Que já foram três
+6495280 6496280 (01) Quatro linhas sagradas
+6496280 6497280 (01) Uma linha vazia
+6497280 6498280 (01) E duas preenchidas de escuridão
+6498280 6499280 (01) Um guaxinim representando um
+6499280 6500280 (01) Três meninas segurando um seis
+6500280 6501280 (01) E uma infinidade de possibilidades
+6501280 6502280 (01) Entre eles
+6502280 6503280 (01) E você
+6503280 6504280 (01) Qual o seu número?
+6504280 6505280 (01) Você
+6505280 6506280 (01) Você
+6506280 6507280 (01) Você
+6507280 6508280 (01) Você
+6508280 6509280 (01) Você
+6509280 6510280 (01) Você
+6510280 6511280 (01) Você
+6511280 6512280 (01) Você
+6512280 6513280 (01) Você
+6513280 6514280 (01) Você
+6514280 6515280 (unknown) Você
+6515280 6516280 (unknown) Você
+6516280 6517280 (unknown) Você
+6517280 6518280 (unknown) Você
+6518280 6518780 (unknown) Você
